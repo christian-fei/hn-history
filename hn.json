@@ -2,7 +2,7 @@
   {
     "title": "Iron, How Did They Make It, Addendum: Crucible Steel and Cast Iron",
     "url": "https://acoup.blog/2020/11/06/collections-iron-how-did-they-make-it-addendum-crucible-steel-and-cast-iron/",
-    "upvotes": 47,
+    "upvotes": 55,
     "author": "jrott",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25010280"
@@ -10,7 +10,7 @@
   {
     "title": "A Linux sysadmin's introduction to cgroups",
     "url": "https://www.redhat.com/sysadmin/cgroups-part-one",
-    "upvotes": 183,
+    "upvotes": 190,
     "author": "FedericoRazzoli",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25008941"
@@ -18,25 +18,33 @@
   {
     "title": "Technical debt as a lack of understanding",
     "url": "https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/",
-    "upvotes": 264,
+    "upvotes": 271,
     "author": "BerislavLopac",
-    "comments": 108,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=25008587"
   },
   {
     "title": "Every possible pun of the form ‘You put the X in Y’",
     "url": "https://www.locserendipity.com/PunGenLink.html",
-    "upvotes": 36,
+    "upvotes": 42,
     "author": "westcort",
-    "comments": 41,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=25010565"
+  },
+  {
+    "title": "Whole Foods grocery chain bans Canadian employees from wearing poppies",
+    "url": "https://www.cbc.ca/news/canada/ottawa/whole-foods-bans-poppies-1.5791551",
+    "upvotes": 30,
+    "author": "laurex",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=25010842"
   },
   {
     "title": "Standing on our own two feet",
     "url": "https://letsencrypt.org/2020/11/06/own-two-feet.html",
-    "upvotes": 207,
+    "upvotes": 212,
     "author": "gpff",
-    "comments": 73,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=25008748"
   },
   {
@@ -46,55 +54,47 @@
   {
     "title": "World’s fastest open-source intrusion detection is here",
     "url": "https://www.cylab.cmu.edu/news/2020/11/05-intrusion.html",
-    "upvotes": 14,
+    "upvotes": 18,
     "author": "lelf",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25010802"
   },
   {
+    "title": "What “Roguelike” Meant",
+    "url": "https://zenorogue.medium.com/what-roguelike-meant-fb8b0e1601a",
+    "upvotes": 12,
+    "author": "pavel_lishin",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25010776"
+  },
+  {
     "title": "Ray Tracer Sandbox in Vulkan",
     "url": "https://github.com/Zielon/PBRVulkan",
-    "upvotes": 58,
+    "upvotes": 59,
     "author": "wyldfire",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25009373"
   },
   {
-    "title": "What “Roguelike” Meant",
-    "url": "https://zenorogue.medium.com/what-roguelike-meant-fb8b0e1601a",
-    "upvotes": 7,
-    "author": "pavel_lishin",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25010776"
-  },
-  {
-    "title": "Whole Foods grocery chain bans Canadian employees from wearing poppies",
-    "url": "https://www.cbc.ca/news/canada/ottawa/whole-foods-bans-poppies-1.5791551",
-    "upvotes": 18,
-    "author": "laurex",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25010842"
+    "title": "Gimp 2.99.2 – GTK3 user interface toolkit",
+    "url": "https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/",
+    "upvotes": 61,
+    "author": "constantinum",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=25010462"
   },
   {
     "title": "Deprecating scp",
     "url": "https://lwn.net/SubscriberLink/835962/ae41b27bc20699ad/",
-    "upvotes": 577,
+    "upvotes": 582,
     "author": "Tomte",
-    "comments": 302,
+    "comments": 305,
     "link": "https://news.ycombinator.com/item?id=25005567"
-  },
-  {
-    "title": "Gimp 2.99.2 – GTK3 user interface toolkit",
-    "url": "https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/",
-    "upvotes": 50,
-    "author": "constantinum",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=25010462"
   },
   {
     "title": "What’s the Role of Developer Experience in Programming Languages Research?",
     "url": "https://blog.sigplan.org/2020/10/27/whats-the-role-of-developer-experience-in-programming-languages-research/",
-    "upvotes": 66,
+    "upvotes": 67,
     "author": "azhenley",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25008936"
@@ -102,7 +102,7 @@
   {
     "title": "PyMC: Theano Is Dead, Long Live Theano",
     "url": "https://pymc-devs.medium.com/the-future-of-pymc3-or-theano-is-dead-long-live-theano-d8005f8a0e9b",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "harperlee",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=24997736"
@@ -110,34 +110,50 @@
   {
     "title": "AI Expert Roadmap",
     "url": "https://i.am.ai/roadmap",
-    "upvotes": 121,
+    "upvotes": 123,
     "author": "simonpure",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25010114"
-  },
-  {
-    "title": "HP Instant Ink is “ink as a service”",
-    "url": "https://pluralistic.net/2020/11/06/horrible-products/#inkwars",
-    "upvotes": 342,
-    "author": "samizdis",
-    "comments": 196,
-    "link": "https://news.ycombinator.com/item?id=25008894"
   },
   {
     "title": "Gron – Make JSON Greppable",
     "url": "https://github.com/tomnomnom/gron",
-    "upvotes": 291,
+    "upvotes": 294,
     "author": "capableweb",
-    "comments": 69,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=25006277"
+  },
+  {
+    "title": "A one hundred thousand-fold enhancement in the nonlinearity of silicon",
+    "url": "https://phys.org/news/2020-11-thousand-fold-nonlinearity-silicon.html",
+    "upvotes": 32,
+    "author": "bookofjoe",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=24997573"
+  },
+  {
+    "title": "HP Instant Ink is “ink as a service”",
+    "url": "https://pluralistic.net/2020/11/06/horrible-products/#inkwars",
+    "upvotes": 351,
+    "author": "samizdis",
+    "comments": 198,
+    "link": "https://news.ycombinator.com/item?id=25008894"
   },
   {
     "title": "Intel’s palpable desperation on display with Rocket Lake",
     "url": "https://semiaccurate.com/2020/10/29/intels-palpable-desperation-on-display-with-rocket-lake/",
-    "upvotes": 65,
+    "upvotes": 70,
     "author": "rwmj",
-    "comments": 57,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=25008159"
+  },
+  {
+    "title": "Mayastor: Lightning Fast Storage for Kubernetes",
+    "url": "https://www.percona.com/community-blog/2020/10/23/mayastor-lightning-fast-storage-for-kubernetes/",
+    "upvotes": 7,
+    "author": "botayhard",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25010624"
   },
   {
     "title": "The Die Is Cast: Hardware Security Is Not Assured",
@@ -148,36 +164,36 @@
     "link": "https://news.ycombinator.com/item?id=25007956"
   },
   {
-    "title": "A one hundred thousand-fold enhancement in the nonlinearity of silicon",
-    "url": "https://phys.org/news/2020-11-thousand-fold-nonlinearity-silicon.html",
-    "upvotes": 29,
-    "author": "bookofjoe",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=24997573"
-  },
-  {
-    "title": "Ultra Secure Password Storage with NitroPepper",
-    "url": "https://www.sentiatechblog.com/ultra-secure-password-storage-with-nitropepper",
-    "upvotes": 7,
-    "author": "arkadiyt",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25010709"
+    "title": "The Joys of Being a Stoic",
+    "url": "http://nautil.us/issue/92/frontiers/the-joys-of-being-a-stoic",
+    "upvotes": 154,
+    "author": "fluctuation",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=25006726"
   },
   {
     "title": "Why Typing Erlang is Hard: Standard Erlang",
     "url": "https://abstractmachines.dev/posts/am012-why-typing-erlang-is-hard.html",
-    "upvotes": 110,
+    "upvotes": 111,
     "author": "leostera",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=25007045"
   },
   {
-    "title": "The Joys of Being a Stoic",
-    "url": "http://nautil.us/issue/92/frontiers/the-joys-of-being-a-stoic",
-    "upvotes": 150,
-    "author": "fluctuation",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=25006726"
+    "title": "Ultra Secure Password Storage with NitroPepper",
+    "url": "https://www.sentiatechblog.com/ultra-secure-password-storage-with-nitropepper",
+    "upvotes": 11,
+    "author": "arkadiyt",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25010709"
+  },
+  {
+    "title": "Ask HN: As a person, what can I do to improve a city?",
+    "url": "item?id=25007697",
+    "upvotes": 322,
+    "author": "davidn20",
+    "comments": 245,
+    "link": "https://news.ycombinator.com/item?id=25007697"
   },
   {
     "title": "Hooking Up Our Custom OS to a Standard Library",
@@ -188,20 +204,12 @@
     "link": "https://news.ycombinator.com/item?id=25008953"
   },
   {
-    "title": "Mayastor: Lightning Fast Storage for Kubernetes",
-    "url": "https://www.percona.com/community-blog/2020/10/23/mayastor-lightning-fast-storage-for-kubernetes/",
-    "upvotes": 5,
-    "author": "botayhard",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25010624"
-  },
-  {
-    "title": "Ask HN: As a person, what can I do to improve a city?",
-    "url": "item?id=25007697",
-    "upvotes": 318,
-    "author": "davidn20",
-    "comments": 244,
-    "link": "https://news.ycombinator.com/item?id=25007697"
+    "title": "A Gopher View of Gemini",
+    "url": "https://oldvcr.blogspot.com/2020/11/a-gopher-view-of-gemini.html",
+    "upvotes": 28,
+    "author": "todsacerdoti",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25005307"
   },
   {
     "title": "Show HN: A Django code review bot for GitHub pull requests",
@@ -212,27 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=25007046"
   },
   {
-    "title": "A Gopher View of Gemini",
-    "url": "https://oldvcr.blogspot.com/2020/11/a-gopher-view-of-gemini.html",
-    "upvotes": 24,
-    "author": "todsacerdoti",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25005307"
-  },
-  {
     "title": "Jack Ma fell to earth and took Ant's mega IPO with him",
     "url": "https://www.reuters.com/article/ant-group-ipo-suspension-regulators/how-billionaire-jack-ma-fell-to-earth-and-took-ants-mega-ipo-with-him-idUSKBN27L2GX",
-    "upvotes": 199,
+    "upvotes": 200,
     "author": "Tenoke",
-    "comments": 194,
+    "comments": 195,
     "link": "https://news.ycombinator.com/item?id=25005880"
   },
   {
     "title": "SQL.js: SQLite Compiled to JavaScript",
     "url": "https://sql.js.org/#/",
-    "upvotes": 41,
+    "upvotes": 45,
     "author": "chmaynard",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25008308"
   }
 ]
