@@ -2,50 +2,58 @@
   {
     "title": "Iron, How Did They Make It, Addendum: Crucible Steel and Cast Iron",
     "url": "https://acoup.blog/2020/11/06/collections-iron-how-did-they-make-it-addendum-crucible-steel-and-cast-iron/",
-    "upvotes": 114,
+    "upvotes": 117,
     "author": "jrott",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25010280"
   },
   {
-    "title": "A Linux sysadmin's introduction to cgroups",
-    "url": "https://www.redhat.com/sysadmin/cgroups-part-one",
-    "upvotes": 227,
-    "author": "FedericoRazzoli",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=25008941"
-  },
-  {
     "title": "Technical debt as a lack of understanding",
     "url": "https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/",
-    "upvotes": 315,
+    "upvotes": 324,
     "author": "BerislavLopac",
-    "comments": 163,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=25008587"
+  },
+  {
+    "title": "A Linux sysadmin's introduction to cgroups",
+    "url": "https://www.redhat.com/sysadmin/cgroups-part-one",
+    "upvotes": 228,
+    "author": "FedericoRazzoli",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=25008941"
   },
   {
     "title": "Fast open-source intrusion detection",
     "url": "https://www.cylab.cmu.edu/news/2020/11/05-intrusion.html",
-    "upvotes": 51,
+    "upvotes": 53,
     "author": "lelf",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25010802"
+  },
+  {
+    "title": "Standing on our own two feet",
+    "url": "https://letsencrypt.org/2020/11/06/own-two-feet.html",
+    "upvotes": 253,
+    "author": "gpff",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=25008748"
   },
   {
     "title": "100 Years on a Dirty Dog: The History of Greyhound",
     "url": "https://www.mentalfloss.com/article/54273/100-years-dirty-dog-history-greyhound",
     "upvotes": 9,
     "author": "never-the-bride",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25011722"
   },
   {
-    "title": "Standing on our own two feet",
-    "url": "https://letsencrypt.org/2020/11/06/own-two-feet.html",
-    "upvotes": 249,
-    "author": "gpff",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=25008748"
+    "title": "What “Roguelike” Meant",
+    "url": "https://zenorogue.medium.com/what-roguelike-meant-fb8b0e1601a",
+    "upvotes": 55,
+    "author": "pavel_lishin",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=25010776"
   },
   {
     "title": "Privacy-preserving features in the Mobile Driving License",
@@ -56,28 +64,28 @@
     "link": "https://news.ycombinator.com/item?id=25011428"
   },
   {
-    "title": "PyMC: Theano Is Dead, Long Live Theano",
-    "url": "https://pymc-devs.medium.com/the-future-of-pymc3-or-theano-is-dead-long-live-theano-d8005f8a0e9b",
-    "upvotes": 49,
-    "author": "harperlee",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=24997736"
-  },
-  {
-    "title": "What “Roguelike” Meant",
-    "url": "https://zenorogue.medium.com/what-roguelike-meant-fb8b0e1601a",
-    "upvotes": 51,
-    "author": "pavel_lishin",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=25010776"
+    "title": "How extremophilic bacteria survive in space for one year",
+    "url": "https://medienportal.univie.ac.at/presse/aktuelle-pressemeldungen/detailansicht/artikel/microbial-space-travel-on-a-molecular-scale/",
+    "upvotes": 6,
+    "author": "hhs",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25011807"
   },
   {
     "title": "Gimp 2.99.2 – GTK3 user interface toolkit",
     "url": "https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/",
-    "upvotes": 104,
+    "upvotes": 111,
     "author": "constantinum",
-    "comments": 56,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=25010462"
+  },
+  {
+    "title": "PyMC: Theano Is Dead, Long Live Theano",
+    "url": "https://pymc-devs.medium.com/the-future-of-pymc3-or-theano-is-dead-long-live-theano-d8005f8a0e9b",
+    "upvotes": 51,
+    "author": "harperlee",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=24997736"
   },
   {
     "title": "Dover",
@@ -94,7 +102,7 @@
   {
     "title": "Frequency Domain Image Compression and Filtering",
     "url": "https://blog.demofox.org/2020/11/04/frequency-domain-image-compression-and-filtering/",
-    "upvotes": 15,
+    "upvotes": 16,
     "author": "vonadz",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=24997191"
@@ -110,26 +118,34 @@
   {
     "title": "What’s the Role of Developer Experience in Programming Languages Research?",
     "url": "https://blog.sigplan.org/2020/10/27/whats-the-role-of-developer-experience-in-programming-languages-research/",
-    "upvotes": 79,
+    "upvotes": 80,
     "author": "azhenley",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25008936"
   },
   {
+    "title": "Intel’s palpable desperation on display with Rocket Lake",
+    "url": "https://semiaccurate.com/2020/10/29/intels-palpable-desperation-on-display-with-rocket-lake/",
+    "upvotes": 101,
+    "author": "rwmj",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=25008159"
+  },
+  {
     "title": "Carrosses à Cinq Sols",
     "url": "https://en.wikipedia.org/wiki/Carrosses_à_cinq_sols",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "pepys",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25005692"
   },
   {
-    "title": "Intel’s palpable desperation on display with Rocket Lake",
-    "url": "https://semiaccurate.com/2020/10/29/intels-palpable-desperation-on-display-with-rocket-lake/",
-    "upvotes": 97,
-    "author": "rwmj",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=25008159"
+    "title": "Gron – Make JSON Greppable",
+    "url": "https://github.com/tomnomnom/gron",
+    "upvotes": 318,
+    "author": "capableweb",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=25006277"
   },
   {
     "title": "A one hundred thousand-fold enhancement in the nonlinearity of silicon",
@@ -140,44 +156,20 @@
     "link": "https://news.ycombinator.com/item?id=24997573"
   },
   {
-    "title": "Gron – Make JSON Greppable",
-    "url": "https://github.com/tomnomnom/gron",
-    "upvotes": 317,
-    "author": "capableweb",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=25006277"
-  },
-  {
-    "title": "How extremophilic bacteria survive in space for one year",
-    "url": "https://medienportal.univie.ac.at/presse/aktuelle-pressemeldungen/detailansicht/artikel/microbial-space-travel-on-a-molecular-scale/",
-    "upvotes": 4,
-    "author": "hhs",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25011807"
-  },
-  {
     "title": "The Joys of Being a Stoic",
     "url": "http://nautil.us/issue/92/frontiers/the-joys-of-being-a-stoic",
-    "upvotes": 170,
+    "upvotes": 171,
     "author": "fluctuation",
-    "comments": 104,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=25006726"
   },
   {
     "title": "HP Instant Ink is “ink as a service”",
     "url": "https://pluralistic.net/2020/11/06/horrible-products/#inkwars",
-    "upvotes": 390,
+    "upvotes": 394,
     "author": "samizdis",
-    "comments": 235,
+    "comments": 239,
     "link": "https://news.ycombinator.com/item?id=25008894"
-  },
-  {
-    "title": "Learning From Quibi",
-    "url": "https://salildalvi.substack.com/p/learning-from-quibi",
-    "upvotes": 3,
-    "author": "who-knows",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25011734"
   },
   {
     "title": "The Die Is Cast: Hardware Security Is Not Assured",
@@ -188,12 +180,12 @@
     "link": "https://news.ycombinator.com/item?id=25007956"
   },
   {
-    "title": "AI Expert Roadmap",
-    "url": "https://i.am.ai/roadmap",
-    "upvotes": 144,
-    "author": "simonpure",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=25010114"
+    "title": "Learning From Quibi",
+    "url": "https://salildalvi.substack.com/p/learning-from-quibi",
+    "upvotes": 5,
+    "author": "who-knows",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25011734"
   },
   {
     "title": "Why Typing Erlang is Hard: Standard Erlang",
@@ -204,17 +196,25 @@
     "link": "https://news.ycombinator.com/item?id=25007045"
   },
   {
+    "title": "AI Expert Roadmap",
+    "url": "https://i.am.ai/roadmap",
+    "upvotes": 144,
+    "author": "simonpure",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=25010114"
+  },
+  {
     "title": "Ask HN: As a person, what can I do to improve a city?",
     "url": "item?id=25007697",
-    "upvotes": 356,
+    "upvotes": 360,
     "author": "davidn20",
-    "comments": 261,
+    "comments": 264,
     "link": "https://news.ycombinator.com/item?id=25007697"
   },
   {
     "title": "Ultra Secure Password Storage with NitroPepper",
     "url": "https://www.sentiatechblog.com/ultra-secure-password-storage-with-nitropepper",
-    "upvotes": 20,
+    "upvotes": 21,
     "author": "arkadiyt",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25010709"
@@ -222,9 +222,9 @@
   {
     "title": "SQL.js: SQLite Compiled to JavaScript",
     "url": "https://sql.js.org/#/",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "chmaynard",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25008308"
   },
   {
