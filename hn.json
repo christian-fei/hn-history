@@ -2,98 +2,106 @@
   {
     "title": "AI Expert Roadmap",
     "url": "https://i.am.ai/roadmap",
-    "upvotes": 67,
+    "upvotes": 92,
     "author": "simonpure",
-    "comments": 13,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25010114"
   },
   {
     "title": "A Linux sysadmin's introduction to cgroups",
     "url": "https://www.redhat.com/sysadmin/cgroups-part-one",
-    "upvotes": 164,
+    "upvotes": 173,
     "author": "FedericoRazzoli",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25008941"
   },
   {
     "title": "Technical debt as a lack of understanding",
     "url": "https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/",
-    "upvotes": 225,
+    "upvotes": 243,
     "author": "BerislavLopac",
-    "comments": 98,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=25008587"
-  },
-  {
-    "title": "Standing on our own two feet",
-    "url": "https://letsencrypt.org/2020/11/06/own-two-feet.html",
-    "upvotes": 178,
-    "author": "gpff",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=25008748"
   },
   {
     "title": "Collections: Iron, How Did They Make It, Addendum: Crucible Steel and Cast Iron",
     "url": "https://acoup.blog/2020/11/06/collections-iron-how-did-they-make-it-addendum-crucible-steel-and-cast-iron/",
-    "upvotes": 20,
+    "upvotes": 33,
     "author": "jrott",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25010280"
   },
   {
+    "title": "Standing on our own two feet",
+    "url": "https://letsencrypt.org/2020/11/06/own-two-feet.html",
+    "upvotes": 192,
+    "author": "gpff",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=25008748"
+  },
+  {
+    "title": "Gimp 2.99.2 – GTK3 user interface toolkit",
+    "url": "https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/",
+    "upvotes": 25,
+    "author": "constantinum",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25010462"
+  },
+  {
+    "title": "I calculated every possible pun of the form ‘You put the X in Y.’ Enjoy",
+    "url": "https://www.locserendipity.com/PunGenLink.html",
+    "upvotes": 17,
+    "author": "westcort",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25010565"
+  },
+  {
     "title": "Ray Tracer Sandbox in Vulkan",
     "url": "https://github.com/Zielon/PBRVulkan",
-    "upvotes": 47,
+    "upvotes": 55,
     "author": "wyldfire",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25009373"
   },
   {
     "title": "Deprecating scp",
     "url": "https://lwn.net/SubscriberLink/835962/ae41b27bc20699ad/",
-    "upvotes": 566,
+    "upvotes": 571,
     "author": "Tomte",
-    "comments": 296,
+    "comments": 300,
     "link": "https://news.ycombinator.com/item?id=25005567"
   },
   {
     "title": "What’s the Role of Developer Experience in Programming Languages Research?",
     "url": "https://blog.sigplan.org/2020/10/27/whats-the-role-of-developer-experience-in-programming-languages-research/",
-    "upvotes": 58,
+    "upvotes": 61,
     "author": "azhenley",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25008936"
   },
   {
-    "title": "HP ends its customers’ lives",
-    "url": "https://pluralistic.net/2020/11/06/horrible-products/#inkwars",
-    "upvotes": 283,
-    "author": "samizdis",
-    "comments": 162,
-    "link": "https://news.ycombinator.com/item?id=25008894"
-  },
-  {
     "title": "Gron – Make JSON Greppable",
     "url": "https://github.com/tomnomnom/gron",
-    "upvotes": 280,
+    "upvotes": 285,
     "author": "capableweb",
-    "comments": 64,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=25006277"
-  },
-  {
-    "title": "Gimp 2.99.2 – GTK3 user interface toolkit",
-    "url": "https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/",
-    "upvotes": 5,
-    "author": "constantinum",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25010462"
   },
   {
     "title": "The Die Is Cast: Hardware Security Is Not Assured",
     "url": "https://queue.acm.org/detail.cfm?id=3431245",
-    "upvotes": 45,
+    "upvotes": 47,
     "author": "yarapavan",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25007956"
+  },
+  {
+    "title": "HP ends its customers’ lives",
+    "url": "https://pluralistic.net/2020/11/06/horrible-products/#inkwars",
+    "upvotes": 319,
+    "author": "samizdis",
+    "comments": 177,
+    "link": "https://news.ycombinator.com/item?id=25008894"
   },
   {
     "title": "Double Robotics",
@@ -102,31 +110,23 @@
   {
     "title": "Why Typing Erlang is Hard: Standard Erlang",
     "url": "https://abstractmachines.dev/posts/am012-why-typing-erlang-is-hard.html",
-    "upvotes": 106,
+    "upvotes": 110,
     "author": "leostera",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25007045"
   },
   {
     "title": "A one hundred thousand-fold enhancement in the nonlinearity of silicon",
     "url": "https://phys.org/news/2020-11-thousand-fold-nonlinearity-silicon.html",
-    "upvotes": 24,
+    "upvotes": 26,
     "author": "bookofjoe",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=24997573"
-  },
-  {
-    "title": "Ask HN: As a person, what can I do to improve a city?",
-    "url": "item?id=25007697",
-    "upvotes": 296,
-    "author": "davidn20",
-    "comments": 234,
-    "link": "https://news.ycombinator.com/item?id=25007697"
   },
   {
     "title": "Hooking Up Our Custom OS to a Standard Library",
     "url": "https://blog.stephenmarz.com/2020/10/25/hooking-up-our-custom-os-to-a-standard-library/",
-    "upvotes": 33,
+    "upvotes": 37,
     "author": "azhenley",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25008953"
@@ -136,88 +136,96 @@
     "url": "http://nautil.us/issue/92/frontiers/the-joys-of-being-a-stoic",
     "upvotes": 143,
     "author": "fluctuation",
-    "comments": 82,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=25006726"
+  },
+  {
+    "title": "Ask HN: As a person, what can I do to improve a city?",
+    "url": "item?id=25007697",
+    "upvotes": 305,
+    "author": "davidn20",
+    "comments": 240,
+    "link": "https://news.ycombinator.com/item?id=25007697"
   },
   {
     "title": "Show HN: A Django code review bot for GitHub pull requests",
     "url": "https://django.doctor/?show-hn",
-    "upvotes": 87,
+    "upvotes": 90,
     "author": "rikatee",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=25007046"
   },
   {
     "title": "Jack Ma fell to earth and took Ant's mega IPO with him",
     "url": "https://www.reuters.com/article/ant-group-ipo-suspension-regulators/how-billionaire-jack-ma-fell-to-earth-and-took-ants-mega-ipo-with-him-idUSKBN27L2GX",
-    "upvotes": 194,
+    "upvotes": 196,
     "author": "Tenoke",
-    "comments": 181,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=25005880"
   },
   {
     "title": "Real World Haskell",
     "url": "https://mmhaskell.com/real-world",
-    "upvotes": 188,
+    "upvotes": 190,
     "author": "Fiveplus",
-    "comments": 49,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=25005525"
-  },
-  {
-    "title": "A Gopher View of Gemini",
-    "url": "https://oldvcr.blogspot.com/2020/11/a-gopher-view-of-gemini.html",
-    "upvotes": 16,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25005307"
   },
   {
     "title": "SQL.js: SQLite Compiled to JavaScript",
     "url": "https://sql.js.org/#/",
-    "upvotes": 26,
+    "upvotes": 34,
     "author": "chmaynard",
-    "comments": 4,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25008308"
   },
   {
     "title": "Soluble ACE2 shows promise for treating severe Covid­19",
     "url": "https://www.nature.com/articles/s41392-020-00374-6",
-    "upvotes": 90,
+    "upvotes": 93,
     "author": "nkjoep",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25008048"
   },
   {
-    "title": "Why There Aren't More Googles",
-    "url": "http://paulgraham.com/googles.html",
-    "upvotes": 153,
-    "author": "allenleein",
-    "comments": 145,
-    "link": "https://news.ycombinator.com/item?id=25005305"
+    "title": "A Gopher View of Gemini",
+    "url": "https://oldvcr.blogspot.com/2020/11/a-gopher-view-of-gemini.html",
+    "upvotes": 19,
+    "author": "todsacerdoti",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25005307"
   },
   {
     "title": "The Turing-Completeness Problem",
     "url": "https://alan-lang.org/the-turing-completeness-problem.html",
-    "upvotes": 73,
+    "upvotes": 76,
     "author": "pimterry",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25006619"
   },
   {
-    "title": "YouTube's Fake Animal Rescue Ring [video]",
-    "url": "https://www.youtube.com/watch?v=fqPXcv-IE0k",
-    "upvotes": 246,
-    "author": "FiberBundle",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=25007435"
+    "title": "Why There Aren't More Googles",
+    "url": "http://paulgraham.com/googles.html",
+    "upvotes": 158,
+    "author": "allenleein",
+    "comments": 150,
+    "link": "https://news.ycombinator.com/item?id=25005305"
   },
   {
     "title": "Dealing with Security Holes in Chips",
     "url": "https://semiengineering.com/dealing-with-security-holes-in-chips/",
-    "upvotes": 24,
+    "upvotes": 26,
     "author": "headalgorithm",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25007654"
+  },
+  {
+    "title": "YouTube's Fake Animal Rescue Ring [video]",
+    "url": "https://www.youtube.com/watch?v=fqPXcv-IE0k",
+    "upvotes": 248,
+    "author": "FiberBundle",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=25007435"
   },
   {
     "title": "What Day of the Dead tells us about the Aztec philosophy of happiness",
@@ -226,13 +234,5 @@
     "author": "pepys",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=24994366"
-  },
-  {
-    "title": "How to wear your baby to work",
-    "url": "https://www.nature.com/articles/d41586-020-03142-2",
-    "upvotes": 23,
-    "author": "sohkamyung",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=24997682"
   }
 ]
