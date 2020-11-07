@@ -2,39 +2,39 @@
   {
     "title": "Severe brain injury and paralysis temporarily reversed with a sleeping pill",
     "url": "https://www.sciencedirect.com/science/article/pii/S0010945220303130",
-    "upvotes": 19,
+    "upvotes": 49,
     "author": "ptbello",
-    "comments": 8,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25013003"
   },
   {
     "title": "Iron, How Did They Make It, Addendum: Crucible Steel and Cast Iron",
     "url": "https://acoup.blog/2020/11/06/collections-iron-how-did-they-make-it-addendum-crucible-steel-and-cast-iron/",
-    "upvotes": 202,
+    "upvotes": 207,
     "author": "jrott",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25010280"
   },
   {
-    "title": "Technical debt as a lack of understanding",
-    "url": "https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/",
-    "upvotes": 435,
-    "author": "BerislavLopac",
-    "comments": 219,
-    "link": "https://news.ycombinator.com/item?id=25008587"
-  },
-  {
     "title": "Standing on our own two feet",
     "url": "https://letsencrypt.org/2020/11/06/own-two-feet.html",
-    "upvotes": 356,
+    "upvotes": 374,
     "author": "gpff",
-    "comments": 121,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=25008748"
+  },
+  {
+    "title": "Technical debt as a lack of understanding",
+    "url": "https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/",
+    "upvotes": 446,
+    "author": "BerislavLopac",
+    "comments": 225,
+    "link": "https://news.ycombinator.com/item?id=25008587"
   },
   {
     "title": "The Lost Ways of Programming: Commodore 64 Basic",
     "url": "http://tomasp.net/commodore64/",
-    "upvotes": 49,
+    "upvotes": 59,
     "author": "mpweiher",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25008554"
@@ -42,42 +42,58 @@
   {
     "title": "A Linux sysadmin's introduction to cgroups",
     "url": "https://www.redhat.com/sysadmin/cgroups-part-one",
-    "upvotes": 264,
+    "upvotes": 270,
     "author": "FedericoRazzoli",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=25008941"
   },
   {
+    "title": "The Early History of Smalltalk",
+    "url": "http://worrydream.com/EarlyHistoryOfSmalltalk/",
+    "upvotes": 22,
+    "author": "gjvc",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25012425"
+  },
+  {
     "title": "Fast open-source intrusion detection",
     "url": "https://www.cylab.cmu.edu/news/2020/11/05-intrusion.html",
-    "upvotes": 105,
+    "upvotes": 114,
     "author": "lelf",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25010802"
   },
   {
-    "title": "The Early History of Smalltalk",
-    "url": "http://worrydream.com/EarlyHistoryOfSmalltalk/",
-    "upvotes": 15,
-    "author": "gjvc",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25012425"
+    "title": "Go in Production – Lessons Learned",
+    "url": "https://tdom.dev/go-in-production",
+    "upvotes": 45,
+    "author": "tdom",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25012115"
   },
   {
-    "title": "The Wild Story of Manuka, the World’s Most Coveted Honey",
+    "title": "Manuka, the World’s Most Coveted Honey",
     "url": "https://www.afar.com/magazine/the-wild-story-of-manuka-the-worlds-most-coveted-honey",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "jelliclesfarm",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25011997"
   },
   {
-    "title": "Go in Production – Lessons Learned",
-    "url": "https://tdom.dev/go-in-production",
-    "upvotes": 39,
-    "author": "tdom",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25012115"
+    "title": "What “Roguelike” Meant",
+    "url": "https://zenorogue.medium.com/what-roguelike-meant-fb8b0e1601a",
+    "upvotes": 76,
+    "author": "pavel_lishin",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=25010776"
+  },
+  {
+    "title": "Signs you might be a micromanager",
+    "url": "https://unito.io/blog/micromanagement-signs/",
+    "upvotes": 90,
+    "author": "jamyot",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=25011218"
   },
   {
     "title": "PyMC: Theano Is Dead, Long Live Theano",
@@ -88,44 +104,72 @@
     "link": "https://news.ycombinator.com/item?id=24997736"
   },
   {
+    "title": "How extremophilic bacteria survive in space for one year",
+    "url": "https://medienportal.univie.ac.at/presse/aktuelle-pressemeldungen/detailansicht/artikel/microbial-space-travel-on-a-molecular-scale/",
+    "upvotes": 41,
+    "author": "hhs",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=25011807"
+  },
+  {
+    "title": "Intel’s palpable desperation on display with Rocket Lake",
+    "url": "https://semiaccurate.com/2020/10/29/intels-palpable-desperation-on-display-with-rocket-lake/",
+    "upvotes": 164,
+    "author": "rwmj",
+    "comments": 181,
+    "link": "https://news.ycombinator.com/item?id=25008159"
+  },
+  {
     "title": "Ray Tracer Sandbox in Vulkan",
     "url": "https://github.com/Zielon/PBRVulkan",
-    "upvotes": 87,
+    "upvotes": 91,
     "author": "wyldfire",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=25009373"
   },
   {
-    "title": "Signs you might be a micromanager",
-    "url": "https://unito.io/blog/micromanagement-signs/",
-    "upvotes": 79,
-    "author": "jamyot",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=25011218"
-  },
-  {
-    "title": "Intel’s palpable desperation on display with Rocket Lake",
-    "url": "https://semiaccurate.com/2020/10/29/intels-palpable-desperation-on-display-with-rocket-lake/",
-    "upvotes": 158,
-    "author": "rwmj",
-    "comments": 175,
-    "link": "https://news.ycombinator.com/item?id=25008159"
-  },
-  {
-    "title": "How extremophilic bacteria survive in space for one year",
-    "url": "https://medienportal.univie.ac.at/presse/aktuelle-pressemeldungen/detailansicht/artikel/microbial-space-travel-on-a-molecular-scale/",
-    "upvotes": 39,
-    "author": "hhs",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=25011807"
-  },
-  {
     "title": "100 Years on a Dirty Dog: The History of Greyhound",
     "url": "https://www.mentalfloss.com/article/54273/100-years-dirty-dog-history-greyhound",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "never-the-bride",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25011722"
+  },
+  {
+    "title": "A one hundred thousand-fold enhancement in the nonlinearity of silicon",
+    "url": "https://phys.org/news/2020-11-thousand-fold-nonlinearity-silicon.html",
+    "upvotes": 72,
+    "author": "bookofjoe",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=24997573"
+  },
+  {
+    "title": "Dover",
+    "url": "https://www.dover.io/open-roles/senior-software-engineer"
+  },
+  {
+    "title": "SQL.js: SQLite Compiled to JavaScript",
+    "url": "https://sql.js.org/#/",
+    "upvotes": 111,
+    "author": "chmaynard",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=25008308"
+  },
+  {
+    "title": "Gimp 2.99.2 – GTK3 user interface toolkit",
+    "url": "https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/",
+    "upvotes": 163,
+    "author": "constantinum",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=25010462"
+  },
+  {
+    "title": "Frequency Domain Image Compression and Filtering",
+    "url": "https://blog.demofox.org/2020/11/04/frequency-domain-image-compression-and-filtering/",
+    "upvotes": 32,
+    "author": "vonadz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=24997191"
   },
   {
     "title": "Edith Wharton’s Moroccan Clichés",
@@ -136,85 +180,33 @@
     "link": "https://news.ycombinator.com/item?id=25005841"
   },
   {
-    "title": "A one hundred thousand-fold enhancement in the nonlinearity of silicon",
-    "url": "https://phys.org/news/2020-11-thousand-fold-nonlinearity-silicon.html",
-    "upvotes": 70,
-    "author": "bookofjoe",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=24997573"
-  },
-  {
-    "title": "SQL.js: SQLite Compiled to JavaScript",
-    "url": "https://sql.js.org/#/",
-    "upvotes": 109,
-    "author": "chmaynard",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=25008308"
-  },
-  {
-    "title": "Dover",
-    "url": "https://www.dover.io/open-roles/senior-software-engineer"
-  },
-  {
-    "title": "Gimp 2.99.2 – GTK3 user interface toolkit",
-    "url": "https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/",
-    "upvotes": 160,
-    "author": "constantinum",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=25010462"
-  },
-  {
-    "title": "Frequency Domain Image Compression and Filtering",
-    "url": "https://blog.demofox.org/2020/11/04/frequency-domain-image-compression-and-filtering/",
-    "upvotes": 31,
-    "author": "vonadz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=24997191"
+    "title": "Mayastor: Lightning Fast Storage for Kubernetes",
+    "url": "https://www.percona.com/community-blog/2020/10/23/mayastor-lightning-fast-storage-for-kubernetes/",
+    "upvotes": 36,
+    "author": "botayhard",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25010624"
   },
   {
     "title": "Navigating the landscape of multiplayer games",
     "url": "https://www.nature.com/articles/s41467-020-19244-4",
-    "upvotes": 14,
+    "upvotes": 15,
     "author": "Anon84",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=24997702"
-  },
-  {
-    "title": "Mayastor: Lightning Fast Storage for Kubernetes",
-    "url": "https://www.percona.com/community-blog/2020/10/23/mayastor-lightning-fast-storage-for-kubernetes/",
-    "upvotes": 34,
-    "author": "botayhard",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=25010624"
   },
   {
     "title": "HP Instant Ink is “ink as a service”",
     "url": "https://pluralistic.net/2020/11/06/horrible-products/#inkwars",
-    "upvotes": 464,
+    "upvotes": 471,
     "author": "samizdis",
-    "comments": 287,
+    "comments": 291,
     "link": "https://news.ycombinator.com/item?id=25008894"
-  },
-  {
-    "title": "Ask HN: As a person, what can I do to improve a city?",
-    "url": "item?id=25007697",
-    "upvotes": 409,
-    "author": "davidn20",
-    "comments": 296,
-    "link": "https://news.ycombinator.com/item?id=25007697"
-  },
-  {
-    "title": "Carrosses à Cinq Sols",
-    "url": "https://en.wikipedia.org/wiki/Carrosses_à_cinq_sols",
-    "upvotes": 23,
-    "author": "pepys",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25005692"
   },
   {
     "title": "What’s the Role of Developer Experience in Programming Languages Research?",
     "url": "https://blog.sigplan.org/2020/10/27/whats-the-role-of-developer-experience-in-programming-languages-research/",
-    "upvotes": 94,
+    "upvotes": 97,
     "author": "azhenley",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25008936"
@@ -222,15 +214,23 @@
   {
     "title": "The Die Is Cast: Hardware Security Is Not Assured",
     "url": "https://queue.acm.org/detail.cfm?id=3431245",
-    "upvotes": 65,
+    "upvotes": 67,
     "author": "yarapavan",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25007956"
+  },
+  {
+    "title": "Ask HN: As a person, what can I do to improve a city?",
+    "url": "item?id=25007697",
+    "upvotes": 413,
+    "author": "davidn20",
+    "comments": 298,
+    "link": "https://news.ycombinator.com/item?id=25007697"
   },
   {
     "title": "Deprecating scp",
     "url": "https://lwn.net/SubscriberLink/835962/ae41b27bc20699ad/",
-    "upvotes": 615,
+    "upvotes": 618,
     "author": "Tomte",
     "comments": 318,
     "link": "https://news.ycombinator.com/item?id=25005567"
