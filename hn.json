@@ -1,51 +1,51 @@
 [
   {
-    "title": "Taking screenshots isn't allowed by the app",
-    "url": "https://support.google.com/pixelphone/thread/70006808?hl=en",
-    "upvotes": 42,
-    "author": "distalx",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=25025066"
-  },
-  {
     "title": "On Spotify, the top 0.4% of artists get 9.9% of the payout [pdf]",
     "url": "http://www.digitalmedia.fi/wp-content/uploads/2018/02/UC_report_final_171213.pdf",
-    "upvotes": 36,
+    "upvotes": 43,
     "author": "iamacyborg",
-    "comments": 24,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25024552"
   },
   {
     "title": "One Week of NixOS",
     "url": "https://jae.moe/blog/2020/11/one-week-of-nixos/",
-    "upvotes": 34,
+    "upvotes": 37,
     "author": "jaemoe",
-    "comments": 14,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25024639"
   },
   {
     "title": "Is this Mahler? This sounds like Mahler",
     "url": "http://sarabee.github.io/2020/09/13/is-this-mahler/",
-    "upvotes": 111,
+    "upvotes": 112,
     "author": "luu",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25012900"
   },
   {
     "title": "PostgreSQL Configuration for Humans",
     "url": "https://postgresqlco.nf/en/doc/param/",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "sharjeelsayed",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25024224"
   },
   {
     "title": "Stack Videos Horizontally, Vertically, in a Grid With FFmpeg",
     "url": "https://ottverse.com/stack-videos-horizontally-vertically-grid-with-ffmpeg/",
-    "upvotes": 129,
+    "upvotes": 131,
     "author": "rrao84",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25022665"
+  },
+  {
+    "title": "Send Payments in India with WhatsApp",
+    "url": "https://blog.whatsapp.com/send-payments-in-india-with-whatsapp/?lang=en",
+    "upvotes": 80,
+    "author": "graposaymaname",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=25023986"
   },
   {
     "title": "Tesorio",
@@ -54,10 +54,18 @@
   {
     "title": "WinApps: Run Windows apps in Linux as if they were a part of the native OS",
     "url": "https://github.com/Fmstrat/winapps",
-    "upvotes": 211,
+    "upvotes": 213,
     "author": "petepete",
-    "comments": 59,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=25021261"
+  },
+  {
+    "title": "SpotifyKeyDumper – Dump song decryption keys from the Windows Spotify client",
+    "url": "https://gitlab.com/fuck-capitalism/spotifykeydumper",
+    "upvotes": 398,
+    "author": "ffpip",
+    "comments": 150,
+    "link": "https://news.ycombinator.com/item?id=25017167"
   },
   {
     "title": "Mutt 2.0 Release Notes",
@@ -68,28 +76,20 @@
     "link": "https://news.ycombinator.com/item?id=25019901"
   },
   {
-    "title": "SpotifyKeyDumper – Dump song decryption keys from the Windows Spotify client",
-    "url": "https://gitlab.com/fuck-capitalism/spotifykeydumper",
-    "upvotes": 396,
-    "author": "ffpip",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=25017167"
-  },
-  {
-    "title": "Send Payments in India with WhatsApp",
-    "url": "https://blog.whatsapp.com/send-payments-in-india-with-whatsapp/?lang=en",
-    "upvotes": 77,
-    "author": "graposaymaname",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=25023986"
-  },
-  {
     "title": "Submarine Cable Map",
     "url": "https://www.submarinecablemap.com/",
-    "upvotes": 183,
+    "upvotes": 185,
     "author": "Inityx",
-    "comments": 101,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=25020431"
+  },
+  {
+    "title": "Taking screenshots isn't allowed by the app",
+    "url": "https://support.google.com/pixelphone/thread/70006808?hl=en",
+    "upvotes": 48,
+    "author": "distalx",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=25025066"
   },
   {
     "title": "Pongmechanik",
@@ -102,7 +102,7 @@
   {
     "title": "Build your own professional-grade audio amp on the sort-of cheap",
     "url": "https://spectrum.ieee.org/consumer-electronics/audiovideo/build-your-own-professionalgrade-audio-amp-on-the-sort-of-cheap",
-    "upvotes": 148,
+    "upvotes": 149,
     "author": "Tomte",
     "comments": 105,
     "link": "https://news.ycombinator.com/item?id=25019441"
@@ -112,13 +112,13 @@
     "url": "https://djrobstep.com/posts/programs-are-a-prison",
     "upvotes": 192,
     "author": "vortex_ape",
-    "comments": 140,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=24999103"
   },
   {
     "title": "The impact of school shutdown on sleep in adolescents: a natural experiment",
     "url": "https://www.sciencedirect.com/science/article/pii/S1389945720304184",
-    "upvotes": 131,
+    "upvotes": 132,
     "author": "luu",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25005818"
@@ -140,6 +140,14 @@
     "link": "https://news.ycombinator.com/item?id=25019737"
   },
   {
+    "title": "Ubooquity: Free home server for your comics and ebooks library",
+    "url": "https://vaemendis.net/ubooquity/",
+    "upvotes": 46,
+    "author": "ingve",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25007323"
+  },
+  {
     "title": "What Is Mind-Wandering and How You Use It to Your Advantage?",
     "url": "https://durmonski.com/productivity/what-is-mind-wandering/",
     "upvotes": 59,
@@ -148,12 +156,12 @@
     "link": "https://news.ycombinator.com/item?id=25007301"
   },
   {
-    "title": "Ubooquity: Free home server for your comics and ebooks library",
-    "url": "https://vaemendis.net/ubooquity/",
-    "upvotes": 45,
-    "author": "ingve",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25007323"
+    "title": "Show HN: Baller ToDo; a no-list todo app",
+    "url": "https://ballertodo.com/",
+    "upvotes": 89,
+    "author": "educated_idiot",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=25023502"
   },
   {
     "title": "Stop using RSA",
@@ -172,14 +180,6 @@
     "link": "https://news.ycombinator.com/item?id=25013293"
   },
   {
-    "title": "Show HN: Baller ToDo; a no-list todo app",
-    "url": "https://ballertodo.com/",
-    "upvotes": 86,
-    "author": "educated_idiot",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=25023502"
-  },
-  {
     "title": "JBS Haldane: the man who knew almost everything",
     "url": "https://www.newstatesman.com/culture/books/2020/11/jbs-haldane-man-who-knew-almost-everything",
     "upvotes": 51,
@@ -190,7 +190,7 @@
   {
     "title": "DaVinci Resolve is a high-end video editing/post-production software program",
     "url": "https://www.blackmagicdesign.com/products/davinciresolve/",
-    "upvotes": 8,
+    "upvotes": 10,
     "author": "thunderbong",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25023938"
@@ -212,14 +212,6 @@
     "link": "https://news.ycombinator.com/item?id=25024326"
   },
   {
-    "title": "Disney unveiled an animatronic robot with the same gaze as humans",
-    "url": "https://www.businessinsider.com/disney-unveiled-a-robot-with-the-same-gaze-as-humans-2020-11",
-    "upvotes": 23,
-    "author": "afkqs",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25024387"
-  },
-  {
     "title": "Singapore rears moquitoes infected with Wolbachia bacteria to combat dengue",
     "url": "https://www.reuters.com/article/us-singapore-environment-dengue-idUSKBN25O03A",
     "upvotes": 80,
@@ -228,11 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=25017284"
   },
   {
+    "title": "Disney unveiled an animatronic robot with the same gaze as humans",
+    "url": "https://www.businessinsider.com/disney-unveiled-a-robot-with-the-same-gaze-as-humans-2020-11",
+    "upvotes": 24,
+    "author": "afkqs",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=25024387"
+  },
+  {
     "title": "Marketers are addicted to bad data",
     "url": "https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data",
     "upvotes": 316,
     "author": "iamacyborg",
-    "comments": 95,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=25016532"
   }
 ]
