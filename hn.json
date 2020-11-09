@@ -2,10 +2,18 @@
   {
     "title": "How Go helped save HealthCare.gov",
     "url": "https://changelog.com/gotime/154",
-    "upvotes": 102,
+    "upvotes": 105,
     "author": "ra7",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25038980"
+  },
+  {
+    "title": "Pixel 5 review: Google spends its bill-of-materials budget unwisely",
+    "url": "https://arstechnica.com/?p=1714684",
+    "upvotes": 63,
+    "author": "feross",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=25039204"
   },
   {
     "title": "How to Recalculate a Spreadsheet",
@@ -16,33 +24,25 @@
     "link": "https://news.ycombinator.com/item?id=25039393"
   },
   {
-    "title": "Pixel 5 review: Google spends its bill-of-materials budget unwisely",
-    "url": "https://arstechnica.com/?p=1714684",
-    "upvotes": 61,
-    "author": "feross",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=25039204"
-  },
-  {
     "title": "Launch HN: Gather.Town",
     "url": "https://gather.town/?ref=hn",
-    "upvotes": 70,
+    "upvotes": 75,
     "author": "eambutu",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25039370"
   },
   {
     "title": "Amazon Review Scam",
     "url": "https://twitter.com/cperciva/status/1325882623424565248",
-    "upvotes": 90,
+    "upvotes": 91,
     "author": "StreamBright",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25038734"
   },
   {
     "title": "What is a System-on-Chip",
     "url": "https://www.bunniestudios.com/blog/?p=5971",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "parsecs",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25039013"
@@ -54,7 +54,7 @@
   {
     "title": "Covid vaccine: First ‘milestone’ vaccine offers 90% protection",
     "url": "https://www.bbc.co.uk/news/health-54873105",
-    "upvotes": 1544,
+    "upvotes": 1545,
     "author": "isp",
     "comments": 947,
     "link": "https://news.ycombinator.com/item?id=25033844"
@@ -80,23 +80,23 @@
     "url": "https://github.com/Marak/faker.js/issues/1046",
     "upvotes": 924,
     "author": "ingve",
-    "comments": 755,
+    "comments": 756,
     "link": "https://news.ycombinator.com/item?id=25032105"
   },
   {
     "title": "The battle for the soul of digital freedom taking place inside your printer",
     "url": "https://www.eff.org/deeplinks/2020/11/ink-stained-wretches-battle-soul-digital-freedom-taking-place-inside-your-printer",
-    "upvotes": 331,
+    "upvotes": 332,
     "author": "MilnerRoute",
-    "comments": 267,
+    "comments": 268,
     "link": "https://news.ycombinator.com/item?id=25035736"
   },
   {
     "title": "McDonald's is adding plant-based burgers to the menu",
     "url": "https://www.usatoday.com/story/money/food/2020/11/09/mcplant-mcdonalds-plant-based-burger-crispy-chicken-sandwich/6187977002/",
-    "upvotes": 163,
+    "upvotes": 164,
     "author": "elsewhen",
-    "comments": 162,
+    "comments": 164,
     "link": "https://news.ycombinator.com/item?id=25037183"
   },
   {
@@ -104,8 +104,16 @@
     "url": "https://www.the-scientist.com/critic-at-large/opinion-using-pokmon-to-detect-scientific-misinformation-68098",
     "upvotes": 115,
     "author": "wizeman",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25024648"
+  },
+  {
+    "title": "Let’s Build a Video Card",
+    "url": "https://eater.net/vga",
+    "upvotes": 154,
+    "author": "captn3m0",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=25034562"
   },
   {
     "title": "Slimium: Debloating the Chromium Browser with Feature Subsetting",
@@ -114,14 +122,6 @@
     "author": "feross",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25039713"
-  },
-  {
-    "title": "Let’s Build a Video Card",
-    "url": "https://eater.net/vga",
-    "upvotes": 153,
-    "author": "captn3m0",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=25034562"
   },
   {
     "title": "A Theory of Universal Learning [pdf]",
@@ -160,7 +160,7 @@
     "url": "https://www.vice.com/en/article/xgzxvz/voters-overwhelmingly-back-community-broadband-in-chicago-and-denver",
     "upvotes": 558,
     "author": "danso",
-    "comments": 187,
+    "comments": 188,
     "link": "https://news.ycombinator.com/item?id=25035499"
   },
   {
@@ -174,7 +174,7 @@
   {
     "title": "AWS Security Maturity Roadmap [pdf]",
     "url": "https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "sciurus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25038422"
@@ -198,9 +198,9 @@
   {
     "title": "Dog – A command-line DNS client written in Rust",
     "url": "https://github.com/ogham/dog",
-    "upvotes": 213,
+    "upvotes": 214,
     "author": "guessmyname",
-    "comments": 66,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=25033056"
   },
   {
@@ -208,13 +208,13 @@
     "url": "https://www.tweaktown.com/reviews/9664/wd-black-sn850-1tb-nvme-2-ssd/index.html",
     "upvotes": 34,
     "author": "giuliomagnifico",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25038291"
   },
   {
     "title": "Slingbox Discontinued Announcement and FAQ",
     "url": "https://www.slingbox.com/discontinued",
-    "upvotes": 42,
+    "upvotes": 43,
     "author": "compsciphd",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=25037342"
@@ -230,7 +230,7 @@
   {
     "title": "Converting Utzoo-Wiseman Usenet Tapes to PostgreSQL Back End Using Python",
     "url": "https://www.joe0.com/2020/10/07/converting-utzoo-wiseman-netnews-archive-to-postgresql-using-python-3-8/",
-    "upvotes": 33,
+    "upvotes": 34,
     "author": "kxrm",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25036780"
