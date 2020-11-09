@@ -2,15 +2,15 @@
   {
     "title": "Amazon Review Scam",
     "url": "https://twitter.com/cperciva/status/1325882623424565248",
-    "upvotes": 239,
+    "upvotes": 249,
     "author": "StreamBright",
-    "comments": 119,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=25038734"
   },
   {
     "title": "How Go helped save HealthCare.gov",
     "url": "https://changelog.com/gotime/154",
-    "upvotes": 156,
+    "upvotes": 157,
     "author": "ra7",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=25038980"
@@ -18,7 +18,7 @@
   {
     "title": "How to Recalculate a Spreadsheet",
     "url": "https://lord.io/blog/2020/spreadsheets/",
-    "upvotes": 96,
+    "upvotes": 98,
     "author": "todsacerdoti",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25039393"
@@ -42,7 +42,7 @@
   {
     "title": "Covid vaccine: First ‘milestone’ vaccine offers 90% protection",
     "url": "https://www.bbc.co.uk/news/health-54873105",
-    "upvotes": 1606,
+    "upvotes": 1607,
     "author": "isp",
     "comments": 967,
     "link": "https://news.ycombinator.com/item?id=25033844"
@@ -58,7 +58,7 @@
   {
     "title": "How to GraphQL with Ruby, Rails, Active Record, and No N+1",
     "url": "https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one",
-    "upvotes": 105,
+    "upvotes": 106,
     "author": "progapandist",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=25037293"
@@ -70,7 +70,7 @@
   {
     "title": "A Pico-8 story: How the fantasy console unlocked Frédéric Souchu’s dreams",
     "url": "https://nanark.medium.com/a-pico-8-story-how-the-fantasy-console-unlocked-frédéric-souchus-dreams-56bce77bcdc5",
-    "upvotes": 72,
+    "upvotes": 73,
     "author": "pmarin",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25029967"
@@ -86,7 +86,7 @@
   {
     "title": "McDonald's is adding plant-based burgers to the menu",
     "url": "https://www.usatoday.com/story/money/food/2020/11/09/mcplant-mcdonalds-plant-based-burger-crispy-chicken-sandwich/6187977002/",
-    "upvotes": 207,
+    "upvotes": 208,
     "author": "elsewhen",
     "comments": 207,
     "link": "https://news.ycombinator.com/item?id=25037183"
@@ -94,18 +94,26 @@
   {
     "title": "Pixel 5 review: Google spends its bill-of-materials budget unwisely",
     "url": "https://arstechnica.com/?p=1714684",
-    "upvotes": 93,
+    "upvotes": 94,
     "author": "feross",
-    "comments": 83,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=25039204"
   },
   {
     "title": "The battle for the soul of digital freedom taking place inside your printer",
     "url": "https://www.eff.org/deeplinks/2020/11/ink-stained-wretches-battle-soul-digital-freedom-taking-place-inside-your-printer",
-    "upvotes": 349,
+    "upvotes": 350,
     "author": "MilnerRoute",
     "comments": 278,
     "link": "https://news.ycombinator.com/item?id=25035736"
+  },
+  {
+    "title": "On the Beauty of Python's ExitStack",
+    "url": "https://www.rath.org/on-the-beauty-of-pythons-exitstack.html",
+    "upvotes": 8,
+    "author": "polm23",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25032924"
   },
   {
     "title": "A hidden gem in sound symmetry",
@@ -116,36 +124,20 @@
     "link": "https://news.ycombinator.com/item?id=25037784"
   },
   {
+    "title": "Let’s Build a Video Card",
+    "url": "https://eater.net/vga",
+    "upvotes": 167,
+    "author": "captn3m0",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=25034562"
+  },
+  {
     "title": "Using Pokémon to detect scientific misinformation",
     "url": "https://www.the-scientist.com/critic-at-large/opinion-using-pokmon-to-detect-scientific-misinformation-68098",
     "upvotes": 128,
     "author": "wizeman",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25024648"
-  },
-  {
-    "title": "Let’s Build a Video Card",
-    "url": "https://eater.net/vga",
-    "upvotes": 165,
-    "author": "captn3m0",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=25034562"
-  },
-  {
-    "title": "On the Beauty of Python's ExitStack",
-    "url": "https://www.rath.org/on-the-beauty-of-pythons-exitstack.html",
-    "upvotes": 7,
-    "author": "polm23",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25032924"
-  },
-  {
-    "title": "AWS Security Maturity Roadmap [pdf]",
-    "url": "https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf",
-    "upvotes": 41,
-    "author": "sciurus",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25038422"
   },
   {
     "title": "How Python bytecode is executed",
@@ -156,12 +148,36 @@
     "link": "https://news.ycombinator.com/item?id=25025451"
   },
   {
+    "title": "AWS Security Maturity Roadmap [pdf]",
+    "url": "https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf",
+    "upvotes": 41,
+    "author": "sciurus",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25038422"
+  },
+  {
     "title": "Analyzing the Limits of Connection Scalability in Postgres",
     "url": "https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/analyzing-the-limits-of-connection-scalability-in-postgres/ba-p/1757266",
     "upvotes": 73,
     "author": "ozgune",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25036279"
+  },
+  {
+    "title": "Students have to jump through absurd hoops to use exam monitoring software",
+    "url": "https://www.vice.com/en/article/88anxg/students-have-to-jump-through-absurd-hoops-to-use-exam-monitoring-software",
+    "upvotes": 48,
+    "author": "elsewhen",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=25037064"
+  },
+  {
+    "title": "Drawing Machines",
+    "url": "https://drawingmachines.org",
+    "upvotes": 56,
+    "author": "yonilevy",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25033793"
   },
   {
     "title": "Concert Roulette",
@@ -172,28 +188,20 @@
     "link": "https://news.ycombinator.com/item?id=25024274"
   },
   {
-    "title": "Students have to jump through absurd hoops to use exam monitoring software",
-    "url": "https://www.vice.com/en/article/88anxg/students-have-to-jump-through-absurd-hoops-to-use-exam-monitoring-software",
-    "upvotes": 47,
-    "author": "elsewhen",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=25037064"
-  },
-  {
-    "title": "Drawing Machines",
-    "url": "https://drawingmachines.org",
-    "upvotes": 55,
-    "author": "yonilevy",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25033793"
-  },
-  {
     "title": "Voters overwhelmingly back community broadband in Chicago and Denver",
     "url": "https://www.vice.com/en/article/xgzxvz/voters-overwhelmingly-back-community-broadband-in-chicago-and-denver",
     "upvotes": 572,
     "author": "danso",
-    "comments": 198,
+    "comments": 199,
     "link": "https://news.ycombinator.com/item?id=25035499"
+  },
+  {
+    "title": "Slingbox Discontinued Announcement and FAQ",
+    "url": "https://www.slingbox.com/discontinued",
+    "upvotes": 54,
+    "author": "compsciphd",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=25037342"
   },
   {
     "title": "Dog – A command-line DNS client written in Rust",
@@ -212,27 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=25040237"
   },
   {
-    "title": "Slingbox Discontinued Announcement and FAQ",
-    "url": "https://www.slingbox.com/discontinued",
-    "upvotes": 53,
-    "author": "compsciphd",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=25037342"
-  },
-  {
     "title": "Show HN: Zonote – Sticky notes with Markdown and Tabs, all in one .txt file",
     "url": "https://github.com/zonetti/zonote",
-    "upvotes": 53,
+    "upvotes": 54,
     "author": "zonetti",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25036391"
   },
   {
-    "title": "Virtual Consensus in Delos",
-    "url": "https://blog.acolyer.org/2020/11/09/delos/",
-    "upvotes": 12,
-    "author": "feross",
+    "title": "Japan’s Onryō Spirits Inhabit a Purgatory of Revenge and Cosmic Rage",
+    "url": "https://www.atlasobscura.com/articles/monster-mythology-onryo",
+    "upvotes": 13,
+    "author": "Thevet",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25039846"
+    "link": "https://news.ycombinator.com/item?id=25031491"
   }
 ]
