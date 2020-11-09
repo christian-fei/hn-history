@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 const fs = require('fs')
 const path = require('path')
-// const commits = require('./cache.json')
-const getCommitsWithDiffs = require('./get-commits-with-diffs')
+const commits = require('./cache.json')
+// const getCommitsWithDiffs = require('./get-commits-with-diffs')
 const getCommitHtml = require('./get-commit-html')
 
 if (require.main === module) {
@@ -15,7 +15,7 @@ if (require.main === module) {
 }
 
 async function makeStatic () {
-  const commits = await getCommitsWithDiffs()
+  // const commits = await getCommitsWithDiffs()
   console.log('#', commits.length)
   try { fs.rmdirSync(path.resolve(__dirname, '_site'), { recursive: true }) } catch (err) {}
   fs.mkdirSync(path.resolve(__dirname, '_site'))
