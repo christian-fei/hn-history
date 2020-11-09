@@ -8,7 +8,7 @@ const getCommitHtml = require('./get-commit-html')
 if (require.main === module) {
   makeStatic()
     .then(() => {
-      console.log('written to cache.json')
+      console.log('written to _site')
     })
 } else {
   module.exports = makeStatic
