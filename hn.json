@@ -2,39 +2,39 @@
   {
     "title": "How Go helped save HealthCare.gov",
     "url": "https://changelog.com/gotime/154",
-    "upvotes": 108,
+    "upvotes": 110,
     "author": "ra7",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25038980"
   },
   {
     "title": "How to Recalculate a Spreadsheet",
     "url": "https://lord.io/blog/2020/spreadsheets/",
-    "upvotes": 70,
+    "upvotes": 71,
     "author": "todsacerdoti",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25039393"
   },
   {
-    "title": "Launch HN: Gather.Town",
-    "url": "https://gather.town/?ref=hn",
-    "upvotes": 77,
-    "author": "eambutu",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=25039370"
-  },
-  {
     "title": "Amazon Review Scam",
     "url": "https://twitter.com/cperciva/status/1325882623424565248",
-    "upvotes": 95,
+    "upvotes": 103,
     "author": "StreamBright",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=25038734"
   },
   {
+    "title": "Launch HN: Gather.Town",
+    "url": "https://gather.town/?ref=hn",
+    "upvotes": 78,
+    "author": "eambutu",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=25039370"
+  },
+  {
     "title": "What is a System-on-Chip",
     "url": "https://www.bunniestudios.com/blog/?p=5971",
-    "upvotes": 59,
+    "upvotes": 60,
     "author": "parsecs",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25039013"
@@ -42,9 +42,9 @@
   {
     "title": "Pixel 5 review: Google spends its bill-of-materials budget unwisely",
     "url": "https://arstechnica.com/?p=1714684",
-    "upvotes": 63,
+    "upvotes": 66,
     "author": "feross",
-    "comments": 45,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=25039204"
   },
   {
@@ -54,7 +54,7 @@
   {
     "title": "Covid vaccine: First ‘milestone’ vaccine offers 90% protection",
     "url": "https://www.bbc.co.uk/news/health-54873105",
-    "upvotes": 1548,
+    "upvotes": 1549,
     "author": "isp",
     "comments": 948,
     "link": "https://news.ycombinator.com/item?id=25033844"
@@ -68,20 +68,20 @@
     "link": "https://news.ycombinator.com/item?id=25037293"
   },
   {
-    "title": "No More Free Work from Marak: Pay Me or Fork This",
-    "url": "https://github.com/Marak/faker.js/issues/1046",
-    "upvotes": 925,
-    "author": "ingve",
-    "comments": 759,
-    "link": "https://news.ycombinator.com/item?id=25032105"
-  },
-  {
     "title": "A Pico-8 story: How the fantasy console unlocked Frédéric Souchu’s dreams",
     "url": "https://nanark.medium.com/a-pico-8-story-how-the-fantasy-console-unlocked-frédéric-souchus-dreams-56bce77bcdc5",
-    "upvotes": 58,
+    "upvotes": 59,
     "author": "pmarin",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25029967"
+  },
+  {
+    "title": "No More Free Work from Marak: Pay Me or Fork This",
+    "url": "https://github.com/Marak/faker.js/issues/1046",
+    "upvotes": 928,
+    "author": "ingve",
+    "comments": 762,
+    "link": "https://news.ycombinator.com/item?id=25032105"
   },
   {
     "title": "The battle for the soul of digital freedom taking place inside your printer",
@@ -94,9 +94,9 @@
   {
     "title": "McDonald's is adding plant-based burgers to the menu",
     "url": "https://www.usatoday.com/story/money/food/2020/11/09/mcplant-mcdonalds-plant-based-burger-crispy-chicken-sandwich/6187977002/",
-    "upvotes": 167,
+    "upvotes": 169,
     "author": "elsewhen",
-    "comments": 170,
+    "comments": 174,
     "link": "https://news.ycombinator.com/item?id=25037183"
   },
   {
@@ -110,23 +110,15 @@
   {
     "title": "Let’s Build a Video Card",
     "url": "https://eater.net/vga",
-    "upvotes": 154,
+    "upvotes": 156,
     "author": "captn3m0",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25034562"
   },
   {
-    "title": "Slimium: Debloating the Chromium Browser with Feature Subsetting",
-    "url": "https://dl.acm.org/doi/pdf/10.1145/3372297.3417866",
-    "upvotes": 7,
-    "author": "feross",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25039713"
-  },
-  {
     "title": "Analyzing the Limits of Connection Scalability in Postgres",
     "url": "https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/analyzing-the-limits-of-connection-scalability-in-postgres/ba-p/1757266",
-    "upvotes": 69,
+    "upvotes": 70,
     "author": "ozgune",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25036279"
@@ -138,6 +130,14 @@
     "author": "emre",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25038485"
+  },
+  {
+    "title": "Slimium: Debloating the Chromium Browser with Feature Subsetting",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3372297.3417866",
+    "upvotes": 7,
+    "author": "feross",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25039713"
   },
   {
     "title": "Drawing Machines",
@@ -200,31 +200,31 @@
     "url": "https://github.com/ogham/dog",
     "upvotes": 214,
     "author": "guessmyname",
-    "comments": 67,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=25033056"
+  },
+  {
+    "title": "Show HN: Zonote – Sticky notes with Markdown and Tabs, all in one .txt file",
+    "url": "https://github.com/zonetti/zonote",
+    "upvotes": 47,
+    "author": "zonetti",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25036391"
   },
   {
     "title": "Slingbox Discontinued Announcement and FAQ",
     "url": "https://www.slingbox.com/discontinued",
     "upvotes": 43,
     "author": "compsciphd",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=25037342"
-  },
-  {
-    "title": "Show HN: Zonote – Sticky notes with Markdown and Tabs, all in one .txt file",
-    "url": "https://github.com/zonetti/zonote",
-    "upvotes": 46,
-    "author": "zonetti",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25036391"
   },
   {
     "title": "WD SN850 delivers the best performing SSD we've tested",
     "url": "https://www.tweaktown.com/reviews/9664/wd-black-sn850-1tb-nvme-2-ssd/index.html",
     "upvotes": 34,
     "author": "giuliomagnifico",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25038291"
   },
   {
