@@ -2,23 +2,15 @@
   {
     "title": "How Go helped save HealthCare.gov",
     "url": "https://changelog.com/gotime/154",
-    "upvotes": 105,
+    "upvotes": 108,
     "author": "ra7",
-    "comments": 26,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25038980"
-  },
-  {
-    "title": "Pixel 5 review: Google spends its bill-of-materials budget unwisely",
-    "url": "https://arstechnica.com/?p=1714684",
-    "upvotes": 63,
-    "author": "feross",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=25039204"
   },
   {
     "title": "How to Recalculate a Spreadsheet",
     "url": "https://lord.io/blog/2020/spreadsheets/",
-    "upvotes": 68,
+    "upvotes": 70,
     "author": "todsacerdoti",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25039393"
@@ -26,26 +18,34 @@
   {
     "title": "Launch HN: Gather.Town",
     "url": "https://gather.town/?ref=hn",
-    "upvotes": 75,
+    "upvotes": 77,
     "author": "eambutu",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25039370"
   },
   {
     "title": "Amazon Review Scam",
     "url": "https://twitter.com/cperciva/status/1325882623424565248",
-    "upvotes": 91,
+    "upvotes": 95,
     "author": "StreamBright",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=25038734"
   },
   {
     "title": "What is a System-on-Chip",
     "url": "https://www.bunniestudios.com/blog/?p=5971",
-    "upvotes": 58,
+    "upvotes": 59,
     "author": "parsecs",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25039013"
+  },
+  {
+    "title": "Pixel 5 review: Google spends its bill-of-materials budget unwisely",
+    "url": "https://arstechnica.com/?p=1714684",
+    "upvotes": 63,
+    "author": "feross",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=25039204"
   },
   {
     "title": "The Muse",
@@ -54,9 +54,9 @@
   {
     "title": "Covid vaccine: First ‘milestone’ vaccine offers 90% protection",
     "url": "https://www.bbc.co.uk/news/health-54873105",
-    "upvotes": 1545,
+    "upvotes": 1548,
     "author": "isp",
-    "comments": 947,
+    "comments": 948,
     "link": "https://news.ycombinator.com/item?id=25033844"
   },
   {
@@ -64,8 +64,16 @@
     "url": "https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one",
     "upvotes": 94,
     "author": "progapandist",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=25037293"
+  },
+  {
+    "title": "No More Free Work from Marak: Pay Me or Fork This",
+    "url": "https://github.com/Marak/faker.js/issues/1046",
+    "upvotes": 925,
+    "author": "ingve",
+    "comments": 759,
+    "link": "https://news.ycombinator.com/item?id=25032105"
   },
   {
     "title": "A Pico-8 story: How the fantasy console unlocked Frédéric Souchu’s dreams",
@@ -76,33 +84,25 @@
     "link": "https://news.ycombinator.com/item?id=25029967"
   },
   {
-    "title": "No More Free Work from Marak: Pay Me or Fork This",
-    "url": "https://github.com/Marak/faker.js/issues/1046",
-    "upvotes": 924,
-    "author": "ingve",
-    "comments": 756,
-    "link": "https://news.ycombinator.com/item?id=25032105"
-  },
-  {
     "title": "The battle for the soul of digital freedom taking place inside your printer",
     "url": "https://www.eff.org/deeplinks/2020/11/ink-stained-wretches-battle-soul-digital-freedom-taking-place-inside-your-printer",
-    "upvotes": 332,
+    "upvotes": 333,
     "author": "MilnerRoute",
-    "comments": 268,
+    "comments": 270,
     "link": "https://news.ycombinator.com/item?id=25035736"
   },
   {
     "title": "McDonald's is adding plant-based burgers to the menu",
     "url": "https://www.usatoday.com/story/money/food/2020/11/09/mcplant-mcdonalds-plant-based-burger-crispy-chicken-sandwich/6187977002/",
-    "upvotes": 164,
+    "upvotes": 167,
     "author": "elsewhen",
-    "comments": 164,
+    "comments": 170,
     "link": "https://news.ycombinator.com/item?id=25037183"
   },
   {
     "title": "Using Pokémon to detect scientific misinformation",
     "url": "https://www.the-scientist.com/critic-at-large/opinion-using-pokmon-to-detect-scientific-misinformation-68098",
-    "upvotes": 115,
+    "upvotes": 117,
     "author": "wizeman",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25024648"
@@ -124,14 +124,6 @@
     "link": "https://news.ycombinator.com/item?id=25039713"
   },
   {
-    "title": "A Theory of Universal Learning [pdf]",
-    "url": "https://web.math.princeton.edu/~rvan/tri201106.pdf",
-    "upvotes": 23,
-    "author": "emre",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25038485"
-  },
-  {
     "title": "Analyzing the Limits of Connection Scalability in Postgres",
     "url": "https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/analyzing-the-limits-of-connection-scalability-in-postgres/ba-p/1757266",
     "upvotes": 69,
@@ -140,25 +132,33 @@
     "link": "https://news.ycombinator.com/item?id=25036279"
   },
   {
-    "title": "How Python bytecode is executed",
-    "url": "https://tenthousandmeters.com/blog/python-behind-the-scenes-4-how-python-bytecode-is-executed/",
-    "upvotes": 61,
-    "author": "r4victor",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25025451"
+    "title": "A Theory of Universal Learning [pdf]",
+    "url": "https://web.math.princeton.edu/~rvan/tri201106.pdf",
+    "upvotes": 24,
+    "author": "emre",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25038485"
   },
   {
     "title": "Drawing Machines",
     "url": "https://drawingmachines.org",
-    "upvotes": 50,
+    "upvotes": 51,
     "author": "yonilevy",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25033793"
   },
   {
+    "title": "How Python bytecode is executed",
+    "url": "https://tenthousandmeters.com/blog/python-behind-the-scenes-4-how-python-bytecode-is-executed/",
+    "upvotes": 61,
+    "author": "r4victor",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25025451"
+  },
+  {
     "title": "Voters overwhelmingly back community broadband in Chicago and Denver",
     "url": "https://www.vice.com/en/article/xgzxvz/voters-overwhelmingly-back-community-broadband-in-chicago-and-denver",
-    "upvotes": 558,
+    "upvotes": 559,
     "author": "danso",
     "comments": 188,
     "link": "https://news.ycombinator.com/item?id=25035499"
@@ -190,7 +190,7 @@
   {
     "title": "A hidden gem in sound symmetry",
     "url": "https://soundshader.github.io/hn/acf/index.html",
-    "upvotes": 6,
+    "upvotes": 8,
     "author": "gbh444g",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25037784"
@@ -204,19 +204,11 @@
     "link": "https://news.ycombinator.com/item?id=25033056"
   },
   {
-    "title": "WD SN850 delivers the best performing SSD we've tested",
-    "url": "https://www.tweaktown.com/reviews/9664/wd-black-sn850-1tb-nvme-2-ssd/index.html",
-    "upvotes": 34,
-    "author": "giuliomagnifico",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=25038291"
-  },
-  {
     "title": "Slingbox Discontinued Announcement and FAQ",
     "url": "https://www.slingbox.com/discontinued",
     "upvotes": 43,
     "author": "compsciphd",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=25037342"
   },
   {
@@ -228,11 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=25036391"
   },
   {
-    "title": "Converting Utzoo-Wiseman Usenet Tapes to PostgreSQL Back End Using Python",
-    "url": "https://www.joe0.com/2020/10/07/converting-utzoo-wiseman-netnews-archive-to-postgresql-using-python-3-8/",
+    "title": "WD SN850 delivers the best performing SSD we've tested",
+    "url": "https://www.tweaktown.com/reviews/9664/wd-black-sn850-1tb-nvme-2-ssd/index.html",
     "upvotes": 34,
-    "author": "kxrm",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25036780"
+    "author": "giuliomagnifico",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=25038291"
+  },
+  {
+    "title": "Students have to jump through absurd hoops to use exam monitoring software",
+    "url": "https://www.vice.com/en/article/88anxg/students-have-to-jump-through-absurd-hoops-to-use-exam-monitoring-software",
+    "upvotes": 26,
+    "author": "elsewhen",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=25037064"
   }
 ]
