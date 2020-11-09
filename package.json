@@ -1,0 +1,28 @@
+{
+  "name": "hn-history",
+  "version": "1.0.0",
+  "description": "scrape hackernews every 20min, save json to `hn.json` and commit.",
+  "main": "index.js",
+  "dependencies": {
+    "simple-git": "^2.21.0",
+    "ansi-to-html": "^0.6.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node $npm_package_main",
+    "test": "exit 0",
+    "cache": "node create-cache.js",
+    "static": "node make-static.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christian-fei/hn-history.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christian-fei/hn-history/issues"
+  },
+  "homepage": "https://github.com/christian-fei/hn-history#readme"
+}
