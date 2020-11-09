@@ -1,5 +1,5 @@
-const AU = require('ansi_up').default
-const ansi = new AU()
+const Convert = require('ansi-to-html')
+const convert = new Convert()
 
 module.exports = async function getCommitHTML (commit, commits, { prefix = '' } = {}) {
   const diff = commit.diff
@@ -31,7 +31,7 @@ module.exports = async function getCommitHTML (commit, commits, { prefix = '' } 
           </div>`).join('')}
         </div>
         <div class="col-md-7" style="max-height: 100vh; overflow-y: scroll">
-          <pre>${ansi.ansi_to_html(diff)}</pre>
+          <pre>${convert.toHtml(diff)}</pre>
         </div>
       </div>
     </div>
