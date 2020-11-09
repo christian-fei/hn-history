@@ -15,15 +15,15 @@ jobs:
     steps:
     - name: checkout
       uses: actions/checkout@v2
-    - name: cat cache.json
-      run: |-
-        cat cache.json
     - name: install
       run: |-
         npm install
     - name: cache
       run: |-
         npm run cache
+    - name: cat cache.json
+      run: |-
+        cat cache.json
     - name: static
       run: |-
         npm run static
