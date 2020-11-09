@@ -21,9 +21,7 @@ async function createServer () {
   const hashes = commits.map(l => l.hash)
   console.log('# commits', hashes.length)
   let commit = hashes[0]
-  // console.log(log)
   const server = http.createServer(async (req, res) => {
-    // commit = req.url
     console.log(req.method, req.url)
     const userCommit = req.url.match(/\w+/)
     if (userCommit) {
@@ -39,7 +37,6 @@ async function createServer () {
 async function getCommitHTML (commit, commits) {
   const diff = await git.show(commit).catch(Function.prototype)
   if (!diff) return ''
-  // console.log('diff', diff)
   return `
   <!DOCTYPE html>
   <html lang="en">
