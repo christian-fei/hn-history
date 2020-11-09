@@ -4,8 +4,8 @@
   "description": "scrape hackernews every 20min, save json to `hn.json` and commit.",
   "main": "index.js",
   "dependencies": {
-    "simple-git": "^2.21.0",
-    "ansi-to-html": "^0.6.14"
+    "ansi_up": "^4.0.4",
+    "simple-git": "^2.21.0"
   },
   "devDependencies": {},
   "scripts": {
