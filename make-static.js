@@ -20,13 +20,13 @@ async function makeStatic () {
 
   for (const commit of commits) {
     if (commit.hash === commits[0].hash) {
-      const html = await getCommitHtml(commit, commits)
+      const html = await getCommitHtml(commit, commits, {prefix: '/hn-history'})
       const filename = 'index.html'
       const filepath = path.resolve(__dirname, '_site', filename)
       console.log('writing', filepath)
       fs.writeFileSync(filepath, html, { encoding: 'utf-8' })
     }
-    const html = await getCommitHtml(commit, commits)
+    const html = await getCommitHtml(commit, commits, {prefix: '/hn-history'})
     const filename = `${commit.hash}.html`
     const filepath = path.resolve(__dirname, '_site', filename)
     console.log('writing', filepath)

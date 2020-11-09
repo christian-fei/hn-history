@@ -1,7 +1,7 @@
 const Convert = require('ansi-to-html')
 const convert = new Convert()
 
-module.exports = async function getCommitHTML (commit, commits) {
+module.exports = async function getCommitHTML (commit, commits, { prefix = '' } = {}) {
   const diff = commit.diff
   if (!diff) return ''
   return `
@@ -27,7 +27,7 @@ module.exports = async function getCommitHTML (commit, commits) {
       <div class="row">
         <div class="col-md-5" style="max-height: 100vh; overflow-y: scroll">
           ${commits.map(c => `<div>
-            <a href="/${c.hash}.html" data-toggle="tooltip" data-placement="top" title="${c.message + '\n' + c.date + '\n' + c.author_name}">${c.hash}</a>
+            <a href="${prefix}/${c.hash}.html" data-toggle="tooltip" data-placement="top" title="${c.message + '\n' + c.date + '\n' + c.author_name}">${c.hash}</a>
           </div>`).join('')}
         </div>
         <div class="col-md-7" style="max-height: 100vh; overflow-y: scroll">
