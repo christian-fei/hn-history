@@ -2,7 +2,7 @@
   {
     "title": "How Go helped save HealthCare.gov",
     "url": "https://changelog.com/gotime/154",
-    "upvotes": 142,
+    "upvotes": 143,
     "author": "ra7",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25038980"
@@ -10,15 +10,15 @@
   {
     "title": "Amazon Review Scam",
     "url": "https://twitter.com/cperciva/status/1325882623424565248",
-    "upvotes": 179,
+    "upvotes": 187,
     "author": "StreamBright",
-    "comments": 82,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=25038734"
   },
   {
     "title": "How to Recalculate a Spreadsheet",
     "url": "https://lord.io/blog/2020/spreadsheets/",
-    "upvotes": 83,
+    "upvotes": 85,
     "author": "todsacerdoti",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25039393"
@@ -26,7 +26,7 @@
   {
     "title": "What is a System-on-Chip",
     "url": "https://www.bunniestudios.com/blog/?p=5971",
-    "upvotes": 82,
+    "upvotes": 83,
     "author": "parsecs",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25039013"
@@ -42,9 +42,9 @@
   {
     "title": "Covid vaccine: First ‘milestone’ vaccine offers 90% protection",
     "url": "https://www.bbc.co.uk/news/health-54873105",
-    "upvotes": 1586,
+    "upvotes": 1588,
     "author": "isp",
-    "comments": 962,
+    "comments": 963,
     "link": "https://news.ycombinator.com/item?id=25033844"
   },
   {
@@ -68,9 +68,17 @@
     "url": "https://www.themuse.com/jobs/themuse/director-account-management#"
   },
   {
+    "title": "Slimium: Debloating the Chromium Browser with Feature Subsetting",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3372297.3417866",
+    "upvotes": 15,
+    "author": "feross",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25039713"
+  },
+  {
     "title": "No More Free Work from Marak: Pay Me or Fork This",
     "url": "https://github.com/Marak/faker.js/issues/1046",
-    "upvotes": 941,
+    "upvotes": 942,
     "author": "ingve",
     "comments": 773,
     "link": "https://news.ycombinator.com/item?id=25032105"
@@ -92,25 +100,17 @@
     "link": "https://news.ycombinator.com/item?id=25035736"
   },
   {
-    "title": "Slimium: Debloating the Chromium Browser with Feature Subsetting",
-    "url": "https://dl.acm.org/doi/pdf/10.1145/3372297.3417866",
-    "upvotes": 13,
-    "author": "feross",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25039713"
-  },
-  {
     "title": "McDonald's is adding plant-based burgers to the menu",
     "url": "https://www.usatoday.com/story/money/food/2020/11/09/mcplant-mcdonalds-plant-based-burger-crispy-chicken-sandwich/6187977002/",
-    "upvotes": 194,
+    "upvotes": 195,
     "author": "elsewhen",
-    "comments": 188,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=25037183"
   },
   {
     "title": "A Theory of Universal Learning [pdf]",
     "url": "https://web.math.princeton.edu/~rvan/tri201106.pdf",
-    "upvotes": 31,
+    "upvotes": 32,
     "author": "emre",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25038485"
@@ -144,7 +144,7 @@
     "url": "https://soundshader.github.io/hn/acf/index.html",
     "upvotes": 25,
     "author": "gbh444g",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25037784"
   },
   {
@@ -188,6 +188,14 @@
     "link": "https://news.ycombinator.com/item?id=25033793"
   },
   {
+    "title": "Voters overwhelmingly back community broadband in Chicago and Denver",
+    "url": "https://www.vice.com/en/article/xgzxvz/voters-overwhelmingly-back-community-broadband-in-chicago-and-denver",
+    "upvotes": 568,
+    "author": "danso",
+    "comments": 195,
+    "link": "https://news.ycombinator.com/item?id=25035499"
+  },
+  {
     "title": "Virtual Consensus in Delos",
     "url": "https://blog.acolyer.org/2020/11/09/delos/",
     "upvotes": 9,
@@ -196,20 +204,12 @@
     "link": "https://news.ycombinator.com/item?id=25039846"
   },
   {
-    "title": "Voters overwhelmingly back community broadband in Chicago and Denver",
-    "url": "https://www.vice.com/en/article/xgzxvz/voters-overwhelmingly-back-community-broadband-in-chicago-and-denver",
-    "upvotes": 566,
-    "author": "danso",
-    "comments": 195,
-    "link": "https://news.ycombinator.com/item?id=25035499"
-  },
-  {
-    "title": "Japan’s Onryō Spirits Inhabit a Purgatory of Revenge and Cosmic Rage",
-    "url": "https://www.atlasobscura.com/articles/monster-mythology-onryo",
-    "upvotes": 13,
-    "author": "Thevet",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25031491"
+    "title": "Dog – A command-line DNS client written in Rust",
+    "url": "https://github.com/ogham/dog",
+    "upvotes": 217,
+    "author": "guessmyname",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=25033056"
   },
   {
     "title": "Students have to jump through absurd hoops to use exam monitoring software",
@@ -220,12 +220,12 @@
     "link": "https://news.ycombinator.com/item?id=25037064"
   },
   {
-    "title": "Dog – A command-line DNS client written in Rust",
-    "url": "https://github.com/ogham/dog",
-    "upvotes": 217,
-    "author": "guessmyname",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=25033056"
+    "title": "Japan’s Onryō Spirits Inhabit a Purgatory of Revenge and Cosmic Rage",
+    "url": "https://www.atlasobscura.com/articles/monster-mythology-onryo",
+    "upvotes": 13,
+    "author": "Thevet",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25031491"
   },
   {
     "title": "Slingbox Discontinued Announcement and FAQ",
