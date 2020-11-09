@@ -20,12 +20,15 @@ jobs:
     - name: install
       run: |-
         npm install
+    - name: git colors
+      run: |-
+        git config --global --add color.ui true
     - name: cache
       run: |-
         npm run cache
     - name: static
       run: |-
-        FORCE_COLOR=3 TERM=xterm-256color npm run static
+        npm run static
     - name: gh-pages
       uses: peaceiris/actions-gh-pages@v3
       with:
