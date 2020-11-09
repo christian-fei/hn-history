@@ -22,7 +22,7 @@ jobs:
         npm install
     - name: cache
       run: |-
-        npm run cache && env
+        npm run cache
     - name: static
       run: |-
         npm run static
