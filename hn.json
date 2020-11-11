@@ -2,31 +2,39 @@
   {
     "title": "Doomsday prepping – Disaster planning for less crazy folk",
     "url": "https://lcamtuf.coredump.cx/prep/",
-    "upvotes": 51,
+    "upvotes": 70,
     "author": "VBprogrammer",
-    "comments": 6,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25060418"
+  },
+  {
+    "title": "Updating Google Photos’ storage policy to build for the future",
+    "url": "https://blog.google/products/photos/storage-changes/",
+    "upvotes": 28,
+    "author": "mvgoogler",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=25060882"
   },
   {
     "title": "Introduction to Linear Algebra for Applied Machine Learning with Python",
     "url": "https://pabloinsente.github.io/intro-linear-algebra",
-    "upvotes": 193,
+    "upvotes": 202,
     "author": "Anon84",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25058619"
   },
   {
     "title": "Show HN: Self-hosted offline Internet from your browsing history",
     "url": "https://github.com/c9fe/22120.git",
-    "upvotes": 68,
+    "upvotes": 77,
     "author": "graderjs",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25059554"
   },
   {
     "title": "Postgres Observability",
     "url": "https://pgstats.dev/",
-    "upvotes": 276,
+    "upvotes": 280,
     "author": "fforflo",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25058045"
@@ -34,110 +42,118 @@
   {
     "title": "Swiss report reveals new details on CIA spying operation",
     "url": "https://www.washingtonpost.com/national-security/swiss-report-reveals-new-details-on-cia-spying-operation/2020/11/10/c93ca7fc-2386-11eb-8672-c281c7a2c96e_story.html",
-    "upvotes": 66,
+    "upvotes": 75,
     "author": "tpurves",
-    "comments": 27,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25058783"
+  },
+  {
+    "title": "Are Package Registries Holding Open-Source Hostage?",
+    "url": "https://about.scarf.sh/post/package-registries-and-open-source",
+    "upvotes": 27,
+    "author": "aviaviavi",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=25059755"
   },
   {
     "title": "Disaster prepping is mainstream again",
     "url": "https://www.nationalgeographic.com/history/2020/11/disaster-prepping-was-once-an-american-pastime-today-its-mainstream-again/",
-    "upvotes": 96,
+    "upvotes": 101,
     "author": "CapitalistCartr",
-    "comments": 150,
+    "comments": 159,
     "link": "https://news.ycombinator.com/item?id=25059984"
-  },
-  {
-    "title": "$200k in sales from a $6k advertisement",
-    "url": "https://www.wifidabba.com/blog/200000-dollars-in-sales-from-one-daringfireball-ad",
-    "upvotes": 216,
-    "author": "mildlyclassic",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=25058363"
   },
   {
     "title": "Shasqi (YC W15) Is Hiring Dir Translational Sciences and Dir. Medicinal Chemistry",
     "url": "item?id=25060126"
   },
   {
-    "title": "Advanced System-on-Chip Design Lecture Notes",
-    "url": "https://iis-people.ee.ethz.ch/~gmichi/asocd/lecturenotes/",
-    "upvotes": 158,
-    "author": "allending",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25057889"
-  },
-  {
-    "title": "Are Package Registries Holding Open-Source Hostage?",
-    "url": "https://about.scarf.sh/post/package-registries-and-open-source",
-    "upvotes": 21,
-    "author": "aviaviavi",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25059755"
-  },
-  {
-    "title": "Exploring PGO for the Rust Compiler",
-    "url": "https://blog.rust-lang.org/inside-rust/2020/11/11/exploring-pgo-for-the-rust-compiler",
-    "upvotes": 7,
-    "author": "ibraheemdev",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25060762"
+    "title": "$200k in sales from a $6k advertisement",
+    "url": "https://www.wifidabba.com/blog/200000-dollars-in-sales-from-one-daringfireball-ad",
+    "upvotes": 226,
+    "author": "mildlyclassic",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=25058363"
   },
   {
     "title": "PySDR: A Guide to SDR and DSP Using Python",
     "url": "https://pysdr.org/",
-    "upvotes": 9,
+    "upvotes": 14,
     "author": "emptybits",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25060152"
   },
   {
-    "title": "Updating Google Photos’ storage policy to build for the future",
-    "url": "https://blog.google/products/photos/storage-changes/",
-    "upvotes": 5,
-    "author": "mvgoogler",
+    "title": "Advanced System-on-Chip Design Lecture Notes",
+    "url": "https://iis-people.ee.ethz.ch/~gmichi/asocd/lecturenotes/",
+    "upvotes": 160,
+    "author": "allending",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25057889"
+  },
+  {
+    "title": "Exploring PGO for the Rust Compiler",
+    "url": "https://blog.rust-lang.org/inside-rust/2020/11/11/exploring-pgo-for-the-rust-compiler",
+    "upvotes": 10,
+    "author": "ibraheemdev",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25060762"
+  },
+  {
+    "title": "Self hosted uptime robot alternative written in go",
+    "url": "https://github.com/TwinProduction/gatus/actions",
+    "upvotes": 12,
+    "author": "laptop-man",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25060321"
+  },
+  {
+    "title": "Xilinx-Samsung SmartSSD Computational Storage Drive Launched",
+    "url": "https://www.servethehome.com/xilinx-samsung-smartssd-computational-storage-drive-launched/",
+    "upvotes": 16,
+    "author": "blopeur",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25060882"
+    "link": "https://news.ycombinator.com/item?id=25059946"
   },
   {
     "title": "Show HN: The Least Dangerous To-Do List",
     "url": "https://theleastdangeroustodolist.com",
-    "upvotes": 63,
+    "upvotes": 66,
     "author": "maebert",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25058821"
   },
   {
     "title": "CQRS: Command Query Responsibility Segregation",
     "url": "https://martinfowler.com/bliki/CQRS.html",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "chynkm",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=25057864"
   },
   {
-    "title": "Self hosted uptime robot alternative written in go",
-    "url": "https://github.com/TwinProduction/gatus/actions",
-    "upvotes": 9,
-    "author": "laptop-man",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25060321"
+    "title": "Building the Mathematical Library of the Future",
+    "url": "https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/",
+    "upvotes": 12,
+    "author": "misotaur",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25060613"
+  },
+  {
+    "title": "Insights from Adopting TypeScript at Scale",
+    "url": "https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/",
+    "upvotes": 16,
+    "author": "robpalmer",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25043541"
   },
   {
     "title": "Will R Work on Apple Silicon?",
     "url": "https://developer.r-project.org/Blog/public/2020/11/02/will-r-work-on-apple-silicon/",
-    "upvotes": 130,
+    "upvotes": 137,
     "author": "nojito",
-    "comments": 100,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=25057985"
-  },
-  {
-    "title": "Building the Mathematical Library of the Future",
-    "url": "https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/",
-    "upvotes": 10,
-    "author": "misotaur",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25060613"
   },
   {
     "title": "Anki Cards for Fast.ai",
@@ -148,91 +164,75 @@
     "link": "https://news.ycombinator.com/item?id=25057860"
   },
   {
-    "title": "Xilinx-Samsung SmartSSD Computational Storage Drive Launched",
-    "url": "https://www.servethehome.com/xilinx-samsung-smartssd-computational-storage-drive-launched/",
-    "upvotes": 10,
-    "author": "blopeur",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25059946"
-  },
-  {
-    "title": "Productivity vs. Privacy",
-    "url": "https://jessems.com/productivity-vs-privacy",
-    "upvotes": 26,
-    "author": "jessems",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25059205"
-  },
-  {
-    "title": "The Snood Bloober is an open-source reverse-engineered Sound Blaster 1.0 clone",
-    "url": "https://github.com/schlae/snark-barker",
-    "upvotes": 175,
-    "author": "edward",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=25029727"
-  },
-  {
-    "title": "Show HN: Config.ly – Never hardcode your data again",
-    "url": "https://www.config.ly",
-    "upvotes": 34,
-    "author": "jeremyis",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=25059296"
-  },
-  {
-    "title": "Carmakers want to ditch battery packs, use auto bodies for energy storage",
-    "url": "https://arstechnica.com/cars/2020/11/carmakers-want-to-ditch-battery-packs-use-auto-bodies-for-energy-storage/",
-    "upvotes": 43,
-    "author": "tapper",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=25025391"
-  },
-  {
     "title": "Sensors driven by machine learning sniff-out gas leaks fast",
     "url": "https://www.sciencedaily.com/releases/2020/10/201029105038.htm",
-    "upvotes": 8,
+    "upvotes": 10,
     "author": "bennyspaceman",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25045655"
   },
   {
+    "title": "Productivity vs. Privacy",
+    "url": "https://jessems.com/productivity-vs-privacy",
+    "upvotes": 27,
+    "author": "jessems",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25059205"
+  },
+  {
+    "title": "The Snood Bloober is an open-source reverse-engineered Sound Blaster 1.0 clone",
+    "url": "https://github.com/schlae/snark-barker",
+    "upvotes": 176,
+    "author": "edward",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=25029727"
+  },
+  {
+    "title": "Show HN: Config.ly – Never hardcode your data again",
+    "url": "https://www.config.ly",
+    "upvotes": 37,
+    "author": "jeremyis",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=25059296"
+  },
+  {
+    "title": "Show HN: Dead easy Python for executing many HTTP requests asynchronously",
+    "url": "https://github.com/joshlk/many_requests",
+    "upvotes": 19,
+    "author": "joshlk",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25059440"
+  },
+  {
+    "title": "Bye Bye, Ajit Pai: FCC Boss Will Soon Lose Top Spot",
+    "url": "https://www.vice.com/en/article/dy8vew/bye-bye-ajit-pai-fcc-boss-will-soon-lose-top-spot",
+    "upvotes": 19,
+    "author": "BRedSox",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25060260"
+  },
+  {
+    "title": "Carmakers want to ditch battery packs, use auto bodies for energy storage",
+    "url": "https://arstechnica.com/cars/2020/11/carmakers-want-to-ditch-battery-packs-use-auto-bodies-for-energy-storage/",
+    "upvotes": 45,
+    "author": "tapper",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=25025391"
+  },
+  {
     "title": "Poetry in Allen Ginsberg's Photography",
     "url": "https://www.npr.org/sections/pictureshow/2010/05/05/126532131/ginsberg",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "prismatic",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25031432"
   },
   {
     "title": "A crop of startups are trying to make for-profit local news work",
     "url": "https://digiday.com/media/go-in-small-with-clear-eyed-expectations-how-a-crop-of-startups-are-trying-to-make-for-profit-local-news-work/",
-    "upvotes": 102,
+    "upvotes": 103,
     "author": "Manheim",
-    "comments": 65,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=25056061"
-  },
-  {
-    "title": "Apple's Shifting Differentiation",
-    "url": "https://stratechery.com/2020/apples-shifting-differentiation/",
-    "upvotes": 179,
-    "author": "kaboro",
-    "comments": 176,
-    "link": "https://news.ycombinator.com/item?id=25058113"
-  },
-  {
-    "title": "Cell Signaling Technologies – Detailed 3D model of human cells",
-    "url": "http://www.digizyme.com/cst_landscapes.html",
-    "upvotes": 144,
-    "author": "ozten",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=25055908"
-  },
-  {
-    "title": "Show HN: Dead easy Python for executing many HTTP requests asynchronously",
-    "url": "https://github.com/joshlk/many_requests",
-    "upvotes": 17,
-    "author": "joshlk",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25059440"
   }
 ]
