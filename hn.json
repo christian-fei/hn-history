@@ -1,40 +1,48 @@
 [
   {
-    "title": "How to get root on Ubuntu 20.04 by pretending nobody’s /home",
-    "url": "https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE",
-    "upvotes": 619,
-    "author": "generalizations",
-    "comments": 166,
-    "link": "https://news.ycombinator.com/item?id=25053238"
-  },
-  {
-    "title": "We made our own x86 shellcode emulator and how it works",
-    "url": "https://hvmi.github.io/blog/2020/11/11/bdshemu.html",
-    "upvotes": 12,
-    "author": "mdontu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25057062"
-  },
-  {
     "title": "Academia Resembles a Drug Gang",
     "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2013/12/11/how-academia-resembles-a-drug-gang/",
-    "upvotes": 6,
+    "upvotes": 37,
     "author": "EvgeniyZh",
-    "comments": null,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25057123"
+  },
+  {
+    "title": "How to get root on Ubuntu 20.04 by pretending nobody’s /home",
+    "url": "https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE",
+    "upvotes": 637,
+    "author": "generalizations",
+    "comments": 170,
+    "link": "https://news.ycombinator.com/item?id=25053238"
   },
   {
     "title": "Cell Signaling Technologies – Detailed 3D model of human cells",
     "url": "http://www.digizyme.com/cst_landscapes.html",
-    "upvotes": 71,
+    "upvotes": 74,
     "author": "ozten",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25055908"
   },
   {
+    "title": "Charles Darwin’s hunch about early life was probably right",
+    "url": "https://www.bbc.com/future/article/20201110-charles-darwin-early-life-theory",
+    "upvotes": 14,
+    "author": "clouddrover",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25057153"
+  },
+  {
+    "title": "We made our own x86 shellcode emulator and how it works",
+    "url": "https://hvmi.github.io/blog/2020/11/11/bdshemu.html",
+    "upvotes": 13,
+    "author": "mdontu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25057062"
+  },
+  {
     "title": "The Snood Bloober is an open-source reverse-engineered Sound Blaster 1.0 clone",
     "url": "https://github.com/schlae/snark-barker",
-    "upvotes": 51,
+    "upvotes": 56,
     "author": "edward",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25029727"
@@ -42,7 +50,7 @@
   {
     "title": "A crop of startups are trying to make for-profit local news work",
     "url": "https://digiday.com/media/go-in-small-with-clear-eyed-expectations-how-a-crop-of-startups-are-trying-to-make-for-profit-local-news-work/",
-    "upvotes": 31,
+    "upvotes": 36,
     "author": "Manheim",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25056061"
@@ -50,75 +58,67 @@
   {
     "title": "Using Rust to Scale Elixir for 11M Concurrent Users",
     "url": "https://blog.discord.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3",
-    "upvotes": 245,
+    "upvotes": 255,
     "author": "aloukissas",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=25053553"
   },
   {
-    "title": "Option Hacking the Tektronix TDS 420A",
-    "url": "https://tomverbeure.github.io/2020/07/11/Option-Hacking-the-Tektronix-TDS-420A.html",
-    "upvotes": 3,
-    "author": "segfaultbuserr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25057162"
-  },
-  {
     "title": "Apple unveils M1, its first system-on-a-chip for portable Mac computers",
     "url": "https://9to5mac.com/2020/11/10/apple-unveils-m1-its-first-system-on-a-chip-for-portable-mac-computers/",
-    "upvotes": 1218,
+    "upvotes": 1221,
     "author": "runesoerensen",
-    "comments": 1205,
+    "comments": 1211,
     "link": "https://news.ycombinator.com/item?id=25049079"
   },
   {
-    "title": "Charles Darwin’s hunch about early life was probably right",
-    "url": "https://www.bbc.com/future/article/20201110-charles-darwin-early-life-theory",
-    "upvotes": 3,
-    "author": "clouddrover",
+    "title": "Python Concurrency From the Ground Up",
+    "url": "https://www.youtube.com/watch?v=MCs5OvhV9S4",
+    "upvotes": 34,
+    "author": "BerislavLopac",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25033078"
+  },
+  {
+    "title": "Drug Themes in Science Fiction, by Robert Silverberg",
+    "url": "https://erowid.org/library/library_bibliography1.pdf",
+    "upvotes": 22,
+    "author": "benbreen",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25057153"
+    "link": "https://news.ycombinator.com/item?id=25055991"
   },
   {
     "title": "The election of the doge",
     "url": "https://generalist.academy/2020/11/06/the-election-of-the-doge/",
-    "upvotes": 74,
+    "upvotes": 76,
     "author": "flannery",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=25039470"
   },
   {
     "title": "Notes for courses taken at Harvard",
     "url": "https://github.com/Dongryul-Kim/harvard_notes",
-    "upvotes": 78,
+    "upvotes": 83,
     "author": "E-Reverance",
-    "comments": 28,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25055267"
   },
   {
-    "title": "Drug Themes in Science Fiction, by Robert Silverberg",
-    "url": "https://erowid.org/library/library_bibliography1.pdf",
-    "upvotes": 20,
-    "author": "benbreen",
+    "title": "Option Hacking the Tektronix TDS 420A",
+    "url": "https://tomverbeure.github.io/2020/07/11/Option-Hacking-the-Tektronix-TDS-420A.html",
+    "upvotes": 5,
+    "author": "segfaultbuserr",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25055991"
+    "link": "https://news.ycombinator.com/item?id=25057162"
   },
   {
     "title": "Stacker",
     "url": "https://static.stacker.app/hiring"
   },
   {
-    "title": "Python Concurrency From the Ground Up",
-    "url": "https://www.youtube.com/watch?v=MCs5OvhV9S4",
-    "upvotes": 30,
-    "author": "BerislavLopac",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25033078"
-  },
-  {
     "title": "Intriguing maps that reveal alternate histories",
     "url": "https://www.bbc.com/future/article/20201104-the-intriguing-maps-that-reveal-alternate-histories",
-    "upvotes": 50,
+    "upvotes": 53,
     "author": "chwolfe",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25055125"
@@ -126,10 +126,18 @@
   {
     "title": "Zoom lied to users about end-to-end encryption for years, FTC says",
     "url": "https://arstechnica.com/tech-policy/2020/11/zoom-lied-to-users-about-end-to-end-encryption-for-years-ftc-says/",
-    "upvotes": 1464,
+    "upvotes": 1467,
     "author": "eddieoz",
-    "comments": 367,
+    "comments": 369,
     "link": "https://news.ycombinator.com/item?id=25044254"
+  },
+  {
+    "title": "Firejail – Sandbox Linux Applications",
+    "url": "https://github.com/netblue30/firejail",
+    "upvotes": 164,
+    "author": "thushanfernando",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=25052341"
   },
   {
     "title": "Getting a biometric security key right",
@@ -140,20 +148,28 @@
     "link": "https://news.ycombinator.com/item?id=25053644"
   },
   {
-    "title": "Firejail – Sandbox Linux Applications",
-    "url": "https://github.com/netblue30/firejail",
-    "upvotes": 163,
-    "author": "thushanfernando",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=25052341"
-  },
-  {
     "title": "On Apple's Piss-Poor Documentation",
     "url": "https://www.caseyliss.com/2020/11/10/on-apples-pisspoor-documentation",
-    "upvotes": 1063,
+    "upvotes": 1066,
     "author": "ingve",
     "comments": 310,
     "link": "https://news.ycombinator.com/item?id=25046691"
+  },
+  {
+    "title": "Vigil: The eternal morally vigilant programming language",
+    "url": "https://github.com/munificent/vigil",
+    "upvotes": 151,
+    "author": "headalgorithm",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=25052001"
+  },
+  {
+    "title": "iFixit tools in Apple's lab",
+    "url": "https://twitter.com/iFixit/status/1326264991192764416",
+    "upvotes": 169,
+    "author": "miles",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=25055590"
   },
   {
     "title": "Welcome to the Cloud Zoo",
@@ -164,20 +180,36 @@
     "link": "https://news.ycombinator.com/item?id=25040494"
   },
   {
-    "title": "iFixit tools in Apple's lab",
-    "url": "https://twitter.com/iFixit/status/1326264991192764416",
-    "upvotes": 163,
-    "author": "miles",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=25055590"
+    "title": "Puppetaria: Accessibility-First Puppeteer Scripts",
+    "url": "https://developers.google.com/web/updates/2020/11/puppetaria",
+    "upvotes": 27,
+    "author": "feross",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25046714"
   },
   {
-    "title": "Vigil: The eternal morally vigilant programming language",
-    "url": "https://github.com/munificent/vigil",
-    "upvotes": 148,
-    "author": "headalgorithm",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=25052001"
+    "title": "Artificial intelligence may be making people buy things",
+    "url": "https://www.bbc.co.uk/news/technology-54522442",
+    "upvotes": 52,
+    "author": "edward",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=25035495"
+  },
+  {
+    "title": "When Objects Become Extensions of You",
+    "url": "https://thereader.mitpress.mit.edu/when-objects-become-extensions-of-you/",
+    "upvotes": 31,
+    "author": "anarbadalov",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25050893"
+  },
+  {
+    "title": ".NET 5.0",
+    "url": "https://devblogs.microsoft.com/dotnet/announcing-net-5-0/",
+    "upvotes": 726,
+    "author": "benaadams",
+    "comments": 398,
+    "link": "https://news.ycombinator.com/item?id=25047409"
   },
   {
     "title": "Incremental Migrations",
@@ -188,51 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=25039632"
   },
   {
-    "title": "Artificial intelligence may be making people buy things",
-    "url": "https://www.bbc.co.uk/news/technology-54522442",
-    "upvotes": 51,
-    "author": "edward",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=25035495"
-  },
-  {
-    "title": "Puppetaria: Accessibility-First Puppeteer Scripts",
-    "url": "https://developers.google.com/web/updates/2020/11/puppetaria",
-    "upvotes": 26,
-    "author": "feross",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25046714"
-  },
-  {
-    "title": ".NET 5.0",
-    "url": "https://devblogs.microsoft.com/dotnet/announcing-net-5-0/",
-    "upvotes": 726,
-    "author": "benaadams",
-    "comments": 397,
-    "link": "https://news.ycombinator.com/item?id=25047409"
-  },
-  {
     "title": "Introducing the next generation of Mac",
     "url": "https://www.apple.com/newsroom/2020/11/introducing-the-next-generation-of-mac/",
     "upvotes": 589,
     "author": "redm",
-    "comments": 862,
+    "comments": 867,
     "link": "https://news.ycombinator.com/item?id=25049528"
-  },
-  {
-    "title": "When Objects Become Extensions of You",
-    "url": "https://thereader.mitpress.mit.edu/when-objects-become-extensions-of-you/",
-    "upvotes": 28,
-    "author": "anarbadalov",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25050893"
   },
   {
     "title": "The Lonely Work of Moderating Hacker News",
     "url": "https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news",
-    "upvotes": 552,
+    "upvotes": 553,
     "author": "bluu00",
-    "comments": 235,
+    "comments": 236,
     "link": "https://news.ycombinator.com/item?id=25048415"
   }
 ]
