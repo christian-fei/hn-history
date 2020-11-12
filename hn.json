@@ -2,57 +2,69 @@
   {
     "title": "macOS Big Sur",
     "url": "https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/",
-    "upvotes": 298,
+    "upvotes": 311,
     "author": "todsacerdoti",
-    "comments": 430,
+    "comments": 446,
     "link": "https://news.ycombinator.com/item?id=25072644"
   },
   {
     "title": "Docker fails to launch on Apple Silicon",
     "url": "https://github.com/docker/for-mac/issues/4733",
-    "upvotes": 116,
+    "upvotes": 136,
     "author": "bartkappenburg",
-    "comments": 57,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=25073010"
-  },
-  {
-    "title": "Guido van Rossum joins Microsoft",
-    "url": "https://twitter.com/gvanrossum/status/1326932991566700549",
-    "upvotes": 842,
-    "author": "0xmohit",
-    "comments": 462,
-    "link": "https://news.ycombinator.com/item?id=25071847"
   },
   {
     "title": "Evidence-based software engineering: book released",
     "url": "http://shape-of-code.coding-guidelines.com/2020/11/08/evidence-based-software-engineering-book-released/",
-    "upvotes": 64,
+    "upvotes": 72,
     "author": "qznc",
-    "comments": 28,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25073218"
+  },
+  {
+    "title": "Guido van Rossum joins Microsoft",
+    "url": "https://twitter.com/gvanrossum/status/1326932991566700549",
+    "upvotes": 850,
+    "author": "0xmohit",
+    "comments": 472,
+    "link": "https://news.ycombinator.com/item?id=25071847"
   },
   {
     "title": "Stripe migrates Stripe Subscriptions users to Stripe Billing",
     "url": "https://stripe.com/billing",
-    "upvotes": 235,
+    "upvotes": 239,
     "author": "corentin88",
-    "comments": 197,
+    "comments": 206,
     "link": "https://news.ycombinator.com/item?id=25072783"
+  },
+  {
+    "title": "Lowkey",
+    "url": "https://www.notion.so/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748"
   },
   {
     "title": "Effect of exercise training for five years on all cause mortality",
     "url": "https://www.bmj.com/content/371/bmj.m3485",
-    "upvotes": 139,
+    "upvotes": 143,
     "author": "evo_9",
-    "comments": 84,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=25071676"
+  },
+  {
+    "title": "Most popular links in Hacker News comments, 2006–2015",
+    "url": "https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md",
+    "upvotes": 20,
+    "author": "simonebrunozzi",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25074306"
   },
   {
     "title": "Qwant: The Search Engine That Respects Your Privacy",
     "url": "https://www.qwant.com/",
-    "upvotes": 24,
+    "upvotes": 28,
     "author": "Mizza",
-    "comments": 12,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25074053"
   },
   {
@@ -60,13 +72,13 @@
     "url": "https://aws.amazon.com/glue/features/databrew/",
     "upvotes": 97,
     "author": "ManWith2Plans",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=25071443"
   },
   {
     "title": "The Exploding Whale remastered: 50th anniversary of legendary Oregon event",
     "url": "https://katu.com/news/local/the-exploding-whale-50th-anniversary-of-legendary-oregon-event",
-    "upvotes": 133,
+    "upvotes": 135,
     "author": "danso",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=25070440"
@@ -74,94 +86,106 @@
   {
     "title": "Migrating Large Heroku Postgres Instances to AWS Aurora Without Downtime",
     "url": "https://thecodinginterface.com/blog/heroku-postgres-migration-to-aurora/",
-    "upvotes": 73,
+    "upvotes": 75,
     "author": "sciguymcq",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25071502"
-  },
-  {
-    "title": "Most popular links in Hacker News comments, 2006–2015",
-    "url": "https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md",
-    "upvotes": 12,
-    "author": "simonebrunozzi",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25074306"
   },
   {
     "title": "Job interest not a big predictor of job satisfaction",
     "url": "https://uh.edu/news-events/stories/2020/november-2020/11112020-kevin-hoff-interest-job-satisfaction.php",
-    "upvotes": 83,
+    "upvotes": 87,
     "author": "rustoo",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25071126"
   },
   {
     "title": "Funkwhale – Decentralized, self-hosted music server",
     "url": "https://funkwhale.audio/",
-    "upvotes": 462,
+    "upvotes": 464,
     "author": "peterstensmyr",
-    "comments": 252,
+    "comments": 253,
     "link": "https://news.ycombinator.com/item?id=25067701"
-  },
-  {
-    "title": "Sweeps",
-    "url": "https://sweeps.ai/senior-software-engineer.pdf"
-  },
-  {
-    "title": "Show HN: A 1000 auto-generated hexagonal SVG logos",
-    "url": "https://dosycorp.gitlab.io/dosylogo/?v923418754891239875624v1",
-    "upvotes": 50,
-    "author": "graderjs",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=25071643"
   },
   {
     "title": "Optical Illusions and Visual Phenomena",
     "url": "https://michaelbach.de/ot/",
-    "upvotes": 7,
+    "upvotes": 10,
     "author": "parisianka",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25045392"
   },
   {
+    "title": "Show HN: A 1000 auto-generated hexagonal SVG logos",
+    "url": "https://dosycorp.gitlab.io/dosylogo/?v923418754891239875624v1",
+    "upvotes": 52,
+    "author": "graderjs",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=25071643"
+  },
+  {
     "title": "Progress, Stagnation, and Flying Cars",
     "url": "https://rootsofprogress.org/where-is-my-flying-car",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "jseliger",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25073835"
+  },
+  {
+    "title": "Macs are freezing because of Big Sur update",
+    "url": "https://twitter.com/michaelvillar/status/1326994438921613320",
+    "upvotes": 22,
+    "author": "michaelvillar",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25075144"
   },
   {
     "title": "European Languages Datasets",
     "url": "https://www.european-language-grid.eu/",
     "upvotes": 38,
     "author": "pragmaticalien8",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25071620"
   },
   {
     "title": "Wayeb: A Complex Event Processing and Forecasting Engine",
     "url": "https://github.com/ElAlev/Wayeb",
-    "upvotes": 60,
+    "upvotes": 61,
     "author": "Averroito",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25070810"
+  },
+  {
+    "title": "MacBook Pros unable to open any non-Apple application",
+    "url": "https://twitter.com/lapcatsoftware/status/1326990296412991489",
+    "upvotes": 28,
+    "author": "mattsolle",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25074959"
+  },
+  {
+    "title": "Northwestern Sports Time Machine: Lisa Ishikawa, 1984",
+    "url": "https://dailynorthwestern.com/2020/06/15/sports/northwestern-sports-time-machine-lisa-ishikawa-1984/",
+    "upvotes": 10,
+    "author": "wglb",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25043409"
+  },
+  {
+    "title": "Show HN: Switch Git Users CLI",
+    "url": "https://github.com/geongeorge/Git-User-Switch",
+    "upvotes": 96,
+    "author": "geongeorgek",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=25069350"
   },
   {
     "title": "Quality Without a Name",
     "url": "https://wiki.c2.com/?QualityWithoutaName",
     "upvotes": 19,
     "author": "aaadult",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25044112"
-  },
-  {
-    "title": "Show HN: Switch Git Users CLI",
-    "url": "https://github.com/geongeorge/Git-User-Switch",
-    "upvotes": 94,
-    "author": "geongeorgek",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=25069350"
   },
   {
     "title": "Netlify for the frontend, Micro for the backend",
@@ -174,65 +198,41 @@
   {
     "title": "Angular 11",
     "url": "https://blog.angular.io/version-11-of-angular-now-available-74721b7952f7",
-    "upvotes": 123,
+    "upvotes": 124,
     "author": "amitport",
-    "comments": 146,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=25068668"
   },
   {
     "title": "Judge dismisses Apple’s “theft” claims in Epic Games lawsuit",
     "url": "https://arstechnica.com/gaming/2020/11/judge-dismisses-apples-theft-claims-in-epic-games-lawsuit/",
-    "upvotes": 100,
+    "upvotes": 110,
     "author": "thg",
-    "comments": 43,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=25071993"
   },
   {
     "title": "Intel Xe Graphics: An Interview with VP Lisa Pearce",
     "url": "https://www.anandtech.com/show/16239/intel-xe-graphics-an-interview-with-vp-lisa-pearce",
-    "upvotes": 24,
+    "upvotes": 26,
     "author": "zdw",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25062794"
   },
   {
     "title": "I Still Use Vim",
     "url": "https://buttondown.email/hillelwayne/archive/why-i-still-use-vim/",
-    "upvotes": 69,
+    "upvotes": 75,
     "author": "luu",
-    "comments": 64,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=25073640"
-  },
-  {
-    "title": "Northwestern Sports Time Machine: Lisa Ishikawa, 1984",
-    "url": "https://dailynorthwestern.com/2020/06/15/sports/northwestern-sports-time-machine-lisa-ishikawa-1984/",
-    "upvotes": 7,
-    "author": "wglb",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25043409"
   },
   {
     "title": "Plant Tweets",
     "url": "http://sarabee.github.io/2020/04/19/plant-tweets-part-1/",
-    "upvotes": 44,
+    "upvotes": 45,
     "author": "luu",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25044512"
-  },
-  {
-    "title": "Masayoshi Son had help pulling SoftBank from the brink",
-    "url": "https://www.wsj.com/articles/masayoshi-son-softbank-elliott-management-11605069825",
-    "upvotes": 85,
-    "author": "simonebrunozzi",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=25060166"
-  },
-  {
-    "title": "Apple Silicon M1 chip in MacBook Air outperforms high-end 16-inch MacBook Pro",
-    "url": "https://www.macrumors.com/2020/11/11/m1-macbook-air-first-benchmark/",
-    "upvotes": 995,
-    "author": "antipaul",
-    "comments": 1060,
-    "link": "https://news.ycombinator.com/item?id=25065026"
   }
 ]
