@@ -1,32 +1,40 @@
 [
   {
-    "title": "Stripe is now charging 0.5% more for recurring charges",
+    "title": "Stripe migrates Stripe Subscriptions users to Stripe Billing",
     "url": "https://stripe.com/billing",
-    "upvotes": 143,
+    "upvotes": 180,
     "author": "corentin88",
-    "comments": 92,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=25072783"
   },
   {
     "title": "Guido van Rossum joins Microsoft",
     "url": "https://twitter.com/gvanrossum/status/1326932991566700549",
-    "upvotes": 660,
+    "upvotes": 711,
     "author": "0xmohit",
-    "comments": 343,
+    "comments": 384,
     "link": "https://news.ycombinator.com/item?id=25071847"
   },
   {
     "title": "Effect of exercise training for five years on all cause mortality",
     "url": "https://www.bmj.com/content/371/bmj.m3485",
-    "upvotes": 101,
+    "upvotes": 111,
     "author": "evo_9",
-    "comments": 59,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=25071676"
+  },
+  {
+    "title": "Evidence-based software engineering: book released",
+    "url": "http://shape-of-code.coding-guidelines.com/2020/11/08/evidence-based-software-engineering-book-released/",
+    "upvotes": 19,
+    "author": "qznc",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25073218"
   },
   {
     "title": "AWS releases Glue Databrew, a visual ETL tool",
     "url": "https://aws.amazon.com/glue/features/databrew/",
-    "upvotes": 75,
+    "upvotes": 83,
     "author": "ManWith2Plans",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25071443"
@@ -34,49 +42,49 @@
   {
     "title": "Migrating Large Heroku Postgres Instances to AWS Aurora Without Downtime",
     "url": "https://thecodinginterface.com/blog/heroku-postgres-migration-to-aurora/",
-    "upvotes": 53,
+    "upvotes": 58,
     "author": "sciguymcq",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25071502"
-  },
-  {
-    "title": "Evidence-based software engineering: book released",
-    "url": "http://shape-of-code.coding-guidelines.com/2020/11/08/evidence-based-software-engineering-book-released/",
-    "upvotes": 12,
-    "author": "qznc",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25073218"
   },
   {
     "title": "The Exploding Whale remastered: 50th anniversary of legendary Oregon event",
     "url": "https://katu.com/news/local/the-exploding-whale-50th-anniversary-of-legendary-oregon-event",
-    "upvotes": 104,
+    "upvotes": 116,
     "author": "danso",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=25070440"
-  },
-  {
-    "title": "Funkwhale – Decentralized, self-hosted music server",
-    "url": "https://funkwhale.audio/",
-    "upvotes": 434,
-    "author": "peterstensmyr",
-    "comments": 240,
-    "link": "https://news.ycombinator.com/item?id=25067701"
   },
   {
     "title": "Job interest not a big predictor of job satisfaction",
     "url": "https://uh.edu/news-events/stories/2020/november-2020/11112020-kevin-hoff-interest-job-satisfaction.php",
-    "upvotes": 45,
+    "upvotes": 55,
     "author": "rustoo",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25071126"
+  },
+  {
+    "title": "Funkwhale – Decentralized, self-hosted music server",
+    "url": "https://funkwhale.audio/",
+    "upvotes": 439,
+    "author": "peterstensmyr",
+    "comments": 241,
+    "link": "https://news.ycombinator.com/item?id=25067701"
+  },
+  {
+    "title": "Show HN: A 1000 auto-generated hexagonal SVG logos",
+    "url": "https://dosycorp.gitlab.io/dosylogo/?v923418754891239875624v1",
+    "upvotes": 36,
+    "author": "graderjs",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25071643"
   },
   {
     "title": "European Languages Datasets",
     "url": "https://www.european-language-grid.eu/",
-    "upvotes": 25,
+    "upvotes": 31,
     "author": "pragmaticalien8",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25071620"
   },
   {
@@ -86,55 +94,47 @@
   {
     "title": "Wayeb: A Complex Event Processing and Forecasting Engine",
     "url": "https://github.com/ElAlev/Wayeb",
-    "upvotes": 53,
+    "upvotes": 54,
     "author": "Averroito",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25070810"
   },
   {
-    "title": "Show HN: A 1000 auto-generated hexagonal SVG logos",
-    "url": "https://dosycorp.gitlab.io/dosylogo/?v923418754891239875624v1",
-    "upvotes": 28,
-    "author": "graderjs",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=25071643"
+    "title": "macOS Big Sur is here",
+    "url": "https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/",
+    "upvotes": 162,
+    "author": "todsacerdoti",
+    "comments": 223,
+    "link": "https://news.ycombinator.com/item?id=25072644"
   },
   {
     "title": "Show HN: Switch Git Users CLI",
     "url": "https://github.com/geongeorge/Git-User-Switch",
-    "upvotes": 80,
+    "upvotes": 85,
     "author": "geongeorgek",
-    "comments": 44,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=25069350"
   },
   {
-    "title": "macOS Big Sur is here",
-    "url": "https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/",
-    "upvotes": 138,
-    "author": "todsacerdoti",
-    "comments": 202,
-    "link": "https://news.ycombinator.com/item?id=25072644"
+    "title": "Docker fails to launch on Apple Silicon",
+    "url": "https://github.com/docker/for-mac/issues/4733",
+    "upvotes": 6,
+    "author": "bartkappenburg",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25073010"
   },
   {
     "title": "Quality Without a Name",
     "url": "https://wiki.c2.com/?QualityWithoutaName",
-    "upvotes": 6,
+    "upvotes": 9,
     "author": "aaadult",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25044112"
   },
   {
-    "title": "Netlify for the frontend, Micro for the backend",
-    "url": "https://blog.m3o.com/2020/11/12/netlify-for-the-frontend-micro-for-the-backend.html",
-    "upvotes": 113,
-    "author": "chuhnk",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=25068782"
-  },
-  {
     "title": "Google Takeout: Export a copy of your data in Google services",
     "url": "https://takeout.google.com/",
-    "upvotes": 261,
+    "upvotes": 266,
     "author": "pvsukale3",
     "comments": 108,
     "link": "https://news.ycombinator.com/item?id=25066838"
@@ -142,23 +142,31 @@
   {
     "title": "Angular 11",
     "url": "https://blog.angular.io/version-11-of-angular-now-available-74721b7952f7",
-    "upvotes": 109,
+    "upvotes": 115,
     "author": "amitport",
-    "comments": 137,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=25068668"
+  },
+  {
+    "title": "Netlify for the frontend, Micro for the backend",
+    "url": "https://blog.m3o.com/2020/11/12/netlify-for-the-frontend-micro-for-the-backend.html",
+    "upvotes": 114,
+    "author": "chuhnk",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=25068782"
   },
   {
     "title": "Judge dismisses Apple’s “theft” claims in Epic Games lawsuit",
     "url": "https://arstechnica.com/gaming/2020/11/judge-dismisses-apples-theft-claims-in-epic-games-lawsuit/",
-    "upvotes": 54,
+    "upvotes": 65,
     "author": "thg",
-    "comments": 12,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25071993"
   },
   {
     "title": "Plant Tweets",
     "url": "http://sarabee.github.io/2020/04/19/plant-tweets-part-1/",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "luu",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25044512"
@@ -166,7 +174,7 @@
   {
     "title": "Intel Xe Graphics: An Interview with VP Lisa Pearce",
     "url": "https://www.anandtech.com/show/16239/intel-xe-graphics-an-interview-with-vp-lisa-pearce",
-    "upvotes": 13,
+    "upvotes": 16,
     "author": "zdw",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25062794"
@@ -174,17 +182,17 @@
   {
     "title": "Linux Command One-Liners",
     "url": "https://www.commandlinefu.com/commands/browse",
-    "upvotes": 260,
+    "upvotes": 266,
     "author": "arkj",
-    "comments": 70,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=25069452"
   },
   {
     "title": "Masayoshi Son had help pulling SoftBank from the brink",
     "url": "https://www.wsj.com/articles/masayoshi-son-softbank-elliott-management-11605069825",
-    "upvotes": 77,
+    "upvotes": 78,
     "author": "simonebrunozzi",
-    "comments": 89,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=25060166"
   },
   {
@@ -198,41 +206,33 @@
   {
     "title": "Apple Silicon M1 chip in MacBook Air outperforms high-end 16-inch MacBook Pro",
     "url": "https://www.macrumors.com/2020/11/11/m1-macbook-air-first-benchmark/",
-    "upvotes": 975,
+    "upvotes": 982,
     "author": "antipaul",
-    "comments": 1031,
+    "comments": 1036,
     "link": "https://news.ycombinator.com/item?id=25065026"
+  },
+  {
+    "title": "Astonishing Performance of .NET 5",
+    "url": "https://alexyakunin.medium.com/astonishing-performance-of-net-5-7803d69dae2e",
+    "upvotes": 213,
+    "author": "pjmlp",
+    "comments": 242,
+    "link": "https://news.ycombinator.com/item?id=25068350"
   },
   {
     "title": "Sensors driven by machine learning sniff-out gas leaks fast",
     "url": "https://www.sciencedaily.com/releases/2020/10/201029105038.htm",
-    "upvotes": 32,
+    "upvotes": 33,
     "author": "bennyspaceman",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25045655"
   },
   {
     "title": "Pippi and the Moomins",
     "url": "https://aeon.co/essays/pippi-and-the-moomins-served-as-a-social-antidote-to-fascism",
-    "upvotes": 91,
+    "upvotes": 92,
     "author": "collapse",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=25063683"
-  },
-  {
-    "title": "Group of Google critics calls for EU antitrust action",
-    "url": "https://uk.reuters.com/article/us-eu-alphabet-antitrust-exclusive/exclusive-group-of-165-google-critics-calls-for-swift-eu-antitrust-action-letter-idUKKBN27S0YQ",
-    "upvotes": 78,
-    "author": "samizdis",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=25070304"
-  },
-  {
-    "title": "Astonishing Performance of .NET 5",
-    "url": "https://alexyakunin.medium.com/astonishing-performance-of-net-5-7803d69dae2e",
-    "upvotes": 206,
-    "author": "pjmlp",
-    "comments": 235,
-    "link": "https://news.ycombinator.com/item?id=25068350"
   }
 ]
