@@ -2,23 +2,23 @@
   {
     "title": "So you've made a mistake and it's public",
     "url": "https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...",
-    "upvotes": 259,
+    "upvotes": 289,
     "author": "abbe98",
-    "comments": 101,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=25084506"
   },
   {
     "title": "Transparency Report",
     "url": "https://www.apple.com/legal/transparency/",
-    "upvotes": 90,
+    "upvotes": 94,
     "author": "bhaile",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=25084415"
   },
   {
     "title": "Durable Objects in Production",
     "url": "https://linc.sh/blog/durable-objects-in-production",
-    "upvotes": 71,
+    "upvotes": 76,
     "author": "geelen",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25084470"
@@ -26,42 +26,58 @@
   {
     "title": "DoorDash S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1792789/000119312520292381/d752207ds1.htm",
-    "upvotes": 188,
+    "upvotes": 194,
     "author": "uptown",
-    "comments": 285,
+    "comments": 291,
     "link": "https://news.ycombinator.com/item?id=25082043"
   },
   {
     "title": "The “Dying Seas” of the Anthropocene",
     "url": "http://oceans.nautil.us/feature/637/the-dying-seas-of-the-anthropocene",
-    "upvotes": 27,
+    "upvotes": 33,
     "author": "dnetesn",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25080998"
+  },
+  {
+    "title": "GFXBench: Apple M1",
+    "url": "https://gfxbench.com/compare.jsp?benchmark=gfx50&did1=90754264&os1=OS%20X&api1=metal&hwtype1=GPU&hwname1=Apple+M1&did2=40679076&os2=OS%20X&api2=metal&hwtype2=dGPU&hwname2=NVIDIA+GeForce+GTX+1050+Ti",
+    "upvotes": 8,
+    "author": "admiralspoo",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25086422"
   },
   {
     "title": "Xi Jinping personally halted Ant's IPO after Jack Ma snubbed government leaders",
     "url": "https://markets.businessinsider.com/news/stocks/ant-group-ipo-personally-halted-china-xi-jinping-jack-wsj-2020-11-1029800224",
-    "upvotes": 130,
+    "upvotes": 160,
     "author": "onetimemanytime",
-    "comments": 63,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=25084953"
+  },
+  {
+    "title": "Measles surging as Covid-19 curbs disrupt vaccinations",
+    "url": "https://www.reuters.com/article/us-health-measles-global/measles-surging-as-covid-19-curbs-disrupt-vaccinations-idUSKBN27S2TC",
+    "upvotes": 32,
+    "author": "nostromo",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25085986"
+  },
+  {
+    "title": "Pure destination-passing style in Linear Haskell",
+    "url": "https://www.tweag.io/blog/2020-11-11-linear-dps/",
+    "upvotes": 8,
+    "author": "lelf",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25075718"
   },
   {
     "title": "Less screen time and more sleep critical for preventing depression",
     "url": "https://www.westernsydney.edu.au/newscentre/news_centre/more_news_stories/less_screen_time_and_more_sleep_critical_for_preventing_depression",
-    "upvotes": 295,
+    "upvotes": 301,
     "author": "rustoo",
-    "comments": 99,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=25081952"
-  },
-  {
-    "title": "Factorio 1.1 is getting close",
-    "url": "https://www.factorio.com/blog/post/fff-363",
-    "upvotes": 69,
-    "author": "parsecs",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25085795"
   },
   {
     "title": "Dover",
@@ -70,138 +86,146 @@
   {
     "title": "SLS vs. Starship",
     "url": "https://everydayastronaut.com/sls-vs-starship/",
-    "upvotes": 154,
+    "upvotes": 161,
     "author": "willvarfar",
-    "comments": 71,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=25081707"
-  },
-  {
-    "title": "Paul's Online Math Notes",
-    "url": "https://tutorial.math.lamar.edu/",
-    "upvotes": 231,
-    "author": "happy-go-lucky",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=25081297"
   },
   {
     "title": "Old Dogs, New Research and the Secrets of Aging",
     "url": "https://www.nytimes.com/2020/11/09/science/dogs-aging-behavior.html",
-    "upvotes": 35,
+    "upvotes": 37,
     "author": "gmays",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25083096"
+  },
+  {
+    "title": "Factorio 1.1 is getting close",
+    "url": "https://www.factorio.com/blog/post/fff-363",
+    "upvotes": 84,
+    "author": "parsecs",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=25085795"
+  },
+  {
+    "title": "Paul's Online Math Notes",
+    "url": "https://tutorial.math.lamar.edu/",
+    "upvotes": 239,
+    "author": "happy-go-lucky",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=25081297"
+  },
+  {
+    "title": "API design is stuck in the past",
+    "url": "https://buf.build/blog/api-design-is-stuck-in-the-past",
+    "upvotes": 18,
+    "author": "kentonv",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25085276"
   },
   {
     "title": "Software development: should we stop? Maybe we should",
     "url": "http://blog.spencermounta.in/2020/should-we-stop/index.html",
-    "upvotes": 257,
+    "upvotes": 265,
     "author": "enz",
-    "comments": 158,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=25044031"
   },
   {
     "title": "Exotic Programming Ideas: Module Systems",
     "url": "https://www.stephendiehl.com/posts/exotic01.html",
-    "upvotes": 89,
+    "upvotes": 92,
     "author": "rwosync",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25081853"
-  },
-  {
-    "title": "API design is stuck in the past",
-    "url": "https://buf.build/blog/api-design-is-stuck-in-the-past",
-    "upvotes": 12,
-    "author": "kentonv",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25085276"
-  },
-  {
-    "title": "Optimizing Things in the USSR",
-    "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
-    "upvotes": 30,
-    "author": "amai",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=25084479"
-  },
-  {
-    "title": "SaaS Needs a Single Point of Purchase",
-    "url": "https://landshark.io/2020/11/13/saas-needs-a-single-point-of-purchase.html",
-    "upvotes": 108,
-    "author": "alangibson",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=25081711"
   },
   {
     "title": "Hunting for Malicious Packages on PyPI",
     "url": "https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/",
-    "upvotes": 75,
+    "upvotes": 80,
     "author": "mef",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25081937"
   },
   {
+    "title": "SaaS Needs a Single Point of Purchase",
+    "url": "https://landshark.io/2020/11/13/saas-needs-a-single-point-of-purchase.html",
+    "upvotes": 111,
+    "author": "alangibson",
+    "comments": 115,
+    "link": "https://news.ycombinator.com/item?id=25081711"
+  },
+  {
+    "title": "Optimizing Things in the USSR",
+    "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
+    "upvotes": 33,
+    "author": "amai",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=25084479"
+  },
+  {
     "title": "LazySSH – A jump-host SSH server that starts machines on-demand",
     "url": "https://github.com/stephank/lazyssh",
-    "upvotes": 82,
+    "upvotes": 86,
     "author": "todsacerdoti",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25081472"
   },
   {
     "title": "Museum of Obsolete Media",
     "url": "https://obsoletemedia.org",
-    "upvotes": 26,
+    "upvotes": 29,
     "author": "zdw",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25071555"
-  },
-  {
-    "title": "Measles surging as Covid-19 curbs disrupt vaccinations",
-    "url": "https://www.reuters.com/article/us-health-measles-global/measles-surging-as-covid-19-curbs-disrupt-vaccinations-idUSKBN27S2TC",
-    "upvotes": 10,
-    "author": "nostromo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25085986"
-  },
-  {
-    "title": "Double fetches, scheduling algorithms, and onion rings",
-    "url": "https://offlinemark.com/2020/11/12/double-fetches-scheduling-algorithms-onion-rings/",
-    "upvotes": 11,
-    "author": "markmossberg",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25084909"
   },
   {
     "title": "They Thought They Were Free: The Germans, 1933-45",
     "url": "https://press.uchicago.edu/Misc/Chicago/511928.html",
-    "upvotes": 144,
+    "upvotes": 155,
     "author": "panax",
-    "comments": 258,
+    "comments": 274,
     "link": "https://news.ycombinator.com/item?id=25083315"
   },
   {
     "title": "macOS unable to open any non-Apple application",
     "url": "https://twitter.com/lapcatsoftware/status/1326990296412991489",
-    "upvotes": 2280,
+    "upvotes": 2287,
     "author": "mattsolle",
-    "comments": 1146,
+    "comments": 1148,
     "link": "https://news.ycombinator.com/item?id=25074959"
+  },
+  {
+    "title": "Double fetches, scheduling algorithms, and onion rings",
+    "url": "https://offlinemark.com/2020/11/12/double-fetches-scheduling-algorithms-onion-rings/",
+    "upvotes": 14,
+    "author": "markmossberg",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25084909"
+  },
+  {
+    "title": "Bubbles and Megaprojects Parallelize Innovation",
+    "url": "https://diff.substack.com/p/how-bubbles-and-megaprojects-parallelize",
+    "upvotes": 12,
+    "author": "simonpure",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25083931"
   },
   {
     "title": "Why TCP over TCP is a bad idea",
     "url": "http://sites.inka.de/~bigred/devel/tcp-tcp.html",
     "upvotes": 103,
     "author": "fanf2",
-    "comments": 53,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=25080693"
   },
   {
-    "title": "Bubbles and Megaprojects Parallelize Innovation",
-    "url": "https://diff.substack.com/p/how-bubbles-and-megaprojects-parallelize",
-    "upvotes": 11,
-    "author": "simonpure",
+    "title": "When 13.3 is greater than 14",
+    "url": "https://fabiensanglard.net/aspect_ratio/index.html",
+    "upvotes": 4,
+    "author": "danso",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25083931"
+    "link": "https://news.ycombinator.com/item?id=25085314"
   },
   {
     "title": "Fast UI Draw is a library that provides a higher performance Canvas interface",
@@ -210,29 +234,5 @@
     "author": "todsacerdoti",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25079266"
-  },
-  {
-    "title": "Gig economy companies spent more than $200M to bankroll Proposition 22",
-    "url": "https://www.theguardian.com/commentisfree/2020/nov/12/uber-prop-22-law-drivers-ab5-gig-workers",
-    "upvotes": 165,
-    "author": "werber",
-    "comments": 248,
-    "link": "https://news.ycombinator.com/item?id=25081907"
-  },
-  {
-    "title": "Archaeologists Discover Viking Age Ship Burial in Norway",
-    "url": "https://www.nytimes.com/2020/11/11/world/europe/viking-discovery.html",
-    "upvotes": 68,
-    "author": "diodorus",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25065921"
-  },
-  {
-    "title": "Google Widevine Content Decryption Module DMCA",
-    "url": "https://github.com/github/dmca/blob/master/2020/11/2020-11-09-Google.md",
-    "upvotes": 613,
-    "author": "abbe98",
-    "comments": 326,
-    "link": "https://news.ycombinator.com/item?id=25078096"
   }
 ]
