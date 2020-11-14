@@ -2,39 +2,39 @@
   {
     "title": "Personal Data Warehouses: Reclaiming Your Data",
     "url": "https://simonwillison.net/2020/Nov/14/personal-data-warehouses/",
-    "upvotes": 211,
+    "upvotes": 223,
     "author": "simonw",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25090218"
-  },
-  {
-    "title": "Files Are Fraught with Peril",
-    "url": "https://danluu.com/deconstruct-files/",
-    "upvotes": 36,
-    "author": "bshanks",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25090760"
   },
   {
     "title": "British Airways Flight 5390",
     "url": "https://en.wikipedia.org/wiki/British_Airways_Flight_5390",
-    "upvotes": 33,
+    "upvotes": 44,
     "author": "benbreen",
-    "comments": 9,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25090877"
+  },
+  {
+    "title": "Files Are Fraught with Peril",
+    "url": "https://danluu.com/deconstruct-files/",
+    "upvotes": 39,
+    "author": "bshanks",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25090760"
   },
   {
     "title": "Everything Is an X",
     "url": "https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/",
-    "upvotes": 35,
+    "upvotes": 42,
     "author": "polm23",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25078209"
   },
   {
     "title": "Logseq – privacy-first, open-source knowledge sharing and management platform",
     "url": "https://github.com/logseq/logseq",
-    "upvotes": 106,
+    "upvotes": 111,
     "author": "simonpure",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25090176"
@@ -42,34 +42,50 @@
   {
     "title": "Show HN: A Stargate in 140 chars of JavaScript",
     "url": "https://www.dwitter.net/d/20584",
-    "upvotes": 267,
+    "upvotes": 272,
     "author": "tomxor",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25088683"
   },
   {
+    "title": "GFXBench: Apple M1",
+    "url": "https://gfxbench.com/compare.jsp?benchmark=gfx50&did1=90754264&os1=OS%20X&api1=metal&hwtype1=GPU&hwname1=Apple+M1&did2=40679076&os2=OS%20X&api2=metal&hwtype2=dGPU&hwname2=NVIDIA+GeForce+GTX+1050+Ti",
+    "upvotes": 241,
+    "author": "admiralspoo",
+    "comments": 401,
+    "link": "https://news.ycombinator.com/item?id=25086422"
+  },
+  {
     "title": "Fact or fantasy? Tales from the linguistic fringe",
     "url": "https://knowablemagazine.org/article/society/2020/fact-or-fantasy-tales-linguistic-fringe",
-    "upvotes": 6,
+    "upvotes": 7,
     "author": "hoffmannesque",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25088417"
   },
   {
-    "title": "GFXBench: Apple M1",
-    "url": "https://gfxbench.com/compare.jsp?benchmark=gfx50&did1=90754264&os1=OS%20X&api1=metal&hwtype1=GPU&hwname1=Apple+M1&did2=40679076&os2=OS%20X&api2=metal&hwtype2=dGPU&hwname2=NVIDIA+GeForce+GTX+1050+Ti",
-    "upvotes": 237,
-    "author": "admiralspoo",
-    "comments": 396,
-    "link": "https://news.ycombinator.com/item?id=25086422"
+    "title": "We need less powerful languages",
+    "url": "https://lukeplant.me.uk/blog/posts/less-powerful-languages/",
+    "upvotes": 16,
+    "author": "bshanks",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25090816"
   },
   {
     "title": "Rehex – Reverse Engineers' Hex Editor",
     "url": "https://github.com/solemnwarning/rehex",
-    "upvotes": 121,
+    "upvotes": 122,
     "author": "app4soft",
-    "comments": 36,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=25088873"
+  },
+  {
+    "title": "Simulating RAM in Clojure",
+    "url": "https://stopa.io/post/258",
+    "upvotes": 104,
+    "author": "stopachka",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25086256"
   },
   {
     "title": "Smaller than ever–exploring the unusual properties of quantum-sized materials",
@@ -80,41 +96,25 @@
     "link": "https://news.ycombinator.com/item?id=25090684"
   },
   {
-    "title": "Simulating RAM in Clojure",
-    "url": "https://stopa.io/post/258",
-    "upvotes": 102,
-    "author": "stopachka",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=25086256"
-  },
-  {
-    "title": "We need less powerful languages",
-    "url": "https://lukeplant.me.uk/blog/posts/less-powerful-languages/",
-    "upvotes": 12,
-    "author": "bshanks",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25090816"
+    "title": "GM recalling nearly 69,000 Bolt EVs for fire risks",
+    "url": "https://www.reuters.com/article/us-gm-recall/gm-recalling-nearly-69000-bolt-evs-for-fire-risks-idUSKBN27T2LG",
+    "upvotes": 157,
+    "author": "hhs",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=25086045"
   },
   {
     "title": "The Big Lessons from History",
     "url": "https://www.collaborativefund.com/blog/the-big-lessons-from-history/",
     "upvotes": 25,
     "author": "yarapavan",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25083946"
-  },
-  {
-    "title": "GM recalling nearly 69,000 Bolt EVs for fire risks",
-    "url": "https://www.reuters.com/article/us-gm-recall/gm-recalling-nearly-69000-bolt-evs-for-fire-risks-idUSKBN27T2LG",
-    "upvotes": 156,
-    "author": "hhs",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=25086045"
   },
   {
     "title": "Vulnerable yet vital: Why childhood and old age are key to our human capacities",
     "url": "https://aeon.co/essays/why-childhood-and-old-age-are-key-to-our-human-capacities",
-    "upvotes": 30,
+    "upvotes": 31,
     "author": "ohaikbai",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25088400"
@@ -122,7 +122,7 @@
   {
     "title": "Play with Go",
     "url": "https://play-with-go.dev/guides.html",
-    "upvotes": 77,
+    "upvotes": 78,
     "author": "philosopher1234",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25088913"
@@ -130,26 +130,26 @@
   {
     "title": "So you've made a mistake and it's public",
     "url": "https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...",
-    "upvotes": 754,
+    "upvotes": 756,
     "author": "abbe98",
-    "comments": 349,
+    "comments": 350,
     "link": "https://news.ycombinator.com/item?id=25084506"
+  },
+  {
+    "title": "gping: Ping, but with a graph",
+    "url": "https://github.com/orf/gping",
+    "upvotes": 179,
+    "author": "orf",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=25088050"
   },
   {
     "title": "Ghidra 9.2",
     "url": "https://ghidra-sre.org/releaseNotes_9.2.html",
     "upvotes": 170,
     "author": "KindOne",
-    "comments": 68,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=25086519"
-  },
-  {
-    "title": "gping: Ping, but with a graph",
-    "url": "https://github.com/orf/gping",
-    "upvotes": 177,
-    "author": "orf",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=25088050"
   },
   {
     "title": "There are only three startup stages",
@@ -162,7 +162,7 @@
   {
     "title": "Femtosecond laser writing of glass, including borosilicate, sulfide, and lead",
     "url": "https://patents.google.com/patent/US6573026B1/en",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "peter_d_sherman",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25090334"
@@ -178,7 +178,7 @@
   {
     "title": "A Pretty Good Mathematical Model of Perfectionism",
     "url": "https://jessegalef.com/2020/08/09/a-pretty-good-mathematical-model-of-perfectionism/",
-    "upvotes": 116,
+    "upvotes": 122,
     "author": "freefrancisco",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25088396"
@@ -188,23 +188,23 @@
     "url": "https://sfconservancy.org/blog/2020/nov/13/widevine-dmca-takedown/",
     "upvotes": 53,
     "author": "pabs3",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25088961"
   },
   {
     "title": "Ask HN: Is an ARM-based laptop a viable development machine for a Backend dev?",
     "url": "item?id=25090940",
-    "upvotes": 20,
+    "upvotes": 24,
     "author": "kinix",
-    "comments": 22,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25090940"
   },
   {
     "title": "macOS unable to open any non-Apple application",
     "url": "https://twitter.com/lapcatsoftware/status/1326990296412991489",
-    "upvotes": 2475,
+    "upvotes": 2476,
     "author": "mattsolle",
-    "comments": 1217,
+    "comments": 1218,
     "link": "https://news.ycombinator.com/item?id=25074959"
   },
   {
@@ -218,21 +218,25 @@
   {
     "title": "Xi Jinping personally halted Ant's IPO after Jack Ma snubbed government leaders",
     "url": "https://markets.businessinsider.com/news/stocks/ant-group-ipo-personally-halted-china-xi-jinping-jack-wsj-2020-11-1029800224",
-    "upvotes": 530,
+    "upvotes": 532,
     "author": "onetimemanytime",
-    "comments": 377,
+    "comments": 378,
     "link": "https://news.ycombinator.com/item?id=25084953"
   },
   {
     "title": "Optimizing Things in the USSR",
     "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
-    "upvotes": 121,
+    "upvotes": 122,
     "author": "amai",
     "comments": 140,
     "link": "https://news.ycombinator.com/item?id=25084479"
   },
   {
-    "title": "Jerry, Inc.",
-    "url": "https://apply.workable.com/jerry/j/AE86E23AD6/"
+    "title": "API design is stuck in the past",
+    "url": "https://buf.build/blog/api-design-is-stuck-in-the-past",
+    "upvotes": 132,
+    "author": "kentonv",
+    "comments": 124,
+    "link": "https://news.ycombinator.com/item?id=25085276"
   }
 ]
