@@ -2,15 +2,15 @@
   {
     "title": "Personal Data Warehouses: Reclaiming Your Data",
     "url": "https://simonwillison.net/2020/Nov/14/personal-data-warehouses/",
-    "upvotes": 88,
+    "upvotes": 109,
     "author": "simonw",
-    "comments": 9,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25090218"
   },
   {
     "title": "So you've made a mistake and it's public",
     "url": "https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...",
-    "upvotes": 705,
+    "upvotes": 712,
     "author": "abbe98",
     "comments": 336,
     "link": "https://news.ycombinator.com/item?id=25084506"
@@ -18,71 +18,79 @@
   {
     "title": "Show HN: A Stargate in 140 chars of JavaScript",
     "url": "https://www.dwitter.net/d/20584",
-    "upvotes": 189,
+    "upvotes": 202,
     "author": "tomxor",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25088683"
   },
   {
-    "title": "Smaller than ever–exploring the unusual properties of quantum-sized materials",
-    "url": "https://www.titech.ac.jp/english/news/2020/048014.html",
-    "upvotes": 3,
-    "author": "rustoo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25090684"
+    "title": "Logseq – privacy-first, open-source knowledge sharing and management platform",
+    "url": "https://github.com/logseq/logseq",
+    "upvotes": 41,
+    "author": "simonpure",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25090176"
   },
   {
     "title": "GFXBench: Apple M1",
     "url": "https://gfxbench.com/compare.jsp?benchmark=gfx50&did1=90754264&os1=OS%20X&api1=metal&hwtype1=GPU&hwname1=Apple+M1&did2=40679076&os2=OS%20X&api2=metal&hwtype2=dGPU&hwname2=NVIDIA+GeForce+GTX+1050+Ti",
-    "upvotes": 216,
+    "upvotes": 217,
     "author": "admiralspoo",
-    "comments": 362,
+    "comments": 364,
     "link": "https://news.ycombinator.com/item?id=25086422"
-  },
-  {
-    "title": "Logseq – privacy-first, open-source knowledge sharing and management platform",
-    "url": "https://github.com/logseq/logseq",
-    "upvotes": 31,
-    "author": "simonpure",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25090176"
   },
   {
     "title": "Rehex – Reverse Engineers' Hex Editor",
     "url": "https://github.com/solemnwarning/rehex",
-    "upvotes": 90,
+    "upvotes": 91,
     "author": "app4soft",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=25088873"
   },
   {
     "title": "gping: Ping, but with a graph",
     "url": "https://github.com/orf/gping",
-    "upvotes": 140,
+    "upvotes": 146,
     "author": "orf",
-    "comments": 32,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25088050"
+  },
+  {
+    "title": "There are only three startup stages",
+    "url": "https://medium.com/angularventures/there-are-only-three-stages-for-startups-b8783d6b0f1",
+    "upvotes": 8,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25085987"
   },
   {
     "title": "Femtosecond laser writing of glass, including borosilicate, sulfide, and lead",
     "url": "https://patents.google.com/patent/US6573026B1/en",
-    "upvotes": 9,
+    "upvotes": 11,
     "author": "peter_d_sherman",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25090334"
+  },
+  {
+    "title": "Smaller than ever–exploring the unusual properties of quantum-sized materials",
+    "url": "https://www.titech.ac.jp/english/news/2020/048014.html",
+    "upvotes": 4,
+    "author": "rustoo",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25090684"
   },
   {
     "title": "GM recalling nearly 69,000 Bolt EVs for fire risks",
     "url": "https://www.reuters.com/article/us-gm-recall/gm-recalling-nearly-69000-bolt-evs-for-fire-risks-idUSKBN27T2LG",
     "upvotes": 139,
     "author": "hhs",
-    "comments": 62,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=25086045"
   },
   {
     "title": "Vulnerable yet vital: Why childhood and old age are key to our human capacities",
     "url": "https://aeon.co/essays/why-childhood-and-old-age-are-key-to-our-human-capacities?utm_medium=feed&utm_source=feedburner&utm_campaign=Feed%3A+AeonMagazineEssays+%28Aeon+Magazine+Essays%29",
-    "upvotes": 9,
+    "upvotes": 10,
     "author": "ohaikbai",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25088400"
@@ -90,7 +98,7 @@
   {
     "title": "Simulating RAM in Clojure",
     "url": "https://stopa.io/post/258",
-    "upvotes": 65,
+    "upvotes": 69,
     "author": "stopachka",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25086256"
@@ -98,34 +106,42 @@
   {
     "title": "Ghidra 9.2",
     "url": "https://ghidra-sre.org/releaseNotes_9.2.html",
-    "upvotes": 151,
+    "upvotes": 154,
     "author": "KindOne",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=25086519"
   },
   {
+    "title": "Play with Go",
+    "url": "https://play-with-go.dev/guides.html",
+    "upvotes": 54,
+    "author": "philosopher1234",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25088913"
+  },
+  {
     "title": "A Pretty Good Mathematical Model of Perfectionism",
     "url": "https://jessegalef.com/2020/08/09/a-pretty-good-mathematical-model-of-perfectionism/",
-    "upvotes": 89,
+    "upvotes": 95,
     "author": "freefrancisco",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25088396"
   },
   {
     "title": "Transparency Report",
     "url": "https://www.apple.com/legal/transparency/",
-    "upvotes": 179,
+    "upvotes": 181,
     "author": "bhaile",
-    "comments": 83,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=25084415"
   },
   {
-    "title": "Play with Go",
-    "url": "https://play-with-go.dev/guides.html",
-    "upvotes": 43,
-    "author": "philosopher1234",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25088913"
+    "title": "A Modest Proposal in the New Age of DMCA Takedown Aggression",
+    "url": "https://sfconservancy.org/blog/2020/nov/13/widevine-dmca-takedown/",
+    "upvotes": 40,
+    "author": "pabs3",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=25088961"
   },
   {
     "title": "Current Challenges and New Directions in Sentiment Analysis Research",
@@ -140,55 +156,47 @@
     "url": "https://harvardlawreview.org/2020/11/kahler-v-kansas/",
     "upvotes": 9,
     "author": "seventyhorses",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25088410"
   },
   {
-    "title": "A Modest Proposal in the New Age of DMCA Takedown Aggression",
-    "url": "https://sfconservancy.org/blog/2020/nov/13/widevine-dmca-takedown/",
-    "upvotes": 39,
-    "author": "pabs3",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=25088961"
+    "title": "macOS 11",
+    "url": "https://support.native-instruments.com/hc/en-us/articles/360013515618-macOS-11-Big-Sur-Compatibility-News",
+    "upvotes": 93,
+    "author": "pier25",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=25089933"
   },
   {
     "title": "A GAN to generate dithers minimising frame difference for a slow movie player",
     "url": "http://matpalm.com/blog/dithernet_vsmp/",
-    "upvotes": 8,
+    "upvotes": 11,
     "author": "fkramink",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25090215"
   },
   {
-    "title": "macOS 11",
-    "url": "https://support.native-instruments.com/hc/en-us/articles/360013515618-macOS-11-Big-Sur-Compatibility-News",
-    "upvotes": 90,
-    "author": "pier25",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=25089933"
+    "title": "macOS unable to open any non-Apple application",
+    "url": "https://twitter.com/lapcatsoftware/status/1326990296412991489",
+    "upvotes": 2439,
+    "author": "mattsolle",
+    "comments": 1208,
+    "link": "https://news.ycombinator.com/item?id=25074959"
   },
   {
     "title": "Xi Jinping personally halted Ant's IPO after Jack Ma snubbed government leaders",
     "url": "https://markets.businessinsider.com/news/stocks/ant-group-ipo-personally-halted-china-xi-jinping-jack-wsj-2020-11-1029800224",
-    "upvotes": 486,
+    "upvotes": 491,
     "author": "onetimemanytime",
-    "comments": 351,
+    "comments": 352,
     "link": "https://news.ycombinator.com/item?id=25084953"
-  },
-  {
-    "title": "macOS unable to open any non-Apple application",
-    "url": "https://twitter.com/lapcatsoftware/status/1326990296412991489",
-    "upvotes": 2434,
-    "author": "mattsolle",
-    "comments": 1203,
-    "link": "https://news.ycombinator.com/item?id=25074959"
   },
   {
     "title": "Durable Objects in Production",
     "url": "https://linc.sh/blog/durable-objects-in-production",
     "upvotes": 117,
     "author": "geelen",
-    "comments": 52,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=25084470"
   },
   {
@@ -196,25 +204,25 @@
     "url": "https://apply.workable.com/jerry/j/AE86E23AD6/"
   },
   {
-    "title": "Pure destination-passing style in Linear Haskell",
-    "url": "https://www.tweag.io/blog/2020-11-11-linear-dps/",
-    "upvotes": 79,
-    "author": "lelf",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=25075718"
-  },
-  {
     "title": "Optimizing Things in the USSR",
     "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
-    "upvotes": 100,
+    "upvotes": 103,
     "author": "amai",
-    "comments": 117,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=25084479"
+  },
+  {
+    "title": "Pure destination-passing style in Linear Haskell",
+    "url": "https://www.tweag.io/blog/2020-11-11-linear-dps/",
+    "upvotes": 80,
+    "author": "lelf",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=25075718"
   },
   {
     "title": "TildeRadio is Internet radio streamed by/for users of the tildeverse",
     "url": "https://tilderadio.org/",
-    "upvotes": 34,
+    "upvotes": 35,
     "author": "URfejk",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25088220"
@@ -222,17 +230,9 @@
   {
     "title": "API design is stuck in the past",
     "url": "https://buf.build/blog/api-design-is-stuck-in-the-past",
-    "upvotes": 118,
+    "upvotes": 120,
     "author": "kentonv",
-    "comments": 108,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=25085276"
-  },
-  {
-    "title": "A Visual Guide to Regular Expression",
-    "url": "https://amitness.com/regex/",
-    "upvotes": 7,
-    "author": "gilad",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25090112"
   }
 ]
