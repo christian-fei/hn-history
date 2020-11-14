@@ -1,40 +1,56 @@
 [
   {
+    "title": "Never Use Google to Sign-In",
+    "url": "https://gurjeet.singh.im/blog/never-use-google-to-sign-in",
+    "upvotes": 30,
+    "author": "gurjeet",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25091420"
+  },
+  {
     "title": "Personal Data Warehouses: Reclaiming Your Data",
     "url": "https://simonwillison.net/2020/Nov/14/personal-data-warehouses/",
-    "upvotes": 238,
+    "upvotes": 240,
     "author": "simonw",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25090218"
   },
   {
     "title": "British Airways Flight 5390",
     "url": "https://en.wikipedia.org/wiki/British_Airways_Flight_5390",
-    "upvotes": 62,
+    "upvotes": 67,
     "author": "benbreen",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25090877"
+  },
+  {
+    "title": "PokéWalker hacking: A complete device takeover and ROM dump using infrared",
+    "url": "http://dmitry.gr/?r=05.Projects&proj=28.%20pokewalker",
+    "upvotes": 11,
+    "author": "beefhash",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25091401"
   },
   {
     "title": "Files Are Fraught with Peril",
     "url": "https://danluu.com/deconstruct-files/",
-    "upvotes": 51,
+    "upvotes": 54,
     "author": "bshanks",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25090760"
   },
   {
     "title": "Everything Is an X",
     "url": "https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/",
-    "upvotes": 49,
+    "upvotes": 53,
     "author": "polm23",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25078209"
   },
   {
     "title": "Logseq – privacy-first, open-source knowledge sharing and management platform",
     "url": "https://github.com/logseq/logseq",
-    "upvotes": 116,
+    "upvotes": 118,
     "author": "simonpure",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25090176"
@@ -42,39 +58,23 @@
   {
     "title": "Show HN: A Stargate in 140 chars of JavaScript",
     "url": "https://www.dwitter.net/d/20584",
-    "upvotes": 280,
+    "upvotes": 285,
     "author": "tomxor",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25088683"
   },
   {
-    "title": "Never Use Google to Sign-In",
-    "url": "https://gurjeet.singh.im/blog/never-use-google-to-sign-in",
-    "upvotes": 5,
-    "author": "gurjeet",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25091420"
-  },
-  {
     "title": "Fact or fantasy? Tales from the linguistic fringe",
     "url": "https://knowablemagazine.org/article/society/2020/fact-or-fantasy-tales-linguistic-fringe",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "hoffmannesque",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25088417"
   },
   {
-    "title": "PokéWalker hacking: A complete device takeover and ROM dump using infrared",
-    "url": "http://dmitry.gr/?r=05.Projects&proj=28.%20pokewalker",
-    "upvotes": 5,
-    "author": "beefhash",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25091401"
-  },
-  {
     "title": "We need less powerful languages",
     "url": "https://lukeplant.me.uk/blog/posts/less-powerful-languages/",
-    "upvotes": 22,
+    "upvotes": 24,
     "author": "bshanks",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25090816"
@@ -82,15 +82,15 @@
   {
     "title": "GFXBench: Apple M1",
     "url": "https://gfxbench.com/compare.jsp?benchmark=gfx50&did1=90754264&os1=OS%20X&api1=metal&hwtype1=GPU&hwname1=Apple+M1&did2=40679076&os2=OS%20X&api2=metal&hwtype2=dGPU&hwname2=NVIDIA+GeForce+GTX+1050+Ti",
-    "upvotes": 243,
+    "upvotes": 244,
     "author": "admiralspoo",
-    "comments": 408,
+    "comments": 416,
     "link": "https://news.ycombinator.com/item?id=25086422"
   },
   {
     "title": "Rehex – Reverse Engineers' Hex Editor",
     "url": "https://github.com/solemnwarning/rehex",
-    "upvotes": 128,
+    "upvotes": 131,
     "author": "app4soft",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=25088873"
@@ -104,28 +104,20 @@
     "link": "https://news.ycombinator.com/item?id=25086256"
   },
   {
+    "title": "GM recalling nearly 69,000 Bolt EVs for fire risks",
+    "url": "https://www.reuters.com/article/us-gm-recall/gm-recalling-nearly-69000-bolt-evs-for-fire-risks-idUSKBN27T2LG",
+    "upvotes": 159,
+    "author": "hhs",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=25086045"
+  },
+  {
     "title": "Smaller than ever–exploring the unusual properties of quantum-sized materials",
     "url": "https://www.titech.ac.jp/english/news/2020/048014.html",
     "upvotes": 19,
     "author": "rustoo",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25090684"
-  },
-  {
-    "title": "A Farewell to Arms",
-    "url": "https://newramblerreview.com/book-reviews/history/a-farewell-to-arms",
-    "upvotes": 4,
-    "author": "samclemens",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25086072"
-  },
-  {
-    "title": "GM recalling nearly 69,000 Bolt EVs for fire risks",
-    "url": "https://www.reuters.com/article/us-gm-recall/gm-recalling-nearly-69000-bolt-evs-for-fire-risks-idUSKBN27T2LG",
-    "upvotes": 158,
-    "author": "hhs",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=25086045"
   },
   {
     "title": "Vulnerable yet vital: Why childhood and old age are key to our human capacities",
@@ -136,12 +128,36 @@
     "link": "https://news.ycombinator.com/item?id=25088400"
   },
   {
+    "title": "A Farewell to Arms",
+    "url": "https://newramblerreview.com/book-reviews/history/a-farewell-to-arms",
+    "upvotes": 4,
+    "author": "samclemens",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25086072"
+  },
+  {
     "title": "Play with Go",
     "url": "https://play-with-go.dev/guides.html",
-    "upvotes": 85,
+    "upvotes": 87,
     "author": "philosopher1234",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25088913"
+  },
+  {
+    "title": "So you've made a mistake and it's public",
+    "url": "https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...",
+    "upvotes": 761,
+    "author": "abbe98",
+    "comments": 353,
+    "link": "https://news.ycombinator.com/item?id=25084506"
+  },
+  {
+    "title": "gping: Ping, but with a graph",
+    "url": "https://github.com/orf/gping",
+    "upvotes": 186,
+    "author": "orf",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=25088050"
   },
   {
     "title": "The Big Lessons from History",
@@ -152,25 +168,9 @@
     "link": "https://news.ycombinator.com/item?id=25083946"
   },
   {
-    "title": "So you've made a mistake and it's public",
-    "url": "https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...",
-    "upvotes": 760,
-    "author": "abbe98",
-    "comments": 352,
-    "link": "https://news.ycombinator.com/item?id=25084506"
-  },
-  {
-    "title": "gping: Ping, but with a graph",
-    "url": "https://github.com/orf/gping",
-    "upvotes": 185,
-    "author": "orf",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=25088050"
-  },
-  {
     "title": "Ghidra 9.2",
     "url": "https://ghidra-sre.org/releaseNotes_9.2.html",
-    "upvotes": 173,
+    "upvotes": 175,
     "author": "KindOne",
     "comments": 72,
     "link": "https://news.ycombinator.com/item?id=25086519"
@@ -178,7 +178,7 @@
   {
     "title": "Femtosecond laser writing of glass, including borosilicate, sulfide, and lead",
     "url": "https://patents.google.com/patent/US6573026B1/en",
-    "upvotes": 24,
+    "upvotes": 25,
     "author": "peter_d_sherman",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25090334"
@@ -194,9 +194,9 @@
   {
     "title": "A Pretty Good Mathematical Model of Perfectionism",
     "url": "https://jessegalef.com/2020/08/09/a-pretty-good-mathematical-model-of-perfectionism/",
-    "upvotes": 126,
+    "upvotes": 127,
     "author": "freefrancisco",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25088396"
   },
   {
@@ -218,7 +218,7 @@
   {
     "title": "macOS unable to open any non-Apple application",
     "url": "https://twitter.com/lapcatsoftware/status/1326990296412991489",
-    "upvotes": 2480,
+    "upvotes": 2483,
     "author": "mattsolle",
     "comments": 1219,
     "link": "https://news.ycombinator.com/item?id=25074959"
@@ -234,7 +234,7 @@
   {
     "title": "Xi Jinping personally halted Ant's IPO after Jack Ma snubbed government leaders",
     "url": "https://markets.businessinsider.com/news/stocks/ant-group-ipo-personally-halted-china-xi-jinping-jack-wsj-2020-11-1029800224",
-    "upvotes": 536,
+    "upvotes": 537,
     "author": "onetimemanytime",
     "comments": 381,
     "link": "https://news.ycombinator.com/item?id=25084953"
