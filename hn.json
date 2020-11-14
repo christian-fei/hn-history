@@ -1,16 +1,16 @@
 [
   {
-    "title": "Never Use Google to Sign-In",
+    "title": "Never Use Third Party Auth to Sign In",
     "url": "https://gurjeet.singh.im/blog/never-use-google-to-sign-in",
-    "upvotes": 234,
+    "upvotes": 256,
     "author": "gurjeet",
-    "comments": 131,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=25091420"
   },
   {
     "title": "On the expressive power of programming languages",
     "url": "https://pwlconf.org/2019/shriram-krishnamurthi/",
-    "upvotes": 34,
+    "upvotes": 35,
     "author": "fanf2",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25091705"
@@ -18,39 +18,23 @@
   {
     "title": "Google sued: Idle Android eats mobile data to send telemetry and preload ads",
     "url": "https://www.theregister.com/2020/11/14/google_android_data_allowance/",
-    "upvotes": 84,
+    "upvotes": 95,
     "author": "WarOnPrivacy",
-    "comments": 11,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25091823"
   },
   {
     "title": "Personal Data Warehouses: Reclaiming Your Data",
     "url": "https://simonwillison.net/2020/Nov/14/personal-data-warehouses/",
-    "upvotes": 272,
+    "upvotes": 276,
     "author": "simonw",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25090218"
   },
   {
-    "title": "GNUnet 0.14.0",
-    "url": "https://gnunet.org/en/news/2020-11-0.14.0.html",
-    "upvotes": 10,
-    "author": "jrepinc",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25091860"
-  },
-  {
-    "title": "Empathy and perspective taking: How social skills are built",
-    "url": "https://www.cbs.mpg.de/empathy-and-perspective-taking-how-social-skills-are-built",
-    "upvotes": 16,
-    "author": "CapitalistCartr",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25091765"
-  },
-  {
     "title": "British Airways Flight 5390",
     "url": "https://en.wikipedia.org/wiki/British_Airways_Flight_5390",
-    "upvotes": 89,
+    "upvotes": 95,
     "author": "benbreen",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=25090877"
@@ -58,90 +42,98 @@
   {
     "title": "PokéWalker hacking: A complete device takeover and ROM dump using infrared",
     "url": "http://dmitry.gr/?r=05.Projects&proj=28.%20pokewalker",
-    "upvotes": 38,
+    "upvotes": 39,
     "author": "beefhash",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25091401"
   },
   {
+    "title": "Empathy and perspective taking: How social skills are built",
+    "url": "https://www.cbs.mpg.de/empathy-and-perspective-taking-how-social-skills-are-built",
+    "upvotes": 18,
+    "author": "CapitalistCartr",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25091765"
+  },
+  {
+    "title": "A visual comparison of macOS Catalina and Big Sur",
+    "url": "https://www.andrewdenty.com/blog/2020/07/01/a-visual-comparison-of-macos-catalina-and-big-sur.html",
+    "upvotes": 15,
+    "author": "Kaibeezy",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=25091739"
+  },
+  {
     "title": "Tiny Bubbles Under a Ship May Be the Secret to Reducing Fuel Consumption",
     "url": "https://www.smithsonianmag.com/innovation/tiny-bubbles-under-ship-may-be-secret-to-reducing-fuel-consumption-180976278/",
-    "upvotes": 11,
+    "upvotes": 15,
     "author": "pseudolus",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25091725"
   },
   {
-    "title": "A Visual Comparison of macOS Catalina and Big Sur",
-    "url": "https://www.andrewdenty.com/blog/2020/07/01/a-visual-comparison-of-macos-catalina-and-big-sur.html",
-    "upvotes": 11,
-    "author": "Kaibeezy",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25091739"
+    "title": "Could a Rating System Help Weigh Claims Made in Popular Science Books?",
+    "url": "https://undark.org/2019/11/25/rating-system-weigh-claims-science-books/",
+    "upvotes": 5,
+    "author": "Hooke",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25085611"
+  },
+  {
+    "title": "Everything Is an X",
+    "url": "https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/",
+    "upvotes": 69,
+    "author": "polm23",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=25078209"
+  },
+  {
+    "title": "Logseq – privacy-first, open-source knowledge sharing and management platform",
+    "url": "https://github.com/logseq/logseq",
+    "upvotes": 143,
+    "author": "simonpure",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=25090176"
   },
   {
     "title": "Files Are Fraught with Peril",
     "url": "https://danluu.com/deconstruct-files/",
     "upvotes": 65,
     "author": "bshanks",
-    "comments": 25,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25090760"
   },
   {
-    "title": "Everything Is an X",
-    "url": "https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/",
-    "upvotes": 67,
-    "author": "polm23",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=25078209"
-  },
-  {
-    "title": "Could a Rating System Help Weigh Claims Made in Popular Science Books?",
-    "url": "https://undark.org/2019/11/25/rating-system-weigh-claims-science-books/",
-    "upvotes": 4,
-    "author": "Hooke",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25085611"
-  },
-  {
-    "title": "Logseq – privacy-first, open-source knowledge sharing and management platform",
-    "url": "https://github.com/logseq/logseq",
-    "upvotes": 139,
-    "author": "simonpure",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=25090176"
+    "title": "Show HN: A Stargate in 140 chars of JavaScript",
+    "url": "https://www.dwitter.net/d/20584",
+    "upvotes": 309,
+    "author": "tomxor",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=25088683"
   },
   {
     "title": "The Overnight Business Boom That Took a Century",
     "url": "https://www.wsj.com/articles/the-overnight-business-boom-that-took-a-century-11605285592",
     "upvotes": 8,
     "author": "prostoalex",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25085597"
   },
   {
-    "title": "Show HN: A Stargate in 140 chars of JavaScript",
-    "url": "https://www.dwitter.net/d/20584",
-    "upvotes": 308,
-    "author": "tomxor",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=25088683"
+    "title": "GNUnet 0.14.0",
+    "url": "https://gnunet.org/en/news/2020-11-0.14.0.html",
+    "upvotes": 12,
+    "author": "jrepinc",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25091860"
   },
   {
     "title": "We need less powerful languages",
     "url": "https://lukeplant.me.uk/blog/posts/less-powerful-languages/",
-    "upvotes": 40,
+    "upvotes": 42,
     "author": "bshanks",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25090816"
-  },
-  {
-    "title": "GFXBench: Apple M1",
-    "url": "https://gfxbench.com/compare.jsp?benchmark=gfx50&did1=90754264&os1=OS%20X&api1=metal&hwtype1=GPU&hwname1=Apple+M1&did2=40679076&os2=OS%20X&api2=metal&hwtype2=dGPU&hwname2=NVIDIA+GeForce+GTX+1050+Ti",
-    "upvotes": 252,
-    "author": "admiralspoo",
-    "comments": 433,
-    "link": "https://news.ycombinator.com/item?id=25086422"
   },
   {
     "title": "Fact or fantasy? Tales from the linguistic fringe",
@@ -154,9 +146,9 @@
   {
     "title": "Rehex – Reverse Engineers' Hex Editor",
     "url": "https://github.com/solemnwarning/rehex",
-    "upvotes": 138,
+    "upvotes": 139,
     "author": "app4soft",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=25088873"
   },
   {
@@ -164,23 +156,15 @@
     "url": "https://stopa.io/post/258",
     "upvotes": 118,
     "author": "stopachka",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25086256"
-  },
-  {
-    "title": "GM recalling nearly 69,000 Bolt EVs for fire risks",
-    "url": "https://www.reuters.com/article/us-gm-recall/gm-recalling-nearly-69000-bolt-evs-for-fire-risks-idUSKBN27T2LG",
-    "upvotes": 164,
-    "author": "hhs",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=25086045"
   },
   {
     "title": "The Big Lessons from History",
     "url": "https://www.collaborativefund.com/blog/the-big-lessons-from-history/",
-    "upvotes": 36,
+    "upvotes": 37,
     "author": "yarapavan",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25083946"
   },
   {
@@ -194,7 +178,7 @@
   {
     "title": "Play with Go",
     "url": "https://play-with-go.dev/guides.html",
-    "upvotes": 103,
+    "upvotes": 104,
     "author": "philosopher1234",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25088913"
@@ -202,31 +186,15 @@
   {
     "title": "So you've made a mistake and it's public",
     "url": "https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...",
-    "upvotes": 771,
+    "upvotes": 772,
     "author": "abbe98",
     "comments": 354,
     "link": "https://news.ycombinator.com/item?id=25084506"
   },
   {
-    "title": "gping: Ping, but with a graph",
-    "url": "https://github.com/orf/gping",
-    "upvotes": 197,
-    "author": "orf",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=25088050"
-  },
-  {
-    "title": "Ghidra 9.2",
-    "url": "https://ghidra-sre.org/releaseNotes_9.2.html",
-    "upvotes": 182,
-    "author": "KindOne",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=25086519"
-  },
-  {
     "title": "Smaller than ever–exploring the unusual properties of quantum-sized materials",
     "url": "https://www.titech.ac.jp/english/news/2020/048014.html",
-    "upvotes": 21,
+    "upvotes": 22,
     "author": "rustoo",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25090684"
@@ -238,5 +206,37 @@
     "author": "freefrancisco",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=25088396"
+  },
+  {
+    "title": "macOS unable to open any non-Apple application",
+    "url": "https://twitter.com/lapcatsoftware/status/1326990296412991489",
+    "upvotes": 2492,
+    "author": "mattsolle",
+    "comments": 1229,
+    "link": "https://news.ycombinator.com/item?id=25074959"
+  },
+  {
+    "title": "A Modest Proposal in the New Age of DMCA Takedown Aggression",
+    "url": "https://sfconservancy.org/blog/2020/nov/13/widevine-dmca-takedown/",
+    "upvotes": 66,
+    "author": "pabs3",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=25088961"
+  },
+  {
+    "title": "Femtosecond laser writing of glass, including borosilicate, sulfide, and lead",
+    "url": "https://patents.google.com/patent/US6573026B1/en",
+    "upvotes": 26,
+    "author": "peter_d_sherman",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25090334"
+  },
+  {
+    "title": "A Court Ruling in Austria Could Censor the Internet Worldwide",
+    "url": "https://slate.com/technology/2020/11/austria-facebook-eva-glawischnig-piesczek-censorship.html",
+    "upvotes": 8,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25091994"
   }
 ]
