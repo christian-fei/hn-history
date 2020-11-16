@@ -1,48 +1,40 @@
 [
   {
-    "title": "Standing up for developers: YouTube-dl is back",
-    "url": "https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/",
-    "upvotes": 1201,
-    "author": "todsacerdoti",
-    "comments": 211,
-    "link": "https://news.ycombinator.com/item?id=25113132"
-  },
-  {
     "title": "YouTube-dl's repository has been restored",
-    "url": "https://github.com/ytdl-org/youtube-dl",
-    "upvotes": 1329,
+    "url": "https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/",
+    "upvotes": 1363,
     "author": "fusl",
-    "comments": 224,
+    "comments": 444,
     "link": "https://news.ycombinator.com/item?id=25111726"
   },
   {
     "title": "Ok Google: please publish your DKIM secret keys",
     "url": "https://blog.cryptographyengineering.com/2020/11/16/ok-google-please-publish-your-dkim-secret-keys/",
-    "upvotes": 240,
+    "upvotes": 255,
     "author": "Reventlov",
-    "comments": 156,
+    "comments": 182,
     "link": "https://news.ycombinator.com/item?id=25113482"
   },
   {
     "title": "Black Screen After MacBook Pro Update to macOS Big Sur",
     "url": "https://discussions.apple.com/thread/252040614",
-    "upvotes": 176,
+    "upvotes": 192,
     "author": "jchook",
-    "comments": 128,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=25112768"
   },
   {
     "title": "My side projects always fail. This time is different.",
     "url": "https://www.themvpsprint.com/p/how-and-when-to-acquire-saas-users",
-    "upvotes": 69,
+    "upvotes": 76,
     "author": "timjones",
-    "comments": 17,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25114214"
   },
   {
     "title": "PostgreSQL psql command line tutorial and cheat sheet",
     "url": "https://tomcam.github.io/postgres/",
-    "upvotes": 91,
+    "upvotes": 98,
     "author": "tomcam",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25113440"
@@ -50,15 +42,15 @@
   {
     "title": "Yelp Is Screwing over Restaurants by Quietly Replacing Their Phone Numbers",
     "url": "https://www.vice.com/en/article/wjwebw/yelp-is-sneakily-replacing-restaurants-phone-numbers-so-grubhub-can-take-a-cut",
-    "upvotes": 370,
+    "upvotes": 401,
     "author": "elorant",
-    "comments": 135,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=25113503"
   },
   {
     "title": "Show HN: I created a URL shortener that can be entirely hosted on GitHub Pages",
     "url": "https://github.com/nelsontky/gh-pages-url-shortener",
-    "upvotes": 245,
+    "upvotes": 250,
     "author": "nelsontky",
     "comments": 144,
     "link": "https://news.ycombinator.com/item?id=25110879"
@@ -66,171 +58,179 @@
   {
     "title": "Moderna Covid vaccine candidate almost 95% effective, trials show",
     "url": "https://www.theguardian.com/world/2020/nov/16/moderna-covid-vaccine-candidate-almost-95-effective-trials-show",
-    "upvotes": 364,
+    "upvotes": 369,
     "author": "m1",
-    "comments": 887,
+    "comments": 900,
     "link": "https://news.ycombinator.com/item?id=25110665"
+  },
+  {
+    "title": "I failed to make LinkedIn fix their broken international domain URL parser",
+    "url": "https://helmstedt.dk/2020/11/how-i-failed-to-make-linkedin-fix-their-broken-url-parser-for-international-domain-names/",
+    "upvotes": 156,
+    "author": "helstegt",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=25111142"
+  },
+  {
+    "title": "Vitamin D improves survival in Covid-19 elderly patients",
+    "url": "https://www.sciencedirect.com/science/article/pii/S096007602030296X",
+    "upvotes": 119,
+    "author": "gregwebs",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=25113595"
   },
   {
     "title": "Repl.it",
     "url": "https://jobs.lever.co/replit/"
   },
   {
-    "title": "I failed to make LinkedIn fix their broken international domain URL parser",
-    "url": "https://helmstedt.dk/2020/11/how-i-failed-to-make-linkedin-fix-their-broken-url-parser-for-international-domain-names/",
-    "upvotes": 155,
-    "author": "helstegt",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=25111142"
-  },
-  {
-    "title": "Vitamin D improves survival in Covid-19 elderly patients",
-    "url": "https://www.sciencedirect.com/science/article/pii/S096007602030296X",
-    "upvotes": 109,
-    "author": "gregwebs",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=25113595"
-  },
-  {
     "title": "Exotic Programming Ideas: Part 2",
     "url": "https://www.stephendiehl.com/posts/exotic02.html",
-    "upvotes": 76,
+    "upvotes": 82,
     "author": "azhenley",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25112907"
   },
   {
+    "title": "DARPA’s 23 Challenge Questions",
+    "url": "https://compmath.wordpress.com/about/10-the-big-picture-darpas-23-challenge-questions/",
+    "upvotes": 46,
+    "author": "saadalem",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25110555"
+  },
+  {
     "title": "More patents disclosing a Sony medium format camera with curved sensor",
     "url": "https://www.sonyalpharumors.com/more-patents-disclosing-a-sony-medium-format-camera-concept-with-curved-sensor/",
-    "upvotes": 33,
+    "upvotes": 34,
     "author": "giuliomagnifico",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25113755"
   },
   {
     "title": "Covid-19: politicisation, “corruption,” and suppression of science",
     "url": "https://www.bmj.com/content/371/bmj.m4425",
-    "upvotes": 38,
+    "upvotes": 48,
     "author": "cirrus-clouds",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25115036"
-  },
-  {
-    "title": "DARPA’s 23 Challenge Questions",
-    "url": "https://compmath.wordpress.com/about/10-the-big-picture-darpas-23-challenge-questions/",
-    "upvotes": 43,
-    "author": "saadalem",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25110555"
   },
   {
     "title": "On Learning Chess as an Adult – From 650 to 1750 in Two Years",
     "url": "https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years/",
-    "upvotes": 447,
+    "upvotes": 456,
     "author": "tibbar",
-    "comments": 270,
+    "comments": 272,
     "link": "https://news.ycombinator.com/item?id=25108800"
+  },
+  {
+    "title": "My Priceless Summer on a Maine Lobster Boat",
+    "url": "https://www.outsideonline.com/2418783/my-priceless-summer-maine-lobster-boat",
+    "upvotes": 61,
+    "author": "axiomdata316",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=25109850"
   },
   {
     "title": "Benefits of Domain-Driven Design in Nuxt Apps",
     "url": "https://vueschool.io/articles/vuejs-tutorials/domain-driven-design-in-nuxt-apps/",
-    "upvotes": 3,
+    "upvotes": 4,
     "author": "rahaug",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25115664"
   },
   {
-    "title": "My Priceless Summer on a Maine Lobster Boat",
-    "url": "https://www.outsideonline.com/2418783/my-priceless-summer-maine-lobster-boat",
-    "upvotes": 58,
-    "author": "axiomdata316",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=25109850"
+    "title": "Emacs in odd places",
+    "url": "https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places",
+    "upvotes": 135,
+    "author": "catacombs",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=25108697"
   },
   {
     "title": "Run Python Applications Efficiently with malloc_trim",
     "url": "https://reliability.substack.com/p/run-python-servers-more-efficiently",
-    "upvotes": 22,
+    "upvotes": 25,
     "author": "ublaze",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25113636"
   },
   {
-    "title": "Emacs in odd places",
-    "url": "https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places",
-    "upvotes": 134,
+    "title": "What to do if the bank says you're dead",
+    "url": "https://themarkup.org/ask-the-markup/2020/08/18/what-to-do-if-the-bank-says-youre-dead",
+    "upvotes": 4,
     "author": "catacombs",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=25108697"
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25108701"
   },
   {
     "title": "A Spacetime Surprise: Time Isn’t Just Another Dimension",
     "url": "https://www.forbes.com/sites/startswithabang/2020/08/12/a-spacetime-surprise-time-isnt-just-another-dimension",
-    "upvotes": 221,
+    "upvotes": 224,
     "author": "chris_overseas",
-    "comments": 125,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=25109046"
+  },
+  {
+    "title": "Integrating User-Centered Methods into Programming Language Design",
+    "url": "https://arxiv.org/abs/1912.04719",
+    "upvotes": 4,
+    "author": "azhenley",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25115332"
   },
   {
     "title": "No Excess Deaths in Sweden Compared to the Last the Years",
     "url": "https://www.statista.com/statistics/525353/sweden-number-of-deaths/",
-    "upvotes": 20,
+    "upvotes": 26,
     "author": "mrfusion",
-    "comments": 7,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25112382"
+  },
+  {
+    "title": "Tools and Services I Use to Run My SaaS",
+    "url": "https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas/",
+    "upvotes": 27,
+    "author": "jakelazaroff",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25112954"
   },
   {
     "title": "Apple apps can bypass firewalls and VPNs – a potential security/privacy issue",
     "url": "https://thenextweb.com/plugged/2020/11/16/apple-apps-on-big-sur-bypass-firewalls-vpns-analysis-macos/",
-    "upvotes": 515,
+    "upvotes": 524,
     "author": "esolyt",
-    "comments": 220,
+    "comments": 222,
     "link": "https://news.ycombinator.com/item?id=25109724"
   },
   {
     "title": "Redpanda – A Kafka-compatible streaming platform for mission-critical workloads",
     "url": "https://vectorized.io/redpanda",
-    "upvotes": 195,
+    "upvotes": 197,
     "author": "sorenbs",
     "comments": 94,
     "link": "https://news.ycombinator.com/item?id=25075739"
   },
   {
-    "title": "Simulating the pandemic: What Covid forecasters can learn from climate models",
-    "url": "https://www.nature.com/articles/d41586-020-03208-1",
-    "upvotes": 14,
-    "author": "hatmatrix",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25109873"
-  },
-  {
-    "title": "Tools and Services I Use to Run My SaaS",
-    "url": "https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas/",
-    "upvotes": 20,
-    "author": "jakelazaroff",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25112954"
-  },
-  {
     "title": "Meeting Mr. Kid Pix",
     "url": "https://www.youtube.com/watch?v=csalhuSixQU",
-    "upvotes": 44,
+    "upvotes": 46,
     "author": "panic",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25108875"
   },
   {
-    "title": "Code generating a WebAssembly 6502 emulator from specifications",
-    "url": "https://blog.scottlogic.com/2020/08/26/codegen-6502-webassembly.html",
-    "upvotes": 56,
-    "author": "ColinEberhardt",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25108781"
+    "title": "A Silk Road Renaissance",
+    "url": "https://www.archaeology.org/issues/386-2007/features/8756-a-silk-road-renaissance",
+    "upvotes": 43,
+    "author": "acsillag",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25108359"
   },
   {
     "title": "The Largest Commercial Cylindrical Slide Rule Has a Scale Length of 24m",
     "url": "https://cacm.acm.org/blogs/blog-cacm/244935-the-worlds-largest-commercial-cylindrical-slide-rule-has-a-scale-length-of-24m/fulltext",
-    "upvotes": 62,
+    "upvotes": 63,
     "author": "rbanffy",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25110407"
