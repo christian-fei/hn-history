@@ -1,140 +1,140 @@
 [
   {
-    "title": "Lax oversight allows Chicago police to avoid turning on their body cams",
-    "url": "https://storymaps.arcgis.com/stories/3603ef8cc492488c847cffbe03ad0f1d",
-    "upvotes": 147,
-    "author": "jseliger",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=25117103"
-  },
-  {
     "title": "Airbnb S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312520294801/d81668ds1.htm",
-    "upvotes": 138,
+    "upvotes": 177,
     "author": "xoxoy",
-    "comments": 56,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=25117362"
   },
   {
     "title": "YouTube-dl's repository has been restored",
     "url": "https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/",
-    "upvotes": 1844,
+    "upvotes": 1865,
     "author": "fusl",
-    "comments": 526,
+    "comments": 529,
     "link": "https://news.ycombinator.com/item?id=25111726"
-  },
-  {
-    "title": "Google Cloud SQL now supports PostgreSQL 13",
-    "url": "https://cloud.google.com/blog/products/databases/cloud-sql-database-service-adds-postgresql-13",
-    "upvotes": 51,
-    "author": "k-rus",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25117120"
   },
   {
     "title": "Twitter names famed hacker 'Mudge' as head of security",
     "url": "https://www.reuters.com/article/idUSKBN27W2MB",
-    "upvotes": 161,
+    "upvotes": 184,
     "author": "longdefeat",
-    "comments": 28,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=25115754"
+  },
+  {
+    "title": "Caltech Awards 10,000th PhD Degree",
+    "url": "https://www.caltech.edu/about/news/caltech-awards-10000th-phd-degree-during-october-conferral-students-impacted-pandemic",
+    "upvotes": 38,
+    "author": "theBashShell",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25117242"
   },
   {
     "title": "What Gödel Discovered",
     "url": "https://stopa.io/post/269",
-    "upvotes": 164,
+    "upvotes": 187,
     "author": "stopachka",
-    "comments": 39,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=25115746"
   },
   {
-    "title": "Big no on Big Sur: Mullvad disallows Apple apps to bypass firewall",
-    "url": "https://mullvad.net/en/blog/2020/11/16/big-no-big-sur-mullvad-disallows-apple-apps-bypass-firewall/",
-    "upvotes": 165,
-    "author": "Semaphor",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=25115509"
+    "title": "Ok Google: please publish your DKIM secret keys",
+    "url": "https://blog.cryptographyengineering.com/2020/11/16/ok-google-please-publish-your-dkim-secret-keys/",
+    "upvotes": 345,
+    "author": "Reventlov",
+    "comments": 301,
+    "link": "https://news.ycombinator.com/item?id=25113482"
   },
   {
-    "title": "Show HN: A curated list of open source healthcare software, tools and resources",
-    "url": "https://github.com/kakoni/awesome-healthcare",
-    "upvotes": 27,
-    "author": "okokok___",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25116916"
+    "title": "Exotic Programming Ideas, Part 2: Term Rewriting",
+    "url": "https://www.stephendiehl.com/posts/exotic02.html",
+    "upvotes": 113,
+    "author": "azhenley",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=25112907"
+  },
+  {
+    "title": "PostgreSQL psql command line tutorial and cheat sheet",
+    "url": "https://tomcam.github.io/postgres/",
+    "upvotes": 192,
+    "author": "tomcam",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=25113440"
+  },
+  {
+    "title": "Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA",
+    "url": "https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html",
+    "upvotes": 74,
+    "author": "scarybeast",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25115916"
   },
   {
     "title": "Tesorio Is Hiring a Senior Product Manager and Senior Engineers",
     "url": "https://www.tesorio.com/careers#job-openings"
   },
   {
-    "title": "Caltech Awards 10,000th PhD Degree",
-    "url": "https://www.caltech.edu/about/news/caltech-awards-10000th-phd-degree-during-october-conferral-students-impacted-pandemic",
-    "upvotes": 15,
-    "author": "theBashShell",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25117242"
-  },
-  {
-    "title": "My side projects always fail. This time is different.",
-    "url": "https://www.themvpsprint.com/p/how-and-when-to-acquire-saas-users",
-    "upvotes": 167,
-    "author": "timjones",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=25114214"
-  },
-  {
-    "title": "PostgreSQL psql command line tutorial and cheat sheet",
-    "url": "https://tomcam.github.io/postgres/",
-    "upvotes": 187,
-    "author": "tomcam",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=25113440"
-  },
-  {
-    "title": "Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA",
-    "url": "https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html",
-    "upvotes": 64,
-    "author": "scarybeast",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25115916"
+    "title": "Google Cloud SQL now supports PostgreSQL 13",
+    "url": "https://cloud.google.com/blog/products/databases/cloud-sql-database-service-adds-postgresql-13",
+    "upvotes": 63,
+    "author": "k-rus",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=25117120"
   },
   {
     "title": "Moderna Covid vaccine candidate almost 95% effective, trials show",
     "url": "https://www.theguardian.com/world/2020/nov/16/moderna-covid-vaccine-candidate-almost-95-effective-trials-show",
-    "upvotes": 538,
+    "upvotes": 548,
     "author": "m1",
-    "comments": 1085,
+    "comments": 1090,
     "link": "https://news.ycombinator.com/item?id=25110665"
   },
   {
-    "title": "Object-oriented programming: Some history, and challenges for the next 50 years [pdf]",
-    "url": "http://web.cecs.pdx.edu/~black/publications/O-JDahl.pdf",
-    "upvotes": 19,
-    "author": "ingve",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25109900"
+    "title": "My side projects always fail. This time is different.",
+    "url": "https://www.themvpsprint.com/p/how-and-when-to-acquire-saas-users",
+    "upvotes": 169,
+    "author": "timjones",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=25114214"
   },
   {
     "title": "Researchers’ AI aligns sheet music with MIDI audio",
     "url": "https://venturebeat.com/2020/07/22/researchers-ai-aligns-sheet-music-with-midi-audio/",
-    "upvotes": 20,
+    "upvotes": 25,
     "author": "Bud",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25116469"
+  },
+  {
+    "title": "Object-oriented programming: Some history, and challenges for the next 50 years [pdf]",
+    "url": "http://web.cecs.pdx.edu/~black/publications/O-JDahl.pdf",
+    "upvotes": 24,
+    "author": "ingve",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25109900"
   },
   {
     "title": "Yelp Is Screwing over Restaurants by Quietly Replacing Their Phone Numbers",
     "url": "https://www.vice.com/en/article/wjwebw/yelp-is-sneakily-replacing-restaurants-phone-numbers-so-grubhub-can-take-a-cut",
-    "upvotes": 656,
+    "upvotes": 667,
     "author": "elorant",
-    "comments": 218,
+    "comments": 219,
     "link": "https://news.ycombinator.com/item?id=25113503"
+  },
+  {
+    "title": "Lax oversight allows Chicago police to avoid turning on their body cams",
+    "url": "https://storymaps.arcgis.com/stories/3603ef8cc492488c847cffbe03ad0f1d",
+    "upvotes": 161,
+    "author": "jseliger",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=25117103"
   },
   {
     "title": "Show HN: I created a URL shortener that can be entirely hosted on GitHub Pages",
     "url": "https://github.com/nelsontky/gh-pages-url-shortener",
-    "upvotes": 287,
+    "upvotes": 289,
     "author": "nelsontky",
     "comments": 153,
     "link": "https://news.ycombinator.com/item?id=25110879"
@@ -142,97 +142,97 @@
   {
     "title": "What to do if the bank says you're dead",
     "url": "https://themarkup.org/ask-the-markup/2020/08/18/what-to-do-if-the-bank-says-youre-dead",
-    "upvotes": 53,
+    "upvotes": 54,
     "author": "catacombs",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25108701"
-  },
-  {
-    "title": "Ok Google: please publish your DKIM secret keys",
-    "url": "https://blog.cryptographyengineering.com/2020/11/16/ok-google-please-publish-your-dkim-secret-keys/",
-    "upvotes": 340,
-    "author": "Reventlov",
-    "comments": 295,
-    "link": "https://news.ycombinator.com/item?id=25113482"
-  },
-  {
-    "title": "Black Screen After MacBook Pro Update to macOS Big Sur",
-    "url": "https://discussions.apple.com/thread/252040614",
-    "upvotes": 290,
-    "author": "jchook",
-    "comments": 258,
-    "link": "https://news.ycombinator.com/item?id=25112768"
-  },
-  {
-    "title": "I failed to make LinkedIn fix their broken international domain URL parser",
-    "url": "https://helmstedt.dk/2020/11/how-i-failed-to-make-linkedin-fix-their-broken-url-parser-for-international-domain-names/",
-    "upvotes": 185,
-    "author": "helstegt",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=25111142"
   },
   {
     "title": "Vitamin D improves survival in Covid-19 elderly patients",
     "url": "https://www.sciencedirect.com/science/article/pii/S096007602030296X",
-    "upvotes": 215,
+    "upvotes": 227,
     "author": "gregwebs",
     "comments": 89,
     "link": "https://news.ycombinator.com/item?id=25113595"
   },
   {
-    "title": "Exotic Programming Ideas: Part 2",
-    "url": "https://www.stephendiehl.com/posts/exotic02.html",
-    "upvotes": 108,
-    "author": "azhenley",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=25112907"
+    "title": "I failed to make LinkedIn fix their broken international domain URL parser",
+    "url": "https://helmstedt.dk/2020/11/how-i-failed-to-make-linkedin-fix-their-broken-url-parser-for-international-domain-names/",
+    "upvotes": 186,
+    "author": "helstegt",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=25111142"
   },
   {
-    "title": "Sweden bans public events of more than eight people",
-    "url": "https://www.thelocal.se/20201116/breaking-sweden-introduces-limit-of-eight-coronavirus",
-    "upvotes": 66,
-    "author": "belltaco",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=25116451"
+    "title": "Why Italians don't drink a cappuccino after 11am [video]",
+    "url": "https://www.youtube.com/watch?v=7mIcIVCnTrY",
+    "upvotes": 55,
+    "author": "henning",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=25109098"
+  },
+  {
+    "title": "A curated list of open source healthcare software, tools and resources",
+    "url": "https://github.com/kakoni/awesome-healthcare",
+    "upvotes": 32,
+    "author": "okokok___",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25116916"
   },
   {
     "title": "DARPA’s 23 Challenge Questions",
     "url": "https://compmath.wordpress.com/about/10-the-big-picture-darpas-23-challenge-questions/",
-    "upvotes": 81,
+    "upvotes": 83,
     "author": "saadalem",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25110555"
-  },
-  {
-    "title": "Cyberstalker locates victim by enhancing reflection in her eye",
-    "url": "https://futurism.com/the-byte/cyberstalker-victim-enhancing-reflection",
-    "upvotes": 8,
-    "author": "Bud",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25116461"
   },
   {
     "title": "Quantifying Vitality: The Progressive Paradox",
     "url": "https://hedgehogreview.com/issues/questioning-the-quantified-life/articles/quantifying-vitality-the-progressive-paradox",
-    "upvotes": 6,
+    "upvotes": 8,
     "author": "Petiver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25113291"
   },
   {
+    "title": "Big no on Big Sur: Mullvad disallows Apple apps to bypass firewall",
+    "url": "https://mullvad.net/en/blog/2020/11/16/big-no-big-sur-mullvad-disallows-apple-apps-bypass-firewall/",
+    "upvotes": 182,
+    "author": "Semaphor",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=25115509"
+  },
+  {
     "title": "Run Python Applications Efficiently with malloc_trim",
     "url": "https://reliability.substack.com/p/run-python-servers-more-efficiently",
-    "upvotes": 55,
+    "upvotes": 60,
     "author": "ublaze",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25113636"
+  },
+  {
+    "title": "More patents disclosing a Sony medium format camera with curved sensor",
+    "url": "https://www.sonyalpharumors.com/more-patents-disclosing-a-sony-medium-format-camera-concept-with-curved-sensor/",
+    "upvotes": 46,
+    "author": "giuliomagnifico",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=25113755"
   },
   {
     "title": "Tools and Services I Use to Run My SaaS",
     "url": "https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas/",
-    "upvotes": 72,
+    "upvotes": 74,
     "author": "jakelazaroff",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25112954"
+  },
+  {
+    "title": "K0s – Zero Friction Kubernetes",
+    "url": "https://github.com/k0sproject/k0s",
+    "upvotes": 3,
+    "author": "daenney",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25117451"
   }
 ]
