@@ -1,72 +1,80 @@
 [
   {
-    "title": "YouTube-dl's repository has been restored",
-    "url": "https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/",
-    "upvotes": 2246,
-    "author": "fusl",
-    "comments": 596,
-    "link": "https://news.ycombinator.com/item?id=25111726"
-  },
-  {
     "title": "Airbnb S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312520294801/d81668ds1.htm",
-    "upvotes": 439,
+    "upvotes": 449,
     "author": "xoxoy",
-    "comments": 268,
+    "comments": 279,
     "link": "https://news.ycombinator.com/item?id=25117362"
   },
   {
-    "title": "“What's expected of us” by Ted Chiang",
+    "title": "What’s expected of us",
     "url": "https://www.nature.com/articles/436150a",
-    "upvotes": 9,
+    "upvotes": 24,
     "author": "Hooke",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25120247"
   },
   {
     "title": "Twitter names famed hacker 'Mudge' as head of security",
     "url": "https://www.reuters.com/article/idUSKBN27W2MB",
-    "upvotes": 370,
+    "upvotes": 380,
     "author": "longdefeat",
-    "comments": 104,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=25115754"
+  },
+  {
+    "title": "FBI: GRU Hackers on Most Wanted list for international cyber attacks",
+    "url": "https://www.fbi.gov/wanted/cyber/gru-hackers-destructive-malware-and-international-cyber-attacks",
+    "upvotes": 11,
+    "author": "fortran77",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25120221"
   },
   {
     "title": "What Gödel Discovered",
     "url": "https://stopa.io/post/269",
-    "upvotes": 411,
+    "upvotes": 436,
     "author": "stopachka",
-    "comments": 133,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=25115746"
+  },
+  {
+    "title": "YouTube-dl's repository has been restored",
+    "url": "https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/",
+    "upvotes": 2275,
+    "author": "fusl",
+    "comments": 598,
+    "link": "https://news.ycombinator.com/item?id=25111726"
   },
   {
     "title": "Caltech Awards 10,000th PhD Degree",
     "url": "https://www.caltech.edu/about/news/caltech-awards-10000th-phd-degree-during-october-conferral-students-impacted-pandemic",
-    "upvotes": 162,
+    "upvotes": 169,
     "author": "theBashShell",
-    "comments": 92,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=25117242"
   },
   {
     "title": "Ok Google: please publish your DKIM secret keys",
     "url": "https://blog.cryptographyengineering.com/2020/11/16/ok-google-please-publish-your-dkim-secret-keys/",
-    "upvotes": 462,
+    "upvotes": 468,
     "author": "Reventlov",
-    "comments": 375,
+    "comments": 379,
     "link": "https://news.ycombinator.com/item?id=25113482"
   },
   {
     "title": "Headlamp: a new UI for Kubernetes",
     "url": "https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp/",
-    "upvotes": 60,
+    "upvotes": 65,
     "author": "aberoham",
-    "comments": 19,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=25118870"
   },
   {
     "title": "Exotic Programming Ideas, Part 2: Term Rewriting",
     "url": "https://www.stephendiehl.com/posts/exotic02.html",
-    "upvotes": 176,
+    "upvotes": 178,
     "author": "azhenley",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=25112907"
@@ -74,33 +82,33 @@
   {
     "title": "PostgreSQL psql command line tutorial and cheat sheet",
     "url": "https://tomcam.github.io/postgres/",
-    "upvotes": 281,
+    "upvotes": 285,
     "author": "tomcam",
-    "comments": 32,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25113440"
   },
   {
-    "title": "Moving a Golang project from panics to errors. Wouldnt wish this on my enemies.",
-    "url": "https://www.dolthub.com/blog/2020-11-16-panics-to-errors/",
-    "upvotes": 27,
-    "author": "bheni",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=25119451"
+    "title": "Cutter – Free and Open Source Re Platform Powered by Radare2",
+    "url": "https://cutter.re/",
+    "upvotes": 4,
+    "author": "BeeAwesome",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25120236"
   },
   {
     "title": "High Performance Individuals and Teams",
     "url": "https://pablasso.com/high-performance-individuals-and-teams/",
-    "upvotes": 37,
+    "upvotes": 44,
     "author": "pablasso",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25118762"
   },
   {
     "title": "Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA",
     "url": "https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html",
-    "upvotes": 125,
+    "upvotes": 126,
     "author": "scarybeast",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25115916"
   },
   {
@@ -110,129 +118,121 @@
   {
     "title": "Finding Startup Ideas and Building in Heavily-Regulated Spaces",
     "url": "https://firstround.com/review/finding-startup-ideas-and-building-in-heavily-regulated-spaces-lessons-from-cash-app-and-carbon-health/",
-    "upvotes": 45,
+    "upvotes": 50,
     "author": "yarapavan",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25111075"
   },
   {
-    "title": "Apple Silicon M1 Chips and Docker",
-    "url": "https://www.docker.com/blog/apple-silicon-m1-chips-and-docker/",
-    "upvotes": 74,
-    "author": "austinprete",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=25119396"
+    "title": "Researchers’ AI aligns sheet music with MIDI audio",
+    "url": "https://venturebeat.com/2020/07/22/researchers-ai-aligns-sheet-music-with-midi-audio/",
+    "upvotes": 66,
+    "author": "Bud",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=25116469"
   },
   {
     "title": "In which a cat narrates feline history in the age of european conquest",
     "url": "https://lithub.com/in-which-a-cat-narrates-feline-history-in-the-age-of-european-conquest/",
-    "upvotes": 21,
+    "upvotes": 22,
     "author": "quickfox",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25117560"
   },
   {
-    "title": "Researchers’ AI aligns sheet music with MIDI audio",
-    "url": "https://venturebeat.com/2020/07/22/researchers-ai-aligns-sheet-music-with-midi-audio/",
-    "upvotes": 64,
-    "author": "Bud",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=25116469"
-  },
-  {
     "title": "Yelp Is Screwing over Restaurants by Quietly Replacing Their Phone Numbers",
     "url": "https://www.vice.com/en/article/wjwebw/yelp-is-sneakily-replacing-restaurants-phone-numbers-so-grubhub-can-take-a-cut",
-    "upvotes": 829,
+    "upvotes": 840,
     "author": "elorant",
-    "comments": 259,
+    "comments": 263,
     "link": "https://news.ycombinator.com/item?id=25113503"
   },
   {
     "title": "How and when to acquire SaaS users",
     "url": "https://www.themvpsprint.com/p/how-and-when-to-acquire-saas-users",
-    "upvotes": 207,
+    "upvotes": 211,
     "author": "timjones",
     "comments": 88,
     "link": "https://news.ycombinator.com/item?id=25114214"
   },
   {
-    "title": "No excess deaths in Sweden compared to the last ten years",
-    "url": "https://www.statista.com/statistics/525353/sweden-number-of-deaths/",
-    "upvotes": 137,
-    "author": "mrfusion",
-    "comments": 180,
-    "link": "https://news.ycombinator.com/item?id=25112382"
+    "title": "Liquid information flow control [pdf]",
+    "url": "https://cseweb.ucsd.edu/~npolikarpova/publications/icfp20-lifty.pdf",
+    "upvotes": 8,
+    "author": "azhenley",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25116864"
   },
   {
-    "title": "Google Cloud SQL now supports PostgreSQL 13",
-    "url": "https://cloud.google.com/blog/products/databases/cloud-sql-database-service-adds-postgresql-13",
-    "upvotes": 135,
-    "author": "k-rus",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=25117120"
+    "title": "No excess deaths in Sweden compared to the last ten years",
+    "url": "https://www.statista.com/statistics/525353/sweden-number-of-deaths/",
+    "upvotes": 146,
+    "author": "mrfusion",
+    "comments": 189,
+    "link": "https://news.ycombinator.com/item?id=25112382"
   },
   {
     "title": "Object-oriented programming: Some history, and challenges for the next 50 years [pdf]",
     "url": "http://web.cecs.pdx.edu/~black/publications/O-JDahl.pdf",
-    "upvotes": 63,
+    "upvotes": 65,
     "author": "ingve",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25109900"
   },
   {
     "title": "K0s – Zero Friction Kubernetes",
     "url": "https://github.com/k0sproject/k0s",
-    "upvotes": 59,
+    "upvotes": 62,
     "author": "daenney",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25117451"
   },
   {
     "title": "Tools and Services I Use to Run My SaaS",
     "url": "https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas/",
-    "upvotes": 146,
+    "upvotes": 153,
     "author": "jakelazaroff",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25112954"
+  },
+  {
+    "title": "Google Cloud SQL now supports PostgreSQL 13",
+    "url": "https://cloud.google.com/blog/products/databases/cloud-sql-database-service-adds-postgresql-13",
+    "upvotes": 137,
+    "author": "k-rus",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=25117120"
   },
   {
     "title": "Integrating User-Centered Methods into Programming Language Design",
     "url": "https://arxiv.org/abs/1912.04719",
-    "upvotes": 18,
+    "upvotes": 22,
     "author": "azhenley",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25115332"
   },
   {
-    "title": "What to do if the bank says you're dead",
-    "url": "https://themarkup.org/ask-the-markup/2020/08/18/what-to-do-if-the-bank-says-youre-dead",
-    "upvotes": 73,
-    "author": "catacombs",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=25108701"
+    "title": "Improving on QBasic's Random Number Generator",
+    "url": "https://nullprogram.com/blog/2020/11/17/",
+    "upvotes": 4,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25120083"
+  },
+  {
+    "title": "Good / Bad Product Manager",
+    "url": "https://wildbit.com/good-bad/product-manager",
+    "upvotes": 4,
+    "author": "doppp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25120059"
   },
   {
     "title": "Show HN: Text-to-podcast: Repurpose any content into podcasts",
     "url": "https://www.narratedbypoise.com/",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "paulaz",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25117894"
-  },
-  {
-    "title": "Why Italians don't drink a cappuccino after 11am [video]",
-    "url": "https://www.youtube.com/watch?v=7mIcIVCnTrY",
-    "upvotes": 125,
-    "author": "henning",
-    "comments": 131,
-    "link": "https://news.ycombinator.com/item?id=25109098"
-  },
-  {
-    "title": "Moderna Covid vaccine candidate almost 95% effective, trials show",
-    "url": "https://www.theguardian.com/world/2020/nov/16/moderna-covid-vaccine-candidate-almost-95-effective-trials-show",
-    "upvotes": 687,
-    "author": "m1",
-    "comments": 1215,
-    "link": "https://news.ycombinator.com/item?id=25110665"
   }
 ]
