@@ -1,8 +1,16 @@
 [
   {
+    "title": "Firefox 83 introduces HTTPS-Only Mode",
+    "url": "https://blog.mozilla.org/security/2020/11/17/firefox-83-introduces-https-only-mode/",
+    "upvotes": 13,
+    "author": "tomwas54",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25121604"
+  },
+  {
     "title": "Airbnb S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312520294801/d81668ds1.htm",
-    "upvotes": 515,
+    "upvotes": 521,
     "author": "xoxoy",
     "comments": 333,
     "link": "https://news.ycombinator.com/item?id=25117362"
@@ -10,74 +18,74 @@
   {
     "title": "Cutter – Free and Open Source Re Platform Powered by Radare2",
     "url": "https://cutter.re/",
-    "upvotes": 113,
+    "upvotes": 123,
     "author": "BeeAwesome",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25120236"
   },
   {
     "title": "DoorDash and Societal Arbitrage",
     "url": "https://themargins.substack.com/p/doordash-and-societal-arbitrage",
-    "upvotes": 58,
+    "upvotes": 61,
     "author": "asaramis",
-    "comments": 27,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25120439"
   },
   {
     "title": "Twitter names famed hacker 'Mudge' as head of security",
     "url": "https://www.reuters.com/article/idUSKBN27W2MB",
-    "upvotes": 445,
+    "upvotes": 452,
     "author": "longdefeat",
-    "comments": 131,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=25115754"
   },
   {
     "title": "What Gödel Discovered",
     "url": "https://stopa.io/post/269",
-    "upvotes": 604,
+    "upvotes": 620,
     "author": "stopachka",
-    "comments": 158,
+    "comments": 159,
     "link": "https://news.ycombinator.com/item?id=25115746"
-  },
-  {
-    "title": "What’s expected of us",
-    "url": "https://www.nature.com/articles/436150a",
-    "upvotes": 87,
-    "author": "Hooke",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=25120247"
   },
   {
     "title": "YouTube-dl's repository has been restored",
     "url": "https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/",
-    "upvotes": 2412,
+    "upvotes": 2419,
     "author": "fusl",
     "comments": 613,
     "link": "https://news.ycombinator.com/item?id=25111726"
   },
   {
-    "title": "Being Glue",
-    "url": "https://noidea.dog/glue",
-    "upvotes": 67,
-    "author": "monsieurpng",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=25120504"
+    "title": "What’s expected of us",
+    "url": "https://www.nature.com/articles/436150a",
+    "upvotes": 88,
+    "author": "Hooke",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=25120247"
+  },
+  {
+    "title": "Caltech Awards 10,000th PhD Degree",
+    "url": "https://www.caltech.edu/about/news/caltech-awards-10000th-phd-degree-during-october-conferral-students-impacted-pandemic",
+    "upvotes": 202,
+    "author": "theBashShell",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=25117242"
   },
   {
     "title": "New powerful malware obfuscation technique",
     "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9186656",
-    "upvotes": 30,
+    "upvotes": 31,
     "author": "MalwareGuy",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25120810"
   },
   {
-    "title": "Caltech Awards 10,000th PhD Degree",
-    "url": "https://www.caltech.edu/about/news/caltech-awards-10000th-phd-degree-during-october-conferral-students-impacted-pandemic",
-    "upvotes": 201,
-    "author": "theBashShell",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=25117242"
+    "title": "Being Glue",
+    "url": "https://noidea.dog/glue",
+    "upvotes": 71,
+    "author": "monsieurpng",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=25120504"
   },
   {
     "title": "Mux",
@@ -86,58 +94,58 @@
   {
     "title": "The Nine Phases of an Open Source Project Maintainer",
     "url": "https://nibblestew.blogspot.com/2020/11/the-nine-phases-of-open-source-project.html",
-    "upvotes": 21,
+    "upvotes": 23,
     "author": "pabs3",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25120506"
-  },
-  {
-    "title": "Improving on QBasic's Random Number Generator",
-    "url": "https://nullprogram.com/blog/2020/11/17/",
-    "upvotes": 32,
-    "author": "todsacerdoti",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25120083"
   },
   {
     "title": "Headlamp: a new UI for Kubernetes",
     "url": "https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp/",
-    "upvotes": 91,
+    "upvotes": 95,
     "author": "aberoham",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25118870"
   },
   {
-    "title": "Git is simply too hard",
-    "url": "https://changelog.com/posts/git-is-simply-too-hard",
-    "upvotes": 42,
-    "author": "ingve",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=25121416"
+    "title": "Improving on QBasic's Random Number Generator",
+    "url": "https://nullprogram.com/blog/2020/11/17/",
+    "upvotes": 33,
+    "author": "todsacerdoti",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25120083"
   },
   {
     "title": "Open source security tools list",
     "url": "https://github.com/Penetrum-Security/Security-List",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "Dutchie2020",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25120130"
-  },
-  {
-    "title": "Text Visualization Browser",
-    "url": "https://textvis.lnu.se/",
-    "upvotes": 19,
-    "author": "jonbaer",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25120190"
   },
   {
     "title": "Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA",
     "url": "https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html",
-    "upvotes": 149,
+    "upvotes": 150,
     "author": "scarybeast",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25115916"
+  },
+  {
+    "title": "Text Visualization Browser",
+    "url": "https://textvis.lnu.se/",
+    "upvotes": 20,
+    "author": "jonbaer",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25120190"
+  },
+  {
+    "title": "K0s – Zero Friction Kubernetes",
+    "url": "https://github.com/k0sproject/k0s",
+    "upvotes": 93,
+    "author": "daenney",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=25117451"
   },
   {
     "title": "Finding Startup Ideas and Building in Heavily-Regulated Spaces",
@@ -152,29 +160,69 @@
     "url": "https://venturebeat.com/2020/07/22/researchers-ai-aligns-sheet-music-with-midi-audio/",
     "upvotes": 82,
     "author": "Bud",
-    "comments": 50,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=25116469"
-  },
-  {
-    "title": "K0s – Zero Friction Kubernetes",
-    "url": "https://github.com/k0sproject/k0s",
-    "upvotes": 90,
-    "author": "daenney",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=25117451"
   },
   {
     "title": "Ik.me: a free email address for life developed and hosted in Switzerland",
     "url": "https://www.infomaniak.com/en/free-email",
-    "upvotes": 69,
+    "upvotes": 71,
     "author": "infomaniak",
-    "comments": 88,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=25120742"
+  },
+  {
+    "title": "Covid Took My Grandfather. But It Wasn’t What Killed Him",
+    "url": "https://www.thecut.com/article/covid-deaths-injustice.html",
+    "upvotes": 21,
+    "author": "belltaco",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25120860"
+  },
+  {
+    "title": "Starting a food business in a pandemic",
+    "url": "https://firstprincipleskitchen.substack.com/p/always-start-a-food-business",
+    "upvotes": 21,
+    "author": "ezl",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25116871"
+  },
+  {
+    "title": "Ok Google: please publish your DKIM secret keys",
+    "url": "https://blog.cryptographyengineering.com/2020/11/16/ok-google-please-publish-your-dkim-secret-keys/",
+    "upvotes": 526,
+    "author": "Reventlov",
+    "comments": 402,
+    "link": "https://news.ycombinator.com/item?id=25113482"
+  },
+  {
+    "title": "Object-oriented programming: Some history, and challenges for the next 50 years [pdf]",
+    "url": "http://web.cecs.pdx.edu/~black/publications/O-JDahl.pdf",
+    "upvotes": 86,
+    "author": "ingve",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=25109900"
+  },
+  {
+    "title": "In India a software engineer is imprisoned for automating forms on website",
+    "url": "https://www.huffingtonpost.in/entry/s-yuvarajaa-super-tatkal-pro-irctc-train-ticket-booking_in_5fb25d5cc5b6d8781808f6ab",
+    "upvotes": 8,
+    "author": "jaikant77",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25121465"
+  },
+  {
+    "title": "Liquid information flow control [pdf]",
+    "url": "https://cseweb.ucsd.edu/~npolikarpova/publications/icfp20-lifty.pdf",
+    "upvotes": 27,
+    "author": "azhenley",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25116864"
   },
   {
     "title": "The Supervolcano Under Yellowstone Is Alive and Kicking",
     "url": "http://earth.nautil.us/article/570/the-supervolcano-under-yellowstone-is-alive-and-kicking",
-    "upvotes": 5,
+    "upvotes": 6,
     "author": "rbanffy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25114194"
@@ -186,53 +234,5 @@
     "author": "adulau",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25114615"
-  },
-  {
-    "title": "Ok Google: please publish your DKIM secret keys",
-    "url": "https://blog.cryptographyengineering.com/2020/11/16/ok-google-please-publish-your-dkim-secret-keys/",
-    "upvotes": 526,
-    "author": "Reventlov",
-    "comments": 400,
-    "link": "https://news.ycombinator.com/item?id=25113482"
-  },
-  {
-    "title": "Liquid information flow control [pdf]",
-    "url": "https://cseweb.ucsd.edu/~npolikarpova/publications/icfp20-lifty.pdf",
-    "upvotes": 27,
-    "author": "azhenley",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25116864"
-  },
-  {
-    "title": "Object-oriented programming: Some history, and challenges for the next 50 years [pdf]",
-    "url": "http://web.cecs.pdx.edu/~black/publications/O-JDahl.pdf",
-    "upvotes": 86,
-    "author": "ingve",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=25109900"
-  },
-  {
-    "title": "Starting a food business in a pandemic",
-    "url": "https://firstprincipleskitchen.substack.com/p/always-start-a-food-business",
-    "upvotes": 19,
-    "author": "ezl",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25116871"
-  },
-  {
-    "title": "Covid Took My Grandfather. But It Wasn’t What Killed Him",
-    "url": "https://www.thecut.com/article/covid-deaths-injustice.html",
-    "upvotes": 15,
-    "author": "belltaco",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25120860"
-  },
-  {
-    "title": "China attacks fishing boats in conquest of South China Sea",
-    "url": "https://www.latimes.com/world-nation/story/2020-11-12/china-attacks-fishing-boats-in-conquest-of-south-china-sea",
-    "upvotes": 80,
-    "author": "throwawaysea",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=25120476"
   }
 ]
