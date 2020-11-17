@@ -1,32 +1,40 @@
 [
   {
+    "title": "YouTube-dl's repository has been restored",
+    "url": "https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/",
+    "upvotes": 2170,
+    "author": "fusl",
+    "comments": 595,
+    "link": "https://news.ycombinator.com/item?id=25111726"
+  },
+  {
     "title": "Airbnb S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312520294801/d81668ds1.htm",
     "upvotes": 405,
     "author": "xoxoy",
-    "comments": 252,
+    "comments": 253,
     "link": "https://news.ycombinator.com/item?id=25117362"
-  },
-  {
-    "title": "YouTube-dl's repository has been restored",
-    "url": "https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/",
-    "upvotes": 2159,
-    "author": "fusl",
-    "comments": 593,
-    "link": "https://news.ycombinator.com/item?id=25111726"
   },
   {
     "title": "Twitter names famed hacker 'Mudge' as head of security",
     "url": "https://www.reuters.com/article/idUSKBN27W2MB",
-    "upvotes": 340,
+    "upvotes": 343,
     "author": "longdefeat",
-    "comments": 90,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=25115754"
+  },
+  {
+    "title": "Apple Silicon M1 Chips and Docker",
+    "url": "https://www.docker.com/blog/apple-silicon-m1-chips-and-docker/",
+    "upvotes": 37,
+    "author": "austinprete",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=25119396"
   },
   {
     "title": "What Gödel Discovered",
     "url": "https://stopa.io/post/269",
-    "upvotes": 359,
+    "upvotes": 365,
     "author": "stopachka",
     "comments": 116,
     "link": "https://news.ycombinator.com/item?id=25115746"
@@ -34,54 +42,34 @@
   {
     "title": "Caltech Awards 10,000th PhD Degree",
     "url": "https://www.caltech.edu/about/news/caltech-awards-10000th-phd-degree-during-october-conferral-students-impacted-pandemic",
-    "upvotes": 142,
+    "upvotes": 143,
     "author": "theBashShell",
-    "comments": 78,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=25117242"
-  },
-  {
-    "title": "Apple Silicon M1 Chips and Docker",
-    "url": "https://www.docker.com/blog/apple-silicon-m1-chips-and-docker/",
-    "upvotes": 30,
-    "author": "austinprete",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=25119396"
   },
   {
     "title": "Ok Google: please publish your DKIM secret keys",
     "url": "https://blog.cryptographyengineering.com/2020/11/16/ok-google-please-publish-your-dkim-secret-keys/",
-    "upvotes": 446,
+    "upvotes": 447,
     "author": "Reventlov",
-    "comments": 371,
+    "comments": 372,
     "link": "https://news.ycombinator.com/item?id=25113482"
-  },
-  {
-    "title": "Headlamp: a new UI for Kubernetes",
-    "url": "https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp/",
-    "upvotes": 45,
-    "author": "aberoham",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25118870"
   },
   {
     "title": "What Should Be Done About Social Media?",
     "url": "https://cacm.acm.org/magazines/2020/11/248188-what-should-be-done-about-social-media/fulltext",
-    "upvotes": 12,
+    "upvotes": 15,
     "author": "rbanffy",
-    "comments": null,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25110667"
   },
   {
-    "title": "Moving a Golang project from panics to errors. Wouldnt wish this on my enemies.",
-    "url": "https://www.dolthub.com/blog/2020-11-16-panics-to-errors/",
-    "upvotes": 11,
-    "author": "bheni",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25119451"
-  },
-  {
-    "title": "CareRev",
-    "url": "https://grnh.se/e66c35f63us"
+    "title": "Headlamp: a new UI for Kubernetes",
+    "url": "https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp/",
+    "upvotes": 46,
+    "author": "aberoham",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=25118870"
   },
   {
     "title": "Exotic Programming Ideas, Part 2: Term Rewriting",
@@ -92,20 +80,24 @@
     "link": "https://news.ycombinator.com/item?id=25112907"
   },
   {
-    "title": "PostgreSQL psql command line tutorial and cheat sheet",
-    "url": "https://tomcam.github.io/postgres/",
-    "upvotes": 265,
-    "author": "tomcam",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=25113440"
+    "title": "CareRev",
+    "url": "https://grnh.se/e66c35f63us"
   },
   {
     "title": "High Performance Individuals and Teams",
     "url": "https://pablasso.com/high-performance-individuals-and-teams/",
-    "upvotes": 30,
+    "upvotes": 31,
     "author": "pablasso",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25118762"
+  },
+  {
+    "title": "PostgreSQL psql command line tutorial and cheat sheet",
+    "url": "https://tomcam.github.io/postgres/",
+    "upvotes": 266,
+    "author": "tomcam",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=25113440"
   },
   {
     "title": "Finding Startup Ideas and Building in Heavily-Regulated Spaces",
@@ -118,7 +110,7 @@
   {
     "title": "Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA",
     "url": "https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html",
-    "upvotes": 116,
+    "upvotes": 117,
     "author": "scarybeast",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25115916"
@@ -144,21 +136,13 @@
     "url": "http://web.cecs.pdx.edu/~black/publications/O-JDahl.pdf",
     "upvotes": 62,
     "author": "ingve",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25109900"
-  },
-  {
-    "title": "Google Cloud SQL now supports PostgreSQL 13",
-    "url": "https://cloud.google.com/blog/products/databases/cloud-sql-database-service-adds-postgresql-13",
-    "upvotes": 124,
-    "author": "k-rus",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=25117120"
   },
   {
     "title": "Show HN: I created a URL shortener that can be entirely hosted on GitHub Pages",
     "url": "https://github.com/nelsontky/gh-pages-url-shortener",
-    "upvotes": 319,
+    "upvotes": 322,
     "author": "nelsontky",
     "comments": 164,
     "link": "https://news.ycombinator.com/item?id=25110879"
@@ -166,23 +150,31 @@
   {
     "title": "Yelp Is Screwing over Restaurants by Quietly Replacing Their Phone Numbers",
     "url": "https://www.vice.com/en/article/wjwebw/yelp-is-sneakily-replacing-restaurants-phone-numbers-so-grubhub-can-take-a-cut",
-    "upvotes": 794,
+    "upvotes": 799,
     "author": "elorant",
     "comments": 251,
     "link": "https://news.ycombinator.com/item?id=25113503"
+  },
+  {
+    "title": "Google Cloud SQL now supports PostgreSQL 13",
+    "url": "https://cloud.google.com/blog/products/databases/cloud-sql-database-service-adds-postgresql-13",
+    "upvotes": 124,
+    "author": "k-rus",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=25117120"
   },
   {
     "title": "I failed to make LinkedIn fix their broken international domain URL parser",
     "url": "https://helmstedt.dk/2020/11/how-i-failed-to-make-linkedin-fix-their-broken-url-parser-for-international-domain-names/",
     "upvotes": 203,
     "author": "helstegt",
-    "comments": 74,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=25111142"
   },
   {
     "title": "K0s – Zero Friction Kubernetes",
     "url": "https://github.com/k0sproject/k0s",
-    "upvotes": 47,
+    "upvotes": 48,
     "author": "daenney",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25117451"
@@ -192,16 +184,8 @@
     "url": "https://gimletmedia.com/shows/reply-all/wbhjwd",
     "upvotes": 13,
     "author": "rfreytag",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25111696"
-  },
-  {
-    "title": "In which a cat narrates feline history in the age of european conquest",
-    "url": "https://lithub.com/in-which-a-cat-narrates-feline-history-in-the-age-of-european-conquest/",
-    "upvotes": 13,
-    "author": "quickfox",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25117560"
   },
   {
     "title": "Why Italians don't drink a cappuccino after 11am [video]",
@@ -214,10 +198,26 @@
   {
     "title": "Tools and Services I Use to Run My SaaS",
     "url": "https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas/",
-    "upvotes": 135,
+    "upvotes": 136,
     "author": "jakelazaroff",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25112954"
+  },
+  {
+    "title": "In which a cat narrates feline history in the age of european conquest",
+    "url": "https://lithub.com/in-which-a-cat-narrates-feline-history-in-the-age-of-european-conquest/",
+    "upvotes": 13,
+    "author": "quickfox",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25117560"
+  },
+  {
+    "title": "Moving a Golang project from panics to errors. Wouldnt wish this on my enemies.",
+    "url": "https://www.dolthub.com/blog/2020-11-16-panics-to-errors/",
+    "upvotes": 12,
+    "author": "bheni",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25119451"
   },
   {
     "title": "No excess deaths in Sweden compared to the last ten years",
@@ -228,11 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=25112382"
   },
   {
-    "title": "What to do if the bank says you're dead",
-    "url": "https://themarkup.org/ask-the-markup/2020/08/18/what-to-do-if-the-bank-says-youre-dead",
-    "upvotes": 71,
-    "author": "catacombs",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=25108701"
+    "title": "Show HN: Text-to-podcast: Repurpose any content into podcasts",
+    "url": "https://www.narratedbypoise.com/",
+    "upvotes": 23,
+    "author": "paulaz",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25117894"
   }
 ]
