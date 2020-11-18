@@ -25,12 +25,19 @@ module.exports = async function getCommitHTML (commit, commits, { prefix = '' } 
         right: 1em;
         z-index: 10000;
       }
+      #post{
+        position: fixed;
+        top: 5em;
+        right: 1em;
+        z-index: 10000;
+      }
     </style>
   </head>
   <body>
     <div class="container-xl">
       <div id="toggle-theme">☯</div>
       <div id="repo"><a href="https://github.com/christian-fei/hn-history" target="_blank">GitHub</a></div>
+      <div id="post"><a href="https://cri.dev/posts/2020-11-06-Tracking-HackerNews-history-in-git/" target="_blank">Blog post</a></div>
       <div class="row">
         <div class="col-md-5" style="max-height: 100vh; overflow-y: scroll">
           ${commits.map(c => `<div>
