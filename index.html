@@ -13,14 +13,32 @@
         right: 1em;
         z-index: 10000;
       }
+      #repo{
+        position: fixed;
+        top: 3em;
+        right: 1em;
+        z-index: 10000;
+      }
+      #post{
+        position: fixed;
+        top: 5em;
+        right: 1em;
+        z-index: 10000;
+      }
     </style>
   </head>
   <body>
     <div class="container-xl">
       <div id="toggle-theme">☯</div>
+      <div id="repo"><a href="https://github.com/christian-fei/hn-history" target="_blank">GitHub</a></div>
+      <div id="post"><a href="https://cri.dev/posts/2020-11-06-Tracking-HackerNews-history-in-git/" target="_blank">Blog post</a></div>
       <div class="row">
         <div class="col-md-5" style="max-height: 100vh; overflow-y: scroll">
           <div>
+            <a href="/hn-history/1029227927ff9c4d453863820ad105fe16f9f639.html" data-toggle="tooltip" data-placement="top" title="Latest data: Wed Nov 18 10:47:39 UTC 2020
+2020-11-18T10:47:39+00:00
+Automated">1029227927ff9c4d453863820ad105fe16f9f639</a>
+          </div><div>
             <a href="/hn-history/3eca5677cc66c9c823a14bce99d2e6a93b2e1193.html" data-toggle="tooltip" data-placement="top" title="Latest data: Wed Nov 18 10:28:09 UTC 2020
 2020-11-18T10:28:09+00:00
 Automated">3eca5677cc66c9c823a14bce99d2e6a93b2e1193</a>
@@ -416,202 +434,212 @@ Automated">232b979277979da0e5355c3013695c7eb3caa6de</a>
             <a href="/hn-history/dfd7edecad420740c3200517758bca8362d00457.html" data-toggle="tooltip" data-placement="top" title="Latest data: Mon Nov 16 23:47:44 UTC 2020
 2020-11-16T23:47:44+00:00
 Automated">dfd7edecad420740c3200517758bca8362d00457</a>
-          </div><div>
-            <a href="/hn-history/3dd85a8cbeb7d53e423024693ff3dd7a639eabba.html" data-toggle="tooltip" data-placement="top" title="Latest data: Mon Nov 16 23:27:53 UTC 2020
-2020-11-16T23:27:53+00:00
-Automated">3dd85a8cbeb7d53e423024693ff3dd7a639eabba</a>
           </div>
         </div>
         <div class="col-md-7" style="max-height: 100vh; overflow-y: scroll">
-          <pre><span style="color:#A50">commit 3eca5677cc66c9c823a14bce99d2e6a93b2e1193</span>
+          <pre><span style="color:#A50">commit 1029227927ff9c4d453863820ad105fe16f9f639</span>
 Author: Automated <actions@users.noreply.github.com>
-Date:   Wed Nov 18 10:28:09 2020 +0000
+Date:   Wed Nov 18 10:47:39 2020 +0000
 
-    Latest data: Wed Nov 18 10:28:09 UTC 2020
+    Latest data: Wed Nov 18 10:47:39 UTC 2020
 
 <b>diff --git a/hn.json b/hn.json</b>
-<b>index 96e28a2f..79cc7ecf 100644</b>
+<b>index 79cc7ecf..85c6c9ff 100644</b>
 <b>--- a/hn.json</b>
 <b>+++ b/hn.json</b>
-<span style="color:#0AA">@@ -2,79 +2,71 @@</span>
+<span style="color:#0AA">@@ -2,25 +2,25 @@</span>
    {
      "title": "Sony basically removed 25 years of history from PlayStation.com",
      "url": "https://delistedgames.com/sony-basically-removed-25-years-of-history-from-playstation-com/",
-<span style="color:#A00">-    "upvotes": 66,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 71,</span>
+<span style="color:#A00">-    "upvotes": 71,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 78,</span>
      "author": "petepete",
-<span style="color:#A00">-    "comments": 51,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 54,</span>
+<span style="color:#A00">-    "comments": 54,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 56,</span>
      "link": "https://news.ycombinator.com/item?id=25134263"
    },
    {
      "title": "To find great remote employees, prioritize candidates with strong writing skills",
      "url": "https://youteam.io/blog/3-remote-productivity-hacks-we-wish-we-knew-from-day-one/",
-<span style="color:#A00">-    "upvotes": 359,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 363,</span>
+<span style="color:#A00">-    "upvotes": 363,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 376,</span>
      "author": "Riphyak",
-<span style="color:#A00">-    "comments": 153,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 156,</span>
+<span style="color:#A00">-    "comments": 156,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 165,</span>
      "link": "https://news.ycombinator.com/item?id=25120207"
    },
    {
-     "title": "Radio I/Q Data for Dummies",
+<span style="color:#A00">-    "title": "Radio I/Q Data for Dummies",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "title": "I/Q Data for Dummies",</span>
      "url": "http://whiteboard.ping.se/SDR/IQ",
-<span style="color:#A00">-    "upvotes": 16,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 19,</span>
+<span style="color:#A00">-    "upvotes": 19,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 23,</span>
      "author": "pabo",
-<span style="color:#A00">-    "comments": 3,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 4,</span>
+<span style="color:#A00">-    "comments": 4,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 5,</span>
      "link": "https://news.ycombinator.com/item?id=25134698"
    },
    {
-     "title": "DEA Pursues Vast Expansion of Patient Surveillance",
-     "url": "https://filtermag.org/dea-expand-patient-surveillance/",
-<span style="color:#A00">-    "upvotes": 52,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 57,</span>
-     "author": "walterbell",
-<span style="color:#A00">-    "comments": 15,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 17,</span>
-     "link": "https://news.ycombinator.com/item?id=25134006"
-   },
+<span style="color:#0AA">@@ -34,91 +34,91 @@</span>
    {
      "title": "Brow.sh: a modern text-based browser",
      "url": "https://www.brow.sh/",
-<span style="color:#A00">-    "upvotes": 569,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 571,</span>
+<span style="color:#A00">-    "upvotes": 571,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 577,</span>
      "author": "definetheword",
-     "comments": 73,
+<span style="color:#A00">-    "comments": 73,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 72,</span>
      "link": "https://news.ycombinator.com/item?id=25129747"
    },
-<span style="color:#0A0">+</span><span style="color:#0A0">  {</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "title": "Pine64 November Update: KDE PinePhone CE and a Peek into the Future",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "url": "https://www.pine64.org/2020/11/15/november-update-kde-pinephone-ce-and-a-peek-into-the-future/",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 89,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "author": "3np",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 27,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "link": "https://news.ycombinator.com/item?id=25133428"</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">  },</span>
+   {
+     "title": "Pine64 November Update: KDE PinePhone CE and a Peek into the Future",
+     "url": "https://www.pine64.org/2020/11/15/november-update-kde-pinephone-ce-and-a-peek-into-the-future/",
+<span style="color:#A00">-    "upvotes": 89,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 92,</span>
+     "author": "3np",
+<span style="color:#A00">-    "comments": 27,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 30,</span>
+     "link": "https://news.ycombinator.com/item?id=25133428"
+   },
    {
      "title": "Ramanujan's Easiest Formula",
      "url": "https://johncarlosbaez.wordpress.com/2020/11/18/ramanujans-easiest-formula/",
-<span style="color:#A00">-    "upvotes": 97,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 98,</span>
+<span style="color:#A00">-    "upvotes": 98,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 101,</span>
      "author": "johncarlosbaez",
-     "comments": 20,
+<span style="color:#A00">-    "comments": 20,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 22,</span>
      "link": "https://news.ycombinator.com/item?id=25133400"
    },
-<span style="color:#A00">-  {</span>
-<span style="color:#A00">-    "title": "Pine64 November Update: KDE PinePhone CE and a Peek into the Future",</span>
-<span style="color:#A00">-    "url": "https://www.pine64.org/2020/11/15/november-update-kde-pinephone-ce-and-a-peek-into-the-future/",</span>
-<span style="color:#A00">-    "upvotes": 87,</span>
-<span style="color:#A00">-    "author": "3np",</span>
-<span style="color:#A00">-    "comments": 24,</span>
-<span style="color:#A00">-    "link": "https://news.ycombinator.com/item?id=25133428"</span>
-<span style="color:#A00">-  },</span>
    {
      "title": "US Navy destroyer shoots down an ICBM in milestone test",
      "url": "https://www.defensenews.com/naval/2020/11/17/us-navy-destroyer-shoots-down-an-icbm-in-milestone-test/",
-<span style="color:#A00">-    "upvotes": 161,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 165,</span>
+<span style="color:#A00">-    "upvotes": 165,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 167,</span>
      "author": "dirtyid",
-<span style="color:#A00">-    "comments": 250,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 254,</span>
+<span style="color:#A00">-    "comments": 254,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 263,</span>
      "link": "https://news.ycombinator.com/item?id=25132164"
+   },
+   {
+     "title": "Run x86 Apps",
+     "url": "https://www.notion.so/Run-x86-Apps-including-homebrew-in-the-Terminal-on-Apple-Silicon-8350b43d97de4ce690f283277e958602",
+<span style="color:#A00">-    "upvotes": 133,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 136,</span>
+     "author": "JoshuaMulliken",
+<span style="color:#A00">-    "comments": 77,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 80,</span>
+     "link": "https://news.ycombinator.com/item?id=25132217"
+   },
+   {
+<span style="color:#A00">-    "title": "Learning Rust as a Gopher – part 5",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "title": "Rust from a Gopher – Lessons 7, 8 and 9",</span>
+     "url": "https://levpaul.com/posts/rust-lesson-7-8-9/",
+<span style="color:#A00">-    "upvotes": 21,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 26,</span>
+     "author": "BookPage",
+<span style="color:#A00">-    "comments": 13,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 18,</span>
+     "link": "https://news.ycombinator.com/item?id=25133921"
+   },
+<span style="color:#0A0">+</span><span style="color:#0A0">  {</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "title": "Drawing lots of faces with sketch-RNN",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "url": "https://jvns.ca/blog/2020/11/16/day-5--lots-of-faces-with-sketch-rnn/",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 6,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "author": "weinzierl",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": null,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "link": "https://news.ycombinator.com/item?id=25121670"</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">  },</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">  {</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "title": "Tough Qs to ask your remote employer who gives Cost Of Living based compensation",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "url": "https://www.nityesh.com/equal-pay-for-equal-work-at-a-remote-company/",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 18,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "author": "nityeshaga",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 18,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "link": "https://news.ycombinator.com/item?id=25134220"</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">  },</span>
+   {
+     "title": "One Bit Ferrite Core Memory",
+     "url": "https://sites.google.com/site/wayneholder/one-bit-ferrite-core-memory",
+<span style="color:#A00">-    "upvotes": 18,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 19,</span>
+     "author": "accrual",
+     "comments": 5,
+     "link": "https://news.ycombinator.com/item?id=25105678"
    },
 <span style="color:#A00">-  {</span>
 <span style="color:#A00">-    "title": "Britain to ban new petrol cars and vans by 2030 on road to net zero emissions",</span>
 <span style="color:#A00">-    "url": "https://www.reuters.com/article/us-climate-change-britain/britain-to-ban-new-petrol-cars-and-vans-by-2030-on-road-to-net-zero-emissions-idUSKBN27X2Z0",</span>
-<span style="color:#A00">-    "upvotes": 145,</span>
+<span style="color:#A00">-    "upvotes": 149,</span>
 <span style="color:#A00">-    "author": "reddotX",</span>
-<span style="color:#A00">-    "comments": 201,</span>
+<span style="color:#A00">-    "comments": 216,</span>
 <span style="color:#A00">-    "link": "https://news.ycombinator.com/item?id=25134077"</span>
 <span style="color:#A00">-  },</span>
-   {
-     "title": "Run x86 Apps",
-     "url": "https://www.notion.so/Run-x86-Apps-including-homebrew-in-the-Terminal-on-Apple-Silicon-8350b43d97de4ce690f283277e958602",
-<span style="color:#A00">-    "upvotes": 132,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 133,</span>
-     "author": "JoshuaMulliken",
-     "comments": 77,
-     "link": "https://news.ycombinator.com/item?id=25132217"
-<span style="color:#0AA">@@ -82,9 +74,9 @@</span>
-   {
-     "title": "Learning Rust as a Gopher – part 5",
-     "url": "https://levpaul.com/posts/rust-lesson-7-8-9/",
-<span style="color:#A00">-    "upvotes": 19,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 21,</span>
-     "author": "BookPage",
-<span style="color:#A00">-    "comments": 11,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 13,</span>
-     "link": "https://news.ycombinator.com/item?id=25133921"
-   },
-   {
-<span style="color:#0AA">@@ -95,26 +87,34 @@</span>
-     "comments": 5,
-     "link": "https://news.ycombinator.com/item?id=25105678"
-   },
-<span style="color:#0A0">+</span><span style="color:#0A0">  {</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "title": "Britain to ban new petrol cars and vans by 2030 on road to net zero emissions",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "url": "https://www.reuters.com/article/us-climate-change-britain/britain-to-ban-new-petrol-cars-and-vans-by-2030-on-road-to-net-zero-emissions-idUSKBN27X2Z0",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 149,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "author": "reddotX",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 216,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "link": "https://news.ycombinator.com/item?id=25134077"</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">  },</span>
    {
      "title": "Opvia",
      "url": "https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc"
    },
-<span style="color:#0A0">+</span><span style="color:#0A0">  {</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "title": "Tough Qs to ask your remote employer who gives Cost Of Living based compensation",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "url": "https://www.nityesh.com/equal-pay-for-equal-work-at-a-remote-company/",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 12,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "author": "nityeshaga",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 4,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "link": "https://news.ycombinator.com/item?id=25134220"</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">  },</span>
+<span style="color:#A00">-  {</span>
+<span style="color:#A00">-    "title": "Tough Qs to ask your remote employer who gives Cost Of Living based compensation",</span>
+<span style="color:#A00">-    "url": "https://www.nityesh.com/equal-pay-for-equal-work-at-a-remote-company/",</span>
+<span style="color:#A00">-    "upvotes": 12,</span>
+<span style="color:#A00">-    "author": "nityeshaga",</span>
+<span style="color:#A00">-    "comments": 4,</span>
+<span style="color:#A00">-    "link": "https://news.ycombinator.com/item?id=25134220"</span>
+<span style="color:#A00">-  },</span>
    {
      "title": "The Rise and Fall of Getting Things Done",
      "url": "https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done",
-<span style="color:#A00">-    "upvotes": 170,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 171,</span>
+<span style="color:#A00">-    "upvotes": 171,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 176,</span>
      "author": "aarghh",
-     "comments": 72,
+<span style="color:#A00">-    "comments": 72,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 73,</span>
      "link": "https://news.ycombinator.com/item?id=25131848"
    },
-<span style="color:#A00">-  {</span>
-<span style="color:#A00">-    "title": "Let's Make the Web Weird Again [audio]",</span>
-<span style="color:#A00">-    "url": "https://podcasts.apple.com/us/podcast/dustin-schau-gatsby-head-product-lets-make-web-weird/id1529620656?i=1000498892402",</span>
-<span style="color:#A00">-    "upvotes": 25,</span>
-<span style="color:#A00">-    "author": "jeffmorrisjr",</span>
-<span style="color:#A00">-    "comments": 17,</span>
-<span style="color:#A00">-    "link": "https://news.ycombinator.com/item?id=25125032"</span>
-<span style="color:#A00">-  },</span>
    {
      "title": "Not Just Nuclear: Families are elders long buried and generations yet unborn",
      "url": "https://www.plough.com/en/topics/justice/social-justice/immigration/not-just-nuclear",
-<span style="color:#0AA">@@ -124,12 +124,12 @@</span>
+<span style="color:#A00">-    "upvotes": 78,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 79,</span>
+     "author": "BobbyVsTheDevil",
+     "comments": 17,
      "link": "https://news.ycombinator.com/item?id=25132423"
-   },
-   {
-<span style="color:#A00">-    "title": "Tough Qs to ask your remote employer who gives Cost Of Living based compensation",</span>
-<span style="color:#A00">-    "url": "https://www.nityesh.com/equal-pay-for-equal-work-at-a-remote-company/",</span>
-<span style="color:#A00">-    "upvotes": 10,</span>
-<span style="color:#A00">-    "author": "nityeshaga",</span>
-<span style="color:#A00">-    "comments": null,</span>
-<span style="color:#A00">-    "link": "https://news.ycombinator.com/item?id=25134220"</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "title": "Let's Make the Web Weird Again [audio]",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "url": "https://podcasts.apple.com/us/podcast/dustin-schau-gatsby-head-product-lets-make-web-weird/id1529620656?i=1000498892402",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 26,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "author": "jeffmorrisjr",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 18,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "link": "https://news.ycombinator.com/item?id=25125032"</span>
+<span style="color:#0AA">@@ -128,13 +128,13 @@</span>
+     "url": "https://podcasts.apple.com/us/podcast/dustin-schau-gatsby-head-product-lets-make-web-weird/id1529620656?i=1000498892402",
+     "upvotes": 26,
+     "author": "jeffmorrisjr",
+<span style="color:#A00">-    "comments": 18,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 21,</span>
+     "link": "https://news.ycombinator.com/item?id=25125032"
    },
    {
      "title": "The Math of Password Hashing Algorithms and Entropy",
-<span style="color:#0AA">@@ -139,18 +139,10 @@</span>
+     "url": "https://fusionauth.io/learn/expert-advice/security/math-of-password-hashing-algorithms-entropy/",
+<span style="color:#A00">-    "upvotes": 50,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 51,</span>
+     "author": "mooreds",
      "comments": 3,
      "link": "https://news.ycombinator.com/item?id=25133061"
+<span style="color:#0AA">@@ -142,7 +142,7 @@</span>
+   {
+     "title": "40 millisecond bug",
+     "url": "https://vorner.github.io/2020/11/06/40-ms-bug.html",
+<span style="color:#A00">-    "upvotes": 38,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 41,</span>
+     "author": "sshroot",
+     "comments": 12,
+     "link": "https://news.ycombinator.com/item?id=25133127"
+<span style="color:#0AA">@@ -150,23 +150,15 @@</span>
+   {
+     "title": "Write Code Like You Write a Recipe",
+     "url": "https://ahungry.com/blog/2020-11-17-Write-Code-Like-You-Write-a-Recipe.html",
+<span style="color:#A00">-    "upvotes": 63,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 66,</span>
+     "author": "ahungry",
+<span style="color:#A00">-    "comments": 39,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 41,</span>
+     "link": "https://news.ycombinator.com/item?id=25133041"
    },
 <span style="color:#A00">-  {</span>
 <span style="color:#A00">-    "title": "Drawing lots of faces with sketch-RNN",</span>
@@ -622,99 +650,104 @@ Date:   Wed Nov 18 10:28:09 2020 +0000
 <span style="color:#A00">-    "link": "https://news.ycombinator.com/item?id=25121670"</span>
 <span style="color:#A00">-  },</span>
    {
-     "title": "40 millisecond bug",
-     "url": "https://vorner.github.io/2020/11/06/40-ms-bug.html",
-<span style="color:#A00">-    "upvotes": 37,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 38,</span>
-     "author": "sshroot",
-     "comments": 12,
-     "link": "https://news.ycombinator.com/item?id=25133127"
-<span style="color:#0AA">@@ -158,17 +150,25 @@</span>
-   {
-     "title": "Write Code Like You Write a Recipe",
-     "url": "https://ahungry.com/blog/2020-11-17-Write-Code-Like-You-Write-a-Recipe.html",
-<span style="color:#A00">-    "upvotes": 59,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 63,</span>
-     "author": "ahungry",
-<span style="color:#A00">-    "comments": 38,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 39,</span>
-     "link": "https://news.ycombinator.com/item?id=25133041"
-   },
-<span style="color:#0A0">+</span><span style="color:#0A0">  {</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "title": "Drawing lots of faces with sketch-RNN",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "url": "https://jvns.ca/blog/2020/11/16/day-5--lots-of-faces-with-sketch-rnn/",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 4,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "author": "weinzierl",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": null,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "link": "https://news.ycombinator.com/item?id=25121670"</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">  },</span>
-   {
      "title": "Servo’s new home",
      "url": "https://blog.servo.org/2020/11/17/servo-home/",
-     "upvotes": 940,
+<span style="color:#A00">-    "upvotes": 940,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 941,</span>
      "author": "gbrown_",
-<span style="color:#A00">-    "comments": 269,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 270,</span>
+     "comments": 270,
      "link": "https://news.ycombinator.com/item?id=25125325"
-   },
-   {
-<span style="color:#0AA">@@ -179,22 +179,22 @@</span>
-     "comments": 103,
+<span style="color:#0AA">@@ -176,13 +168,13 @@</span>
+     "url": "https://arpitrage.substack.com/p/how-prediction-markets-beat-polls",
+     "upvotes": 139,
+     "author": "monort",
+<span style="color:#A00">-    "comments": 103,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 104,</span>
      "link": "https://news.ycombinator.com/item?id=25122071"
    },
-<span style="color:#A00">-  {</span>
-<span style="color:#A00">-    "title": "Firefox beta supports Apple silicon natively",</span>
-<span style="color:#A00">-    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1648496#c2",</span>
-<span style="color:#A00">-    "upvotes": 256,</span>
-<span style="color:#A00">-    "author": "Austin_Conlon",</span>
-<span style="color:#A00">-    "comments": 79,</span>
-<span style="color:#A00">-    "link": "https://news.ycombinator.com/item?id=25131408"</span>
-<span style="color:#A00">-  },</span>
    {
      "title": "We Are Built to Forget",
      "url": "https://www.theparisreview.org/blog/2020/11/16/we-are-built-to-forget/",
-<span style="color:#A00">-    "upvotes": 66,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 68,</span>
+<span style="color:#A00">-    "upvotes": 68,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 70,</span>
      "author": "longdefeat",
      "comments": 23,
      "link": "https://news.ycombinator.com/item?id=25120106"
-   },
-<span style="color:#0A0">+</span><span style="color:#0A0">  {</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "title": "Firefox beta supports Apple silicon natively",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1648496#c2",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 259,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "author": "Austin_Conlon",</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 79,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "link": "https://news.ycombinator.com/item?id=25131408"</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">  },</span>
+<span style="color:#0AA">@@ -190,35 +182,35 @@</span>
    {
-     "title": "Linux's Stateless H.264 Decode Interface Ready to Be Deemed Stable",
-     "url": "https://www.phoronix.com/scan.php?page=news_item&px=Stateless-H264-Out-Of-Staging",
-<span style="color:#0AA">@@ -208,13 +208,13 @@</span>
+     "title": "Firefox beta supports Apple silicon natively",
+     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1648496#c2",
+<span style="color:#A00">-    "upvotes": 259,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 262,</span>
+     "author": "Austin_Conlon",
+<span style="color:#A00">-    "comments": 79,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 82,</span>
+     "link": "https://news.ycombinator.com/item?id=25131408"
+   },
+<span style="color:#A00">-  {</span>
+<span style="color:#A00">-    "title": "Linux's Stateless H.264 Decode Interface Ready to Be Deemed Stable",</span>
+<span style="color:#A00">-    "url": "https://www.phoronix.com/scan.php?page=news_item&px=Stateless-H264-Out-Of-Staging",</span>
+<span style="color:#A00">-    "upvotes": 153,</span>
+<span style="color:#A00">-    "author": "mfilion",</span>
+<span style="color:#A00">-    "comments": 45,</span>
+<span style="color:#A00">-    "link": "https://news.ycombinator.com/item?id=25128097"</span>
+<span style="color:#A00">-  },</span>
+   {
+     "title": "World of Warcraft 9.0.2 client runs natively on Apple Silicon",
      "url": "https://us.forums.blizzard.com/en/wow/t/mac-support-update-november-16/722775",
-     "upvotes": 159,
+<span style="color:#A00">-    "upvotes": 159,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 161,</span>
      "author": "tosh",
-<span style="color:#A00">-    "comments": 150,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 153,</span>
+<span style="color:#A00">-    "comments": 153,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 157,</span>
      "link": "https://news.ycombinator.com/item?id=25132287"
    },
    {
      "title": "A ‘Jobs to be Done’ Framework for Startups",
      "url": "https://firstround.com/review/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/",
-<span style="color:#A00">-    "upvotes": 129,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 130,</span>
+<span style="color:#A00">-    "upvotes": 130,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 131,</span>
      "author": "jcs87",
      "comments": 24,
      "link": "https://news.ycombinator.com/item?id=25127049"
-<span style="color:#0AA">@@ -224,7 +224,7 @@</span>
+   },
+<span style="color:#0A0">+</span><span style="color:#0A0">  {</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "title": "AWS Network Firewall – New Managed Firewall Service in VPC",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "url": "https://aws.amazon.com/blogs/aws/aws-network-firewall-new-managed-firewall-service-in-vpc/",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 56,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "author": "dduarte",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 19,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "link": "https://news.ycombinator.com/item?id=25132352"</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">  },</span>
+   {
+     "title": "FDA authorizes first Covid-19 test for self-testing at home",
      "url": "https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-covid-19-test-self-testing-home",
-     "upvotes": 76,
-     "author": "dr_",
-<span style="color:#A00">-    "comments": 17,</span>
-<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 18,</span>
+<span style="color:#0AA">@@ -228,11 +220,19 @@</span>
      "link": "https://news.ycombinator.com/item?id=25133141"
    },
    {
+<span style="color:#A00">-    "title": "AWS Network Firewall – New Managed Firewall Service in VPC",</span>
+<span style="color:#A00">-    "url": "https://aws.amazon.com/blogs/aws/aws-network-firewall-new-managed-firewall-service-in-vpc/",</span>
+<span style="color:#A00">-    "upvotes": 55,</span>
+<span style="color:#A00">-    "author": "dduarte",</span>
+<span style="color:#A00">-    "comments": 19,</span>
+<span style="color:#A00">-    "link": "https://news.ycombinator.com/item?id=25132352"</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "title": "Lavalamp.app",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "url": "http://lavalamp.app",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 85,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "author": "narco_snow",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 24,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "link": "https://news.ycombinator.com/item?id=25127974"</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">  },</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">  {</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "title": "ReMarkable tablet open source tools and hacks",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "url": "https://github.com/reHackable/awesome-reMarkable",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "upvotes": 583,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "author": "ChrisLTD",</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "comments": 231,</span>
+<span style="color:#0A0">+</span><span style="color:#0A0">    "link": "https://news.ycombinator.com/item?id=25124211"</span>
+   }
+ ]
 </pre>
         </div>
       </div>
