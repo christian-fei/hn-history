@@ -1,16 +1,8 @@
 [
   {
-    "title": "The Year of the Linux Desktop: Switching from MacBook to Linux",
-    "url": "https://monadical.com/posts/moving-to-linux-desktop.html",
-    "upvotes": 166,
-    "author": "gk1",
-    "comments": 154,
-    "link": "https://news.ycombinator.com/item?id=25163685"
-  },
-  {
     "title": "Nbdev: A literate programming environment that democratizes best practices",
     "url": "https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/",
-    "upvotes": 72,
+    "upvotes": 84,
     "author": "pbowyer",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25162803"
@@ -18,15 +10,15 @@
   {
     "title": "Sega VR Revived: Emulating an Unreleased Genesis Accessory",
     "url": "https://gamehistory.org/segavr/",
-    "upvotes": 142,
+    "upvotes": 147,
     "author": "ecliptik",
-    "comments": 37,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=25161494"
   },
   {
     "title": "Why We're Building Observable",
     "url": "https://observablehq.com/@observablehq/why-were-building-observable",
-    "upvotes": 154,
+    "upvotes": 164,
     "author": "petulla",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=25161409"
@@ -34,55 +26,63 @@
   {
     "title": "Study identifies reasons for soaring nuclear plant cost overruns in the U.S.",
     "url": "https://news.mit.edu/2020/reasons-nuclear-overruns-1118",
-    "upvotes": 176,
+    "upvotes": 182,
     "author": "consumer451",
-    "comments": 174,
+    "comments": 181,
     "link": "https://news.ycombinator.com/item?id=25161738"
   },
   {
     "title": "AB07-USB3FMC: The $1.65k eval board they can't be bothered to test",
     "url": "https://lab.ktemkin.com/post/ab07-usb3fmc-wtf/",
-    "upvotes": 114,
+    "upvotes": 117,
     "author": "segfaultbuserr",
-    "comments": 53,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=25161325"
   },
   {
     "title": "Dev Fonts",
     "url": "https://devfonts.gafi.dev/",
-    "upvotes": 442,
+    "upvotes": 450,
     "author": "syck",
-    "comments": 277,
+    "comments": 280,
     "link": "https://news.ycombinator.com/item?id=25159038"
+  },
+  {
+    "title": "Moving from Macbook to Linux",
+    "url": "https://monadical.com/posts/moving-to-linux-desktop.html",
+    "upvotes": 218,
+    "author": "gk1",
+    "comments": 200,
+    "link": "https://news.ycombinator.com/item?id=25163685"
+  },
+  {
+    "title": "Static Typing for Ruby: Adopting Sorbet at Scale",
+    "url": "https://shopify.engineering/static-typing-ruby",
+    "upvotes": 59,
+    "author": "ufuk",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=25162839"
   },
   {
     "title": "I've now played with a Raspberry Pi 400 for a week and here are my conclusions",
     "url": "item?id=25161266",
-    "upvotes": 150,
+    "upvotes": 158,
     "author": "MarkusWandel",
-    "comments": 101,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=25161266"
   },
   {
     "title": "What do RISC and CISC mean in 2020?",
     "url": "https://erik-engheim.medium.com/what-does-risc-and-cisc-mean-in-2020-7b4d42c9a9de",
-    "upvotes": 51,
+    "upvotes": 56,
     "author": "socialdemocrat",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25159704"
-  },
-  {
-    "title": "Static Typing for Ruby: Adopting Sorbet at Scale",
-    "url": "https://shopify.engineering/static-typing-ruby",
-    "upvotes": 48,
-    "author": "ufuk",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=25162839"
   },
   {
     "title": "Show HN: I made an alternative to Google Alerts that listens to social media",
     "url": "https://www.pmalerts.com/",
-    "upvotes": 83,
+    "upvotes": 93,
     "author": "fstopmick",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=25161117"
@@ -90,10 +90,18 @@
   {
     "title": "The Vale Programming Language",
     "url": "https://vale.dev/",
-    "upvotes": 150,
+    "upvotes": 152,
     "author": "danny00",
     "comments": 140,
     "link": "https://news.ycombinator.com/item?id=25160202"
+  },
+  {
+    "title": "The Knowledge Economy: A Critique of the Dominant View",
+    "url": "https://americanaffairsjournal.org/2020/08/the-knowledge-economy-a-critique-of-the-dominant-view/",
+    "upvotes": 14,
+    "author": "arthropodSeven",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25159679"
   },
   {
     "title": "Dropbase",
@@ -102,66 +110,50 @@
   {
     "title": "Why are there so many cats in Istanbul?",
     "url": "https://www.legalnomads.com/istanbul-cats/",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "ducaale",
-    "comments": 25,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25163312"
   },
   {
     "title": "Symbolics, Inc.: A failure of heterogeneous engineering",
     "url": "http://web.mit.edu/6.933/www/Symbolics.pdf",
-    "upvotes": 43,
+    "upvotes": 48,
     "author": "tmalsburg2",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25161557"
   },
   {
-    "title": "The Knowledge Economy: A Critique of the Dominant View",
-    "url": "https://americanaffairsjournal.org/2020/08/the-knowledge-economy-a-critique-of-the-dominant-view/",
-    "upvotes": 10,
-    "author": "arthropodSeven",
+    "title": "Investigating the relationship between smartphone use and delay discounting",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241383",
+    "upvotes": 14,
+    "author": "draugadrotten",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25159679"
+    "link": "https://news.ycombinator.com/item?id=25148755"
   },
   {
     "title": "HomePod has been jailbroken with checkra1n",
     "url": "https://yalujailbreak.net/homepod-checkra1n-jailbreak/",
-    "upvotes": 181,
+    "upvotes": 183,
     "author": "wittypineapple",
-    "comments": 138,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=25159188"
   },
   {
     "title": "Show HN: Lunatic – Actor System for Rust/WebAssembly",
     "url": "https://github.com/lunatic-lang/lunatic",
-    "upvotes": 99,
+    "upvotes": 101,
     "author": "bkolobara",
-    "comments": 36,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25160474"
-  },
-  {
-    "title": "Breaking America’s Patent Stalemate",
-    "url": "https://www.project-syndicate.org/commentary/two-ways-to-break-america-patent-reform-deadlock-by-lisa-larrimore-ouellette-and-heidi-williams-2020-11?",
-    "upvotes": 23,
-    "author": "nabla9",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25136697"
   },
   {
     "title": "Eight Years at Roblox",
     "url": "https://zeux.io/2020/08/02/eight-years-at-roblox/",
-    "upvotes": 168,
+    "upvotes": 172,
     "author": "modeless",
-    "comments": 60,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=25158904"
-  },
-  {
-    "title": "Investigating the relationship between smartphone use and delay discounting",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241383",
-    "upvotes": 10,
-    "author": "draugadrotten",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25148755"
   },
   {
     "title": "Flash Animations Live Forever at the Internet Archive",
@@ -172,33 +164,41 @@
     "link": "https://news.ycombinator.com/item?id=25154128"
   },
   {
+    "title": "Breaking America’s Patent Stalemate",
+    "url": "https://www.project-syndicate.org/commentary/two-ways-to-break-america-patent-reform-deadlock-by-lisa-larrimore-ouellette-and-heidi-williams-2020-11?",
+    "upvotes": 24,
+    "author": "nabla9",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25136697"
+  },
+  {
     "title": "Plato at the Googleplex: Why Philosophy Won't Go Away",
     "url": "https://www.3-16am.co.uk/articles/plato-g%C3%B6del-spinoza-ahab",
     "upvotes": 67,
     "author": "unquote",
-    "comments": 103,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=25157681"
   },
   {
     "title": "How to Use Anki to Improve Your Memory",
     "url": "https://superpoweredself.com/gentle-introduction-how-to-use-anki-to-improve-your-memory",
-    "upvotes": 85,
+    "upvotes": 90,
     "author": "simbyotic",
-    "comments": 67,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=25160204"
   },
   {
     "title": "Assassin’s Creed: Valhalla and the Unfortunate Implications",
     "url": "https://acoup.blog/2020/11/20/miscellanea-my-thoughts-on-assassins-creed-valhalla/",
-    "upvotes": 291,
+    "upvotes": 299,
     "author": "parsecs",
-    "comments": 239,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=25157722"
   },
   {
     "title": "Hyperbaric oxygen therapy increases telomere length in isolated blood cells",
     "url": "https://www.aging-us.com/article/202188/text",
-    "upvotes": 11,
+    "upvotes": 15,
     "author": "generalizations",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25163220"
@@ -208,8 +208,16 @@
     "url": "https://evrone.com/jiseki-health",
     "upvotes": 12,
     "author": "Evrone",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25161941"
+  },
+  {
+    "title": "3D bioprinted heart provides new tool for surgeons",
+    "url": "https://engineering.cmu.edu/news-events/news/2020/11/18-3d-printed-heart.html",
+    "upvotes": 4,
+    "author": "sizzle",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25163337"
   },
   {
     "title": "New binary artifact management tool",
@@ -224,15 +232,7 @@
     "url": "https://www.sec.gov/Archives/edgar/data/1822250/000119312520298630/d82777ds1.htm",
     "upvotes": 99,
     "author": "xoxoy",
-    "comments": 121,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=25159689"
-  },
-  {
-    "title": "3D bioprinted heart provides new tool for surgeons",
-    "url": "https://engineering.cmu.edu/news-events/news/2020/11/18-3d-printed-heart.html",
-    "upvotes": 3,
-    "author": "sizzle",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25163337"
   }
 ]
