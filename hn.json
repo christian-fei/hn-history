@@ -1,100 +1,84 @@
 [
   {
-    "title": "Is Apple Silicon Ready?",
-    "url": "https://isapplesiliconready.com/",
-    "upvotes": 194,
-    "author": "caiobegotti",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=25164540"
-  },
-  {
     "title": "Transitioning from Docker to Podman",
     "url": "https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/",
-    "upvotes": 58,
+    "upvotes": 75,
     "author": "indentit",
-    "comments": 22,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=25165195"
-  },
-  {
-    "title": "Why Americans Have Been Deceived About Canada's Health Care System",
-    "url": "https://www.npr.org/2020/11/06/931990578/why-americans-have-been-deceived-about-canadas-health-care-system?t=1605910191066",
-    "upvotes": 20,
-    "author": "Tomte",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25165668"
   },
   {
     "title": "Why Japanese Web Design Is So Different",
     "url": "https://randomwire.com/why-japanese-web-design-is-so-different/",
-    "upvotes": 87,
+    "upvotes": 104,
     "author": "Fiveplus",
-    "comments": 38,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=25148942"
   },
   {
     "title": "Nbdev: A literate programming environment that democratizes best practices",
     "url": "https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/",
-    "upvotes": 117,
+    "upvotes": 120,
     "author": "pbowyer",
-    "comments": 53,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=25162803"
-  },
-  {
-    "title": "Google to shut down Google Voice integration with classic Hangouts",
-    "url": "https://support.google.com/hangouts/answer/3187125?hl=en",
-    "upvotes": 95,
-    "author": "definetheword",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=25164695"
   },
   {
     "title": "Why We're Building Observable",
     "url": "https://observablehq.com/@observablehq/why-were-building-observable",
-    "upvotes": 188,
+    "upvotes": 192,
     "author": "petulla",
-    "comments": 63,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=25161409"
   },
   {
     "title": "Sega VR Revived: Emulating an Unreleased Genesis Accessory",
     "url": "https://gamehistory.org/segavr/",
-    "upvotes": 162,
+    "upvotes": 163,
     "author": "ecliptik",
-    "comments": 48,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=25161494"
+  },
+  {
+    "title": "Google to shut down Google Voice integration with classic Hangouts",
+    "url": "https://support.google.com/hangouts/answer/3187125?hl=en",
+    "upvotes": 105,
+    "author": "definetheword",
+    "comments": 109,
+    "link": "https://news.ycombinator.com/item?id=25164695"
+  },
+  {
+    "title": "Dev Fonts",
+    "url": "https://devfonts.gafi.dev/",
+    "upvotes": 505,
+    "author": "syck",
+    "comments": 294,
+    "link": "https://news.ycombinator.com/item?id=25159038"
+  },
+  {
+    "title": "AB07-USB3FMC: The $1.65k eval board they can't be bothered to test",
+    "url": "https://lab.ktemkin.com/post/ab07-usb3fmc-wtf/",
+    "upvotes": 142,
+    "author": "segfaultbuserr",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=25161325"
+  },
+  {
+    "title": "I've now played with a Raspberry Pi 400 for a week and here are my conclusions",
+    "url": "item?id=25161266",
+    "upvotes": 196,
+    "author": "MarkusWandel",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=25161266"
   },
   {
     "title": "BuildZoom",
     "url": "https://jobs.lever.co/buildzoom"
   },
   {
-    "title": "Dev Fonts",
-    "url": "https://devfonts.gafi.dev/",
-    "upvotes": 496,
-    "author": "syck",
-    "comments": 293,
-    "link": "https://news.ycombinator.com/item?id=25159038"
-  },
-  {
-    "title": "AB07-USB3FMC: The $1.65k eval board they can't be bothered to test",
-    "url": "https://lab.ktemkin.com/post/ab07-usb3fmc-wtf/",
-    "upvotes": 140,
-    "author": "segfaultbuserr",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=25161325"
-  },
-  {
-    "title": "I've now played with a Raspberry Pi 400 for a week and here are my conclusions",
-    "url": "item?id=25161266",
-    "upvotes": 194,
-    "author": "MarkusWandel",
-    "comments": 132,
-    "link": "https://news.ycombinator.com/item?id=25161266"
-  },
-  {
     "title": "What do RISC and CISC mean in 2020?",
     "url": "https://erik-engheim.medium.com/what-does-risc-and-cisc-mean-in-2020-7b4d42c9a9de",
-    "upvotes": 78,
+    "upvotes": 82,
     "author": "socialdemocrat",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=25159704"
@@ -102,87 +86,119 @@
   {
     "title": "Show HN: I made an alternative to Google Alerts that listens to social media",
     "url": "https://www.pmalerts.com/",
-    "upvotes": 122,
+    "upvotes": 129,
     "author": "fstopmick",
-    "comments": 69,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=25161117"
   },
   {
     "title": "Study identifies reasons for soaring nuclear plant cost overruns in the U.S.",
     "url": "https://news.mit.edu/2020/reasons-nuclear-overruns-1118",
-    "upvotes": 201,
+    "upvotes": 205,
     "author": "consumer451",
-    "comments": 219,
+    "comments": 222,
     "link": "https://news.ycombinator.com/item?id=25161738"
   },
   {
-    "title": "The Vale Programming Language",
-    "url": "https://vale.dev/",
-    "upvotes": 168,
-    "author": "danny00",
-    "comments": 149,
-    "link": "https://news.ycombinator.com/item?id=25160202"
+    "title": "Why Americans Have Been Deceived About Canada's Health Care System",
+    "url": "https://www.npr.org/2020/11/06/931990578/why-americans-have-been-deceived-about-canadas-health-care-system?t=1605910191066",
+    "upvotes": 57,
+    "author": "Tomte",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=25165668"
   },
   {
     "title": "Hyperbaric oxygen therapy increases telomere length in isolated blood cells",
     "url": "https://www.aging-us.com/article/202188/text",
-    "upvotes": 47,
+    "upvotes": 50,
     "author": "generalizations",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25163220"
   },
   {
+    "title": "Optimizing Your Web App 100x Is Like Adding 99 Servers",
+    "url": "https://lukerissacher.com/blog/optimizing_your_web_app",
+    "upvotes": 4,
+    "author": "QuadrupleA",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25165752"
+  },
+  {
+    "title": "The Vale Programming Language",
+    "url": "https://vale.dev/",
+    "upvotes": 171,
+    "author": "danny00",
+    "comments": 149,
+    "link": "https://news.ycombinator.com/item?id=25160202"
+  },
+  {
+    "title": "Opytimizer: Nature-Inspired Computation in Python",
+    "url": "https://github.com/gugarosa/opytimizer",
+    "upvotes": 3,
+    "author": "optimalsolver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25165664"
+  },
+  {
     "title": "HomePod has been jailbroken with checkra1n",
     "url": "https://yalujailbreak.net/homepod-checkra1n-jailbreak/",
-    "upvotes": 194,
+    "upvotes": 197,
     "author": "wittypineapple",
     "comments": 149,
     "link": "https://news.ycombinator.com/item?id=25159188"
   },
   {
-    "title": "Symbolics, Inc.: A failure of heterogeneous engineering",
-    "url": "http://web.mit.edu/6.933/www/Symbolics.pdf",
-    "upvotes": 54,
-    "author": "tmalsburg2",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=25161557"
+    "title": "Is Apple Silicon Ready?",
+    "url": "https://isapplesiliconready.com/",
+    "upvotes": 223,
+    "author": "caiobegotti",
+    "comments": 134,
+    "link": "https://news.ycombinator.com/item?id=25164540"
   },
   {
     "title": "Investigating the relationship between smartphone use and delay discounting",
     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241383",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "draugadrotten",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25148755"
   },
   {
-    "title": "How to Use Anki to Improve Your Memory",
-    "url": "https://superpoweredself.com/gentle-introduction-how-to-use-anki-to-improve-your-memory",
-    "upvotes": 122,
-    "author": "simbyotic",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=25160204"
+    "title": "Symbolics, Inc.: A failure of heterogeneous engineering",
+    "url": "http://web.mit.edu/6.933/www/Symbolics.pdf",
+    "upvotes": 58,
+    "author": "tmalsburg2",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=25161557"
   },
   {
     "title": "The Knowledge Economy: A Critique of the Dominant View",
     "url": "https://americanaffairsjournal.org/2020/08/the-knowledge-economy-a-critique-of-the-dominant-view/",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "arthropodSeven",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25159679"
   },
   {
     "title": "Flash Animations Live Forever at the Internet Archive",
     "url": "http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/",
-    "upvotes": 695,
+    "upvotes": 696,
     "author": "tosh",
-    "comments": 229,
+    "comments": 232,
     "link": "https://news.ycombinator.com/item?id=25154128"
+  },
+  {
+    "title": "How to Use Anki to Improve Your Memory",
+    "url": "https://superpoweredself.com/gentle-introduction-how-to-use-anki-to-improve-your-memory",
+    "upvotes": 124,
+    "author": "simbyotic",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=25160204"
   },
   {
     "title": "Eight Years at Roblox",
     "url": "https://zeux.io/2020/08/02/eight-years-at-roblox/",
-    "upvotes": 182,
+    "upvotes": 186,
     "author": "modeless",
     "comments": 68,
     "link": "https://news.ycombinator.com/item?id=25158904"
@@ -196,43 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=25160474"
   },
   {
+    "title": "Plato at the Googleplex: Why Philosophy Won't Go Away",
+    "url": "https://www.3-16am.co.uk/articles/plato-g%C3%B6del-spinoza-ahab",
+    "upvotes": 75,
+    "author": "unquote",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=25157681"
+  },
+  {
+    "title": "Moving from Macbook to Linux",
+    "url": "https://monadical.com/posts/moving-to-linux-desktop.html",
+    "upvotes": 314,
+    "author": "gk1",
+    "comments": 317,
+    "link": "https://news.ycombinator.com/item?id=25163685"
+  },
+  {
     "title": "Using ROCm to Program FPGAs",
     "url": "https://forums.xilinx.com/t5/Xilinx-Xclusive-Blog/AMD-and-Xilinx-Demonstrate-Converged-ROCm-Runtime-Technology/ba-p/1175091",
     "upvotes": 6,
     "author": "Symmetry",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25151168"
-  },
-  {
-    "title": "Moving from Macbook to Linux",
-    "url": "https://monadical.com/posts/moving-to-linux-desktop.html",
-    "upvotes": 306,
-    "author": "gk1",
-    "comments": 309,
-    "link": "https://news.ycombinator.com/item?id=25163685"
-  },
-  {
-    "title": "Plato at the Googleplex: Why Philosophy Won't Go Away",
-    "url": "https://www.3-16am.co.uk/articles/plato-g%C3%B6del-spinoza-ahab",
-    "upvotes": 73,
-    "author": "unquote",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=25157681"
-  },
-  {
-    "title": "Why are there so many cats in Istanbul?",
-    "url": "https://www.legalnomads.com/istanbul-cats/",
-    "upvotes": 62,
-    "author": "ducaale",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=25163312"
-  },
-  {
-    "title": "Breaking America’s Patent Stalemate",
-    "url": "https://www.project-syndicate.org/commentary/two-ways-to-break-america-patent-reform-deadlock-by-lisa-larrimore-ouellette-and-heidi-williams-2020-11?",
-    "upvotes": 31,
-    "author": "nabla9",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=25136697"
   }
 ]
