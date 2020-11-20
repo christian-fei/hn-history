@@ -2,71 +2,79 @@
   {
     "title": "Electron 11.0 released with support for Apple Silicon",
     "url": "https://www.electronjs.org/blog/electron-11-0",
-    "upvotes": 46,
+    "upvotes": 52,
     "author": "binarynate",
-    "comments": 35,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=25157495"
   },
   {
     "title": "An Introduction to ZFS",
     "url": "https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/",
-    "upvotes": 49,
+    "upvotes": 58,
     "author": "arm",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25157491"
   },
   {
     "title": "Flash Animations Live Forever at the Internet Archive",
     "url": "http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/",
-    "upvotes": 493,
+    "upvotes": 497,
     "author": "tosh",
     "comments": 148,
     "link": "https://news.ycombinator.com/item?id=25154128"
   },
   {
+    "title": "Increase in Bitcoin Addresses as More People Join the BTC Price Surge",
+    "url": "https://coincolony.net/increase-in-bitcoin-addresses-as-more-people-join-the-btc-price-surge/",
+    "upvotes": 8,
+    "author": "coincolony",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25157946"
+  },
+  {
     "title": "Arecibo telescope, on the brink of collapse, will be dismantled",
     "url": "https://www.sciencemag.org/news/2020/11/famed-arecibo-telescope-brink-collapse-will-be-dismantled",
-    "upvotes": 723,
+    "upvotes": 725,
     "author": "LUmBULtERA",
     "comments": 268,
     "link": "https://news.ycombinator.com/item?id=25151342"
   },
   {
-    "title": "Increase in Bitcoin Addresses as More People Join the BTC Price Surge",
-    "url": "https://coincolony.net/increase-in-bitcoin-addresses-as-more-people-join-the-btc-price-surge/",
-    "upvotes": 7,
-    "author": "coincolony",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25157946"
-  },
-  {
     "title": "EXWM",
     "url": "https://github.com/ch11ng/exwm/wiki/Screenshots",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "tosh",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25157452"
   },
   {
     "title": "1MB Club",
     "url": "https://1mb.club/",
-    "upvotes": 729,
+    "upvotes": 733,
     "author": "bradley_taunt",
-    "comments": 310,
+    "comments": 312,
     "link": "https://news.ycombinator.com/item?id=25151773"
+  },
+  {
+    "title": "SwiftNIO SSH",
+    "url": "https://swift.org/blog/swiftnio-ssh/",
+    "upvotes": 7,
+    "author": "hutattedonmyarm",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25157942"
   },
   {
     "title": "TypeScript 4.1",
     "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-1/",
-    "upvotes": 207,
+    "upvotes": 210,
     "author": "shian15810",
-    "comments": 116,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=25155627"
   },
   {
     "title": "Roblox S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm",
-    "upvotes": 250,
+    "upvotes": 251,
     "author": "xoxoy",
     "comments": 194,
     "link": "https://news.ycombinator.com/item?id=25154995"
@@ -82,15 +90,15 @@
   {
     "title": "Frontpage: The Good, Bad and Ugly",
     "url": "https://invisibleup.com//articles/33/",
-    "upvotes": 33,
+    "upvotes": 36,
     "author": "jandeboevrie",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25135058"
   },
   {
     "title": "The Few, the Tired, the Open Source Coders",
     "url": "https://www.wired.com/story/open-source-coders-few-tired/",
-    "upvotes": 133,
+    "upvotes": 134,
     "author": "BerislavLopac",
     "comments": 76,
     "link": "https://news.ycombinator.com/item?id=25135296"
@@ -98,26 +106,26 @@
   {
     "title": "Windows Subsystem for Linux: The lost potential",
     "url": "https://jmmv.dev/2020/11/wsl-lost-potential.html",
-    "upvotes": 238,
+    "upvotes": 242,
     "author": "r0sk",
     "comments": 165,
     "link": "https://news.ycombinator.com/item?id=25154300"
-  },
-  {
-    "title": "SwiftNIO SSH",
-    "url": "https://swift.org/blog/swiftnio-ssh/",
-    "upvotes": 4,
-    "author": "hutattedonmyarm",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25157942"
   },
   {
     "title": "Keep Science Irrational",
     "url": "https://aeon.co/essays/an-irrational-constraint-is-the-motivating-force-in-modern-science",
     "upvotes": 9,
     "author": "MurizS",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25148773"
+  },
+  {
+    "title": "Finding bad flamingo drawings with recurrent neural networks",
+    "url": "https://colinmorris.github.io/blog/bad_flamingos",
+    "upvotes": 5,
+    "author": "swyx",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25135848"
   },
   {
     "title": "PCalc for macOS",
@@ -138,7 +146,7 @@
   {
     "title": "Moving Away from Travis CI",
     "url": "https://ropensci.org/technotes/2020/11/19/moving-away-travis/",
-    "upvotes": 83,
+    "upvotes": 85,
     "author": "datajeroen",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=25155203"
@@ -152,17 +160,9 @@
     "link": "https://news.ycombinator.com/item?id=25151131"
   },
   {
-    "title": "Finding bad flamingo drawings with recurrent neural networks",
-    "url": "https://colinmorris.github.io/blog/bad_flamingos",
-    "upvotes": 3,
-    "author": "swyx",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25135848"
-  },
-  {
     "title": "Ranked programming: Probabilistic programming without probabilities",
     "url": "https://github.com/tjitze/ranked-programming/blob/master/README.md",
-    "upvotes": 27,
+    "upvotes": 28,
     "author": "harperlee",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25134471"
@@ -180,8 +180,28 @@
     "url": "https://themarkup.org/google-the-giant/2020/11/19/as-antitrust-pressure-mounts-google-to-pull-back-benefit-to-news-sites-that-adopted-its-preferred-mobile-technology",
     "upvotes": 657,
     "author": "CPLX",
-    "comments": 235,
+    "comments": 236,
     "link": "https://news.ycombinator.com/item?id=25149319"
+  },
+  {
+    "title": "Assassin’s Creed: Valhalla and the Unfortunate Implications",
+    "url": "https://acoup.blog/2020/11/20/miscellanea-my-thoughts-on-assassins-creed-valhalla/",
+    "upvotes": 3,
+    "author": "parsecs",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25157722"
+  },
+  {
+    "title": "Beirut Port Explosion",
+    "url": "https://forensic-architecture.org/investigation/beirut-port-explosion",
+    "upvotes": 996,
+    "author": "AliCollins",
+    "comments": 163,
+    "link": "https://news.ycombinator.com/item?id=25149177"
+  },
+  {
+    "title": "OneSignal",
+    "url": "https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89"
   },
   {
     "title": "Estimating the ROI of Insulation",
@@ -192,47 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=25147666"
   },
   {
-    "title": "Beirut Port Explosion",
-    "url": "https://forensic-architecture.org/investigation/beirut-port-explosion",
-    "upvotes": 995,
-    "author": "AliCollins",
-    "comments": 163,
-    "link": "https://news.ycombinator.com/item?id=25149177"
-  },
-  {
-    "title": "OneSignal",
-    "url": "https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89"
-  },
-  {
     "title": "How the NYT covered P.G. Wodehouse's captivity during World War II",
     "url": "https://www.nytimes.com/2019/06/04/books/wodehouse-world-war-ii.html",
     "upvotes": 38,
     "author": "samclemens",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25146982"
-  },
-  {
-    "title": "Dark Reader – enable Dark Mode on Wikipedia and many other websites",
-    "url": "https://darkreader.org/",
-    "upvotes": 81,
-    "author": "pabs3",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=25156831"
   },
   {
     "title": "My First Kernel Module: A Debugging Nightmare",
     "url": "https://reberhardt.com/blog/2020/11/18/my-first-kernel-module.html",
-    "upvotes": 108,
+    "upvotes": 109,
     "author": "ksml",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=25153388"
   },
   {
-    "title": "Vodka is a creative coding environment for creative writers",
-    "url": "https://github.com/eeeeaaii/vodka/blob/main/GETTINGSTARTED.md",
-    "upvotes": 88,
-    "author": "tartoran",
+    "title": "Dark Reader – enable Dark Mode on Wikipedia and many other websites",
+    "url": "https://darkreader.org/",
+    "upvotes": 83,
+    "author": "pabs3",
     "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=25152882"
+    "link": "https://news.ycombinator.com/item?id=25156831"
   }
 ]
