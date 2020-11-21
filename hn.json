@@ -2,83 +2,39 @@
   {
     "title": "PostgREST: REST API for any Postgres database",
     "url": "https://github.com/PostgREST/postgrest",
-    "upvotes": 106,
+    "upvotes": 133,
     "author": "swyx",
-    "comments": 52,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=25159097"
   },
   {
     "title": "Winding down my Debian involvement",
     "url": "https://michael.stapelberg.ch/posts/2019-03-10-debian-winding-down/",
-    "upvotes": 78,
+    "upvotes": 101,
     "author": "ecliptik",
-    "comments": 43,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=25170312"
-  },
-  {
-    "title": "Production Oriented Development",
-    "url": "https://paulosman.me/2019/12/30/production-oriented-development.html",
-    "upvotes": 20,
-    "author": "kiyanwang",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25170547"
-  },
-  {
-    "title": "Things I Wish I’d Learned Sooner After Being a Developer for 10 Years",
-    "url": "https://medium.com/@lakatos/10-things-i-wish-id-learned-sooner-after-being-a-developer-for-10-years-93681b41f883",
-    "upvotes": 19,
-    "author": "devrelavocados",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25148260"
-  },
-  {
-    "title": "Field geology at Mars' equator points to ancient megaflood",
-    "url": "https://phys.org/news/2020-11-field-geology-mars-equator-ancient.html",
-    "upvotes": 95,
-    "author": "dnetesn",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25169105"
-  },
-  {
-    "title": "Some Math Problems Seem Impossible. That Can Be a Good Thing",
-    "url": "https://www.quantamagazine.org/some-math-problems-seem-impossible-that-can-be-a-good-thing-20201118/",
-    "upvotes": 62,
-    "author": "sonabinu",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=25169520"
-  },
-  {
-    "title": "We are the Starlink team, ask us anything",
-    "url": "https://www.reddit.com/r/Starlink/comments/jybmgn/we_are_the_starlink_team_ask_us_anything/",
-    "upvotes": 41,
-    "author": "caiobegotti",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25170780"
-  },
-  {
-    "title": "Mighty",
-    "url": "https://docs.google.com/document/u/0/d/18ff1YrETEf4RRbcR251j9hGLGdKQ52x65OzTGc5DWFI/"
   },
   {
     "title": "Deep Frozen Arctic Microbes Are Waking Up",
     "url": "https://www.scientificamerican.com/article/deep-frozen-arctic-microbes-are-waking-up/",
-    "upvotes": 7,
+    "upvotes": 29,
     "author": "jonbaer",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25170885"
   },
   {
-    "title": "Tinycore Linux",
-    "url": "http://tinycorelinux.net/",
-    "upvotes": 96,
-    "author": "fctorial",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=25158736"
+    "title": "Things I Wish I’d Learned Sooner After Being a Developer for 10 Years",
+    "url": "https://medium.com/@lakatos/10-things-i-wish-id-learned-sooner-after-being-a-developer-for-10-years-93681b41f883",
+    "upvotes": 38,
+    "author": "devrelavocados",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=25148260"
   },
   {
     "title": "Life Lessons from a 97-Year-Old Lobsterman",
     "url": "https://www.outsideonline.com/2401643/life-lessons-97-year-old-lobsterman",
-    "upvotes": 3,
+    "upvotes": 10,
     "author": "marconey",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25171103"
@@ -86,103 +42,139 @@
   {
     "title": "Startups: The Beginning",
     "url": "https://foundersatwork.posthaven.com/startups-the-very-beginning",
-    "upvotes": 4,
+    "upvotes": 13,
     "author": "jeremylevy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25171066"
   },
   {
+    "title": "Production Oriented Development",
+    "url": "https://paulosman.me/2019/12/30/production-oriented-development.html",
+    "upvotes": 34,
+    "author": "kiyanwang",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=25170547"
+  },
+  {
+    "title": "Field geology at Mars' equator points to ancient megaflood",
+    "url": "https://phys.org/news/2020-11-field-geology-mars-equator-ancient.html",
+    "upvotes": 95,
+    "author": "dnetesn",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25169105"
+  },
+  {
+    "title": "Mighty",
+    "url": "https://docs.google.com/document/u/0/d/18ff1YrETEf4RRbcR251j9hGLGdKQ52x65OzTGc5DWFI/"
+  },
+  {
+    "title": "We are the Starlink team, ask us anything",
+    "url": "https://www.reddit.com/r/Starlink/comments/jybmgn/we_are_the_starlink_team_ask_us_anything/",
+    "upvotes": 62,
+    "author": "caiobegotti",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=25170780"
+  },
+  {
+    "title": "Some Math Problems Seem Impossible. That Can Be a Good Thing",
+    "url": "https://www.quantamagazine.org/some-math-problems-seem-impossible-that-can-be-a-good-thing-20201118/",
+    "upvotes": 66,
+    "author": "sonabinu",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=25169520"
+  },
+  {
+    "title": "Show HN: WhatFeatures – Get rewarded for providing feedback on new features",
+    "url": "http://www.Whatfeaturesdoyouwant.com",
+    "upvotes": 15,
+    "author": "jsimps",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25170882"
+  },
+  {
+    "title": "Tinycore Linux",
+    "url": "http://tinycorelinux.net/",
+    "upvotes": 100,
+    "author": "fctorial",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=25158736"
+  },
+  {
     "title": "I Miss Working from the Office",
     "url": "https://www.roguelazer.com/2020/11/i-miss-working-from-the-office/",
-    "upvotes": 415,
+    "upvotes": 422,
     "author": "sysoleg",
-    "comments": 347,
+    "comments": 353,
     "link": "https://news.ycombinator.com/item?id=25168589"
   },
   {
     "title": "Mvp.css – build your landing page with only semantic HTML",
     "url": "https://andybrewer.github.io/mvp/",
-    "upvotes": 264,
+    "upvotes": 268,
     "author": "rahimnathwani",
-    "comments": 62,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=25167928"
-  },
-  {
-    "title": "Show HN: WhatFeatures – Get rewarded for providing feedback on new features",
-    "url": "http://www.Whatfeaturesdoyouwant.com",
-    "upvotes": 12,
-    "author": "jsimps",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25170882"
-  },
-  {
-    "title": "Learning State Abstractions for Long-Horizon Planning",
-    "url": "https://bair.berkeley.edu/blog/2020/11/20/sgm/",
-    "upvotes": 19,
-    "author": "headalgorithm",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25157970"
   },
   {
     "title": "ASCII Art in 1939",
     "url": "http://blog.modernmechanix.com/ascii-art-1939/",
-    "upvotes": 60,
+    "upvotes": 66,
     "author": "O1111OOO",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25168990"
+  },
+  {
+    "title": "“Shameful”: Victoria follows South Australia and imposes electric car road tax",
+    "url": "https://thedriven.io/2020/11/21/shameful-victoria-follows-south-australia-and-imposes-electric-car-road-tax/",
+    "upvotes": 3,
+    "author": "oxplot",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25171046"
   },
   {
     "title": "Our Immune System",
     "url": "https://berthub.eu/articles/posts/immune-system/",
-    "upvotes": 83,
+    "upvotes": 85,
     "author": "sturza",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25168744"
   },
   {
-    "title": "Ask HN: How do you stimulate your creativity on a day like today?",
-    "url": "item?id=25170661",
-    "upvotes": 27,
-    "author": "cl42",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=25170661"
+    "title": "Learning State Abstractions for Long-Horizon Planning",
+    "url": "https://bair.berkeley.edu/blog/2020/11/20/sgm/",
+    "upvotes": 20,
+    "author": "headalgorithm",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25157970"
+  },
+  {
+    "title": "Wheat’s Evil Twin Has Been Intoxicating Humans for Centuries",
+    "url": "https://www.atlasobscura.com/articles/wheats-evil-twin-has-been-intoxicating-humans-for-centuries",
+    "upvotes": 12,
+    "author": "indigodaddy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25169699"
   },
   {
     "title": "Interpretation of confidence intervals and Bayesian credible intervals",
     "url": "https://thestatsgeek.com/2020/11/21/interpretation-of-frequentist-confidence-intervals-and-bayesian-credible-intervals/",
     "upvotes": 40,
     "author": "jwb133",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25169595"
-  },
-  {
-    "title": "Why do proof assistants use dependent type theory instead of set theory?",
-    "url": "https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista",
-    "upvotes": 191,
-    "author": "pgustafs",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=25167468"
   },
   {
     "title": "Before the BSD Kernel Starts: Part One on AMD64",
     "url": "https://www.moritz.systems/blog/before-the-bsd-kernel-starts-part-one-on-amd64/",
-    "upvotes": 73,
+    "upvotes": 76,
     "author": "fcambus",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25148455"
   },
   {
-    "title": "OpenWrt and Self-Signed Certificates",
-    "url": "https://lwn.net/SubscriberLink/837491/efb881b8be4cc1c7/",
-    "upvotes": 24,
-    "author": "lukastyrychtr",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=25147919"
-  },
-  {
     "title": "Playmaker: The Reality of 10x Engineer",
     "url": "https://oferka.medium.com/playmaker-the-reality-of-10x-engineer-8af96abce74",
-    "upvotes": 41,
+    "upvotes": 42,
     "author": "oferka",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25169022"
@@ -190,31 +182,39 @@
   {
     "title": "Rapid Note-Taking with the Morse Code Method",
     "url": "https://www.calnewport.com/blog/2008/02/18/monday-master-class-rapid-note-taking-with-the-morse-code-method/",
-    "upvotes": 42,
+    "upvotes": 43,
     "author": "Tomte",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25159242"
   },
   {
+    "title": "OpenWrt and Self-Signed Certificates",
+    "url": "https://lwn.net/SubscriberLink/837491/efb881b8be4cc1c7/",
+    "upvotes": 24,
+    "author": "lukastyrychtr",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=25147919"
+  },
+  {
     "title": "Show HN: QuickPYTHON",
     "url": "https://timothycrosley.github.io/quickpython/",
-    "upvotes": 122,
+    "upvotes": 126,
     "author": "timothycrosley",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25158588"
   },
   {
-    "title": "Anarch: Super small public domain no-dependency from-scratch suckless Doom clone",
-    "url": "https://gitlab.com/drummyfish/anarch",
-    "upvotes": 62,
-    "author": "drummyfish",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=25168549"
+    "title": "Interview like an asset, not a beggar",
+    "url": "https://swizec.com/blog/youre-not-asking-for-a-job-youre-selling-a-service",
+    "upvotes": 45,
+    "author": "Swizec",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25170157"
   },
   {
     "title": "Show HN: Create Slides with Plain Text",
     "url": "https://play.presenta.cc/",
-    "upvotes": 87,
+    "upvotes": 89,
     "author": "abusedmedia",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25168900"
@@ -222,17 +222,17 @@
   {
     "title": "Cover Your Tracks",
     "url": "https://www.eff.org/deeplinks/2020/11/introducing-cover-your-tracks",
-    "upvotes": 614,
+    "upvotes": 622,
     "author": "cpeterso",
-    "comments": 230,
+    "comments": 232,
     "link": "https://news.ycombinator.com/item?id=25166703"
   },
   {
-    "title": "How to force yourself to leave the computer using the leave command",
-    "url": "https://www.stefanjudis.com/today-i-learned/how-to-force-yourself-to-leave-the-computer-using-the-leave-command/",
-    "upvotes": 66,
-    "author": "stefanjudis",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=25158739"
+    "title": "Anarch: Super small public domain no-dependency from-scratch suckless Doom clone",
+    "url": "https://gitlab.com/drummyfish/anarch",
+    "upvotes": 63,
+    "author": "drummyfish",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=25168549"
   }
 ]
