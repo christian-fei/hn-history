@@ -1,8 +1,24 @@
 [
   {
+    "title": "PostgREST: REST API for any Postgres database",
+    "url": "https://github.com/PostgREST/postgrest",
+    "upvotes": 26,
+    "author": "swyx",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25159097"
+  },
+  {
+    "title": "Winding down my Debian involvement",
+    "url": "https://michael.stapelberg.ch/posts/2019-03-10-debian-winding-down/",
+    "upvotes": 19,
+    "author": "ecliptik",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25170312"
+  },
+  {
     "title": "Field geology at Mars' equator points to ancient megaflood",
     "url": "https://phys.org/news/2020-11-field-geology-mars-equator-ancient.html",
-    "upvotes": 75,
+    "upvotes": 85,
     "author": "dnetesn",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25169105"
@@ -10,63 +26,47 @@
   {
     "title": "Some Math Problems Seem Impossible. That Can Be a Good Thing",
     "url": "https://www.quantamagazine.org/some-math-problems-seem-impossible-that-can-be-a-good-thing-20201118/",
-    "upvotes": 46,
+    "upvotes": 52,
     "author": "sonabinu",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25169520"
   },
   {
     "title": "Tinycore Linux",
     "url": "http://tinycorelinux.net/",
-    "upvotes": 83,
+    "upvotes": 87,
     "author": "fctorial",
-    "comments": 17,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=25158736"
-  },
-  {
-    "title": "I got rich on the other hand",
-    "url": "https://sive.rs/richand",
-    "upvotes": 36,
-    "author": "damir",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=25170030"
-  },
-  {
-    "title": "Interpretation of confidence intervals and Bayesian credible intervals",
-    "url": "https://thestatsgeek.com/2020/11/21/interpretation-of-frequentist-confidence-intervals-and-bayesian-credible-intervals/",
-    "upvotes": 31,
-    "author": "jwb133",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=25169595"
   },
   {
     "title": "I Miss Working from the Office",
     "url": "https://www.roguelazer.com/2020/11/i-miss-working-from-the-office/",
-    "upvotes": 355,
+    "upvotes": 377,
     "author": "sysoleg",
-    "comments": 303,
+    "comments": 321,
     "link": "https://news.ycombinator.com/item?id=25168589"
+  },
+  {
+    "title": "Dutch journalist gatecrashes EU defence video conference",
+    "url": "https://www.bbc.co.uk/news/world-europe-55027641",
+    "upvotes": 40,
+    "author": "rb2e",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=25169446"
   },
   {
     "title": "Mvp.css – build your landing page with only semantic HTML",
     "url": "https://andybrewer.github.io/mvp/",
-    "upvotes": 247,
+    "upvotes": 252,
     "author": "rahimnathwani",
     "comments": 60,
     "link": "https://news.ycombinator.com/item?id=25167928"
   },
   {
-    "title": "Dutch journalist gatecrashes EU defence video conference",
-    "url": "https://www.bbc.co.uk/news/world-europe-55027641",
-    "upvotes": 32,
-    "author": "rb2e",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=25169446"
-  },
-  {
     "title": "ASCII Art in 1939",
     "url": "http://blog.modernmechanix.com/ascii-art-1939/",
-    "upvotes": 52,
+    "upvotes": 54,
     "author": "O1111OOO",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25168990"
@@ -74,31 +74,51 @@
   {
     "title": "Learning State Abstractions for Long-Horizon Planning",
     "url": "https://bair.berkeley.edu/blog/2020/11/20/sgm/",
-    "upvotes": 10,
+    "upvotes": 14,
     "author": "headalgorithm",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25157970"
   },
   {
+    "title": "Interpretation of confidence intervals and Bayesian credible intervals",
+    "url": "https://thestatsgeek.com/2020/11/21/interpretation-of-frequentist-confidence-intervals-and-bayesian-credible-intervals/",
+    "upvotes": 34,
+    "author": "jwb133",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=25169595"
+  },
+  {
     "title": "SQLite briefing for Linux kernel hackers",
     "url": "https://sqlite.org/lpc2019/doc/trunk/briefing.md",
-    "upvotes": 241,
+    "upvotes": 247,
     "author": "symisc_devel",
-    "comments": 52,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=25167423"
   },
   {
     "title": "Our Immune System",
     "url": "https://berthub.eu/articles/posts/immune-system/",
-    "upvotes": 65,
+    "upvotes": 68,
     "author": "sturza",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25168744"
   },
   {
+    "title": "The Muse",
+    "url": "https://www.themuse.com/jobs/themuse/director-account-management"
+  },
+  {
+    "title": "Ask HN: How do you stimulate your creativity on a day like today?",
+    "url": "item?id=25170661",
+    "upvotes": 6,
+    "author": "cl42",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25170661"
+  },
+  {
     "title": "Before the BSD Kernel Starts: Part One on AMD64",
     "url": "https://www.moritz.systems/blog/before-the-bsd-kernel-starts-part-one-on-amd64/",
-    "upvotes": 64,
+    "upvotes": 67,
     "author": "fcambus",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25148455"
@@ -106,51 +126,47 @@
   {
     "title": "Why do proof assistants use dependent type theory instead of set theory?",
     "url": "https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista",
-    "upvotes": 180,
+    "upvotes": 182,
     "author": "pgustafs",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25167468"
-  },
-  {
-    "title": "The Muse",
-    "url": "https://www.themuse.com/jobs/themuse/director-account-management"
   },
   {
     "title": "OpenWrt and Self-Signed Certificates",
     "url": "https://lwn.net/SubscriberLink/837491/efb881b8be4cc1c7/",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "lukastyrychtr",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25147919"
   },
   {
     "title": "Playmaker: The Reality of 10x Engineer",
     "url": "https://oferka.medium.com/playmaker-the-reality-of-10x-engineer-8af96abce74",
-    "upvotes": 34,
+    "upvotes": 38,
     "author": "oferka",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25169022"
   },
   {
-    "title": "PostgREST: REST API for any Postgres database",
-    "url": "https://github.com/PostgREST/postgrest",
-    "upvotes": 5,
-    "author": "swyx",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25159097"
+    "title": "Anarch: Super small public domain no-dependency from-scratch suckless Doom clone",
+    "url": "https://gitlab.com/drummyfish/anarch",
+    "upvotes": 56,
+    "author": "drummyfish",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=25168549"
   },
   {
     "title": "Rapid Note-Taking with the Morse Code Method",
     "url": "https://www.calnewport.com/blog/2008/02/18/monday-master-class-rapid-note-taking-with-the-morse-code-method/",
-    "upvotes": 34,
+    "upvotes": 35,
     "author": "Tomte",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25159242"
   },
   {
     "title": "Show HN: Create Slides with Plain Text",
     "url": "https://play.presenta.cc/",
-    "upvotes": 78,
+    "upvotes": 80,
     "author": "abusedmedia",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=25168900"
@@ -158,58 +174,58 @@
   {
     "title": "Symbiotic bacteria tell ant embryos how to develop",
     "url": "https://www.quantamagazine.org/symbiotic-bacteria-tell-ant-embryos-how-to-develop-20200909/",
-    "upvotes": 117,
+    "upvotes": 120,
     "author": "rbanffy",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25149074"
   },
   {
-    "title": "Anarch: Super small public domain no-dependency from-scratch suckless Doom clone",
-    "url": "https://gitlab.com/drummyfish/anarch",
-    "upvotes": 52,
-    "author": "drummyfish",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=25168549"
-  },
-  {
     "title": "Show HN: QuickPYTHON",
     "url": "https://timothycrosley.github.io/quickpython/",
-    "upvotes": 101,
+    "upvotes": 107,
     "author": "timothycrosley",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25158588"
   },
   {
-    "title": "Ask HN: Have you picked any new skill from scratch, in your 40s or later?",
-    "url": "item?id=25169621",
-    "upvotes": 43,
-    "author": "akudha",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=25169621"
+    "title": "How Did the Duck Hunt Gun Work?",
+    "url": "https://www.mentalfloss.com/article/26875/how-did-duck-hunt-gun-work",
+    "upvotes": 13,
+    "author": "miked85",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25170167"
   },
   {
     "title": "Cover Your Tracks",
     "url": "https://www.eff.org/deeplinks/2020/11/introducing-cover-your-tracks",
-    "upvotes": 602,
+    "upvotes": 606,
     "author": "cpeterso",
-    "comments": 222,
+    "comments": 223,
     "link": "https://news.ycombinator.com/item?id=25166703"
-  },
-  {
-    "title": "Show HN: Jupystar – Run any Jupyter notebook in the browser",
-    "url": "https://starboard.gg/jupystar",
-    "upvotes": 65,
-    "author": "protoduction",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25167906"
   },
   {
     "title": "How to force yourself to leave the computer using the leave command",
     "url": "https://www.stefanjudis.com/today-i-learned/how-to-force-yourself-to-leave-the-computer-using-the-leave-command/",
-    "upvotes": 54,
+    "upvotes": 60,
     "author": "stefanjudis",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25158739"
+  },
+  {
+    "title": "Show HN: Jupystar – Run any Jupyter notebook in the browser",
+    "url": "https://starboard.gg/jupystar",
+    "upvotes": 66,
+    "author": "protoduction",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25167906"
+  },
+  {
+    "title": "Flash Animations Live Forever at the Internet Archive",
+    "url": "http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/",
+    "upvotes": 744,
+    "author": "tosh",
+    "comments": 243,
+    "link": "https://news.ycombinator.com/item?id=25154128"
   },
   {
     "title": "Sega VR Revived: Emulating an Unreleased Genesis Accessory",
@@ -218,21 +234,5 @@
     "author": "ecliptik",
     "comments": 66,
     "link": "https://news.ycombinator.com/item?id=25161494"
-  },
-  {
-    "title": "Flash Animations Live Forever at the Internet Archive",
-    "url": "http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/",
-    "upvotes": 742,
-    "author": "tosh",
-    "comments": 243,
-    "link": "https://news.ycombinator.com/item?id=25154128"
-  },
-  {
-    "title": "David Fincher’s Impossible Eye",
-    "url": "https://www.nytimes.com/2020/11/19/magazine/david-fincher-mank-interview.html",
-    "upvotes": 65,
-    "author": "prismatic",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=25155076"
   }
 ]
