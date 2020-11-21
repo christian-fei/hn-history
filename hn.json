@@ -2,47 +2,55 @@
   {
     "title": "Cover Your Tracks",
     "url": "https://www.eff.org/deeplinks/2020/11/introducing-cover-your-tracks",
-    "upvotes": 402,
+    "upvotes": 418,
     "author": "cpeterso",
-    "comments": 160,
+    "comments": 162,
     "link": "https://news.ycombinator.com/item?id=25166703"
   },
   {
     "title": "Mvp.css – build your landing page with only semantic HTML",
     "url": "https://andybrewer.github.io/mvp/",
-    "upvotes": 104,
+    "upvotes": 106,
     "author": "rahimnathwani",
-    "comments": 25,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25167928"
+  },
+  {
+    "title": "I Miss Working from the Office",
+    "url": "https://www.roguelazer.com/2020/11/i-miss-working-from-the-office/",
+    "upvotes": 13,
+    "author": "sysoleg",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25168589"
   },
   {
     "title": "SQLite briefing for Linux kernel hackers",
     "url": "https://sqlite.org/lpc2019/doc/trunk/briefing.md",
-    "upvotes": 97,
+    "upvotes": 111,
     "author": "symisc_devel",
-    "comments": 16,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25167423"
   },
   {
     "title": "Transitioning from Docker to Podman",
     "url": "https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/",
-    "upvotes": 334,
+    "upvotes": 339,
     "author": "indentit",
-    "comments": 187,
+    "comments": 189,
     "link": "https://news.ycombinator.com/item?id=25165195"
   },
   {
     "title": "Why do proof assistants use dependent type theory instead of set theory?",
     "url": "https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista",
-    "upvotes": 97,
+    "upvotes": 101,
     "author": "pgustafs",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25167468"
   },
   {
     "title": "Symbiotic bacteria tell ant embryos how to develop",
     "url": "https://www.quantamagazine.org/symbiotic-bacteria-tell-ant-embryos-how-to-develop-20200909/",
-    "upvotes": 72,
+    "upvotes": 73,
     "author": "rbanffy",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25149074"
@@ -50,7 +58,7 @@
   {
     "title": "Show HN: Jupystar – Run any Jupyter notebook in the browser",
     "url": "https://starboard.gg/jupystar",
-    "upvotes": 28,
+    "upvotes": 33,
     "author": "protoduction",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25167906"
@@ -58,31 +66,23 @@
   {
     "title": "Why Japanese web design is so different",
     "url": "https://randomwire.com/why-japanese-web-design-is-so-different/",
-    "upvotes": 314,
+    "upvotes": 316,
     "author": "Fiveplus",
-    "comments": 147,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=25148942"
   },
   {
     "title": "It is high time we let go of the Mersenne Twister",
     "url": "https://arxiv.org/abs/1910.06437",
-    "upvotes": 127,
+    "upvotes": 129,
     "author": "henning",
-    "comments": 64,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=25166095"
-  },
-  {
-    "title": "For Alaska shipwreck survivor, losing everything has been ‘sort of liberating’",
-    "url": "https://www.ktoo.org/2020/11/19/for-union-bay-sinking-survivor-losing-everything-but-his-life-has-been-sort-of-liberating/",
-    "upvotes": 89,
-    "author": "DoreenMichele",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=25157725"
   },
   {
     "title": "How to force yourself to leave the computer using the leave command",
     "url": "https://www.stefanjudis.com/today-i-learned/how-to-force-yourself-to-leave-the-computer-using-the-leave-command/",
-    "upvotes": 11,
+    "upvotes": 15,
     "author": "stefanjudis",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25158739"
@@ -90,31 +90,47 @@
   {
     "title": "Test for Divisibility by 13",
     "url": "https://www.johndcook.com/blog/2020/11/10/test-for-divisibility-by-13/",
-    "upvotes": 133,
+    "upvotes": 138,
     "author": "pmontra",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25165323"
   },
   {
+    "title": "For Alaska shipwreck survivor, losing everything has been ‘sort of liberating’",
+    "url": "https://www.ktoo.org/2020/11/19/for-union-bay-sinking-survivor-losing-everything-but-his-life-has-been-sort-of-liberating/",
+    "upvotes": 90,
+    "author": "DoreenMichele",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=25157725"
+  },
+  {
     "title": "Getting Started with Random Matrices: A Step-by-Step Guide",
     "url": "https://medium.com/cantors-paradise/getting-started-with-random-matrices-a-step-by-step-guide-81e5902384e",
-    "upvotes": 13,
+    "upvotes": 14,
     "author": "jorgenveisdal",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25159790"
   },
   {
+    "title": "Before the BSD Kernel Starts: Part One on AMD64",
+    "url": "https://www.moritz.systems/blog/before-the-bsd-kernel-starts-part-one-on-amd64/",
+    "upvotes": 5,
+    "author": "fcambus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25148455"
+  },
+  {
     "title": "Optimizing Your Web App 100x Is Like Adding 99 Servers",
     "url": "https://lukerissacher.com/blog/optimizing_your_web_app",
-    "upvotes": 209,
+    "upvotes": 212,
     "author": "QuadrupleA",
-    "comments": 155,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=25165752"
   },
   {
     "title": "David Fincher’s Impossible Eye",
     "url": "https://www.nytimes.com/2020/11/19/magazine/david-fincher-mank-interview.html",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "prismatic",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25155076"
@@ -122,7 +138,7 @@
   {
     "title": "Nbdev: A literate programming environment that democratizes best practices",
     "url": "https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/",
-    "upvotes": 181,
+    "upvotes": 182,
     "author": "pbowyer",
     "comments": 74,
     "link": "https://news.ycombinator.com/item?id=25162803"
@@ -130,7 +146,7 @@
   {
     "title": "Sega VR Revived: Emulating an Unreleased Genesis Accessory",
     "url": "https://gamehistory.org/segavr/",
-    "upvotes": 218,
+    "upvotes": 219,
     "author": "ecliptik",
     "comments": 63,
     "link": "https://news.ycombinator.com/item?id=25161494"
@@ -138,23 +154,15 @@
   {
     "title": "Why We're Building Observable",
     "url": "https://observablehq.com/@observablehq/why-were-building-observable",
-    "upvotes": 271,
+    "upvotes": 273,
     "author": "petulla",
     "comments": 78,
     "link": "https://news.ycombinator.com/item?id=25161409"
   },
   {
-    "title": "Before the BSD Kernel Starts: Part One on AMD64",
-    "url": "https://www.moritz.systems/blog/before-the-bsd-kernel-starts-part-one-on-amd64/",
-    "upvotes": 4,
-    "author": "fcambus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25148455"
-  },
-  {
     "title": "Show HN: QuickPYTHON",
     "url": "https://timothycrosley.github.io/quickpython/",
-    "upvotes": 20,
+    "upvotes": 23,
     "author": "timothycrosley",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25158588"
@@ -162,7 +170,7 @@
   {
     "title": "Opytimizer: Nature-Inspired Computation in Python",
     "url": "https://github.com/gugarosa/opytimizer",
-    "upvotes": 57,
+    "upvotes": 58,
     "author": "optimalsolver",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25165664"
@@ -170,9 +178,9 @@
   {
     "title": "Hyperbaric oxygen therapy increases telomere length in isolated blood cells",
     "url": "https://www.aging-us.com/article/202188/text",
-    "upvotes": 128,
+    "upvotes": 130,
     "author": "generalizations",
-    "comments": 52,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=25163220"
   },
   {
@@ -186,10 +194,18 @@
   {
     "title": "Show HN: I made an alternative to Google Alerts that listens to social media",
     "url": "https://www.pmalerts.com/",
-    "upvotes": 220,
+    "upvotes": 222,
     "author": "fstopmick",
-    "comments": 85,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=25161117"
+  },
+  {
+    "title": "Static Typing for Ruby: Adopting Sorbet at Scale",
+    "url": "https://shopify.engineering/static-typing-ruby",
+    "upvotes": 136,
+    "author": "ufuk",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=25162839"
   },
   {
     "title": "Paradigms Without Progress: Kuhnian Reflections on Programming Practice [video]",
@@ -200,19 +216,11 @@
     "link": "https://news.ycombinator.com/item?id=25163445"
   },
   {
-    "title": "Static Typing for Ruby: Adopting Sorbet at Scale",
-    "url": "https://shopify.engineering/static-typing-ruby",
-    "upvotes": 135,
-    "author": "ufuk",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=25162839"
-  },
-  {
     "title": "What do RISC and CISC mean in 2020?",
     "url": "https://erik-engheim.medium.com/what-does-risc-and-cisc-mean-in-2020-7b4d42c9a9de",
-    "upvotes": 149,
+    "upvotes": 151,
     "author": "socialdemocrat",
-    "comments": 116,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=25159704"
   },
   {
@@ -220,19 +228,11 @@
     "url": "item?id=25161266",
     "upvotes": 274,
     "author": "MarkusWandel",
-    "comments": 189,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=25161266"
   },
   {
     "title": "BuildZoom",
     "url": "https://jobs.lever.co/buildzoom"
-  },
-  {
-    "title": "Eight Years at Roblox",
-    "url": "https://zeux.io/2020/08/02/eight-years-at-roblox/",
-    "upvotes": 251,
-    "author": "modeless",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=25158904"
   }
 ]
