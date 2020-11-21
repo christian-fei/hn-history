@@ -2,7 +2,7 @@
   {
     "title": "X11 Library Sees Lots of Fixes with LibX11 1.7 Release",
     "url": "https://www.phoronix.com/scan.php?page=news_item&px=libX11-1.7.0-Released",
-    "upvotes": 60,
+    "upvotes": 85,
     "author": "rbanffy",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25172953"
@@ -10,23 +10,31 @@
   {
     "title": "PostgREST: REST API for any Postgres database",
     "url": "https://github.com/PostgREST/postgrest",
-    "upvotes": 281,
+    "upvotes": 295,
     "author": "swyx",
-    "comments": 116,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=25159097"
   },
   {
     "title": "HopsFS: 100x Times Faster Than AWS S3",
     "url": "https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3",
-    "upvotes": 84,
+    "upvotes": 98,
     "author": "nathaliaariza",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=25149154"
+  },
+  {
+    "title": "iPad on Linux",
+    "url": "https://ipadlinux.org/",
+    "upvotes": 27,
+    "author": "homarp",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25172883"
   },
   {
     "title": "Jan Morris Has Died",
     "url": "https://www.theguardian.com/books/2020/nov/20/jan-morris-historian-travel-writer-and-trans-pioneer-dies-aged-94",
-    "upvotes": 53,
+    "upvotes": 58,
     "author": "apophasis",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25172118"
@@ -34,54 +42,86 @@
   {
     "title": "Scientists Uncover the Universal Geometry of Geology",
     "url": "https://www.quantamagazine.org/geometry-reveals-how-the-world-is-assembled-from-cubes-20201119/",
-    "upvotes": 71,
+    "upvotes": 79,
     "author": "nep000",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25171662"
   },
   {
     "title": "Victoria follows South Australia and imposes electric car road tax",
     "url": "https://thedriven.io/2020/11/21/shameful-victoria-follows-south-australia-and-imposes-electric-car-road-tax/",
-    "upvotes": 97,
+    "upvotes": 109,
     "author": "oxplot",
-    "comments": 157,
+    "comments": 175,
     "link": "https://news.ycombinator.com/item?id=25171046"
   },
   {
-    "title": "Google to block less secure browsers and applications",
+    "title": "I'm building a Minecraft clone in hardware, on a tiny FPGA with 143kb of RAM",
+    "url": "https://twitter.com/nickmqb/status/1330195947050176517",
+    "upvotes": 104,
+    "author": "nickmqb",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=25171617"
+  },
+  {
+    "title": "Guidance to developers affected by effort to block less secure browsers, apps",
     "url": "https://developers.googleblog.com/2020/08/guidance-for-our-effort-to-block-less-secure-browser-and-apps.html",
-    "upvotes": 85,
+    "upvotes": 100,
     "author": "mattmein",
-    "comments": 71,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=25172755"
-  },
-  {
-    "title": "Life Lessons from a 97-Year-Old Lobsterman",
-    "url": "https://www.outsideonline.com/2401643/life-lessons-97-year-old-lobsterman",
-    "upvotes": 66,
-    "author": "marconey",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=25171103"
-  },
-  {
-    "title": "Developing Wayland Color Management and High Dynamic Range",
-    "url": "https://www.collabora.com/news-and-blog/blog/2020/11/19/developing-wayland-color-management-and-high-dynamic-range/",
-    "upvotes": 62,
-    "author": "cesarb",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25159592"
   },
   {
     "title": "Substack",
     "url": "https://substack.com/jobs"
   },
   {
+    "title": "Life Lessons from a 97-Year-Old Lobsterman",
+    "url": "https://www.outsideonline.com/2401643/life-lessons-97-year-old-lobsterman",
+    "upvotes": 71,
+    "author": "marconey",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=25171103"
+  },
+  {
     "title": "A Retargetable Forward and Inverse Renderer",
     "url": "http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2",
-    "upvotes": 43,
+    "upvotes": 47,
     "author": "harperlee",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25159154"
+  },
+  {
+    "title": "Developing Wayland Color Management and High Dynamic Range",
+    "url": "https://www.collabora.com/news-and-blog/blog/2020/11/19/developing-wayland-color-management-and-high-dynamic-range/",
+    "upvotes": 64,
+    "author": "cesarb",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25159592"
+  },
+  {
+    "title": "Startups: The Beginning",
+    "url": "https://foundersatwork.posthaven.com/startups-the-very-beginning",
+    "upvotes": 78,
+    "author": "jeremylevy",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25171066"
+  },
+  {
+    "title": "Production-Oriented Development",
+    "url": "https://paulosman.me/2019/12/30/production-oriented-development.html",
+    "upvotes": 80,
+    "author": "kiyanwang",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=25170547"
+  },
+  {
+    "title": "Deep Frozen Arctic Microbes Are Waking Up",
+    "url": "https://www.scientificamerican.com/article/deep-frozen-arctic-microbes-are-waking-up/",
+    "upvotes": 177,
+    "author": "jonbaer",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=25170885"
   },
   {
     "title": "A Secret Vice",
@@ -92,97 +132,81 @@
     "link": "https://news.ycombinator.com/item?id=25173085"
   },
   {
-    "title": "Startups: The Beginning",
-    "url": "https://foundersatwork.posthaven.com/startups-the-very-beginning",
-    "upvotes": 70,
-    "author": "jeremylevy",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25171066"
-  },
-  {
-    "title": "iPad on Linux",
-    "url": "https://ipadlinux.org/",
-    "upvotes": 10,
-    "author": "homarp",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25172883"
-  },
-  {
-    "title": "Deep Frozen Arctic Microbes Are Waking Up",
-    "url": "https://www.scientificamerican.com/article/deep-frozen-arctic-microbes-are-waking-up/",
-    "upvotes": 171,
-    "author": "jonbaer",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=25170885"
-  },
-  {
-    "title": "Production-Oriented Development",
-    "url": "https://paulosman.me/2019/12/30/production-oriented-development.html",
-    "upvotes": 74,
-    "author": "kiyanwang",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=25170547"
-  },
-  {
     "title": "Should I use SwiftUI in production? A code-to-code comparison to help you decide",
     "url": "https://triplebyte.com/blog/should-i-use-swiftui-in-production-heres-how-to-decide?ref=hnpost",
-    "upvotes": 44,
+    "upvotes": 49,
     "author": "danielwbean",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25171532"
-  },
-  {
-    "title": "GoDaddy employees used in attacks on multiple cryptocurrency services",
-    "url": "https://krebsonsecurity.com/2020/11/godaddy-employees-used-in-attacks-on-multiple-cryptocurrency-services/",
-    "upvotes": 115,
-    "author": "todsacerdoti",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=25171530"
   },
   {
     "title": "Field geology at Mars' equator points to ancient megaflood",
     "url": "https://phys.org/news/2020-11-field-geology-mars-equator-ancient.html",
-    "upvotes": 110,
+    "upvotes": 111,
     "author": "dnetesn",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25169105"
+  },
+  {
+    "title": "Native Intelligence",
+    "url": "https://www.smithsonianmag.com/history/native-intelligence-109314481/",
+    "upvotes": 32,
+    "author": "moultano",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=25171303"
+  },
+  {
+    "title": "GoDaddy employees used in attacks on multiple cryptocurrency services",
+    "url": "https://krebsonsecurity.com/2020/11/godaddy-employees-used-in-attacks-on-multiple-cryptocurrency-services/",
+    "upvotes": 123,
+    "author": "todsacerdoti",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=25171530"
   },
   {
     "title": "Tinycore Linux",
     "url": "http://tinycorelinux.net/",
-    "upvotes": 152,
+    "upvotes": 155,
     "author": "fctorial",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=25158736"
   },
   {
-    "title": "Native Intelligence",
-    "url": "https://www.smithsonianmag.com/history/native-intelligence-109314481/",
-    "upvotes": 28,
-    "author": "moultano",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=25171303"
+    "title": "Best of NeXT Computer System Collection",
+    "url": "http://www.kevra.org/TheBestOfNext/index.html",
+    "upvotes": 20,
+    "author": "mpweiher",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25172693"
   },
   {
     "title": "Some Math Problems Seem Impossible. That Can Be a Good Thing",
     "url": "https://www.quantamagazine.org/some-math-problems-seem-impossible-that-can-be-a-good-thing-20201118/",
-    "upvotes": 91,
+    "upvotes": 93,
     "author": "sonabinu",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=25169520"
   },
   {
-    "title": "Untangling Mechanized Proofs",
-    "url": "https://plv.csail.mit.edu/blog/alectryon.html",
-    "upvotes": 15,
-    "author": "matt_d",
+    "title": "Making Postgres stored procedures 9X faster in Citus",
+    "url": "https://www.citusdata.com/blog/2020/11/21/making-postgres-stored-procedures-9x-faster-in-citus/",
+    "upvotes": 14,
+    "author": "clairegiordano",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25148370"
+    "link": "https://news.ycombinator.com/item?id=25171853"
+  },
+  {
+    "title": "OpenWrt and Self-Signed Certificates",
+    "url": "https://lwn.net/SubscriberLink/837491/efb881b8be4cc1c7/",
+    "upvotes": 33,
+    "author": "lukastyrychtr",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=25147919"
   },
   {
     "title": "Wheat’s Evil Twin Has Been Intoxicating Humans for Centuries",
     "url": "https://www.atlasobscura.com/articles/wheats-evil-twin-has-been-intoxicating-humans-for-centuries",
-    "upvotes": 68,
+    "upvotes": 75,
     "author": "indigodaddy",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25169699"
@@ -190,49 +214,25 @@
   {
     "title": "I Miss Working from the Office",
     "url": "https://www.roguelazer.com/2020/11/i-miss-working-from-the-office/",
-    "upvotes": 507,
+    "upvotes": 509,
     "author": "sysoleg",
-    "comments": 427,
+    "comments": 428,
     "link": "https://news.ycombinator.com/item?id=25168589"
   },
   {
-    "title": "Google signs copyright agreements with six French newspapers",
-    "url": "https://www.reuters.com/article/us-france-google-copyrights-idUSKBN27Z27B",
-    "upvotes": 8,
-    "author": "giuliomagnifico",
+    "title": "Untangling Mechanized Proofs",
+    "url": "https://plv.csail.mit.edu/blog/alectryon.html",
+    "upvotes": 17,
+    "author": "matt_d",
     "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25158328"
+    "link": "https://news.ycombinator.com/item?id=25148370"
   },
   {
     "title": "Playmaker: The Reality of 10x Engineer",
     "url": "https://oferka.medium.com/playmaker-the-reality-of-10x-engineer-8af96abce74",
-    "upvotes": 73,
+    "upvotes": 75,
     "author": "oferka",
-    "comments": 48,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=25169022"
-  },
-  {
-    "title": "OpenWrt and Self-Signed Certificates",
-    "url": "https://lwn.net/SubscriberLink/837491/efb881b8be4cc1c7/",
-    "upvotes": 29,
-    "author": "lukastyrychtr",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=25147919"
-  },
-  {
-    "title": "Making Postgres stored procedures 9X faster in Citus",
-    "url": "https://www.citusdata.com/blog/2020/11/21/making-postgres-stored-procedures-9x-faster-in-citus/",
-    "upvotes": 10,
-    "author": "clairegiordano",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25171853"
-  },
-  {
-    "title": "FTC commissioner met with Apple regarding Facebook’s iOS 14 complaints",
-    "url": "https://www.myhealthyapple.com/etc-apple-facebook-ios14/",
-    "upvotes": 94,
-    "author": "aeromusek",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=25171707"
   }
 ]
