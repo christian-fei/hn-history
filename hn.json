@@ -2,23 +2,23 @@
   {
     "title": "Cover Your Tracks",
     "url": "https://www.eff.org/deeplinks/2020/11/introducing-cover-your-tracks",
-    "upvotes": 77,
+    "upvotes": 102,
     "author": "cpeterso",
-    "comments": 23,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=25166703"
   },
   {
     "title": "Transitioning from Docker to Podman",
     "url": "https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/",
-    "upvotes": 195,
+    "upvotes": 207,
     "author": "indentit",
-    "comments": 102,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=25165195"
   },
   {
     "title": "It is high time we let go of the Mersenne Twister",
     "url": "https://arxiv.org/abs/1910.06437",
-    "upvotes": 67,
+    "upvotes": 71,
     "author": "henning",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25166095"
@@ -26,23 +26,31 @@
   {
     "title": "Optimizing Your Web App 100x Is Like Adding 99 Servers",
     "url": "https://lukerissacher.com/blog/optimizing_your_web_app",
-    "upvotes": 102,
+    "upvotes": 107,
     "author": "QuadrupleA",
-    "comments": 73,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=25165752"
   },
   {
     "title": "Why Japanese web design is so different",
     "url": "https://randomwire.com/why-japanese-web-design-is-so-different/",
-    "upvotes": 186,
+    "upvotes": 189,
     "author": "Fiveplus",
-    "comments": 92,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=25148942"
+  },
+  {
+    "title": "For Alaska shipwreck survivor, losing everything has been ‘sort of liberating’",
+    "url": "https://www.ktoo.org/2020/11/19/for-union-bay-sinking-survivor-losing-everything-but-his-life-has-been-sort-of-liberating/",
+    "upvotes": 19,
+    "author": "DoreenMichele",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25157725"
   },
   {
     "title": "Opytimizer: Nature-Inspired Computation in Python",
     "url": "https://github.com/gugarosa/opytimizer",
-    "upvotes": 27,
+    "upvotes": 28,
     "author": "optimalsolver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25165664"
@@ -50,23 +58,15 @@
   {
     "title": "Nbdev: A literate programming environment that democratizes best practices",
     "url": "https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/",
-    "upvotes": 147,
+    "upvotes": 149,
     "author": "pbowyer",
     "comments": 65,
     "link": "https://news.ycombinator.com/item?id=25162803"
   },
   {
-    "title": "For Alaska shipwreck survivor, losing everything has been ‘sort of liberating’",
-    "url": "https://www.ktoo.org/2020/11/19/for-union-bay-sinking-survivor-losing-everything-but-his-life-has-been-sort-of-liberating/",
-    "upvotes": 12,
-    "author": "DoreenMichele",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25157725"
-  },
-  {
     "title": "Why We're Building Observable",
     "url": "https://observablehq.com/@observablehq/why-were-building-observable",
-    "upvotes": 212,
+    "upvotes": 215,
     "author": "petulla",
     "comments": 68,
     "link": "https://news.ycombinator.com/item?id=25161409"
@@ -74,70 +74,86 @@
   {
     "title": "Sega VR Revived: Emulating an Unreleased Genesis Accessory",
     "url": "https://gamehistory.org/segavr/",
-    "upvotes": 187,
+    "upvotes": 188,
     "author": "ecliptik",
-    "comments": 56,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=25161494"
   },
   {
     "title": "Hyperbaric oxygen therapy increases telomere length in isolated blood cells",
     "url": "https://www.aging-us.com/article/202188/text",
-    "upvotes": 80,
+    "upvotes": 83,
     "author": "generalizations",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=25163220"
   },
   {
-    "title": "Google plans to shut down Google Voice integration with classic Hangouts",
-    "url": "https://support.google.com/hangouts/answer/3187125?hl=en",
-    "upvotes": 162,
-    "author": "definetheword",
-    "comments": 188,
-    "link": "https://news.ycombinator.com/item?id=25164695"
-  },
-  {
     "title": "What do RISC and CISC mean in 2020?",
     "url": "https://erik-engheim.medium.com/what-does-risc-and-cisc-mean-in-2020-7b4d42c9a9de",
-    "upvotes": 106,
+    "upvotes": 110,
     "author": "socialdemocrat",
-    "comments": 84,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=25159704"
   },
   {
     "title": "I've now played with a Raspberry Pi 400 for a week and here are my conclusions",
     "url": "item?id=25161266",
-    "upvotes": 226,
+    "upvotes": 228,
     "author": "MarkusWandel",
-    "comments": 162,
+    "comments": 163,
     "link": "https://news.ycombinator.com/item?id=25161266"
+  },
+  {
+    "title": "Show HN: I made an alternative to Google Alerts that listens to social media",
+    "url": "https://www.pmalerts.com/",
+    "upvotes": 161,
+    "author": "fstopmick",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=25161117"
+  },
+  {
+    "title": "Google plans to shut down Google Voice integration with classic Hangouts",
+    "url": "https://support.google.com/hangouts/answer/3187125?hl=en",
+    "upvotes": 166,
+    "author": "definetheword",
+    "comments": 196,
+    "link": "https://news.ycombinator.com/item?id=25164695"
   },
   {
     "title": "BuildZoom",
     "url": "https://jobs.lever.co/buildzoom"
   },
   {
-    "title": "Show HN: I made an alternative to Google Alerts that listens to social media",
-    "url": "https://www.pmalerts.com/",
-    "upvotes": 157,
-    "author": "fstopmick",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=25161117"
-  },
-  {
     "title": "Static Typing for Ruby: Adopting Sorbet at Scale",
     "url": "https://shopify.engineering/static-typing-ruby",
-    "upvotes": 89,
+    "upvotes": 92,
     "author": "ufuk",
-    "comments": 51,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=25162839"
   },
   {
     "title": "The Vale Programming Language",
     "url": "https://vale.dev/",
-    "upvotes": 187,
+    "upvotes": 189,
     "author": "danny00",
-    "comments": 158,
+    "comments": 159,
     "link": "https://news.ycombinator.com/item?id=25160202"
+  },
+  {
+    "title": "Test for Divisibility by 13",
+    "url": "https://www.johndcook.com/blog/2020/11/10/test-for-divisibility-by-13/",
+    "upvotes": 16,
+    "author": "pmontra",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25165323"
+  },
+  {
+    "title": "Flash Animations Live Forever at the Internet Archive",
+    "url": "http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/",
+    "upvotes": 706,
+    "author": "tosh",
+    "comments": 240,
+    "link": "https://news.ycombinator.com/item?id=25154128"
   },
   {
     "title": "A Mamluk-Kipchak Treatise on the Skill of Archery",
@@ -148,28 +164,28 @@
     "link": "https://news.ycombinator.com/item?id=25155269"
   },
   {
-    "title": "Flash Animations Live Forever at the Internet Archive",
-    "url": "http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/",
-    "upvotes": 704,
-    "author": "tosh",
-    "comments": 240,
-    "link": "https://news.ycombinator.com/item?id=25154128"
+    "title": "AB07-USB3FMC: The $1.65k eval board they can't be bothered to test",
+    "url": "https://lab.ktemkin.com/post/ab07-usb3fmc-wtf/",
+    "upvotes": 161,
+    "author": "segfaultbuserr",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=25161325"
   },
   {
     "title": "HomePod has been jailbroken with checkra1n",
     "url": "https://yalujailbreak.net/homepod-checkra1n-jailbreak/",
-    "upvotes": 210,
+    "upvotes": 211,
     "author": "wittypineapple",
     "comments": 158,
     "link": "https://news.ycombinator.com/item?id=25159188"
   },
   {
-    "title": "AB07-USB3FMC: The $1.65k eval board they can't be bothered to test",
-    "url": "https://lab.ktemkin.com/post/ab07-usb3fmc-wtf/",
-    "upvotes": 160,
-    "author": "segfaultbuserr",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=25161325"
+    "title": "How to Use Anki to Improve Your Memory",
+    "url": "https://superpoweredself.com/gentle-introduction-how-to-use-anki-to-improve-your-memory",
+    "upvotes": 147,
+    "author": "simbyotic",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=25160204"
   },
   {
     "title": "Investigating the relationship between smartphone use and delay discounting",
@@ -180,43 +196,35 @@
     "link": "https://news.ycombinator.com/item?id=25148755"
   },
   {
-    "title": "How to Use Anki to Improve Your Memory",
-    "url": "https://superpoweredself.com/gentle-introduction-how-to-use-anki-to-improve-your-memory",
-    "upvotes": 144,
-    "author": "simbyotic",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=25160204"
-  },
-  {
-    "title": "Why are there so many cats in Istanbul?",
-    "url": "https://www.legalnomads.com/istanbul-cats/",
-    "upvotes": 77,
-    "author": "ducaale",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=25163312"
-  },
-  {
     "title": "Eight Years at Roblox",
     "url": "https://zeux.io/2020/08/02/eight-years-at-roblox/",
-    "upvotes": 209,
+    "upvotes": 211,
     "author": "modeless",
     "comments": 76,
     "link": "https://news.ycombinator.com/item?id=25158904"
   },
   {
+    "title": "Why are there so many cats in Istanbul?",
+    "url": "https://www.legalnomads.com/istanbul-cats/",
+    "upvotes": 78,
+    "author": "ducaale",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=25163312"
+  },
+  {
     "title": "Symbolics, Inc.: A failure of heterogeneous engineering",
     "url": "http://web.mit.edu/6.933/www/Symbolics.pdf",
-    "upvotes": 66,
+    "upvotes": 68,
     "author": "tmalsburg2",
-    "comments": 44,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=25161557"
   },
   {
     "title": "Moving from Macbook to Linux",
     "url": "https://monadical.com/posts/moving-to-linux-desktop.html",
-    "upvotes": 377,
+    "upvotes": 384,
     "author": "gk1",
-    "comments": 368,
+    "comments": 376,
     "link": "https://news.ycombinator.com/item?id=25163685"
   },
   {
@@ -224,15 +232,7 @@
     "url": "https://news.mit.edu/2020/reasons-nuclear-overruns-1118",
     "upvotes": 217,
     "author": "consumer451",
-    "comments": 262,
+    "comments": 268,
     "link": "https://news.ycombinator.com/item?id=25161738"
-  },
-  {
-    "title": "Dev Fonts",
-    "url": "https://devfonts.gafi.dev/",
-    "upvotes": 554,
-    "author": "syck",
-    "comments": 309,
-    "link": "https://news.ycombinator.com/item?id=25159038"
   }
 ]
