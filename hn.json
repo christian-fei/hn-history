@@ -2,47 +2,47 @@
   {
     "title": "Matestack – Reactive UIs in pure Ruby",
     "url": "https://matestack.io",
-    "upvotes": 58,
+    "upvotes": 64,
     "author": "gls2ro",
-    "comments": 25,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=25175172"
-  },
-  {
-    "title": "Build a Minimum Loveable Product",
-    "url": "https://www.preetamnath.com/micro-saas/minimum-loveable-product-micro-saas",
-    "upvotes": 34,
-    "author": "grwthckrmstr",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=25175220"
   },
   {
     "title": "X11 Library Sees Lots of Fixes with LibX11 1.7 Release",
     "url": "https://www.phoronix.com/scan.php?page=news_item&px=libX11-1.7.0-Released",
-    "upvotes": 230,
+    "upvotes": 232,
     "author": "rbanffy",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=25172953"
   },
   {
     "title": "Gimp is 25 years old today",
     "url": "https://www.gimp.org/news/2020/11/21/25-years-of-gimp/",
-    "upvotes": 262,
+    "upvotes": 273,
     "author": "constantinum",
-    "comments": 100,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=25174686"
   },
   {
     "title": "Linux on iPad",
     "url": "https://ipadlinux.org/",
-    "upvotes": 268,
+    "upvotes": 273,
     "author": "homarp",
     "comments": 152,
     "link": "https://news.ycombinator.com/item?id=25172883"
   },
   {
+    "title": "Build a Minimum Loveable Product",
+    "url": "https://www.preetamnath.com/micro-saas/minimum-loveable-product-micro-saas",
+    "upvotes": 39,
+    "author": "grwthckrmstr",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=25175220"
+  },
+  {
     "title": "Maddy: Composable all-in-one mail server in Go",
     "url": "https://github.com/foxcpp/maddy",
-    "upvotes": 111,
+    "upvotes": 112,
     "author": "chenzhekl",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=25157989"
@@ -50,15 +50,15 @@
   {
     "title": "COBOL underpins the entire financial system",
     "url": "https://www.wealthsimple.com/en-us/magazine/cobol-controls-your-money",
-    "upvotes": 94,
+    "upvotes": 98,
     "author": "chaosdesigner",
-    "comments": 38,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25148840"
   },
   {
     "title": "I'm building a Minecraft clone in hardware, on a tiny FPGA with 143kb of RAM",
     "url": "https://twitter.com/nickmqb/status/1330195947050176517",
-    "upvotes": 276,
+    "upvotes": 284,
     "author": "nickmqb",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25171617"
@@ -66,34 +66,34 @@
   {
     "title": "Victoria follows South Australia and imposes electric car road tax",
     "url": "https://thedriven.io/2020/11/21/shameful-victoria-follows-south-australia-and-imposes-electric-car-road-tax/",
-    "upvotes": 218,
+    "upvotes": 219,
     "author": "oxplot",
-    "comments": 329,
+    "comments": 331,
     "link": "https://news.ycombinator.com/item?id=25171046"
   },
   {
     "title": "Biochemical Pathways Wall Charts",
     "url": "https://www.roche.com/sustainability/philanthropy/science_education/pathways.htm",
-    "upvotes": 18,
+    "upvotes": 19,
     "author": "psychoslave",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25158249"
-  },
-  {
-    "title": "HopsFS: 100x Times Faster Than AWS S3",
-    "url": "https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3",
-    "upvotes": 184,
-    "author": "nathaliaariza",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=25149154"
   },
   {
     "title": "Pianists for Alternatively Sized Keyboards",
     "url": "http://paskpiano.org/about/",
-    "upvotes": 113,
+    "upvotes": 118,
     "author": "spekcular",
     "comments": 123,
     "link": "https://news.ycombinator.com/item?id=25173522"
+  },
+  {
+    "title": "HopsFS: 100x Times Faster Than AWS S3",
+    "url": "https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3",
+    "upvotes": 186,
+    "author": "nathaliaariza",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=25149154"
   },
   {
     "title": "Jan Morris Has Died",
@@ -106,34 +106,26 @@
   {
     "title": "The Uniqueness of Mammals",
     "url": "https://areomagazine.com/2020/11/19/the-uniqueness-of-mammals/",
-    "upvotes": 21,
+    "upvotes": 22,
     "author": "chat",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25172101"
   },
   {
-    "title": "Rebecca West: opinionated, impertinent, impossible",
-    "url": "https://www.theglobeandmail.com/arts/rebecca-west-opinionated-impertinent-impossible/article766886/",
-    "upvotes": 3,
-    "author": "drjohnson",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25172264"
+    "title": "Production-Oriented Development",
+    "url": "https://paulosman.me/2019/12/30/production-oriented-development.html",
+    "upvotes": 165,
+    "author": "kiyanwang",
+    "comments": 112,
+    "link": "https://news.ycombinator.com/item?id=25170547"
   },
   {
     "title": "What I didn't know about Ruby Classes",
     "url": "https://dumas-olivier.medium.com/what-i-didnt-know-about-ruby-classes-9de64ee40d4d",
-    "upvotes": 57,
+    "upvotes": 59,
     "author": "olivdums",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25158901"
-  },
-  {
-    "title": "Production-Oriented Development",
-    "url": "https://paulosman.me/2019/12/30/production-oriented-development.html",
-    "upvotes": 164,
-    "author": "kiyanwang",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=25170547"
   },
   {
     "title": "Life Lessons from a 97-Year-Old Lobsterman",
@@ -144,6 +136,14 @@
     "link": "https://news.ycombinator.com/item?id=25171103"
   },
   {
+    "title": "Rebecca West: opinionated, impertinent, impossible",
+    "url": "https://www.theglobeandmail.com/arts/rebecca-west-opinionated-impertinent-impossible/article766886/",
+    "upvotes": 3,
+    "author": "drjohnson",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25172264"
+  },
+  {
     "title": "A Retargetable Forward and Inverse Renderer",
     "url": "http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2",
     "upvotes": 85,
@@ -152,25 +152,25 @@
     "link": "https://news.ycombinator.com/item?id=25159154"
   },
   {
-    "title": "Scientists Uncover the Universal Geometry of Geology",
-    "url": "https://www.quantamagazine.org/geometry-reveals-how-the-world-is-assembled-from-cubes-20201119/",
-    "upvotes": 125,
-    "author": "nep000",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25171662"
-  },
-  {
     "title": "Show HN: A simple way to make HTML websites",
     "url": "https://john-doe.neocities.org",
-    "upvotes": 50,
+    "upvotes": 55,
     "author": "john-doe",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25170078"
+  },
+  {
+    "title": "Scientists Uncover the Universal Geometry of Geology",
+    "url": "https://www.quantamagazine.org/geometry-reveals-how-the-world-is-assembled-from-cubes-20201119/",
+    "upvotes": 127,
+    "author": "nep000",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=25171662"
   },
   {
     "title": "Startups: The Very Beginning",
     "url": "https://foundersatwork.posthaven.com/startups-the-very-beginning",
-    "upvotes": 132,
+    "upvotes": 133,
     "author": "jeremylevy",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25171066"
@@ -178,9 +178,9 @@
   {
     "title": "PostgREST: REST API for any Postgres database",
     "url": "https://github.com/PostgREST/postgrest",
-    "upvotes": 406,
+    "upvotes": 407,
     "author": "swyx",
-    "comments": 165,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=25159097"
   },
   {
@@ -204,35 +204,35 @@
     "url": "http://www.kevra.org/TheBestOfNext/index.html",
     "upvotes": 51,
     "author": "mpweiher",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25172693"
-  },
-  {
-    "title": "Substack",
-    "url": "https://substack.com/jobs"
   },
   {
     "title": "Show HN: A new way of ORM in Java",
     "url": "https://github.com/braisdom/ObjectiveSql",
     "upvotes": 38,
     "author": "braisdom",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25170053"
+  },
+  {
+    "title": "Substack",
+    "url": "https://substack.com/jobs"
   },
   {
     "title": "Should I use SwiftUI in production? A code-to-code comparison to help you decide",
     "url": "https://triplebyte.com/blog/should-i-use-swiftui-in-production-heres-how-to-decide?ref=hnpost",
     "upvotes": 78,
     "author": "danielwbean",
-    "comments": 52,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=25171532"
   },
   {
     "title": "Guidance to developers affected by effort to block less secure browsers, apps",
     "url": "https://developers.googleblog.com/2020/08/guidance-for-our-effort-to-block-less-secure-browser-and-apps.html",
-    "upvotes": 147,
+    "upvotes": 150,
     "author": "mattmein",
-    "comments": 149,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=25172755"
   }
 ]
