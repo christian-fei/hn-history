@@ -2,23 +2,31 @@
   {
     "title": "WTF Happened in 1971?",
     "url": "https://wtfhappenedin1971.com/",
-    "upvotes": 261,
+    "upvotes": 348,
     "author": "dgudkov",
-    "comments": 120,
+    "comments": 171,
     "link": "https://news.ycombinator.com/item?id=25188457"
   },
   {
     "title": "The Nintendo Switch uses my open source code",
     "url": "https://twitter.com/feross/status/1330582600813924352",
-    "upvotes": 227,
+    "upvotes": 238,
     "author": "danso",
-    "comments": 133,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=25186890"
+  },
+  {
+    "title": "Another free CA as an alternative to Let's Encrypt",
+    "url": "https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/",
+    "upvotes": 41,
+    "author": "c0r0n3r",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25188614"
   },
   {
     "title": "DevTerm - An Open Source Portable Terminal for Every Dev",
     "url": "https://www.clockworkpi.com/",
-    "upvotes": 290,
+    "upvotes": 295,
     "author": "cocoflunchy",
     "comments": 103,
     "link": "https://news.ycombinator.com/item?id=25185842"
@@ -26,26 +34,26 @@
   {
     "title": "Solomon Islands set to ban Facebook in the name of 'national unity'",
     "url": "https://www.abc.net.au/news/2020-11-23/solomon-islands-set-to-ban-facebook-for-sake-of-national-unity/12910786",
-    "upvotes": 321,
+    "upvotes": 349,
     "author": "hentrep",
-    "comments": 138,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=25186763"
-  },
-  {
-    "title": "Show HN: Django refactoring game – can you fix all the Models anti-patterns?",
-    "url": "https://django.doctor/challenge",
-    "upvotes": 52,
-    "author": "rikatee",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=25187507"
   },
   {
     "title": "Getting Started with Firecracker on Raspberry Pi",
     "url": "https://dev.l1x.be/posts/2020/11/22/getting-started-with-firecracker-on-raspberry-pi/",
-    "upvotes": 24,
+    "upvotes": 30,
     "author": "sairamkunala",
-    "comments": 3,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25187965"
+  },
+  {
+    "title": "Selling to unicorns from my parents basement",
+    "url": "https://www.themvpsprint.com/p/selling-to-unicorns-from-my-parents",
+    "upvotes": 15,
+    "author": "timjones",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25188716"
   },
   {
     "title": "Flexport plans to hire 250 engineers in 2021",
@@ -54,111 +62,119 @@
   {
     "title": "What it’s like inside your plane’s hidden ‘crew rest’",
     "url": "https://thepointsguy.co.uk/news/secret-crew-rest/",
-    "upvotes": 112,
+    "upvotes": 116,
     "author": "CapitalistCartr",
-    "comments": 55,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=25186030"
   },
   {
-    "title": "Another free CA as an alternative to Let's Encrypt",
-    "url": "https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/",
-    "upvotes": 11,
-    "author": "c0r0n3r",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25188614"
-  },
-  {
-    "title": "Selling to unicorns from my parents basement",
-    "url": "https://www.themvpsprint.com/p/selling-to-unicorns-from-my-parents",
-    "upvotes": 7,
-    "author": "timjones",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25188716"
-  },
-  {
-    "title": "The Tech Stack of a One-Man SaaS",
-    "url": "https://panelbear.com/blog/tech-stack/",
-    "upvotes": 164,
-    "author": "amzans",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=25186342"
-  },
-  {
-    "title": "Venture Capitalists Are Deforming Capitalism",
-    "url": "https://www.newyorker.com/magazine/2020/11/30/how-venture-capitalists-are-deforming-capitalism",
-    "upvotes": 51,
-    "author": "aarghh",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=25186072"
-  },
-  {
-    "title": "Ad block and you don't stop",
-    "url": "https://vicki.substack.com/p/ad-block-and-you-dont-stop",
-    "upvotes": 8,
-    "author": "cjlm",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25188516"
+    "title": "Show HN: Django refactoring game – can you fix all the Models anti-patterns?",
+    "url": "https://django.doctor/challenge",
+    "upvotes": 60,
+    "author": "rikatee",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=25187507"
   },
   {
     "title": "Changed-block tracking and differential backups in QEMU",
     "url": "https://lwn.net/SubscriberLink/837053/1a4a7fb108cfb870/",
-    "upvotes": 3,
+    "upvotes": 6,
     "author": "srijan4",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25189078"
   },
   {
-    "title": "Bluetooth Attack Can Steal a Tesla Model X in Minutes",
-    "url": "https://www.wired.com/story/tesla-model-x-hack-bluetooth/#:~:text=But%20one%20security%20researcher%20has,just%20a%20matter%20of%20minutes.",
-    "upvotes": 107,
-    "author": "dgyesbreghs",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=25187170"
+    "title": "The Tech Stack of a One-Man SaaS",
+    "url": "https://panelbear.com/blog/tech-stack/",
+    "upvotes": 179,
+    "author": "amzans",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=25186342"
   },
   {
-    "title": "Local Network Captive Portal Chat with OpenWRT",
-    "url": "https://snayss.medium.com/local-network-chat-with-openwrt-736dfb48a400",
-    "upvotes": 9,
-    "author": "snayss",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25188055"
-  },
-  {
-    "title": "Oxford University breakthrough on global COVID-19 vaccine",
-    "url": "https://www.ox.ac.uk/news/2020-11-23-oxford-university-breakthrough-global-covid-19-vaccine",
-    "upvotes": 502,
-    "author": "mychaelangelo",
-    "comments": 457,
-    "link": "https://news.ycombinator.com/item?id=25184331"
-  },
-  {
-    "title": "Iconic Star Wars Book Author Claims Disney Owes Him 4 Years of Overdue Royalties",
-    "url": "https://movieweb.com/star-wars-books-alan-dean-foster-disney-royalties/",
-    "upvotes": 37,
-    "author": "Flamingo94",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25188493"
-  },
-  {
-    "title": "Ethics in Strategy Gaming, Part 1: Panzer General",
-    "url": "https://www.filfre.net/2020/11/ethics-in-strategy-gaming-part-1-panzer-general/",
-    "upvotes": 48,
-    "author": "doppp",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=25184652"
+    "title": "Ad block and you don't stop",
+    "url": "https://vicki.substack.com/p/ad-block-and-you-dont-stop",
+    "upvotes": 18,
+    "author": "cjlm",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25188516"
   },
   {
     "title": "Upgrade your Raspberry Pi 4 with a NVMe boot drive",
     "url": "https://alexellisuk.medium.com/upgrade-your-raspberry-pi-4-with-a-nvme-boot-drive-d9ab4e8aa3c2",
-    "upvotes": 4,
+    "upvotes": 13,
     "author": "alexellisuk",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25185134"
   },
   {
+    "title": "Venture Capitalists Are Deforming Capitalism",
+    "url": "https://www.newyorker.com/magazine/2020/11/30/how-venture-capitalists-are-deforming-capitalism",
+    "upvotes": 68,
+    "author": "aarghh",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=25186072"
+  },
+  {
+    "title": "Ian Fleming Explains How to Write a Thriller",
+    "url": "https://lithub.com/ian-fleming-explains-how-to-write-a-thriller/",
+    "upvotes": 20,
+    "author": "benbreen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25181256"
+  },
+  {
+    "title": "Bluetooth Attack Can Steal a Tesla Model X in Minutes",
+    "url": "https://www.wired.com/story/tesla-model-x-hack-bluetooth/#:~:text=But%20one%20security%20researcher%20has,just%20a%20matter%20of%20minutes.",
+    "upvotes": 115,
+    "author": "dgyesbreghs",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=25187170"
+  },
+  {
+    "title": "Oxford University breakthrough on global COVID-19 vaccine",
+    "url": "https://www.ox.ac.uk/news/2020-11-23-oxford-university-breakthrough-global-covid-19-vaccine",
+    "upvotes": 508,
+    "author": "mychaelangelo",
+    "comments": 461,
+    "link": "https://news.ycombinator.com/item?id=25184331"
+  },
+  {
+    "title": "Local Network Captive Portal Chat with OpenWRT",
+    "url": "https://snayss.medium.com/local-network-chat-with-openwrt-736dfb48a400",
+    "upvotes": 11,
+    "author": "snayss",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25188055"
+  },
+  {
+    "title": "Iconic Star Wars Book Author Claims Disney Owes Him 4 Years of Overdue Royalties",
+    "url": "https://movieweb.com/star-wars-books-alan-dean-foster-disney-royalties/",
+    "upvotes": 48,
+    "author": "Flamingo94",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25188493"
+  },
+  {
+    "title": "Ethics in Strategy Gaming, Part 1: Panzer General",
+    "url": "https://www.filfre.net/2020/11/ethics-in-strategy-gaming-part-1-panzer-general/",
+    "upvotes": 49,
+    "author": "doppp",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=25184652"
+  },
+  {
+    "title": "Build a single or multi-room streamer for an existing audio device using a RPi",
+    "url": "https://github.com/balenalabs/balena-sound",
+    "upvotes": 4,
+    "author": "awiesenhofer",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25188496"
+  },
+  {
     "title": "Ask HN: How are you performing email flows on your early stage product?",
     "url": "item?id=25184071",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "bredren",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25184071"
@@ -166,73 +182,57 @@
   {
     "title": "Run Homebrew Natively on Apple Silicon Arm M1",
     "url": "https://github.com/mikelxc/Workarounds-for-ARM-mac",
-    "upvotes": 288,
+    "upvotes": 293,
     "author": "soheil",
-    "comments": 131,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=25183120"
-  },
-  {
-    "title": "Ian Fleming Explains How to Write a Thriller",
-    "url": "https://lithub.com/ian-fleming-explains-how-to-write-a-thriller/",
-    "upvotes": 16,
-    "author": "benbreen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25181256"
   },
   {
     "title": "Play: Statically typed Forth, compiled to WASM",
     "url": "https://www.play-lang.dev",
-    "upvotes": 64,
+    "upvotes": 70,
     "author": "Skinney",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25185584"
   },
   {
     "title": "Use Netlify Functions and the Twitter API v2 as a CMS for Your Gatsby Blog",
     "url": "https://paulie.dev/posts/2020/11/gatsby-netlify-twitter/",
-    "upvotes": 44,
+    "upvotes": 45,
     "author": "pauliescanlon",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25186006"
   },
   {
-    "title": "IoT Unravelled Part 1: It's a Mess but Then There's Home Assistant",
-    "url": "https://www.troyhunt.com/iot-unravelled-part-1-its-a-mess-but-then-theres-home-assistant/",
-    "upvotes": 235,
-    "author": "input_sh",
-    "comments": 157,
-    "link": "https://news.ycombinator.com/item?id=25184763"
+    "title": "Why a Paid Newsletter Won’t Be Enough Money for Most Writers",
+    "url": "https://hunterwalk.medium.com/why-a-paid-newsletter-wont-be-enough-money-for-most-writers-and-that-s-fine-the-multi-sku-f41daa074cdb",
+    "upvotes": 3,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25188558"
   },
   {
     "title": "Booting from a vinyl record",
     "url": "http://boginjr.com/it/sw/dev/vinyl-boot/",
-    "upvotes": 908,
+    "upvotes": 911,
     "author": "ruik",
-    "comments": 148,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=25177045"
   },
   {
     "title": "Testing for Divisibility by 19",
     "url": "https://blog.plover.com/math/divisibility-by-19.html",
-    "upvotes": 67,
+    "upvotes": 68,
     "author": "weinzierl",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25184918"
   },
   {
-    "title": "Open-source paved the way for today’s remote software development processes",
-    "url": "https://increment.com/remote/committing-to-collaboration-version-control/",
-    "upvotes": 158,
-    "author": "1cvmask",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=25182979"
-  },
-  {
-    "title": "KFC restaurant that drives autonomously",
-    "url": "https://twitter.com/sascha_p/status/1330876014449352704",
-    "upvotes": 11,
-    "author": "ramboldio",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25188535"
+    "title": "IoT Unravelled Part 1: It's a Mess but Then There's Home Assistant",
+    "url": "https://www.troyhunt.com/iot-unravelled-part-1-its-a-mess-but-then-theres-home-assistant/",
+    "upvotes": 239,
+    "author": "input_sh",
+    "comments": 161,
+    "link": "https://news.ycombinator.com/item?id=25184763"
   }
 ]
