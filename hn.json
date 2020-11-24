@@ -2,23 +2,23 @@
   {
     "title": "Zoomquilt",
     "url": "https://zoomquilt.org/",
-    "upvotes": 577,
+    "upvotes": 583,
     "author": "xingyzt",
-    "comments": 102,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=25191802"
   },
   {
     "title": "Apple’s head of security indicted in Santa Clara County CCW case",
     "url": "https://morganhilltimes.com/apples-head-of-security-indicted-in-santa-clara-county-ccw-case/",
-    "upvotes": 382,
+    "upvotes": 388,
     "author": "spike021",
-    "comments": 651,
+    "comments": 654,
     "link": "https://news.ycombinator.com/item?id=25190668"
   },
   {
     "title": "Another free CA as an alternative to Let's Encrypt",
     "url": "https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/",
-    "upvotes": 545,
+    "upvotes": 550,
     "author": "c0r0n3r",
     "comments": 116,
     "link": "https://news.ycombinator.com/item?id=25188614"
@@ -26,47 +26,47 @@
   {
     "title": "Convolution Is Fancy Multiplication",
     "url": "https://betterexplained.com/articles/intuitive-convolution/",
-    "upvotes": 240,
+    "upvotes": 242,
     "author": "ubac",
     "comments": 69,
     "link": "https://news.ycombinator.com/item?id=25190770"
   },
   {
-    "title": "A new jailbreak for a new era",
-    "url": "https://theodyssey.dev/",
-    "upvotes": 183,
-    "author": "wallflower",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=25186423"
-  },
-  {
     "title": "TCP Performance problems related to Nagle’s Algorithm and Delayed ACK",
     "url": "http://www.stuartcheshire.org/papers/NagleDelayedAck/",
-    "upvotes": 10,
+    "upvotes": 13,
     "author": "lladnar",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25194988"
+  },
+  {
+    "title": "A new jailbreak for a new era",
+    "url": "https://theodyssey.dev/",
+    "upvotes": 186,
+    "author": "wallflower",
+    "comments": 151,
+    "link": "https://news.ycombinator.com/item?id=25186423"
   },
   {
     "title": "Walmart router, others on Amazon, eBay have hidden backdoors to control devices",
     "url": "https://cybernews.com/security/walmart-exclusive-routers-others-made-in-china-contain-backdoors-to-control-devices/",
-    "upvotes": 265,
+    "upvotes": 270,
     "author": "bmcn2020",
-    "comments": 183,
+    "comments": 184,
     "link": "https://news.ycombinator.com/item?id=25186843"
   },
   {
     "title": "First Responders Unprepared for Electric Vehicle Fires: Report",
     "url": "https://pittsburgh.legalexaminer.com/legal/first-responders-unprepared-for-electric-vehicle-fires-report/",
-    "upvotes": 99,
+    "upvotes": 101,
     "author": "DyslexicAtheist",
-    "comments": 55,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=25191873"
   },
   {
     "title": "“Microsoft Pluton Hardware Security Coming to Our CPUs”: AMD, Intel, Qualcomm",
     "url": "https://www.anandtech.com/show/16269/microsoft-pluton-hardware-security-coming-to-our-cpus-amd-intel-qualcomm",
-    "upvotes": 148,
+    "upvotes": 150,
     "author": "vanburen",
     "comments": 98,
     "link": "https://news.ycombinator.com/item?id=25191319"
@@ -74,47 +74,47 @@
   {
     "title": "I created an alternative to the YouTube algorithm to stop me wasting time",
     "url": "https://towardsdatascience.com/i-created-my-own-youtube-algorithm-to-stop-me-wasting-time-afd170f4ca3a",
-    "upvotes": 246,
+    "upvotes": 249,
     "author": "ChrisLovejoy",
-    "comments": 100,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=25187702"
-  },
-  {
-    "title": "VSCode memory leak issue marked “out-of-scope”",
-    "url": "https://github.com/microsoft/vscode/issues/107999",
-    "upvotes": 38,
-    "author": "hajile",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=25194916"
-  },
-  {
-    "title": "“To be safe allocate 5 bytes more than you need”",
-    "url": "https://twitter.com/rsnous/status/1330739037162782720",
-    "upvotes": 235,
-    "author": "luu",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=25183811"
   },
   {
     "title": "Reverse-Engineered GeoWrite 2.1 for C64 Source Code",
     "url": "https://www.pagetable.com/?p=1512",
-    "upvotes": 16,
+    "upvotes": 18,
     "author": "kencausey",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25187453"
   },
   {
+    "title": "“To be safe allocate 5 bytes more than you need”",
+    "url": "https://twitter.com/rsnous/status/1330739037162782720",
+    "upvotes": 237,
+    "author": "luu",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=25183811"
+  },
+  {
     "title": "IHP – A Haskell web framework",
     "url": "https://github.com/digitallyinduced/ihp",
-    "upvotes": 56,
+    "upvotes": 57,
     "author": "laobiz",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25184294"
+  },
+  {
+    "title": "VSCode memory leak issue marked “out-of-scope”",
+    "url": "https://github.com/microsoft/vscode/issues/107999",
+    "upvotes": 45,
+    "author": "hajile",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=25194916"
   },
   {
     "title": "On Small Games",
     "url": "https://lorenzo.itch.io/on-small-games",
-    "upvotes": 108,
+    "upvotes": 111,
     "author": "polm23",
     "comments": 48,
     "link": "https://news.ycombinator.com/item?id=25188542"
@@ -122,15 +122,23 @@
   {
     "title": "Psilocybin and migraine: First of its kind trial reports promising results",
     "url": "https://newatlas.com/health-wellbeing/psilocybin-migraine-psychedelic-clinical-trial-promising-results/",
-    "upvotes": 188,
+    "upvotes": 189,
     "author": "futureguy",
-    "comments": 81,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=25191871"
+  },
+  {
+    "title": "Detective Game Design Problems",
+    "url": "https://digitales.games/blog/detective-game-design-problems",
+    "upvotes": 26,
+    "author": "jsnell",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25185571"
   },
   {
     "title": "Raspberry Pi Webcam",
     "url": "https://github.com/geerlingguy/pi-webcam",
-    "upvotes": 105,
+    "upvotes": 106,
     "author": "geerlingguy",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25191646"
@@ -138,15 +146,15 @@
   {
     "title": "Upgrade Raspberry Pi 4 with a NVMe boot drive",
     "url": "https://alexellisuk.medium.com/upgrade-your-raspberry-pi-4-with-a-nvme-boot-drive-d9ab4e8aa3c2",
-    "upvotes": 128,
+    "upvotes": 130,
     "author": "alexellisuk",
-    "comments": 82,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=25185134"
   },
   {
     "title": "Guide to OOMKill Alerting in Kubernetes Clusters",
     "url": "https://www.netice9.com/blog/guide-to-oomkill-alerting-in-kubernetes-clusters",
-    "upvotes": 47,
+    "upvotes": 48,
     "author": "draganm",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25192733"
@@ -154,17 +162,21 @@
   {
     "title": "Cordless Project Closes Down",
     "url": "https://github.com/Bios-Marcel/cordless",
-    "upvotes": 48,
+    "upvotes": 52,
     "author": "brownbat",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25184751"
+  },
+  {
+    "title": "Jerry, Inc.",
+    "url": "https://apply.workable.com/jerry/j/8469CB700A/"
   },
   {
     "title": "Improving breast reconstruction surgery with a web-based survey",
     "url": "https://magnusbaringer.com/en/breasttest/en",
     "upvotes": 79,
     "author": "magnusbaringer",
-    "comments": 62,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=25169447"
   },
   {
@@ -176,13 +188,9 @@
     "link": "https://news.ycombinator.com/item?id=25189287"
   },
   {
-    "title": "Jerry, Inc.",
-    "url": "https://apply.workable.com/jerry/j/8469CB700A/"
-  },
-  {
     "title": "Further Thoughts on Flash at the Internet Archive",
     "url": "https://blog.archive.org/2020/11/22/flash-back-further-thoughts-on-flash-at-the-internet-archive/",
-    "upvotes": 46,
+    "upvotes": 47,
     "author": "ykat7",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25183891"
@@ -190,7 +198,7 @@
   {
     "title": "GNU Guix 1.2.0",
     "url": "https://guix.gnu.org/en/blog/2020/gnu-guix-1.2.0-released/",
-    "upvotes": 210,
+    "upvotes": 211,
     "author": "rekado",
     "comments": 143,
     "link": "https://news.ycombinator.com/item?id=25187576"
@@ -198,18 +206,26 @@
   {
     "title": "The Nintendo Switch uses my open source code",
     "url": "https://twitter.com/feross/status/1330582600813924352",
-    "upvotes": 482,
+    "upvotes": 484,
     "author": "danso",
-    "comments": 264,
+    "comments": 265,
     "link": "https://news.ycombinator.com/item?id=25186890"
   },
   {
     "title": "Could we reboot a modern civilization without fossil fuels?",
     "url": "https://aeon.co/essays/could-we-reboot-a-modern-civilisation-without-fossil-fuels",
-    "upvotes": 123,
+    "upvotes": 125,
     "author": "free0ne",
-    "comments": 167,
+    "comments": 168,
     "link": "https://news.ycombinator.com/item?id=25187100"
+  },
+  {
+    "title": "Someone Attacked Our Company",
+    "url": "https://usefathom.com/blog/ddos-attack?hn",
+    "upvotes": 36,
+    "author": "joshmanders",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=25194795"
   },
   {
     "title": "The Synchronicity of Pauli and Jung",
@@ -218,21 +234,5 @@
     "author": "dnetesn",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25169100"
-  },
-  {
-    "title": "Getting Started with Firecracker on Raspberry Pi",
-    "url": "https://dev.l1x.be/posts/2020/11/22/getting-started-with-firecracker-on-raspberry-pi/",
-    "upvotes": 82,
-    "author": "sairamkunala",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=25187965"
-  },
-  {
-    "title": "Booting from a vinyl record",
-    "url": "http://boginjr.com/it/sw/dev/vinyl-boot/",
-    "upvotes": 934,
-    "author": "ruik",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=25177045"
   }
 ]
