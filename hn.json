@@ -1,64 +1,80 @@
 [
   {
-    "title": "MyNOR: Single Board Computer that uses a single NOR gate as it ALU",
+    "title": "MyNOR: Single board computer that uses a single NOR gate as its ALU",
     "url": "http://www.mynor.org/",
-    "upvotes": 27,
+    "upvotes": 35,
     "author": "sohkamyung",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25195982"
   },
   {
     "title": "Zoomquilt",
     "url": "https://zoomquilt.org/",
-    "upvotes": 700,
+    "upvotes": 708,
     "author": "xingyzt",
-    "comments": 111,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=25191802"
   },
   {
     "title": "Apple’s head of security indicted in Santa Clara County CCW case",
     "url": "https://morganhilltimes.com/apples-head-of-security-indicted-in-santa-clara-county-ccw-case/",
-    "upvotes": 481,
+    "upvotes": 485,
     "author": "spike021",
-    "comments": 741,
+    "comments": 745,
     "link": "https://news.ycombinator.com/item?id=25190668"
+  },
+  {
+    "title": "IoT Unravelled Part 2: IP Addresses, Network, Zigbee, Custom Firmware, Soldering",
+    "url": "https://www.troyhunt.com/iot-unravelled-part-2-ip-addresses-network-zigbee-custom-firmware-and-soldering/",
+    "upvotes": 5,
+    "author": "ykat7",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25196357"
   },
   {
     "title": "TCP Performance problems related to Nagle’s Algorithm and Delayed ACK",
     "url": "http://www.stuartcheshire.org/papers/NagleDelayedAck/",
-    "upvotes": 66,
+    "upvotes": 68,
     "author": "lladnar",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25194988"
   },
   {
     "title": "Verilog to Minecraft Redstone Synthesizer",
     "url": "https://github.com/itsFrank/MinecraftHDL",
-    "upvotes": 22,
+    "upvotes": 29,
     "author": "parkertomatoes",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25195802"
   },
   {
     "title": "Convolution Is Fancy Multiplication",
     "url": "https://betterexplained.com/articles/intuitive-convolution/",
-    "upvotes": 308,
+    "upvotes": 313,
     "author": "ubac",
-    "comments": 82,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=25190770"
   },
   {
     "title": "A new jailbreak for a new era",
     "url": "https://theodyssey.dev/",
-    "upvotes": 226,
+    "upvotes": 230,
     "author": "wallflower",
-    "comments": 194,
+    "comments": 196,
     "link": "https://news.ycombinator.com/item?id=25186423"
+  },
+  {
+    "title": "Engels: The Communist as Hedonist",
+    "url": "https://isi.org/modern-age/engels-the-communist-as-hedonist/",
+    "upvotes": 36,
+    "author": "one-possibility",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=25191805"
   },
   {
     "title": "“Microsoft Pluton Hardware Security Coming to Our CPUs”: AMD, Intel, Qualcomm",
     "url": "https://www.anandtech.com/show/16269/microsoft-pluton-hardware-security-coming-to-our-cpus-amd-intel-qualcomm",
-    "upvotes": 183,
+    "upvotes": 185,
     "author": "vanburen",
     "comments": 116,
     "link": "https://news.ycombinator.com/item?id=25191319"
@@ -68,17 +84,9 @@
     "url": "https://airtable.com/shrhv1yYtcMtPskra"
   },
   {
-    "title": "Engels: The Communist as Hedonist",
-    "url": "https://isi.org/modern-age/engels-the-communist-as-hedonist/",
-    "upvotes": 32,
-    "author": "one-possibility",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=25191805"
-  },
-  {
     "title": "First Responders Unprepared for Electric Vehicle Fires: Report",
     "url": "https://pittsburgh.legalexaminer.com/legal/first-responders-unprepared-for-electric-vehicle-fires-report/",
-    "upvotes": 117,
+    "upvotes": 120,
     "author": "DyslexicAtheist",
     "comments": 66,
     "link": "https://news.ycombinator.com/item?id=25191873"
@@ -92,68 +100,52 @@
     "link": "https://news.ycombinator.com/item?id=25187453"
   },
   {
-    "title": "I created an alternative to the YouTube algorithm to stop me wasting time",
-    "url": "https://towardsdatascience.com/i-created-my-own-youtube-algorithm-to-stop-me-wasting-time-afd170f4ca3a",
-    "upvotes": 286,
-    "author": "ChrisLovejoy",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=25187702"
-  },
-  {
-    "title": "IHP – A Haskell web framework",
-    "url": "https://github.com/digitallyinduced/ihp",
-    "upvotes": 84,
-    "author": "laobiz",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=25184294"
-  },
-  {
     "title": "On Small Games",
     "url": "https://lorenzo.itch.io/on-small-games",
-    "upvotes": 145,
+    "upvotes": 149,
     "author": "polm23",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=25188542"
   },
   {
-    "title": "Ethereum 2.0 is a go – minimum deposit reached",
-    "url": "https://launchpad.ethereum.org/",
-    "upvotes": 54,
-    "author": "leesalminen",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=25194615"
+    "title": "IHP – A Haskell web framework",
+    "url": "https://github.com/digitallyinduced/ihp",
+    "upvotes": 87,
+    "author": "laobiz",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=25184294"
   },
   {
     "title": "Another free CA as an alternative to Let's Encrypt",
     "url": "https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/",
-    "upvotes": 623,
+    "upvotes": 626,
     "author": "c0r0n3r",
     "comments": 120,
     "link": "https://news.ycombinator.com/item?id=25188614"
   },
   {
-    "title": "“To be safe allocate 5 bytes more than you need”",
-    "url": "https://twitter.com/rsnous/status/1330739037162782720",
-    "upvotes": 260,
-    "author": "luu",
-    "comments": 137,
-    "link": "https://news.ycombinator.com/item?id=25183811"
+    "title": "Raspberry Pi Webcam",
+    "url": "https://github.com/geerlingguy/pi-webcam",
+    "upvotes": 130,
+    "author": "geerlingguy",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=25191646"
+  },
+  {
+    "title": "Pinecil: Portable USB-C RISC-V soldering iron",
+    "url": "https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/",
+    "upvotes": 20,
+    "author": "redfast00",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=25194796"
   },
   {
     "title": "SciNote Electronic Lab Notebook",
     "url": "https://www.scinote.net/",
     "upvotes": 7,
     "author": "lzupancic",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25184808"
-  },
-  {
-    "title": "Raspberry Pi Webcam",
-    "url": "https://github.com/geerlingguy/pi-webcam",
-    "upvotes": 128,
-    "author": "geerlingguy",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=25191646"
   },
   {
     "title": "What Time Feels Like When You’re Improvising",
@@ -164,25 +156,25 @@
     "link": "https://news.ycombinator.com/item?id=25186080"
   },
   {
-    "title": "Pinecil: Portable USB-C RISC-V soldering iron",
-    "url": "https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/",
-    "upvotes": 18,
-    "author": "redfast00",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25194796"
+    "title": "Marc Geiger helped create Lollapalooza, now he wants to save live music",
+    "url": "https://www.nytimes.com/2020/10/28/arts/music/marc-geiger-savelive-venues.html",
+    "upvotes": 4,
+    "author": "CapitalistCartr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25185245"
   },
   {
     "title": "Psilocybin and migraine: First of its kind trial reports promising results",
     "url": "https://newatlas.com/health-wellbeing/psilocybin-migraine-psychedelic-clinical-trial-promising-results/",
     "upvotes": 203,
     "author": "futureguy",
-    "comments": 91,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=25191871"
   },
   {
     "title": "Cordless Project Closes Down",
     "url": "https://github.com/Bios-Marcel/cordless",
-    "upvotes": 83,
+    "upvotes": 84,
     "author": "brownbat",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25184751"
@@ -192,7 +184,7 @@
     "url": "https://magnusbaringer.com/en/breasttest/en",
     "upvotes": 95,
     "author": "magnusbaringer",
-    "comments": 65,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=25169447"
   },
   {
@@ -200,7 +192,7 @@
     "url": "https://www.netice9.com/blog/guide-to-oomkill-alerting-in-kubernetes-clusters",
     "upvotes": 57,
     "author": "draganm",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25192733"
   },
   {
@@ -212,27 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=25183891"
   },
   {
-    "title": "Misfit Tractors a Money Saver for Arkansas Farmer",
-    "url": "https://www.agweb.com/article/misfit-tractors-money-saver-arkansas-farmer",
-    "upvotes": 111,
-    "author": "jelliclesfarm",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=25189287"
+    "title": "Why is day of the month 1-indexed but the month is 0-indexed in C?",
+    "url": "https://twitter.com/hillelogram/status/1329228419628998665",
+    "upvotes": 54,
+    "author": "azhenley",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=25195287"
+  },
+  {
+    "title": "Walmart router, others on Amazon, eBay have hidden backdoors to control devices",
+    "url": "https://cybernews.com/security/walmart-exclusive-routers-others-made-in-china-contain-backdoors-to-control-devices/",
+    "upvotes": 298,
+    "author": "bmcn2020",
+    "comments": 204,
+    "link": "https://news.ycombinator.com/item?id=25186843"
   },
   {
     "title": "DOM recording for web application demos",
     "url": "https://robert.ocallahan.org/2020/11/dom-recording-for-web-application-demos.html",
-    "upvotes": 41,
+    "upvotes": 43,
     "author": "modeless",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25195454"
   },
   {
-    "title": "GNU Guix 1.2.0",
-    "url": "https://guix.gnu.org/en/blog/2020/gnu-guix-1.2.0-released/",
-    "upvotes": 223,
-    "author": "rekado",
-    "comments": 163,
-    "link": "https://news.ycombinator.com/item?id=25187576"
+    "title": "Booting from a vinyl record",
+    "url": "http://boginjr.com/it/sw/dev/vinyl-boot/",
+    "upvotes": 939,
+    "author": "ruik",
+    "comments": 153,
+    "link": "https://news.ycombinator.com/item?id=25177045"
   }
 ]
