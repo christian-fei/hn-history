@@ -2,66 +2,66 @@
   {
     "title": "Why AWS loves Rust, and how we’d like to help",
     "url": "https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help/",
-    "upvotes": 158,
+    "upvotes": 195,
     "author": "carllerche",
-    "comments": 55,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=25200324"
   },
   {
     "title": "Metal monolith found by helicopter crew in Utah desert",
     "url": "https://www.bbc.co.uk/news/world-us-canada-55056570",
-    "upvotes": 353,
+    "upvotes": 366,
     "author": "m1",
-    "comments": 210,
+    "comments": 220,
     "link": "https://news.ycombinator.com/item?id=25199216"
   },
   {
     "title": "Tips for Performant TypeScript",
     "url": "https://github.com/microsoft/TypeScript/wiki/Performance",
-    "upvotes": 98,
+    "upvotes": 105,
     "author": "nkjoep",
-    "comments": 57,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=25199070"
   },
   {
     "title": "What was it like to be a software engineer at NeXT?",
     "url": "https://www.quora.com/What-was-it-like-to-be-a-software-engineer-at-NeXT-Did-workers-interact-with-Steve-Jobs?share=1",
-    "upvotes": 233,
+    "upvotes": 242,
     "author": "Austin_Conlon",
-    "comments": 78,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=25197890"
-  },
-  {
-    "title": "How to use Reddit to get your first users",
-    "url": "https://blog.spreadtheworld.net/posts/get-first-users-reddit/",
-    "upvotes": 105,
-    "author": "xavier_",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=25198280"
-  },
-  {
-    "title": "The New York Public Library’s Last, Secret Apartments",
-    "url": "https://www.atlasobscura.com/articles/inside-the-new-york-public-librarys-last-secret-apartments",
-    "upvotes": 134,
-    "author": "jason_slack",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=25198022"
   },
   {
     "title": "Aurora 7 Prototype – 7 Screen Laptop",
     "url": "https://expanscape.com/the-aurora-7-prototype/the-story-of-the-aurora-7/",
-    "upvotes": 72,
+    "upvotes": 76,
     "author": "882542F3884314B",
-    "comments": 54,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=25199499"
+  },
+  {
+    "title": "The New York Public Library’s Last, Secret Apartments",
+    "url": "https://www.atlasobscura.com/articles/inside-the-new-york-public-librarys-last-secret-apartments",
+    "upvotes": 137,
+    "author": "jason_slack",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=25198022"
   },
   {
     "title": "Microsoft 365 has employee surveillance and analytics built in",
     "url": "https://twitter.com/WolfieChristl/status/1331221942850949121",
-    "upvotes": 384,
+    "upvotes": 404,
     "author": "ColinWright",
-    "comments": 186,
+    "comments": 191,
     "link": "https://news.ycombinator.com/item?id=25198713"
+  },
+  {
+    "title": "How to use Reddit to get your first users",
+    "url": "https://blog.spreadtheworld.net/posts/get-first-users-reddit/",
+    "upvotes": 112,
+    "author": "xavier_",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=25198280"
   },
   {
     "title": "Bitmovin",
@@ -70,7 +70,7 @@
   {
     "title": "FreeBSD Commands Cheat Sheet",
     "url": "https://github.com/sbz/freebsd-commands",
-    "upvotes": 147,
+    "upvotes": 149,
     "author": "vermaden",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25197509"
@@ -78,31 +78,39 @@
   {
     "title": "On the bonkers color palette of Garfield comics",
     "url": "http://wondermark.com/garfield-color/",
-    "upvotes": 237,
+    "upvotes": 240,
     "author": "zdw",
-    "comments": 76,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=25188207"
-  },
-  {
-    "title": "No surprises here – On the absence of information in today’s media",
-    "url": "https://www.turningchaos.com/essays/no-surprises-here",
-    "upvotes": 9,
-    "author": "s3v",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25200732"
   },
   {
     "title": "My EOY Reflection Checklist",
     "url": "https://boringstartupstuff.com/newsletter/nov-24th-2020-finish-the-year-strong",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "opsgal",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25199785"
   },
   {
+    "title": "No surprises here – On the absence of information in today’s media",
+    "url": "https://www.turningchaos.com/essays/no-surprises-here",
+    "upvotes": 10,
+    "author": "s3v",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25200732"
+  },
+  {
+    "title": "Pam 1.5.0 has a auth bypass under some conditions",
+    "url": "https://www.openwall.com/lists/oss-security/2020/11/24/3",
+    "upvotes": 3,
+    "author": "0x0",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25201264"
+  },
+  {
     "title": "How do people find bugs?",
     "url": "https://cryptologie.net/article/511/how-do-people-find-bugs/",
-    "upvotes": 4,
+    "upvotes": 6,
     "author": "bitwizzle",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25200893"
@@ -110,66 +118,74 @@
   {
     "title": "MyNOR: Single board computer that uses a single NOR gate as its ALU",
     "url": "http://www.mynor.org/",
-    "upvotes": 188,
+    "upvotes": 189,
     "author": "sohkamyung",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=25195982"
   },
   {
-    "title": "Viewable with Any Browser Campaign",
-    "url": "https://anybrowser.org/campaign/",
-    "upvotes": 18,
-    "author": "userbinator",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25174014"
-  },
-  {
     "title": "Comparing iPhone OS 1.0 with iOS 14 using tree maps",
     "url": "https://blog.timac.org/2020/1122-comparing-iphone-os-with-ios-14-using-tree-maps/",
-    "upvotes": 125,
+    "upvotes": 132,
     "author": "yankcrime",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25196720"
   },
   {
-    "title": "Ask HN: How to effectively communicate results of my work to non-engineers?",
-    "url": "item?id=25185619",
-    "upvotes": 92,
-    "author": "jacek",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=25185619"
+    "title": "A 4-Month Online Dating Experiment Using 10 Fictional Singletons",
+    "url": "https://jonmillward.com/blog/attraction-dating/cupid-on-trial-a-4-month-online-dating-experiment/",
+    "upvotes": 16,
+    "author": "luu",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25194890"
   },
   {
     "title": "You might not need machine learning",
     "url": "https://nullprogram.com/blog/2020/11/24/",
-    "upvotes": 357,
+    "upvotes": 362,
     "author": "chmaynard",
-    "comments": 142,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=25196574"
+  },
+  {
+    "title": "Ask HN: How to effectively communicate results of my work to non-engineers?",
+    "url": "item?id=25185619",
+    "upvotes": 96,
+    "author": "jacek",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=25185619"
   },
   {
     "title": "Is carbon capture a viable solution?",
     "url": "https://www.thedetechtor.com/post/carbon-capture-usage-and-storage-the-solution-to-the-climate-crisis",
-    "upvotes": 91,
+    "upvotes": 92,
     "author": "scottbucks",
-    "comments": 234,
+    "comments": 242,
     "link": "https://news.ycombinator.com/item?id=25196633"
   },
   {
-    "title": "Demystifying the second law of thermodynamics",
-    "url": "https://erischel.com/demystifying-the-second-law-of-thermodynamics/",
-    "upvotes": 20,
-    "author": "akakievich",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25191832"
+    "title": "Viewable with Any Browser Campaign",
+    "url": "https://anybrowser.org/campaign/",
+    "upvotes": 19,
+    "author": "userbinator",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25174014"
   },
   {
     "title": "Ask HN: Where are the Beautiful clean HTML/CSS templates?",
     "url": "item?id=25200702",
-    "upvotes": 13,
+    "upvotes": 20,
     "author": "magicseth",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25200702"
+  },
+  {
+    "title": "Demystifying the second law of thermodynamics",
+    "url": "https://erischel.com/demystifying-the-second-law-of-thermodynamics/",
+    "upvotes": 22,
+    "author": "akakievich",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25191832"
   },
   {
     "title": "Verilog to Minecraft Redstone Synthesizer",
@@ -182,15 +198,15 @@
   {
     "title": "Enterprise UX Design: Make me think",
     "url": "https://adamfard.com/blog/enterprise-ux",
-    "upvotes": 51,
+    "upvotes": 52,
     "author": "Dmytro_Trotsko",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25197041"
   },
   {
     "title": "Ask HN: Why do some timestamps on HN have a full stop at the end?",
     "url": "item?id=25197418",
-    "upvotes": 248,
+    "upvotes": 253,
     "author": "eznzt",
     "comments": 88,
     "link": "https://news.ycombinator.com/item?id=25197418"
@@ -198,7 +214,7 @@
   {
     "title": "Posting JSON with an HTML Form",
     "url": "https://systemoverlord.com/2016/08/24/posting-json-with-an-html-form.html",
-    "upvotes": 46,
+    "upvotes": 48,
     "author": "graderjs",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25197155"
@@ -206,33 +222,17 @@
   {
     "title": "Show HN: NotePlan 3 – Native",
     "url": "https://noteplan.co",
-    "upvotes": 25,
+    "upvotes": 27,
     "author": "EduardMe",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25198319"
   },
   {
     "title": "Amazon Sidewalk",
     "url": "https://www.amazon.com/gp/browse.html?node=21328123011",
-    "upvotes": 87,
+    "upvotes": 92,
     "author": "Lorin",
-    "comments": 86,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=25196521"
-  },
-  {
-    "title": "Making applications scalable with Load Balancing",
-    "url": "https://wtarreau.blogspot.com/2006/11/making-applications-scalable-with-load.html",
-    "upvotes": 19,
-    "author": "njsubedi",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25197956"
-  },
-  {
-    "title": "Oslo got pedestrian and cyclist deaths down to zero. Here’s how",
-    "url": "https://www.wired.co.uk/article/oslo-pedestrianisation",
-    "upvotes": 166,
-    "author": "ingve",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=25197102"
   }
 ]
