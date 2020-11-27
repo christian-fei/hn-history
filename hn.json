@@ -1,48 +1,56 @@
 [
   {
-    "title": "ReStuff",
-    "url": "http://restuff.jcs.org",
-    "upvotes": 62,
-    "author": "zdw",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25232990"
-  },
-  {
     "title": "Reveal.js: HTML presentation framework",
     "url": "https://revealjs.com/",
-    "upvotes": 28,
+    "upvotes": 37,
     "author": "lopespm",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25233136"
   },
   {
-    "title": "How to Think for Yourself",
-    "url": "http://paulgraham.com/think.html",
-    "upvotes": 742,
-    "author": "neilkakkar",
-    "comments": 634,
-    "link": "https://news.ycombinator.com/item?id=25227651"
+    "title": "ReStuff",
+    "url": "http://restuff.jcs.org",
+    "upvotes": 79,
+    "author": "zdw",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=25232990"
   },
   {
     "title": "British engineers develop process to turn moon dust into oxygen",
     "url": "https://www.bignewsnetwork.com/news/267100986/british-engineers-develop-process-to-turn-moon-dust-into-oxygen",
-    "upvotes": 21,
+    "upvotes": 37,
     "author": "kristianp",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25232968"
+  },
+  {
+    "title": "How to Think for Yourself",
+    "url": "http://paulgraham.com/think.html",
+    "upvotes": 750,
+    "author": "neilkakkar",
+    "comments": 642,
+    "link": "https://news.ycombinator.com/item?id=25227651"
   },
   {
     "title": "Show HN: Dungeon Map Doodler – A free to use D&D map maker",
     "url": "https://dungeonmapdoodler.com/index.html",
-    "upvotes": 51,
+    "upvotes": 58,
     "author": "toddr123",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25232290"
+  },
+  {
+    "title": "TLDR: Extreme Summarization of Scientific Documents",
+    "url": "https://arxiv.org/abs/2004.15011",
+    "upvotes": 20,
+    "author": "lopespm",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25232904"
   },
   {
     "title": "Blackrota: obfuscated backdoor written in Go",
     "url": "https://blog.netlab.360.com/blackrota-an-obfuscated-backdoor-written-in-go-en/",
-    "upvotes": 106,
+    "upvotes": 108,
     "author": "lsllc",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25230707"
@@ -50,23 +58,15 @@
   {
     "title": "I'm Peter Roberts, immigration attorney who does work for YC startups. AMA",
     "url": "item?id=25229672",
-    "upvotes": 135,
+    "upvotes": 136,
     "author": "proberts",
-    "comments": 231,
+    "comments": 233,
     "link": "https://news.ycombinator.com/item?id=25229672"
-  },
-  {
-    "title": "TLDR: Extreme Summarization of Scientific Documents",
-    "url": "https://arxiv.org/abs/2004.15011",
-    "upvotes": 15,
-    "author": "lopespm",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25232904"
   },
   {
     "title": "The Purpose of Writing",
     "url": "https://limitlesscuriosity.com/the-purpose-of-writing/",
-    "upvotes": 30,
+    "upvotes": 34,
     "author": "s3v",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25232512"
@@ -74,102 +74,126 @@
   {
     "title": "Warp Drive News",
     "url": "http://backreaction.blogspot.com/2020/11/warp-drive-news-seriously.html",
-    "upvotes": 130,
+    "upvotes": 133,
     "author": "mellosouls",
-    "comments": 97,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=25229677"
   },
   {
     "title": "Digital Tools I Wish Existed",
     "url": "https://jon.bo/posts/digital-tools/",
-    "upvotes": 192,
+    "upvotes": 196,
     "author": "todsacerdoti",
-    "comments": 78,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=25228089"
+  },
+  {
+    "title": "Windows for Arm on M1 Mac Successfully Virtualized",
+    "url": "https://www.macrumors.com/2020/11/27/developer-successfully-virtualizes-windows-on-m1/?ref=upstract.com",
+    "upvotes": 141,
+    "author": "marban",
+    "comments": 119,
+    "link": "https://news.ycombinator.com/item?id=25230697"
+  },
+  {
+    "title": "Show HN: 1000 GitHub Data Science projects, now executable in 1 click",
+    "url": "https://cloud.blobcity.com/#/ps/explore",
+    "upvotes": 81,
+    "author": "sanketsarang",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25229600"
   },
   {
     "title": "Unusual murder weapons in crime fiction",
     "url": "https://crimereads.com/the-most-unusual-murder-weapons-in-crime-fiction/",
     "upvotes": 30,
     "author": "fanf2",
-    "comments": 16,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25231962"
   },
   {
-    "title": "Show HN: 1000 GitHub Data Science projects, now executable in 1 click",
-    "url": "https://cloud.blobcity.com/#/ps/explore",
-    "upvotes": 80,
-    "author": "sanketsarang",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25229600"
-  },
-  {
-    "title": "Windows for Arm on M1 Mac Successfully Virtualized",
-    "url": "https://www.macrumors.com/2020/11/27/developer-successfully-virtualizes-windows-on-m1/?ref=upstract.com",
-    "upvotes": 134,
-    "author": "marban",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=25230697"
+    "title": "Greg LeMond’s New 26 LB. Carbon Fiber Ebike",
+    "url": "http://Lemond.com/prolog",
+    "upvotes": 99,
+    "author": "gjlemond",
+    "comments": 140,
+    "link": "https://news.ycombinator.com/item?id=25229754"
   },
   {
     "title": "Running Docker on Apple Silicon M1",
     "url": "https://finestructure.co/blog/2020/11/27/running-docker-on-apple-silicon-m1-follow-up",
-    "upvotes": 101,
+    "upvotes": 102,
     "author": "ingve",
     "comments": 118,
     "link": "https://news.ycombinator.com/item?id=25228786"
   },
   {
-    "title": "Connections by James Burke",
-    "url": "https://topdocumentaryfilms.com/james-burke-connections/",
-    "upvotes": 181,
-    "author": "graphcalculator",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=25218056"
-  },
-  {
-    "title": "Greg LeMond’s New 26 LB. Carbon Fiber Ebike",
-    "url": "http://Lemond.com/prolog",
-    "upvotes": 93,
-    "author": "gjlemond",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=25229754"
-  },
-  {
     "title": "Ontology, Graphs and Turtles",
     "url": "https://blog.owulveryck.info/2020/11/17/ontology-graphs-and-turtles-part-ii.html",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "dcu",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25219170"
+  },
+  {
+    "title": "Connections by James Burke",
+    "url": "https://topdocumentaryfilms.com/james-burke-connections/",
+    "upvotes": 183,
+    "author": "graphcalculator",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=25218056"
+  },
+  {
+    "title": "‘Tokenized’: Black Workers’ Struggles at Coinbase",
+    "url": "https://www.nytimes.com/2020/11/27/technology/coinbase-cryptocurrency-black-employees.html#click=https://t.co/akHbGxS2QL",
+    "upvotes": 227,
+    "author": "xwvvvvwx",
+    "comments": 161,
+    "link": "https://news.ycombinator.com/item?id=25229544"
   },
   {
     "title": "Substack",
     "url": "https://substack.com/jobs"
   },
   {
-    "title": "‘Tokenized’: Black Workers’ Struggles at Coinbase",
-    "url": "https://www.nytimes.com/2020/11/27/technology/coinbase-cryptocurrency-black-employees.html#click=https://t.co/akHbGxS2QL",
-    "upvotes": 211,
-    "author": "xwvvvvwx",
-    "comments": 146,
-    "link": "https://news.ycombinator.com/item?id=25229544"
-  },
-  {
     "title": "Hire people who give a shit",
     "url": "https://alexw.substack.com/p/hire",
-    "upvotes": 69,
+    "upvotes": 75,
     "author": "svrma",
-    "comments": 121,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=25229291"
   },
   {
     "title": "1.5 is the midpoint between 0 and infinity in Ruby",
     "url": "https://blog.peterzhu.ca/ruby-range-bsearch/",
-    "upvotes": 216,
+    "upvotes": 218,
     "author": "pimterry",
     "comments": 102,
     "link": "https://news.ycombinator.com/item?id=25226941"
+  },
+  {
+    "title": "R number for UK below 1 for first time since August",
+    "url": "https://www.bbc.co.uk/news/health-55105285",
+    "upvotes": 3,
+    "author": "jlokier",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25233233"
+  },
+  {
+    "title": "A few ways to make money in FOSS",
+    "url": "https://drewdevault.com/2020/11/20/A-few-ways-to-make-money-in-FOSS.html",
+    "upvotes": 45,
+    "author": "verdverm",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25232924"
+  },
+  {
+    "title": "Glucose metabolism responds to perceived sugar intake more than actual intake",
+    "url": "https://www.nature.com/articles/s41598-020-72501-w?mc_cid=2b33d59ff8&mc_eid=e358e73db6",
+    "upvotes": 191,
+    "author": "Glench",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=25229050"
   },
   {
     "title": "Lord of Misrule: Thomas Morton’s American Subversions",
@@ -180,59 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=25232465"
   },
   {
-    "title": "Glucose metabolism responds to perceived sugar intake more than actual intake",
-    "url": "https://www.nature.com/articles/s41598-020-72501-w?mc_cid=2b33d59ff8&mc_eid=e358e73db6",
-    "upvotes": 189,
-    "author": "Glench",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=25229050"
-  },
-  {
-    "title": "A few ways to make money in FOSS",
-    "url": "https://drewdevault.com/2020/11/20/A-few-ways-to-make-money-in-FOSS.html",
-    "upvotes": 39,
-    "author": "verdverm",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25232924"
-  },
-  {
     "title": "Bring back the ease of 80s and 90s personal computing",
     "url": "https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1",
-    "upvotes": 21,
+    "upvotes": 26,
     "author": "panic",
-    "comments": 6,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25232989"
   },
   {
     "title": "US agency investigating Tesla front suspension failures",
     "url": "https://abcnews.go.com/Technology/wireStory/us-agency-investigating-tesla-front-suspension-failures-74425830",
-    "upvotes": 48,
+    "upvotes": 51,
     "author": "xoxoy",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25232313"
   },
   {
+    "title": "Apple CPU tricks: memory reordering, JavaScript support, ref counting",
+    "url": "https://twitter.com/ErrataRob/status/1331735383193903104",
+    "upvotes": 5,
+    "author": "simonpure",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25233554"
+  },
+  {
     "title": "The Code It Yourself Manifesto",
     "url": "https://pestilenz.org/~ckeen/blog/posts/ciy-manifesto.html",
-    "upvotes": 56,
+    "upvotes": 57,
     "author": "rutenspitz",
-    "comments": 36,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25221840"
-  },
-  {
-    "title": "Rebuilding the Racket Compiler with Chez Scheme",
-    "url": "https://notamonadtutorial.com/rebuilding-the-racket-compiler-with-chez-scheme-210e23a69484",
-    "upvotes": 95,
-    "author": "AlexeyBrin",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=25228079"
-  },
-  {
-    "title": "CrateDB: Purpose-built to scale modern applications in a machine data world",
-    "url": "https://crate.io/",
-    "upvotes": 27,
-    "author": "lorenzfx",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25230039"
   }
 ]
