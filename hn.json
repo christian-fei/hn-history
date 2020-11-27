@@ -1,16 +1,16 @@
 [
   {
-    "title": "io_uring and eBPF Will Revolutionize Programming in Linux",
+    "title": "How io_uring and eBPF Will Revolutionize Programming in Linux",
     "url": "https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/",
-    "upvotes": 424,
+    "upvotes": 430,
     "author": "harporoeder",
-    "comments": 157,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=25222243"
   },
   {
     "title": "A look at Chang’e 5 telemetry",
     "url": "https://destevez.net/2020/11/a-look-at-change-5-telemetry/",
-    "upvotes": 41,
+    "upvotes": 42,
     "author": "kwk1",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25224446"
@@ -18,7 +18,7 @@
   {
     "title": "Leaf-cutter ants have rocky crystal armor, never before seen in insects",
     "url": "https://www.nationalgeographic.com/animals/2020/11/leaf-cutter-ants-have-strong-mineral-armor/",
-    "upvotes": 137,
+    "upvotes": 140,
     "author": "kul",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=25223180"
@@ -26,39 +26,47 @@
   {
     "title": "Modern storage is plenty fast, but the APIs are bad",
     "url": "https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a",
-    "upvotes": 399,
+    "upvotes": 401,
     "author": "harporoeder",
-    "comments": 143,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=25220892"
   },
   {
-    "title": "Due to a problem with AWS, many \"smart\" vacuums or doorbells will stop working",
-    "url": "https://eminetra.com.au/people-cant-vacuum-or-use-their-doorbell-because-amazons-cloud-servers-are-down/74505/",
-    "upvotes": 299,
-    "author": "benryon",
-    "comments": 203,
-    "link": "https://news.ycombinator.com/item?id=25224220"
+    "title": "Five Second Feedback",
+    "url": "https://critter.blog/2020/11/26/5-second-feedback/",
+    "upvotes": 11,
+    "author": "mcrittenden",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25221812"
   },
   {
     "title": "Ragya – Indian classical music played by time of the day",
     "url": "https://www.ragya.com/",
-    "upvotes": 202,
+    "upvotes": 203,
     "author": "kadal",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=25222370"
   },
   {
-    "title": "Five Second Feedback",
-    "url": "https://critter.blog/2020/11/26/5-second-feedback/",
-    "upvotes": 8,
-    "author": "mcrittenden",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25221812"
+    "title": "Due to a problem with AWS, many \"smart\" vacuums or doorbells will stop working",
+    "url": "https://eminetra.com.au/people-cant-vacuum-or-use-their-doorbell-because-amazons-cloud-servers-are-down/74505/",
+    "upvotes": 301,
+    "author": "benryon",
+    "comments": 206,
+    "link": "https://news.ycombinator.com/item?id=25224220"
+  },
+  {
+    "title": "Fucking, Austria changes name to Fugging",
+    "url": "https://www.theguardian.com/world/2020/nov/26/fugging-hell-tired-of-mockery-austrian-village-changes-name",
+    "upvotes": 98,
+    "author": "galonk",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=25223633"
   },
   {
     "title": "UVB-76",
     "url": "https://en.wikipedia.org/wiki/UVB-76",
-    "upvotes": 133,
+    "upvotes": 134,
     "author": "tintinnabula",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=25213713"
@@ -66,47 +74,55 @@
   {
     "title": "Psiloscoby: Psilocybin Brewed by Kombucha",
     "url": "https://invisible.college/project/psiloscoby",
-    "upvotes": 94,
+    "upvotes": 95,
     "author": "greyface-",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=25224721"
-  },
-  {
-    "title": "Readme Driven Development",
-    "url": "https://tom.preston-werner.com/2010/08/23/readme-driven-development.html",
-    "upvotes": 150,
-    "author": "pcr910303",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=25222601"
   },
   {
     "title": "Use `nproc` and not grep /proc/cpuinfo",
     "url": "https://www.flamingspork.com/blog/2020/11/25/why-you-should-use-nproc-and-not-grep-proc-cpuinfo/",
-    "upvotes": 73,
+    "upvotes": 75,
     "author": "harporoeder",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25213368"
   },
   {
+    "title": "Readme Driven Development",
+    "url": "https://tom.preston-werner.com/2010/08/23/readme-driven-development.html",
+    "upvotes": 153,
+    "author": "pcr910303",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=25222601"
+  },
+  {
+    "title": "66 Winning Lottery Tickets. $6.3M. What’s Up with Group’s Winning Streak?",
+    "url": "https://www.indystar.com/story/news/investigations/2020/11/11/group-recent-princeton-grads-winning-lotteries-across-u-s/6146979002/",
+    "upvotes": 3,
+    "author": "edot",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25225206"
+  },
+  {
     "title": "Thunderbird 78.x is great but has issues for advanced PGP users",
     "url": "https://www.sindastra.de/p/1583/dear-mozilla-why-thunderbird-78-x-is-both-great-and-awful-pgp/",
-    "upvotes": 16,
+    "upvotes": 18,
     "author": "djsumdog",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25224515"
   },
   {
     "title": "How to Load Fonts in a Way That Fights FOUT and Makes Lighthouse Happy",
     "url": "https://css-tricks.com/how-to-load-fonts-in-a-way-that-fights-fout-and-makes-lighthouse-happy/",
-    "upvotes": 15,
+    "upvotes": 16,
     "author": "blindm",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25221814"
   },
   {
     "title": "Bombadillo: a non-web browser",
     "url": "https://bombadillo.colorfield.space/",
-    "upvotes": 65,
+    "upvotes": 68,
     "author": "ykat7",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25223184"
@@ -122,43 +138,51 @@
   {
     "title": "Things I Don’t Know as of 2018",
     "url": "https://overreacted.io/things-i-dont-know-as-of-2018/",
-    "upvotes": 172,
+    "upvotes": 174,
     "author": "gurjeet",
     "comments": 79,
     "link": "https://news.ycombinator.com/item?id=25221238"
-  },
-  {
-    "title": "Music Production on Guix System",
-    "url": "https://guix.gnu.org/en/blog/2020/music-production-on-guix-system/",
-    "upvotes": 159,
-    "author": "rekado",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=25220696"
-  },
-  {
-    "title": "The Pasta King Trusted Us",
-    "url": "https://www.kqed.org/bayareabites/139616/the-pasta-king-trusted-us-on-our-honor",
-    "upvotes": 178,
-    "author": "severine",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=25221048"
   },
   {
     "title": "The Muse",
     "url": "https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence"
   },
   {
-    "title": "The Sparrow with Four Sexes",
+    "title": "The Pasta King Trusted Us",
+    "url": "https://www.kqed.org/bayareabites/139616/the-pasta-king-trusted-us-on-our-honor",
+    "upvotes": 180,
+    "author": "severine",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=25221048"
+  },
+  {
+    "title": "Music Production on Guix System",
+    "url": "https://guix.gnu.org/en/blog/2020/music-production-on-guix-system/",
+    "upvotes": 160,
+    "author": "rekado",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=25220696"
+  },
+  {
+    "title": "The sparrow with four sexes",
     "url": "https://www.nature.com/news/the-sparrow-with-four-sexes-1.21018",
-    "upvotes": 53,
+    "upvotes": 54,
     "author": "0DHm2CxO7Lb3",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25223127"
   },
   {
+    "title": "Pandoc for TeXnicians [pdf]",
+    "url": "https://tug.org/tug2020/preprints/MacFarlane-Keynote-slides.pdf",
+    "upvotes": 15,
+    "author": "marbu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25224579"
+  },
+  {
     "title": "I launched a paid community in one month",
     "url": "https://monicalent.com/paid-community-launch/",
-    "upvotes": 153,
+    "upvotes": 154,
     "author": "micropoet",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=25219924"
@@ -166,73 +190,49 @@
   {
     "title": "Parse, don’t type-check",
     "url": "https://neilmadden.blog/2020/11/25/parse-dont-type-check/",
-    "upvotes": 141,
+    "upvotes": 142,
     "author": "todsacerdoti",
     "comments": 98,
     "link": "https://news.ycombinator.com/item?id=25220139"
   },
   {
-    "title": "Pandoc for TeXnicians [pdf]",
-    "url": "https://tug.org/tug2020/preprints/MacFarlane-Keynote-slides.pdf",
-    "upvotes": 14,
-    "author": "marbu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25224579"
-  },
-  {
     "title": "Technical phone screen superforecasters",
     "url": "http://blog.interviewing.io/technical-phone-screen-superforecasters/",
-    "upvotes": 63,
+    "upvotes": 65,
     "author": "leeny",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=25213254"
   },
   {
-    "title": "Reconstructing the sound of WW1 artillery from counter-battery ranging systems",
+    "title": "Making a New World: Armistice Soundwave",
     "url": "https://codatocoda.com/blog/making-a-new-world-armistice-soundwave/",
-    "upvotes": 85,
+    "upvotes": 86,
     "author": "Osiris30",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25221096"
+  },
+  {
+    "title": "Metal for IntelliJ Platform",
+    "url": "https://blog.jetbrains.com/platform/2020/11/metal-for-intellij-platform/",
+    "upvotes": 75,
+    "author": "markdog12",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=25224250"
   },
   {
     "title": "The cost of fixed-line broadband in 206 countries",
     "url": "https://www.cable.co.uk/broadband/pricing/worldwide-comparison/",
     "upvotes": 51,
     "author": "giuliomagnifico",
-    "comments": 52,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=25221372"
-  },
-  {
-    "title": "Metal for IntelliJ Platform",
-    "url": "https://blog.jetbrains.com/platform/2020/11/metal-for-intellij-platform/",
-    "upvotes": 71,
-    "author": "markdog12",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=25224250"
-  },
-  {
-    "title": "Spatial computing could be the next big thing",
-    "url": "https://www.scientificamerican.com/article/spatial-computing-could-be-the-next-big-thing/",
-    "upvotes": 85,
-    "author": "bra-ket",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=25216621"
   },
   {
     "title": "The Neuroscience of Peripersonal Space",
     "url": "https://aeon.co/essays/where-is-the-dividing-line-between-you-and-the-world",
-    "upvotes": 20,
+    "upvotes": 21,
     "author": "Hooke",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25211145"
-  },
-  {
-    "title": "I spent eleven years working on this Line Rider track",
-    "url": "https://delu.medium.com/i-spent-11-years-working-on-this-line-rider-track-96742fc0b709",
-    "upvotes": 990,
-    "author": "todsacerdoti",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=25216499"
   }
 ]
