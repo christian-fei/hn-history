@@ -2,55 +2,55 @@
   {
     "title": "Tony Hsieh has died",
     "url": "https://www.yahoo.com/lifestyle/tony-hsieh-zappos-luminary-revolutionized-045239863.html",
-    "upvotes": 493,
+    "upvotes": 503,
     "author": "MrMcDowall",
-    "comments": 128,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=25235490"
   },
   {
     "title": "K6: Like unit testing, for performance",
     "url": "https://github.com/loadimpact/k6",
-    "upvotes": 179,
+    "upvotes": 186,
     "author": "feross",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=25234746"
+  },
+  {
+    "title": "Datasette-ripgrep: a regular expression search engine for your source code",
+    "url": "https://simonwillison.net/2020/Nov/28/datasette-ripgrep/",
+    "upvotes": 11,
+    "author": "tosh",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25236636"
   },
   {
     "title": "Goodbye PowerDns",
     "url": "https://blog.powerdns.com/2020/11/27/goodbye-dns-goodbye-powerdns/",
-    "upvotes": 42,
+    "upvotes": 46,
     "author": "jpswade",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25235853"
   },
   {
     "title": "The Unix Command Language",
     "url": "https://github.com/susam/tucl",
-    "upvotes": 68,
+    "upvotes": 73,
     "author": "susam",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25235450"
-  },
-  {
-    "title": "Datasette-ripgrep: a regular expression search engine for your source code",
-    "url": "https://simonwillison.net/2020/Nov/28/datasette-ripgrep/",
-    "upvotes": 8,
-    "author": "tosh",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25236636"
   },
   {
     "title": "Reveal.js: HTML presentation framework",
     "url": "https://revealjs.com/",
-    "upvotes": 306,
+    "upvotes": 308,
     "author": "lopespm",
-    "comments": 84,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=25233136"
   },
   {
     "title": "Mishima in the Twenty First Century",
     "url": "http://www.petertasker.asia/articles/mishima-in-the-twenty-first-century/",
-    "upvotes": 10,
+    "upvotes": 16,
     "author": "overwhelm",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25232488"
@@ -58,34 +58,26 @@
   {
     "title": "Life on the inside as a ‘locked-in’ patient",
     "url": "https://www.theguardian.com/news/2020/nov/26/life-on-the-inside-as-a-locked-in-patient-jake-haendel-leukoencephalopathy",
-    "upvotes": 69,
+    "upvotes": 73,
     "author": "collate",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25232502"
   },
   {
     "title": "AWS hires Rust compiler team co-lead Felix Klock",
     "url": "https://www.theregister.com/2020/11/27/aws_hires_rust_compiler_team/",
-    "upvotes": 80,
+    "upvotes": 85,
     "author": "ducaale",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25235941"
   },
   {
     "title": "R number for UK below 1 for first time since August",
     "url": "https://www.bbc.co.uk/news/health-55105285",
-    "upvotes": 111,
+    "upvotes": 112,
     "author": "jlokier",
-    "comments": 178,
+    "comments": 182,
     "link": "https://news.ycombinator.com/item?id=25233233"
-  },
-  {
-    "title": "TLDR: Extreme Summarization of Scientific Documents",
-    "url": "https://arxiv.org/abs/2004.15011",
-    "upvotes": 121,
-    "author": "lopespm",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=25232904"
   },
   {
     "title": "ReStuff",
@@ -96,61 +88,77 @@
     "link": "https://news.ycombinator.com/item?id=25232990"
   },
   {
-    "title": "How to Think for Yourself",
-    "url": "http://paulgraham.com/think.html",
-    "upvotes": 923,
-    "author": "neilkakkar",
-    "comments": 735,
-    "link": "https://news.ycombinator.com/item?id=25227651"
+    "title": "TLDR: Extreme Summarization of Scientific Documents",
+    "url": "https://arxiv.org/abs/2004.15011",
+    "upvotes": 124,
+    "author": "lopespm",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=25232904"
+  },
+  {
+    "title": "Just Solve the File Format Problem",
+    "url": "http://fileformats.archiveteam.org/",
+    "upvotes": 86,
+    "author": "pabs3",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=25234594"
   },
   {
     "title": "DeepSource",
     "url": "https://deepsource.io/jobs/director-marketing-us/"
   },
   {
+    "title": "How to Think for Yourself",
+    "url": "http://paulgraham.com/think.html",
+    "upvotes": 925,
+    "author": "neilkakkar",
+    "comments": 735,
+    "link": "https://news.ycombinator.com/item?id=25227651"
+  },
+  {
     "title": "Show HN: NFreezer – Encrypted-at-rest remote backup tool",
     "url": "https://github.com/josephernest/nfreezer",
-    "upvotes": 30,
+    "upvotes": 31,
     "author": "josephernest",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25231566"
-  },
-  {
-    "title": "Physicist creates N95-type respirators using cotton candy machine",
-    "url": "https://phys.org/news/2020-11-physicist-n95-type-respirators-cotton-candy.html",
-    "upvotes": 43,
-    "author": "helsinkiandrew",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25236026"
-  },
-  {
-    "title": "Just Solve the File Format Problem",
-    "url": "http://fileformats.archiveteam.org/",
-    "upvotes": 83,
-    "author": "pabs3",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=25234594"
   },
   {
     "title": "Tasmania declares itself 100 per cent powered by renewable electricity",
     "url": "https://reneweconomy.com.au/tasmania-declares-itself-100-per-cent-powered-by-renewable-electricity-25119/",
-    "upvotes": 153,
+    "upvotes": 157,
     "author": "toomuchtodo",
-    "comments": 77,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=25234144"
+  },
+  {
+    "title": "Physicist creates N95-type respirators using cotton candy machine",
+    "url": "https://phys.org/news/2020-11-physicist-n95-type-respirators-cotton-candy.html",
+    "upvotes": 45,
+    "author": "helsinkiandrew",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25236026"
   },
   {
     "title": "The Purpose of Writing",
     "url": "https://limitlesscuriosity.com/the-purpose-of-writing/",
-    "upvotes": 110,
+    "upvotes": 111,
     "author": "s3v",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25232512"
   },
   {
+    "title": "Nipkow Disk",
+    "url": "https://en.wikipedia.org/wiki/Nipkow_disk",
+    "upvotes": 14,
+    "author": "benbreen",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25224648"
+  },
+  {
     "title": "How to Live to the Full While Dying: The Diary of Alice James",
     "url": "https://www.brainpickings.org/2017/08/07/diary-of-alice-james-death/",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "samclemens",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25224830"
@@ -158,18 +166,26 @@
   {
     "title": "Apple CPU tricks: memory reordering, JavaScript support, ref counting",
     "url": "https://twitter.com/ErrataRob/status/1331735383193903104",
-    "upvotes": 213,
+    "upvotes": 217,
     "author": "simonpure",
-    "comments": 131,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=25233554"
   },
   {
-    "title": "Nipkow Disk",
-    "url": "https://en.wikipedia.org/wiki/Nipkow_disk",
-    "upvotes": 13,
-    "author": "benbreen",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25224648"
+    "title": "Summary of the Amazon Kinesis Event in the Northern Virginia",
+    "url": "https://aws.amazon.com/message/11201/",
+    "upvotes": 8,
+    "author": "codesparkle",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25236057"
+  },
+  {
+    "title": "RipTable – multi-threaded Python data analytics tools for numpy arrays/datasets",
+    "url": "https://github.com/rtosholdings/riptable",
+    "upvotes": 44,
+    "author": "aldanor",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25233953"
   },
   {
     "title": "Unusual murder weapons in crime fiction",
@@ -180,33 +196,17 @@
     "link": "https://news.ycombinator.com/item?id=25231962"
   },
   {
-    "title": "RipTable – multi-threaded Python data analytics tools for numpy arrays/datasets",
-    "url": "https://github.com/rtosholdings/riptable",
-    "upvotes": 42,
-    "author": "aldanor",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25233953"
-  },
-  {
     "title": "Bring back the ease of 80s and 90s personal computing",
     "url": "https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1",
-    "upvotes": 105,
+    "upvotes": 110,
     "author": "panic",
-    "comments": 149,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=25232989"
-  },
-  {
-    "title": "Summary of the Amazon Kinesis Event in the Northern Virginia",
-    "url": "https://aws.amazon.com/message/11201/",
-    "upvotes": 4,
-    "author": "codesparkle",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25236057"
   },
   {
     "title": "Deciphering Chopin’s shorthand in the posthumous Mazurka in F minor",
     "url": "https://www.claviercompanion.com/article-details/deciphering-chopin-s-shorthand-in-the-posthumous-mazurka-in-f-minor",
-    "upvotes": 28,
+    "upvotes": 30,
     "author": "spekcular",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25232460"
@@ -214,25 +214,25 @@
   {
     "title": "Ontology, Graphs and Turtles",
     "url": "https://blog.owulveryck.info/2020/11/17/ontology-graphs-and-turtles-part-ii.html",
-    "upvotes": 59,
+    "upvotes": 60,
     "author": "dcu",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25219170"
-  },
-  {
-    "title": "Verdigris: The Color of Oxidation, Statues, and Impermanence",
-    "url": "https://www.theparisreview.org/blog/2020/11/24/verdigris-the-color-of-oxidation-statues-and-impermanence/",
-    "upvotes": 3,
-    "author": "hoffmanesque",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25232480"
   },
   {
     "title": "British engineers develop process to turn moon dust into oxygen",
     "url": "https://www.bignewsnetwork.com/news/267100986/british-engineers-develop-process-to-turn-moon-dust-into-oxygen",
-    "upvotes": 119,
+    "upvotes": 122,
     "author": "kristianp",
-    "comments": 73,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=25232968"
+  },
+  {
+    "title": "Continuous Bernoulli distribution of Variational autoencoders",
+    "url": "https://github.com/meiyulee/continuous_Bernoulli",
+    "upvotes": 27,
+    "author": "meiyulee",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25219122"
   }
 ]
