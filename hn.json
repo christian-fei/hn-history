@@ -1,80 +1,88 @@
 [
   {
+    "title": "Tex – Use Elixir like a scripting language, across your system",
+    "url": "https://github.com/doawoo/tex",
+    "upvotes": 19,
+    "author": "striking",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25240708"
+  },
+  {
     "title": "Tony Hsieh has died",
     "url": "https://www.yahoo.com/lifestyle/tony-hsieh-zappos-luminary-revolutionized-045239863.html",
-    "upvotes": 1236,
+    "upvotes": 1283,
     "author": "MrMcDowall",
-    "comments": 243,
+    "comments": 247,
     "link": "https://news.ycombinator.com/item?id=25235490"
+  },
+  {
+    "title": "Second Swiss firm allegedly sold encrypted spying devices",
+    "url": "https://www.swissinfo.ch/eng/second-swiss-firm-allegedly-sold-encrypted-spying-devices/46186432",
+    "upvotes": 22,
+    "author": "secfirstmd",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25240179"
   },
   {
     "title": "New bike chain claims to be faster, more durable",
     "url": "https://cyclingtips.com/2020/11/new-motion-labs-dual-engagement-chain/",
-    "upvotes": 97,
+    "upvotes": 111,
     "author": "giuliomagnifico",
-    "comments": 97,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=25239728"
   },
   {
     "title": "Summary of the Amazon Kinesis Event in the Northern Virginia",
     "url": "https://aws.amazon.com/message/11201/",
-    "upvotes": 234,
+    "upvotes": 247,
     "author": "codesparkle",
-    "comments": 97,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=25236057"
-  },
-  {
-    "title": "Second Swiss firm allegedly sold encrypted spying devices",
-    "url": "https://www.swissinfo.ch/eng/second-swiss-firm-allegedly-sold-encrypted-spying-devices/46186432",
-    "upvotes": 5,
-    "author": "secfirstmd",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25240179"
-  },
-  {
-    "title": "Please",
-    "url": "https://please.build/",
-    "upvotes": 175,
-    "author": "siliconmountain",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=25238453"
-  },
-  {
-    "title": "Please disable JavaScript to view this site",
-    "url": "https://heydonworks.com/",
-    "upvotes": 60,
-    "author": "abusedmedia",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=25240299"
   },
   {
     "title": "The great Internet TCP congestion control census",
     "url": "https://datatracker.ietf.org/meeting/109/materials/slides-109-iccrg-the-great-internet-tcp-congestion-control-census-00",
-    "upvotes": 87,
+    "upvotes": 92,
     "author": "fanf2",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25237454"
+  },
+  {
+    "title": "Please",
+    "url": "https://please.build/",
+    "upvotes": 188,
+    "author": "siliconmountain",
+    "comments": 154,
+    "link": "https://news.ycombinator.com/item?id=25238453"
   },
   {
     "title": "What we know about Earth’s new minimoon",
     "url": "https://www.universetoday.com/148911/heres-what-we-know-about-earths-new-minimoon/",
-    "upvotes": 47,
+    "upvotes": 54,
     "author": "CapitalistCartr",
-    "comments": 15,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25237768"
+  },
+  {
+    "title": "Please disable JavaScript to view this site",
+    "url": "https://heydonworks.com/",
+    "upvotes": 76,
+    "author": "abusedmedia",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=25240299"
   },
   {
     "title": "30 years later, QBasic is still the best",
     "url": "http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/",
-    "upvotes": 83,
+    "upvotes": 100,
     "author": "ohjeez",
-    "comments": 38,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=25239424"
   },
   {
     "title": "Hyperdimensional Computing",
     "url": "https://github.com/HyperdimensionalComputing/collection",
-    "upvotes": 34,
+    "upvotes": 40,
     "author": "scottlocklin",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25238211"
@@ -82,17 +90,17 @@
   {
     "title": "The Persian Art of Etiquette",
     "url": "http://www.bbc.com/travel/story/20161104-the-persian-art-of-etiquette",
-    "upvotes": 19,
+    "upvotes": 23,
     "author": "monort",
-    "comments": 6,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25239278"
   },
   {
     "title": "FlashFloppy: Open-source Firmware for floppy emulators",
     "url": "https://github.com/keirf/FlashFloppy/wiki",
-    "upvotes": 40,
+    "upvotes": 42,
     "author": "todsacerdoti",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25238423"
   },
   {
@@ -106,18 +114,10 @@
   {
     "title": "Lisp Koans",
     "url": "https://github.com/google/lisp-koans",
-    "upvotes": 119,
+    "upvotes": 124,
     "author": "phoe-krk",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25236822"
-  },
-  {
-    "title": "How the self-esteem craze took over America",
-    "url": "https://www.thecut.com/2017/05/self-esteem-grit-do-they-really-help.html",
-    "upvotes": 164,
-    "author": "riyadparvez",
-    "comments": 129,
-    "link": "https://news.ycombinator.com/item?id=25237683"
   },
   {
     "title": "Legalist",
@@ -126,42 +126,42 @@
   {
     "title": "TSMC: SoIC",
     "url": "https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/SoIC.htm",
-    "upvotes": 112,
+    "upvotes": 113,
     "author": "blopeur",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25237003"
   },
   {
-    "title": "Goodbye PowerDNS",
-    "url": "https://blog.powerdns.com/2020/11/27/goodbye-dns-goodbye-powerdns/",
-    "upvotes": 184,
-    "author": "jpswade",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=25235853"
-  },
-  {
     "title": "Amazon hires 427,000 people in 10 months",
     "url": "https://www.nytimes.com/2020/11/27/technology/pushed-by-pandemic-amazon-goes-on-a-hiring-spree-without-equal.html",
-    "upvotes": 189,
+    "upvotes": 197,
     "author": "brian_herman",
-    "comments": 241,
+    "comments": 254,
     "link": "https://news.ycombinator.com/item?id=25237552"
+  },
+  {
+    "title": "Godot's 2D engine gets several improvements for upcoming 4.0",
+    "url": "https://godotengine.org/article/godots-2d-engine-gets-several-improvements-upcoming-40",
+    "upvotes": 44,
+    "author": "ronjouch",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25240417"
+  },
+  {
+    "title": "How the self-esteem craze took over America",
+    "url": "https://www.thecut.com/2017/05/self-esteem-grit-do-they-really-help.html",
+    "upvotes": 170,
+    "author": "riyadparvez",
+    "comments": 136,
+    "link": "https://news.ycombinator.com/item?id=25237683"
   },
   {
     "title": "Apple Silicon M1: A Developer's Perspective",
     "url": "https://steipete.com/posts/apple-silicon-m1-a-developer-perspective/",
-    "upvotes": 212,
+    "upvotes": 221,
     "author": "steipete",
-    "comments": 268,
+    "comments": 281,
     "link": "https://news.ycombinator.com/item?id=25238608"
-  },
-  {
-    "title": "Exploring the use of artificial intelligence in architecture",
-    "url": "https://techxplore.com/news/2020-11-exploring-artificial-intelligence-architecture.html",
-    "upvotes": 14,
-    "author": "dnetesn",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25236962"
   },
   {
     "title": "MODNet: Is a Green Screen Necessary for Real-Time Human Matting?",
@@ -172,65 +172,65 @@
     "link": "https://news.ycombinator.com/item?id=25238007"
   },
   {
-    "title": "Most Americans Object to Government Tracking Their Activities Through Cellphones",
-    "url": "https://www.wsj.com/articles/most-americans-object-to-government-tracking-of-their-activities-through-cellphones-11606305601",
-    "upvotes": 156,
-    "author": "pelasaco",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=25237406"
+    "title": "Exploring the use of artificial intelligence in architecture",
+    "url": "https://techxplore.com/news/2020-11-exploring-artificial-intelligence-architecture.html",
+    "upvotes": 14,
+    "author": "dnetesn",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25236962"
   },
   {
-    "title": "Machine Learning for Art with Google’s Emil Wallner",
-    "url": "https://www.letstalkai.show/e/mlart-interview/",
-    "upvotes": 10,
-    "author": "andreyk",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25239217"
+    "title": "Most Americans Object to Government Tracking Their Activities Through Cellphones",
+    "url": "https://www.wsj.com/articles/most-americans-object-to-government-tracking-of-their-activities-through-cellphones-11606305601",
+    "upvotes": 157,
+    "author": "pelasaco",
+    "comments": 122,
+    "link": "https://news.ycombinator.com/item?id=25237406"
   },
   {
     "title": "Mishima in the Twenty First Century",
     "url": "http://www.petertasker.asia/articles/mishima-in-the-twenty-first-century/",
-    "upvotes": 76,
+    "upvotes": 78,
     "author": "overwhelm",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25232488"
   },
   {
-    "title": "Is Probability Real?",
-    "url": "https://www.arameb.com/blog/2020/11/22/probability",
-    "upvotes": 153,
-    "author": "EbTech",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=25237356"
+    "title": "Machine Learning for Art with Google’s Emil Wallner",
+    "url": "https://www.letstalkai.show/e/mlart-interview/",
+    "upvotes": 11,
+    "author": "andreyk",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25239217"
   },
   {
     "title": "No Config for Old Men",
     "url": "https://datagubbe.se/noconf/",
-    "upvotes": 78,
+    "upvotes": 85,
     "author": "zdw",
-    "comments": 59,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=25238523"
+  },
+  {
+    "title": "Is Probability Real?",
+    "url": "https://www.arameb.com/blog/2020/11/22/probability",
+    "upvotes": 157,
+    "author": "EbTech",
+    "comments": 137,
+    "link": "https://news.ycombinator.com/item?id=25237356"
   },
   {
     "title": "MIT 6.004 L14: Implementing RISC-V Processor in Hardware",
     "url": "https://twitter.com/diodesign/status/1332507524403056641",
-    "upvotes": 71,
+    "upvotes": 79,
     "author": "homarp",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25238126"
   },
   {
-    "title": "Why everyone’s hoarding Mason jars",
-    "url": "https://marker.medium.com/why-everyones-suddenly-hoarding-mason-jars-4fe8cc1e098f",
-    "upvotes": 53,
-    "author": "oska",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=25236103"
-  },
-  {
     "title": "A Supermassive Lens on the Constants of Nature",
     "url": "http://nautil.us/issue/93/forerunners/a-supermassive-lens-on-the-constants-of-nature",
-    "upvotes": 28,
+    "upvotes": 30,
     "author": "dnetesn",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25236959"
