@@ -2,87 +2,95 @@
   {
     "title": "Tony Hsieh has died",
     "url": "https://www.yahoo.com/lifestyle/tony-hsieh-zappos-luminary-revolutionized-045239863.html",
-    "upvotes": 830,
+    "upvotes": 859,
     "author": "MrMcDowall",
-    "comments": 189,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=25235490"
   },
   {
     "title": "MODNet: Is a Green Screen Necessary for Real-Time Human Matting?",
     "url": "https://github.com/ZHKKKe/MODNet",
-    "upvotes": 30,
+    "upvotes": 40,
     "author": "homarp",
-    "comments": 15,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25238007"
   },
   {
     "title": "How the Self-Esteem Craze Took Over America And why the hype was irresistible",
     "url": "https://www.thecut.com/2017/05/self-esteem-grit-do-they-really-help.html",
-    "upvotes": 43,
+    "upvotes": 50,
     "author": "riyadparvez",
-    "comments": 14,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25237683"
   },
   {
     "title": "TSMC: SoIC",
     "url": "https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/SoIC.htm",
-    "upvotes": 69,
+    "upvotes": 79,
     "author": "blopeur",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25237003"
+  },
+  {
+    "title": "FlashFloppy: Open-source Firmware for floppy emulators",
+    "url": "https://github.com/keirf/FlashFloppy/wiki",
+    "upvotes": 6,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25238423"
   },
   {
     "title": "Datasette-ripgrep: a regular expression search engine for your source code",
     "url": "https://simonwillison.net/2020/Nov/28/datasette-ripgrep/",
-    "upvotes": 66,
+    "upvotes": 73,
     "author": "tosh",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25236636"
   },
   {
     "title": "Is Probability Real?",
     "url": "https://www.arameb.com/blog/2020/11/22/probability",
-    "upvotes": 93,
+    "upvotes": 103,
     "author": "EbTech",
-    "comments": 63,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=25237356"
   },
   {
     "title": "Summary of the Amazon Kinesis Event in the Northern Virginia",
     "url": "https://aws.amazon.com/message/11201/",
-    "upvotes": 134,
+    "upvotes": 142,
     "author": "codesparkle",
-    "comments": 43,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=25236057"
-  },
-  {
-    "title": "Lisp Koans",
-    "url": "https://github.com/google/lisp-koans",
-    "upvotes": 66,
-    "author": "phoe-krk",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=25236822"
   },
   {
     "title": "The great Internet TCP congestion control census",
     "url": "https://datatracker.ietf.org/meeting/109/materials/slides-109-iccrg-the-great-internet-tcp-congestion-control-census-00",
-    "upvotes": 27,
+    "upvotes": 32,
     "author": "fanf2",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25237454"
+  },
+  {
+    "title": "Linus Torvalds doubts Linux will get ported to Apple M1 hardware",
+    "url": "https://arstechnica.com/gadgets/2020/11/__trashed-6/",
+    "upvotes": 42,
+    "author": "anupamchugh",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=25238175"
   },
   {
     "title": "Most Americans Object to Government Tracking Their Activities Through Cellphones",
     "url": "https://www.wsj.com/articles/most-americans-object-to-government-tracking-of-their-activities-through-cellphones-11606305601",
-    "upvotes": 82,
+    "upvotes": 86,
     "author": "pelasaco",
-    "comments": 56,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=25237406"
   },
   {
     "title": "K6: Like unit testing, for performance",
     "url": "https://github.com/loadimpact/k6",
-    "upvotes": 257,
+    "upvotes": 259,
     "author": "feross",
     "comments": 67,
     "link": "https://news.ycombinator.com/item?id=25234746"
@@ -90,47 +98,55 @@
   {
     "title": "Goodbye PowerDNS",
     "url": "https://blog.powerdns.com/2020/11/27/goodbye-dns-goodbye-powerdns/",
-    "upvotes": 130,
+    "upvotes": 135,
     "author": "jpswade",
-    "comments": 52,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=25235853"
   },
   {
-    "title": "The Unix Command Language",
-    "url": "https://github.com/susam/tucl",
-    "upvotes": 107,
-    "author": "susam",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=25235450"
-  },
-  {
-    "title": "Linus Torvalds doubts Linux will get ported to Apple M1 hardware",
-    "url": "https://arstechnica.com/gadgets/2020/11/__trashed-6/",
-    "upvotes": 21,
-    "author": "anupamchugh",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25238175"
+    "title": "Lisp Koans",
+    "url": "https://github.com/google/lisp-koans",
+    "upvotes": 72,
+    "author": "phoe-krk",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25236822"
   },
   {
     "title": "Mishima in the Twenty First Century",
     "url": "http://www.petertasker.asia/articles/mishima-in-the-twenty-first-century/",
-    "upvotes": 54,
+    "upvotes": 57,
     "author": "overwhelm",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25232488"
+  },
+  {
+    "title": "The Unix Command Language",
+    "url": "https://github.com/susam/tucl",
+    "upvotes": 113,
+    "author": "susam",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=25235450"
   },
   {
     "title": "A new hot hand paradox",
     "url": "https://statmodeling.stat.columbia.edu/2020/11/25/a-new-hot-hand-paradox/",
-    "upvotes": 21,
+    "upvotes": 23,
     "author": "luu",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25230683"
   },
   {
+    "title": "MIT 6.004 L14: Implementing RISC-V Processor in Hardware",
+    "url": "https://twitter.com/diodesign/status/1332507524403056641",
+    "upvotes": 14,
+    "author": "homarp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25238126"
+  },
+  {
     "title": "A Supermassive Lens on the Constants of Nature",
     "url": "http://nautil.us/issue/93/forerunners/a-supermassive-lens-on-the-constants-of-nature",
-    "upvotes": 13,
+    "upvotes": 15,
     "author": "dnetesn",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25236959"
@@ -138,7 +154,7 @@
   {
     "title": "Krakatoa skies: when the Sun turned blue",
     "url": "https://www.volcanocafe.org/krakatoa-skies-when-the-sun-turned-blue/",
-    "upvotes": 5,
+    "upvotes": 6,
     "author": "Thevet",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25231935"
@@ -146,18 +162,10 @@
   {
     "title": "Life on the inside as a ‘locked-in’ patient",
     "url": "https://www.theguardian.com/news/2020/nov/26/life-on-the-inside-as-a-locked-in-patient-jake-haendel-leukoencephalopathy",
-    "upvotes": 114,
+    "upvotes": 116,
     "author": "collate",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25232502"
-  },
-  {
-    "title": "Amiga 68000 Assembly Course #01 based on the book by Fabio Ciucci",
-    "url": "https://www.youtube.com/watch?v=UpNS-IVsBew",
-    "upvotes": 19,
-    "author": "doener",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25237791"
   },
   {
     "title": "DeepSource",
@@ -166,34 +174,50 @@
   {
     "title": "Show HN: NFreezer – Encrypted-at-rest remote backup tool",
     "url": "https://github.com/josephernest/nfreezer",
-    "upvotes": 59,
+    "upvotes": 61,
     "author": "josephernest",
-    "comments": 33,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=25231566"
-  },
-  {
-    "title": "Amazon hires 427,000 people in 10 months",
-    "url": "https://www.nytimes.com/2020/11/27/technology/pushed-by-pandemic-amazon-goes-on-a-hiring-spree-without-equal.html",
-    "upvotes": 100,
-    "author": "brian_herman",
-    "comments": 122,
-    "link": "https://news.ycombinator.com/item?id=25237552"
   },
   {
     "title": "AWS hires Rust compiler team co-lead Felix Klock",
     "url": "https://www.theregister.com/2020/11/27/aws_hires_rust_compiler_team/",
-    "upvotes": 172,
+    "upvotes": 184,
     "author": "ducaale",
-    "comments": 113,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=25235941"
+  },
+  {
+    "title": "Amiga 68000 Assembly Course #01 based on the book by Fabio Ciucci",
+    "url": "https://www.youtube.com/watch?v=UpNS-IVsBew",
+    "upvotes": 22,
+    "author": "doener",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25237791"
   },
   {
     "title": "How to Think for Yourself",
     "url": "http://paulgraham.com/think.html",
-    "upvotes": 971,
+    "upvotes": 974,
     "author": "neilkakkar",
-    "comments": 770,
+    "comments": 771,
     "link": "https://news.ycombinator.com/item?id=25227651"
+  },
+  {
+    "title": "Let's Solve the File Format Problem",
+    "url": "http://fileformats.archiveteam.org/",
+    "upvotes": 116,
+    "author": "pabs3",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=25234594"
+  },
+  {
+    "title": "Amazon hires 427,000 people in 10 months",
+    "url": "https://www.nytimes.com/2020/11/27/technology/pushed-by-pandemic-amazon-goes-on-a-hiring-spree-without-equal.html",
+    "upvotes": 108,
+    "author": "brian_herman",
+    "comments": 135,
+    "link": "https://news.ycombinator.com/item?id=25237552"
   },
   {
     "title": "Nipkow Disk",
@@ -204,35 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=25224648"
   },
   {
-    "title": "Let's Solve the File Format Problem",
-    "url": "http://fileformats.archiveteam.org/",
-    "upvotes": 113,
-    "author": "pabs3",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=25234594"
-  },
-  {
     "title": "Reveal.js: HTML presentation framework",
     "url": "https://revealjs.com/",
-    "upvotes": 356,
+    "upvotes": 359,
     "author": "lopespm",
     "comments": 93,
     "link": "https://news.ycombinator.com/item?id=25233136"
-  },
-  {
-    "title": "MIT 6.004 L14: Implementing RISC-V Processor in Hardware",
-    "url": "https://twitter.com/diodesign/status/1332507524403056641",
-    "upvotes": 5,
-    "author": "homarp",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25238126"
-  },
-  {
-    "title": "Physicist creates N95-type respirators using cotton candy machine",
-    "url": "https://phys.org/news/2020-11-physicist-n95-type-respirators-cotton-candy.html",
-    "upvotes": 88,
-    "author": "helsinkiandrew",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=25236026"
   }
 ]
