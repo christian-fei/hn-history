@@ -1,24 +1,40 @@
 [
   {
+    "title": "Gallery-dl – download images from several image hosting sites",
+    "url": "https://github.com/mikf/gallery-dl",
+    "upvotes": 30,
+    "author": "pabs3",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25244589"
+  },
+  {
     "title": "Ruffle – A Flash Player emulator written in Rust",
     "url": "https://ruffle.rs/",
-    "upvotes": 240,
+    "upvotes": 254,
     "author": "rane",
-    "comments": 48,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=25242115"
   },
   {
     "title": "Growl in Retirement",
     "url": "http://336699.org/GrowlRetirement",
-    "upvotes": 395,
+    "upvotes": 402,
     "author": "flyingyeti",
-    "comments": 185,
+    "comments": 188,
     "link": "https://news.ycombinator.com/item?id=25241030"
+  },
+  {
+    "title": "A better Kubernetes from the ground up",
+    "url": "https://blog.dave.tf/post/new-kubernetes/",
+    "upvotes": 70,
+    "author": "mr-karan",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=25243159"
   },
   {
     "title": "Melting ice patch in Norway reveals large collection of ancient arrows",
     "url": "https://phys.org/news/2020-11-ice-patch-norway-reveals-large.html",
-    "upvotes": 164,
+    "upvotes": 170,
     "author": "dnetesn",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=25241839"
@@ -26,23 +42,15 @@
   {
     "title": "Undeleting a file overwritten with mv",
     "url": "https://behind.pretix.eu/2020/11/28/undelete-flv-file/",
-    "upvotes": 138,
+    "upvotes": 148,
     "author": "todsacerdoti",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=25242444"
-  },
-  {
-    "title": "A better Kubernetes from the ground up",
-    "url": "https://blog.dave.tf/post/new-kubernetes/",
-    "upvotes": 60,
-    "author": "mr-karan",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25243159"
   },
   {
     "title": "Moths draped in stealth acoustic cloak evade bat sonar",
     "url": "https://www.chemistryworld.com/news/moths-draped-in-stealth-acoustic-cloak-evade-bat-sonar/4012807.article",
-    "upvotes": 99,
+    "upvotes": 104,
     "author": "Guereric",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25242639"
@@ -50,189 +58,181 @@
   {
     "title": "Interval Tree Clocks",
     "url": "https://ferd.ca/interval-tree-clocks.html",
-    "upvotes": 41,
+    "upvotes": 43,
     "author": "signa11",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25243376"
   },
   {
+    "title": "The Generalized f-Mean",
+    "url": "https://churchofthought.org/blog/2017/03/26/the-generalized-mean-an-algorithmic-approach/",
+    "upvotes": 13,
+    "author": "goldenkey",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25236328"
+  },
+  {
     "title": "Nim compiler — Pascal source code",
     "url": "https://github.com/nim-lang/Nim/tree/ea1f1ec6d4d6c776eb0f81c2bebdd4cb4c817ebe/nim",
-    "upvotes": 58,
+    "upvotes": 63,
     "author": "joubert",
-    "comments": 14,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25242926"
   },
   {
     "title": "The Donut King who went from rags to riches, twice",
     "url": "https://www.bbc.com/news/stories-54546427",
-    "upvotes": 111,
+    "upvotes": 115,
     "author": "rmason",
-    "comments": 85,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=25241898"
+  },
+  {
+    "title": "The Diary of Thomas Edison on Vacation",
+    "url": "http://ariwatch.com/VS/TheDiaryOfThomasEdison.htm",
+    "upvotes": 20,
+    "author": "WoodenChair",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25226626"
   },
   {
     "title": "Paving the Way for Electronic Organs-on-a-Chip",
     "url": "https://www.nist.gov/blogs/taking-measure/paving-way-electronic-organs-chip",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "oedmarap",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25237270"
+  },
+  {
+    "title": "Considerations Before Graduating as an Engineer",
+    "url": "https://reflexio.debec.eu/considerations-before-graduating-engineer",
+    "upvotes": 27,
+    "author": "Ninroot",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=25235665"
   },
   {
     "title": "Flexport",
     "url": "https://Flexport.com/careers/engineering"
   },
   {
-    "title": "Considerations Before Graduating as an Engineer",
-    "url": "https://reflexio.debec.eu/considerations-before-graduating-engineer",
-    "upvotes": 26,
-    "author": "Ninroot",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=25235665"
-  },
-  {
-    "title": "Raspberry Pi Used to Hack Tesla Model X",
-    "url": "https://www.tomshardware.com/news/raspberry-pi-hack-tesla-model-x",
-    "upvotes": 33,
-    "author": "Gedxx",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=25227533"
-  },
-  {
     "title": "Isetta: Writing a Game Engine from Scratch",
     "url": "https://isetta.io/blogs/week-0/",
-    "upvotes": 114,
+    "upvotes": 117,
     "author": "da_big_ghey",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25241361"
   },
   {
-    "title": "Tex – Use Elixir like a scripting language, across your system",
-    "url": "https://github.com/doawoo/tex",
-    "upvotes": 128,
-    "author": "striking",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=25240708"
-  },
-  {
-    "title": "The Diary of Thomas Edison on Vacation",
-    "url": "http://ariwatch.com/VS/TheDiaryOfThomasEdison.htm",
-    "upvotes": 14,
-    "author": "WoodenChair",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25226626"
-  },
-  {
-    "title": "Made my personal site into a desktop environment",
-    "url": "http://x.dustinbrett.com/",
-    "upvotes": 101,
-    "author": "azhenley",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=25241123"
-  },
-  {
-    "title": "How to Do What You Want: Akrasia and Self-Binding",
-    "url": "https://blog.beeminder.com/akrasia/",
-    "upvotes": 55,
-    "author": "yarinr",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=25241297"
+    "title": "Raspberry Pi Used to Hack Tesla Model X",
+    "url": "https://www.tomshardware.com/news/raspberry-pi-hack-tesla-model-x",
+    "upvotes": 34,
+    "author": "Gedxx",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=25227533"
   },
   {
     "title": "Engineer of Hexagon KH-9 Spy Sat talk about project",
     "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hdWRpb2Jvb20uY29tL2NoYW5uZWxzLzQ2MzQzMjAucnNz/episode/aHR0cDovL3d3dy5zcHltdXNldW0ub3JnL3NweWNhc3QvbWVkaWEvMjAxNF8wNl8xMF9QcmVzc2VsLm1wMw?sa=X&ved=0CAUQkfYCahcKEwjI_vH-nqXtAhUAAAAAHQAAAAAQAQ",
-    "upvotes": 7,
+    "upvotes": 9,
     "author": "dirtyid",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25237164"
   },
   {
-    "title": "The Generalized f-Mean",
-    "url": "https://churchofthought.org/blog/2017/03/26/the-generalized-mean-an-algorithmic-approach/",
-    "upvotes": 5,
-    "author": "goldenkey",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25236328"
+    "title": "Made my personal site into a desktop environment",
+    "url": "http://x.dustinbrett.com/",
+    "upvotes": 105,
+    "author": "azhenley",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=25241123"
+  },
+  {
+    "title": "How to Do What You Want: Akrasia and Self-Binding",
+    "url": "https://blog.beeminder.com/akrasia/",
+    "upvotes": 56,
+    "author": "yarinr",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=25241297"
   },
   {
     "title": "Second Swiss firm allegedly sold encrypted spying devices",
     "url": "https://www.swissinfo.ch/eng/second-swiss-firm-allegedly-sold-encrypted-spying-devices/46186432",
-    "upvotes": 207,
+    "upvotes": 210,
     "author": "secfirstmd",
-    "comments": 156,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=25240179"
+  },
+  {
+    "title": "Twtxt Is a Self-Hosted, Twitter-Like Decentralised MicroBlogging Platform",
+    "url": "https://github.com/jointwt/twtxt",
+    "upvotes": 17,
+    "author": "harporoeder",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25242996"
+  },
+  {
+    "title": "Show HN: Pronounce – practice while you browse for any language",
+    "url": "https://github.com/filipeisho/pronounce",
+    "upvotes": 14,
+    "author": "filipeisho",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25236444"
+  },
+  {
+    "title": "Metal Monolith in Utah Gone",
+    "url": "https://www.nytimes.com/2020/11/28/us/monolith-utah-disappeared.html",
+    "upvotes": 93,
+    "author": "DarkContinent",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=25242735"
+  },
+  {
+    "title": "Video game lets you do nothing in particular in a suburban Russian tower block",
+    "url": "https://www.calvertjournal.com/articles/show/11066/this-new-video-game-lets-you-do-nothing-in-a-suburban-russian-tower-block",
+    "upvotes": 186,
+    "author": "the_decider",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=25241869"
   },
   {
     "title": "Scion EPIC: a path-aware clean-slate internet architecture",
     "url": "https://blog.apnic.net/2020/11/25/epic-exploring-challenges-and-opportunities-in-next-generation-internet-architectures/",
-    "upvotes": 49,
+    "upvotes": 50,
     "author": "fanf2",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25241572"
   },
   {
-    "title": "Show HN: Pronounce – practice while you browse for any language",
-    "url": "https://github.com/filipeisho/pronounce",
-    "upvotes": 13,
-    "author": "filipeisho",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25236444"
-  },
-  {
-    "title": "Video game lets you do nothing in particular in a suburban Russian tower block",
-    "url": "https://www.calvertjournal.com/articles/show/11066/this-new-video-game-lets-you-do-nothing-in-a-suburban-russian-tower-block",
-    "upvotes": 182,
-    "author": "the_decider",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=25241869"
-  },
-  {
-    "title": "Metal Monolith in Utah Gone",
-    "url": "https://www.nytimes.com/2020/11/28/us/monolith-utah-disappeared.html",
-    "upvotes": 90,
-    "author": "DarkContinent",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=25242735"
-  },
-  {
     "title": "Please – A cross-language build system",
     "url": "https://please.build/",
-    "upvotes": 274,
+    "upvotes": 276,
     "author": "siliconmountain",
-    "comments": 223,
+    "comments": 225,
     "link": "https://news.ycombinator.com/item?id=25238453"
   },
   {
     "title": "No Config for Old Men",
     "url": "https://datagubbe.se/noconf/",
-    "upvotes": 293,
+    "upvotes": 298,
     "author": "zdw",
-    "comments": 230,
+    "comments": 234,
     "link": "https://news.ycombinator.com/item?id=25238523"
   },
   {
-    "title": "Twtxt Is a Self-Hosted, Twitter-Like Decentralised MicroBlogging Platform",
-    "url": "https://github.com/jointwt/twtxt",
-    "upvotes": 13,
-    "author": "harporoeder",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25242996"
+    "title": "Tex – Use Elixir like a scripting language, across your system",
+    "url": "https://github.com/doawoo/tex",
+    "upvotes": 129,
+    "author": "striking",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=25240708"
   },
   {
     "title": "Extra Ideas for Computing",
     "url": "https://github.com/samsquire/ideas3",
-    "upvotes": 98,
+    "upvotes": 100,
     "author": "samsquire",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25240548"
-  },
-  {
-    "title": "How the self-esteem craze took over America",
-    "url": "https://www.thecut.com/2017/05/self-esteem-grit-do-they-really-help.html",
-    "upvotes": 230,
-    "author": "riyadparvez",
-    "comments": 200,
-    "link": "https://news.ycombinator.com/item?id=25237683"
   }
 ]
