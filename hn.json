@@ -2,139 +2,171 @@
   {
     "title": "macOS to FreeBSD migration a.k.a. why I left macOS",
     "url": "https://antranigv.am/weblog_en/posts/macos_to_freebsd/",
-    "upvotes": 94,
+    "upvotes": 141,
     "author": "rodrigo975",
-    "comments": 77,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=25266435"
   },
   {
-    "title": "Oasis Linux: a small statically-linked Linux system",
-    "url": "https://github.com/oasislinux/oasis",
-    "upvotes": 111,
-    "author": "varbhat",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=25265761"
-  },
-  {
-    "title": "AWS Proton",
-    "url": "https://aws.amazon.com/proton/",
-    "upvotes": 26,
-    "author": "jacobwg",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25266992"
+    "title": "AWS Lambda pricing now per ms",
+    "url": "https://aws.amazon.com/lambda/pricing",
+    "upvotes": 68,
+    "author": "astuyvenberg",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=25267029"
   },
   {
     "title": "Yet another macOS privacy protections bypass",
     "url": "https://lapcatsoftware.com/articles/disclosure3.html",
-    "upvotes": 37,
+    "upvotes": 80,
     "author": "maxdesiatov",
-    "comments": 7,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25266743"
   },
   {
-    "title": "Ask HN: Who is hiring?",
-    "url": "item?id=25266288",
-    "upvotes": 59,
-    "author": "whoishiring",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=25266288"
+    "title": "Oasis Linux: a small statically-linked Linux system",
+    "url": "https://github.com/oasislinux/oasis",
+    "upvotes": 115,
+    "author": "varbhat",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=25265761"
   },
   {
-    "title": "Rancher Lab Acquired by SUSE",
-    "url": "https://rancher.com/blog/2020/suse-day1",
-    "upvotes": 77,
-    "author": "blopeur",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25265856"
+    "title": "AWS Open Sources SQL Server-to-Postgres Translation Layer",
+    "url": "https://aws.amazon.com/blogs/opensource/want-more-postgresql-you-just-might-like-babelfish/",
+    "upvotes": 28,
+    "author": "ke4qqq",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25267204"
+  },
+  {
+    "title": "Amazon Elastic Container Registry Public: A New Public Container Registry",
+    "url": "https://aws.amazon.com/blogs/aws/amazon-ecr-public-a-new-public-container-registry/",
+    "upvotes": 31,
+    "author": "Trisell",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25266950"
   },
   {
     "title": "Cambly",
     "url": "https://jobs.lever.co/cambly/5d96bd36-372b-491b-9c79-01d6524213c8?lever-origin=applied&lever-source%5B%5D=hackernews"
   },
   {
-    "title": "AWS Lambda pricing now per ms",
-    "url": "https://aws.amazon.com/lambda/pricing",
-    "upvotes": 12,
-    "author": "astuyvenberg",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25267029"
+    "title": "AWS Proton",
+    "url": "https://aws.amazon.com/proton/",
+    "upvotes": 47,
+    "author": "jacobwg",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=25266992"
+  },
+  {
+    "title": "Ask HN: Who is hiring?",
+    "url": "item?id=25266288",
+    "upvotes": 82,
+    "author": "whoishiring",
+    "comments": 157,
+    "link": "https://news.ycombinator.com/item?id=25266288"
+  },
+  {
+    "title": "Rancher Lab Acquired by SUSE",
+    "url": "https://rancher.com/blog/2020/suse-day1",
+    "upvotes": 83,
+    "author": "blopeur",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25265856"
+  },
+  {
+    "title": "AWS Lambda Supports Containers",
+    "url": "https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/",
+    "upvotes": 23,
+    "author": "appwiz",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25267182"
   },
   {
     "title": "Amazon EC2 Mac Instances",
     "url": "https://aws.amazon.com/blogs/aws/new-use-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/",
-    "upvotes": 922,
+    "upvotes": 936,
     "author": "appwiz",
-    "comments": 406,
+    "comments": 412,
     "link": "https://news.ycombinator.com/item?id=25262303"
-  },
-  {
-    "title": "PinePhone KDE Community Edition is now available",
-    "url": "https://www.pine64.org/2020/12/01/kde-community-edition-is-now-available/",
-    "upvotes": 180,
-    "author": "danielg0",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=25264515"
-  },
-  {
-    "title": "The Road to the JIT",
-    "url": "http://blog.erlang.org/the-road-to-the-jit/",
-    "upvotes": 66,
-    "author": "lelf",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25265238"
-  },
-  {
-    "title": "Amazon Elastic Container Registry Public: A New Public Container Registry",
-    "url": "https://aws.amazon.com/blogs/aws/amazon-ecr-public-a-new-public-container-registry/",
-    "upvotes": 8,
-    "author": "Trisell",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25266950"
   },
   {
     "title": "Precursor’s Custom PCBs",
     "url": "https://www.bunniestudios.com/blog/?p=6011",
-    "upvotes": 15,
+    "upvotes": 34,
     "author": "parsecs",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25266473"
   },
   {
+    "title": "PinePhone KDE Community Edition is now available",
+    "url": "https://www.pine64.org/2020/12/01/kde-community-edition-is-now-available/",
+    "upvotes": 186,
+    "author": "danielg0",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=25264515"
+  },
+  {
+    "title": "The Road to the JIT",
+    "url": "http://blog.erlang.org/the-road-to-the-jit/",
+    "upvotes": 78,
+    "author": "lelf",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25265238"
+  },
+  {
     "title": "Computer Graphics from Scratch",
     "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/",
-    "upvotes": 8,
+    "upvotes": 16,
     "author": "fanf2",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25266812"
   },
   {
     "title": "The psychology behind ‘revenge bedtime procrastination’",
     "url": "https://www.bbc.com/worklife/article/20201123-the-psychology-behind-revenge-bedtime-procrastination",
-    "upvotes": 163,
+    "upvotes": 173,
     "author": "sebwi",
-    "comments": 101,
+    "comments": 115,
     "link": "https://news.ycombinator.com/item?id=25263868"
   },
   {
     "title": "Arecibo Observatory Collapsed",
     "url": "https://twitter.com/DeborahTiempo/status/1333741751069192195",
-    "upvotes": 407,
+    "upvotes": 423,
     "author": "BrentOzar",
-    "comments": 128,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=25264555"
+  },
+  {
+    "title": "An open source portable terminal for every dev",
+    "url": "https://www.clockworkpi.com/devterm",
+    "upvotes": 49,
+    "author": "jerodsanto",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25265891"
   },
   {
     "title": "Hedy: A Gradual Language for Programming Education",
     "url": "https://hedy-beta.herokuapp.com/",
-    "upvotes": 15,
+    "upvotes": 20,
     "author": "azhenley",
-    "comments": 5,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25249471"
+  },
+  {
+    "title": "AlphaFold: a solution to a 50-year-old grand challenge in biology",
+    "url": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
+    "upvotes": 1126,
+    "author": "momeara",
+    "comments": 615,
+    "link": "https://news.ycombinator.com/item?id=25253488"
   },
   {
     "title": "A Plan 9 C Compiler for RISC-V [video]",
     "url": "https://www.youtube.com/watch?v=LHJqdXGb0uc",
-    "upvotes": 83,
+    "upvotes": 86,
     "author": "pmarin",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25244010"
@@ -142,39 +174,23 @@
   {
     "title": "Show HN: Wisdom-of-crowds survey tool that finds hidden consensus at scale",
     "url": "http://opinionx.co",
-    "upvotes": 58,
+    "upvotes": 62,
     "author": "danielkyne",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25264597"
-  },
-  {
-    "title": "An open source portable terminal for every dev",
-    "url": "https://www.clockworkpi.com/devterm",
-    "upvotes": 44,
-    "author": "jerodsanto",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25265891"
-  },
-  {
-    "title": "AlphaFold: a solution to a 50-year-old grand challenge in biology",
-    "url": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
-    "upvotes": 1118,
-    "author": "momeara",
-    "comments": 613,
-    "link": "https://news.ycombinator.com/item?id=25253488"
   },
   {
     "title": "Busybox-based Linux distro from scratch",
     "url": "https://re-ws.pl/2020/11/busybox-based-linux-distro-from-scratch/",
-    "upvotes": 140,
+    "upvotes": 142,
     "author": "pfrog",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25263398"
   },
   {
     "title": "Foundations of Probabilistic Programming",
     "url": "https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE",
-    "upvotes": 44,
+    "upvotes": 50,
     "author": "blopeur",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25264094"
@@ -182,7 +198,7 @@
   {
     "title": "Development of the Domain Name System",
     "url": "https://cseweb.ucsd.edu/classes/wi01/cse222/papers/mockapetris-dns-sigcomm88.pdf",
-    "upvotes": 37,
+    "upvotes": 39,
     "author": "tjalfi",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25249920"
@@ -190,49 +206,33 @@
   {
     "title": "The man who invented the Zamboni",
     "url": "https://thehustle.co/the-man-who-invented-the-zamboni/",
-    "upvotes": 61,
+    "upvotes": 65,
     "author": "Anon84",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25244963"
-  },
-  {
-    "title": "Covid forced bookstores online. Can they survive?",
-    "url": "https://www.protocol.com/manuals/retail-resurgence/covid-forced-bookstores-online-can-they-survive",
-    "upvotes": 9,
-    "author": "prostoalex",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25249974"
   },
   {
     "title": "ARM and Lock-Free Programming",
     "url": "https://randomascii.wordpress.com/2020/11/29/arm-and-lock-free-programming/",
-    "upvotes": 194,
+    "upvotes": 199,
     "author": "markdog12",
-    "comments": 79,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=25262186"
-  },
-  {
-    "title": "Show HN: Tiny 1k Rust binary on Windows",
-    "url": "https://github.com/mcountryman/min-sized-rust-windows",
-    "upvotes": 88,
-    "author": "mcountryman",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=25258461"
   },
   {
     "title": "I Made a Self-Quoting Tweet",
     "url": "https://oisinmoran.com/quinetweet",
-    "upvotes": 589,
+    "upvotes": 597,
     "author": "OisinMoran",
     "comments": 127,
     "link": "https://news.ycombinator.com/item?id=25244872"
   },
   {
-    "title": "Simple Math to Set Up a Sales Team",
-    "url": "https://sacks.substack.com/p/simple-math-to-set-up-a-sales-team",
-    "upvotes": 143,
-    "author": "panabee",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=25262819"
+    "title": "Covid forced bookstores online. Can they survive?",
+    "url": "https://www.protocol.com/manuals/retail-resurgence/covid-forced-bookstores-online-can-they-survive",
+    "upvotes": 16,
+    "author": "prostoalex",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25249974"
   }
 ]
