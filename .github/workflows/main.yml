@@ -1,10 +1,8 @@
 name: scrape hn data
 
 on:
-  push:
-  workflow_dispatch:
   schedule:
-    - cron:  '5,25,45 * * * *'
+    - cron:  '0,30 * * * *'
 
 jobs:
   scheduled:
