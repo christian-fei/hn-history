@@ -2,71 +2,71 @@
   {
     "title": "AWS Announces macOS on EC2",
     "url": "https://aws.amazon.com/blogs/aws/new-use-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/",
-    "upvotes": 167,
+    "upvotes": 194,
     "author": "appwiz",
-    "comments": 63,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=25262303"
   },
   {
     "title": "South Korea's fusion device KSTAR runs for 20 seconds at 100M degrees Celsius",
     "url": "http://www.arirang.com/news/News_View.asp?nseq=268322",
-    "upvotes": 224,
+    "upvotes": 230,
     "author": "airstrike",
-    "comments": 125,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=25261068"
   },
   {
     "title": "Why do I care the open web is dying?",
     "url": "https://insightbrowser.com/blog/open-web-dying-why-care",
-    "upvotes": 84,
+    "upvotes": 88,
     "author": "archajain",
-    "comments": 58,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=25261132"
   },
   {
     "title": "AlphaFold: a solution to a 50-year-old grand challenge in biology",
     "url": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
-    "upvotes": 726,
+    "upvotes": 735,
     "author": "momeara",
     "comments": 563,
     "link": "https://news.ycombinator.com/item?id=25253488"
   },
   {
-    "title": "Raytracing in One Weekend",
-    "url": "https://raytracing.github.io/books/RayTracingInOneWeekend.html",
-    "upvotes": 202,
-    "author": "fanf2",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=25244301"
-  },
-  {
     "title": "Pixar's Universal Scene Description Now on Pypi",
     "url": "https://pypi.org/project/usd-core/",
-    "upvotes": 44,
+    "upvotes": 51,
     "author": "dagmx",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25261568"
   },
   {
+    "title": "Raytracing in One Weekend",
+    "url": "https://raytracing.github.io/books/RayTracingInOneWeekend.html",
+    "upvotes": 204,
+    "author": "fanf2",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=25244301"
+  },
+  {
     "title": "ARM and Lock-Free Programming",
     "url": "https://randomascii.wordpress.com/2020/11/29/arm-and-lock-free-programming/",
-    "upvotes": 13,
+    "upvotes": 19,
     "author": "markdog12",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25262186"
   },
   {
     "title": "I Made a Self-Quoting Tweet",
     "url": "https://oisinmoran.com/quinetweet",
-    "upvotes": 376,
+    "upvotes": 381,
     "author": "OisinMoran",
-    "comments": 100,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=25244872"
   },
   {
     "title": "Undergraduate Math Student Pushes Frontier of Graph Theory",
     "url": "https://www.quantamagazine.org/mit-undergraduate-math-student-pushes-frontier-of-graph-theory-20201130/",
-    "upvotes": 57,
+    "upvotes": 61,
     "author": "mellosouls",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25261291"
@@ -80,20 +80,28 @@
     "link": "https://news.ycombinator.com/item?id=25244744"
   },
   {
-    "title": "Running a full desktop environment on a Kindle",
-    "url": "https://nns.ee/blog/2019/04/14/chroot-shenanigans-2.html",
-    "upvotes": 144,
-    "author": "slondr",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=25257772"
+    "title": "LuckysheetServer – Google Sheets-like realtime collaborative spreadsheet",
+    "url": "https://github.com/mengshukeji/LuckysheetServer",
+    "upvotes": 32,
+    "author": "alexliu518",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25261004"
   },
   {
     "title": "Dijkstra Was Wrong About 'Radical Novelty'",
     "url": "https://cacm.acm.org/blogs/blog-cacm/248985-dijkstra-was-wrong-about-radical-novelty-metaphors-in-cs-education/fulltext",
-    "upvotes": 27,
+    "upvotes": 30,
     "author": "azhenley",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25257087"
+  },
+  {
+    "title": "Running a full desktop environment on a Kindle",
+    "url": "https://nns.ee/blog/2019/04/14/chroot-shenanigans-2.html",
+    "upvotes": 145,
+    "author": "slondr",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=25257772"
   },
   {
     "title": "BBC Basic Editor",
@@ -104,36 +112,36 @@
     "link": "https://news.ycombinator.com/item?id=25256853"
   },
   {
-    "title": "LuckysheetServer – Google Sheets-like realtime collaborative spreadsheet",
-    "url": "https://github.com/mengshukeji/LuckysheetServer",
-    "upvotes": 30,
-    "author": "alexliu518",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25261004"
-  },
-  {
     "title": "OpenZFS 2.0",
     "url": "https://github.com/openzfs/zfs/releases/tag/zfs-2.0.0",
-    "upvotes": 260,
+    "upvotes": 262,
     "author": "ascom",
     "comments": 94,
     "link": "https://news.ycombinator.com/item?id=25259405"
   },
   {
-    "title": "Violent, lively and brash, taverns were everywhere in early colonial America",
-    "url": "https://aeon.co/essays/taverns-and-the-complicated-birth-of-early-american-civil-society",
-    "upvotes": 90,
-    "author": "samclemens",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=25250790"
-  },
-  {
     "title": "Write your own arbitrary-precision JavaScript math library",
     "url": "https://jrsinclair.com/articles/2020/sick-of-the-jokes-write-your-own-arbitrary-precision-javascript-math-library/",
-    "upvotes": 7,
+    "upvotes": 8,
     "author": "enobrev",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25257209"
+  },
+  {
+    "title": "Violent, lively and brash, taverns were everywhere in early colonial America",
+    "url": "https://aeon.co/essays/taverns-and-the-complicated-birth-of-early-american-civil-society",
+    "upvotes": 92,
+    "author": "samclemens",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=25250790"
+  },
+  {
+    "title": "Vitamin D insufficiency may account for almost 90% of Covid-19 deaths",
+    "url": "https://www.mdpi.com/2072-6643/12/12/3642/htm",
+    "upvotes": 234,
+    "author": "voisin",
+    "comments": 141,
+    "link": "https://news.ycombinator.com/item?id=25261441"
   },
   {
     "title": "H. G. Wells reviews \"Metropolis\"",
@@ -146,34 +154,26 @@
   {
     "title": "Why is Apple's M1 chip so fast?",
     "url": "https://erik-engheim.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2",
-    "upvotes": 578,
+    "upvotes": 584,
     "author": "socialdemocrat",
     "comments": 516,
     "link": "https://news.ycombinator.com/item?id=25257932"
   },
   {
-    "title": "Vitamin D insufficiency may account for almost 90% of Covid-19 deaths",
-    "url": "https://www.mdpi.com/2072-6643/12/12/3642/htm",
-    "upvotes": 226,
-    "author": "voisin",
-    "comments": 139,
-    "link": "https://news.ycombinator.com/item?id=25261441"
-  },
-  {
-    "title": "College students are learning hard lessons about anti-cheating software",
-    "url": "https://voiceofsandiego.org/topics/education/college-students-are-learning-hard-lessons-about-anti-cheating-software/",
-    "upvotes": 181,
-    "author": "discocrisco",
-    "comments": 237,
-    "link": "https://news.ycombinator.com/item?id=25253248"
-  },
-  {
     "title": "What Is the Signal Encryption Protocol?",
     "url": "https://www.wired.com/story/signal-encryption-protocol-hacker-lexicon/",
-    "upvotes": 78,
+    "upvotes": 80,
     "author": "headalgorithm",
-    "comments": 67,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=25244900"
+  },
+  {
+    "title": "Purpose-First Programming",
+    "url": "https://computinged.wordpress.com/2020/11/30/purpose-first-programming-a-programming-learning-approach-for-learners-who-care-most-about-what-code-achieves-katie-cunninghams-defense/",
+    "upvotes": 8,
+    "author": "azhenley",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25256874"
   },
   {
     "title": "Why Concatenative Programming Matters",
@@ -184,33 +184,17 @@
     "link": "https://news.ycombinator.com/item?id=25244260"
   },
   {
-    "title": "No one who got Moderna's vaccine in trial developed severe Covid-19",
-    "url": "https://www.sciencemag.org/news/2020/11/absolutely-remarkable-no-one-who-got-modernas-vaccine-trial-developed-severe-covid-19",
-    "upvotes": 421,
-    "author": "jakozaur",
-    "comments": 385,
-    "link": "https://news.ycombinator.com/item?id=25253722"
-  },
-  {
     "title": "The Covid Science Wars",
     "url": "https://www.scientificamerican.com/article/the-covid-science-wars1/",
-    "upvotes": 66,
+    "upvotes": 68,
     "author": "johntfella",
     "comments": 140,
     "link": "https://news.ycombinator.com/item?id=25258670"
   },
   {
-    "title": "Purpose-First Programming",
-    "url": "https://computinged.wordpress.com/2020/11/30/purpose-first-programming-a-programming-learning-approach-for-learners-who-care-most-about-what-code-achieves-katie-cunninghams-defense/",
-    "upvotes": 7,
-    "author": "azhenley",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25256874"
-  },
-  {
     "title": "GM scales back partnership with electric truck startup Nikola",
     "url": "https://www.detroitnews.com/story/business/autos/general-motors/2020/11/30/gm-scales-back-partnership-electric-truck-startup-nikola/115072224/",
-    "upvotes": 96,
+    "upvotes": 97,
     "author": "rmason",
     "comments": 80,
     "link": "https://news.ycombinator.com/item?id=25259738"
@@ -218,21 +202,37 @@
   {
     "title": "A free-as-in-freedom re-implementation of Google’s Android user space",
     "url": "https://microg.org/",
-    "upvotes": 723,
+    "upvotes": 725,
     "author": "doener",
     "comments": 171,
     "link": "https://news.ycombinator.com/item?id=25252598"
   },
   {
-    "title": "YC runs Work at a Startup to help you find jobs at over 700 YC-vetted startups",
-    "url": "https://www.workatastartup.com/"
-  },
-  {
     "title": "Error Handling Is Hard",
     "url": "https://www.fpcomplete.com/blog/error-handling-is-hard/",
-    "upvotes": 84,
+    "upvotes": 86,
     "author": "phonebucket",
     "comments": 83,
     "link": "https://news.ycombinator.com/item?id=25253471"
+  },
+  {
+    "title": "The new 'gold rush' for green lithium",
+    "url": "https://www.bbc.com/future/article/20201124-how-geothermal-lithium-could-revolutionise-green-energy",
+    "upvotes": 89,
+    "author": "clouddrover",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=25243764"
+  },
+  {
+    "title": "My Hunt for the Original McDonald’s French-Fry Recipe",
+    "url": "https://www.atlasobscura.com/articles/original-mcdonalds-french-fry-recipe",
+    "upvotes": 100,
+    "author": "pseudolus",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=25244775"
+  },
+  {
+    "title": "YC runs Work at a Startup to help you find jobs at over 700 YC-vetted startups",
+    "url": "https://www.workatastartup.com/"
   }
 ]
