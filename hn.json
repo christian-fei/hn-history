@@ -2,71 +2,63 @@
   {
     "title": "Amazon EC2 Mac Instances",
     "url": "https://aws.amazon.com/blogs/aws/new-use-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/",
-    "upvotes": 329,
+    "upvotes": 349,
     "author": "appwiz",
-    "comments": 145,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=25262303"
   },
   {
     "title": "South Korea's fusion device KSTAR runs for 20 seconds at 100M degrees Celsius",
     "url": "http://www.arirang.com/news/News_View.asp?nseq=268322",
-    "upvotes": 259,
+    "upvotes": 268,
     "author": "airstrike",
-    "comments": 142,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=25261068"
-  },
-  {
-    "title": "Micro Magic RISC-V Core Claims to Beat Apple M1 and Arm Cortex-A9",
-    "url": "https://www.eetimes.com/micro-magic-risc-v-core-claims-to-beat-apple-m1-and-arm-cortex-a9/",
-    "upvotes": 24,
-    "author": "01100011",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25262834"
   },
   {
     "title": "ARM and Lock-Free Programming",
     "url": "https://randomascii.wordpress.com/2020/11/29/arm-and-lock-free-programming/",
-    "upvotes": 49,
+    "upvotes": 55,
     "author": "markdog12",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25262186"
   },
   {
     "title": "Why do I care the open web is dying?",
     "url": "https://insightbrowser.com/blog/open-web-dying-why-care",
-    "upvotes": 113,
+    "upvotes": 122,
     "author": "archajain",
-    "comments": 84,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=25261132"
   },
   {
     "title": "AlphaFold: a solution to a 50-year-old grand challenge in biology",
     "url": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
-    "upvotes": 775,
+    "upvotes": 787,
     "author": "momeara",
-    "comments": 569,
+    "comments": 570,
     "link": "https://news.ycombinator.com/item?id=25253488"
-  },
-  {
-    "title": "Pixar's Universal Scene Description Now on Pypi",
-    "url": "https://pypi.org/project/usd-core/",
-    "upvotes": 65,
-    "author": "dagmx",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25261568"
   },
   {
     "title": "Raytracing in One Weekend",
     "url": "https://raytracing.github.io/books/RayTracingInOneWeekend.html",
-    "upvotes": 214,
+    "upvotes": 219,
     "author": "fanf2",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=25244301"
   },
   {
+    "title": "Pixar's Universal Scene Description Now on Pypi",
+    "url": "https://pypi.org/project/usd-core/",
+    "upvotes": 73,
+    "author": "dagmx",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25261568"
+  },
+  {
     "title": "I Hired a Freelance Editor for My Blog",
     "url": "https://mtlynch.io/editor/",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "quickthrower2",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25262272"
@@ -74,7 +66,7 @@
   {
     "title": "I Made a Self-Quoting Tweet",
     "url": "https://oisinmoran.com/quinetweet",
-    "upvotes": 403,
+    "upvotes": 408,
     "author": "OisinMoran",
     "comments": 101,
     "link": "https://news.ycombinator.com/item?id=25244872"
@@ -82,15 +74,15 @@
   {
     "title": "Undergraduate Math Student Pushes Frontier of Graph Theory",
     "url": "https://www.quantamagazine.org/mit-undergraduate-math-student-pushes-frontier-of-graph-theory-20201130/",
-    "upvotes": 79,
+    "upvotes": 84,
     "author": "mellosouls",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25261291"
   },
   {
     "title": "Rock art discovered in remote Amazon forest",
     "url": "https://www.theguardian.com/science/2020/nov/29/sistine-chapel-of-the-ancients-rock-art-discovered-in-remote-amazon-forest",
-    "upvotes": 111,
+    "upvotes": 114,
     "author": "mv9",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=25244744"
@@ -98,23 +90,39 @@
   {
     "title": "Write your own arbitrary-precision JavaScript math library",
     "url": "https://jrsinclair.com/articles/2020/sick-of-the-jokes-write-your-own-arbitrary-precision-javascript-math-library/",
-    "upvotes": 16,
+    "upvotes": 19,
     "author": "enobrev",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25257209"
   },
   {
+    "title": "QEMU Advent Calendar 2020",
+    "url": "https://www.qemu-advent-calendar.org/2020/",
+    "upvotes": 10,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25262608"
+  },
+  {
     "title": "LuckysheetServer – Google Sheets-like realtime collaborative spreadsheet",
     "url": "https://github.com/mengshukeji/LuckysheetServer",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "alexliu518",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25261004"
   },
   {
+    "title": "Micro Magic RISC-V Core Claims to Beat Apple M1 and Arm Cortex-A9",
+    "url": "https://www.eetimes.com/micro-magic-risc-v-core-claims-to-beat-apple-m1-and-arm-cortex-a9/",
+    "upvotes": 32,
+    "author": "01100011",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=25262834"
+  },
+  {
     "title": "BBC Basic Editor",
     "url": "https://bbcmic.ro/",
-    "upvotes": 220,
+    "upvotes": 221,
     "author": "mnem",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25256853"
@@ -122,47 +130,39 @@
   {
     "title": "Running a full desktop environment on a Kindle",
     "url": "https://nns.ee/blog/2019/04/14/chroot-shenanigans-2.html",
-    "upvotes": 152,
+    "upvotes": 155,
     "author": "slondr",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=25257772"
   },
   {
-    "title": "Dijkstra Was Wrong About 'Radical Novelty'",
-    "url": "https://cacm.acm.org/blogs/blog-cacm/248985-dijkstra-was-wrong-about-radical-novelty-metaphors-in-cs-education/fulltext",
-    "upvotes": 37,
-    "author": "azhenley",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=25257087"
-  },
-  {
     "title": "OpenZFS 2.0",
     "url": "https://github.com/openzfs/zfs/releases/tag/zfs-2.0.0",
-    "upvotes": 275,
+    "upvotes": 276,
     "author": "ascom",
     "comments": 101,
     "link": "https://news.ycombinator.com/item?id=25259405"
   },
   {
+    "title": "Dijkstra Was Wrong About 'Radical Novelty'",
+    "url": "https://cacm.acm.org/blogs/blog-cacm/248985-dijkstra-was-wrong-about-radical-novelty-metaphors-in-cs-education/fulltext",
+    "upvotes": 38,
+    "author": "azhenley",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=25257087"
+  },
+  {
     "title": "Violent, lively and brash, taverns were everywhere in early colonial America",
     "url": "https://aeon.co/essays/taverns-and-the-complicated-birth-of-early-american-civil-society",
-    "upvotes": 98,
+    "upvotes": 99,
     "author": "samclemens",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=25250790"
   },
   {
-    "title": "DevRelOMeter",
-    "url": "https://leggetter.github.io/devrelometer/",
-    "upvotes": 3,
-    "author": "mooreds",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25258465"
-  },
-  {
     "title": "H. G. Wells reviews \"Metropolis\"",
     "url": "https://erkelzaar.tsudao.com/reviews/H.G.Wells_on_Metropolis%201927.htm",
-    "upvotes": 87,
+    "upvotes": 88,
     "author": "pmoriarty",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25258616"
@@ -170,65 +170,65 @@
   {
     "title": "Why is Apple's M1 chip so fast?",
     "url": "https://erik-engheim.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2",
-    "upvotes": 605,
+    "upvotes": 612,
     "author": "socialdemocrat",
-    "comments": 524,
+    "comments": 527,
     "link": "https://news.ycombinator.com/item?id=25257932"
   },
   {
-    "title": "QEMU Advent Calendar 2020",
-    "url": "https://www.qemu-advent-calendar.org/2020/",
-    "upvotes": 4,
-    "author": "todsacerdoti",
+    "title": "DevRelOMeter",
+    "url": "https://leggetter.github.io/devrelometer/",
+    "upvotes": 5,
+    "author": "mooreds",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25262608"
+    "link": "https://news.ycombinator.com/item?id=25258465"
+  },
+  {
+    "title": "Vitamin D insufficiency may account for almost 90% of Covid-19 deaths",
+    "url": "https://www.mdpi.com/2072-6643/12/12/3642/htm",
+    "upvotes": 266,
+    "author": "voisin",
+    "comments": 172,
+    "link": "https://news.ycombinator.com/item?id=25261441"
   },
   {
     "title": "Purpose-First Programming",
     "url": "https://computinged.wordpress.com/2020/11/30/purpose-first-programming-a-programming-learning-approach-for-learners-who-care-most-about-what-code-achieves-katie-cunninghams-defense/",
     "upvotes": 14,
     "author": "azhenley",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25256874"
-  },
-  {
-    "title": "Vitamin D insufficiency may account for almost 90% of Covid-19 deaths",
-    "url": "https://www.mdpi.com/2072-6643/12/12/3642/htm",
-    "upvotes": 262,
-    "author": "voisin",
-    "comments": 170,
-    "link": "https://news.ycombinator.com/item?id=25261441"
   },
   {
     "title": "Why Concatenative Programming Matters",
     "url": "https://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html",
-    "upvotes": 40,
+    "upvotes": 41,
     "author": "rrampage",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25244260"
   },
   {
-    "title": "Csidh Reference Implementation",
-    "url": "https://github.com/ioerror/csidh-reference-implementation",
-    "upvotes": 4,
-    "author": "adulau",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25243962"
-  },
-  {
     "title": "What Is the Signal Encryption Protocol?",
     "url": "https://www.wired.com/story/signal-encryption-protocol-hacker-lexicon/",
-    "upvotes": 85,
+    "upvotes": 86,
     "author": "headalgorithm",
     "comments": 73,
     "link": "https://news.ycombinator.com/item?id=25244900"
   },
   {
+    "title": "Csidh Reference Implementation",
+    "url": "https://github.com/ioerror/csidh-reference-implementation",
+    "upvotes": 5,
+    "author": "adulau",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25243962"
+  },
+  {
     "title": "The Covid Science Wars",
     "url": "https://www.scientificamerican.com/article/the-covid-science-wars1/",
-    "upvotes": 73,
+    "upvotes": 74,
     "author": "johntfella",
-    "comments": 147,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=25258670"
   },
   {
