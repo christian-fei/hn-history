@@ -1,32 +1,32 @@
 [
   {
-    "title": "AWS S3 is now strongly consistent",
+    "title": "S3 Strong Consistency",
     "url": "https://aws.amazon.com/s3/consistency/",
-    "upvotes": 244,
+    "upvotes": 278,
     "author": "juliansimioni",
-    "comments": 64,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=25271791"
   },
   {
     "title": "An iOS zero-click radio proximity exploit odyssey",
     "url": "https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html",
-    "upvotes": 292,
+    "upvotes": 307,
     "author": "tbodt",
-    "comments": 115,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=25270184"
   },
   {
     "title": "Attention K-Mart Shoppers: Piped Music Collection on the Internet Archive",
     "url": "https://archive.org/details/attentionkmartshoppers",
-    "upvotes": 70,
+    "upvotes": 84,
     "author": "shervinafshar",
-    "comments": 26,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25271464"
   },
   {
     "title": "AWS Lambda pricing now per ms",
     "url": "https://aws.amazon.com/lambda/pricing/",
-    "upvotes": 480,
+    "upvotes": 489,
     "author": "astuyvenberg",
     "comments": 252,
     "link": "https://news.ycombinator.com/item?id=25267029"
@@ -34,71 +34,79 @@
   {
     "title": "Salesforce Signs Definitive Agreement to Acquire Slack",
     "url": "https://www.salesforce.com/news/press-releases/2020/12/01/salesforce-definitive-agreement-update/",
-    "upvotes": 605,
+    "upvotes": 616,
     "author": "jmsflknr",
-    "comments": 440,
+    "comments": 448,
     "link": "https://news.ycombinator.com/item?id=25269934"
   },
   {
     "title": "What is protein folding? A brief explanation",
     "url": "https://rootsofprogress.org/alphafold-protein-folding-explainer",
-    "upvotes": 81,
+    "upvotes": 90,
     "author": "jasoncrawford",
-    "comments": 13,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25261591"
+  },
+  {
+    "title": "Front: The $1.3B Startup Slackifying Email",
+    "url": "https://sacra.com/research/front-inside-the-startup-slackifying-email/?",
+    "upvotes": 7,
+    "author": "bdr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25272533"
   },
   {
     "title": "Ethereum 2.0 launches",
     "url": "https://twitter.com/ethereum/status/1333743998637400073",
-    "upvotes": 516,
+    "upvotes": 521,
     "author": "0x64",
-    "comments": 486,
+    "comments": 489,
     "link": "https://news.ycombinator.com/item?id=25264694"
   },
   {
     "title": "Computer Graphics from Scratch",
     "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/",
-    "upvotes": 202,
+    "upvotes": 208,
     "author": "fanf2",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25266812"
   },
   {
     "title": "Ask HN: Who is hiring?",
     "url": "item?id=25266288",
-    "upvotes": 273,
+    "upvotes": 278,
     "author": "whoishiring",
-    "comments": 489,
+    "comments": 502,
     "link": "https://news.ycombinator.com/item?id=25266288"
+  },
+  {
+    "title": "Monica: Personal CRM. Remember everything about your friends, family and etc.",
+    "url": "https://github.com/monicahq/monica",
+    "upvotes": 59,
+    "author": "tylermauthe",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25270001"
   },
   {
     "title": "How to buy gifts that people actually want",
     "url": "https://www.willpatrick.co.uk/articles/how-to-buy-gifts-that-people-actually-want",
-    "upvotes": 182,
+    "upvotes": 185,
     "author": "willpatrick",
-    "comments": 204,
+    "comments": 207,
     "link": "https://news.ycombinator.com/item?id=25267847"
   },
   {
     "title": "Oasis: a small statically-linked Linux system",
     "url": "https://github.com/oasislinux/oasis",
-    "upvotes": 212,
+    "upvotes": 214,
     "author": "varbhat",
     "comments": 124,
     "link": "https://news.ycombinator.com/item?id=25265761"
   },
   {
-    "title": "Monica: Personal CRM. Remember everything about your friends, family and etc.",
-    "url": "https://github.com/monicahq/monica",
-    "upvotes": 40,
-    "author": "tylermauthe",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25270001"
-  },
-  {
     "title": "Feature Casualties of Large Databases",
     "url": "https://brandur.org/large-database-casualties",
-    "upvotes": 52,
+    "upvotes": 55,
     "author": "craigkerstiens",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25270107"
@@ -106,17 +114,17 @@
   {
     "title": "Ask HN: Who wants to be hired?",
     "url": "item?id=25266287",
-    "upvotes": 131,
+    "upvotes": 133,
     "author": "whoishiring",
-    "comments": 162,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=25266287"
   },
   {
     "title": "PinePhone KDE Community Edition is now available",
     "url": "https://www.pine64.org/2020/12/01/kde-community-edition-is-now-available/",
-    "upvotes": 268,
+    "upvotes": 272,
     "author": "danielg0",
-    "comments": 149,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=25264515"
   },
   {
@@ -126,18 +134,50 @@
   {
     "title": "Ask HN: What are the best advanced computer science courses online?",
     "url": "item?id=25271676",
-    "upvotes": 53,
+    "upvotes": 74,
     "author": "st1x7",
-    "comments": 16,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25271676"
   },
   {
     "title": "Self-Hosting Still Pays",
     "url": "https://www.servethehome.com/falling-from-the-sky-2020-self-hosting-still-pays/",
-    "upvotes": 287,
+    "upvotes": 291,
     "author": "emperor_",
-    "comments": 222,
+    "comments": 228,
     "link": "https://news.ycombinator.com/item?id=25267651"
+  },
+  {
+    "title": "The Road to the JIT",
+    "url": "http://blog.erlang.org/the-road-to-the-jit/",
+    "upvotes": 174,
+    "author": "lelf",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=25265238"
+  },
+  {
+    "title": "Castles in the Sky: San Francisco Denmark Diary Love Mystery",
+    "url": "https://magazine.atavist.com/castles-in-the-sky-san-francisco-denmark-diary-love-mystery",
+    "upvotes": 7,
+    "author": "feltsense",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25269492"
+  },
+  {
+    "title": "Do we really need a third Apache project for columnar data?",
+    "url": "http://dbmsmusings.blogspot.com/2017/10/apache-arrow-vs-parquet-and-orc-do-we.html",
+    "upvotes": 53,
+    "author": "archagon",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25258626"
+  },
+  {
+    "title": "NN-SVG: Generate publication-ready NN-architecture schematics",
+    "url": "https://alexlenail.me/NN-SVG/AlexNet.html",
+    "upvotes": 3,
+    "author": "tzm",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25272360"
   },
   {
     "title": "MFK Fisher's Sensual Realm",
@@ -148,89 +188,49 @@
     "link": "https://news.ycombinator.com/item?id=25266669"
   },
   {
-    "title": "Do we really need a third Apache project for columnar data?",
-    "url": "http://dbmsmusings.blogspot.com/2017/10/apache-arrow-vs-parquet-and-orc-do-we.html",
-    "upvotes": 52,
-    "author": "archagon",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=25258626"
-  },
-  {
-    "title": "The Road to the JIT",
-    "url": "http://blog.erlang.org/the-road-to-the-jit/",
-    "upvotes": 173,
-    "author": "lelf",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=25265238"
-  },
-  {
-    "title": "Castles in the Sky: San Francisco Denmark Diary Love Mystery",
-    "url": "https://magazine.atavist.com/castles-in-the-sky-san-francisco-denmark-diary-love-mystery",
-    "upvotes": 4,
-    "author": "feltsense",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25269492"
-  },
-  {
-    "title": "Computer Science Degree – Is it worthy it? Should You Get it?",
-    "url": "https://monalidor.com/computer-science-degree-is-it-worthy-it/",
-    "upvotes": 3,
-    "author": "amiamigo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25272222"
-  },
-  {
     "title": "Wyze $20 Smart Watch",
     "url": "https://wyze.com/wyze-watch.html",
-    "upvotes": 171,
+    "upvotes": 175,
     "author": "ignorantguy",
-    "comments": 200,
+    "comments": 209,
     "link": "https://news.ycombinator.com/item?id=25268914"
   },
   {
-    "title": "Yes! High level languages should be used to write systems software",
-    "url": "https://dl.acm.org/doi/10.1145/800181.810318",
-    "upvotes": 4,
-    "author": "azhenley",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25272175"
+    "title": "AlphaFold: a solution to a 50-year-old grand challenge in biology",
+    "url": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
+    "upvotes": 1251,
+    "author": "momeara",
+    "comments": 639,
+    "link": "https://news.ycombinator.com/item?id=25253488"
   },
   {
     "title": "The Strength of Being Misunderstood",
     "url": "https://blog.samaltman.com/the-strength-of-being-misunderstood",
-    "upvotes": 68,
+    "upvotes": 69,
     "author": "firloop",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25268497"
   },
   {
     "title": "Babelfish: SQL Server-to-Postgres Translation Layer",
     "url": "https://aws.amazon.com/blogs/opensource/want-more-postgresql-you-just-might-like-babelfish/",
-    "upvotes": 241,
+    "upvotes": 243,
     "author": "ke4qqq",
-    "comments": 91,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=25267204"
-  },
-  {
-    "title": "AlphaFold: a solution to a 50-year-old grand challenge in biology",
-    "url": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
-    "upvotes": 1249,
-    "author": "momeara",
-    "comments": 638,
-    "link": "https://news.ycombinator.com/item?id=25253488"
   },
   {
     "title": "Show HN: Tiny mobile-friendly interactive fiction game",
     "url": "https://memalign.github.io/m/dungeon/index.html",
-    "upvotes": 67,
+    "upvotes": 71,
     "author": "memalign",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25262631"
   },
   {
     "title": "Precursor’s Custom PCBs",
     "url": "https://www.bunniestudios.com/blog/?p=6011",
-    "upvotes": 110,
+    "upvotes": 114,
     "author": "parsecs",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25266473"
