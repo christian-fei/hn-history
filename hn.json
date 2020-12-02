@@ -1,48 +1,60 @@
 [
   {
-    "title": "QBE vs. LLVM",
-    "url": "https://c9x.me/compile/doc/llvm.html",
-    "upvotes": 133,
-    "author": "peter_d_sherman",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=25273907"
+    "title": "Australian Government’s Bureau of Meteorology Can’t Do HTTPS",
+    "url": "https://www.bom.gov.au/",
+    "upvotes": 16,
+    "author": "taspeotis",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25275500"
   },
   {
-    "title": "S3 Strong Consistency",
-    "url": "https://aws.amazon.com/s3/consistency/",
-    "upvotes": 538,
-    "author": "juliansimioni",
-    "comments": 161,
-    "link": "https://news.ycombinator.com/item?id=25271791"
+    "title": "QBE vs. LLVM",
+    "url": "https://c9x.me/compile/doc/llvm.html",
+    "upvotes": 145,
+    "author": "peter_d_sherman",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=25273907"
   },
   {
     "title": "Linux kernel heap quarantine versus use-after-free exploits",
     "url": "https://a13xp0p0v.github.io/2020/11/30/slab-quarantine.html",
-    "upvotes": 25,
+    "upvotes": 33,
     "author": "kmwyard",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25274928"
+  },
+  {
+    "title": "S3 Strong Consistency",
+    "url": "https://aws.amazon.com/s3/consistency/",
+    "upvotes": 542,
+    "author": "juliansimioni",
+    "comments": 166,
+    "link": "https://news.ycombinator.com/item?id=25271791"
   },
   {
     "title": "Google partners with SkyWater to enable open source manufacturing of ASICs",
     "url": "https://www.skywatertechnology.com/",
-    "upvotes": 72,
+    "upvotes": 77,
     "author": "lawrenceyan",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25273895"
   },
   {
+    "title": "Xix.ai",
+    "url": "https://jobs.lever.co/xix"
+  },
+  {
     "title": "An iOS zero-click radio proximity exploit odyssey",
     "url": "https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html",
-    "upvotes": 521,
+    "upvotes": 534,
     "author": "tbodt",
-    "comments": 196,
+    "comments": 198,
     "link": "https://news.ycombinator.com/item?id=25270184"
   },
   {
     "title": "Alternative notation for exponents, logs and roots",
     "url": "https://math.stackexchange.com/questions/30046/alternative-notation-for-exponents-logs-and-roots",
-    "upvotes": 43,
+    "upvotes": 54,
     "author": "aleyan",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25253498"
@@ -50,23 +62,39 @@
   {
     "title": "Messenger API Updates for Europe",
     "url": "https://developers.facebook.com/docs/messenger-platform/europe-updates",
-    "upvotes": 36,
+    "upvotes": 43,
     "author": "zsiciarz",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25274123"
+  },
+  {
+    "title": "UK approves Pfizer vaccine for rollout next week",
+    "url": "https://www.thevibes.com/articles/world/8174/uk-approves-pfizer-vaccine-for-rollout-next-week",
+    "upvotes": 18,
+    "author": "williamsharris",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25275329"
   },
   {
     "title": "Monica: Personal CRM. Remember everything about your friends, family and etc.",
     "url": "https://github.com/monicahq/monica",
-    "upvotes": 263,
+    "upvotes": 275,
     "author": "tylermauthe",
-    "comments": 130,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=25270001"
+  },
+  {
+    "title": "Ask HN: Has anyone seen smart TVs connect to unsecured WiFi without permission?",
+    "url": "item?id=25275350",
+    "upvotes": 27,
+    "author": "Jonnax",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25275350"
   },
   {
     "title": "Attention K-Mart Shoppers: Piped Music Collection on the Internet Archive",
     "url": "https://archive.org/details/attentionkmartshoppers",
-    "upvotes": 220,
+    "upvotes": 224,
     "author": "shervinafshar",
     "comments": 69,
     "link": "https://news.ycombinator.com/item?id=25271464"
@@ -74,94 +102,90 @@
   {
     "title": "What is protein folding? A brief explanation",
     "url": "https://rootsofprogress.org/alphafold-protein-folding-explainer",
-    "upvotes": 234,
+    "upvotes": 243,
     "author": "jasoncrawford",
-    "comments": 64,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=25261591"
-  },
-  {
-    "title": "The $2B Mall Rats",
-    "url": "https://www.esquire.com/news-politics/a34785141/shopping-mall-short-hedge-fund-covid-19/",
-    "upvotes": 48,
-    "author": "CapitalistCartr",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=25264548"
   },
   {
     "title": "Win by Segfault and Other Notes on Exploiting Chess Engines",
     "url": "https://chess.resistant.tech/",
-    "upvotes": 69,
+    "upvotes": 76,
     "author": "wglb",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25272957"
   },
   {
     "title": "Salesforce Signs Definitive Agreement to Acquire Slack",
     "url": "https://www.salesforce.com/news/press-releases/2020/12/01/salesforce-definitive-agreement-update/",
-    "upvotes": 804,
+    "upvotes": 808,
     "author": "jmsflknr",
-    "comments": 581,
+    "comments": 586,
     "link": "https://news.ycombinator.com/item?id=25269934"
+  },
+  {
+    "title": "Observable and Creative Coding",
+    "url": "https://observablehq.com/@makio135/creative-coding",
+    "upvotes": 73,
+    "author": "grzm",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25272726"
+  },
+  {
+    "title": "Hackers can take full control of online compilers through a RCE exploit",
+    "url": "https://serhack.me/articles/hackers-full-control-of-online-compilers-through-a-common-exploit/",
+    "upvotes": 12,
+    "author": "crecker",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25274699"
+  },
+  {
+    "title": "Mars’ underground brine could be a good source of oxygen",
+    "url": "https://arstechnica.com/science/2020/11/mars-underground-brine-could-be-a-good-source-of-oxygen/",
+    "upvotes": 14,
+    "author": "rbanffy",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25264374"
+  },
+  {
+    "title": "AlphaFold: a solution to a 50-year-old grand challenge in biology",
+    "url": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
+    "upvotes": 1319,
+    "author": "momeara",
+    "comments": 647,
+    "link": "https://news.ycombinator.com/item?id=25253488"
+  },
+  {
+    "title": "Arecibo Observatory Collapsed",
+    "url": "https://www.space.com/arecibo-radio-telescope-collapses",
+    "upvotes": 634,
+    "author": "BrentOzar",
+    "comments": 276,
+    "link": "https://news.ycombinator.com/item?id=25264555"
+  },
+  {
+    "title": "NN-SVG: Generate publication-ready NN-architecture schematics",
+    "url": "https://alexlenail.me/NN-SVG/AlexNet.html",
+    "upvotes": 54,
+    "author": "tzm",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25272360"
   },
   {
     "title": "Canada to apply GST/HST to short-term rentals booked online",
     "url": "https://thinkpol.ca/2020/12/01/airbnb-asked-canada-for-a-bailout-canada-slapped-airbnb-with-a-tax/",
     "upvotes": 54,
     "author": "63labs",
-    "comments": 59,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=25273618"
   },
   {
-    "title": "Mux",
-    "url": "https://mux.com/jobs"
-  },
-  {
-    "title": "Mars’ underground brine could be a good source of oxygen",
-    "url": "https://arstechnica.com/science/2020/11/mars-underground-brine-could-be-a-good-source-of-oxygen/",
-    "upvotes": 10,
-    "author": "rbanffy",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25264374"
-  },
-  {
-    "title": "Observable and Creative Coding",
-    "url": "https://observablehq.com/@makio135/creative-coding",
-    "upvotes": 67,
-    "author": "grzm",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25272726"
-  },
-  {
-    "title": "NN-SVG: Generate publication-ready NN-architecture schematics",
-    "url": "https://alexlenail.me/NN-SVG/AlexNet.html",
-    "upvotes": 52,
-    "author": "tzm",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25272360"
-  },
-  {
-    "title": "Hackers can take full control of online compilers through a RCE exploit",
-    "url": "https://serhack.me/articles/hackers-full-control-of-online-compilers-through-a-common-exploit/",
-    "upvotes": 10,
-    "author": "crecker",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25274699"
-  },
-  {
-    "title": "AlphaFold: a solution to a 50-year-old grand challenge in biology",
-    "url": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
-    "upvotes": 1317,
-    "author": "momeara",
-    "comments": 646,
-    "link": "https://news.ycombinator.com/item?id=25253488"
-  },
-  {
-    "title": "Arecibo Observatory Collapsed",
-    "url": "https://www.space.com/arecibo-radio-telescope-collapses",
-    "upvotes": 631,
-    "author": "BrentOzar",
-    "comments": 276,
-    "link": "https://news.ycombinator.com/item?id=25264555"
+    "title": "Could AI be the future of bike race coverage?",
+    "url": "https://cyclingtips.com/2020/12/could-ai-be-the-future-of-bike-race-coverage/",
+    "upvotes": 3,
+    "author": "giuliomagnifico",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25263330"
   },
   {
     "title": "AWS Lambda pricing now per ms",
@@ -172,67 +196,43 @@
     "link": "https://news.ycombinator.com/item?id=25267029"
   },
   {
-    "title": "Hunting Down the Ruby 'Inplace' Bug",
-    "url": "https://blog.peterzhu.ca/ruby-inplace-bug/",
-    "upvotes": 22,
-    "author": "petercooper",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25255718"
-  },
-  {
     "title": "The Road to the JIT",
     "url": "http://blog.erlang.org/the-road-to-the-jit/",
-    "upvotes": 216,
+    "upvotes": 217,
     "author": "lelf",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=25265238"
-  },
-  {
-    "title": "John Carmack on Inlined Code",
-    "url": "http://number-none.com/blow/john_carmack_on_inlined_code.html",
-    "upvotes": 94,
-    "author": "tosh",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=25263488"
-  },
-  {
-    "title": "Front: The $1.3B Startup Slackifying Email",
-    "url": "https://sacra.com/research/front-inside-the-startup-slackifying-email/?",
-    "upvotes": 126,
-    "author": "bdr",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=25272533"
   },
   {
     "title": "Writing a BNF Grammar",
     "url": "https://dev.to/bellmar/writing-a-bnf-grammar-featuring-prof-jeff-heinz-1cf0",
-    "upvotes": 22,
+    "upvotes": 25,
     "author": "mbellotti",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25273427"
   },
   {
-    "title": "Feature Casualties of Large Databases",
-    "url": "https://brandur.org/large-database-casualties",
-    "upvotes": 103,
-    "author": "craigkerstiens",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=25270107"
+    "title": "Why it's good for users that HTML, CSS and JavaScript are separate languages",
+    "url": "https://hiddedevries.nl/en/blog/2020-11-25-why-its-good-for-users-that-html-css-and-js-are-separate-languages/",
+    "upvotes": 8,
+    "author": "helsinkiandrew",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25274271"
   },
   {
-    "title": "Ask HN: What are the best advanced computer science courses online?",
-    "url": "item?id=25271676",
-    "upvotes": 255,
-    "author": "st1x7",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=25271676"
+    "title": "Hunting Down the Ruby 'Inplace' Bug",
+    "url": "https://blog.peterzhu.ca/ruby-inplace-bug/",
+    "upvotes": 24,
+    "author": "petercooper",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25255718"
   },
   {
-    "title": "Ethereum 2.0 launches",
-    "url": "https://twitter.com/ethereum/status/1333743998637400073",
-    "upvotes": 593,
-    "author": "0x64",
-    "comments": 547,
-    "link": "https://news.ycombinator.com/item?id=25264694"
+    "title": "The $2B Mall Rats",
+    "url": "https://www.esquire.com/news-politics/a34785141/shopping-mall-short-hedge-fund-covid-19/",
+    "upvotes": 49,
+    "author": "CapitalistCartr",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=25264548"
   }
 ]
