@@ -1,40 +1,48 @@
 [
   {
-    "title": "QBE vs. LLVM",
-    "url": "https://c9x.me/compile/doc/llvm.html",
-    "upvotes": 150,
-    "author": "peter_d_sherman",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=25273907"
-  },
-  {
     "title": "Amnesia – data anonymization made easy",
     "url": "https://amnesia.openaire.eu/",
-    "upvotes": 7,
+    "upvotes": 16,
     "author": "T-A",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25275637"
+  },
+  {
+    "title": "QBE vs. LLVM",
+    "url": "https://c9x.me/compile/doc/llvm.html",
+    "upvotes": 161,
+    "author": "peter_d_sherman",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=25273907"
   },
   {
     "title": "S3 Strong Consistency",
     "url": "https://aws.amazon.com/s3/consistency/",
-    "upvotes": 550,
+    "upvotes": 554,
     "author": "juliansimioni",
-    "comments": 169,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=25271791"
   },
   {
     "title": "Linux kernel heap quarantine versus use-after-free exploits",
     "url": "https://a13xp0p0v.github.io/2020/11/30/slab-quarantine.html",
-    "upvotes": 39,
+    "upvotes": 44,
     "author": "kmwyard",
-    "comments": 10,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25274928"
+  },
+  {
+    "title": "Converting millions of viewers to millions of Euros with Serverless",
+    "url": "https://medium.com/we-are-serverless/the-rte-toy-show-appeal-converting-millions-of-viewers-to-millions-of-euros-with-serverless-b198d4d96a06",
+    "upvotes": 12,
+    "author": "skifunkster",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25264506"
   },
   {
     "title": "Google partners with SkyWater to enable open source manufacturing of ASICs",
     "url": "https://www.skywatertechnology.com/",
-    "upvotes": 83,
+    "upvotes": 91,
     "author": "lawrenceyan",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25273895"
@@ -42,9 +50,9 @@
   {
     "title": "Alternative notation for exponents, logs and roots",
     "url": "https://math.stackexchange.com/questions/30046/alternative-notation-for-exponents-logs-and-roots",
-    "upvotes": 60,
+    "upvotes": 69,
     "author": "aleyan",
-    "comments": 15,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25253498"
   },
   {
@@ -54,95 +62,95 @@
   {
     "title": "Ask HN: Has anyone seen smart TVs connect to unsecured WiFi without permission?",
     "url": "item?id=25275350",
-    "upvotes": 37,
+    "upvotes": 54,
     "author": "Jonnax",
-    "comments": 15,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25275350"
-  },
-  {
-    "title": "What is protein folding? A brief explanation",
-    "url": "https://rootsofprogress.org/alphafold-protein-folding-explainer",
-    "upvotes": 250,
-    "author": "jasoncrawford",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=25261591"
   },
   {
     "title": "Attention K-Mart Shoppers: Piped Music Collection on the Internet Archive",
     "url": "https://archive.org/details/attentionkmartshoppers",
-    "upvotes": 226,
+    "upvotes": 234,
     "author": "shervinafshar",
     "comments": 69,
     "link": "https://news.ycombinator.com/item?id=25271464"
   },
   {
-    "title": "Messenger API Updates for Europe",
-    "url": "https://developers.facebook.com/docs/messenger-platform/europe-updates",
-    "upvotes": 45,
-    "author": "zsiciarz",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=25274123"
+    "title": "What is protein folding? A brief explanation",
+    "url": "https://rootsofprogress.org/alphafold-protein-folding-explainer",
+    "upvotes": 263,
+    "author": "jasoncrawford",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=25261591"
   },
   {
-    "title": "Converting millions of viewers to millions of Euros with Serverless",
-    "url": "https://medium.com/we-are-serverless/the-rte-toy-show-appeal-converting-millions-of-viewers-to-millions-of-euros-with-serverless-b198d4d96a06",
-    "upvotes": 3,
-    "author": "skifunkster",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25264506"
+    "title": "Why it's good for users that HTML, CSS and JavaScript are separate languages",
+    "url": "https://hiddedevries.nl/en/blog/2020-11-25-why-its-good-for-users-that-html-css-and-js-are-separate-languages/",
+    "upvotes": 22,
+    "author": "helsinkiandrew",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25274271"
+  },
+  {
+    "title": "Messenger API Updates for Europe",
+    "url": "https://developers.facebook.com/docs/messenger-platform/europe-updates",
+    "upvotes": 50,
+    "author": "zsiciarz",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=25274123"
   },
   {
     "title": "Win by Segfault and Other Notes on Exploiting Chess Engines",
     "url": "https://chess.resistant.tech/",
-    "upvotes": 78,
+    "upvotes": 80,
     "author": "wglb",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25272957"
   },
   {
-    "title": "Why it's good for users that HTML, CSS and JavaScript are separate languages",
-    "url": "https://hiddedevries.nl/en/blog/2020-11-25-why-its-good-for-users-that-html-css-and-js-are-separate-languages/",
-    "upvotes": 16,
-    "author": "helsinkiandrew",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25274271"
+    "title": "Mars’ underground brine could be a good source of oxygen",
+    "url": "https://arstechnica.com/science/2020/11/mars-underground-brine-could-be-a-good-source-of-oxygen/",
+    "upvotes": 19,
+    "author": "rbanffy",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=25264374"
   },
   {
     "title": "Observable and Creative Coding",
     "url": "https://observablehq.com/@makio135/creative-coding",
-    "upvotes": 76,
+    "upvotes": 77,
     "author": "grzm",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25272726"
-  },
-  {
-    "title": "Hackers can take full control of online compilers through a RCE exploit",
-    "url": "https://serhack.me/articles/hackers-full-control-of-online-compilers-through-a-common-exploit/",
-    "upvotes": 16,
-    "author": "crecker",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25274699"
-  },
-  {
-    "title": "Mars’ underground brine could be a good source of oxygen",
-    "url": "https://arstechnica.com/science/2020/11/mars-underground-brine-could-be-a-good-source-of-oxygen/",
-    "upvotes": 15,
-    "author": "rbanffy",
     "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25264374"
+    "link": "https://news.ycombinator.com/item?id=25272726"
   },
   {
     "title": "An iOS zero-click radio proximity exploit odyssey",
     "url": "https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html",
-    "upvotes": 540,
+    "upvotes": 544,
     "author": "tbodt",
-    "comments": 203,
+    "comments": 204,
     "link": "https://news.ycombinator.com/item?id=25270184"
+  },
+  {
+    "title": "A Chain Cut Through a Capsized Cargo Ship Filled W' Cars: Process Is Fascinating",
+    "url": "https://jalopnik.com/a-chain-just-cut-through-a-capsized-cargo-ship-filled-w-1845784581",
+    "upvotes": 29,
+    "author": "BuildTheRobots",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25275499"
+  },
+  {
+    "title": "Hackers can take full control of online compilers through a RCE exploit",
+    "url": "https://serhack.me/articles/hackers-full-control-of-online-compilers-through-a-common-exploit/",
+    "upvotes": 17,
+    "author": "crecker",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25274699"
   },
   {
     "title": "AlphaFold: a solution to a 50-year-old grand challenge in biology",
     "url": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
-    "upvotes": 1322,
+    "upvotes": 1327,
     "author": "momeara",
     "comments": 647,
     "link": "https://news.ycombinator.com/item?id=25253488"
@@ -150,31 +158,39 @@
   {
     "title": "Arecibo Observatory Collapsed",
     "url": "https://www.space.com/arecibo-radio-telescope-collapses",
-    "upvotes": 637,
+    "upvotes": 639,
     "author": "BrentOzar",
-    "comments": 279,
+    "comments": 281,
     "link": "https://news.ycombinator.com/item?id=25264555"
   },
   {
     "title": "NN-SVG: Generate publication-ready NN-architecture schematics",
     "url": "https://alexlenail.me/NN-SVG/AlexNet.html",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "tzm",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25272360"
   },
   {
+    "title": "Amazon’s cloudy Macs cost $25.99 a day. 77 days of usage would buy you your own",
+    "url": "https://www.theregister.com/2020/12/02/aws_ec2_mac_pricing/",
+    "upvotes": 13,
+    "author": "alexellisuk",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25275507"
+  },
+  {
     "title": "Canada to apply GST/HST to short-term rentals booked online",
     "url": "https://thinkpol.ca/2020/12/01/airbnb-asked-canada-for-a-bailout-canada-slapped-airbnb-with-a-tax/",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "63labs",
-    "comments": 65,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=25273618"
   },
   {
     "title": "AWS Lambda pricing now per ms",
     "url": "https://aws.amazon.com/lambda/pricing/",
-    "upvotes": 591,
+    "upvotes": 592,
     "author": "astuyvenberg",
     "comments": 266,
     "link": "https://news.ycombinator.com/item?id=25267029"
@@ -182,18 +198,26 @@
   {
     "title": "The Road to the JIT",
     "url": "http://blog.erlang.org/the-road-to-the-jit/",
-    "upvotes": 221,
+    "upvotes": 223,
     "author": "lelf",
     "comments": 48,
     "link": "https://news.ycombinator.com/item?id=25265238"
   },
   {
-    "title": "A Chain Cut Through a Capsized Cargo Ship Filled W' Cars: Process Is Fascinating",
-    "url": "https://jalopnik.com/a-chain-just-cut-through-a-capsized-cargo-ship-filled-w-1845784581",
-    "upvotes": 13,
-    "author": "BuildTheRobots",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25275499"
+    "title": "Hunting Down the Ruby 'Inplace' Bug",
+    "url": "https://blog.peterzhu.ca/ruby-inplace-bug/",
+    "upvotes": 29,
+    "author": "petercooper",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25255718"
+  },
+  {
+    "title": "Monica: Personal CRM. Remember everything about your friends, family and etc.",
+    "url": "https://github.com/monicahq/monica",
+    "upvotes": 295,
+    "author": "tylermauthe",
+    "comments": 142,
+    "link": "https://news.ycombinator.com/item?id=25270001"
   },
   {
     "title": "Writing a BNF Grammar",
@@ -204,35 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=25273427"
   },
   {
-    "title": "Could AI be the future of bike race coverage?",
-    "url": "https://cyclingtips.com/2020/12/could-ai-be-the-future-of-bike-race-coverage/",
-    "upvotes": 3,
-    "author": "giuliomagnifico",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25263330"
-  },
-  {
-    "title": "Hunting Down the Ruby 'Inplace' Bug",
-    "url": "https://blog.peterzhu.ca/ruby-inplace-bug/",
-    "upvotes": 27,
-    "author": "petercooper",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25255718"
-  },
-  {
-    "title": "Monica: Personal CRM. Remember everything about your friends, family and etc.",
-    "url": "https://github.com/monicahq/monica",
-    "upvotes": 291,
-    "author": "tylermauthe",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=25270001"
-  },
-  {
     "title": "John Carmack on Inlined Code",
     "url": "http://number-none.com/blow/john_carmack_on_inlined_code.html",
-    "upvotes": 104,
+    "upvotes": 108,
     "author": "tosh",
-    "comments": 104,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=25263488"
   }
 ]
