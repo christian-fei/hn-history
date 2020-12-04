@@ -1,48 +1,56 @@
 [
   {
+    "title": "A spellchecker used to be a major feat of software engineering",
+    "url": "https://prog21.dadgum.com/29.html",
+    "upvotes": 52,
+    "author": "jakelazaroff",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25296900"
+  },
+  {
     "title": "An update to storage policies across your Google Account",
     "url": "https://blog.google/products/photos/storage-policy-update/",
-    "upvotes": 207,
+    "upvotes": 241,
     "author": "e2e4",
-    "comments": 187,
+    "comments": 239,
     "link": "https://news.ycombinator.com/item?id=25294926"
   },
   {
     "title": "Drone Footage of Arecibo Observatory Collapse",
     "url": "https://www.nsf.gov/news/special_reports/arecibo/",
-    "upvotes": 579,
+    "upvotes": 615,
     "author": "uptown",
-    "comments": 165,
+    "comments": 169,
     "link": "https://news.ycombinator.com/item?id=25290629"
   },
   {
     "title": "Stripe Treasury",
     "url": "https://stripe.com/treasury",
-    "upvotes": 632,
+    "upvotes": 665,
     "author": "timf",
-    "comments": 190,
+    "comments": 195,
     "link": "https://news.ycombinator.com/item?id=25289626"
   },
   {
     "title": "Computer input latency from 1977-2017",
     "url": "https://danluu.com/input-lag/",
-    "upvotes": 317,
+    "upvotes": 331,
     "author": "thesephist",
-    "comments": 188,
+    "comments": 196,
     "link": "https://news.ycombinator.com/item?id=25290118"
   },
   {
     "title": "TinyCheck: Easily capture network communications coming from a smartphone",
     "url": "https://github.com/KasperskyLab/TinyCheck",
-    "upvotes": 47,
+    "upvotes": 66,
     "author": "sciurus",
-    "comments": 11,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25295192"
   },
   {
     "title": "Mesa 20.3 released with out-of-the-box support for Arm's Mali Bifrost GPUs",
     "url": "https://docs.mesa3d.org/relnotes/20.3.0.html",
-    "upvotes": 59,
+    "upvotes": 71,
     "author": "mfilion",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25294192"
@@ -50,189 +58,181 @@
   {
     "title": "Warner Bros. Will Send Entire 2021 Slate to HBO Max and Theaters",
     "url": "https://www.hollywoodreporter.com/news/warner-bros-smashes-box-office-windows-will-send-2021-slate-to-hbo-max-and-theaters",
-    "upvotes": 223,
+    "upvotes": 245,
     "author": "yurisagalov",
-    "comments": 214,
+    "comments": 235,
     "link": "https://news.ycombinator.com/item?id=25292765"
+  },
+  {
+    "title": "Justice Department Sues to Block Visa's Proposed Acquisition of Plaid",
+    "url": "https://www.justice.gov/opa/pr/justice-department-sues-block-visas-proposed-acquisition-plaid",
+    "upvotes": 54,
+    "author": "nobody9999",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=25295060"
   },
   {
     "title": "Using Bloom filters to efficiently synchronise hash graphs",
     "url": "https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html",
-    "upvotes": 71,
+    "upvotes": 78,
     "author": "ignoramous",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25278128"
   },
   {
     "title": "M1 Macs: Truth and Truthiness",
     "url": "https://daringfireball.net/2020/12/m1_macs_truth_and_truthiness",
-    "upvotes": 346,
+    "upvotes": 362,
     "author": "pcr910303",
-    "comments": 517,
+    "comments": 552,
     "link": "https://news.ycombinator.com/item?id=25288538"
   },
   {
-    "title": "Justice Department Sues to Block Visa's Proposed Acquisition of Plaid",
-    "url": "https://www.justice.gov/opa/pr/justice-department-sues-block-visas-proposed-acquisition-plaid",
-    "upvotes": 26,
-    "author": "nobody9999",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25295060"
+    "title": "Supabase Beta: Auth, SQL Editor, Benchmarks",
+    "url": "https://supabase.io/beta",
+    "upvotes": 136,
+    "author": "kiwicopple",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=25289233"
   },
   {
     "title": "Tesorio Is Hiring a Senior Product Manager and Senior Engineers",
     "url": "https://www.tesorio.com/careers#job-openings"
   },
   {
-    "title": "Supabase Beta: Auth, SQL Editor, Benchmarks",
-    "url": "https://supabase.io/beta",
-    "upvotes": 127,
-    "author": "kiwicopple",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=25289233"
-  },
-  {
     "title": "Architectures for Mitigating AWS Outages",
     "url": "https://www.forelse.io/posts/architectures-for-mitigating-aws-outages/",
-    "upvotes": 17,
+    "upvotes": 22,
     "author": "mmbleh",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25295307"
-  },
-  {
-    "title": "Manawyrm/ISA8019 – RTL8019-based ISA network card, NE2000-compatible",
-    "url": "https://github.com/Manawyrm/ISA8019",
-    "upvotes": 36,
-    "author": "todsacerdoti",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25293650"
-  },
-  {
-    "title": "S&P Dow Jones Indices to launch cryptocurrency indexes in 2021",
-    "url": "https://www.reuters.com/article/cryptocurrencies-sp/sp-dow-jones-indices-to-launch-cryptocurrency-indexes-in-2021-idUSL1N2IJ0TG",
-    "upvotes": 374,
-    "author": "awb",
-    "comments": 413,
-    "link": "https://news.ycombinator.com/item?id=25289335"
-  },
-  {
-    "title": "Stored Procedures as a Back End",
-    "url": "https://gnuhost.medium.com/stored-procedures-as-a-backend-c5d2db452fc2",
-    "upvotes": 113,
-    "author": "steve-chavez",
-    "comments": 107,
-    "link": "https://news.ycombinator.com/item?id=25290339"
   },
   {
     "title": "Different compilers deal with provably unused entities",
     "url": "https://quuxplusone.github.io/blog/2020/12/02/unused-private-member/",
-    "upvotes": 8,
+    "upvotes": 14,
     "author": "ingve",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25287170"
   },
   {
+    "title": "Manawyrm/ISA8019 – RTL8019-based ISA network card, NE2000-compatible",
+    "url": "https://github.com/Manawyrm/ISA8019",
+    "upvotes": 40,
+    "author": "todsacerdoti",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=25293650"
+  },
+  {
+    "title": "S&P Dow Jones Indices to launch cryptocurrency indexes in 2021",
+    "url": "https://www.reuters.com/article/cryptocurrencies-sp/sp-dow-jones-indices-to-launch-cryptocurrency-indexes-in-2021-idUSL1N2IJ0TG",
+    "upvotes": 385,
+    "author": "awb",
+    "comments": 422,
+    "link": "https://news.ycombinator.com/item?id=25289335"
+  },
+  {
+    "title": "Stored Procedures as a Back End",
+    "url": "https://gnuhost.medium.com/stored-procedures-as-a-backend-c5d2db452fc2",
+    "upvotes": 124,
+    "author": "steve-chavez",
+    "comments": 123,
+    "link": "https://news.ycombinator.com/item?id=25290339"
+  },
+  {
     "title": "Show HN: NN-512 – Generate standalone C code for neural nets",
     "url": "https://NN-512.com",
-    "upvotes": 42,
+    "upvotes": 53,
     "author": "37ef_ced3",
-    "comments": 11,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25290112"
+  },
+  {
+    "title": "TimescaleDB vs. Amazon Timestream",
+    "url": "https://blog.timescale.com/blog/timescaledb-vs-amazon-timestream-6000x-higher-inserts-175x-faster-queries-220x-cheaper/",
+    "upvotes": 279,
+    "author": "daenney",
+    "comments": 158,
+    "link": "https://news.ycombinator.com/item?id=25287793"
+  },
+  {
+    "title": "ReBeL: A general game-playing AI bot that excels at poker and more",
+    "url": "https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/?href=",
+    "upvotes": 14,
+    "author": "jonbaer",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25295484"
   },
   {
     "title": "Stack operations on a guitar loop pedal",
     "url": "https://www.charlieharrington.com/school-supplies",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "whatrocks",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25289730"
   },
   {
-    "title": "TimescaleDB vs. Amazon Timestream",
-    "url": "https://blog.timescale.com/blog/timescaledb-vs-amazon-timestream-6000x-higher-inserts-175x-faster-queries-220x-cheaper/",
-    "upvotes": 276,
-    "author": "daenney",
-    "comments": 155,
-    "link": "https://news.ycombinator.com/item?id=25287793"
-  },
-  {
     "title": "Amazon reportedly has Pinkerton agents surveil workers who try to form unions",
     "url": "https://www.npr.org/2020/11/30/940196997/amazon-reportedly-has-pinkerton-agents-surveil-workers-who-try-to-form-unions",
-    "upvotes": 692,
+    "upvotes": 701,
     "author": "pdkl95",
-    "comments": 374,
+    "comments": 384,
     "link": "https://news.ycombinator.com/item?id=25289893"
+  },
+  {
+    "title": "The new generation of puzzle-makers bringing mystery to your door",
+    "url": "https://arstechnica.com/gaming/2020/12/meet-the-new-generation-of-puzzle-makers-bringing-mystery-to-your-door/",
+    "upvotes": 5,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25286226"
   },
   {
     "title": "Wonders, Not Miracles",
     "url": "https://reasonandmeaning.com/2020/11/30/wonders-not-miracles/",
     "upvotes": 24,
     "author": "calcifer",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25287076"
-  },
-  {
-    "title": "Justice Dept files suit against Facebook for discriminating against U.S. workers",
-    "url": "https://www.justice.gov/opa/pr/justice-department-files-lawsuit-against-facebook-discriminating-against-us-workers",
-    "upvotes": 254,
-    "author": "theBashShell",
-    "comments": 251,
-    "link": "https://news.ycombinator.com/item?id=25293867"
   },
   {
     "title": "The “$20M to $500M” Question: Adding Top Down Sales",
     "url": "https://a16z.com/2020/12/03/adding-top-down-sales-bottom-up-enterprise-startup/",
-    "upvotes": 121,
+    "upvotes": 127,
     "author": "yarapavan",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=25288757"
   },
   {
-    "title": "ReBeL: A general game-playing AI bot that excels at poker and more",
-    "url": "https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/?href=",
-    "upvotes": 7,
-    "author": "jonbaer",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25295484"
+    "title": "Colombia is considering legalizing its cocaine industry",
+    "url": "https://www.vice.com/en/article/epdv3j/colombia-is-considering-legalizing-its-massive-cocaine-industry",
+    "upvotes": 419,
+    "author": "prostoalex",
+    "comments": 341,
+    "link": "https://news.ycombinator.com/item?id=25290124"
   },
   {
     "title": "AI researcher Timnit Gebru resigns from Google",
     "url": "https://www.platformer.news/p/the-withering-email-that-got-an-ethical",
-    "upvotes": 345,
+    "upvotes": 373,
     "author": "apsec112",
-    "comments": 494,
+    "comments": 538,
     "link": "https://news.ycombinator.com/item?id=25292386"
-  },
-  {
-    "title": "Colombia is considering legalizing its cocaine industry",
-    "url": "https://www.vice.com/en/article/epdv3j/colombia-is-considering-legalizing-its-massive-cocaine-industry",
-    "upvotes": 402,
-    "author": "prostoalex",
-    "comments": 331,
-    "link": "https://news.ycombinator.com/item?id=25290124"
   },
   {
     "title": "Sockets in Your Shell",
     "url": "https://who23.github.io/2020/12/03/sockets-in-your-shell.html",
-    "upvotes": 214,
+    "upvotes": 219,
     "author": "signa11",
-    "comments": 43,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=25287144"
   },
   {
     "title": "WMR – Tiny all-in-one development tool for modern web apps",
     "url": "https://github.com/preactjs/wmr",
-    "upvotes": 74,
+    "upvotes": 77,
     "author": "jviide",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25289631"
-  },
-  {
-    "title": "Benchmark: Puppeteer vs. Selenium vs. Playwright vs. WebDriverIO",
-    "url": "https://blog.checklyhq.com/puppeteer-vs-selenium-vs-playwright-speed-comparison/",
-    "upvotes": 97,
-    "author": "ragog",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=25288541"
   }
 ]
