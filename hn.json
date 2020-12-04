@@ -2,63 +2,63 @@
   {
     "title": "A spellchecker used to be a major feat of software engineering",
     "url": "https://prog21.dadgum.com/29.html",
-    "upvotes": 153,
+    "upvotes": 174,
     "author": "jakelazaroff",
-    "comments": 53,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=25296900"
   },
   {
     "title": "Drone Footage of Arecibo Observatory Collapse",
     "url": "https://www.nsf.gov/news/special_reports/arecibo/",
-    "upvotes": 691,
+    "upvotes": 706,
     "author": "uptown",
-    "comments": 179,
+    "comments": 178,
     "link": "https://news.ycombinator.com/item?id=25290629"
   },
   {
     "title": "Stripe Treasury",
     "url": "https://stripe.com/treasury",
-    "upvotes": 724,
+    "upvotes": 739,
     "author": "timf",
-    "comments": 204,
+    "comments": 207,
     "link": "https://news.ycombinator.com/item?id=25289626"
-  },
-  {
-    "title": "A terminal-based workflow for research, writing, and programming",
-    "url": "http://jacobzelko.com/workflow/",
-    "upvotes": 64,
-    "author": "jerodsanto",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25297268"
   },
   {
     "title": "Justice Department Sues to Block Visa's Proposed Acquisition of Plaid",
     "url": "https://www.justice.gov/opa/pr/justice-department-sues-block-visas-proposed-acquisition-plaid",
-    "upvotes": 124,
+    "upvotes": 142,
     "author": "nobody9999",
-    "comments": 42,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=25295060"
+  },
+  {
+    "title": "A terminal-based workflow for research, writing, and programming",
+    "url": "http://jacobzelko.com/workflow/",
+    "upvotes": 78,
+    "author": "jerodsanto",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=25297268"
   },
   {
     "title": "An update to storage policies across your Google Account",
     "url": "https://blog.google/products/photos/storage-policy-update/",
-    "upvotes": 290,
+    "upvotes": 300,
     "author": "e2e4",
-    "comments": 301,
+    "comments": 308,
     "link": "https://news.ycombinator.com/item?id=25294926"
   },
   {
     "title": "Computer input latency from 1977-2017",
     "url": "https://danluu.com/input-lag/",
-    "upvotes": 355,
+    "upvotes": 361,
     "author": "thesephist",
-    "comments": 205,
+    "comments": 210,
     "link": "https://news.ycombinator.com/item?id=25290118"
   },
   {
     "title": "TinyCheck: Easily capture network communications coming from a smartphone",
     "url": "https://github.com/KasperskyLab/TinyCheck",
-    "upvotes": 105,
+    "upvotes": 116,
     "author": "sciurus",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25295192"
@@ -66,65 +66,73 @@
   {
     "title": "Mesa 20.3 released with out-of-the-box support for Arm's Mali Bifrost GPUs",
     "url": "https://docs.mesa3d.org/relnotes/20.3.0.html",
-    "upvotes": 95,
+    "upvotes": 97,
     "author": "mfilion",
-    "comments": 7,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25294192"
   },
   {
     "title": "How Takashi Murakami Got His Start as an Artist",
     "url": "https://www.artsy.net/article/artsy-editorial-takashi-murakami-start-artist",
-    "upvotes": 25,
+    "upvotes": 29,
     "author": "karimford",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25286631"
+  },
+  {
+    "title": "Ethr Is a Comprehensive Network Measurement Tool for TCP, UDP and ICMP",
+    "url": "https://github.com/microsoft/ethr",
+    "upvotes": 7,
+    "author": "kiyanwang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25286167"
+  },
+  {
+    "title": "M1 Macs: Truth and Truthiness",
+    "url": "https://daringfireball.net/2020/12/m1_macs_truth_and_truthiness",
+    "upvotes": 417,
+    "author": "pcr910303",
+    "comments": 647,
+    "link": "https://news.ycombinator.com/item?id=25288538"
   },
   {
     "title": "Using Bloom filters to efficiently synchronise hash graphs",
     "url": "https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html",
-    "upvotes": 104,
+    "upvotes": 109,
     "author": "ignoramous",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25278128"
   },
   {
-    "title": "M1 Macs: Truth and Truthiness",
-    "url": "https://daringfireball.net/2020/12/m1_macs_truth_and_truthiness",
-    "upvotes": 404,
-    "author": "pcr910303",
-    "comments": 624,
-    "link": "https://news.ycombinator.com/item?id=25288538"
+    "title": "Big-endian mode supported for Raspberry Pi with bootable images available",
+    "url": "https://mail-index.netbsd.org/port-arm/2020/12/03/msg007117.html",
+    "upvotes": 13,
+    "author": "pmarin",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25286900"
   },
   {
     "title": "Supabase Beta: Auth, SQL Editor, Benchmarks",
     "url": "https://supabase.io/beta",
-    "upvotes": 157,
+    "upvotes": 160,
     "author": "kiwicopple",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25289233"
   },
   {
-    "title": "Big-endian mode supported for Raspberry Pi with bootable images available",
-    "url": "https://mail-index.netbsd.org/port-arm/2020/12/03/msg007117.html",
-    "upvotes": 7,
-    "author": "pmarin",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25286900"
-  },
-  {
     "title": "Stored Procedures as a Back End",
     "url": "https://gnuhost.medium.com/stored-procedures-as-a-backend-c5d2db452fc2",
-    "upvotes": 148,
+    "upvotes": 154,
     "author": "steve-chavez",
-    "comments": 155,
+    "comments": 160,
     "link": "https://news.ycombinator.com/item?id=25290339"
   },
   {
     "title": "Architectures for Mitigating AWS Outages",
     "url": "https://www.forelse.io/posts/architectures-for-mitigating-aws-outages/",
-    "upvotes": 34,
+    "upvotes": 38,
     "author": "mmbleh",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25295307"
   },
   {
@@ -134,15 +142,15 @@
   {
     "title": "Warner Bros. Will Send Entire 2021 Slate to HBO Max and Theaters",
     "url": "https://www.hollywoodreporter.com/news/warner-bros-smashes-box-office-windows-will-send-2021-slate-to-hbo-max-and-theaters",
-    "upvotes": 285,
+    "upvotes": 292,
     "author": "yurisagalov",
-    "comments": 257,
+    "comments": 261,
     "link": "https://news.ycombinator.com/item?id=25292765"
   },
   {
     "title": "Show HN: NN-512 – Generate standalone C code for neural nets",
     "url": "https://NN-512.com",
-    "upvotes": 71,
+    "upvotes": 75,
     "author": "37ef_ced3",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25290112"
@@ -152,61 +160,53 @@
     "url": "https://github.com/Manawyrm/ISA8019",
     "upvotes": 44,
     "author": "todsacerdoti",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25293650"
   },
   {
     "title": "S&P Dow Jones Indices to launch cryptocurrency indexes in 2021",
     "url": "https://www.reuters.com/article/cryptocurrencies-sp/sp-dow-jones-indices-to-launch-cryptocurrency-indexes-in-2021-idUSL1N2IJ0TG",
-    "upvotes": 408,
+    "upvotes": 409,
     "author": "awb",
-    "comments": 462,
+    "comments": 467,
     "link": "https://news.ycombinator.com/item?id=25289335"
   },
   {
     "title": "How different compilers deal with provably unused entities",
     "url": "https://quuxplusone.github.io/blog/2020/12/02/unused-private-member/",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "ingve",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25287170"
-  },
-  {
-    "title": "Rimac Tests Its Hypercar So It Won’t Brick Stoplights with EM Radiation",
-    "url": "https://www.thedrive.com/tech/37922/how-rimac-tests-its-c_two-hypercar-so-it-wont-brick-stoplights-with-electromagnetic-radiation",
-    "upvotes": 9,
-    "author": "ourmandave",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25297432"
-  },
-  {
-    "title": "Amazon reportedly has Pinkerton agents surveil workers who try to form unions",
-    "url": "https://www.npr.org/2020/11/30/940196997/amazon-reportedly-has-pinkerton-agents-surveil-workers-who-try-to-form-unions",
-    "upvotes": 736,
-    "author": "pdkl95",
-    "comments": 404,
-    "link": "https://news.ycombinator.com/item?id=25289893"
   },
   {
     "title": "Colombia is considering legalizing its cocaine industry",
     "url": "https://www.vice.com/en/article/epdv3j/colombia-is-considering-legalizing-its-massive-cocaine-industry",
-    "upvotes": 462,
+    "upvotes": 470,
     "author": "prostoalex",
-    "comments": 370,
+    "comments": 372,
     "link": "https://news.ycombinator.com/item?id=25290124"
+  },
+  {
+    "title": "Amazon reportedly has Pinkerton agents surveil workers who try to form unions",
+    "url": "https://www.npr.org/2020/11/30/940196997/amazon-reportedly-has-pinkerton-agents-surveil-workers-who-try-to-form-unions",
+    "upvotes": 744,
+    "author": "pdkl95",
+    "comments": 412,
+    "link": "https://news.ycombinator.com/item?id=25289893"
   },
   {
     "title": "Stack operations on a guitar loop pedal",
     "url": "https://www.charlieharrington.com/school-supplies",
-    "upvotes": 36,
+    "upvotes": 38,
     "author": "whatrocks",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25289730"
   },
   {
     "title": "The “$20M to $500M” Question: Adding Top Down Sales",
     "url": "https://a16z.com/2020/12/03/adding-top-down-sales-bottom-up-enterprise-startup/",
-    "upvotes": 136,
+    "upvotes": 137,
     "author": "yarapavan",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25288757"
@@ -216,23 +216,23 @@
     "url": "https://reasonandmeaning.com/2020/11/30/wonders-not-miracles/",
     "upvotes": 36,
     "author": "calcifer",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25287076"
-  },
-  {
-    "title": "ReBeL: A general game-playing AI bot that excels at poker and more",
-    "url": "https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/?href=",
-    "upvotes": 25,
-    "author": "jonbaer",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25295484"
   },
   {
     "title": "Benchmark: Puppeteer vs. Selenium vs. Playwright vs. WebDriverIO",
     "url": "https://blog.checklyhq.com/puppeteer-vs-selenium-vs-playwright-speed-comparison/",
-    "upvotes": 107,
+    "upvotes": 111,
     "author": "ragog",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25288541"
+  },
+  {
+    "title": "ReBeL: A general game-playing AI bot that excels at poker and more",
+    "url": "https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/?href=",
+    "upvotes": 28,
+    "author": "jonbaer",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25295484"
   }
 ]
