@@ -2,170 +2,186 @@
   {
     "title": "Radicle: A peer-to-peer alternative to GitHub",
     "url": "http://radicle.xyz#/beta",
-    "upvotes": 308,
+    "upvotes": 344,
     "author": "dweberz",
-    "comments": 114,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=25313010"
+  },
+  {
+    "title": "std::visit is everything wrong with modern C++",
+    "url": "https://bitbashing.io/std-visit.html",
+    "upvotes": 45,
+    "author": "xucheng",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=25314126"
   },
   {
     "title": "Exotic Programming Ideas",
     "url": "https://www.stephendiehl.com/posts/exotic04.html",
-    "upvotes": 39,
+    "upvotes": 53,
     "author": "elorm",
-    "comments": 9,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25314106"
   },
   {
     "title": "Scaling Down Deep Learning",
     "url": "https://greydanus.github.io/2020/12/01/scaling-down/",
-    "upvotes": 24,
+    "upvotes": 32,
     "author": "lelf",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25314066"
-  },
-  {
-    "title": "std::visit is everything wrong with modern C++",
-    "url": "https://bitbashing.io/std-visit.html",
-    "upvotes": 19,
-    "author": "xucheng",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25314126"
   },
   {
     "title": "Your Smart TV is probably ignoring your PiHole",
     "url": "https://labzilla.io/blog/force-dns-pihole",
-    "upvotes": 140,
+    "upvotes": 172,
     "author": "giuliomagnifico",
-    "comments": 101,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=25313776"
   },
   {
     "title": "Teddit: a free and open-source Reddit front end focused on privacy",
     "url": "https://teddit.net/",
-    "upvotes": 524,
+    "upvotes": 540,
     "author": "oftenwrong",
-    "comments": 205,
+    "comments": 210,
     "link": "https://news.ycombinator.com/item?id=25310206"
-  },
-  {
-    "title": "Show HN: Make slides with text, markdown, YAML, JSON or JavaScript, your call",
-    "url": "https://play.presenta.cc/v2",
-    "upvotes": 34,
-    "author": "abusedmedia",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25313347"
   },
   {
     "title": "The Dec 21, 2020 Conjunction of Jupiter and Saturn",
     "url": "https://sparky.rice.edu/public-night/jupsat.html",
-    "upvotes": 41,
+    "upvotes": 51,
     "author": "chmaynard",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25313018"
   },
   {
-    "title": "PHP RFC: Enumerations",
-    "url": "https://wiki.php.net/rfc/enumerations",
-    "upvotes": 81,
-    "author": "jpswade",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=25312558"
+    "title": "Show HN: Make slides with text, markdown, YAML, JSON or JavaScript, your call",
+    "url": "https://play.presenta.cc/v2",
+    "upvotes": 43,
+    "author": "abusedmedia",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25313347"
   },
   {
-    "title": "This is Real, That's Not",
-    "url": "https://streetlifesolutions.blogspot.com/2020/12/this-is-real-thats-not.html",
-    "upvotes": 264,
-    "author": "DoreenMichele",
-    "comments": 199,
-    "link": "https://news.ycombinator.com/item?id=25310779"
+    "title": "How 700 Epidemiologists Are Living Now, and What They Think Is Next",
+    "url": "https://www.nytimes.com/2020/12/04/upshot/epidemiologists-virus-survey-.html",
+    "upvotes": 33,
+    "author": "imartin2k",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=25314442"
   },
   {
     "title": "A modern tool for the Windows kernel exploration and observability",
     "url": "https://www.fibratus.io/",
-    "upvotes": 20,
+    "upvotes": 30,
     "author": "cyann",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25288260"
   },
   {
-    "title": "How 700 Epidemiologists Are Living Now, and What They Think Is Next",
-    "url": "https://www.nytimes.com/2020/12/04/upshot/epidemiologists-virus-survey-.html",
-    "upvotes": 16,
-    "author": "imartin2k",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25314442"
+    "title": "PHP RFC: Enumerations",
+    "url": "https://wiki.php.net/rfc/enumerations",
+    "upvotes": 83,
+    "author": "jpswade",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=25312558"
   },
   {
-    "title": "Modern Tire-pressure monitoring system Sensors: Let's try a DoS attack",
-    "url": "http://www.mirider.com/weblog/2020/12/04#20201204_Modern_TPMS_Sensors_Lets_try_a_DoS_attack",
-    "upvotes": 35,
-    "author": "pabs3",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25312714"
-  },
-  {
-    "title": "CLI Guidelines – A guide to help you write better command-line programs",
-    "url": "https://clig.dev/",
-    "upvotes": 393,
-    "author": "bfirsh",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=25304257"
-  },
-  {
-    "title": "A notebook-free notebook or Jupyter dev env for coders",
-    "url": "https://github.com/205g0/notebook-free-notebook/blob/main/README.md",
-    "upvotes": 7,
-    "author": "205g0",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25313716"
-  },
-  {
-    "title": "The Erosion of Deep Literacy",
-    "url": "https://www.nationalaffairs.com/publications/detail/the-erosion-of-deep-literacy",
-    "upvotes": 61,
-    "author": "longdefeat",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=25311662"
-  },
-  {
-    "title": "Section 230 is Good, Actually",
-    "url": "https://www.eff.org/deeplinks/2020/12/section-230-good-actually",
-    "upvotes": 52,
-    "author": "samizdis",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=25313602"
-  },
-  {
-    "title": "A New Theorem Maps Out the Limits of Quantum Physics",
-    "url": "https://www.quantamagazine.org/a-new-theorem-maps-out-the-limits-of-quantum-physics-20201203/",
-    "upvotes": 55,
-    "author": "nsoonhui",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=25311608"
+    "title": "This is Real, That's Not",
+    "url": "https://streetlifesolutions.blogspot.com/2020/12/this-is-real-thats-not.html",
+    "upvotes": 269,
+    "author": "DoreenMichele",
+    "comments": 214,
+    "link": "https://news.ycombinator.com/item?id=25310779"
   },
   {
     "title": "PKCE: What and Why",
     "url": "https://dropbox.tech/developers/pkce--what-and-why-",
-    "upvotes": 9,
+    "upvotes": 15,
     "author": "luord",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25311110"
   },
   {
+    "title": "CLI Guidelines – A guide to help you write better command-line programs",
+    "url": "https://clig.dev/",
+    "upvotes": 397,
+    "author": "bfirsh",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=25304257"
+  },
+  {
+    "title": "Modern Tire-pressure monitoring system Sensors: Let's try a DoS attack",
+    "url": "http://www.mirider.com/weblog/2020/12/04#20201204_Modern_TPMS_Sensors_Lets_try_a_DoS_attack",
+    "upvotes": 38,
+    "author": "pabs3",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25312714"
+  },
+  {
+    "title": "Ask HN: What Linux Desktop Environment do you use on tablets?",
+    "url": "item?id=25314547",
+    "upvotes": 11,
+    "author": "kvgroa",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25314547"
+  },
+  {
+    "title": "The Erosion of Deep Literacy",
+    "url": "https://www.nationalaffairs.com/publications/detail/the-erosion-of-deep-literacy",
+    "upvotes": 70,
+    "author": "longdefeat",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=25311662"
+  },
+  {
     "title": "The Rise",
     "url": "https://www.vulture.com/2020/12/why-is-citizen-kane-the-great-movie-ever-made.html",
-    "upvotes": 3,
+    "upvotes": 5,
     "author": "furtively",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25311215"
   },
   {
+    "title": "Using Bloom filters to efficiently synchronise hash graphs",
+    "url": "https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html",
+    "upvotes": 25,
+    "author": "vonadz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25288423"
+  },
+  {
+    "title": "A notebook-free notebook or Jupyter dev env for coders",
+    "url": "https://github.com/205g0/notebook-free-notebook/blob/main/README.md",
+    "upvotes": 9,
+    "author": "205g0",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25313716"
+  },
+  {
+    "title": "WebThings Gateway 1.0",
+    "url": "https://hacks.mozilla.org/2020/12/flying-the-nest-webthings-gateway-1-0/",
+    "upvotes": 6,
+    "author": "oedmarap",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25313671"
+  },
+  {
     "title": "Design tool for easy",
     "url": "https://spline.design/",
-    "upvotes": 35,
+    "upvotes": 40,
     "author": "conelion",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25288266"
+  },
+  {
+    "title": "A New Theorem Maps Out the Limits of Quantum Physics",
+    "url": "https://www.quantamagazine.org/a-new-theorem-maps-out-the-limits-of-quantum-physics-20201203/",
+    "upvotes": 56,
+    "author": "nsoonhui",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=25311608"
   },
   {
     "title": "Netscape and Sun Announce JavaScript",
@@ -176,44 +192,36 @@
     "link": "https://news.ycombinator.com/item?id=25301437"
   },
   {
+    "title": "Sight restored by turning back the epigenetic clock",
+    "url": "https://www.nature.com/articles/d41586-020-03119-1",
+    "upvotes": 279,
+    "author": "evo_9",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=25307674"
+  },
+  {
     "title": "I accidentally built a spying app",
     "url": "https://withblue.ink/2020/09/24/that-time-i-accidentally-built-a-spying-app.html",
-    "upvotes": 158,
+    "upvotes": 160,
     "author": "akeck",
-    "comments": 49,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=25310316"
-  },
-  {
-    "title": "The future of 32-bit Linux",
-    "url": "https://lwn.net/SubscriberLink/838807/9b293f03c03ef0c5/",
-    "upvotes": 137,
-    "author": "pabs3",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=25310651"
-  },
-  {
-    "title": "Using Bloom filters to efficiently synchronise hash graphs",
-    "url": "https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html",
-    "upvotes": 19,
-    "author": "vonadz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25288423"
   },
   {
     "title": "We read the paper that forced Timnit Gebru out of Google",
     "url": "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru",
-    "upvotes": 210,
+    "upvotes": 221,
     "author": "DarkContinent",
-    "comments": 385,
+    "comments": 415,
     "link": "https://news.ycombinator.com/item?id=25311402"
   },
   {
-    "title": "Sight restored by turning back the epigenetic clock",
-    "url": "https://www.nature.com/articles/d41586-020-03119-1",
-    "upvotes": 276,
-    "author": "evo_9",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=25307674"
+    "title": "Reading Manpages Like a Pro",
+    "url": "https://blog.yossarian.net/2018/01/22/Reading-Manpages-Like-a-Pro",
+    "upvotes": 32,
+    "author": "woodruffw",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=25311867"
   },
   {
     "title": "‘Veblen’ Review: Scourge of the Elites",
@@ -224,19 +232,11 @@
     "link": "https://news.ycombinator.com/item?id=25299890"
   },
   {
-    "title": "Reading Manpages Like a Pro",
-    "url": "https://blog.yossarian.net/2018/01/22/Reading-Manpages-Like-a-Pro",
-    "upvotes": 27,
-    "author": "woodruffw",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25311867"
-  },
-  {
-    "title": "King's Day Speech",
-    "url": "https://neopythonic.blogspot.com/2016/04/kings-day-speech.html",
-    "upvotes": 20,
-    "author": "luord",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25311091"
+    "title": "The future of 32-bit Linux",
+    "url": "https://lwn.net/SubscriberLink/838807/9b293f03c03ef0c5/",
+    "upvotes": 139,
+    "author": "pabs3",
+    "comments": 122,
+    "link": "https://news.ycombinator.com/item?id=25310651"
   }
 ]
