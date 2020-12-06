@@ -2,138 +2,154 @@
   {
     "title": "Antioxidants prevent health-promoting effects of physical exercise [pdf]",
     "url": "https://www.pnas.org/content/pnas/106/21/8665.full.pdf",
-    "upvotes": 31,
+    "upvotes": 51,
     "author": "gregwebs",
-    "comments": 9,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25323186"
   },
   {
-    "title": "More than 1,200 Google workers condemn firing of AI scientist Timnit Gebru",
-    "url": "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics",
-    "upvotes": 59,
-    "author": "inci90",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=25323509"
+    "title": "Every gradient descent model can be approximated by a SVM",
+    "url": "https://arxiv.org/abs/2012.00152",
+    "upvotes": 28,
+    "author": "scottlocklin",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25314830"
   },
   {
     "title": "Hardware-Accelerated TensorFlow and TensorFlow Addons for macOS 11.0",
     "url": "https://github.com/apple/tensorflow_macos",
-    "upvotes": 97,
+    "upvotes": 105,
     "author": "sandGorgon",
-    "comments": 38,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=25322329"
+  },
+  {
+    "title": "The Grenfell Tower inquiry is uncovering a major corporate scandal",
+    "url": "https://www.spectator.co.uk/article/the-grenfell-tower-inquiry-is-uncovering-a-major-corporate-scandal/",
+    "upvotes": 44,
+    "author": "VieEnCode",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25323690"
   },
   {
     "title": "How I Collected a Debt from an Unscrupulous Merchant",
     "url": "https://mtlynch.io/collect-debt/",
-    "upvotes": 318,
+    "upvotes": 333,
     "author": "notadog",
-    "comments": 174,
+    "comments": 185,
     "link": "https://news.ycombinator.com/item?id=25320941"
-  },
-  {
-    "title": "Diem – A rebrand of Facebook Libra",
-    "url": "https://www.diem.com",
-    "upvotes": 73,
-    "author": "obilgic",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=25323090"
-  },
-  {
-    "title": "LinkedIn’s Alternate Universe",
-    "url": "https://divinations.substack.com/p/linkedins-alternate-universe##",
-    "upvotes": 362,
-    "author": "dshipper",
-    "comments": 158,
-    "link": "https://news.ycombinator.com/item?id=25320536"
-  },
-  {
-    "title": "Monopoly Technology Platforms Are Colonizing Education",
-    "url": "https://instituteforpubliceducation.org/monopoly-technology-platforms-are-colonizing-education/",
-    "upvotes": 58,
-    "author": "partingshots",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25322202"
   },
   {
     "title": "Skybolt: A C++ planetary environment rendering engine with Python bindings",
     "url": "https://github.com/Piraxus/Skybolt",
-    "upvotes": 32,
+    "upvotes": 42,
     "author": "matt128",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25322573"
   },
   {
+    "title": "LinkedIn’s Alternate Universe",
+    "url": "https://divinations.substack.com/p/linkedins-alternate-universe##",
+    "upvotes": 375,
+    "author": "dshipper",
+    "comments": 162,
+    "link": "https://news.ycombinator.com/item?id=25320536"
+  },
+  {
+    "title": "Monopoly Technology Platforms Are Colonizing Education",
+    "url": "https://instituteforpubliceducation.org/monopoly-technology-platforms-are-colonizing-education/",
+    "upvotes": 64,
+    "author": "partingshots",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=25322202"
+  },
+  {
     "title": "BBC Micro Bot – Creative Retro Coding",
     "url": "https://www.bbcmicrobot.com/owlet-test2.html",
-    "upvotes": 26,
+    "upvotes": 32,
     "author": "rbanffy",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25301340"
+  },
+  {
+    "title": "Diem – A rebrand of Facebook Libra",
+    "url": "https://www.diem.com",
+    "upvotes": 82,
+    "author": "obilgic",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=25323090"
   },
   {
     "title": "'Havana syndrome' likely caused by directed microwaves – US report",
     "url": "https://www.bbc.com/news/world-us-canada-55203844",
-    "upvotes": 51,
+    "upvotes": 58,
     "author": "kpetermeni",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25322051"
   },
   {
     "title": "A light-weight JIT compiler based on MIR",
     "url": "https://github.com/vnmakarov/mir",
-    "upvotes": 26,
+    "upvotes": 27,
     "author": "bshanks",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25300225"
   },
   {
-    "title": "The Tragic Tale of DEC, the Computing Giant That Died Too Soon",
-    "url": "https://digital.com/about/dec/",
-    "upvotes": 249,
-    "author": "mooreds",
-    "comments": 157,
-    "link": "https://news.ycombinator.com/item?id=25319539"
+    "title": "VisiData in 60 Seconds",
+    "url": "https://jsvine.github.io/intro-to-visidata/the-big-picture/visidata-in-60-seconds/",
+    "upvotes": 51,
+    "author": "luu",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25322091"
   },
   {
-    "title": "Every gradient descent model can be approximated by a SVM",
-    "url": "https://arxiv.org/abs/2012.00152",
-    "upvotes": 4,
-    "author": "scottlocklin",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25314830"
+    "title": "Choose Boring Technology",
+    "url": "https://panelbear.com/blog/boring-tech/",
+    "upvotes": 99,
+    "author": "amzans",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=25322651"
   },
   {
     "title": "Fixing a 3 year old bug in Nvidia GeForce Experience",
     "url": "https://details-of-note.blogspot.com/2020/12/nvidia-3-year-old-bug.html",
-    "upvotes": 88,
+    "upvotes": 93,
     "author": "dsafonov",
-    "comments": 21,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25322118"
   },
   {
     "title": "Show HN: DotComAgain – Find free dropped .com domains",
     "url": "https://dotcomagain.com/",
-    "upvotes": 12,
+    "upvotes": 14,
     "author": "adminu",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25322833"
-  },
-  {
-    "title": "VisiData in 60 Seconds",
-    "url": "https://jsvine.github.io/intro-to-visidata/the-big-picture/visidata-in-60-seconds/",
-    "upvotes": 46,
-    "author": "luu",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25322091"
   },
   {
     "title": "A mathematical formalisation challenge by Peter Scholze",
     "url": "https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/",
-    "upvotes": 19,
+    "upvotes": 23,
     "author": "alimw",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25322551"
+  },
+  {
+    "title": "Show HN: A simple, plain, minimal, classless CSS for simple, plain HTML pages",
+    "url": "https://github.com/susam/spcss",
+    "upvotes": 65,
+    "author": "susam",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=25321222"
+  },
+  {
+    "title": "InstaHide Disappointingly Wins Bell Labs Prize, 2nd Place",
+    "url": "https://nicholas.carlini.com/writing/2020/instahide_disappointingly_wins_bell_labs_prize.html",
+    "upvotes": 404,
+    "author": "z3t111",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=25320430"
   },
   {
     "title": "An Event, Perhaps by Peter Salmon Review – A Timely Biography of Jacques Derrida",
@@ -144,95 +160,79 @@
     "link": "https://news.ycombinator.com/item?id=25295189"
   },
   {
-    "title": "Lessons for Early Stage Founders",
-    "url": "https://calv.info/early-stage-lessons",
-    "upvotes": 90,
-    "author": "sarathyweb",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25321667"
-  },
-  {
-    "title": "Choose Boring Technology",
-    "url": "https://panelbear.com/blog/boring-tech/",
-    "upvotes": 90,
-    "author": "amzans",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=25322651"
+    "title": "A Compendium of SIMD Boolean Array Algorithms in APL",
+    "url": "https://www.youtube.com/watch?v=G2g13YKjWes",
+    "upvotes": 16,
+    "author": "tjalfi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25302309"
   },
   {
     "title": "Raycast",
     "url": "https://raycast.com/jobs/developer-advocate"
   },
   {
-    "title": "Show HN: A simple, plain, minimal, classless CSS for simple, plain HTML pages",
-    "url": "https://github.com/susam/spcss",
-    "upvotes": 61,
-    "author": "susam",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=25321222"
-  },
-  {
     "title": "Bohmian Mechanics",
     "url": "https://plato.stanford.edu/entries/qm-bohm/",
-    "upvotes": 17,
+    "upvotes": 18,
     "author": "doctor_eval",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25322507"
   },
   {
-    "title": "InstaHide Disappointingly Wins Bell Labs Prize, 2nd Place",
-    "url": "https://nicholas.carlini.com/writing/2020/instahide_disappointingly_wins_bell_labs_prize.html",
-    "upvotes": 397,
-    "author": "z3t111",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=25320430"
+    "title": "More than 1,200 Google workers condemn firing of AI scientist Timnit Gebru",
+    "url": "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics",
+    "upvotes": 97,
+    "author": "inci90",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=25323509"
   },
   {
-    "title": "Asteroid capsule located in Australian desert",
-    "url": "https://www.bbc.co.uk/news/science-environment-55201662",
-    "upvotes": 145,
-    "author": "ColinWright",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=25319572"
+    "title": "Lessons for Early Stage Founders",
+    "url": "https://calv.info/early-stage-lessons",
+    "upvotes": 91,
+    "author": "sarathyweb",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25321667"
   },
   {
     "title": "The Perils of File Typing",
     "url": "https://invisibleup.com/articles/34/",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "panic",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25322288"
   },
   {
-    "title": "A Compendium of SIMD Boolean Array Algorithms in APL",
-    "url": "https://www.youtube.com/watch?v=G2g13YKjWes",
-    "upvotes": 13,
-    "author": "tjalfi",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25302309"
-  },
-  {
-    "title": "Is the preprocessor still needed in C++?",
-    "url": "https://foonathan.net/2017/05/preprocessor/",
-    "upvotes": 33,
-    "author": "appehuli",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=25322891"
+    "title": "The Asian flu epidemic of 1957 was a turning point for antibiotics",
+    "url": "https://www.historytoday.com/archive/feature/germ-warfare",
+    "upvotes": 31,
+    "author": "Hooke",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=25319117"
   },
   {
     "title": "Show HN: Visualizing Deep Features from Podcasts",
     "url": "http://lexfridman.faith/",
-    "upvotes": 34,
+    "upvotes": 35,
     "author": "kierangill",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25321729"
   },
   {
-    "title": "The Asian flu epidemic of 1957 was a turning point for antibiotics",
-    "url": "https://www.historytoday.com/archive/feature/germ-warfare",
-    "upvotes": 28,
-    "author": "Hooke",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=25319117"
+    "title": "Semantic segmentation algorithms do not generalize to off-road datasets",
+    "url": "https://unmannedlab.github.io/research/RELLIS-3D",
+    "upvotes": 21,
+    "author": "srik901",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25321540"
+  },
+  {
+    "title": "Infamous Assassins of the Middle Ages",
+    "url": "https://www.laphamsquarterly.org/roundtable/infamous-assassins-middle-ages",
+    "upvotes": 35,
+    "author": "diodorus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25319244"
   }
 ]
