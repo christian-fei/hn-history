@@ -2,167 +2,191 @@
   {
     "title": "EmacsConf 2020 Talks",
     "url": "https://emacsconf.org/2020/talks/",
-    "upvotes": 143,
+    "upvotes": 174,
     "author": "AlexeyBrin",
-    "comments": 18,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25324311"
-  },
-  {
-    "title": "Docker's Second Death",
-    "url": "https://www.tariqislam.com/posts/kubernetes-docker-dep/",
-    "upvotes": 72,
-    "author": "alexellisuk",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=25325056"
   },
   {
     "title": "Every Model Learned by Gradient Descent Is Approximately a Kernel Machine",
     "url": "https://arxiv.org/abs/2012.00152",
-    "upvotes": 204,
+    "upvotes": 223,
     "author": "scottlocklin",
-    "comments": 61,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=25314830"
   },
   {
-    "title": "Diem – A rebrand of Facebook’s Libra",
-    "url": "https://www.diem.com",
-    "upvotes": 160,
-    "author": "obilgic",
-    "comments": 264,
-    "link": "https://news.ycombinator.com/item?id=25323090"
+    "title": "Docker's Second Death",
+    "url": "https://www.tariqislam.com/posts/kubernetes-docker-dep/",
+    "upvotes": 115,
+    "author": "alexellisuk",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=25325056"
   },
   {
     "title": "Lambda: Turn Excel formulas into custom functions",
     "url": "https://techcommunity.microsoft.com/t5/excel-blog/announcing-lambda-turn-excel-formulas-into-custom-functions/ba-p/1925546",
-    "upvotes": 82,
+    "upvotes": 96,
     "author": "lelf",
-    "comments": 35,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=25318386"
+  },
+  {
+    "title": "Diem – A rebrand of Facebook’s Libra",
+    "url": "https://www.diem.com",
+    "upvotes": 170,
+    "author": "obilgic",
+    "comments": 273,
+    "link": "https://news.ycombinator.com/item?id=25323090"
   },
   {
     "title": "Gustave – Embedded OS kernel fuzzer",
     "url": "https://github.com/airbus-seclab/gustave",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "aburan28",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25324624"
   },
   {
     "title": "The Grenfell Tower inquiry is uncovering a major corporate scandal",
     "url": "https://www.spectator.co.uk/article/the-grenfell-tower-inquiry-is-uncovering-a-major-corporate-scandal/",
-    "upvotes": 269,
+    "upvotes": 291,
     "author": "VieEnCode",
-    "comments": 126,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=25323690"
-  },
-  {
-    "title": "YARA – The pattern matching swiss knife",
-    "url": "https://github.com/VirusTotal/yara",
-    "upvotes": 16,
-    "author": "peter_d_sherman",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25324925"
-  },
-  {
-    "title": "USB drives with no phantom load",
-    "url": "https://joeyh.name/blog/entry/usb_drives_with_no_phantom_load/",
-    "upvotes": 19,
-    "author": "pabs3",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25322564"
-  },
-  {
-    "title": "Monopoly Technology Platforms Are Colonizing Education",
-    "url": "https://instituteforpubliceducation.org/monopoly-technology-platforms-are-colonizing-education/",
-    "upvotes": 134,
-    "author": "partingshots",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=25322202"
-  },
-  {
-    "title": "Hardware-Accelerated TensorFlow and TensorFlow Addons for macOS 11.0",
-    "url": "https://github.com/apple/tensorflow_macos",
-    "upvotes": 146,
-    "author": "sandGorgon",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=25322329"
-  },
-  {
-    "title": "Kazakhstan government is intercepting HTTPS traffic in its capital",
-    "url": "https://www.zdnet.com/article/kazakhstan-government-is-intercepting-https-traffic-in-its-capital/",
-    "upvotes": 59,
-    "author": "ricc",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=25324951"
-  },
-  {
-    "title": "Skybolt: A C++ planetary environment rendering engine with Python bindings",
-    "url": "https://github.com/Piraxus/Skybolt",
-    "upvotes": 90,
-    "author": "matt128",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25322573"
-  },
-  {
-    "title": "Vanishing zeroes for geometric algebra in Rust",
-    "url": "https://fanf.dreamwidth.org/134024.html",
-    "upvotes": 5,
-    "author": "fanf2",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25325426"
-  },
-  {
-    "title": "BBC Micro Bot – Creative Retro Coding",
-    "url": "https://www.bbcmicrobot.com/owlet-test2.html",
-    "upvotes": 81,
-    "author": "rbanffy",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=25301340"
-  },
-  {
-    "title": "'Havana syndrome' likely caused by directed microwaves – US report",
-    "url": "https://www.bbc.com/news/world-us-canada-55203844",
-    "upvotes": 151,
-    "author": "kpetermeni",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=25322051"
-  },
-  {
-    "title": "Fixing a 3 year old bug in Nvidia GeForce Experience",
-    "url": "https://details-of-note.blogspot.com/2020/12/nvidia-3-year-old-bug.html",
-    "upvotes": 161,
-    "author": "dsafonov",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=25322118"
   },
   {
     "title": "The Economics of Christmas Trees",
     "url": "https://thehustle.co/the-economics-of-christmas-trees/",
-    "upvotes": 6,
+    "upvotes": 21,
     "author": "Anon84",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25323355"
   },
   {
-    "title": "Scaling Datastores at Slack with Vitess",
-    "url": "https://slack.engineering/scaling-datastores-at-slack-with-vitess/",
-    "upvotes": 53,
-    "author": "talonx",
+    "title": "YARA – The pattern matching swiss knife",
+    "url": "https://github.com/VirusTotal/yara",
+    "upvotes": 22,
+    "author": "peter_d_sherman",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25324925"
+  },
+  {
+    "title": "Monopoly Technology Platforms Are Colonizing Education",
+    "url": "https://instituteforpubliceducation.org/monopoly-technology-platforms-are-colonizing-education/",
+    "upvotes": 142,
+    "author": "partingshots",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=25322202"
+  },
+  {
+    "title": "Winning back the Internet by building our own",
+    "url": "https://roarmag.org/essays/win-back-the-internet/",
+    "upvotes": 5,
+    "author": "sanqui",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25322834"
+  },
+  {
+    "title": "Hardware-Accelerated TensorFlow and TensorFlow Addons for macOS 11.0",
+    "url": "https://github.com/apple/tensorflow_macos",
+    "upvotes": 148,
+    "author": "sandGorgon",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=25322329"
+  },
+  {
+    "title": "Kazakhstan government is intercepting HTTPS traffic in its capital",
+    "url": "https://www.zdnet.com/article/kazakhstan-government-is-intercepting-https-traffic-in-its-capital/",
+    "upvotes": 71,
+    "author": "ricc",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=25324951"
+  },
+  {
+    "title": "USB drives with no phantom load",
+    "url": "https://joeyh.name/blog/entry/usb_drives_with_no_phantom_load/",
+    "upvotes": 24,
+    "author": "pabs3",
     "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=25323342"
+    "link": "https://news.ycombinator.com/item?id=25322564"
+  },
+  {
+    "title": "WildDuck – No spof scalable and API driven email server",
+    "url": "https://github.com/nodemailer/wildduck#wildduck-mail-server",
+    "upvotes": 9,
+    "author": "andris9",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25325010"
+  },
+  {
+    "title": "Skybolt: A C++ planetary environment rendering engine with Python bindings",
+    "url": "https://github.com/Piraxus/Skybolt",
+    "upvotes": 95,
+    "author": "matt128",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25322573"
+  },
+  {
+    "title": "The Raspberry Pi 4 has a fan now – the Case Fan",
+    "url": "https://www.jeffgeerling.com/blog/2020/raspberry-pi-4-has-fan-now-case-fan",
+    "upvotes": 5,
+    "author": "geerlingguy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25325100"
+  },
+  {
+    "title": "BBC Micro Bot – Creative Retro Coding",
+    "url": "https://www.bbcmicrobot.com/owlet-test2.html",
+    "upvotes": 87,
+    "author": "rbanffy",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25301340"
+  },
+  {
+    "title": "'Havana syndrome' likely caused by directed microwaves – US report",
+    "url": "https://www.bbc.com/news/world-us-canada-55203844",
+    "upvotes": 160,
+    "author": "kpetermeni",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=25322051"
+  },
+  {
+    "title": "Fixing a 3 year old bug in Nvidia GeForce Experience",
+    "url": "https://details-of-note.blogspot.com/2020/12/nvidia-3-year-old-bug.html",
+    "upvotes": 169,
+    "author": "dsafonov",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=25322118"
   },
   {
     "title": "Show HN: DotComAgain – Find free dropped .com domains",
     "url": "https://dotcomagain.com/",
-    "upvotes": 52,
+    "upvotes": 59,
     "author": "adminu",
-    "comments": 32,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=25322833"
+  },
+  {
+    "title": "Scaling Datastores at Slack with Vitess",
+    "url": "https://slack.engineering/scaling-datastores-at-slack-with-vitess/",
+    "upvotes": 56,
+    "author": "talonx",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=25323342"
+  },
+  {
+    "title": "Vanishing zeroes for geometric algebra in Rust",
+    "url": "https://fanf.dreamwidth.org/134024.html",
+    "upvotes": 6,
+    "author": "fanf2",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25325426"
   },
   {
     "title": "A light-weight JIT compiler based on MIR",
     "url": "https://github.com/vnmakarov/mir",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "bshanks",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25300225"
@@ -170,69 +194,45 @@
   {
     "title": "Show HN: A simple, plain, minimal, classless CSS for simple, plain HTML pages",
     "url": "https://github.com/susam/spcss",
-    "upvotes": 99,
+    "upvotes": 106,
     "author": "susam",
-    "comments": 45,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=25321222"
-  },
-  {
-    "title": "WildDuck – No spof scalable and API driven email server",
-    "url": "https://github.com/nodemailer/wildduck#wildduck-mail-server",
-    "upvotes": 5,
-    "author": "andris9",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25325010"
-  },
-  {
-    "title": "VisiData in 60 Seconds",
-    "url": "https://jsvine.github.io/intro-to-visidata/the-big-picture/visidata-in-60-seconds/",
-    "upvotes": 76,
-    "author": "luu",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25322091"
   },
   {
     "title": "Choose Boring Technology",
     "url": "https://panelbear.com/blog/boring-tech/",
-    "upvotes": 150,
+    "upvotes": 158,
     "author": "amzans",
-    "comments": 143,
+    "comments": 146,
     "link": "https://news.ycombinator.com/item?id=25322651"
-  },
-  {
-    "title": "A mathematical formalisation challenge by Peter Scholze",
-    "url": "https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/",
-    "upvotes": 50,
-    "author": "alimw",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25322551"
-  },
-  {
-    "title": "How I Collected a Debt from an Unscrupulous Merchant",
-    "url": "https://mtlynch.io/collect-debt/",
-    "upvotes": 419,
-    "author": "notadog",
-    "comments": 226,
-    "link": "https://news.ycombinator.com/item?id=25320941"
   },
   {
     "title": "Raycast",
     "url": "https://raycast.com/jobs/developer-advocate"
   },
   {
-    "title": "Lessons for Early Stage Founders",
-    "url": "https://calv.info/early-stage-lessons",
-    "upvotes": 117,
-    "author": "sarathyweb",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=25321667"
+    "title": "VisiData in 60 Seconds",
+    "url": "https://jsvine.github.io/intro-to-visidata/the-big-picture/visidata-in-60-seconds/",
+    "upvotes": 81,
+    "author": "luu",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25322091"
   },
   {
-    "title": "LinkedIn’s Alternate Universe",
-    "url": "https://divinations.substack.com/p/linkedins-alternate-universe##",
-    "upvotes": 482,
-    "author": "dshipper",
+    "title": "A mathematical formalisation challenge by Peter Scholze",
+    "url": "https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/",
+    "upvotes": 54,
+    "author": "alimw",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=25322551"
+  },
+  {
+    "title": "How I Collected a Debt from an Unscrupulous Merchant",
+    "url": "https://mtlynch.io/collect-debt/",
+    "upvotes": 422,
+    "author": "notadog",
     "comments": 229,
-    "link": "https://news.ycombinator.com/item?id=25320536"
+    "link": "https://news.ycombinator.com/item?id=25320941"
   }
 ]
