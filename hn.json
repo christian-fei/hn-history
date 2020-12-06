@@ -1,32 +1,32 @@
 [
   {
-    "title": "How does Brown University know where you are?",
-    "url": "https://jack.wrenn.fyi/blog/brown-location-surveillance",
-    "upvotes": 93,
-    "author": "jswrenn",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=25319392"
-  },
-  {
     "title": "The Game UI Database, a comprehensive reference of game interface design",
     "url": "https://www.gameuidatabase.com/",
-    "upvotes": 395,
+    "upvotes": 406,
     "author": "homarp",
-    "comments": 71,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=25315524"
   },
   {
     "title": "R adds native pipe and lambda syntax",
     "url": "https://developer.r-project.org/blosxom.cgi/R-devel/NEWS/2020/12/04#n2020-12-04",
-    "upvotes": 178,
+    "upvotes": 180,
     "author": "kkoncevicius",
-    "comments": 99,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=25316608"
+  },
+  {
+    "title": "The Tragic Tale of DEC, the Computing Giant That Died Too Soon",
+    "url": "https://digital.com/about/dec/",
+    "upvotes": 15,
+    "author": "mooreds",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25319539"
   },
   {
     "title": "Kaitai: Describe the structure of data, not how you read or write it",
     "url": "https://kaitai.io",
-    "upvotes": 151,
+    "upvotes": 155,
     "author": "eterps",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=25312999"
@@ -34,71 +34,79 @@
   {
     "title": "Cashew of Pirangi",
     "url": "https://en.wikipedia.org/wiki/Cashew_of_Pirangi",
-    "upvotes": 69,
+    "upvotes": 83,
     "author": "tcgv",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25301881"
   },
   {
     "title": "72% of smart TVs and 46% of game consoles hardcode DNS settings",
     "url": "https://labzilla.io/blog/force-dns-pihole",
-    "upvotes": 355,
+    "upvotes": 372,
     "author": "boramalper",
-    "comments": 536,
+    "comments": 549,
     "link": "https://news.ycombinator.com/item?id=25313480"
   },
   {
     "title": "Apple’s “Extended Dynamic Range” Brings HDR to Non-HDR Displays",
     "url": "https://prolost.com/blog/edr",
-    "upvotes": 244,
+    "upvotes": 245,
     "author": "mattparcher",
-    "comments": 139,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=25315180"
-  },
-  {
-    "title": "Between two Lisps",
-    "url": "https://ane.github.io/2020/10/05/between-two-lisps.html",
-    "upvotes": 46,
-    "author": "galfarragem",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25313311"
-  },
-  {
-    "title": "High-Throughput Game Message Server with Python WebSockets",
-    "url": "https://mortoray.com/2020/12/06/high-throughput-game-message-server-with-python-websockets/",
-    "upvotes": 20,
-    "author": "ingve",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25319096"
-  },
-  {
-    "title": "Ask HN: Learning about Philosophy",
-    "url": "item?id=25312681",
-    "upvotes": 133,
-    "author": "rupi",
-    "comments": 152,
-    "link": "https://news.ycombinator.com/item?id=25312681"
   },
   {
     "title": "Scroll Back: The Theory and Practice of Cameras in Side-Scrollers",
     "url": "https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub",
-    "upvotes": 39,
+    "upvotes": 45,
     "author": "ibobev",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25318092"
   },
   {
-    "title": "Bitcoin",
-    "url": "https://thinkoutloudnews.substack.com/p/bitcoin-still-makes-no-sense",
-    "upvotes": 24,
-    "author": "meow_mix",
+    "title": "Between two Lisps",
+    "url": "https://ane.github.io/2020/10/05/between-two-lisps.html",
+    "upvotes": 50,
+    "author": "galfarragem",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=25313311"
+  },
+  {
+    "title": "Ask HN: Learning about Philosophy",
+    "url": "item?id=25312681",
+    "upvotes": 140,
+    "author": "rupi",
+    "comments": 159,
+    "link": "https://news.ycombinator.com/item?id=25312681"
+  },
+  {
+    "title": "High-Throughput Game Message Server with Python WebSockets",
+    "url": "https://mortoray.com/2020/12/06/high-throughput-game-message-server-with-python-websockets/",
+    "upvotes": 22,
+    "author": "ingve",
     "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25319849"
+    "link": "https://news.ycombinator.com/item?id=25319096"
+  },
+  {
+    "title": "Researchers Who Exposed VW Gain Little Reward from Success",
+    "url": "https://www.nytimes.com/2016/07/25/business/vw-wvu-diesel-volkswagen-west-virginia.html",
+    "upvotes": 33,
+    "author": "lifeisstillgood",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25319835"
+  },
+  {
+    "title": "How does Brown University know where you are?",
+    "url": "https://jack.wrenn.fyi/blog/brown-location-surveillance",
+    "upvotes": 109,
+    "author": "jswrenn",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=25319392"
   },
   {
     "title": "Modifying and running a binary by recompiling a reverse engineered disassembly",
     "url": "https://www.devever.net/~hl/recompile",
-    "upvotes": 7,
+    "upvotes": 10,
     "author": "hlandau",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25319482"
@@ -106,74 +114,66 @@
   {
     "title": "Hacker Public Radio",
     "url": "https://hackerpublicradio.org/",
-    "upvotes": 112,
+    "upvotes": 115,
     "author": "EuAndreh",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25315736"
   },
   {
-    "title": "Researchers Who Exposed VW Gain Little Reward from Success",
-    "url": "https://www.nytimes.com/2016/07/25/business/vw-wvu-diesel-volkswagen-west-virginia.html",
-    "upvotes": 16,
-    "author": "lifeisstillgood",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25319835"
-  },
-  {
-    "title": "Major Flaws of Human Thinking",
-    "url": "https://dandanua.github.io/posts/major-flaws-of-human-thinking/",
-    "upvotes": 125,
-    "author": "dandanua",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=25315667"
-  },
-  {
     "title": "Benefits of Walking",
     "url": "https://klimy.co/blog/benefits-of-walking",
-    "upvotes": 75,
+    "upvotes": 82,
     "author": "KlimYadrintsev",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25316328"
+  },
+  {
+    "title": "Aston Martin behind debunked anti-electic vehicle “study”",
+    "url": "https://www.metafilter.com/189618/Aston-Martin-behind-debunked-anti-electic-vehicle-study",
+    "upvotes": 18,
+    "author": "FlyMoreRockets",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25319893"
   },
   {
     "title": "A Relational Model of Data for Large Shared Data Banks",
     "url": "https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf",
-    "upvotes": 7,
+    "upvotes": 9,
     "author": "taffer",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25313385"
   },
   {
+    "title": "Major Flaws of Human Thinking",
+    "url": "https://dandanua.github.io/posts/major-flaws-of-human-thinking/",
+    "upvotes": 127,
+    "author": "dandanua",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=25315667"
+  },
+  {
+    "title": "An essay on property rights as the foundation of all law",
+    "url": "https://www.thesavvystreet.com/property-rights-the-foundation-of-freedom/",
+    "upvotes": 5,
+    "author": "throwaway201103",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25319779"
+  },
+  {
     "title": "Improbable Inspiration: Bayesian Networks",
     "url": "https://www.cs.ubc.ca/~murphyk/Bayes/la.times.html",
-    "upvotes": 81,
+    "upvotes": 83,
     "author": "1e",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25315982"
   },
   {
     "title": "Radicle: A peer-to-peer alternative to GitHub",
     "url": "http://radicle.xyz#/beta",
-    "upvotes": 679,
+    "upvotes": 682,
     "author": "dweberz",
-    "comments": 213,
+    "comments": 216,
     "link": "https://news.ycombinator.com/item?id=25313010"
-  },
-  {
-    "title": "Exploring supervisors’ two‐faced response to their past abusive behavior",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1111/peps.12424",
-    "upvotes": 89,
-    "author": "rustoo",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=25315305"
-  },
-  {
-    "title": "WhatsApp Will Start Showing Ads",
-    "url": "https://www.entrepreneur.com/article/360971",
-    "upvotes": 19,
-    "author": "nixass",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25319651"
   },
   {
     "title": "Repl.it",
@@ -182,15 +182,31 @@
   {
     "title": "Scaling Down Deep Learning",
     "url": "https://greydanus.github.io/2020/12/01/scaling-down/",
-    "upvotes": 108,
+    "upvotes": 109,
     "author": "lelf",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25314066"
+  },
+  {
+    "title": "Exploring supervisors’ two‐faced response to their past abusive behavior",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/peps.12424",
+    "upvotes": 89,
+    "author": "rustoo",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=25315305"
+  },
+  {
+    "title": "WhatsApp Will Start Showing Ads",
+    "url": "https://www.entrepreneur.com/article/360971",
+    "upvotes": 34,
+    "author": "nixass",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25319651"
   },
   {
     "title": "Exotic Programming Ideas",
     "url": "https://www.stephendiehl.com/posts/exotic04.html",
-    "upvotes": 154,
+    "upvotes": 157,
     "author": "elorm",
     "comments": 64,
     "link": "https://news.ycombinator.com/item?id=25314106"
@@ -198,7 +214,7 @@
   {
     "title": "Show HN: I Wrote a Book on Data Analysis with Rust Notebooks",
     "url": "https://datacrayon.com/shop/product/data-analysis-with-rust-notebooks/",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "DataCrayon",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25314170"
@@ -206,33 +222,17 @@
   {
     "title": "Modern mathematics emerged from “The House of Wisdom” in the 13th century",
     "url": "https://www.bbc.com/future/article/20201204-lost-islamic-library-maths",
-    "upvotes": 116,
+    "upvotes": 117,
     "author": "mellosouls",
-    "comments": 84,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=25315477"
-  },
-  {
-    "title": "Show HN: Make slides with text, markdown, YAML, JSON or JavaScript, your call",
-    "url": "https://play.presenta.cc/v2",
-    "upvotes": 122,
-    "author": "abusedmedia",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=25313347"
   },
   {
     "title": "CLI Guidelines – A guide to help you write better command-line programs",
     "url": "https://clig.dev/",
-    "upvotes": 477,
+    "upvotes": 481,
     "author": "bfirsh",
-    "comments": 167,
+    "comments": 169,
     "link": "https://news.ycombinator.com/item?id=25304257"
-  },
-  {
-    "title": "Show HN: Espial — an open-source, web-based bookmarking server",
-    "url": "https://github.com/jonschoning/espial",
-    "upvotes": 16,
-    "author": "platz",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25316526"
   }
 ]
