@@ -1,50 +1,58 @@
 [
   {
+    "title": "GitHub Releases Dark Mode",
+    "url": "https://github.com/settings/appearance",
+    "upvotes": 147,
+    "author": "m1",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=25348506"
+  },
+  {
     "title": "AirPods Max",
     "url": "https://www.apple.com/newsroom/2020/12/apple-introduces-airpods-max-the-magic-of-airpods-in-a-stunning-over-ear-design/",
-    "upvotes": 555,
+    "upvotes": 596,
     "author": "css",
-    "comments": 961,
+    "comments": 1039,
     "link": "https://news.ycombinator.com/item?id=25344762"
-  },
-  {
-    "title": "Qt 6.0",
-    "url": "https://www.qt.io/blog/qt-6.0-released",
-    "upvotes": 312,
-    "author": "milliams",
-    "comments": 170,
-    "link": "https://news.ycombinator.com/item?id=25344826"
-  },
-  {
-    "title": "LinkedIn SRE Curriculum for Non-Traditional Hires and New College Grads",
-    "url": "https://github.com/linkedin/school-of-sre",
-    "upvotes": 135,
-    "author": "DarkContinent",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25346118"
-  },
-  {
-    "title": "Expanding Fuchsia's open source model",
-    "url": "https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html",
-    "upvotes": 38,
-    "author": "tbodt",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25347967"
   },
   {
     "title": "Mapbox GL JS is no longer open source",
     "url": "https://github.com/mapbox/mapbox-gl-js/blob/main/CHANGELOG.md#200",
-    "upvotes": 78,
+    "upvotes": 123,
     "author": "tuukkah",
-    "comments": 26,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25347310"
+  },
+  {
+    "title": "Qt 6.0",
+    "url": "https://www.qt.io/blog/qt-6.0-released",
+    "upvotes": 325,
+    "author": "milliams",
+    "comments": 194,
+    "link": "https://news.ycombinator.com/item?id=25344826"
+  },
+  {
+    "title": "Expanding Fuchsia's open source model",
+    "url": "https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html",
+    "upvotes": 65,
+    "author": "tbodt",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=25347967"
+  },
+  {
+    "title": "LinkedIn SRE Curriculum for Non-Traditional Hires and New College Grads",
+    "url": "https://github.com/linkedin/school-of-sre",
+    "upvotes": 149,
+    "author": "DarkContinent",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=25346118"
   },
   {
     "title": "Cloudflare and Apple design a new privacy-friendly internet protocol",
     "url": "https://techcrunch.com/2020/12/08/cloudflare-and-apple-design-a-new-privacy-friendly-internet-protocol/",
-    "upvotes": 306,
+    "upvotes": 323,
     "author": "websirnik",
-    "comments": 160,
+    "comments": 166,
     "link": "https://news.ycombinator.com/item?id=25344358"
   },
   {
@@ -52,187 +60,179 @@
     "url": "https://apply.workable.com/jerry/j/CB9ACE9592/"
   },
   {
-    "title": "FedEx and UPS hit companies with unexpected holiday shipping limits",
-    "url": "https://www.modernretail.co/retailers/this-is-going-to-ruin-us-fedex-and-ups-hit-companies-with-unexpected-holiday-shipping-limits/",
-    "upvotes": 73,
-    "author": "mooreds",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=25346386"
-  },
-  {
     "title": "Kafka Is Not a Database",
     "url": "https://materialize.com/kafka-is-not-a-database/",
-    "upvotes": 87,
+    "upvotes": 104,
     "author": "andrioni",
-    "comments": 30,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25346851"
+  },
+  {
+    "title": "FedEx and UPS hit companies with unexpected holiday shipping limits",
+    "url": "https://www.modernretail.co/retailers/this-is-going-to-ruin-us-fedex-and-ups-hit-companies-with-unexpected-holiday-shipping-limits/",
+    "upvotes": 80,
+    "author": "mooreds",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=25346386"
   },
   {
     "title": "CentOS Project shifts focus to CentOS Stream",
     "url": "https://lists.centos.org/pipermail/centos-announce/2020-December/048208.html",
-    "upvotes": 116,
+    "upvotes": 134,
     "author": "rwky",
-    "comments": 124,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=25345428"
   },
   {
     "title": "OpenSSL Security Advisory – EDIPARTYNAME NULL pointer de-reference CVE-2020-1971",
     "url": "https://www.openssl.org/news/secadv/20201208.txt",
-    "upvotes": 50,
+    "upvotes": 56,
     "author": "yabones",
-    "comments": 24,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25346133"
-  },
-  {
-    "title": "We Love GPLv3, but Are Switching License to Apache 2.0: TerminusDB",
-    "url": "https://terminusdb.com/blog/2020/12/08/we-love-gplv3-but-are-switching-license-to-apache-2-0-terminusdb/",
-    "upvotes": 39,
-    "author": "vivek9209",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=25346965"
   },
   {
     "title": "The Complexity of Building a Lie-Down Workstation",
     "url": "https://altwork.com/blogs/news/the-complexity-of-building-a-lie-down-workstation",
-    "upvotes": 17,
+    "upvotes": 29,
     "author": "AltworkStation",
-    "comments": 8,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25347958"
+  },
+  {
+    "title": "We Love GPLv3, but Are Switching License to Apache 2.0: TerminusDB",
+    "url": "https://terminusdb.com/blog/2020/12/08/we-love-gplv3-but-are-switching-license-to-apache-2-0-terminusdb/",
+    "upvotes": 47,
+    "author": "vivek9209",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=25346965"
+  },
+  {
+    "title": "GitHub Universe 2020: Opening Keynote",
+    "url": "https://githubuniverse.com/",
+    "upvotes": 17,
+    "author": "PieUser",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25348162"
   },
   {
     "title": "Little Tasks, Little Trust",
     "url": "http://adamard.com/little_tasks.html",
-    "upvotes": 55,
+    "upvotes": 66,
     "author": "aard",
-    "comments": 20,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25346460"
   },
   {
     "title": "Etsy was a twee culture punchline, now it’s a Wall Street darling",
     "url": "https://www.nytimes.com/2020/12/08/business/etsy-masks-wall-street.html",
-    "upvotes": 13,
+    "upvotes": 19,
     "author": "tempsy",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25347984"
+  },
+  {
+    "title": "Show HN: End-to-end encrypted location sharing service",
+    "url": "https://www.zood.xyz/",
+    "upvotes": 17,
+    "author": "apayan",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25347915"
+  },
+  {
+    "title": "IceStick Tutorial: experience FPGA design and RISC-V using $40 FPGA device",
+    "url": "https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/TUTORIALS/IceStick.md",
+    "upvotes": 8,
+    "author": "homarp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25322593"
   },
   {
     "title": "Introducing Orc",
     "url": "https://nim-lang.org/blog/2020/12/08/introducing-orc.html",
-    "upvotes": 41,
+    "upvotes": 56,
     "author": "mratsim",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25345770"
-  },
-  {
-    "title": "Are people with dark personality traits more likely to succeed?",
-    "url": "https://psyche.co/ideas/are-people-with-dark-personality-traits-more-likely-to-succeed",
-    "upvotes": 84,
-    "author": "known",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=25344640"
   },
   {
     "title": "Cracking the meat-allergy mystery with the tick-bite link",
     "url": "https://www.nature.com/articles/d41586-020-02783-7",
-    "upvotes": 85,
+    "upvotes": 89,
     "author": "sohkamyung",
-    "comments": 44,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=25329655"
   },
   {
     "title": "Distributed Systems Reading List",
     "url": "https://dancres.github.io/Pages/",
-    "upvotes": 461,
+    "upvotes": 472,
     "author": "dedalus",
-    "comments": 52,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=25327077"
-  },
-  {
-    "title": "GOL Airlines to Resume 737 Max Flights on Wednesday",
-    "url": "https://www.reuters.com/article/us-boeing-737max-brazil-gol-linhas-ae/brazils-gol-to-resume-flying-boeing-737-max-from-dec-9-idUSKBN28I05Q",
-    "upvotes": 16,
-    "author": "Rooster61",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25346873"
   },
   {
     "title": "Teach Debugging",
     "url": "https://danluu.com/teach-debugging/",
-    "upvotes": 11,
+    "upvotes": 15,
     "author": "tim_sw",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25337491"
   },
   {
-    "title": "Show HN: End-to-end encrypted location sharing service",
-    "url": "https://www.zood.xyz/",
-    "upvotes": 8,
-    "author": "apayan",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25347915"
+    "title": "Rizin – open-source Reverse Engineering framework forked from radare2",
+    "url": "https://rizin.re/",
+    "upvotes": 5,
+    "author": "Megabeets",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25348224"
   },
   {
-    "title": "Philip Glass: ‘My problem is people don’t believe I write symphonies’",
-    "url": "https://www.theguardian.com/music/2017/jan/22/philip-glass-80-interview-observer-new-review",
-    "upvotes": 132,
-    "author": "tintinnabula",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=25329201"
+    "title": "GOL Airlines to Resume 737 Max Flights on Wednesday",
+    "url": "https://www.reuters.com/article/us-boeing-737max-brazil-gol-linhas-ae/brazils-gol-to-resume-flying-boeing-737-max-from-dec-9-idUSKBN28I05Q",
+    "upvotes": 21,
+    "author": "Rooster61",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=25346873"
   },
   {
-    "title": "Signs You’re Building a World-Class Team",
-    "url": "https://www.nfx.com/post/4-signs-world-class-team/",
-    "upvotes": 20,
-    "author": "domrdy",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25346634"
+    "title": "Octopus with Transparent Head Caught by Blackwater Photographer",
+    "url": "https://mymodernmet.com/wu-yung-sen-blackwater-photography/",
+    "upvotes": 31,
+    "author": "CapitalistCartr",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25344457"
   },
   {
     "title": "Follow Your Curiosity. Read Your Ass Off",
     "url": "https://askjerry.substack.com/p/follow-your-curiosity-read-your-ass",
-    "upvotes": 6,
+    "upvotes": 13,
     "author": "SparksZilla",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25346846"
   },
   {
+    "title": "Are people with dark personality traits more likely to succeed?",
+    "url": "https://psyche.co/ideas/are-people-with-dark-personality-traits-more-likely-to-succeed",
+    "upvotes": 92,
+    "author": "known",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=25344640"
+  },
+  {
     "title": "Memory Pool System by Ravenbrook",
     "url": "https://github.com/Ravenbrook/mps",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "bshanks",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25328147"
   },
   {
-    "title": "Octopus with Transparent Head Caught by Blackwater Photographer",
-    "url": "https://mymodernmet.com/wu-yung-sen-blackwater-photography/",
-    "upvotes": 21,
-    "author": "CapitalistCartr",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25344457"
-  },
-  {
-    "title": "Simple and flexible tool for managing secrets",
-    "url": "https://github.com/mozilla/sops",
-    "upvotes": 118,
-    "author": "known",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=25342964"
-  },
-  {
-    "title": "The Social Life of Forests",
-    "url": "https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html",
-    "upvotes": 94,
-    "author": "0DHm2CxO7Lb3",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25330549"
-  },
-  {
-    "title": "The Camouflaged Military Bunkers of Switzerland",
-    "url": "https://www.amusingplanet.com/2015/07/the-camouflaged-military-bunkers-of.html",
-    "upvotes": 148,
-    "author": "CapitalistCartr",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=25331474"
+    "title": "Philip Glass: ‘My problem is people don’t believe I write symphonies’",
+    "url": "https://www.theguardian.com/music/2017/jan/22/philip-glass-80-interview-observer-new-review",
+    "upvotes": 134,
+    "author": "tintinnabula",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=25329201"
   }
 ]
