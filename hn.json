@@ -2,65 +2,73 @@
   {
     "title": "Distributed Systems Reading List",
     "url": "https://dancres.github.io/Pages/",
-    "upvotes": 106,
+    "upvotes": 147,
     "author": "dedalus",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25327077"
   },
   {
     "title": "Chuck Yeager has died",
     "url": "https://twitter.com/GenChuckYeager",
-    "upvotes": 395,
+    "upvotes": 412,
     "author": "awnird",
-    "comments": 102,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=25341486"
   },
   {
     "title": "AT&T Fiber in the SF Bay Area is flipping bits",
     "url": "https://twitter.com/catfish_man/status/1335373029245775872",
-    "upvotes": 533,
+    "upvotes": 540,
     "author": "km3r",
-    "comments": 298,
+    "comments": 305,
     "link": "https://news.ycombinator.com/item?id=25335936"
   },
   {
     "title": "How to Escape a Sinking Ship",
     "url": "https://www.wired.com/story/how-to-escape-sinking-ship-like-titanic/",
-    "upvotes": 208,
+    "upvotes": 216,
     "author": "portobello",
-    "comments": 108,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=25338316"
+  },
+  {
+    "title": "Simple and flexible tool for managing secrets",
+    "url": "https://github.com/mozilla/sops",
+    "upvotes": 5,
+    "author": "known",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25342964"
   },
   {
     "title": "If All You Have Is a Database, Everything Looks Like a Nail",
     "url": "https://pathelland.substack.com/p/if-all-you-have-is-a-database-everything",
-    "upvotes": 111,
+    "upvotes": 115,
     "author": "kiyanwang",
-    "comments": 71,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=25330223"
   },
   {
     "title": "Hexagonal Grids",
     "url": "https://www.redblobgames.com/grids/hexagons/",
-    "upvotes": 233,
+    "upvotes": 245,
     "author": "siliconmountain",
-    "comments": 49,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=25340425"
   },
   {
     "title": "Semantic Clojure Formatting",
     "url": "http://metaredux.com/posts/2020/12/06/semantic-clojure-formatting.html",
-    "upvotes": 39,
+    "upvotes": 44,
     "author": "todsacerdoti",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25322836"
   },
   {
     "title": "Travis CI is no longer providing CI minutes for open source projects",
     "url": "item?id=25338983",
-    "upvotes": 360,
+    "upvotes": 372,
     "author": "jameshilliard",
-    "comments": 123,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=25338983"
   },
   {
@@ -68,77 +76,69 @@
     "url": "https://www.outsideonline.com/2419429/forrest-fenn-treasure-jack-stuef",
     "upvotes": 72,
     "author": "esalazar",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25340433"
-  },
-  {
-    "title": "Librem 5 Evergreen vs. Pinephone",
-    "url": "https://thatgeoguy.ca/blog/2020/12/06/Librem-5-Evergreen-vs-Pinephone/",
-    "upvotes": 134,
-    "author": "ThatGeoGuy",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=25338633"
-  },
-  {
-    "title": "With Proton and Steam Play, many Windows games now work on Linux",
-    "url": "https://www.protondb.com",
-    "upvotes": 747,
-    "author": "OJFord",
-    "comments": 422,
-    "link": "https://news.ycombinator.com/item?id=25333219"
   },
   {
     "title": "Raft Visualization",
     "url": "http://thesecretlivesofdata.com/raft/",
-    "upvotes": 199,
+    "upvotes": 207,
     "author": "dedalus",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25326645"
+  },
+  {
+    "title": "With Proton and Steam Play, many Windows games now work on Linux",
+    "url": "https://www.protondb.com",
+    "upvotes": 755,
+    "author": "OJFord",
+    "comments": 432,
+    "link": "https://news.ycombinator.com/item?id=25333219"
+  },
+  {
+    "title": "Librem 5 Evergreen vs. Pinephone",
+    "url": "https://thatgeoguy.ca/blog/2020/12/06/Librem-5-Evergreen-vs-Pinephone/",
+    "upvotes": 135,
+    "author": "ThatGeoGuy",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=25338633"
   },
   {
     "title": "The Social Life of Forests",
     "url": "https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html",
-    "upvotes": 6,
+    "upvotes": 9,
     "author": "0DHm2CxO7Lb3",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25330549"
   },
   {
+    "title": "Zero-click, wormable, cross-platform remote code execution in Microsoft Teams",
+    "url": "https://github.com/oskarsve/ms-teams-rce",
+    "upvotes": 1162,
+    "author": "Tomte",
+    "comments": 285,
+    "link": "https://news.ycombinator.com/item?id=25331407"
+  },
+  {
     "title": "San Mateo County Health Officer Statement on Bay Area Stay-at-Home Orders",
     "url": "https://www.smchealth.org/health-officer-updates/december-7-2020-health-officer-statement",
-    "upvotes": 256,
+    "upvotes": 259,
     "author": "EdJiang",
-    "comments": 191,
+    "comments": 197,
     "link": "https://news.ycombinator.com/item?id=25341289"
   },
   {
     "title": "Innovative universal flu vaccine shows promise in first clinical test",
     "url": "https://www.sciencemag.org/news/2020/12/innovative-universal-flu-vaccine-shows-promises-it-first-clinical-test",
-    "upvotes": 52,
+    "upvotes": 57,
     "author": "respinal",
-    "comments": 12,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25341754"
-  },
-  {
-    "title": "Where Did Combinators Come From? Hunting the Story of Moses Schönfinkel",
-    "url": "https://writings.stephenwolfram.com/2020/12/where-did-combinators-come-from-hunting-the-story-of-moses-schonfinkel/",
-    "upvotes": 160,
-    "author": "abiboudis",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=25335175"
-  },
-  {
-    "title": "Zero-click, wormable, cross-platform remote code execution in Microsoft Teams",
-    "url": "https://github.com/oskarsve/ms-teams-rce",
-    "upvotes": 1154,
-    "author": "Tomte",
-    "comments": 282,
-    "link": "https://news.ycombinator.com/item?id=25331407"
   },
   {
     "title": "Uber sells self-driving unit in deal that will push Aurora’s valuation to $10B",
     "url": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/",
-    "upvotes": 323,
+    "upvotes": 324,
     "author": "seaucre",
     "comments": 312,
     "link": "https://news.ycombinator.com/item?id=25337553"
@@ -146,15 +146,15 @@
   {
     "title": "Software Design for Flexibility",
     "url": "https://mitpress.mit.edu/books/software-design-flexibility",
-    "upvotes": 74,
+    "upvotes": 78,
     "author": "jgrodziski",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25322938"
   },
   {
     "title": "Toledo Zoo first to record biofluorescence in Tasmanian Devils",
     "url": "https://www.wtol.com/article/news/local/toledo-zoo-first-to-record-biofluorescence-in-tasmanian-devils/512-c838ba38-0ddf-450e-9ec1-87a2b88d8f8f",
-    "upvotes": 96,
+    "upvotes": 98,
     "author": "DenverCode",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25321544"
@@ -164,44 +164,44 @@
     "url": "https://www.workatastartup.com/companies/13176"
   },
   {
-    "title": "A Modern JavaScript Tutorial",
-    "url": "https://javascript.info/",
-    "upvotes": 725,
-    "author": "ivanche",
-    "comments": 223,
-    "link": "https://news.ycombinator.com/item?id=25333350"
-  },
-  {
-    "title": "SpaceX Starship Users' Guide [pdf]",
-    "url": "https://www.spacex.com/media/starship_users_guide_v1.pdf",
-    "upvotes": 161,
-    "author": "mhb",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=25340904"
-  },
-  {
     "title": "Cemetery of Soviet Computers",
     "url": "https://rusue.com/cemetery-of-soviet-computers/",
-    "upvotes": 29,
+    "upvotes": 35,
     "author": "detaro",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25340452"
   },
   {
+    "title": "A Modern JavaScript Tutorial",
+    "url": "https://javascript.info/",
+    "upvotes": 729,
+    "author": "ivanche",
+    "comments": 224,
+    "link": "https://news.ycombinator.com/item?id=25333350"
+  },
+  {
+    "title": "FuzzOS – an operating system which is designed specifically for fuzzing",
+    "url": "https://gamozolabs.github.io/fuzzing/2020/12/06/fuzzos.html",
+    "upvotes": 99,
+    "author": "URfejk",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=25336540"
+  },
+  {
     "title": "A Logarithm Too Clever by Half",
     "url": "https://people.eecs.berkeley.edu/~wkahan/LOG10HAF.TXT",
-    "upvotes": 24,
+    "upvotes": 25,
     "author": "dahart",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25340736"
   },
   {
-    "title": "FuzzOS – an operating system which is designed specifically for fuzzing",
-    "url": "https://gamozolabs.github.io/fuzzing/2020/12/06/fuzzos.html",
-    "upvotes": 97,
-    "author": "URfejk",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=25336540"
+    "title": "14 nations commit to protect oceans",
+    "url": "https://www.nationalgeographic.co.uk/environment-and-conservation/2020/12/in-rare-show-of-solidarity-14-key-nations-commit-to-protect",
+    "upvotes": 335,
+    "author": "hassanahmad",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=25335367"
   },
   {
     "title": "Platform Monetization: Dealing with High Adoption Barriers",
@@ -212,27 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=25330645"
   },
   {
-    "title": "14 nations commit to protect oceans",
-    "url": "https://www.nationalgeographic.co.uk/environment-and-conservation/2020/12/in-rare-show-of-solidarity-14-key-nations-commit-to-protect",
-    "upvotes": 330,
-    "author": "hassanahmad",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=25335367"
+    "title": "SpaceX Starship Users' Guide [pdf]",
+    "url": "https://www.spacex.com/media/starship_users_guide_v1.pdf",
+    "upvotes": 165,
+    "author": "mhb",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=25340904"
+  },
+  {
+    "title": "Apple Silicon Games - 400+ Game Performance Reports for Apple Silicon Macs",
+    "url": "https://applesilicongames.com",
+    "upvotes": 64,
+    "author": "epaga",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=25342385"
   },
   {
     "title": "The body as mediator: The phenomenology of Merleau-Ponty",
     "url": "https://aeon.co/essays/the-phenomenology-of-merleau-ponty-and-embodiment-in-the-world",
-    "upvotes": 38,
+    "upvotes": 43,
     "author": "meanie",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25337708"
-  },
-  {
-    "title": "Mysterious black spot in polar explorer's diary offers gruesome clue to his fate",
-    "url": "https://www.livescience.com/greenland-explorer-diary-black-spot.html",
-    "upvotes": 40,
-    "author": "Thevet",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=25329511"
   }
 ]
