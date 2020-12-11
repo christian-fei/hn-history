@@ -1,99 +1,123 @@
 [
   {
+    "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course",
+    "url": "https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/",
+    "upvotes": 111,
+    "author": "matt_d",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25386756"
+  },
+  {
     "title": "Who Americans spend their time with, by age",
     "url": "https://ourworldindata.org/time-with-others-lifetime",
-    "upvotes": 140,
+    "upvotes": 180,
     "author": "EOO_OWID",
-    "comments": 88,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=25385833"
+  },
+  {
+    "title": "GnuCOBOL 3.1.1",
+    "url": "https://sourceforge.net/p/gnucobol/code/HEAD/tree/branches/gnucobol-3.x/NEWS",
+    "upvotes": 91,
+    "author": "rhabarba",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=25384846"
   },
   {
     "title": "Pointer Pointer",
     "url": "https://pointerpointer.com/",
-    "upvotes": 324,
+    "upvotes": 344,
     "author": "heinrich5991",
-    "comments": 47,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=25372356"
-  },
-  {
-    "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course",
-    "url": "https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/",
-    "upvotes": 9,
-    "author": "matt_d",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25386756"
   },
   {
     "title": "The 'Japanese Bob Ross': How a 73-year-old artist took YouTube by storm",
     "url": "https://edition.cnn.com/2020/12/09/asia/shibasaki-japan-youtube-star-spc-intl/index.html",
-    "upvotes": 93,
+    "upvotes": 117,
     "author": "williamsharris",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25372620"
   },
   {
+    "title": "Smash Training Retrospective",
+    "url": "https://waleedkhan.name/blog/smash-training-retrospective/",
+    "upvotes": 7,
+    "author": "arxanas",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25387356"
+  },
+  {
+    "title": "Implementing Rust's Dbg in Python",
+    "url": "https://rtpg.co/2020/12/11/dbg-in-python.html",
+    "upvotes": 21,
+    "author": "soopurman",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25386358"
+  },
+  {
     "title": "Heavy is the Head that wears the AirPods Max",
     "url": "https://daringfireball.net/2020/12/heavy_is_the_head_that_wears_the_airpods_max",
-    "upvotes": 154,
+    "upvotes": 183,
     "author": "ch_sm",
-    "comments": 279,
+    "comments": 352,
     "link": "https://news.ycombinator.com/item?id=25383598"
-  },
-  {
-    "title": "Microsoft releases a preview of x64 emulation on Windows for ARM",
-    "url": "https://blogs.windows.com/windows-insider/2020/12/10/announcing-windows-10-insider-preview-build-21277/",
-    "upvotes": 248,
-    "author": "Tepix",
-    "comments": 250,
-    "link": "https://news.ycombinator.com/item?id=25383524"
-  },
-  {
-    "title": "EU leaders agree to cut emissions by at least 55% by end of decade",
-    "url": "https://www.theguardian.com/world/2020/dec/11/eu-leaders-reach-deal-to-cut-emissions-by-at-least-55-by-end-of-decade",
-    "upvotes": 146,
-    "author": "billyharris",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=25385014"
   },
   {
     "title": "Museum of Bad Album Covers",
     "url": "http://www.zonicweb.net/badalbmcvrs/index.htm",
-    "upvotes": 122,
+    "upvotes": 134,
     "author": "gscott",
-    "comments": 73,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=25383623"
   },
   {
     "title": "Monads and GATs in Nightly Rust",
     "url": "https://www.fpcomplete.com/blog/monads-gats-nightly-rust/",
-    "upvotes": 124,
+    "upvotes": 134,
     "author": "asimpletune",
-    "comments": 73,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=25383066"
+  },
+  {
+    "title": "EU leaders agree to cut emissions by at least 55% by end of decade",
+    "url": "https://www.theguardian.com/world/2020/dec/11/eu-leaders-reach-deal-to-cut-emissions-by-at-least-55-by-end-of-decade",
+    "upvotes": 168,
+    "author": "billyharris",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=25385014"
+  },
+  {
+    "title": "Microsoft releases a preview of x64 emulation on Windows for ARM",
+    "url": "https://blogs.windows.com/windows-insider/2020/12/10/announcing-windows-10-insider-preview-build-21277/",
+    "upvotes": 262,
+    "author": "Tepix",
+    "comments": 271,
+    "link": "https://news.ycombinator.com/item?id=25383524"
   },
   {
     "title": "Vftool runs Linux virtual machines in macOS Big Sur",
     "url": "https://github.com/evansm7/vftool",
-    "upvotes": 152,
+    "upvotes": 162,
     "author": "syrusakbary",
-    "comments": 66,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=25382529"
+  },
+  {
+    "title": "Airbnb’s Stunning IPO",
+    "url": "https://www.nytimes.com/2020/12/11/business/dealbook/airbnb-ipo-chesky.html",
+    "upvotes": 56,
+    "author": "benoitg",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=25386482"
   },
   {
     "title": "Brave Introduces Brave Today, the Privacy-Preserving News Reader",
     "url": "https://brave.com/announcing-brave-today/",
-    "upvotes": 103,
+    "upvotes": 116,
     "author": "nsnante",
-    "comments": 66,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=25383119"
-  },
-  {
-    "title": "Cypress: Fast, easy, and reliable testing for anything that runs in a browser",
-    "url": "https://www.cypress.io/",
-    "upvotes": 269,
-    "author": "OJFord",
-    "comments": 135,
-    "link": "https://news.ycombinator.com/item?id=25381242"
   },
   {
     "title": "Gustav",
@@ -102,137 +126,113 @@
   {
     "title": "Show HN: DIY Dynamic DNS with Netlify API and Bash",
     "url": "https://blog.skylerlewis.io/2020/12/diy-dynamic-dns-using-netlify-api.html",
-    "upvotes": 13,
+    "upvotes": 17,
     "author": "krustymeathead",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25384968"
+  },
+  {
+    "title": "Why does Linux have so much trouble sleeping and waking?",
+    "url": "item?id=25385860",
+    "upvotes": 51,
+    "author": "bamboozled",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=25385860"
+  },
+  {
+    "title": "Working from home at 25MHz: You could do worse than a Quadra 700, even in 2020",
+    "url": "https://arstechnica.com/information-technology/2020/12/it-still-runs-on-your-imagination-passing-2020-time-with-a-macintosh-quadra-700/",
+    "upvotes": 45,
+    "author": "Tomte",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=25386098"
   },
   {
     "title": "Paul Chan: Drawings for Word Book by Ludwig Wittgenstein",
     "url": "https://greenenaftaligallery-viewingroom.exhibit-e.art/viewing-room/paul-chan",
-    "upvotes": 29,
+    "upvotes": 30,
     "author": "mellosouls",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25372417"
   },
   {
-    "title": "Working from home at 25MHz: You could do worse than a Quadra 700",
-    "url": "https://arstechnica.com/information-technology/2020/12/it-still-runs-on-your-imagination-passing-2020-time-with-a-macintosh-quadra-700/",
-    "upvotes": 30,
-    "author": "Tomte",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25386098"
+    "title": "Show HN: LaunchAfrica – Find startup and tech jobs in Africa",
+    "url": "https://launchafrica.io/",
+    "upvotes": 23,
+    "author": "truetaurus",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25384402"
   },
   {
-    "title": "Am I Disabled?",
-    "url": "https://aeon.co/essays/what-does-it-mean-to-consider-yourself-a-disabled-person",
-    "upvotes": 184,
-    "author": "magnifique",
-    "comments": 152,
-    "link": "https://news.ycombinator.com/item?id=25378551"
-  },
-  {
-    "title": "GnuCOBOL 3.1.1",
-    "url": "https://sourceforge.net/p/gnucobol/code/HEAD/tree/branches/gnucobol-3.x/NEWS",
-    "upvotes": 80,
-    "author": "rhabarba",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=25384846"
+    "title": "Starship SN9 damaged in an accident in the high-bay",
+    "url": "https://twitter.com/Erdayastronaut/status/1337418241346576384",
+    "upvotes": 6,
+    "author": "_Microft",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25387556"
   },
   {
     "title": "How the Slowest Computer Programs Illuminate Math’s Fundamental Limits",
     "url": "https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/",
-    "upvotes": 122,
+    "upvotes": 128,
     "author": "pontus",
-    "comments": 34,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=25381325"
+  },
+  {
+    "title": "A truly independet web spider",
+    "url": "https://www.mojeek.com",
+    "upvotes": 55,
+    "author": "jhoechtl",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=25372401"
   },
   {
     "title": "Cameras and Lenses",
     "url": "https://ciechanow.ski/cameras-and-lenses/",
-    "upvotes": 2020,
+    "upvotes": 2039,
     "author": "mariuz",
-    "comments": 191,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=25357315"
   },
   {
     "title": "Some doctors, therapists get Health Canada permission to use magic mushrooms",
     "url": "https://www.cbc.ca/news/canada/london/some-doctors-therapists-get-health-canada-permission-to-use-magic-mushrooms-1.5834485",
-    "upvotes": 152,
+    "upvotes": 157,
     "author": "billyharris",
-    "comments": 33,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=25382497"
-  },
-  {
-    "title": "We can have democracy or we can have Facebook",
-    "url": "https://the.ink/p/we-can-have-democracy-or-we-can-have",
-    "upvotes": 191,
-    "author": "imartin2k",
-    "comments": 318,
-    "link": "https://news.ycombinator.com/item?id=25383976"
   },
   {
     "title": "Inuttitut, a language shaped by humility, poetry, and the land",
     "url": "https://beside.media/new-narratives/nuna/",
-    "upvotes": 63,
+    "upvotes": 66,
     "author": "diaphanous",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25378558"
-  },
-  {
-    "title": "Major browsers are getting hit in widespread malware attacks",
-    "url": "https://arstechnica.com/information-technology/2020/12/ongoing-malware-attacks-are-hitting-users-of-4-major-browsers/",
-    "upvotes": 50,
-    "author": "1cvmask",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25384636"
-  },
-  {
-    "title": "Show HN: Crossminds.ai – A knowledge graph indexed AI research video library",
-    "url": "https://crossminds.ai/explore/",
-    "upvotes": 77,
-    "author": "tecresearch",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25369075"
-  },
-  {
-    "title": "Show HN: LaunchAfrica – Find startup and tech jobs in Africa",
-    "url": "https://launchafrica.io/",
-    "upvotes": 10,
-    "author": "truetaurus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25384402"
   },
   {
     "title": "Finding Critical Open Source Projects",
     "url": "https://opensource.googleblog.com/",
-    "upvotes": 104,
+    "upvotes": 113,
     "author": "QuantumWasp",
-    "comments": 63,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=25381397"
   },
   {
-    "title": "The Airbnbs",
-    "url": "https://blog.ycombinator.com/the-airbnbs/",
-    "upvotes": 579,
-    "author": "todsacerdoti",
-    "comments": 460,
-    "link": "https://news.ycombinator.com/item?id=25375979"
+    "title": "Cypress: Fast, easy, and reliable testing for anything that runs in a browser",
+    "url": "https://www.cypress.io/",
+    "upvotes": 277,
+    "author": "OJFord",
+    "comments": 144,
+    "link": "https://news.ycombinator.com/item?id=25381242"
   },
   {
-    "title": "Google Alternatives",
-    "url": "https://justprivacy.org/google-alternatives/",
-    "upvotes": 261,
-    "author": "yepgwer",
-    "comments": 202,
-    "link": "https://news.ycombinator.com/item?id=25380999"
-  },
-  {
-    "title": "Physicists solve 150-year-old mystery of equation governing sandcastle physics",
-    "url": "https://arstechnica.com/science/2020/12/physicists-solve-150-year-old-mystery-of-equation-governing-sandcastle-physics/",
-    "upvotes": 53,
-    "author": "CapitalistCartr",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25372871"
+    "title": "Major browsers are getting hit in widespread malware attacks",
+    "url": "https://arstechnica.com/information-technology/2020/12/ongoing-malware-attacks-are-hitting-users-of-4-major-browsers/",
+    "upvotes": 58,
+    "author": "1cvmask",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=25384636"
   }
 ]
