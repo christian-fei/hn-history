@@ -1,35 +1,51 @@
 [
   {
-    "title": "Undocumented immigrants far less likely to commit crimes in U.S. than citizens",
-    "url": "https://news.wisc.edu/undocumented-immigrants-far-less-likely-to-commit-crimes-in-u-s-than-citizens/",
-    "upvotes": 45,
-    "author": "onetimemanytime",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25405521"
+    "title": "Goodreads plans to retire API access, disables existing API keys",
+    "url": "https://joealcorn.co.uk/blog/2020/goodreads-retiring-API",
+    "upvotes": 33,
+    "author": "buttscicles",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25405737"
   },
   {
     "title": "Why radio receivers won’t tune 800-900 MHz",
     "url": "https://computer.rip/2020-11-28%20the%20verboten%20band.html",
-    "upvotes": 334,
+    "upvotes": 340,
     "author": "jtakkala",
-    "comments": 119,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=25403163"
-  },
-  {
-    "title": "Who Owns the Stars: The Trouble with Urbit",
-    "url": "http://distributedweb.care/posts/who-owns-the-stars/",
-    "upvotes": 61,
-    "author": "deegles",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=25404575"
   },
   {
     "title": "I Hacked into Facebook's Legal Department Admin Panel",
     "url": "https://alaa.blog/2020/12/how-i-hacked-facebook-part-one/",
-    "upvotes": 553,
+    "upvotes": 572,
     "author": "hackerpain",
-    "comments": 235,
+    "comments": 237,
     "link": "https://news.ycombinator.com/item?id=25401294"
+  },
+  {
+    "title": "OSv – Linux binary compatible unikernel for virtualized environments",
+    "url": "https://github.com/cloudius-systems/osv",
+    "upvotes": 10,
+    "author": "peter_d_sherman",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25405672"
+  },
+  {
+    "title": "George Orwell’s 1984 through a neuroscience lens",
+    "url": "https://brainpizza.substack.com/p/george-orwells-1984-through-a-neuroscience",
+    "upvotes": 3,
+    "author": "smomara",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25405731"
+  },
+  {
+    "title": "Uhubctl – control USB power per-port on smart USB hubs",
+    "url": "https://github.com/mvp/uhubctl",
+    "upvotes": 26,
+    "author": "pabs3",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25395949"
   },
   {
     "title": "Team uses copper to image Alzheimer's aggregates in the brain",
@@ -40,41 +56,33 @@
     "link": "https://news.ycombinator.com/item?id=25404789"
   },
   {
-    "title": "Uhubctl – control USB power per-port on smart USB hubs",
-    "url": "https://github.com/mvp/uhubctl",
-    "upvotes": 20,
-    "author": "pabs3",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25395949"
-  },
-  {
     "title": "The HP-35",
     "url": "http://codex99.com/design/the-hp35.html",
-    "upvotes": 29,
+    "upvotes": 31,
     "author": "tonyedgecombe",
-    "comments": 9,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25397985"
   },
   {
     "title": "New UK police speed gun can read license plates from half a mile away at night",
     "url": "https://www.thedrive.com/news/38111/new-uk-police-speed-gun-can-read-license-plates-from-nearly-half-a-mile-away-at-night",
-    "upvotes": 63,
+    "upvotes": 65,
     "author": "ourmandave",
-    "comments": 287,
+    "comments": 314,
     "link": "https://news.ycombinator.com/item?id=25403727"
   },
   {
     "title": "If you can't play the new VR version of Myst, why not play the Apple II demake",
     "url": "http://www.deater.net/weave/vmwprod/mist/",
-    "upvotes": 89,
+    "upvotes": 91,
     "author": "deater",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25403717"
   },
   {
     "title": "To listen well, get curious",
     "url": "https://www.benkuhn.net/listen/",
-    "upvotes": 105,
+    "upvotes": 110,
     "author": "axiomdata316",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25403240"
@@ -90,18 +98,26 @@
   {
     "title": "Reverse Engineering the TP-Link HS110",
     "url": "https://www.softscheck.com/en/reverse-engineering-tp-link-hs110/",
-    "upvotes": 61,
+    "upvotes": 64,
     "author": "zdw",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25393505"
   },
   {
     "title": "Writing a Memory Allocator",
     "url": "http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/",
-    "upvotes": 127,
+    "upvotes": 130,
     "author": "DyslexicAtheist",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25402841"
+  },
+  {
+    "title": "Imgdiff: Faster than the fastest pixel-by-pixel image difference tool",
+    "url": "https://github.com/n7olkachev/imgdiff",
+    "upvotes": 155,
+    "author": "dcu",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=25401100"
   },
   {
     "title": "Africa in the Photobook",
@@ -112,17 +128,17 @@
     "link": "https://news.ycombinator.com/item?id=25395560"
   },
   {
-    "title": "Imgdiff: Faster than the fastest pixel-by-pixel image difference tool",
-    "url": "https://github.com/n7olkachev/imgdiff",
-    "upvotes": 153,
-    "author": "dcu",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=25401100"
+    "title": "Show HN: An anti-book recommendation tool",
+    "url": "https://abooklikefoo.com/escape/",
+    "upvotes": 7,
+    "author": "padolsey",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25405259"
   },
   {
     "title": "Prehistoric Horses: Exploring the meaning of Lascaux’s galloping herds",
     "url": "https://www.historytoday.com/archive/natural-histories/prehistoric-horses",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "Thevet",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25395610"
@@ -130,18 +146,26 @@
   {
     "title": "Is deep learning a new kind of programming?",
     "url": "http://tomasp.net/blog/2020/learning-and-programming/",
-    "upvotes": 61,
+    "upvotes": 64,
     "author": "jpcooper",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25383942"
   },
   {
     "title": "Bulk loading into PostgreSQL: Options and comparison",
     "url": "https://www.highgo.ca/2020/12/08/bulk-loading-into-postgresql-options-and-comparison/",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "eatonphil",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25402430"
+  },
+  {
+    "title": "The Semantic Future of the Web",
+    "url": "https://stackoverflow.blog/2020/12/10/the-semantic-future-of-the-web/?cb=1",
+    "upvotes": 59,
+    "author": "kjhughes",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=25403233"
   },
   {
     "title": "I built a picture frame with a greyscale e-paper that runs on battery for years",
@@ -152,12 +176,20 @@
     "link": "https://news.ycombinator.com/item?id=25400702"
   },
   {
-    "title": "The Semantic Future of the Web",
-    "url": "https://stackoverflow.blog/2020/12/10/the-semantic-future-of-the-web/?cb=1",
-    "upvotes": 57,
-    "author": "kjhughes",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=25403233"
+    "title": "Accidental Observations",
+    "url": "https://www.itp.uni-hannover.de/fileadmin/arbeitsgruppen/zawischa/static_html/strange.html",
+    "upvotes": 4,
+    "author": "bondarchuk",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25398025"
+  },
+  {
+    "title": "Risk-First Software Development",
+    "url": "https://riskfirst.org",
+    "upvotes": 122,
+    "author": "bobm_kite9",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=25401937"
   },
   {
     "title": "The Piet-GPU Vision",
@@ -168,12 +200,12 @@
     "link": "https://news.ycombinator.com/item?id=25383511"
   },
   {
-    "title": "Risk-First Software Development",
-    "url": "https://riskfirst.org",
-    "upvotes": 120,
-    "author": "bobm_kite9",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=25401937"
+    "title": "Re: Flex Dance: open-source dance pad",
+    "url": "https://reflex.dance/",
+    "upvotes": 107,
+    "author": "kadoban",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=25400272"
   },
   {
     "title": "Kevin Kelly on Why Technology Has a Will",
@@ -184,20 +216,20 @@
     "link": "https://news.ycombinator.com/item?id=25383946"
   },
   {
-    "title": "Re: Flex Dance: open-source dance pad",
-    "url": "https://reflex.dance/",
-    "upvotes": 105,
-    "author": "kadoban",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=25400272"
-  },
-  {
     "title": "Thread-Per-Core Buffer Management for a modern storage system",
     "url": "https://vectorized.io/blog/tpc-buffers/",
-    "upvotes": 105,
+    "upvotes": 108,
     "author": "arjunnarayan",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=25400350"
+  },
+  {
+    "title": "Become Shell Literate",
+    "url": "https://drewdevault.com/2020/12/12/Shell-literacy.html",
+    "upvotes": 442,
+    "author": "als0",
+    "comments": 290,
+    "link": "https://news.ycombinator.com/item?id=25399058"
   },
   {
     "title": "The Fruits of the Deep",
@@ -206,37 +238,5 @@
     "author": "dnetesn",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25384321"
-  },
-  {
-    "title": "Become Shell Literate",
-    "url": "https://drewdevault.com/2020/12/12/Shell-literacy.html",
-    "upvotes": 439,
-    "author": "als0",
-    "comments": 289,
-    "link": "https://news.ycombinator.com/item?id=25399058"
-  },
-  {
-    "title": "Lessons learned from creating a rich-text editor with real-time collab",
-    "url": "https://ckeditor.com/blog/Lessons-learned-from-creating-a-rich-text-editor-with-real-time-collaboration/",
-    "upvotes": 74,
-    "author": "monroewalker",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25394609"
-  },
-  {
-    "title": "Earnestness",
-    "url": "http://paulgraham.com/earnest.html",
-    "upvotes": 395,
-    "author": "jger15",
-    "comments": 394,
-    "link": "https://news.ycombinator.com/item?id=25398429"
-  },
-  {
-    "title": "Graphik: An identity-aware document and graph database",
-    "url": "https://github.com/graphikDB/graphik",
-    "upvotes": 36,
-    "author": "yagizdegirmenci",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25383738"
   }
 ]
