@@ -1,74 +1,82 @@
 [
   {
+    "title": "ARM MacBook vs. Intel MacBook: A SIMD Benchmark",
+    "url": "https://lemire.me/blog/2020/12/13/arm-macbook-vs-intel-macbook-a-simd-benchmark/",
+    "upvotes": 53,
+    "author": "todsacerdoti",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=25408853"
+  },
+  {
     "title": "Goodreads plans to retire API access, disables existing API keys",
     "url": "https://joealcorn.co.uk/blog/2020/goodreads-retiring-API",
-    "upvotes": 463,
+    "upvotes": 489,
     "author": "buttscicles",
-    "comments": 291,
+    "comments": 300,
     "link": "https://news.ycombinator.com/item?id=25405737"
   },
   {
     "title": "The State of Linux Debuggers",
     "url": "https://scattered-thoughts.net/writing/the-state-of-linux-debuggers/",
-    "upvotes": 112,
+    "upvotes": 123,
     "author": "pyb",
-    "comments": 71,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=25406541"
-  },
-  {
-    "title": "Germany's State Distance-Learning University",
-    "url": "https://www.fernuni-hagen.de/english/",
-    "upvotes": 76,
-    "author": "Tomte",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=25396999"
   },
   {
     "title": "Hypercore protocol: a distributed",
     "url": "https://hypercore-protocol.org/",
-    "upvotes": 47,
+    "upvotes": 59,
     "author": "thinkmassive",
-    "comments": 10,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25407193"
+  },
+  {
+    "title": "Germany's State Distance-Learning University",
+    "url": "https://www.fernuni-hagen.de/english/",
+    "upvotes": 78,
+    "author": "Tomte",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=25396999"
   },
   {
     "title": "Hyperbeam: A 1-1 E2E encrypted internet pipe powered by Hyperswarm",
     "url": "https://github.com/mafintosh/hyperbeam",
-    "upvotes": 42,
+    "upvotes": 47,
     "author": "thinkmassive",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25407174"
   },
   {
     "title": "The Fraying of the US Global Currency Reserve System",
     "url": "https://www.lynalden.com/fraying-petrodollar-system/",
-    "upvotes": 156,
+    "upvotes": 172,
     "author": "paulsb",
-    "comments": 76,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=25407583"
+  },
+  {
+    "title": "Show HN: An anti-book recommendation tool, to help you escape your echo chamber",
+    "url": "https://abooklikefoo.com/escape/",
+    "upvotes": 206,
+    "author": "padolsey",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=25405259"
   },
   {
     "title": "“Under-the-hood of GraphQL”-look at the execute req part of the query lifecycle",
     "url": "https://craigtaub.dev/under-the-hood-of-graphql",
-    "upvotes": 17,
+    "upvotes": 20,
     "author": "craigtaub",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25407553"
   },
   {
-    "title": "Show HN: An anti-book recommendation tool, to help you escape your echo chamber",
-    "url": "https://abooklikefoo.com/escape/",
-    "upvotes": 190,
-    "author": "padolsey",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=25405259"
-  },
-  {
     "title": "OSv – Linux binary compatible unikernel for virtualized environments",
     "url": "https://github.com/cloudius-systems/osv",
-    "upvotes": 103,
+    "upvotes": 104,
     "author": "peter_d_sherman",
-    "comments": 34,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=25405672"
   },
   {
@@ -76,163 +84,155 @@
     "url": "https://github.com/lane-c-wagner/go-password-validator",
     "upvotes": 15,
     "author": "wagslane",
-    "comments": 9,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25398072"
   },
   {
     "title": "Why I Wrote “The Crucible”",
     "url": "https://www.newyorker.com/magazine/1996/10/21/why-i-wrote-the-crucible",
-    "upvotes": 53,
+    "upvotes": 56,
     "author": "thazework",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=25397168"
+  },
+  {
+    "title": "Semantics of C in K",
+    "url": "https://github.com/kframework/c-semantics",
+    "upvotes": 6,
+    "author": "pabs3",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25395934"
   },
   {
     "title": "If-then-else had to be invented",
     "url": "https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md",
-    "upvotes": 174,
+    "upvotes": 182,
     "author": "fanf2",
-    "comments": 115,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=25406211"
+  },
+  {
+    "title": "How Pfizer Delivered a Covid Vaccine in Record Time",
+    "url": "https://www.wsj.com/articles/how-pfizer-delivered-a-covid-vaccine-in-record-time-crazy-deadlines-a-pushy-ceo-11607740483",
+    "upvotes": 90,
+    "author": "wallflower",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=25399086"
   },
   {
     "title": "Network effect: visualizing AI connections in the natural sciences",
     "url": "https://www.nature.com/articles/d41586-020-03410-1",
-    "upvotes": 13,
+    "upvotes": 14,
     "author": "Anon84",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25406756"
   },
   {
-    "title": "Why the US Dollar Could Outlast the American Empire",
-    "url": "https://palladiummag.com/2020/12/05/why-the-us-dollar-could-outlast-the-american-empire/",
-    "upvotes": 85,
-    "author": "hunglee2",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=25405042"
-  },
-  {
-    "title": "How Pfizer Delivered a Covid Vaccine in Record Time",
-    "url": "https://www.wsj.com/articles/how-pfizer-delivered-a-covid-vaccine-in-record-time-crazy-deadlines-a-pushy-ceo-11607740483",
-    "upvotes": 82,
-    "author": "wallflower",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=25399086"
-  },
-  {
-    "title": "Unlimited is like a Ponzi Scheme",
-    "url": "https://staysaasy.com/product/2020/12/12/unlimitted.html",
-    "upvotes": 118,
-    "author": "chesterarthur",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=25406072"
-  },
-  {
     "title": "Dreaming in Code",
     "url": "https://fossacademic.tech/2020/12/06/Dreaming-In-Code.html",
-    "upvotes": 15,
+    "upvotes": 18,
     "author": "todsacerdoti",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25407146"
+  },
+  {
+    "title": "Why the US Dollar Could Outlast the American Empire",
+    "url": "https://palladiummag.com/2020/12/05/why-the-us-dollar-could-outlast-the-american-empire/",
+    "upvotes": 90,
+    "author": "hunglee2",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=25405042"
   },
   {
     "title": "Ambition",
     "url": "https://ambition.com/career/opportunity/full-stack-engineer/"
   },
   {
-    "title": "The HP-35",
-    "url": "http://codex99.com/design/the-hp35.html",
-    "upvotes": 89,
-    "author": "tonyedgecombe",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=25397985"
+    "title": "Why software ends up complex",
+    "url": "https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/",
+    "upvotes": 74,
+    "author": "kiyanwang",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=25406798"
   },
   {
     "title": "Casio Graphing Scientific Calculator Fx-9860GIII Comes with MicroPython",
     "url": "https://edu.casio.com/products/graphic/fx9860g3/",
-    "upvotes": 92,
+    "upvotes": 96,
     "author": "pjmlp",
-    "comments": 78,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=25405645"
+  },
+  {
+    "title": "Unlimited is like a Ponzi Scheme",
+    "url": "https://staysaasy.com/product/2020/12/12/unlimitted.html",
+    "upvotes": 119,
+    "author": "chesterarthur",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=25406072"
+  },
+  {
+    "title": "The HP-35",
+    "url": "http://codex99.com/design/the-hp35.html",
+    "upvotes": 90,
+    "author": "tonyedgecombe",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=25397985"
   },
   {
     "title": "Akku: Experimental Bluetooth headset battery monitoring application for macOS",
     "url": "https://github.com/jariz/Akku",
-    "upvotes": 35,
+    "upvotes": 37,
     "author": "metahost",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25406233"
   },
   {
-    "title": "Why software ends up complex",
-    "url": "https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/",
-    "upvotes": 69,
-    "author": "kiyanwang",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=25406798"
-  },
-  {
-    "title": "Free Pascal",
-    "url": "https://www.freepascal.org/",
-    "upvotes": 85,
-    "author": "doener",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=25406547"
-  },
-  {
-    "title": "Semantics of C in K",
-    "url": "https://github.com/kframework/c-semantics",
-    "upvotes": 3,
-    "author": "pabs3",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25395934"
-  },
-  {
-    "title": "How to Reliably Scale Your Data Platform for High Volumes",
-    "url": "https://shopify.engineering/reliably-scale-data-platform",
-    "upvotes": 35,
-    "author": "oedmarap",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25398009"
-  },
-  {
     "title": "Uhubctl – control USB power per-port on smart USB hubs",
     "url": "https://github.com/mvp/uhubctl",
-    "upvotes": 60,
+    "upvotes": 61,
     "author": "pabs3",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25395949"
   },
   {
+    "title": "Free Pascal",
+    "url": "https://www.freepascal.org/",
+    "upvotes": 88,
+    "author": "doener",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=25406547"
+  },
+  {
+    "title": "How to Reliably Scale Your Data Platform for High Volumes",
+    "url": "https://shopify.engineering/reliably-scale-data-platform",
+    "upvotes": 37,
+    "author": "oedmarap",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25398009"
+  },
+  {
     "title": "Accidental Observations",
     "url": "https://www.itp.uni-hannover.de/fileadmin/arbeitsgruppen/zawischa/static_html/strange.html",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "bondarchuk",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25398025"
   },
   {
-    "title": "Monetizing the Final Frontier",
-    "url": "https://newrepublic.com/article/160303/monetizing-final-frontier",
-    "upvotes": 22,
-    "author": "Hooke",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=25402277"
+    "title": "Ask HN: How do you prevent eyestrain with daily computer use?",
+    "url": "item?id=25408587",
+    "upvotes": 6,
+    "author": "coned88",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25408587"
   },
   {
     "title": "Team uses copper to image Alzheimer's aggregates in the brain",
     "url": "https://blogs.illinois.edu/view/6367/502469350",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "rustoo",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25404789"
-  },
-  {
-    "title": "Stalking Her Daughter’s Killers Across Mexico, One by One",
-    "url": "https://www.nytimes.com/2020/12/13/world/americas/miriam-rodriguez-san-fernando.html",
-    "upvotes": 84,
-    "author": "IfOnlyYouKnew",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=25406665"
   }
 ]
