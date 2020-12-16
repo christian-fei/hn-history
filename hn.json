@@ -1,8 +1,16 @@
 [
   {
+    "title": "Air-FI: Generating Covert Wi-Fi Signals from Air-Gapped Computers",
+    "url": "https://arxiv.org/abs/2012.06884",
+    "upvotes": 4,
+    "author": "anigbrowl",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25440078"
+  },
+  {
     "title": "Plotting patterns in music with a fantasy record player",
     "url": "http://www.windytan.com/2020/12/plotting-patterns-in-music-with-fantasy.html",
-    "upvotes": 68,
+    "upvotes": 76,
     "author": "erikschoster",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25414742"
@@ -10,42 +18,42 @@
   {
     "title": "Gmail having issues",
     "url": "https://www.google.com/appsstatus#hl=en&v=issue&sid=1&iid=a8b67908fadee664c68c240ff9f529ab",
-    "upvotes": 476,
+    "upvotes": 489,
     "author": "mangoman",
-    "comments": 299,
+    "comments": 307,
     "link": "https://news.ycombinator.com/item?id=25435916"
   },
   {
     "title": "What I wish someone had told me about tensor computation libraries",
     "url": "https://eigenfoo.xyz/tensor-computation-libraries/",
-    "upvotes": 224,
+    "upvotes": 233,
     "author": "_eigenfoo",
-    "comments": 62,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=25435028"
+  },
+  {
+    "title": "Foo to Bar: Naming Conventions in Haskell",
+    "url": "https://kowainik.github.io/posts/naming-conventions",
+    "upvotes": 18,
+    "author": "kowainik",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25415531"
   },
   {
     "title": "CD Projekt Conference Call with the Management Board [pdf]",
     "url": "https://www.cdprojekt.com/en/wp-content/uploads-en/2020/12/call-transcript_en.pdf",
-    "upvotes": 203,
+    "upvotes": 209,
     "author": "rococode",
-    "comments": 420,
+    "comments": 428,
     "link": "https://news.ycombinator.com/item?id=25435652"
   },
   {
     "title": "To the brain, reading computer code is not the same as reading language",
     "url": "https://news.mit.edu/2020/brain-reading-computer-code-1215",
-    "upvotes": 198,
+    "upvotes": 205,
     "author": "chmaynard",
-    "comments": 112,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=25434854"
-  },
-  {
-    "title": "Brazil scientists map forest regrowth keeping Amazon from collapse: Study",
-    "url": "https://news.mongabay.com/2020/12/brazil-scientists-map-forest-regrowth-keeping-amazon-from-collapse-study/",
-    "upvotes": 11,
-    "author": "billyharris",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25439393"
   },
   {
     "title": "GiveCampus",
@@ -54,66 +62,74 @@
   {
     "title": "Far Cry: How the Fire Burns and Spreads",
     "url": "https://jflevesque.com/2012/12/06/far-cry-how-the-fire-burns-and-spreads/",
-    "upvotes": 68,
+    "upvotes": 78,
     "author": "fctorial",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25437800"
+  },
+  {
+    "title": "Brazil scientists map forest regrowth keeping Amazon from collapse: Study",
+    "url": "https://news.mongabay.com/2020/12/brazil-scientists-map-forest-regrowth-keeping-amazon-from-collapse-study/",
+    "upvotes": 14,
+    "author": "billyharris",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25439393"
   },
   {
     "title": "AWS CloudShell",
     "url": "https://aws.amazon.com/blogs/aws/aws-cloudshell-command-line-access-to-aws-resources/",
-    "upvotes": 388,
+    "upvotes": 395,
     "author": "jeffbarr",
-    "comments": 207,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=25431786"
-  },
-  {
-    "title": "Foo to Bar: Naming Conventions in Haskell",
-    "url": "https://kowainik.github.io/posts/naming-conventions",
-    "upvotes": 14,
-    "author": "kowainik",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25415531"
-  },
-  {
-    "title": "The first trilobite",
-    "url": "https://johnmckay.blogspot.com/2011/11/first-trilobite.html",
-    "upvotes": 16,
-    "author": "andrelaszlo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25428559"
   },
   {
     "title": "Mundane: Rust cryptography library that is difficult to misuse",
     "url": "https://github.com/google/mundane",
-    "upvotes": 173,
+    "upvotes": 175,
     "author": "MrXOR",
-    "comments": 58,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=25434349"
+  },
+  {
+    "title": "Show HN: After 10 years my side project has hit $8k/mo in revenue",
+    "url": "item?id=25434753",
+    "upvotes": 227,
+    "author": "sanity31415",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=25434753"
+  },
+  {
+    "title": "The first trilobite",
+    "url": "https://johnmckay.blogspot.com/2011/11/first-trilobite.html",
+    "upvotes": 17,
+    "author": "andrelaszlo",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25428559"
+  },
+  {
+    "title": "Unfold Games Awards",
+    "url": "https://unfoldgamesawards.com/",
+    "upvotes": 4,
+    "author": "T-A",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25415857"
   },
   {
     "title": "Whitewood Under Siege: The front lines of the pallet wars",
     "url": "https://www.cabinetmagazine.org/issues/52/hodes.php",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "firloop",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25416753"
   },
   {
-    "title": "Facebook to move UK users to California terms, avoiding EU privacy rules",
-    "url": "https://www.reuters.com/article/britain-eu-facebook-exclusive-idUSKBN28P2HH",
-    "upvotes": 554,
-    "author": "EB-Barrington",
-    "comments": 368,
-    "link": "https://news.ycombinator.com/item?id=25435603"
-  },
-  {
-    "title": "Show HN: After 10 years my side project has hit $8k/mo in revenue",
-    "url": "item?id=25434753",
-    "upvotes": 211,
-    "author": "sanity31415",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=25434753"
+    "title": "PINE64 December Update",
+    "url": "https://www.pine64.org/2020/12/15/december-update-the-longest-one-yet/",
+    "upvotes": 202,
+    "author": "Confiks",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=25432543"
   },
   {
     "title": "AWS Fault Injection Simulator",
@@ -124,49 +140,41 @@
     "link": "https://news.ycombinator.com/item?id=25432235"
   },
   {
-    "title": "PINE64 December Update",
-    "url": "https://www.pine64.org/2020/12/15/december-update-the-longest-one-yet/",
-    "upvotes": 198,
-    "author": "Confiks",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=25432543"
-  },
-  {
-    "title": "Farewell, Periscope",
-    "url": "https://periscope.medium.com/farewell-periscope-164db2742b7c",
-    "upvotes": 123,
-    "author": "minimaxir",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=25434638"
+    "title": "Facebook to move UK users to California terms, avoiding EU privacy rules",
+    "url": "https://www.reuters.com/article/britain-eu-facebook-exclusive-idUSKBN28P2HH",
+    "upvotes": 561,
+    "author": "EB-Barrington",
+    "comments": 379,
+    "link": "https://news.ycombinator.com/item?id=25435603"
   },
   {
     "title": "I Built a Smart Thermostat",
     "url": "https://medium.com/swlh/how-i-built-a-smart-thermostat-8bd9510cf9de",
-    "upvotes": 49,
+    "upvotes": 52,
     "author": "ysabri",
-    "comments": 33,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25414277"
+  },
+  {
+    "title": "Farewell, Periscope",
+    "url": "https://periscope.medium.com/farewell-periscope-164db2742b7c",
+    "upvotes": 126,
+    "author": "minimaxir",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=25434638"
   },
   {
     "title": "REST vs. GraphQL – A search for evidence on which is better",
     "url": "https://42papers.com/p/rest-vs-graphql-a-controlled-experiment",
-    "upvotes": 136,
+    "upvotes": 139,
     "author": "gsvclass",
-    "comments": 172,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=25432233"
-  },
-  {
-    "title": "Source of the famous “Now you have two problems” quote",
-    "url": "http://regex.info/blog/2006-09-15/247",
-    "upvotes": 138,
-    "author": "ColinWright",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=25415441"
   },
   {
     "title": "Code Points",
     "url": "https://github.com/Codepoints/awesome-codepoints",
-    "upvotes": 118,
+    "upvotes": 121,
     "author": "Tomte",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25415515"
@@ -174,58 +182,50 @@
   {
     "title": "Understanding ProRAW",
     "url": "https://blog.halide.cam/understanding-proraw-4eed556d4c54",
-    "upvotes": 132,
+    "upvotes": 134,
     "author": "tomduncalf",
-    "comments": 80,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=25433047"
   },
   {
     "title": "EU reveals plan to regulate Big Tech",
     "url": "https://www.bbc.com/news/technology-55318225",
-    "upvotes": 353,
+    "upvotes": 360,
     "author": "adrian_mrd",
-    "comments": 269,
+    "comments": 272,
     "link": "https://news.ycombinator.com/item?id=25432985"
   },
   {
     "title": "Neverware is now part of Google",
     "url": "https://cloudreadykb.neverware.com/s/article/Neverware-is-now-part-of-Google-FAQ",
-    "upvotes": 158,
+    "upvotes": 161,
     "author": "jccalhoun",
-    "comments": 99,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=25432614"
-  },
-  {
-    "title": "Surplus Extraction",
-    "url": "https://pedestrianobservations.com/2020/11/13/surplus-extraction/",
-    "upvotes": 58,
-    "author": "luu",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=25429088"
   },
   {
     "title": "An example of the Barton–Nackman trick",
     "url": "https://quuxplusone.github.io/blog/2020/12/09/barton-nackman-in-practice/",
-    "upvotes": 26,
+    "upvotes": 30,
     "author": "signa11",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25414926"
   },
   {
-    "title": "Sponsoring Open Source Developers",
-    "url": "https://cognitect.com/blog/2020/12/15/sponsoring-open-source-developers",
-    "upvotes": 275,
-    "author": "puredanger",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=25432248"
+    "title": "Surplus Extraction",
+    "url": "https://pedestrianobservations.com/2020/11/13/surplus-extraction/",
+    "upvotes": 59,
+    "author": "luu",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=25429088"
   },
   {
-    "title": "Lonely people's brains are different due to excess of imaginary social contact",
-    "url": "https://www.psychnewsdaily.com/lonely-people-have-a-unique-brain-signature-perhaps-due-to-so-much-imagined-social-contact/",
-    "upvotes": 379,
-    "author": "Bologo",
-    "comments": 222,
-    "link": "https://news.ycombinator.com/item?id=25431817"
+    "title": "Sponsoring Open Source Developers",
+    "url": "https://cognitect.com/blog/2020/12/15/sponsoring-open-source-developers",
+    "upvotes": 280,
+    "author": "puredanger",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=25432248"
   },
   {
     "title": "Cloudquery: Easily ask questions about your cloud infrastructure",
