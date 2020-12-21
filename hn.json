@@ -2,58 +2,90 @@
   {
     "title": "Journalists Hacked with Suspected NSO Group iMessage ‘Zero-Click’ Exploit",
     "url": "https://citizenlab.ca/2020/12/the-great-ipwn-journalists-hacked-with-suspected-nso-group-imessage-zero-click-exploit/",
-    "upvotes": 364,
+    "upvotes": 380,
     "author": "arkadiyt",
-    "comments": 98,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=25489298"
   },
   {
     "title": "More challenging projects every programmer should try",
     "url": "https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html",
-    "upvotes": 270,
+    "upvotes": 306,
     "author": "pavehawk2007",
-    "comments": 96,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=25489879"
-  },
-  {
-    "title": "eBPF Is Awesome",
-    "url": "https://filipnikolovski.com/posts/ebpf/",
-    "upvotes": 108,
-    "author": "filipn",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25490138"
   },
   {
     "title": "Unix Recovery Legend",
     "url": "https://www.ee.ryerson.ca/~elf/hack/recovery.html",
-    "upvotes": 20,
+    "upvotes": 38,
     "author": "signa11",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25491790"
   },
   {
-    "title": "Python Print",
-    "url": "https://josiasdev.best/python-print-and-beyond",
-    "upvotes": 20,
-    "author": "josiasaurel",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25485916"
+    "title": "eBPF Is Awesome",
+    "url": "https://filipnikolovski.com/posts/ebpf/",
+    "upvotes": 117,
+    "author": "filipn",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=25490138"
   },
   {
     "title": "Lode Runner",
     "url": "https://www.filfre.net/2020/12/lode-runner/",
-    "upvotes": 309,
+    "upvotes": 312,
     "author": "doppp",
-    "comments": 89,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=25487556"
+  },
+  {
+    "title": "Cakelisp: A Programming Language for Games",
+    "url": "https://macoy.me/blog/programming/CakelispIntro",
+    "upvotes": 32,
+    "author": "makuto",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25491568"
   },
   {
     "title": "Nature invented play long before it invented us",
     "url": "http://nautil.us/issue/94/evolving/why-it-pays-to-play-around-rp",
-    "upvotes": 124,
+    "upvotes": 133,
     "author": "dnetesn",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25481758"
+  },
+  {
+    "title": "Mile-Long Wooden Xylophone Plays Bach in Japanese Forest",
+    "url": "https://dornob.com/mile-long-wooden-xylophone-plays-bach-in-japanese-forest/",
+    "upvotes": 140,
+    "author": "akeck",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=25489650"
+  },
+  {
+    "title": "Researchers propose faster, more efficient alternatives to backpropagation",
+    "url": "https://venturebeat.com/2020/12/16/at-neurips-2020-researchers-proposed-faster-more-efficient-alternatives-to-backpropagation/",
+    "upvotes": 193,
+    "author": "webmaven",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=25487747"
+  },
+  {
+    "title": "Understanding how AES encryption works",
+    "url": "https://nakabonne.dev/posts/understanding-how-aes-encryption-works/",
+    "upvotes": 20,
+    "author": "nakabonne",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25486017"
+  },
+  {
+    "title": "Kivy: Cross-Platform Python Framework for UI Development",
+    "url": "https://kivy.org/",
+    "upvotes": 120,
+    "author": "ve55",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=25484451"
   },
   {
     "title": "Life of a Vitess Cluster",
@@ -64,38 +96,6 @@
     "link": "https://news.ycombinator.com/item?id=25491793"
   },
   {
-    "title": "Cakelisp: A Programming Language for Games",
-    "url": "https://macoy.me/blog/programming/CakelispIntro",
-    "upvotes": 20,
-    "author": "makuto",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25491568"
-  },
-  {
-    "title": "Mile-Long Wooden Xylophone Plays Bach in Japanese Forest",
-    "url": "https://dornob.com/mile-long-wooden-xylophone-plays-bach-in-japanese-forest/",
-    "upvotes": 124,
-    "author": "akeck",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25489650"
-  },
-  {
-    "title": "Researchers propose faster, more efficient alternatives to backpropagation",
-    "url": "https://venturebeat.com/2020/12/16/at-neurips-2020-researchers-proposed-faster-more-efficient-alternatives-to-backpropagation/",
-    "upvotes": 192,
-    "author": "webmaven",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=25487747"
-  },
-  {
-    "title": "Kivy: Cross-Platform Python Framework for UI Development",
-    "url": "https://kivy.org/",
-    "upvotes": 112,
-    "author": "ve55",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=25484451"
-  },
-  {
     "title": "‘Magic’ angle graphene and the creation of unexpected topological quantum states",
     "url": "https://www.princeton.edu/news/2020/12/14/magic-angle-graphene-and-creation-unexpected-topological-quantum-states",
     "upvotes": 33,
@@ -104,51 +104,67 @@
     "link": "https://news.ycombinator.com/item?id=25490540"
   },
   {
+    "title": "An Introduction to Lock-Free Programming",
+    "url": "https://preshing.com/20120612/an-introduction-to-lock-free-programming/",
+    "upvotes": 87,
+    "author": "wheresvic4",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=25485679"
+  },
+  {
     "title": "Writing a custom iterator in modern C++",
     "url": "https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp",
-    "upvotes": 18,
+    "upvotes": 24,
     "author": "signa11",
-    "comments": 18,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=25484444"
+  },
+  {
+    "title": "Python Print",
+    "url": "https://josiasdev.best/python-print-and-beyond",
+    "upvotes": 25,
+    "author": "josiasaurel",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25485916"
   },
   {
     "title": "A medical hoax leads to a 50-year mistruth about MSG",
     "url": "https://news.colgate.edu/magazine/2019/02/06/the-strange-case-of-dr-ho-man-kwok/",
-    "upvotes": 244,
+    "upvotes": 250,
     "author": "laplacesdemon48",
-    "comments": 252,
+    "comments": 258,
     "link": "https://news.ycombinator.com/item?id=25489534"
   },
   {
-    "title": "An Introduction to Lock-Free Programming",
-    "url": "https://preshing.com/20120612/an-introduction-to-lock-free-programming/",
-    "upvotes": 77,
-    "author": "wheresvic4",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=25485679"
-  },
-  {
-    "title": "Understanding how AES encryption works",
-    "url": "https://nakabonne.dev/posts/understanding-how-aes-encryption-works/",
-    "upvotes": 14,
-    "author": "nakabonne",
+    "title": "PicoLisp Chess",
+    "url": "https://software-lab.de/chess/README",
+    "upvotes": 8,
+    "author": "simonpure",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25486017"
+    "link": "https://news.ycombinator.com/item?id=25491356"
   },
   {
     "title": "On the Graying of Gnome",
     "url": "https://hpjansson.org/blag/2020/12/16/on-the-graying-of-gnome/",
-    "upvotes": 75,
+    "upvotes": 79,
     "author": "yankcrime",
-    "comments": 133,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=25488887"
+  },
+  {
+    "title": "The Acorn Archimedes and the first ARM processor",
+    "url": "https://arstechnica.com/features/2020/12/how-an-obscure-british-pc-maker-invented-arm-and-changed-the-world/",
+    "upvotes": 152,
+    "author": "furcyd",
+    "comments": 125,
+    "link": "https://news.ycombinator.com/item?id=25486446"
   },
   {
     "title": "Operation Elop: The final years of Nokia’s mobile phones",
     "url": "https://medium.com/@harrikiljander/operation-elop-6f2b043f52c5",
-    "upvotes": 107,
+    "upvotes": 108,
     "author": "partingshots",
-    "comments": 99,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=25484227"
   },
   {
@@ -156,17 +172,9 @@
     "url": "https://substack.com/jobs"
   },
   {
-    "title": "The Acorn Archimedes and the first ARM processor",
-    "url": "https://arstechnica.com/features/2020/12/how-an-obscure-british-pc-maker-invented-arm-and-changed-the-world/",
-    "upvotes": 147,
-    "author": "furcyd",
-    "comments": 122,
-    "link": "https://news.ycombinator.com/item?id=25486446"
-  },
-  {
     "title": "The web is 30 years old today",
     "url": "https://home.cern/science/computing/birth-web",
-    "upvotes": 618,
+    "upvotes": 626,
     "author": "Anon84",
     "comments": 151,
     "link": "https://news.ycombinator.com/item?id=25485651"
@@ -174,23 +182,23 @@
   {
     "title": "How and why I stopped buying new laptops",
     "url": "https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops.html",
-    "upvotes": 192,
+    "upvotes": 207,
     "author": "pencil_",
-    "comments": 177,
+    "comments": 181,
     "link": "https://news.ycombinator.com/item?id=25486191"
   },
   {
-    "title": "PicoLisp Chess",
-    "url": "https://software-lab.de/chess/README",
-    "upvotes": 6,
-    "author": "simonpure",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25491356"
+    "title": "Building the Middle Class of the Creator Economy",
+    "url": "https://li.substack.com/p/building-the-middle-class-of-the",
+    "upvotes": 155,
+    "author": "elsewhen",
+    "comments": 125,
+    "link": "https://news.ycombinator.com/item?id=25486120"
   },
   {
     "title": "John Le Carré Missed Nothing",
     "url": "https://www.newyorker.com/culture/postscript/john-le-carre-missed-nothing",
-    "upvotes": 54,
+    "upvotes": 56,
     "author": "benbreen",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25482458"
@@ -200,29 +208,13 @@
     "url": "https://github.com/zhoreeq/ipfd",
     "upvotes": 33,
     "author": "aiNohY6g",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25484776"
-  },
-  {
-    "title": "Building the Middle Class of the Creator Economy",
-    "url": "https://li.substack.com/p/building-the-middle-class-of-the",
-    "upvotes": 150,
-    "author": "elsewhen",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=25486120"
-  },
-  {
-    "title": "Autism and Invention Are Connected",
-    "url": "https://www.wsj.com/articles/how-autism-and-invention-are-connected-11607749260",
-    "upvotes": 114,
-    "author": "jkuria",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=25484160"
   },
   {
     "title": "Set up a Raspberry Pi meteor detector",
     "url": "https://www.skyatnightmagazine.com/advice/diy/raspberry-pi-meteor-detector/",
-    "upvotes": 126,
+    "upvotes": 127,
     "author": "jstanley",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=25486432"
@@ -230,9 +222,17 @@
   {
     "title": "FFmpeg is 20 years old today",
     "url": "https://twitter.com/ffmpeg/status/1340698413143224320",
-    "upvotes": 380,
+    "upvotes": 390,
     "author": "Daemon404",
-    "comments": 84,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=25487711"
+  },
+  {
+    "title": "Autism and Invention Are Connected",
+    "url": "https://www.wsj.com/articles/how-autism-and-invention-are-connected-11607749260",
+    "upvotes": 118,
+    "author": "jkuria",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=25484160"
   }
 ]
