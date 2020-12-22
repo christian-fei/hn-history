@@ -1,48 +1,64 @@
 [
   {
+    "title": "Why can’t you buy a good webcam?",
+    "url": "https://vsevolod.net/good-webcams/",
+    "upvotes": 34,
+    "author": "murkt",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25504771"
+  },
+  {
     "title": "Cryptocurrency company Ripple says SEC lawsuit is imminent",
     "url": "https://www.axios.com/cryptocurrency-ripple-sec-lawsuit-imminent-94f946a5-cdc5-4c9c-89cc-65409a563e2c.html",
-    "upvotes": 186,
+    "upvotes": 192,
     "author": "taytus",
-    "comments": 67,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=25502764"
   },
   {
     "title": "Double Blind Passwords a.k.a. Horcruxing",
     "url": "https://kaizoku.dev/double-blind-passwords-aka-horcruxing",
-    "upvotes": 141,
+    "upvotes": 151,
     "author": "phantom_rehan",
-    "comments": 69,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=25502703"
   },
   {
     "title": "Write code. Not too much. Mostly functions.",
     "url": "https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions",
-    "upvotes": 602,
+    "upvotes": 626,
     "author": "brundolf",
-    "comments": 254,
+    "comments": 260,
     "link": "https://news.ycombinator.com/item?id=25500671"
-  },
-  {
-    "title": "Congress Crams Language to Criminalize Streaming, Meme-Sharing into Omnibus Bill",
-    "url": "https://www.commondreams.org/news/2020/12/21/atrocious-congress-crams-language-criminalize-online-streaming-meme-sharing-5500",
-    "upvotes": 285,
-    "author": "CharlesW",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=25502906"
   },
   {
     "title": "Mobile Home Skyscrapers: The Elusive Dream of Vertical Urban Trailer Parks",
     "url": "https://99percentinvisible.org/article/mobile-home-skyscrapers-elusive-dream-vertical-urban-trailer-parks/",
-    "upvotes": 27,
+    "upvotes": 33,
     "author": "thread_id",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25492475"
+  },
+  {
+    "title": "Congress Crams Language to Criminalize Streaming, Meme-Sharing into Omnibus Bill",
+    "url": "https://www.commondreams.org/news/2020/12/21/atrocious-congress-crams-language-criminalize-online-streaming-meme-sharing-5500",
+    "upvotes": 303,
+    "author": "CharlesW",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=25502906"
+  },
+  {
+    "title": "Clockwise/Spiral Rule",
+    "url": "http://c-faq.com/decl/spiral.anderson.html",
+    "upvotes": 10,
+    "author": "asamant",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25494219"
   },
   {
     "title": "Parsing JSON at the CLI: A Practical Introduction to jq and more",
     "url": "https://sequoia.makes.software/parsing-json-at-the-cli-a-practical-introduction-to-jq-and-more/",
-    "upvotes": 246,
+    "upvotes": 254,
     "author": "sequoia",
     "comments": 88,
     "link": "https://news.ycombinator.com/item?id=25498364"
@@ -50,91 +66,83 @@
   {
     "title": "The Laws of Core Data",
     "url": "https://davedelong.com/blog/2018/05/09/the-laws-of-core-data/",
-    "upvotes": 35,
+    "upvotes": 36,
     "author": "Austin_Conlon",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25476842"
   },
   {
-    "title": "The universe is expanding faster than expected",
-    "url": "https://www.quantamagazine.org/astronomers-get-their-wish-and-the-hubble-crisis-gets-worse-20201217/",
-    "upvotes": 286,
-    "author": "tinmandespot",
-    "comments": 201,
-    "link": "https://news.ycombinator.com/item?id=25498969"
-  },
-  {
     "title": "Netflix's Metaflow: Reproducible machine learning pipelines",
     "url": "https://www.cortex.dev/post/reproducible-machine-learning-pipelines-with-metaflow-and-cortex",
-    "upvotes": 239,
+    "upvotes": 240,
     "author": "ChefboyOG",
-    "comments": 95,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=25497008"
   },
   {
-    "title": "This Community is Available in the App",
-    "url": "https://ruky.me/2020/12/22/this-community-is-available-in-the-app/",
-    "upvotes": 60,
-    "author": "rukshn",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=25502828"
+    "title": "The universe is expanding faster than expected",
+    "url": "https://www.quantamagazine.org/astronomers-get-their-wish-and-the-hubble-crisis-gets-worse-20201217/",
+    "upvotes": 290,
+    "author": "tinmandespot",
+    "comments": 204,
+    "link": "https://news.ycombinator.com/item?id=25498969"
   },
   {
     "title": "Raycast",
     "url": "https://raycast.com/jobs/software-engineer-backend"
   },
   {
-    "title": "I've been merging microservices back into the monolith",
-    "url": "https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm",
-    "upvotes": 202,
-    "author": "rmason",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=25498079"
-  },
-  {
     "title": "Introducing the Open Library Explorer",
     "url": "https://blog.openlibrary.org/2020/12/16/introducing-the-open-library-explorer/",
-    "upvotes": 200,
+    "upvotes": 202,
     "author": "mekarpeles",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=25497766"
   },
   {
-    "title": "Show HN: Pop.com – Video Calls, in 3D",
-    "url": "https://pop.com",
-    "upvotes": 221,
-    "author": "jsherwani",
-    "comments": 122,
-    "link": "https://news.ycombinator.com/item?id=25497737"
+    "title": "This Community is Available in the App",
+    "url": "https://ruky.me/2020/12/22/this-community-is-available-in-the-app/",
+    "upvotes": 67,
+    "author": "rukshn",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=25502828"
   },
   {
-    "title": "Dyon – A Rusty dynamically typed scripting language",
-    "url": "https://github.com/PistonDevelopers/dyon",
-    "upvotes": 57,
-    "author": "k__",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25494559"
+    "title": "I've been merging microservices back into the monolith",
+    "url": "https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm",
+    "upvotes": 214,
+    "author": "rmason",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=25498079"
+  },
+  {
+    "title": "Show HN: Pop.com – Video Calls, in 3D",
+    "url": "https://pop.com",
+    "upvotes": 222,
+    "author": "jsherwani",
+    "comments": 124,
+    "link": "https://news.ycombinator.com/item?id=25497737"
   },
   {
     "title": "My Engineering Axioms",
     "url": "https://martinrue.com/my-engineering-axioms/",
-    "upvotes": 118,
+    "upvotes": 124,
     "author": "mnouquet",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25500815"
   },
   {
-    "title": "Clockwise/Spiral Rule",
-    "url": "http://c-faq.com/decl/spiral.anderson.html",
-    "upvotes": 5,
-    "author": "asamant",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25494219"
+    "title": "Dyon – A Rusty dynamically typed scripting language",
+    "url": "https://github.com/PistonDevelopers/dyon",
+    "upvotes": 58,
+    "author": "k__",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25494559"
   },
   {
     "title": "Positioning Your Startup Is Vital",
     "url": "https://firstround.com/review/Positioning-Your-Startup-is-Vital-Heres-How-to-Do-It-Right/",
-    "upvotes": 119,
+    "upvotes": 120,
     "author": "ongwu",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25494048"
@@ -142,26 +150,26 @@
   {
     "title": "Google, Facebook Agreed to Team Up Against Possible Antitrust Action",
     "url": "https://www.wsj.com/articles/google-facebook-agreed-to-team-up-against-possible-antitrust-action-draft-lawsuit-says-11608612219",
-    "upvotes": 75,
+    "upvotes": 85,
     "author": "Despegar",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25503210"
-  },
-  {
-    "title": "Generic Mitigations",
-    "url": "https://www.oreilly.com/content/generic-mitigations/",
-    "upvotes": 11,
-    "author": "kiyanwang",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25493459"
   },
   {
     "title": "YouTube Class Action: Same IP Address Upload Pirate Movies and File DMCA Notices",
     "url": "https://torrentfreak.com/youtube-class-action-same-ip-address-used-to-upload-pirate-movies-file-dmca-notices-201221/",
-    "upvotes": 487,
+    "upvotes": 494,
     "author": "parsecs",
-    "comments": 106,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=25498376"
+  },
+  {
+    "title": "Generic Mitigations",
+    "url": "https://www.oreilly.com/content/generic-mitigations/",
+    "upvotes": 13,
+    "author": "kiyanwang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25493459"
   },
   {
     "title": "Evidence of “modified gravity” in 150 galaxies bolsters dark matter alternative",
@@ -180,59 +188,51 @@
     "link": "https://news.ycombinator.com/item?id=25499375"
   },
   {
-    "title": "Voat Is Shutting Down",
-    "url": "https://voat.co/v/announcements/4169936",
-    "upvotes": 238,
-    "author": "xyzzy667",
-    "comments": 311,
-    "link": "https://news.ycombinator.com/item?id=25501466"
-  },
-  {
     "title": "I rewrote a Clojure tool in Rust",
     "url": "https://timofreiberg.github.io/clojure-vs-rust/",
-    "upvotes": 156,
+    "upvotes": 157,
     "author": "praveenperera",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=25497050"
   },
   {
+    "title": "Voat Is Shutting Down",
+    "url": "https://voat.co/v/announcements/4169936",
+    "upvotes": 243,
+    "author": "xyzzy667",
+    "comments": 328,
+    "link": "https://news.ycombinator.com/item?id=25501466"
+  },
+  {
     "title": "Apple targets car production by 2024, eyes ‘next level’ battery tech: sources",
     "url": "https://www.reuters.com/article/us-apple-autos-exclusive/exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-sources-idUSKBN28V2PY",
-    "upvotes": 489,
+    "upvotes": 496,
     "author": "coloneltcb",
-    "comments": 601,
+    "comments": 604,
     "link": "https://news.ycombinator.com/item?id=25499361"
   },
   {
     "title": "Nikon Is ending 70 years of camera production in Japan",
     "url": "https://www.mirrorlessrumors.com/nikon-is-ending-70-years-of-camera-production-in-japan/",
-    "upvotes": 563,
+    "upvotes": 564,
     "author": "giuliomagnifico",
-    "comments": 327,
+    "comments": 328,
     "link": "https://news.ycombinator.com/item?id=25493804"
   },
   {
     "title": "Generating Cryptographically Secure Random Numbers with Coins and a Cup",
     "url": "https://blog.sia.tech/generating-cryptographically-secure-random-numbers-with-coins-and-a-cup-4e223899509e",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "Taek",
-    "comments": 36,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25499164"
   },
   {
     "title": "Project Oberon 2013 on RISC-V",
     "url": "https://github.com/solbjorg/oberon-riscv",
-    "upvotes": 129,
+    "upvotes": 130,
     "author": "homarp",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25497002"
-  },
-  {
-    "title": "How the New Yorker Fell into the “Weird Japan” Trap",
-    "url": "https://newrepublic.com/article/160595/new-yorker-japan-rent-family-fabricated",
-    "upvotes": 111,
-    "author": "frxx",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=25493367"
   }
 ]
