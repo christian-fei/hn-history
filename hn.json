@@ -2,71 +2,79 @@
   {
     "title": "No, Cellebrite Cannot “Break Signal Encryption”",
     "url": "https://signal.org/blog/cellebrite-and-clickbait/",
-    "upvotes": 203,
+    "upvotes": 261,
     "author": "hprotagonist",
-    "comments": 56,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=25520481"
   },
   {
     "title": "Tokio, the async runtime for Rust, hits 1.0",
     "url": "https://tokio.rs/blog/2020-12-tokio-1-0",
-    "upvotes": 183,
+    "upvotes": 229,
     "author": "carllerche",
-    "comments": 32,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25520353"
   },
   {
     "title": "Google/Fitbit will monetise health data and harm consumers [pdf]",
     "url": "https://cepr.org/sites/default/files/policy_insights/PolicyInsight107.pdf",
-    "upvotes": 61,
+    "upvotes": 89,
     "author": "partingshots",
-    "comments": 36,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=25520729"
   },
   {
     "title": "Windows 0day privilege escalation still not fixed",
     "url": "https://bugs.chromium.org/p/project-zero/issues/detail?id=2096",
-    "upvotes": 155,
+    "upvotes": 171,
     "author": "zaltekk",
-    "comments": 59,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=25519678"
   },
   {
     "title": "Anti-diarrhoea drug drives cancer cells to cell death",
     "url": "https://aktuelles.uni-frankfurt.de/englisch/anti-diarrhoea-drug-drives-cancer-cells-to-cell-death/",
-    "upvotes": 246,
+    "upvotes": 256,
     "author": "gmays",
-    "comments": 78,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=25518831"
+  },
+  {
+    "title": "Notion Is a UX Disaster",
+    "url": "https://telegra.ph/Notion-is-a-UX-Disaster-12-23",
+    "upvotes": 15,
+    "author": "g7r",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25521487"
+  },
+  {
+    "title": "Comic Mono",
+    "url": "https://dtinth.github.io/comic-mono-font/",
+    "upvotes": 94,
+    "author": "thesephist",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=25520510"
   },
   {
     "title": "How bad is your Spotify?",
     "url": "https://pudding.cool/2020/12/judge-my-spotify",
-    "upvotes": 529,
+    "upvotes": 551,
     "author": "feross",
-    "comments": 360,
+    "comments": 372,
     "link": "https://news.ycombinator.com/item?id=25517868"
   },
   {
     "title": "Interview advice that got me offers from Google, Microsoft, and Stripe",
     "url": "https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/",
-    "upvotes": 177,
+    "upvotes": 204,
     "author": "ZainRiz",
-    "comments": 111,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=25519718"
-  },
-  {
-    "title": "Comic Mono",
-    "url": "https://dtinth.github.io/comic-mono-font/",
-    "upvotes": 56,
-    "author": "thesephist",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=25520510"
   },
   {
     "title": "Interactive C++ for Data Science",
     "url": "https://blog.llvm.org/posts/2020-12-21-interactive-cpp-for-data-science/",
-    "upvotes": 17,
+    "upvotes": 28,
     "author": "Bootvis",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25517050"
@@ -74,27 +82,43 @@
   {
     "title": "Finding Software Bugs Using Symbolic Execution",
     "url": "https://sasnauskas.eu/finding-software-bugs-using-symbolic-execution/",
-    "upvotes": 31,
+    "upvotes": 39,
     "author": "rsas",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25520031"
-  },
-  {
-    "title": "Evolving Container Security with Linux User Namespaces",
-    "url": "https://netflixtechblog.com/evolving-container-security-with-linux-user-namespaces-afbe3308c082",
-    "upvotes": 37,
-    "author": "el_duderino",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25519710"
   },
   {
     "title": "SafeButler",
     "url": "http://www.safebutler.com/careers"
   },
   {
+    "title": "Phony Targets",
+    "url": "https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html",
+    "upvotes": 7,
+    "author": "lemonspat",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25521395"
+  },
+  {
+    "title": "How to Favicon in 2021: Six files that fit most needs",
+    "url": "https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs",
+    "upvotes": 21,
+    "author": "iskin",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25520655"
+  },
+  {
+    "title": "Evolving Container Security with Linux User Namespaces",
+    "url": "https://netflixtechblog.com/evolving-container-security-with-linux-user-namespaces-afbe3308c082",
+    "upvotes": 40,
+    "author": "el_duderino",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25519710"
+  },
+  {
     "title": "Web Authentication Methods Compared",
     "url": "https://testdriven.io/blog/web-authentication-methods/",
-    "upvotes": 16,
+    "upvotes": 21,
     "author": "luord",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25520549"
@@ -102,39 +126,71 @@
   {
     "title": "Open Source Stash – Privacy-focused, powerful, secure open-source alternatives",
     "url": "https://opensourcestash.com",
-    "upvotes": 199,
+    "upvotes": 205,
     "author": "adithyaba",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=25516672"
   },
   {
+    "title": "Build a tiny certificate authority for your homelab",
+    "url": "https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/",
+    "upvotes": 15,
+    "author": "fanf2",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25520639"
+  },
+  {
     "title": "Compiling Qt with Docker multi-stage and multi-platform",
     "url": "https://www.docker.com/blog/compiling-qt-with-docker-multi-stage-and-multi-platform/",
-    "upvotes": 41,
+    "upvotes": 43,
     "author": "mvip",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25518845"
   },
   {
     "title": "Maps.me is gone, and we must bring it back",
     "url": "https://telegra.ph/What-happened-to-the-old-MAPSME-12-20",
-    "upvotes": 460,
+    "upvotes": 467,
     "author": "monort",
-    "comments": 182,
+    "comments": 186,
     "link": "https://news.ycombinator.com/item?id=25515004"
+  },
+  {
+    "title": "MuZero: Mastering Go, chess, shogi and Atari without rules",
+    "url": "https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules",
+    "upvotes": 39,
+    "author": "johannesha",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=25519176"
   },
   {
     "title": "Defensive Programming",
     "url": "https://interrupt.memfault.com/blog/defensive-and-offensive-programming",
-    "upvotes": 41,
+    "upvotes": 44,
     "author": "tyhoff",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25508896"
+  },
+  {
+    "title": "Facebook Employees Say Apple Fight Is “Self Serving”",
+    "url": "https://www.buzzfeednews.com/article/craigsilverman/facebook-apple-fight-self-serving",
+    "upvotes": 42,
+    "author": "sonotmyname",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=25520544"
+  },
+  {
+    "title": "Stan is a state-of-the-art platform for statistical modeling",
+    "url": "https://mc-stan.org/",
+    "upvotes": 162,
+    "author": "Tomte",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=25516214"
   },
   {
     "title": "Show HN: Edamagit – Magit for VSCode",
     "url": "https://github.com/kahole/edamagit",
-    "upvotes": 38,
+    "upvotes": 44,
     "author": "kahole",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25518990"
@@ -144,95 +200,39 @@
     "url": "https://www.nngroup.com/articles/lawn-mower-pattern/",
     "upvotes": 24,
     "author": "giuliomagnifico",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25519219"
-  },
-  {
-    "title": "Stan is a state-of-the-art platform for statistical modeling",
-    "url": "https://mc-stan.org/",
-    "upvotes": 159,
-    "author": "Tomte",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=25516214"
-  },
-  {
-    "title": "MuZero: Mastering Go, chess, shogi and Atari without rules",
-    "url": "https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules",
-    "upvotes": 30,
-    "author": "johannesha",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25519176"
   },
   {
     "title": "Military scrambling to understand aviation crash risk from new 5G sale",
     "url": "https://www.defensenews.com/2020/12/21/the-military-is-scrambling-to-understand-the-aviation-crash-risk-from-a-new-5g-sale/",
-    "upvotes": 110,
+    "upvotes": 111,
     "author": "bookofjoe",
     "comments": 85,
     "link": "https://news.ycombinator.com/item?id=25516498"
   },
   {
-    "title": "How to Favicon in 2021: Six files that fit most needs",
-    "url": "https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs",
-    "upvotes": 9,
-    "author": "iskin",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25520655"
-  },
-  {
-    "title": "Facebook Employees Say Apple Fight Is “Self Serving”",
-    "url": "https://www.buzzfeednews.com/article/craigsilverman/facebook-apple-fight-self-serving",
-    "upvotes": 29,
-    "author": "sonotmyname",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25520544"
+    "title": "Telegram Voice Chats",
+    "url": "https://telegram.org/blog/voice-chats",
+    "upvotes": 160,
+    "author": "ffpip",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=25515761"
   },
   {
     "title": "Show HN: Django and React SaaS boilerplate tutorial",
     "url": "https://github.com/saasitive/django-react-boilerplate",
-    "upvotes": 107,
+    "upvotes": 112,
     "author": "pplonski86",
-    "comments": 90,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=25517226"
-  },
-  {
-    "title": "Telegram Voice Chats",
-    "url": "https://telegram.org/blog/voice-chats",
-    "upvotes": 156,
-    "author": "ffpip",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=25515761"
   },
   {
     "title": "The beautiful Silent ThunderBolt-3 PC",
     "url": "https://fabiensanglard.net/tb3/index.html",
-    "upvotes": 194,
+    "upvotes": 196,
     "author": "0-_-0",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=25516769"
-  },
-  {
-    "title": "Build a tiny certificate authority for your homelab",
-    "url": "https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/",
-    "upvotes": 7,
-    "author": "fanf2",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25520639"
-  },
-  {
-    "title": "Telegram's Getting Ads",
-    "url": "https://gizmodo.com/oh-great-telegrams-getting-ads-1845940099",
-    "upvotes": 30,
-    "author": "maydemir",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=25520200"
-  },
-  {
-    "title": "Linux 5.10 BTRFS performance regression",
-    "url": "https://www.reddit.com/r/linux/comments/kieqyu/warning_linux_510_has_a_500_to_2000_btrfs/",
-    "upvotes": 122,
-    "author": "shrikant",
     "comments": 143,
-    "link": "https://news.ycombinator.com/item?id=25515566"
+    "link": "https://news.ycombinator.com/item?id=25516769"
   }
 ]
