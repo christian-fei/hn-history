@@ -2,47 +2,47 @@
   {
     "title": "How We Saved Dot Org",
     "url": "https://www.eff.org/deeplinks/2020/12/how-we-saved-org-2020-review",
-    "upvotes": 859,
+    "upvotes": 875,
     "author": "thomasahle",
-    "comments": 99,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=25521836"
   },
   {
     "title": "Fantasy UI",
     "url": "https://www.pushing-pixels.org/fui/",
-    "upvotes": 137,
+    "upvotes": 150,
     "author": "ujeezy",
-    "comments": 34,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=25525290"
+  },
+  {
+    "title": "Fish is not operational on a vt220 terminal #2559",
+    "url": "https://github.com/fish-shell/fish-shell/issues/2559",
+    "upvotes": 6,
+    "author": "harporoeder",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25526237"
   },
   {
     "title": "Snapdrop – AirDrop equivalent through a web browser using WebRTC",
     "url": "https://snapdrop.net",
-    "upvotes": 271,
+    "upvotes": 279,
     "author": "gjsman-1000",
-    "comments": 54,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=25524472"
-  },
-  {
-    "title": "Tips for a Better Life",
-    "url": "https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life",
-    "upvotes": 811,
-    "author": "CapitalistCartr",
-    "comments": 334,
-    "link": "https://news.ycombinator.com/item?id=25518730"
   },
   {
     "title": "Octopuses Like to Punch Fish",
     "url": "https://gizmodo.com/octopuses-like-to-punch-fish-new-research-suggests-1845929379",
-    "upvotes": 53,
+    "upvotes": 58,
     "author": "CapitalistCartr",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25517411"
   },
   {
     "title": "A perceptual color space for image processing",
     "url": "https://bottosson.github.io/posts/oklab/",
-    "upvotes": 26,
+    "upvotes": 38,
     "author": "ingve",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25525726"
@@ -50,7 +50,7 @@
   {
     "title": "Building My Own Chess Engine",
     "url": "https://healeycodes.com/building-my-own-chess-engine/",
-    "upvotes": 100,
+    "upvotes": 104,
     "author": "rbanffy",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=25516430"
@@ -58,26 +58,54 @@
   {
     "title": "Datasette.io, an official project website for Datasette",
     "url": "https://simonwillison.net/2020/Dec/13/datasette-io/",
-    "upvotes": 151,
+    "upvotes": 153,
     "author": "tosh",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25523768"
   },
   {
+    "title": "Tips for a Better Life",
+    "url": "https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life",
+    "upvotes": 822,
+    "author": "CapitalistCartr",
+    "comments": 340,
+    "link": "https://news.ycombinator.com/item?id=25518730"
+  },
+  {
     "title": "Tokio 1.0 – async runtime for Rust",
     "url": "https://tokio.rs/blog/2020-12-tokio-1-0",
-    "upvotes": 655,
+    "upvotes": 660,
     "author": "carllerche",
-    "comments": 329,
+    "comments": 331,
     "link": "https://news.ycombinator.com/item?id=25520353"
+  },
+  {
+    "title": "Producer of Netflix Three body problem found poisoned",
+    "url": "https://variety.com/2020/film/news/netflix-yoozoo-three-body-problem-murder-poison-1234874776/",
+    "upvotes": 14,
+    "author": "Ahmedb",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25526286"
   },
   {
     "title": "PureOS: Freedom, Privacy, and Security",
     "url": "https://lwn.net/SubscriberLink/841105/d99c445b4aca536f/",
-    "upvotes": 98,
+    "upvotes": 103,
     "author": "leephillips",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25522835"
+  },
+  {
+    "title": "Show HN: Disassembling a C64 Game from Scratch: Jeff Minter's Gridrunner",
+    "url": "https://github.com/mwenge/gridrunner",
+    "upvotes": 47,
+    "author": "mwenge",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25505123"
+  },
+  {
+    "title": "GitDuck",
+    "url": "https://www.notion.so/gitduck/Product-Engineer-599ce7e227a34d3bb91f695295d69dc5"
   },
   {
     "title": "James Gunn",
@@ -88,61 +116,49 @@
     "link": "https://news.ycombinator.com/item?id=25524654"
   },
   {
-    "title": "Show HN: Disassembling a C64 Game from Scratch: Jeff Minter's Gridrunner",
-    "url": "https://github.com/mwenge/gridrunner",
-    "upvotes": 46,
-    "author": "mwenge",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25505123"
-  },
-  {
-    "title": "Build a tiny certificate authority for your homelab",
-    "url": "https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/",
-    "upvotes": 156,
-    "author": "fanf2",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=25520639"
-  },
-  {
-    "title": "GitDuck",
-    "url": "https://www.notion.so/gitduck/Product-Engineer-599ce7e227a34d3bb91f695295d69dc5"
+    "title": "Visions of Alt-Berlin in “Man in the High Castle”",
+    "url": "https://mitsap.medium.com/visions-of-alt-berlin-in-man-in-the-high-castle-no-spoilers-b3beaba77984",
+    "upvotes": 92,
+    "author": "tintinnabula",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=25522395"
   },
   {
     "title": "PC DOS Reimagined",
     "url": "https://www.pcjs.org/blog/2020/12/22/",
-    "upvotes": 103,
+    "upvotes": 104,
     "author": "ingve",
-    "comments": 55,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=25516459"
-  },
-  {
-    "title": "Visions of Alt-Berlin in “Man in the High Castle”",
-    "url": "https://mitsap.medium.com/visions-of-alt-berlin-in-man-in-the-high-castle-no-spoilers-b3beaba77984",
-    "upvotes": 90,
-    "author": "tintinnabula",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=25522395"
   },
   {
     "title": "Comic Mono",
     "url": "https://dtinth.github.io/comic-mono-font/",
-    "upvotes": 510,
+    "upvotes": 513,
     "author": "thesephist",
-    "comments": 184,
+    "comments": 186,
     "link": "https://news.ycombinator.com/item?id=25520510"
   },
   {
     "title": "Jepsen: Scylla 4.2-rc3",
     "url": "https://jepsen.io/analyses/scylla-4.2-rc3",
-    "upvotes": 152,
+    "upvotes": 153,
     "author": "aphyr",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25521138"
   },
   {
+    "title": "Raster CRT Typography",
+    "url": "https://www.masswerk.at/nowgobang/2019/dec-crt-typography",
+    "upvotes": 79,
+    "author": "dcminter",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25523322"
+  },
+  {
     "title": "BlocklySQL: A new block-based editor for SQL",
     "url": "https://www.dbinf.informatik.uni-wuerzburg.de/google-blockly-4efa0da/sql/index.html",
-    "upvotes": 89,
+    "upvotes": 92,
     "author": "leeuw01",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25517043"
@@ -150,71 +166,55 @@
   {
     "title": "Israeli Cyber Experts Uncover Attack on 85,000 MySQL Servers",
     "url": "https://www.srnnews.com/the-media-line-israeli-cyber-experts-uncover-massive-attack-on-85000-mysql-servers/",
-    "upvotes": 62,
+    "upvotes": 64,
     "author": "nobody9999",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25523525"
-  },
-  {
-    "title": "How bad is your Spotify?",
-    "url": "https://pudding.cool/2020/12/judge-my-spotify",
-    "upvotes": 853,
-    "author": "feross",
-    "comments": 556,
-    "link": "https://news.ycombinator.com/item?id=25517868"
-  },
-  {
-    "title": "Raster CRT Typography",
-    "url": "https://www.masswerk.at/nowgobang/2019/dec-crt-typography",
-    "upvotes": 75,
-    "author": "dcminter",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25523322"
   },
   {
     "title": "About those vector icons",
     "url": "https://www.pushing-pixels.org/2011/11/04/about-those-vector-icons.html",
-    "upvotes": 40,
+    "upvotes": 43,
     "author": "gitgud",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25517084"
+  },
+  {
+    "title": "How bad is your Spotify?",
+    "url": "https://pudding.cool/2020/12/judge-my-spotify",
+    "upvotes": 856,
+    "author": "feross",
+    "comments": 558,
+    "link": "https://news.ycombinator.com/item?id=25517868"
   },
   {
     "title": "Windows 0day privilege escalation still not fixed",
     "url": "https://bugs.chromium.org/p/project-zero/issues/detail?id=2096",
-    "upvotes": 362,
+    "upvotes": 365,
     "author": "zaltekk",
-    "comments": 163,
+    "comments": 164,
     "link": "https://news.ycombinator.com/item?id=25519678"
-  },
-  {
-    "title": "Producer of Netflix Three body problem found poisoned",
-    "url": "https://variety.com/2020/film/news/netflix-yoozoo-three-body-problem-murder-poison-1234874776/",
-    "upvotes": 6,
-    "author": "Ahmedb",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25526286"
-  },
-  {
-    "title": "Covid: France rewards frontline immigrant workers with citizenship",
-    "url": "https://www.bbc.com/news/world-europe-55423257",
-    "upvotes": 80,
-    "author": "williamsharris",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=25525400"
   },
   {
     "title": "Interview advice that got me offers",
     "url": "https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/",
-    "upvotes": 485,
+    "upvotes": 489,
     "author": "ZainRiz",
-    "comments": 284,
+    "comments": 286,
     "link": "https://news.ycombinator.com/item?id=25519718"
+  },
+  {
+    "title": "Covid: France rewards frontline immigrant workers with citizenship",
+    "url": "https://www.bbc.com/news/world-europe-55423257",
+    "upvotes": 92,
+    "author": "williamsharris",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=25525400"
   },
   {
     "title": "How to Favicon in 2021: Six files that fit most needs",
     "url": "https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs",
-    "upvotes": 284,
+    "upvotes": 285,
     "author": "iskin",
     "comments": 70,
     "link": "https://news.ycombinator.com/item?id=25520655"
@@ -222,17 +222,17 @@
   {
     "title": "The Story of T",
     "url": "http://www.thestacksreader.com/the-story-of-t/",
-    "upvotes": 17,
+    "upvotes": 19,
     "author": "boovic",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25521635"
   },
   {
-    "title": "Google/Fitbit will monetise health data and harm consumers [pdf]",
-    "url": "https://cepr.org/sites/default/files/policy_insights/PolicyInsight107.pdf",
-    "upvotes": 285,
-    "author": "partingshots",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=25520729"
+    "title": "J. G. Ballard, The Art of Fiction No. 85",
+    "url": "https://theparisreview.org/interviews/2929/the-art-of-fiction-no-85-j-g-ballard",
+    "upvotes": 40,
+    "author": "deepbow",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25521617"
   }
 ]
