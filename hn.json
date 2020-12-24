@@ -2,7 +2,7 @@
   {
     "title": "How We Saved Dot Org",
     "url": "https://www.eff.org/deeplinks/2020/12/how-we-saved-org-2020-review",
-    "upvotes": 774,
+    "upvotes": 797,
     "author": "thomasahle",
     "comments": 92,
     "link": "https://news.ycombinator.com/item?id=25521836"
@@ -10,78 +10,86 @@
   {
     "title": "Fantasy UI",
     "url": "https://www.pushing-pixels.org/fui/",
-    "upvotes": 86,
+    "upvotes": 98,
     "author": "ujeezy",
-    "comments": 15,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25525290"
   },
   {
     "title": "Snapdrop – AirDrop equivalent through a web browser using WebRTC",
     "url": "https://snapdrop.net",
-    "upvotes": 221,
+    "upvotes": 231,
     "author": "gjsman-1000",
-    "comments": 39,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=25524472"
   },
   {
     "title": "Tips for a Better Life",
     "url": "https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life",
-    "upvotes": 730,
+    "upvotes": 742,
     "author": "CapitalistCartr",
-    "comments": 307,
+    "comments": 313,
     "link": "https://news.ycombinator.com/item?id=25518730"
   },
   {
     "title": "Tokio 1.0 – async runtime for Rust",
     "url": "https://tokio.rs/blog/2020-12-tokio-1-0",
-    "upvotes": 634,
+    "upvotes": 639,
     "author": "carllerche",
-    "comments": 319,
+    "comments": 323,
     "link": "https://news.ycombinator.com/item?id=25520353"
   },
   {
     "title": "Comic Mono",
     "url": "https://dtinth.github.io/comic-mono-font/",
-    "upvotes": 489,
+    "upvotes": 497,
     "author": "thesephist",
-    "comments": 178,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=25520510"
+  },
+  {
+    "title": "Octopuses Like to Punch Fish",
+    "url": "https://gizmodo.com/octopuses-like-to-punch-fish-new-research-suggests-1845929379",
+    "upvotes": 38,
+    "author": "CapitalistCartr",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=25517411"
   },
   {
     "title": "Building My Own Chess Engine",
     "url": "https://healeycodes.com/building-my-own-chess-engine/",
-    "upvotes": 77,
+    "upvotes": 79,
     "author": "rbanffy",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25516430"
   },
   {
     "title": "Datasette.io, an official project website for Datasette",
     "url": "https://simonwillison.net/2020/Dec/13/datasette-io/",
-    "upvotes": 141,
+    "upvotes": 143,
     "author": "tosh",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25523768"
   },
   {
-    "title": "Octopuses Like to Punch Fish",
-    "url": "https://gizmodo.com/octopuses-like-to-punch-fish-new-research-suggests-1845929379",
-    "upvotes": 32,
-    "author": "CapitalistCartr",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25517411"
+    "title": "How to Favicon in 2021: Six files that fit most needs",
+    "url": "https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs",
+    "upvotes": 266,
+    "author": "iskin",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=25520655"
   },
   {
     "title": "GitDuck",
     "url": "https://www.notion.so/gitduck/Product-Engineer-599ce7e227a34d3bb91f695295d69dc5"
   },
   {
-    "title": "How to Favicon in 2021: Six files that fit most needs",
-    "url": "https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs",
-    "upvotes": 259,
-    "author": "iskin",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=25520655"
+    "title": "PureOS: Freedom, Privacy, and Security",
+    "url": "https://lwn.net/SubscriberLink/841105/d99c445b4aca536f/",
+    "upvotes": 90,
+    "author": "leephillips",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=25522835"
   },
   {
     "title": "James Gunn",
@@ -92,57 +100,49 @@
     "link": "https://news.ycombinator.com/item?id=25524654"
   },
   {
-    "title": "PureOS: Freedom, Privacy, and Security",
-    "url": "https://lwn.net/SubscriberLink/841105/d99c445b4aca536f/",
-    "upvotes": 88,
-    "author": "leephillips",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=25522835"
-  },
-  {
-    "title": "BlocklySQL: A new block-based editor for SQL",
-    "url": "https://www.dbinf.informatik.uni-wuerzburg.de/google-blockly-4efa0da/sql/index.html",
-    "upvotes": 79,
-    "author": "leeuw01",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=25517043"
+    "title": "Jepsen: Scylla 4.2-rc3",
+    "url": "https://jepsen.io/analyses/scylla-4.2-rc3",
+    "upvotes": 144,
+    "author": "aphyr",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=25521138"
   },
   {
     "title": "Show HN: Disassembling a C64 Game from Scratch: Jeff Minter's Gridrunner",
     "url": "https://github.com/mwenge/gridrunner",
     "upvotes": 40,
     "author": "mwenge",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25505123"
   },
   {
-    "title": "Jepsen: Scylla 4.2-rc3",
-    "url": "https://jepsen.io/analyses/scylla-4.2-rc3",
-    "upvotes": 144,
-    "author": "aphyr",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=25521138"
+    "title": "BlocklySQL: A new block-based editor for SQL",
+    "url": "https://www.dbinf.informatik.uni-wuerzburg.de/google-blockly-4efa0da/sql/index.html",
+    "upvotes": 81,
+    "author": "leeuw01",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=25517043"
+  },
+  {
+    "title": "Build a tiny certificate authority for your homelab",
+    "url": "https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/",
+    "upvotes": 146,
+    "author": "fanf2",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=25520639"
   },
   {
     "title": "Visions of Alt-Berlin in “Man in the High Castle”",
     "url": "https://mitsap.medium.com/visions-of-alt-berlin-in-man-in-the-high-castle-no-spoilers-b3beaba77984",
     "upvotes": 87,
     "author": "tintinnabula",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25522395"
-  },
-  {
-    "title": "Build a tiny certificate authority for your homelab",
-    "url": "https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/",
-    "upvotes": 140,
-    "author": "fanf2",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=25520639"
   },
   {
     "title": "Interactive C++ for Data Science",
     "url": "https://blog.llvm.org/posts/2020-12-21-interactive-cpp-for-data-science/",
-    "upvotes": 140,
+    "upvotes": 141,
     "author": "Bootvis",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=25517050"
@@ -150,47 +150,39 @@
   {
     "title": "About those vector icons",
     "url": "https://www.pushing-pixels.org/2011/11/04/about-those-vector-icons.html",
-    "upvotes": 36,
+    "upvotes": 37,
     "author": "gitgud",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25517084"
-  },
-  {
-    "title": "Israeli Cyber Experts Uncover Attack on 85,000 MySQL Servers",
-    "url": "https://www.srnnews.com/the-media-line-israeli-cyber-experts-uncover-massive-attack-on-85000-mysql-servers/",
-    "upvotes": 52,
-    "author": "nobody9999",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25523525"
-  },
-  {
-    "title": "Covid: France rewards frontline immigrant workers with citizenship",
-    "url": "https://www.bbc.com/news/world-europe-55423257",
-    "upvotes": 49,
-    "author": "williamsharris",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=25525400"
   },
   {
     "title": "Web Authentication Methods Compared",
     "url": "https://testdriven.io/blog/web-authentication-methods/",
-    "upvotes": 136,
+    "upvotes": 140,
     "author": "luord",
-    "comments": 85,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=25520549"
+  },
+  {
+    "title": "Covid: France rewards frontline immigrant workers with citizenship",
+    "url": "https://www.bbc.com/news/world-europe-55423257",
+    "upvotes": 55,
+    "author": "williamsharris",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=25525400"
   },
   {
     "title": "PC DOS Reimagined",
     "url": "https://www.pcjs.org/blog/2020/12/22/",
     "upvotes": 94,
     "author": "ingve",
-    "comments": 52,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=25516459"
   },
   {
     "title": "No, Cellebrite Cannot “Break Signal Encryption”",
     "url": "https://signal.org/blog/cellebrite-and-clickbait/",
-    "upvotes": 589,
+    "upvotes": 591,
     "author": "hprotagonist",
     "comments": 221,
     "link": "https://news.ycombinator.com/item?id=25520481"
@@ -198,15 +190,15 @@
   {
     "title": "Raster CRT Typography",
     "url": "https://www.masswerk.at/nowgobang/2019/dec-crt-typography",
-    "upvotes": 70,
+    "upvotes": 71,
     "author": "dcminter",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25523322"
   },
   {
     "title": "How bad is your Spotify?",
     "url": "https://pudding.cool/2020/12/judge-my-spotify",
-    "upvotes": 835,
+    "upvotes": 842,
     "author": "feross",
     "comments": 547,
     "link": "https://news.ycombinator.com/item?id=25517868"
@@ -214,25 +206,33 @@
   {
     "title": "Windows 0day privilege escalation still not fixed",
     "url": "https://bugs.chromium.org/p/project-zero/issues/detail?id=2096",
-    "upvotes": 357,
+    "upvotes": 361,
     "author": "zaltekk",
-    "comments": 155,
+    "comments": 157,
     "link": "https://news.ycombinator.com/item?id=25519678"
   },
   {
     "title": "Real Time Continuous Blood Monitoring",
     "url": "https://news.stanford.edu/2020/12/21/new-blood-test-device-monitors-blood-chemistry-continually/",
-    "upvotes": 106,
+    "upvotes": 107,
     "author": "KukiAirani",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25515905"
   },
   {
+    "title": "Israeli Cyber Experts Uncover Attack on 85,000 MySQL Servers",
+    "url": "https://www.srnnews.com/the-media-line-israeli-cyber-experts-uncover-massive-attack-on-85000-mysql-servers/",
+    "upvotes": 54,
+    "author": "nobody9999",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=25523525"
+  },
+  {
     "title": "The Story of T",
     "url": "http://www.thestacksreader.com/the-story-of-t/",
-    "upvotes": 15,
+    "upvotes": 16,
     "author": "boovic",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25521635"
   }
 ]
