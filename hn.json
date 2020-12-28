@@ -2,95 +2,99 @@
   {
     "title": "Anonymously call out the bad behavior of “ghosting” by recruiters",
     "url": "http://ghostreply.com",
-    "upvotes": 67,
+    "upvotes": 130,
     "author": "GeeRep",
-    "comments": 48,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=25562241"
+  },
+  {
+    "title": "FAA issuing new rules to allow drones to fly over people and at night",
+    "url": "https://www.reuters.com/article/us-usa-drones-faa/u-s-to-allow-small-drones-to-fly-over-people-at-night-idUSKBN2921R8",
+    "upvotes": 23,
+    "author": "skanga",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25562960"
   },
   {
     "title": "Images of the the samples returned to earth from the asteroid Ryugu",
     "url": "http://www.hayabusa2.jaxa.jp/en/topics/20201225_samples/",
-    "upvotes": 349,
+    "upvotes": 361,
     "author": "naetius",
-    "comments": 86,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=25558874"
   },
   {
     "title": "Stealing private documents through a bug in Google Docs",
     "url": "https://savebreach.com/stealing-private-documents-through-a-google-docs-bug/",
-    "upvotes": 211,
+    "upvotes": 219,
     "author": "hackerpain",
-    "comments": 110,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=25559063"
   },
   {
     "title": "Listen to Wikipedia",
     "url": "http://listen.hatnote.com/",
-    "upvotes": 67,
+    "upvotes": 72,
     "author": "keskadale",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25560953"
   },
   {
-    "title": "AWS Added Apple Mac Mini Nodes to EC2 – ServeTheHome",
-    "url": "https://www.servethehome.com/how-aws-added-apple-mac-mini-nodes-to-ec2/",
-    "upvotes": 132,
-    "author": "tambourine_man",
-    "comments": 137,
-    "link": "https://news.ycombinator.com/item?id=25561127"
+    "title": "Gather",
+    "url": "https://www.notion.so/Senior-Video-Engineer-2d9b26e304d54619bbfd34df340f6a4d"
   },
   {
     "title": "Undocumented arm64 ISA extension present on the Apple M1",
     "url": "https://gist.github.com/dougallj/7a75a3be1ec69ca550e7c36dc75e0d6f",
-    "upvotes": 116,
+    "upvotes": 128,
     "author": "ytch",
-    "comments": 66,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=25559145"
+  },
+  {
+    "title": "AWS Added Apple Mac Mini Nodes to EC2 – ServeTheHome",
+    "url": "https://www.servethehome.com/how-aws-added-apple-mac-mini-nodes-to-ec2/",
+    "upvotes": 138,
+    "author": "tambourine_man",
+    "comments": 143,
+    "link": "https://news.ycombinator.com/item?id=25561127"
   },
   {
     "title": "Wisp: A light Lisp written in C++",
     "url": "https://github.com/adam-mcdaniel/wisp",
-    "upvotes": 85,
+    "upvotes": 88,
     "author": "azhenley",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=25559291"
   },
   {
-    "title": "New Haskell Foundation to Foster Haskell Adoption, Raises 200k USD",
-    "url": "https://www.infoq.com/news/2020/12/haskell-foundation-launched/",
-    "upvotes": 133,
-    "author": "antouank",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=25549811"
+    "title": "He spent 10 days in jail after facial recognition led to arrest of the wrong man",
+    "url": "https://www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html",
+    "upvotes": 78,
+    "author": "sharkweek",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=25562321"
   },
   {
     "title": "The Great Migration Mystery",
     "url": "https://www.historytoday.com/archive/natural-histories/great-migration-mystery",
-    "upvotes": 7,
+    "upvotes": 9,
     "author": "Thevet",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25549169"
   },
   {
-    "title": "PaSh: Light-Touch Data-Parallel Shell Processing",
-    "url": "https://arxiv.org/abs/2007.09436",
-    "upvotes": 30,
-    "author": "matt_d",
+    "title": "In-depth: Functional programming in C++",
+    "url": "https://gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php",
+    "upvotes": 6,
+    "author": "tosh",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25561220"
-  },
-  {
-    "title": "He spent 10 days in jail after facial recognition led to arrest of the wrong man",
-    "url": "https://www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html",
-    "upvotes": 53,
-    "author": "sharkweek",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25562321"
+    "link": "https://news.ycombinator.com/item?id=25562800"
   },
   {
     "title": "Implementing join planning in our open source Golang SQL query engine",
     "url": "https://www.dolthub.com/blog/2020-12-28-join-planning/",
-    "upvotes": 23,
+    "upvotes": 29,
     "author": "zachmu",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25561173"
@@ -98,141 +102,137 @@
   {
     "title": "Buttplug",
     "url": "https://nonpolynomial.com/2020/12/28/buttplug-hits-v1-milestone/",
-    "upvotes": 101,
+    "upvotes": 115,
     "author": "qdot76367",
-    "comments": 49,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=25561392"
   },
   {
-    "title": "Has Thomas Becket's treasured 'little book' been found?",
-    "url": "https://www.bbc.com/news/stories-55370722",
-    "upvotes": 22,
-    "author": "adrian_mrd",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25548873"
+    "title": "PaSh: Light-Touch Data-Parallel Shell Processing",
+    "url": "https://arxiv.org/abs/2007.09436",
+    "upvotes": 31,
+    "author": "matt_d",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25561220"
+  },
+  {
+    "title": "Build your own async primitive",
+    "url": "https://tweedegolf.nl/blog/50/build-your-own-async-primitive",
+    "upvotes": 13,
+    "author": "lukastyrychtr",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25549549"
   },
   {
     "title": "Tribes of Programming",
     "url": "https://josephg.com/blog/3-tribes/",
-    "upvotes": 28,
+    "upvotes": 34,
     "author": "myth_drannon",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25560750"
   },
   {
     "title": "We rebuilt Corewars and used it to teach Computer Science students in India",
     "url": "https://adinocap.com/blog/corewars-in-india/",
-    "upvotes": 47,
+    "upvotes": 54,
     "author": "aramachandran7",
-    "comments": 8,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25549290"
-  },
-  {
-    "title": "Build your own async primitive",
-    "url": "https://tweedegolf.nl/blog/50/build-your-own-async-primitive",
-    "upvotes": 11,
-    "author": "lukastyrychtr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25549549"
   },
   {
     "title": "Show HN: Recurring reviews to track the whole lifecycle of a product",
     "url": "https://www.buyforlife.com/blog/4kpaLtbnG6MkseMj44niVV/recurring-reviews-to-track-the-whole-lifecycle-of-a-product",
-    "upvotes": 117,
+    "upvotes": 122,
     "author": "hubraumhugo",
-    "comments": 36,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=25558891"
   },
   {
-    "title": "MDacne",
-    "url": "https://www.workatastartup.com/jobs/41333"
+    "title": "New Haskell Foundation to Foster Haskell Adoption, Raises 200k USD",
+    "url": "https://www.infoq.com/news/2020/12/haskell-foundation-launched/",
+    "upvotes": 146,
+    "author": "antouank",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=25549811"
   },
   {
-    "title": "BLC1: A candidate signal around Proxima",
-    "url": "https://sites.psu.edu/astrowright/2020/12/20/blc1-a-candidate-signal-around-proxima/",
-    "upvotes": 9,
-    "author": "weare138",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25562230"
+    "title": "Has Thomas Becket's treasured 'little book' been found?",
+    "url": "https://www.bbc.com/news/stories-55370722",
+    "upvotes": 24,
+    "author": "adrian_mrd",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25548873"
+  },
+  {
+    "title": "A Comparison of Futhark and Dex",
+    "url": "https://futhark-lang.org/blog/2020-12-28-futhark-and-dex.html",
+    "upvotes": 37,
+    "author": "Athas",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25559967"
+  },
+  {
+    "title": "Zoomquilt 2",
+    "url": "http://zoomquilt2.com/",
+    "upvotes": 217,
+    "author": "shlomir",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=25557627"
+  },
+  {
+    "title": "Show HN: Tuchu – Automatically highlight the important parts of a document",
+    "url": "https://tuchu.app/",
+    "upvotes": 25,
+    "author": "heresjohnny",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25558485"
   },
   {
     "title": "Shelling Out: The Origins of Money",
     "url": "https://nakamotoinstitute.org/shelling-out/",
     "upvotes": 40,
     "author": "noch",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25559929"
   },
   {
-    "title": "Zoomquilt 2",
-    "url": "http://zoomquilt2.com/",
-    "upvotes": 216,
-    "author": "shlomir",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=25557627"
-  },
-  {
-    "title": "A Comparison of Futhark and Dex",
-    "url": "https://futhark-lang.org/blog/2020-12-28-futhark-and-dex.html",
-    "upvotes": 32,
-    "author": "Athas",
+    "title": "BLC1: A candidate signal around Proxima",
+    "url": "https://sites.psu.edu/astrowright/2020/12/20/blc1-a-candidate-signal-around-proxima/",
+    "upvotes": 13,
+    "author": "weare138",
     "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25559967"
-  },
-  {
-    "title": "The Guy I Almost Was",
-    "url": "http://www.electricsheepcomix.com/almostguy/",
-    "upvotes": 203,
-    "author": "wallflower",
-    "comments": 126,
-    "link": "https://news.ycombinator.com/item?id=25549042"
-  },
-  {
-    "title": "ITX Motherboard with an Elbrus CPU",
-    "url": "https://blog.jmdawson.co.uk/icepeakitx-elbrus-8cb-itx-motherboard/",
-    "upvotes": 90,
-    "author": "jamesmd",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=25559240"
-  },
-  {
-    "title": "Show HN: Building an E-Ink Calendar and a UI Toolkit along the way",
-    "url": "https://rahulrav.com/blog/e_ink_dashboard.html",
-    "upvotes": 17,
-    "author": "rahulrav",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25560570"
-  },
-  {
-    "title": "Convicted Copyright Troll Lawyer Reboots Pirate Honeypot Scheme from Prison",
-    "url": "https://torrentfreak.com/convicted-copyright-troll-lawyer-reboots-pirate-honeypot-scheme-from-prison-201225/",
-    "upvotes": 67,
-    "author": "cf100clunk",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=25560769"
+    "link": "https://news.ycombinator.com/item?id=25562230"
   },
   {
     "title": "Ask HW: Qubes OS alternative on LXD containers",
     "url": "https://www.qubes-os.org/doc/getting-started/",
-    "upvotes": 23,
+    "upvotes": 25,
     "author": "denis4inet",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25562208"
   },
   {
-    "title": "Show HN: Tuchu – Automatically highlight the important parts of a document",
-    "url": "https://tuchu.app/",
-    "upvotes": 19,
-    "author": "heresjohnny",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25558485"
+    "title": "Convicted Copyright Troll Lawyer Reboots Pirate Honeypot Scheme from Prison",
+    "url": "https://torrentfreak.com/convicted-copyright-troll-lawyer-reboots-pirate-honeypot-scheme-from-prison-201225/",
+    "upvotes": 76,
+    "author": "cf100clunk",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=25560769"
   },
   {
-    "title": "Raytracing won't simplify AAA real-time rendering",
-    "url": "http://c0de517e.blogspot.com/2020/12/why-raytracing-wont-simplify-aaa-real.html",
-    "upvotes": 117,
-    "author": "Koiwai",
-    "comments": 142,
-    "link": "https://news.ycombinator.com/item?id=25557354"
+    "title": "The Guy I Almost Was",
+    "url": "http://www.electricsheepcomix.com/almostguy/",
+    "upvotes": 212,
+    "author": "wallflower",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=25549042"
+  },
+  {
+    "title": "Show HN: Building an E-Ink Calendar and a UI Toolkit along the way",
+    "url": "https://rahulrav.com/blog/e_ink_dashboard.html",
+    "upvotes": 22,
+    "author": "rahulrav",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25560570"
   }
 ]
