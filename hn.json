@@ -1,74 +1,82 @@
 [
   {
-    "title": "QUIC much easier to fingerprint than HTTPS",
+    "title": "Website Fingerprinting on Early QUIC Traffic",
     "url": "https://arxiv.org/abs/2101.11871",
-    "upvotes": 225,
+    "upvotes": 242,
     "author": "pueblito",
-    "comments": 60,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=25969886"
-  },
-  {
-    "title": "Robinhood and Reddit protected from lawsuits by user agreement, Congress",
-    "url": "https://www.reuters.com/article/us-retail-trading-robinhood-liability-an-idUSKBN29Z0HI",
-    "upvotes": 88,
-    "author": "1cvmask",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=25971125"
-  },
-  {
-    "title": "The Great Unbundling – Benedict Evans",
-    "url": "https://www.ben-evans.com/presentations",
-    "upvotes": 39,
-    "author": "notoriousarun",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25970658"
   },
   {
     "title": "Personal experiences bridge moral and political divides better than facts",
     "url": "https://www.pnas.org/content/118/6/e2008389118",
-    "upvotes": 51,
+    "upvotes": 69,
     "author": "lobbly",
-    "comments": 10,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25963589"
   },
   {
-    "title": "Cyclic Dependencies Are Evil",
-    "url": "https://fsharpforfunandprofit.com/posts/cyclic-dependencies/",
-    "upvotes": 71,
-    "author": "nojito",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=25969976"
+    "title": "The Great Unbundling – Benedict Evans",
+    "url": "https://www.ben-evans.com/presentations",
+    "upvotes": 48,
+    "author": "notoriousarun",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25970658"
+  },
+  {
+    "title": "Robinhood and Reddit protected from lawsuits by user agreement, Congress",
+    "url": "https://www.reuters.com/article/us-retail-trading-robinhood-liability-an-idUSKBN29Z0HI",
+    "upvotes": 112,
+    "author": "1cvmask",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=25971125"
+  },
+  {
+    "title": "Cory Doctorow: IP",
+    "url": "https://locusmag.com/2020/09/cory-doctorow-ip",
+    "upvotes": 47,
+    "author": "akkartik",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25971037"
   },
   {
     "title": "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites",
     "url": "https://webtransparency.cs.princeton.edu/dark-patterns/",
-    "upvotes": 205,
+    "upvotes": 213,
     "author": "pseudolus",
-    "comments": 58,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=25968531"
   },
   {
     "title": "Uniwidth Typefaces for Interface Design",
     "url": "https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7",
-    "upvotes": 174,
+    "upvotes": 185,
     "author": "fanf2",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25956652"
   },
   {
     "title": "Offline Algorithms in Low-Frequency Trading",
     "url": "https://queue.acm.org/detail.cfm?id=3448307",
-    "upvotes": 217,
+    "upvotes": 224,
     "author": "hypomnemata",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25968348"
+  },
+  {
+    "title": "How to stream media using WebRTC and FFmpeg, and why it's a bad idea",
+    "url": "https://blog.maxwellgale.com/2021/01/30/streaming-video-over-webrtc-using-ffmpeg/",
+    "upvotes": 29,
+    "author": "dimes",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25970843"
   },
   {
     "title": "What Did We Lose When We Lost the Stars?",
     "url": "https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the",
-    "upvotes": 44,
+    "upvotes": 54,
     "author": "cetera",
-    "comments": 16,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25969823"
   },
   {
@@ -76,163 +84,155 @@
     "url": "https://substack.com/jobs"
   },
   {
-    "title": "Cory Doctorow: IP",
-    "url": "https://locusmag.com/2020/09/cory-doctorow-ip",
-    "upvotes": 26,
-    "author": "akkartik",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25971037"
+    "title": "Cyclic Dependencies Are Evil",
+    "url": "https://fsharpforfunandprofit.com/posts/cyclic-dependencies/",
+    "upvotes": 75,
+    "author": "nojito",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=25969976"
   },
   {
-    "title": "How to stream media using WebRTC and FFmpeg, and why it's a bad idea",
-    "url": "https://blog.maxwellgale.com/2021/01/30/streaming-video-over-webrtc-using-ffmpeg/",
-    "upvotes": 20,
-    "author": "dimes",
+    "title": "Wayland Keylogger",
+    "url": "https://github.com/Aishou/wayland-keylogger",
+    "upvotes": 14,
+    "author": "Jkvngt",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25971395"
+  },
+  {
+    "title": "Universal Basic Income Is Superior to a $15 Minimum Wage",
+    "url": "https://basicincometoday.com/opinion-universal-basic-income-is-superior-to-a-15-minimum-wage/",
+    "upvotes": 15,
+    "author": "joeyespo",
     "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25970843"
+    "link": "https://news.ycombinator.com/item?id=25971227"
   },
   {
     "title": "Adam Curtis Explains It All",
     "url": "https://www.newyorker.com/news/letter-from-the-uk/adam-curtis-explains-it-all",
-    "upvotes": 64,
+    "upvotes": 71,
     "author": "clydethefrog",
-    "comments": 26,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25947622"
-  },
-  {
-    "title": "Teaching a Bayesian spam to filter play chess",
-    "url": "http://dbacl.sourceforge.net/spam_chess-1.html",
-    "upvotes": 14,
-    "author": "ignoranceprior",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25970502"
   },
   {
     "title": "Show HN: Collection of deep learning implementations with side-by-side notes",
     "url": "https://nn.labml.ai",
-    "upvotes": 178,
+    "upvotes": 188,
     "author": "vpj",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25967641"
   },
   {
-    "title": "Forget 10x Developer – Become Full X Developer",
-    "url": "https://maxpower.substack.com/p/full-x",
-    "upvotes": 16,
-    "author": "high_byte",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25970877"
-  },
-  {
-    "title": "New Xquartz release with native Apple Silicon support",
-    "url": "https://www.mail-archive.com/xquartz-dev@lists.macosforge.org/msg01027.html",
-    "upvotes": 172,
-    "author": "ismiseted",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=25967442"
-  },
-  {
-    "title": "The Multitude of Books",
-    "url": "https://www.laphamsquarterly.org/roundtable/multitude-books",
-    "upvotes": 24,
-    "author": "onemind",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25963586"
-  },
-  {
-    "title": "India proposes law to ban cryptocurrencies, create official digital currency",
-    "url": "https://www.thehindu.com/sci-tech/technology/india-proposes-law-to-ban-cryptocurrencies-create-official-digital-currency/article33703822.ece",
-    "upvotes": 86,
-    "author": "m33k44",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=25970101"
-  },
-  {
-    "title": "ESE: The server-grade, embedded DB ships with Windows",
-    "url": "https://github.com/microsoft/Extensible-Storage-Engine",
-    "upvotes": 40,
-    "author": "mnkypete",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=25969235"
-  },
-  {
-    "title": "The Conundrum of “Conundrum”",
-    "url": "https://www.theparisreview.org/blog/2021/01/29/the-conundrum-of-conundrum/",
-    "upvotes": 4,
-    "author": "ordiblah",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25963580"
-  },
-  {
-    "title": "Element",
-    "url": "https://twitter.com/element_hq/status/1355290296947499013",
-    "upvotes": 1568,
-    "author": "redsolver",
-    "comments": 745,
-    "link": "https://news.ycombinator.com/item?id=25964226"
-  },
-  {
-    "title": "A few HiDPI tricks for Linux",
-    "url": "https://blog.yossarian.net/2020/12/24/A-few-HiDPI-tricks-for-Linux",
-    "upvotes": 8,
-    "author": "woodruffw",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25970690"
-  },
-  {
-    "title": "Fast Commits for Ext4",
-    "url": "https://lwn.net/Articles/842385/",
-    "upvotes": 68,
-    "author": "joseluisq",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25967889"
-  },
-  {
-    "title": "Are the Persian Gulf city-states slave societies?",
-    "url": "https://aeon.co/essays/are-the-persian-gulf-city-states-slave-societies",
-    "upvotes": 123,
-    "author": "cmrdporcupine",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=25969442"
-  },
-  {
     "title": "IBM paperweight teardown: Reverse-engineering 1970s memory chips",
     "url": "https://www.righto.com/2021/01/ibm-paperweight-teardown-reverse.html",
-    "upvotes": 5,
+    "upvotes": 9,
     "author": "parsecs",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25971085"
   },
   {
-    "title": "Facebook Moderators Speak Out About Poor Working Conditions in Ireland",
-    "url": "https://www.vice.com/en/article/v7mqj4/watch-facebook-moderators-speak-out-about-poor-working-conditions-in-ireland",
-    "upvotes": 116,
-    "author": "waynekerr",
+    "title": "New Xquartz release with native Apple Silicon support",
+    "url": "https://www.mail-archive.com/xquartz-dev@lists.macosforge.org/msg01027.html",
+    "upvotes": 176,
+    "author": "ismiseted",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=25967442"
+  },
+  {
+    "title": "Teaching a Bayesian spam to filter play chess",
+    "url": "http://dbacl.sourceforge.net/spam_chess-1.html",
+    "upvotes": 17,
+    "author": "ignoranceprior",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25970502"
+  },
+  {
+    "title": "Forget 10x Developer – Become Full X Developer",
+    "url": "https://maxpower.substack.com/p/full-x",
+    "upvotes": 22,
+    "author": "high_byte",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25970877"
+  },
+  {
+    "title": "A few HiDPI tricks for Linux",
+    "url": "https://blog.yossarian.net/2020/12/24/A-few-HiDPI-tricks-for-Linux",
+    "upvotes": 18,
+    "author": "woodruffw",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25970690"
+  },
+  {
+    "title": "The Multitude of Books",
+    "url": "https://www.laphamsquarterly.org/roundtable/multitude-books",
+    "upvotes": 26,
+    "author": "onemind",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25963586"
+  },
+  {
+    "title": "ESE: The server-grade, embedded DB ships with Windows",
+    "url": "https://github.com/microsoft/Extensible-Storage-Engine",
+    "upvotes": 43,
+    "author": "mnkypete",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=25969235"
+  },
+  {
+    "title": "The Conundrum of “Conundrum”",
+    "url": "https://www.theparisreview.org/blog/2021/01/29/the-conundrum-of-conundrum/",
+    "upvotes": 6,
+    "author": "ordiblah",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25963580"
+  },
+  {
+    "title": "India proposes law to ban cryptocurrencies, create official digital currency",
+    "url": "https://www.thehindu.com/sci-tech/technology/india-proposes-law-to-ban-cryptocurrencies-create-official-digital-currency/article33703822.ece",
+    "upvotes": 93,
+    "author": "m33k44",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=25970101"
+  },
+  {
+    "title": "Element",
+    "url": "https://twitter.com/element_hq/status/1355290296947499013",
+    "upvotes": 1589,
+    "author": "redsolver",
+    "comments": 751,
+    "link": "https://news.ycombinator.com/item?id=25964226"
+  },
+  {
+    "title": "Fast Commits for Ext4",
+    "url": "https://lwn.net/Articles/842385/",
+    "upvotes": 69,
+    "author": "joseluisq",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25967889"
+  },
+  {
+    "title": "Are the Persian Gulf city-states slave societies?",
+    "url": "https://aeon.co/essays/are-the-persian-gulf-city-states-slave-societies",
+    "upvotes": 133,
+    "author": "cmrdporcupine",
     "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=25968945"
+    "link": "https://news.ycombinator.com/item?id=25969442"
   },
   {
     "title": "Windows Timer Resolution: The Great Rule Change",
     "url": "https://randomascii.wordpress.com/2021/01/29/windows-timer-resolution-the-great-rule-change-2/",
-    "upvotes": 14,
+    "upvotes": 23,
     "author": "todsacerdoti",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25969710"
   },
   {
-    "title": "My 3D maze game for the ZX Spectrum",
-    "url": "https://jamesmead.org/blog/2021-01-23-youtube-video-of-my-3d-maze-game-for-the-zx-spectrum",
-    "upvotes": 67,
-    "author": "todsacerdoti",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=25955914"
-  },
-  {
-    "title": "Covid-19 can reduce men's ability to reproduce",
-    "url": "https://rep.bioscientifica.com/view/journals/rep/161/2/REP-20-0523.xml",
-    "upvotes": 4,
-    "author": "giuliomagnifico",
+    "title": "AWS Outposts 2021: Stories for Folks Who Love Spreadsheets",
+    "url": "https://ahl.medium.com/aws-outposts-2021-stories-for-folks-who-love-spreadsheets-72a2adcfb7b9",
+    "upvotes": 3,
+    "author": "jen20",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25971730"
+    "link": "https://news.ycombinator.com/item?id=25971305"
   }
 ]
