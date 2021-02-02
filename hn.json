@@ -1,156 +1,204 @@
 [
   {
-    "title": "I'm tired of this anti-Wayland horseshit",
-    "url": "https://drewdevault.com/2021/02/02/Anti-Wayland-horseshit.html",
-    "upvotes": 161,
-    "author": "emersion",
-    "comments": 132,
-    "link": "https://news.ycombinator.com/item?id=26001179"
+    "title": "RISC-V isn’t as interesting as you think",
+    "url": "https://sporks.space/2021/02/01/risc-v-isnt-as-interesting-as-you-think/",
+    "upvotes": 38,
+    "author": "glhaynes",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26001972"
   },
   {
     "title": "Just because I have a vertical screen, doesn’t mean I’m on a phone",
     "url": "https://shkspr.mobi/blog/2021/02/just-because-i-have-a-vertical-screen-doesnt-mean-im-on-a-phone/",
-    "upvotes": 181,
+    "upvotes": 201,
     "author": "edent",
-    "comments": 128,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=26000405"
-  },
-  {
-    "title": "RISC-V isn’t as interesting as you think",
-    "url": "https://sporks.space/2021/02/01/risc-v-isnt-as-interesting-as-you-think/",
-    "upvotes": 5,
-    "author": "glhaynes",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26001972"
   },
   {
     "title": "Garuda Linux",
     "url": "https://garudalinux.org",
-    "upvotes": 10,
+    "upvotes": 32,
     "author": "oriettaxx",
-    "comments": 2,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26001738"
+  },
+  {
+    "title": "We outsourced software development to 6 countries. Here's what we've learned",
+    "url": "https://ascendixtech.com/software-development-outsourcing-our-story/",
+    "upvotes": 11,
+    "author": "eagle323",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26002217"
+  },
+  {
+    "title": "I'm tired of this anti-Wayland horseshit",
+    "url": "https://drewdevault.com/2021/02/02/Anti-Wayland-horseshit.html",
+    "upvotes": 318,
+    "author": "emersion",
+    "comments": 311,
+    "link": "https://news.ycombinator.com/item?id=26001179"
+  },
+  {
+    "title": "Getting better at Linux with 10 mini-projects",
+    "url": "https://carltheperson.com/posts/10-things-linux",
+    "upvotes": 12,
+    "author": "carltheperson",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26002335"
+  },
+  {
+    "title": "The Reshaped Mac Experience",
+    "url": "http://morrick.me/archives/9150",
+    "upvotes": 30,
+    "author": "yannovitch",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26001540"
+  },
+  {
+    "title": "GoboLinux",
+    "url": "https://www.gobolinux.org/",
+    "upvotes": 12,
+    "author": "frabert",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26002251"
   },
   {
     "title": "20k honey bees took over a tech company’s empty office during lockdown",
     "url": "https://qz.com/work/1965925/20000-honey-bees-took-over-a-tech-office-during-covid-19/",
-    "upvotes": 45,
+    "upvotes": 83,
     "author": "codev",
-    "comments": 8,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26001630"
   },
   {
-    "title": "It’s time for a new, progressive supply-side economics",
-    "url": "https://www.thecgo.org/news/its-time-for-a-new-progressive-supply-side-economics/",
-    "upvotes": 18,
-    "author": "apsec112",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=25984996"
-  },
-  {
-    "title": "On the dangers of seeing human minds as predictive machines",
-    "url": "https://aeon.co/essays/on-the-dangers-of-seeing-human-minds-as-predictive-machines",
-    "upvotes": 21,
-    "author": "dangerman",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25994446"
-  },
-  {
-    "title": "Go 1.16 will make system calls through Libc on OpenBSD",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/Go116OpenBSDUsesLibc",
-    "upvotes": 249,
-    "author": "lladnar",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=25997506"
-  },
-  {
-    "title": "Publishing Is Back to the Future",
-    "url": "https://stratechery.com/2021/publishing-is-back-to-the-future/",
-    "upvotes": 43,
-    "author": "imheretolearn",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25977261"
-  },
-  {
-    "title": "Apple silicon M1 as-a-Service",
-    "url": "https://www.scaleway.com/en/hello-m1/",
-    "upvotes": 276,
-    "author": "edouardb",
-    "comments": 183,
-    "link": "https://news.ycombinator.com/item?id=25998659"
+    "title": "Launch HN: Zaraz (YC W20) – Use third-party tools without slowing your website",
+    "url": "item?id=26002657",
+    "upvotes": 5,
+    "author": "yoavm",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26002657"
   },
   {
     "title": "CompilerGym: A toolkit for reinforcement learning for compiler optimization",
     "url": "https://facebookresearch.github.io/CompilerGym/getting_started.html",
-    "upvotes": 5,
+    "upvotes": 19,
     "author": "azhenley",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26001480"
   },
   {
-    "title": "Investigation Xoth: Smartphone location tracking",
-    "url": "https://www.expressvpn.com/digital-security-lab/investigation-xoth",
-    "upvotes": 158,
-    "author": "gilad",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=25997619"
+    "title": "Fake cluster boosts Huawei – accounts with GAN Faces attack Belgium [pdf]",
+    "url": "https://public-assets.graphika.com/reports/graphika_report_fake_cluster_boosts_huawei.pdf",
+    "upvotes": 4,
+    "author": "kbumsik",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26002734"
+  },
+  {
+    "title": "On the dangers of seeing human minds as predictive machines",
+    "url": "https://aeon.co/essays/on-the-dangers-of-seeing-human-minds-as-predictive-machines",
+    "upvotes": 29,
+    "author": "dangerman",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25994446"
+  },
+  {
+    "title": "Go 1.16 will make system calls through Libc on OpenBSD",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/Go116OpenBSDUsesLibc",
+    "upvotes": 256,
+    "author": "lladnar",
+    "comments": 125,
+    "link": "https://news.ycombinator.com/item?id=25997506"
   },
   {
     "title": "Ambition",
     "url": "https://ambition.com/career/opportunity/full-stack-engineer/"
   },
   {
+    "title": "It’s time for a new, progressive supply-side economics",
+    "url": "https://www.thecgo.org/news/its-time-for-a-new-progressive-supply-side-economics/",
+    "upvotes": 32,
+    "author": "apsec112",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=25984996"
+  },
+  {
+    "title": "Publishing Is Back to the Future",
+    "url": "https://stratechery.com/2021/publishing-is-back-to-the-future/",
+    "upvotes": 45,
+    "author": "imheretolearn",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25977261"
+  },
+  {
     "title": "Penpot Alpha Release – Free and Open-Source Design Plattform",
     "url": "https://penpot.app/",
-    "upvotes": 38,
+    "upvotes": 48,
     "author": "stephdin",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26000257"
   },
   {
+    "title": "Investigation Xoth: Smartphone location tracking",
+    "url": "https://www.expressvpn.com/digital-security-lab/investigation-xoth",
+    "upvotes": 159,
+    "author": "gilad",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=25997619"
+  },
+  {
+    "title": "Apple silicon M1 as-a-Service",
+    "url": "https://www.scaleway.com/en/hello-m1/",
+    "upvotes": 289,
+    "author": "edouardb",
+    "comments": 187,
+    "link": "https://news.ycombinator.com/item?id=25998659"
+  },
+  {
+    "title": "Wikipedia launches new global rules to combat site abuses",
+    "url": "https://www.reuters.com/article/wikipedia-rules-int/exclusive-wikipedia-launches-new-global-rules-to-combat-site-abuses-idUSKBN2A2181",
+    "upvotes": 20,
+    "author": "aminozuur",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26000611"
+  },
+  {
+    "title": "Navy Finally Speaks Up About Its “UFO Patent” Experiments",
+    "url": "https://www.thedrive.com/the-war-zone/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments",
+    "upvotes": 74,
+    "author": "samizdis",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=26000380"
+  },
+  {
     "title": "Exploring FPGA Graphics",
     "url": "https://projectf.io/posts/fpga-graphics/",
-    "upvotes": 101,
+    "upvotes": 105,
     "author": "rbanffy",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25998154"
   },
   {
-    "title": "The Reshaped Mac Experience",
-    "url": "http://morrick.me/archives/9150",
-    "upvotes": 3,
-    "author": "yannovitch",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26001540"
-  },
-  {
-    "title": "Navy Finally Speaks Up About Its “UFO Patent” Experiments",
-    "url": "https://www.thedrive.com/the-war-zone/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments",
-    "upvotes": 63,
-    "author": "samizdis",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26000380"
-  },
-  {
-    "title": "Wikipedia launches new global rules to combat site abuses",
-    "url": "https://www.reuters.com/article/wikipedia-rules-int/exclusive-wikipedia-launches-new-global-rules-to-combat-site-abuses-idUSKBN2A2181",
-    "upvotes": 13,
-    "author": "aminozuur",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26000611"
+    "title": "Zone of Death",
+    "url": "https://en.wikipedia.org/wiki/Zone_of_Death_(Yellowstone)",
+    "upvotes": 18,
+    "author": "yawz",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25992374"
   },
   {
     "title": "Ask HN: Who is hiring?",
     "url": "item?id=25989764",
-    "upvotes": 409,
+    "upvotes": 410,
     "author": "whoishiring",
-    "comments": 711,
+    "comments": 724,
     "link": "https://news.ycombinator.com/item?id=25989764"
   },
   {
     "title": "Ahead of the Ripple",
     "url": "https://blockchain.news/news/ahead-of-the-ripple-xrp-sec-court-date-flare-network-declares-its-support",
-    "upvotes": 22,
+    "upvotes": 26,
     "author": "Ghafario",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25998929"
@@ -158,81 +206,33 @@
   {
     "title": "Gam-COVID-Vac phase 3 trial results: 91·6% efficacy and well tolerated",
     "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00234-8/fulltext",
-    "upvotes": 57,
+    "upvotes": 72,
     "author": "zhan_eg",
-    "comments": 29,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26000998"
   },
   {
     "title": "The Radio-Carbon Dating of the Voynich MS",
     "url": "http://www.voynich.nu/extra/carbon.html",
-    "upvotes": 37,
+    "upvotes": 39,
     "author": "Hooke",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25982774"
   },
   {
     "title": "Fastfloat – C++ library 4x faster than strtod",
     "url": "https://github.com/fastfloat/fast_float",
-    "upvotes": 84,
+    "upvotes": 92,
     "author": "dilawar",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25976913"
   },
   {
     "title": "How libraries decide which books to keep",
     "url": "https://medium.com/@fsgbooks/secrets-of-the-stacks-4ca8405f1e11",
-    "upvotes": 63,
+    "upvotes": 65,
     "author": "Tomte",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25993486"
-  },
-  {
-    "title": "The Canary Chirps",
-    "url": "https://www.hackerfactor.com/blog/index.php?/archives/911-The-Canary-Chirps.html",
-    "upvotes": 124,
-    "author": "pimterry",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25999437"
-  },
-  {
-    "title": "Tartar Relation",
-    "url": "https://en.wikipedia.org/wiki/Tartar_Relation",
-    "upvotes": 39,
-    "author": "Thevet",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25982716"
-  },
-  {
-    "title": "The cosmological constant is physics’ most embarrassing problem",
-    "url": "https://www.scientificamerican.com/article/the-cosmological-constant-is-physics-most-embarrassing-problem/",
-    "upvotes": 52,
-    "author": "samizdis",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=25993493"
-  },
-  {
-    "title": "The World’s Fastest DES Cracker",
-    "url": "https://crack.sh/",
-    "upvotes": 95,
-    "author": "segfaultbuserr",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=25996388"
-  },
-  {
-    "title": "Launch HN: Opstrace (YC S19) – open-source Datadog",
-    "url": "item?id=25991485",
-    "upvotes": 286,
-    "author": "spahl",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=25991485"
-  },
-  {
-    "title": "Cab Ride: Drive a train, forever, through a dreamlike land",
-    "url": "https://powersaurus.itch.io/cab-ride",
-    "upvotes": 522,
-    "author": "polm23",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=25980060"
   }
 ]
