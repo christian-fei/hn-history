@@ -2,41 +2,49 @@
   {
     "title": "Apache Arrow 3.0",
     "url": "https://arrow.apache.org/blog/2021/01/25/3.0.0-release/",
-    "upvotes": 134,
+    "upvotes": 168,
     "author": "kylebarron",
-    "comments": 23,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26018187"
   },
   {
     "title": "Berlin’s €2B plan to wean off Huawei",
     "url": "https://www.politico.eu/article/germany-huawei-telecoms-plan/",
-    "upvotes": 122,
+    "upvotes": 143,
     "author": "DyslexicAtheist",
-    "comments": 76,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=26017109"
   },
   {
     "title": "Threadripper 3990X: The Quest To Compile 1B Lines Of C++ On 64 Cores",
     "url": "https://blogs.embarcadero.com/threadripper-3990x-the-quest-to-compile-1-billion-lines-of-c-on-64-cores/",
-    "upvotes": 120,
+    "upvotes": 129,
     "author": "fmxexpress",
-    "comments": 80,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=26016638"
   },
   {
     "title": "I Still Use RSS",
     "url": "https://atthis.link/blog/2021/rss.html",
-    "upvotes": 352,
+    "upvotes": 386,
     "author": "todsacerdoti",
-    "comments": 145,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=26014344"
+  },
+  {
+    "title": "Go generics proposal moves to “likely accept”",
+    "url": "https://github.com/golang/go/issues/43651#issuecomment-772720103",
+    "upvotes": 27,
+    "author": "srathi",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26018649"
   },
   {
     "title": "Cargo Cult Software Engineering",
     "url": "https://stevemcconnell.com/articles/cargo-cult-software-engineering/",
-    "upvotes": 119,
+    "upvotes": 125,
     "author": "srirangr",
-    "comments": 50,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26016890"
   },
   {
@@ -44,195 +52,187 @@
     "url": "https://www.workatastartup.com/jobs/41480"
   },
   {
+    "title": "Asdf – An Extendable Version Manager",
+    "url": "https://asdf-vm.com/",
+    "upvotes": 39,
+    "author": "BerislavLopac",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26018684"
+  },
+  {
     "title": "Show HN: Haven – Run a private website to share with only the people you choose",
     "url": "https://havenweb.org/",
-    "upvotes": 387,
+    "upvotes": 395,
     "author": "mawise",
-    "comments": 171,
+    "comments": 176,
     "link": "https://news.ycombinator.com/item?id=26013715"
+  },
+  {
+    "title": "FOSDEM 2021 online – Feb 6/7 – No registration necessary",
+    "url": "https://fosdem.org/2021/",
+    "upvotes": 20,
+    "author": "Gys",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26018809"
   },
   {
     "title": "R Markdown: The Definitive Guide",
     "url": "https://bookdown.org/yihui/rmarkdown/",
-    "upvotes": 61,
+    "upvotes": 67,
     "author": "Koshkin",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26017167"
-  },
-  {
-    "title": "Sequencing your DNA with a USB dongle and open source code",
-    "url": "https://stackoverflow.blog/2021/02/03/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/",
-    "upvotes": 169,
-    "author": "TangerineDream",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=26014421"
-  },
-  {
-    "title": "Asdf – An Extendable Version Manager",
-    "url": "https://asdf-vm.com/",
-    "upvotes": 15,
-    "author": "BerislavLopac",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26018684"
-  },
-  {
-    "title": "Effective Property-Based Testing",
-    "url": "https://blog.auxon.io/2021/02/01/effective-property-based-testing/",
-    "upvotes": 44,
-    "author": "mullr",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26017341"
-  },
-  {
-    "title": "Computer Graphics from Scratch",
-    "url": "https://gabrielgambetta.com/computer-graphics-from-scratch/",
-    "upvotes": 225,
-    "author": "AlexeyBrin",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26017086"
   },
   {
     "title": "Proposal for an App History API",
     "url": "https://github.com/WICG/proposals/issues/20",
-    "upvotes": 9,
+    "upvotes": 18,
     "author": "dfabulich",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26018767"
   },
   {
-    "title": "Homebrew Python Is Not for You",
-    "url": "https://justinmayer.com/posts/homebrew-python-is-not-for-you/",
-    "upvotes": 49,
-    "author": "justinmayer",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26017852"
+    "title": "Sequencing your DNA with a USB dongle and open source code",
+    "url": "https://stackoverflow.blog/2021/02/03/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/",
+    "upvotes": 177,
+    "author": "TangerineDream",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=26014421"
+  },
+  {
+    "title": "RNA Memory Hypothesis",
+    "url": "https://scottlocklin.wordpress.com/2021/02/03/rna-memory-hypothesis/",
+    "upvotes": 33,
+    "author": "nahuel0x",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26013217"
   },
   {
     "title": "Show HN: YTT Tech – My curated database of instructional YouTube Videos",
     "url": "https://ytt-tech.com",
-    "upvotes": 14,
+    "upvotes": 21,
     "author": "jrowen",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26018098"
+  },
+  {
+    "title": "Computer Graphics from Scratch",
+    "url": "https://gabrielgambetta.com/computer-graphics-from-scratch/",
+    "upvotes": 248,
+    "author": "AlexeyBrin",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26017086"
   },
   {
     "title": "Show HN: White-Label TikTok",
     "url": "https://alvin5.com",
-    "upvotes": 11,
+    "upvotes": 20,
     "author": "boraturan",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26018296"
   },
   {
-    "title": "RNA Memory Hypothesis",
-    "url": "https://scottlocklin.wordpress.com/2021/02/03/rna-memory-hypothesis/",
-    "upvotes": 18,
-    "author": "nahuel0x",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26013217"
-  },
-  {
-    "title": "A terminal stock watcher and stock position tracker",
-    "url": "https://github.com/achannarasappa/ticker",
-    "upvotes": 329,
-    "author": "maydemir",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=26012405"
-  },
-  {
-    "title": "Create a 3D product landing page with ThreeJS and React",
-    "url": "https://richardhaines.dev/create-a-3d-product-landing-page-with-threejs-and-react/",
-    "upvotes": 44,
-    "author": "molebox",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26016397"
-  },
-  {
-    "title": "Robert Caro and Kurt Vonnegut interview each other",
-    "url": "https://www.robertcaro.com/interview-with-kurt-vonnegut/",
-    "upvotes": 6,
-    "author": "smollett",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26018824"
-  },
-  {
     "title": "The mathematics of shuffling",
     "url": "https://plus.maths.org/content/mathematics-shuffling",
-    "upvotes": 4,
+    "upvotes": 12,
     "author": "onepossibility",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26018805"
   },
   {
-    "title": "Why Losing Bonds Sports Fans",
-    "url": "https://www.sapiens.org/culture/football-fans/",
-    "upvotes": 23,
-    "author": "CapitalistCartr",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26000436"
+    "title": "Pipenv: Python Dev Workflow for Humans",
+    "url": "https://pipenv.pypa.io/en/latest/",
+    "upvotes": 15,
+    "author": "Borlands",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26018537"
+  },
+  {
+    "title": "Effective Property-Based Testing",
+    "url": "https://blog.auxon.io/2021/02/01/effective-property-based-testing/",
+    "upvotes": 51,
+    "author": "mullr",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26017341"
+  },
+  {
+    "title": "Reinventing the Browser? Beam to Take on Google, Microsoft and Mozilla",
+    "url": "https://sifted.eu/articles/beam/",
+    "upvotes": 16,
+    "author": "cpeterso",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26018285"
+  },
+  {
+    "title": "Robert Caro and Kurt Vonnegut interview each other",
+    "url": "https://www.robertcaro.com/interview-with-kurt-vonnegut/",
+    "upvotes": 11,
+    "author": "smollett",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26018824"
+  },
+  {
+    "title": "A terminal stock watcher and stock position tracker",
+    "url": "https://github.com/achannarasappa/ticker",
+    "upvotes": 335,
+    "author": "maydemir",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=26012405"
+  },
+  {
+    "title": "Create a 3D product landing page with ThreeJS and React",
+    "url": "https://richardhaines.dev/create-a-3d-product-landing-page-with-threejs-and-react/",
+    "upvotes": 46,
+    "author": "molebox",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26016397"
   },
   {
     "title": "Remote Tasmanian island to be powered by ‘blowhole’ wave energy",
     "url": "https://www.theguardian.com/australia-news/2021/feb/02/remote-tasmanian-island-to-be-powered-by-blowhole-energy-that-harnesses-waves",
-    "upvotes": 45,
+    "upvotes": 47,
     "author": "8bitsrule",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26011850"
   },
   {
-    "title": "Launch HN: Emerge (YC W21) – Monitor and reduce iOS app size",
-    "url": "item?id=26014180",
-    "upvotes": 57,
-    "author": "sond813",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26014180"
-  },
-  {
-    "title": "Show HN: Pairagraph – our attempt to build a new high-quality discussion forum",
-    "url": "http://pairagraph.com",
-    "upvotes": 46,
-    "author": "jonathanrstern",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26015186"
-  },
-  {
-    "title": "Pipenv: Python Dev Workflow for Humans",
-    "url": "https://pipenv.pypa.io/en/latest/",
-    "upvotes": 6,
-    "author": "Borlands",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26018537"
+    "title": "Why Losing Bonds Sports Fans",
+    "url": "https://www.sapiens.org/culture/football-fans/",
+    "upvotes": 25,
+    "author": "CapitalistCartr",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=26000436"
   },
   {
     "title": "Improving the C65 ROMs",
     "url": "https://c65gs.blogspot.com/2021/02/guest-post-from-bit-shifter-improving.html",
-    "upvotes": 18,
+    "upvotes": 22,
     "author": "ingve",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26012817"
   },
   {
-    "title": "Apple urged to root out rating scams as developer highlights enforcement failure",
-    "url": "https://techcrunch.com/2021/02/03/apple-urged-to-root-out-rating-scams-as-developer-highlights-ugly-cost-of-enforcement-failure/",
-    "upvotes": 150,
-    "author": "egocentric",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=26015866"
+    "title": "Launch HN: Emerge (YC W21) – Monitor and reduce iOS app size",
+    "url": "item?id=26014180",
+    "upvotes": 58,
+    "author": "sond813",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26014180"
   },
   {
-    "title": "Digital VT100",
-    "url": "https://www.oldcomputr.com/digital-vt100-1978/",
-    "upvotes": 37,
-    "author": "Breadmaker",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26016146"
+    "title": "Show HN: Pairagraph – our attempt to build a new high-quality discussion forum",
+    "url": "http://pairagraph.com",
+    "upvotes": 53,
+    "author": "jonathanrstern",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=26015186"
   },
   {
-    "title": "Ask HN: What is the oldest image online in which the link is not broken?",
-    "url": "item?id=26013354",
-    "upvotes": 139,
-    "author": "paulpauper",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=26013354"
+    "title": "Defending software build pipelines from malicious attack",
+    "url": "https://www.ncsc.gov.uk/blog-post/defending-software-build-pipelines-from-malicious-attack",
+    "upvotes": 6,
+    "author": "gjvc",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26018856"
   }
 ]
