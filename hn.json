@@ -1,188 +1,180 @@
 [
   {
-    "title": "We Don’t Use Docker",
-    "url": "https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1",
-    "upvotes": 31,
-    "author": "mundanerality",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26472452"
-  },
-  {
     "title": "How C++ Resolves a Function Call",
     "url": "https://preshing.com/20210315/how-cpp-resolves-a-function-call/",
-    "upvotes": 49,
+    "upvotes": 61,
     "author": "pcr910303",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26471883"
+  },
+  {
+    "title": "We Don’t Use Docker",
+    "url": "https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1",
+    "upvotes": 70,
+    "author": "mundanerality",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=26472452"
   },
   {
     "title": "Brain’s ‘wiring insulation’ a major factors of age-related brain deterioration",
     "url": "https://www.port.ac.uk/news-events-and-blogs/news/brains-wiring-insulation-is-one-of-the-major-factors-of-age-related-brain-deterioration",
-    "upvotes": 21,
+    "upvotes": 28,
     "author": "gmays",
-    "comments": 10,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26472127"
   },
   {
     "title": "Why the new USPS mail trucks look so weird",
     "url": "https://www.thedrive.com/news/39427/heres-why-the-new-usps-mail-trucks-look-so-weird",
-    "upvotes": 113,
+    "upvotes": 119,
     "author": "minding",
-    "comments": 156,
+    "comments": 178,
     "link": "https://news.ycombinator.com/item?id=26470546"
   },
   {
     "title": "A hacker got all my texts for $16",
     "url": "https://www.vice.com/en/article/y3g8wb/hacker-got-my-texts-16-dollars-sakari-netnumber",
-    "upvotes": 307,
+    "upvotes": 320,
     "author": "pje",
-    "comments": 164,
+    "comments": 173,
     "link": "https://news.ycombinator.com/item?id=26468892"
+  },
+  {
+    "title": "Why we decided for and against Ubuntu Core",
+    "url": "https://www.nitrokey.com/news/2021/nextbox-why-we-decided-and-against-ubuntu-core",
+    "upvotes": 117,
+    "author": "thefilmore",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=26464063"
+  },
+  {
+    "title": "Magic Mushrooms Are Decriminalized in DC as of Today",
+    "url": "https://www.washingtonian.com/2021/03/15/magic-mushrooms-are-decriminalized-in-dc-as-of-today/",
+    "upvotes": 128,
+    "author": "batmaniam",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=26469846"
   },
   {
     "title": "Rust's type system is Turing-complete",
     "url": "https://sdleffler.github.io/RustTypeSystemTuringComplete/",
     "upvotes": 60,
     "author": "lukastyrychtr",
-    "comments": 32,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26445332"
   },
   {
-    "title": "Why we decided for and against Ubuntu Core",
-    "url": "https://www.nitrokey.com/news/2021/nextbox-why-we-decided-and-against-ubuntu-core",
-    "upvotes": 116,
-    "author": "thefilmore",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=26464063"
+    "title": "In Landmark Privacy Law, California Passes Regulation Banning “Dark Patterns”",
+    "url": "https://gizmodo.com/california-passes-new-regulation-banning-dark-patterns-1846482961",
+    "upvotes": 37,
+    "author": "ryanwhitney",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26472284"
+  },
+  {
+    "title": "Psychic Numbing and Genocide",
+    "url": "https://www.apa.org/science/about/psa/2007/11/slovic",
+    "upvotes": 4,
+    "author": "areoform",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26472572"
+  },
+  {
+    "title": "When Should I Interrupt Someone?",
+    "url": "https://zwischenzugs.com/2021/03/15/when-should-i-interrupt-someone/",
+    "upvotes": 83,
+    "author": "zwischenzug",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=26463910"
+  },
+  {
+    "title": "First release of mmv for over 30 years",
+    "url": "https://github.com/rrthomas/mmv/",
+    "upvotes": 75,
+    "author": "sc3d",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26454265"
+  },
+  {
+    "title": "Launch HN: Mezli (YC W21) – Robotic restaurants that serve healthy fast food",
+    "url": "item?id=26468204",
+    "upvotes": 140,
+    "author": "kolchinski",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=26468204"
+  },
+  {
+    "title": "Immutable Linux desktop with OpenSUSE and Snaps",
+    "url": "https://ypsidanger.com/23800/running-snaps-on-opensuse-microos-desktop",
+    "upvotes": 8,
+    "author": "marcoceppi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26471986"
+  },
+  {
+    "title": "Add a Dark Theme to a Ruby on Rails App",
+    "url": "https://yann-defretin.medium.com/add-a-dark-theme-to-a-ruby-on-rails-app-898562d2b6cc",
+    "upvotes": 28,
+    "author": "hivacruz",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26454153"
+  },
+  {
+    "title": "Rockstar thanks GTA Online player who fixed load times, official update coming",
+    "url": "https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/",
+    "upvotes": 767,
+    "author": "mmhsieh",
+    "comments": 204,
+    "link": "https://news.ycombinator.com/item?id=26469753"
   },
   {
     "title": "Emacs-ng: Emacs with Deno runtime and TypeScript",
     "url": "https://github.com/emacs-ng/emacs-ng",
     "upvotes": 127,
     "author": "karlicoss",
-    "comments": 58,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=26453174"
   },
   {
-    "title": "First release of mmv for over 30 years",
-    "url": "https://github.com/rrthomas/mmv/",
-    "upvotes": 72,
-    "author": "sc3d",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26454265"
-  },
-  {
-    "title": "Magic Mushrooms Are Decriminalized in DC as of Today",
-    "url": "https://www.washingtonian.com/2021/03/15/magic-mushrooms-are-decriminalized-in-dc-as-of-today/",
-    "upvotes": 105,
-    "author": "batmaniam",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=26469846"
-  },
-  {
-    "title": "When Should I Interrupt Someone?",
-    "url": "https://zwischenzugs.com/2021/03/15/when-should-i-interrupt-someone/",
-    "upvotes": 77,
-    "author": "zwischenzug",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=26463910"
-  },
-  {
-    "title": "Add a Dark Theme to a Ruby on Rails App",
-    "url": "https://yann-defretin.medium.com/add-a-dark-theme-to-a-ruby-on-rails-app-898562d2b6cc",
-    "upvotes": 27,
-    "author": "hivacruz",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26454153"
-  },
-  {
-    "title": "In Landmark Privacy Law, California Passes Regulation Banning “Dark Patterns”",
-    "url": "https://gizmodo.com/california-passes-new-regulation-banning-dark-patterns-1846482961",
-    "upvotes": 22,
-    "author": "ryanwhitney",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26472284"
-  },
-  {
-    "title": "Launch HN: Mezli (YC W21) – Robotic restaurants that serve healthy fast food",
-    "url": "item?id=26468204",
-    "upvotes": 137,
-    "author": "kolchinski",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=26468204"
-  },
-  {
-    "title": "Rockstar thanks GTA Online player who fixed load times, official update coming",
-    "url": "https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/",
-    "upvotes": 747,
-    "author": "mmhsieh",
-    "comments": 197,
-    "link": "https://news.ycombinator.com/item?id=26469753"
-  },
-  {
-    "title": "Telegram is booming but needs advertisers and $700M soon",
-    "url": "https://www.wsj.com/articles/telegram-app-is-booming-but-needs-advertisersand-700-million-soon-11615806001",
-    "upvotes": 221,
-    "author": "kupatrupa",
-    "comments": 272,
-    "link": "https://news.ycombinator.com/item?id=26465143"
-  },
-  {
-    "title": "Immutable Linux desktop with OpenSUSE and Snaps",
-    "url": "https://ypsidanger.com/23800/running-snaps-on-opensuse-microos-desktop",
-    "upvotes": 7,
-    "author": "marcoceppi",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26471986"
+    "title": "Learn How to Tie Knots",
+    "url": "https://www.animatedknots.com",
+    "upvotes": 176,
+    "author": "say_it_as_it_is",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=26466443"
   },
   {
     "title": "Bodyport",
     "url": "https://bodyport.com/careers"
   },
   {
-    "title": "Zoom Escaper: self-sabotage audio, making your presence unbearable to others",
-    "url": "https://zoomescaper.com/",
-    "upvotes": 237,
-    "author": "DyslexicAtheist",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=26469454"
-  },
-  {
-    "title": "The Dribbblisation of Design",
-    "url": "https://medium.com/intercom-inside/the-dribbblisation-of-design-406422ccb026",
-    "upvotes": 14,
-    "author": "giansegato",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26463738"
-  },
-  {
     "title": "Learnimprov – Just the first improv game site",
     "url": "https://www.learnimprov.com/",
-    "upvotes": 130,
+    "upvotes": 133,
     "author": "herbertl",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26466711"
-  },
-  {
-    "title": "Learn How to Tie Knots",
-    "url": "https://www.animatedknots.com",
-    "upvotes": 169,
-    "author": "say_it_as_it_is",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=26466443"
   },
   {
     "title": "X0.at: upload files from cURL",
     "url": "https://x0.at/",
-    "upvotes": 137,
+    "upvotes": 138,
     "author": "sirffuzzylogik",
-    "comments": 79,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26466971"
+  },
+  {
+    "title": "Zoom Escaper: self-sabotage audio, making your presence unbearable to others",
+    "url": "https://zoomescaper.com/",
+    "upvotes": 241,
+    "author": "DyslexicAtheist",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=26469454"
   },
   {
     "title": "Sd: My Script Directory",
     "url": "https://ianthehenry.com/posts/sd-my-script-directory/",
-    "upvotes": 83,
+    "upvotes": 87,
     "author": "shadytrees",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26461051"
@@ -196,43 +188,51 @@
     "link": "https://news.ycombinator.com/item?id=26454392"
   },
   {
+    "title": "Array Databases: Concepts, Standards, Implementations [pdf]",
+    "url": "https://rd-alliance.org/system/files/Array-Databases_final-report.pdf",
+    "upvotes": 7,
+    "author": "teleforce",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26462602"
+  },
+  {
     "title": "Scrollycoding – A new way to write code walkthroughs [video]",
     "url": "https://www.youtube.com/watch?v=7O2b7vfk-mo",
-    "upvotes": 112,
+    "upvotes": 114,
     "author": "pomber",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26466474"
   },
   {
+    "title": "The Dribbblisation of Design",
+    "url": "https://medium.com/intercom-inside/the-dribbblisation-of-design-406422ccb026",
+    "upvotes": 14,
+    "author": "giansegato",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26463738"
+  },
+  {
     "title": "Germany pauses AstraZeneca vaccinations as a 'precaution'",
     "url": "https://www.reuters.com/article/health-coronavirus-germany-astrazeneca/update-1-germany-to-halt-astrazeneca-vaccinations-health-ministry-idUSL8N2LD4T9",
-    "upvotes": 271,
+    "upvotes": 273,
     "author": "sirffuzzylogik",
-    "comments": 412,
+    "comments": 418,
     "link": "https://news.ycombinator.com/item?id=26467045"
   },
   {
     "title": "Tim Berners-Lee: We need social networks where bad things happen less",
     "url": "https://www.theguardian.com/lifeandstyle/2021/mar/15/tim-berners-lee-we-need-social-networks-where-bad-things-happen-less",
-    "upvotes": 87,
+    "upvotes": 91,
     "author": "wombatmobile",
-    "comments": 97,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=26469778"
   },
   {
     "title": "The mind of God? The problem with deifying Stephen Hawking",
     "url": "https://www.prospectmagazine.co.uk/magazine/stephen-hawking-celebrity-physicist-flaws",
-    "upvotes": 31,
+    "upvotes": 32,
     "author": "miobrien",
-    "comments": 59,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26466435"
-  },
-  {
-    "title": "Array Databases: Concepts, Standards, Implementations [pdf]",
-    "url": "https://rd-alliance.org/system/files/Array-Databases_final-report.pdf",
-    "upvotes": 6,
-    "author": "teleforce",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26462602"
   }
 ]
