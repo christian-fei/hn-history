@@ -1,112 +1,120 @@
 [
   {
+    "title": "Firefox 87 trims HTTP Referrers by default to protect user privacy",
+    "url": "https://blog.mozilla.org/security/2021/03/22/firefox-87-trims-http-referrers-by-default-to-protect-user-privacy/",
+    "upvotes": 85,
+    "author": "twapi",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26539673"
+  },
+  {
     "title": "Live feed from Iceland erupting volcano [video]",
     "url": "https://www.ruv.is/frett/2021/03/20/live-feed-from-iceland-volcano",
-    "upvotes": 273,
+    "upvotes": 311,
     "author": "lknik",
-    "comments": 75,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=26538005"
   },
   {
     "title": "The absolute worst scenario happened",
     "url": "https://www.reddit.com/r/sysadmin/comments/ma4mwl/the_absolute_worst_case_scenario_happened_what",
-    "upvotes": 71,
+    "upvotes": 174,
     "author": "logronoide",
-    "comments": 18,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26539495"
-  },
-  {
-    "title": "Opticsim.jl: Optical Simulation Software",
-    "url": "https://github.com/microsoft/OpticSim.jl",
-    "upvotes": 53,
-    "author": "newswasboring",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26538150"
-  },
-  {
-    "title": "GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models",
-    "url": "https://github.com/EleutherAI/gpt-neo/",
-    "upvotes": 485,
-    "author": "pizza",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=26534000"
   },
   {
     "title": "FediDB – Developer Tools for ActivityPub",
     "url": "https://fedidb.org/",
-    "upvotes": 8,
+    "upvotes": 20,
     "author": "LaSombra",
-    "comments": 3,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26539292"
+  },
+  {
+    "title": "Opticsim.jl: Optical Simulation Software",
+    "url": "https://github.com/microsoft/OpticSim.jl",
+    "upvotes": 67,
+    "author": "newswasboring",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26538150"
+  },
+  {
+    "title": "“I’ve made a Cursed USB-C 2.0 device”",
+    "url": "https://twitter.com/mifune/status/1373564866443759617",
+    "upvotes": 51,
+    "author": "DyslexicAtheist",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26539305"
   },
   {
     "title": "Backblaze submitting names and sizes of files in B2 buckets to Facebook",
     "url": "https://twitter.com/Benjojo12/status/1373707799054712836",
-    "upvotes": 787,
+    "upvotes": 817,
     "author": "celsoazevedo",
-    "comments": 378,
+    "comments": 392,
     "link": "https://news.ycombinator.com/item?id=26536019"
   },
   {
     "title": "Multithreading for Game Engines",
     "url": "https://vkguide.dev/docs/extra-chapter/multithreading/",
-    "upvotes": 181,
+    "upvotes": 188,
     "author": "vblanco",
-    "comments": 52,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26529200"
+  },
+  {
+    "title": "The Claude Glass Changed the Way People Saw Landscapes",
+    "url": "https://daily.jstor.org/the-claude-glass-revolutionized-the-way-people-saw-landscapes/",
+    "upvotes": 10,
+    "author": "Hooke",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26524041"
   },
   {
     "title": "The Magic Kernel",
     "url": "http://www.johncostella.com/magic/",
-    "upvotes": 150,
+    "upvotes": 157,
     "author": "aleyan",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26513518"
-  },
-  {
-    "title": "Swarms of spiders flee into homes to escape NSW floods",
-    "url": "https://www.theguardian.com/environment/2021/mar/22/horrific-swarms-of-spiders-flee-into-homes-and-up-legs-to-escape-nsw-floods",
-    "upvotes": 23,
-    "author": "mpsq",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26539034"
-  },
-  {
-    "title": "The Infinite Drum Machine",
-    "url": "https://experiments.withgoogle.com/ai/drum-machine/view",
-    "upvotes": 207,
-    "author": "based2",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26533792"
-  },
-  {
-    "title": "Show HN: SimpleR State – simplest state management for React",
-    "url": "https://github.com/arnelenero/simpler-state",
-    "upvotes": 16,
-    "author": "aenero",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26525526"
-  },
-  {
-    "title": "The operative system for a decarbonised, decentralised, digitised energy system",
-    "url": "http://www.nicolabortignon.com/the-operative-system-for-a-decarbonised-decentralised-digitised-energy-system/",
-    "upvotes": 6,
-    "author": "snickmy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26538982"
   },
   {
     "title": "Updating a 50 terabyte PostgreSQL database",
     "url": "https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7",
-    "upvotes": 114,
+    "upvotes": 127,
     "author": "whitepoplar",
-    "comments": 36,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26535357"
+  },
+  {
+    "title": "GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models",
+    "url": "https://github.com/EleutherAI/gpt-neo/",
+    "upvotes": 490,
+    "author": "pizza",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=26534000"
+  },
+  {
+    "title": "Show HN: SimpleR State – simplest state management for React",
+    "url": "https://github.com/arnelenero/simpler-state",
+    "upvotes": 19,
+    "author": "aenero",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26525526"
+  },
+  {
+    "title": "Swarms of spiders flee into homes to escape NSW floods",
+    "url": "https://www.theguardian.com/environment/2021/mar/22/horrific-swarms-of-spiders-flee-into-homes-and-up-legs-to-escape-nsw-floods",
+    "upvotes": 34,
+    "author": "mpsq",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26539034"
   },
   {
     "title": "Loopy Pipe Network Converts back-and-forth flow into one-way flow",
     "url": "https://physics.aps.org/articles/v14/42",
-    "upvotes": 77,
+    "upvotes": 78,
     "author": "sohkamyung",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26535918"
@@ -114,50 +122,42 @@
   {
     "title": "Attributes and Predictors of Long Covid",
     "url": "https://www.nature.com/articles/s41591-021-01292-y",
-    "upvotes": 40,
+    "upvotes": 47,
     "author": "luu",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26537775"
-  },
-  {
-    "title": "A few notes on message passing",
-    "url": "http://blog.erlang.org/message-passing/",
-    "upvotes": 132,
-    "author": "srijan4",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26514476"
-  },
-  {
-    "title": "“I’ve made a Cursed USB-C 2.0 device”",
-    "url": "https://twitter.com/mifune/status/1373564866443759617",
-    "upvotes": 7,
-    "author": "DyslexicAtheist",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26539305"
   },
   {
     "title": "Building My Own Yahoo Pipes",
     "url": "https://taoofmac.com/space/blog/2021/03/20/1945",
-    "upvotes": 25,
+    "upvotes": 35,
     "author": "rcarmo",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26526436"
   },
   {
-    "title": "Regexploit: DoS-Able Regular Expressions",
-    "url": "https://blog.doyensec.com/2021/03/11/regexploit.html",
-    "upvotes": 52,
-    "author": "dedalus",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26519107"
+    "title": "The operative system for a decarbonised, decentralised, digitised energy system",
+    "url": "http://www.nicolabortignon.com/the-operative-system-for-a-decarbonised-decentralised-digitised-energy-system/",
+    "upvotes": 7,
+    "author": "snickmy",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26538982"
   },
   {
     "title": "Distributed Systems: A free online class",
     "url": "http://www.distributedsystemscourse.com/",
-    "upvotes": 81,
+    "upvotes": 91,
     "author": "roperzh",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26534819"
+  },
+  {
+    "title": "Ask HN: How do I improve boring README page?",
+    "url": "item?id=26537805",
+    "upvotes": 45,
+    "author": "flymetothemoon",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=26537805"
   },
   {
     "title": "Work at YC and help YC startups hire great people",
@@ -166,73 +166,73 @@
   {
     "title": "Don't End the Week with Nothing",
     "url": "https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing",
-    "upvotes": 739,
+    "upvotes": 748,
     "author": "mooreds",
-    "comments": 224,
+    "comments": 231,
     "link": "https://news.ycombinator.com/item?id=26531297"
   },
   {
-    "title": "YouTube and Patreon Still Aren’t Paying the Rent for Most Creatives",
-    "url": "https://marker.medium.com/if-you-cant-afford-to-do-it-for-free-don-t-be-a-creator-569488f3ef72",
-    "upvotes": 50,
-    "author": "herbertl",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=26539103"
-  },
-  {
-    "title": "Ask HN: How do I improve boring README page?",
-    "url": "item?id=26537805",
-    "upvotes": 36,
-    "author": "flymetothemoon",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26537805"
+    "title": "Regexploit: DoS-Able Regular Expressions",
+    "url": "https://blog.doyensec.com/2021/03/11/regexploit.html",
+    "upvotes": 60,
+    "author": "dedalus",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26519107"
   },
   {
     "title": "Richard Stallman is coming back to the board of the FSF",
     "url": "http://techrights.org/2021/03/21/richard-stallman-is-coming-back-to-the-board-of-the-free-software-foundation-founded-by-himself-35-years-ago/",
-    "upvotes": 552,
+    "upvotes": 579,
     "author": "wrycoder",
-    "comments": 499,
+    "comments": 534,
     "link": "https://news.ycombinator.com/item?id=26535224"
-  },
-  {
-    "title": "Dear Young Artist [pdf]",
-    "url": "http://www.stephenshore.net/writing/lettertoayoungartist.pdf",
-    "upvotes": 23,
-    "author": "dmurthy",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26521766"
-  },
-  {
-    "title": "Counterfeit Mitutoyo digital calipers",
-    "url": "https://canadianhobbymetalworkers.com/threads/counterfeit-mitutoyo-digital-calipers.1182/",
-    "upvotes": 55,
-    "author": "fortran77",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26536829"
   },
   {
     "title": "SF poop-testing startup, once compared to Theranos, charged in $60M fraud scheme",
     "url": "https://www.sfgate.com/crime/article/ubiome-richman-apte-sec-filing-charges-fraud-16042042.php",
-    "upvotes": 386,
+    "upvotes": 392,
     "author": "ic0n0cl4st",
     "comments": 326,
     "link": "https://news.ycombinator.com/item?id=26531087"
+  },
+  {
+    "title": "Cărturești Carusel Bookstore - now one of the most beautiful bookstores",
+    "url": "https://www.atlasobscura.com/places/carture-ti-carusel-bookstore",
+    "upvotes": 12,
+    "author": "peter_d_sherman",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26537206"
+  },
+  {
+    "title": "Dear Young Artist [pdf]",
+    "url": "http://www.stephenshore.net/writing/lettertoayoungartist.pdf",
+    "upvotes": 26,
+    "author": "dmurthy",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26521766"
   },
   {
     "title": "How NetNewsWire Handles Threading",
     "url": "https://inessential.com/2021/03/20/how_netnewswire_handles_threading",
     "upvotes": 22,
     "author": "zdw",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26536423"
   },
   {
-    "title": "NASA completes engine test firing of moon rocket on 2nd try",
-    "url": "https://phys.org/news/2021-03-nasa-moon-rocket-2nd.html",
-    "upvotes": 82,
-    "author": "dnetesn",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=26511732"
+    "title": "The Infinite Drum Machine",
+    "url": "https://experiments.withgoogle.com/ai/drum-machine/view",
+    "upvotes": 209,
+    "author": "based2",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26533792"
+  },
+  {
+    "title": "CutiePi – A Raspberry Pi 4 tablet",
+    "url": "https://cutiepi.io/",
+    "upvotes": 425,
+    "author": "captn3m0",
+    "comments": 156,
+    "link": "https://news.ycombinator.com/item?id=26530103"
   }
 ]
