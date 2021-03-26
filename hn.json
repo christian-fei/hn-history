@@ -1,40 +1,48 @@
 [
   {
-    "title": "Joe Is Wrong",
-    "url": "http://goran.krampe.se/2009/06/26/joe-is-wrong/",
-    "upvotes": 41,
-    "author": "astigsen",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26590559"
-  },
-  {
     "title": "The Drivers Cooperative",
     "url": "https://www.drivers.coop/",
-    "upvotes": 308,
+    "upvotes": 361,
     "author": "pasquinelli",
-    "comments": 116,
+    "comments": 146,
     "link": "https://news.ycombinator.com/item?id=26588607"
   },
   {
     "title": "Permission.site",
     "url": "https://permission.site/",
-    "upvotes": 442,
+    "upvotes": 466,
     "author": "valand",
-    "comments": 124,
+    "comments": 129,
     "link": "https://news.ycombinator.com/item?id=26588480"
+  },
+  {
+    "title": "It’s Not Wrong that “”.length == 7",
+    "url": "https://hsivonen.fi/string-length/",
+    "upvotes": 8,
+    "author": "kevincox",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26591373"
   },
   {
     "title": "Emoji Under the Hood",
     "url": "https://tonsky.me/blog/emoji/",
-    "upvotes": 207,
+    "upvotes": 232,
     "author": "kogir",
-    "comments": 56,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26574008"
+  },
+  {
+    "title": "Google’s top security teams unilaterally shut down a counterterrorism operation",
+    "url": "https://www.technologyreview.com/2021/03/26/1021318/google-security-shut-down-counter-terrorist-us-ally/",
+    "upvotes": 57,
+    "author": "Reventlov",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26590862"
   },
   {
     "title": "GIMP PyDev",
     "url": "https://github.com/isman7/gimp-python-development",
-    "upvotes": 40,
+    "upvotes": 46,
     "author": "app4soft",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26589782"
@@ -42,9 +50,9 @@
   {
     "title": "Honest Microservices",
     "url": "https://danielbmarkham.com/honest-microservices/",
-    "upvotes": 23,
+    "upvotes": 41,
     "author": "tate",
-    "comments": 3,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26580472"
   },
   {
@@ -52,49 +60,57 @@
     "url": "https://gustav-technologies-inc.breezy.hr/p/63df0f7204c501"
   },
   {
-    "title": "AviatorScript – A high performance scripting language hosted on the JVM",
-    "url": "https://github.com/killme2008/aviatorscript/blob/master/README-EN.md",
-    "upvotes": 12,
-    "author": "nalenth",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26590485"
+    "title": "How to implement a hash table in C",
+    "url": "https://benhoyt.com/writings/hash-table-in-c/",
+    "upvotes": 28,
+    "author": "benhoyt",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26590234"
   },
   {
-    "title": "Fintech Comes to America at Last",
-    "url": "https://www.economist.com/leaders/2021/03/27/fintech-comes-to-america-at-last",
-    "upvotes": 14,
-    "author": "known",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26590557"
+    "title": "Who Owns England’s Woods?",
+    "url": "https://whoownsengland.org/2020/11/02/who-owns-englands-woods/",
+    "upvotes": 8,
+    "author": "rvieira",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26586609"
+  },
+  {
+    "title": "Wkhtmltopdf: Command line tools to render HTML into PDF",
+    "url": "https://wkhtmltopdf.org/",
+    "upvotes": 64,
+    "author": "polm23",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=26578826"
   },
   {
     "title": "At Home with Down Syndrome",
     "url": "https://www.thenewatlantis.com/publications/at-home-with-down-syndrome",
-    "upvotes": 59,
+    "upvotes": 61,
     "author": "isallthings",
-    "comments": 20,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26585547"
   },
   {
     "title": "The Sound of 1-bit: Musical Creativity on the 48k Sinclair ZX Spectrum",
     "url": "https://www.gamejournal.it/the-sound-of-1-bit-technical-constraint-as-a-driver-for-musical-creativity-on-the-48k-sinclair-zx-spectrum/",
-    "upvotes": 36,
+    "upvotes": 39,
     "author": "beagle3",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26587000"
   },
   {
     "title": "All my servers have an 8 GB empty file on disk",
     "url": "https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/",
-    "upvotes": 1104,
+    "upvotes": 1124,
     "author": "sonicrocketman",
-    "comments": 588,
+    "comments": 597,
     "link": "https://news.ycombinator.com/item?id=26583791"
   },
   {
     "title": "Ancient Egyptian manual reveals new details about mummification",
     "url": "https://humanities.ku.dk/news/2021/ancient-egyptian-manual-reveals-new-details-about-mummification/",
-    "upvotes": 28,
+    "upvotes": 34,
     "author": "diodorus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26589332"
@@ -102,87 +118,87 @@
   {
     "title": "Open source Heroku Like Platform on premises",
     "url": "https://github.com/porter-dev/porter",
-    "upvotes": 142,
+    "upvotes": 149,
     "author": "markomunich",
-    "comments": 23,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26587637"
   },
   {
-    "title": "Apple User Group Meeting Recording with Steve Wozniak",
+    "title": "Apple users group meeting with Steve Wozniak",
     "url": "https://archive.org/details/camvchm_000069/camvchm_000069_t01_a_access.mp3",
-    "upvotes": 54,
+    "upvotes": 57,
     "author": "WoodenChair",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26588560"
   },
   {
-    "title": "Wkhtmltopdf: Command line tools to render HTML into PDF",
-    "url": "https://wkhtmltopdf.org/",
-    "upvotes": 53,
-    "author": "polm23",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26578826"
-  },
-  {
     "title": "Can My Water Cooled Raspberry Pi Cluster Beat My MacBook?",
     "url": "https://www.the-diy-life.com/can-my-water-cooled-raspberry-pi-cluster-beat-my-macbook/",
-    "upvotes": 91,
+    "upvotes": 99,
     "author": "gilad",
-    "comments": 27,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26587469"
+  },
+  {
+    "title": "Transiting the Suez Canal in a Private Sailboat",
+    "url": "http://www.sailsafely.com/suez_canal.htm",
+    "upvotes": 225,
+    "author": "dreamcompiler",
+    "comments": 151,
+    "link": "https://news.ycombinator.com/item?id=26588272"
   },
   {
     "title": "Amdahl's Law",
     "url": "https://en.wikipedia.org/wiki/Amdahl%27s_law",
-    "upvotes": 89,
+    "upvotes": 91,
     "author": "Bluestein",
-    "comments": 51,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26587026"
   },
   {
     "title": "Egg: E-Graphs Good",
     "url": "https://egraphs-good.github.io/",
-    "upvotes": 144,
+    "upvotes": 148,
     "author": "alex_hirner",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26587209"
   },
   {
     "title": "Bad Apple on an Apple //e: playing video on a stock 1 MHz Apple II [video]",
     "url": "https://www.youtube.com/watch?v=X4faogRMOL4",
-    "upvotes": 99,
+    "upvotes": 102,
     "author": "apricot",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26586820"
   },
   {
-    "title": "Transiting the Suez Canal in a Private Sailboat",
-    "url": "http://www.sailsafely.com/suez_canal.htm",
-    "upvotes": 213,
-    "author": "dreamcompiler",
-    "comments": 132,
-    "link": "https://news.ycombinator.com/item?id=26588272"
-  },
-  {
-    "title": "How to implement a hash table",
-    "url": "https://benhoyt.com/writings/hash-table-in-c/",
-    "upvotes": 10,
-    "author": "benhoyt",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26590234"
-  },
-  {
     "title": "Neo-Geo Assembly Programming for the Absolute Beginner",
     "url": "https://www.ajworld.net/neogeodev/beginner/",
-    "upvotes": 50,
+    "upvotes": 53,
     "author": "crapvoter",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26583131"
+  },
+  {
+    "title": "Ask HN: Why do companies ask employees to set goals?",
+    "url": "item?id=26591035",
+    "upvotes": 16,
+    "author": "wonderingdev",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26591035"
+  },
+  {
+    "title": "Joe Is Wrong",
+    "url": "http://goran.krampe.se/2009/06/26/joe-is-wrong/",
+    "upvotes": 56,
+    "author": "astigsen",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=26590559"
   },
   {
     "title": "The algorithms that make Instacart roll",
     "url": "https://spectrum.ieee.org/artificial-intelligence/machine-learning/the-algorithms-that-make-instacart-roll",
-    "upvotes": 56,
+    "upvotes": 59,
     "author": "mbroncano",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26585495"
@@ -190,49 +206,33 @@
   {
     "title": "Is that ship still stuck?",
     "url": "https://istheshipstillstuck.com/",
-    "upvotes": 1250,
+    "upvotes": 1270,
     "author": "ColinWright",
-    "comments": 1079,
+    "comments": 1101,
     "link": "https://news.ycombinator.com/item?id=26585282"
   },
   {
     "title": "Phones and apps reduce your ability to focus even when they don’t distract you",
     "url": "https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you",
-    "upvotes": 523,
+    "upvotes": 528,
     "author": "wgoto",
-    "comments": 202,
-    "link": "https://news.ycombinator.com/item?id=26582729"
-  },
-  {
-    "title": "Why OO Sucks by Joe Armstrong",
-    "url": "http://harmful.cat-v.org/software/OO_programming/why_oo_sucks",
-    "upvotes": 171,
-    "author": "crazypython",
     "comments": 204,
-    "link": "https://news.ycombinator.com/item?id=26586829"
+    "link": "https://news.ycombinator.com/item?id=26582729"
   },
   {
     "title": "HMM Rotterdam appears to be diverting to avoid congestion at Suez",
     "url": "https://twitter.com/MarineTraffic/status/1375353647937290245/photo/1",
-    "upvotes": 24,
+    "upvotes": 31,
     "author": "Jyaif",
-    "comments": 22,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26590105"
   },
   {
-    "title": "Ultrasound Networking",
-    "url": "https://www.anfractuosity.com/projects/ultrasound-networking/",
-    "upvotes": 27,
-    "author": "funspectre",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26583457"
-  },
-  {
-    "title": "The Spy of Night and Fog",
-    "url": "https://www.damninteresting.com/the-spy-of-night-and-fog/",
-    "upvotes": 12,
-    "author": "ca98am79",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26583161"
+    "title": "Why OO Sucks by Joe Armstrong",
+    "url": "http://harmful.cat-v.org/software/OO_programming/why_oo_sucks",
+    "upvotes": 175,
+    "author": "crazypython",
+    "comments": 218,
+    "link": "https://news.ycombinator.com/item?id=26586829"
   }
 ]
