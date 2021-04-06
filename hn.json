@@ -1,148 +1,172 @@
 [
   {
-    "title": "MIT suspending SAT/ACT requirement for next application cycle",
-    "url": "https://mitadmissions.org/blogs/entry/we-are-suspending-our-sat-act-requirement-for-the-2021-2022-application-cycle-as-well/",
-    "upvotes": 43,
-    "author": "jchernan",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26715536"
-  },
-  {
-    "title": "The Fastest, Safest PNG Decoder in the World",
+    "title": "Fast, Safe PNG Decoder",
     "url": "https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html",
-    "upvotes": 93,
+    "upvotes": 144,
     "author": "est31",
-    "comments": 22,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26714831"
-  },
-  {
-    "title": "Intel Launches 10nm 'Ice Lake' Datacenter CPU with Up to 40 Cores",
-    "url": "https://www.hpcwire.com/2021/04/06/intel-launches-10nm-ice-lake-datacenter-cpu-with-up-to-40-cores/",
-    "upvotes": 109,
-    "author": "rbanffy",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=26713976"
-  },
-  {
-    "title": "Eliminating Data Races in Firefox",
-    "url": "https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/",
-    "upvotes": 221,
-    "author": "caution",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26713037"
-  },
-  {
-    "title": "How We Bootstrapped a $1M ARR Email Client",
-    "url": "https://missiveapp.com/blog/how-we-built-1m-arr-email-client",
-    "upvotes": 77,
-    "author": "plehoux",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26713949"
   },
   {
     "title": "I Refused to Become an FBI Informant. The Government Put Me on the No Fly List",
     "url": "https://www.aclu.org/news/national-security/i-refused-to-become-an-fbi-informant-and-the-government-put-me-on-the-no-fly-list/",
-    "upvotes": 99,
+    "upvotes": 301,
     "author": "jbegley",
-    "comments": 7,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26715644"
+  },
+  {
+    "title": "Eliminating Data Races in Firefox",
+    "url": "https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/",
+    "upvotes": 246,
+    "author": "caution",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=26713037"
+  },
+  {
+    "title": "Intel Launches 10nm 'Ice Lake' Datacenter CPU with Up to 40 Cores",
+    "url": "https://www.hpcwire.com/2021/04/06/intel-launches-10nm-ice-lake-datacenter-cpu-with-up-to-40-cores/",
+    "upvotes": 125,
+    "author": "rbanffy",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=26713976"
+  },
+  {
+    "title": "Bevy 0.5: data oriented game engine built in Rust",
+    "url": "https://bevyengine.org/news/bevy-0-5/",
+    "upvotes": 30,
+    "author": "_cart",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26716166"
+  },
+  {
+    "title": "How We Bootstrapped a $1M ARR Email Client",
+    "url": "https://missiveapp.com/blog/how-we-built-1m-arr-email-client",
+    "upvotes": 91,
+    "author": "plehoux",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=26713949"
   },
   {
     "title": "Apache Mesos to be moved to Attic",
     "url": "https://lists.apache.org/thread.html/rab2a820507f7c846e54a847398ab20f47698ec5bce0c8e182bfe51ba%40%3Cdev.mesos.apache.org%3E",
-    "upvotes": 112,
+    "upvotes": 124,
     "author": "coolandsmartrr",
-    "comments": 60,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26713082"
   },
   {
     "title": "Django 3.2 – News on compressed fixtures and fixtures compression",
     "url": "https://www.paulox.net/2021/04/06/django-32-news-on-compressed-fixtures-and-fixtures-compression/",
-    "upvotes": 51,
+    "upvotes": 58,
     "author": "pauloxnet",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26713534"
   },
   {
     "title": "Breaking GitHub Private Pages for $35k",
     "url": "https://robertchen.cc/blog/2021/04/03/github-pages-xss",
-    "upvotes": 661,
+    "upvotes": 675,
     "author": "SuperSandro2000",
-    "comments": 89,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=26709159"
+  },
+  {
+    "title": "Parser Combinators in Elixir",
+    "url": "https://serokell.io/blog/parser-combinators-in-elixir",
+    "upvotes": 94,
+    "author": "ltrapr",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26711997"
   },
   {
     "title": "ContentFly",
     "url": "https://www.ycombinator.com/companies/contentfly"
   },
   {
-    "title": "Parser Combinators in Elixir",
-    "url": "https://serokell.io/blog/parser-combinators-in-elixir",
-    "upvotes": 80,
-    "author": "ltrapr",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26711997"
+    "title": "Rust in the Android Platform",
+    "url": "https://security.googleblog.com/2021/04/rust-in-android-platform.html",
+    "upvotes": 30,
+    "author": "theafh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26714478"
   },
   {
-    "title": "IPython as a System Shell",
-    "url": "https://ipython.readthedocs.io/en/stable/interactive/shell.html",
-    "upvotes": 102,
-    "author": "laktak",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=26711434"
+    "title": "Iron Fish – Privacy for Everyone",
+    "url": "https://ironfish.network/blog/2021/03/06/introducing-ironfish",
+    "upvotes": 12,
+    "author": "uptown",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26715146"
   },
   {
     "title": "Fselect: Find files with SQL-like queries",
     "url": "https://github.com/jhspetersson/fselect",
-    "upvotes": 124,
+    "upvotes": 138,
     "author": "ingve",
-    "comments": 28,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26697932"
   },
   {
-    "title": "Confirmed, We Live in a Simulation",
-    "url": "https://www.scientificamerican.com/article/confirmed-we-live-in-a-simulation/",
-    "upvotes": 5,
-    "author": "sandebert",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26715535"
+    "title": "IPython as a System Shell",
+    "url": "https://ipython.readthedocs.io/en/stable/interactive/shell.html",
+    "upvotes": 105,
+    "author": "laktak",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26711434"
   },
   {
     "title": "Things I Hate About PostgreSQL",
     "url": "https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791",
-    "upvotes": 325,
+    "upvotes": 337,
     "author": "latch",
-    "comments": 178,
+    "comments": 193,
     "link": "https://news.ycombinator.com/item?id=26709019"
   },
   {
     "title": "The Computational Expressiveness of a Model Train Set: A Paperlet",
     "url": "https://www.scottaaronson.com/blog/?p=5402",
-    "upvotes": 13,
+    "upvotes": 17,
     "author": "feross",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26695456"
   },
   {
-    "title": "Lyra – enabling voice calls for the next billion users",
+    "title": "Playwright-test – cross-browser end-to-end test suite with Playwright",
+    "url": "https://github.com/microsoft/playwright-test",
+    "upvotes": 8,
+    "author": "roschdal",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26696363"
+  },
+  {
+    "title": "Google open-sources the Lyra audio codec",
     "url": "https://opensource.googleblog.com/2021/04/lyra-enabling-voice-calls-for-next-billion-users.html",
-    "upvotes": 67,
+    "upvotes": 76,
     "author": "chmaynard",
-    "comments": 67,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26713790"
   },
   {
     "title": "ClojureScript 1.10.844",
     "url": "https://clojurescript.org/news/2021-04-06-release",
-    "upvotes": 88,
+    "upvotes": 95,
     "author": "tosh",
-    "comments": 35,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26713329"
+  },
+  {
+    "title": "It looks like Signal isn't as open source as you thought it was anymore",
+    "url": "https://www.androidpolice.com/2021/04/06/it-looks-like-signal-isnt-as-open-source-as-you-thought-it-was-anymore/",
+    "upvotes": 67,
+    "author": "raybb",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26715223"
   },
   {
     "title": "Ludus Latrunculorum",
     "url": "https://en.wikipedia.org/wiki/Ludus_latrunculorum",
-    "upvotes": 10,
+    "upvotes": 14,
     "author": "diodorus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26699986"
@@ -150,89 +174,65 @@
   {
     "title": "The Facebook phone numbers are now searchable in Have I Been Pwned",
     "url": "https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/",
-    "upvotes": 439,
+    "upvotes": 445,
     "author": "helb",
-    "comments": 188,
+    "comments": 196,
     "link": "https://news.ycombinator.com/item?id=26709848"
   },
   {
     "title": "Kallithea – Self-hosted alternative to GitHub",
     "url": "https://kallithea-scm.org/",
-    "upvotes": 157,
+    "upvotes": 161,
     "author": "dragonsh",
-    "comments": 106,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=26709357"
   },
   {
-    "title": "Branch Specialization",
-    "url": "https://distill.pub/2020/circuits/branch-specialization/",
-    "upvotes": 21,
-    "author": "rrherr",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26713520"
+    "title": "Maslow's Pyramid of Code Review",
+    "url": "http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html",
+    "upvotes": 55,
+    "author": "nkjoep",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26711551"
   },
   {
     "title": "Neuroscientists discover molecular mechanism that allows memories to form",
     "url": "https://news.mit.edu/2020/engram-memories-form-1005",
-    "upvotes": 133,
+    "upvotes": 138,
     "author": "andyxor",
-    "comments": 57,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=26709053"
   },
   {
     "title": "Google’s copying of the Java SE API was fair use [pdf]",
     "url": "https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf",
-    "upvotes": 3870,
+    "upvotes": 3877,
     "author": "pdoconnell",
-    "comments": 892,
+    "comments": 893,
     "link": "https://news.ycombinator.com/item?id=26699106"
   },
   {
-    "title": "Maslow's Pyramid of Code Review",
-    "url": "http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html",
-    "upvotes": 48,
-    "author": "nkjoep",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26711551"
-  },
-  {
-    "title": "It looks like Signal isn't as open source as you thought it was anymore",
-    "url": "https://www.androidpolice.com/2021/04/06/it-looks-like-signal-isnt-as-open-source-as-you-thought-it-was-anymore/",
-    "upvotes": 45,
-    "author": "raybb",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26715223"
+    "title": "Branch Specialization",
+    "url": "https://distill.pub/2020/circuits/branch-specialization/",
+    "upvotes": 24,
+    "author": "rrherr",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26713520"
   },
   {
     "title": "Django 3.2",
     "url": "https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/",
-    "upvotes": 338,
+    "upvotes": 348,
     "author": "samirelanduk",
-    "comments": 143,
+    "comments": 145,
     "link": "https://news.ycombinator.com/item?id=26710013"
-  },
-  {
-    "title": "Migration to PostgreSQL databases can also be done using FDW",
-    "url": "https://www.migops.com/blog/2021/02/15/role-of-foreign-data-wrappers-in-migrations-to-postgresql",
-    "upvotes": 3,
-    "author": "avi_vallarapu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26715221"
   },
   {
     "title": "Facebook Analytics will no longer be available",
     "url": "https://www.facebook.com/business/help/966883707418907",
-    "upvotes": 196,
+    "upvotes": 199,
     "author": "oblib",
-    "comments": 92,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=26708061"
-  },
-  {
-    "title": "Preview of Microsoft Build of OpenJDK",
-    "url": "https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/",
-    "upvotes": 74,
-    "author": "velmu",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26713028"
   }
 ]
