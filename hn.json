@@ -1,56 +1,64 @@
 [
   {
-    "title": "Booking.com fined €475,000 for reporting data breach too late",
-    "url": "https://therecord.media/booking-com-fined-e475000-for-reporting-data-breach-too-late/",
-    "upvotes": 116,
-    "author": "DyslexicAtheist",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=26708959"
-  },
-  {
     "title": "Breaking GitHub Private Pages for $35k",
     "url": "https://robertchen.cc/blog/2021/04/03/github-pages-xss",
-    "upvotes": 101,
+    "upvotes": 130,
     "author": "SuperSandro2000",
-    "comments": 13,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26709159"
   },
   {
-    "title": "Show HN: A hackable, minimal, fast TUI file explorer",
-    "url": "https://github.com/sayanarijit/xplr",
-    "upvotes": 106,
-    "author": "sayanarijit",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26708089"
+    "title": "The Facebook Phone Numbers Are Now Searchable in Have I Been Pwned",
+    "url": "https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/",
+    "upvotes": 30,
+    "author": "helb",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26709848"
   },
   {
-    "title": "Kallithea – Self-hosted alternative to GitHub",
-    "url": "https://kallithea-scm.org/",
-    "upvotes": 25,
-    "author": "dragonsh",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26709357"
+    "title": "Show HN: Xplr – A hackable, minimal, fast TUI file explorer, written in Rust",
+    "url": "https://github.com/sayanarijit/xplr",
+    "upvotes": 112,
+    "author": "sayanarijit",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26708089"
   },
   {
     "title": "Facebook Analytics will no longer be available",
     "url": "https://www.facebook.com/business/help/966883707418907",
-    "upvotes": 79,
+    "upvotes": 87,
     "author": "oblib",
-    "comments": 34,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26708061"
+  },
+  {
+    "title": "Things I Hate About PostgreSQL",
+    "url": "https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791",
+    "upvotes": 52,
+    "author": "latch",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26709019"
+  },
+  {
+    "title": "Kallithea – Self-hosted alternative to GitHub",
+    "url": "https://kallithea-scm.org/",
+    "upvotes": 29,
+    "author": "dragonsh",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26709357"
   },
   {
     "title": "How Browsers Lay Out Web Pages",
     "url": "https://browser.engineering/layout.html",
-    "upvotes": 156,
+    "upvotes": 166,
     "author": "pavpanchekha",
-    "comments": 21,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26707368"
   },
   {
     "title": "Yahoo Answers to shut down May 4, 2021",
     "url": "https://uk.help.yahoo.com/kb/SLN35642.html",
-    "upvotes": 462,
+    "upvotes": 464,
     "author": "Gaessaki",
     "comments": 311,
     "link": "https://news.ycombinator.com/item?id=26701045"
@@ -58,9 +66,9 @@
   {
     "title": "Google’s copying of the Java SE API was fair use [pdf]",
     "url": "https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf",
-    "upvotes": 3668,
+    "upvotes": 3672,
     "author": "pdoconnell",
-    "comments": 855,
+    "comments": 856,
     "link": "https://news.ycombinator.com/item?id=26699106"
   },
   {
@@ -68,73 +76,65 @@
     "url": "https://ycombinator.com/jobs"
   },
   {
-    "title": "10 Things I Hate About PostgreSQL",
-    "url": "https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791",
-    "upvotes": 35,
-    "author": "latch",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26709019"
-  },
-  {
-    "title": "The Facebook Phone Numbers Are Now Searchable in Have I Been Pwned",
-    "url": "https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/",
-    "upvotes": 5,
-    "author": "helb",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26709848"
-  },
-  {
-    "title": "“I’ll Finish It This Week” and Other Lies",
-    "url": "https://arxiv.org/abs/2103.16574",
-    "upvotes": 161,
-    "author": "lnwlebjel",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=26706424"
-  },
-  {
-    "title": "Neuroscientists discover a molecular mechanism that allows memories to form",
+    "title": "Neuroscientists discover molecular mechanism that allows memories to form",
     "url": "https://news.mit.edu/2020/engram-memories-form-1005",
-    "upvotes": 17,
+    "upvotes": 24,
     "author": "andyxor",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26709053"
   },
   {
-    "title": "Early Lisp Part II",
-    "url": "http://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html?m=1",
-    "upvotes": 46,
-    "author": "wglb",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26694972"
+    "title": "“I’ll Finish It This Week” and Other Lies",
+    "url": "https://arxiv.org/abs/2103.16574",
+    "upvotes": 166,
+    "author": "lnwlebjel",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=26706424"
+  },
+  {
+    "title": "Booking.com fined €475k for reporting data breach too late",
+    "url": "https://therecord.media/booking-com-fined-e475000-for-reporting-data-breach-too-late/",
+    "upvotes": 128,
+    "author": "DyslexicAtheist",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26708959"
   },
   {
     "title": "Have I Been Facebooked?",
     "url": "https://haveibeenfacebooked.com/",
-    "upvotes": 274,
+    "upvotes": 284,
     "author": "mendelmaleh",
-    "comments": 160,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=26703491"
+  },
+  {
+    "title": "Early Lisp Part II",
+    "url": "http://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html?m=1",
+    "upvotes": 47,
+    "author": "wglb",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26694972"
   },
   {
     "title": "Leaked phone number of Mark Zuckerberg reveals he is on Signal",
     "url": "https://www.indiatoday.in/technology/news/story/leaked-phone-number-of-mark-zuckerberg-reveals-he-is-on-signal-1787396-2021-04-05",
-    "upvotes": 150,
+    "upvotes": 163,
     "author": "gaius_baltar",
-    "comments": 61,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26704472"
   },
   {
     "title": "To upgrade the SSD in a Mac Pro, you need a second Mac computer",
     "url": "https://support.apple.com/en-us/HT210626",
-    "upvotes": 57,
+    "upvotes": 64,
     "author": "fortran77",
-    "comments": 26,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26707737"
   },
   {
     "title": "Legalizing gay marriage in Crusader Kings III with Ghidra",
     "url": "https://waffleironer.medium.com/legalizing-gay-marriage-in-crusader-kings-iii-with-ghidra-2602e6aa8689",
-    "upvotes": 343,
+    "upvotes": 350,
     "author": "ice3",
     "comments": 122,
     "link": "https://news.ycombinator.com/item?id=26703404"
@@ -142,10 +142,18 @@
   {
     "title": "NASA Startup Studio",
     "url": "https://www.fedtech.io/nasastartupstudio",
-    "upvotes": 86,
+    "upvotes": 88,
     "author": "Erikun",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26688091"
+  },
+  {
+    "title": "Vitamin D: The truth about an alleged Covid ‘cover-up’",
+    "url": "https://www.bbc.co.uk/news/health-56180921",
+    "upvotes": 35,
+    "author": "zeristor",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26708457"
   },
   {
     "title": "Mathematicians Settle Erdős Coloring Conjecture",
@@ -156,57 +164,49 @@
     "link": "https://news.ycombinator.com/item?id=26706570"
   },
   {
-    "title": "Vitamin D: The truth about an alleged Covid ‘cover-up’",
-    "url": "https://www.bbc.co.uk/news/health-56180921",
-    "upvotes": 31,
-    "author": "zeristor",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26708457"
-  },
-  {
     "title": "Apple Can Own I/O to Own the Universe",
     "url": "https://diff.substack.com/p/how-apple-can-own-io-to-own-the-universe",
-    "upvotes": 46,
+    "upvotes": 52,
     "author": "ejz",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26706750"
   },
   {
     "title": "Clubhouse Payments",
     "url": "https://www.joinclubhouse.com/introducing-payments",
-    "upvotes": 159,
+    "upvotes": 160,
     "author": "tosh",
     "comments": 188,
     "link": "https://news.ycombinator.com/item?id=26705218"
   },
   {
+    "title": "The Economist's Style Guide [pdf]",
+    "url": "https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf",
+    "upvotes": 93,
+    "author": "thepangolino",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26704600"
+  },
+  {
+    "title": "Git as a NoSql Database",
+    "url": "https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/",
+    "upvotes": 126,
+    "author": "EntICOnc",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=26703808"
+  },
+  {
     "title": "Schoonschip – Unique residential area: floating, sustainable, circular",
     "url": "http://www.spaceandmatter.nl/schoonschip",
-    "upvotes": 34,
+    "upvotes": 35,
     "author": "pseudolus",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26680269"
   },
   {
-    "title": "Git as a NoSql Database",
-    "url": "https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/",
-    "upvotes": 124,
-    "author": "EntICOnc",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=26703808"
-  },
-  {
-    "title": "The Economist's Style Guide [pdf]",
-    "url": "https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf",
-    "upvotes": 90,
-    "author": "thepangolino",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26704600"
-  },
-  {
     "title": "Writing tools I learned from The Economist",
     "url": "https://builtbywords.substack.com/p/writing-tools-i-learned-from-the",
-    "upvotes": 535,
+    "upvotes": 540,
     "author": "ahsoli",
     "comments": 215,
     "link": "https://news.ycombinator.com/item?id=26700319"
@@ -214,25 +214,25 @@
   {
     "title": "Condition: A 64KB WebGL Intro",
     "url": "https://github.com/FMS-Cat/condition",
-    "upvotes": 95,
+    "upvotes": 97,
     "author": "polm23",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26690199"
   },
   {
-    "title": "New Zealand to open quarantine-free “travel bubble” with Australia",
-    "url": "https://www.axios.com/australia-new-zealand-covid-travel-bubble-ffd332a7-4024-47a6-bc3f-c7af4eeb3270.html",
-    "upvotes": 29,
-    "author": "robocat",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=26708847"
+    "title": "Optimal Stopping",
+    "url": "https://en.wikipedia.org/wiki/Optimal_stopping",
+    "upvotes": 61,
+    "author": "elsewhen",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26705742"
   },
   {
-    "title": "AWS bill capping feature request thread still unanswered after 10 years",
-    "url": "https://forums.aws.amazon.com/thread.jspa?threadID=58127&start=50&tstart=0",
-    "upvotes": 279,
-    "author": "shikkra",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=26708148"
+    "title": "FDA approves new ADHD drug for children",
+    "url": "https://www.axios.com/fda-approves-new-adhd-drug-for-children-d7bb24d4-7bf2-4a5e-a505-833ed57dee7a.html",
+    "upvotes": 66,
+    "author": "cwwc",
+    "comments": 195,
+    "link": "https://news.ycombinator.com/item?id=26706187"
   }
 ]
