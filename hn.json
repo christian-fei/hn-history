@@ -1,96 +1,80 @@
 [
   {
-    "title": "New Mexico Governor Signs Historic Legislation to End Qualified Immunity",
-    "url": "https://innocenceproject.org/new-mexico-historic-legislation-to-end-qualified-immunity/",
-    "upvotes": 146,
-    "author": "williamsharris",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=26735216"
-  },
-  {
     "title": "A simple C implementation to stream H.264 to browser using WebRTC",
     "url": "https://github.com/sepfy/pear",
-    "upvotes": 26,
+    "upvotes": 48,
     "author": "sepfy",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26735423"
-  },
-  {
-    "title": "FDA approves first test of CRISPR for genetic defect causing sickle cell disease",
-    "url": "https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/",
-    "upvotes": 265,
-    "author": "zuhayeer",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=26733033"
   },
   {
     "title": "AMD and Xilinx Stockholders Overwhelmingly Approve AMD’s Acquisition of Xilinx",
     "url": "https://www.amd.com/en/press-releases/2021-04-07-amd-and-xilinx-stockholders-overwhelmingly-approve-amd-s-acquisition",
-    "upvotes": 81,
+    "upvotes": 100,
     "author": "zdw",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26734552"
+  },
+  {
+    "title": "FDA approves first test of CRISPR for genetic defect causing sickle cell disease",
+    "url": "https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/",
+    "upvotes": 272,
+    "author": "zuhayeer",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=26733033"
   },
   {
     "title": "Surprisingly Slow",
     "url": "https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/",
-    "upvotes": 114,
+    "upvotes": 144,
     "author": "dochtman",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26710763"
-  },
-  {
-    "title": "How to make a Python package in 2021",
-    "url": "https://antonz.org/python-packaging/",
-    "upvotes": 197,
-    "author": "gilad",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=26733423"
   },
   {
     "title": "The Tourist: Philip Roth’s Czech KGB File",
     "url": "https://www.tabletmag.com/sections/arts-letters/articles/philip-roth-the-tourist",
-    "upvotes": 12,
+    "upvotes": 18,
     "author": "lermontov",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26735217"
   },
   {
-    "title": "Reading in the Age of Constant Distraction",
-    "url": "https://www.theparisreview.org/blog/2019/02/08/reading-in-the-age-of-constant-distraction/",
-    "upvotes": 24,
-    "author": "dorchadas",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26735051"
-  },
-  {
-    "title": "Particle mystery: physicists confirm the muon is more magnetic than predicted",
-    "url": "https://www.sciencemag.org/news/2021/04/particle-mystery-deepens-physicists-confirm-muon-more-magnetic-predicted",
-    "upvotes": 479,
-    "author": "furcyd",
-    "comments": 258,
-    "link": "https://news.ycombinator.com/item?id=26726269"
-  },
-  {
     "title": "GnuCOBOL – a free/libre COBOL compiler",
     "url": "https://gnucobol.sourceforge.io/",
-    "upvotes": 37,
+    "upvotes": 47,
     "author": "pabs3",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26734721"
+  },
+  {
+    "title": "New Mexico is the second state to ban qualified immunity",
+    "url": "https://innocenceproject.org/new-mexico-historic-legislation-to-end-qualified-immunity/",
+    "upvotes": 172,
+    "author": "williamsharris",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=26735216"
+  },
+  {
+    "title": "Reading in the Age of Constant Distraction",
+    "url": "https://www.theparisreview.org/blog/2019/02/08/reading-in-the-age-of-constant-distraction/",
+    "upvotes": 29,
+    "author": "dorchadas",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26735051"
   },
   {
     "title": "Netscape ISP Homepage",
     "url": "https://isp.netscape.com",
-    "upvotes": 102,
+    "upvotes": 106,
     "author": "fireeyed",
-    "comments": 57,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26733494"
   },
   {
     "title": "Proofs, Computability, Undecidability, Complexity, and the Lambda Calculus [pdf]",
     "url": "https://www.cis.upenn.edu/~cis511/notes/proofslambda.pdf",
-    "upvotes": 68,
+    "upvotes": 69,
     "author": "bmc7505",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26733468"
@@ -98,141 +82,157 @@
   {
     "title": "BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution",
     "url": "https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html",
-    "upvotes": 276,
+    "upvotes": 280,
     "author": "ndrake",
-    "comments": 89,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=26726902"
+  },
+  {
+    "title": "How to make a Python package in 2021",
+    "url": "https://antonz.org/python-packaging/",
+    "upvotes": 219,
+    "author": "gilad",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=26733423"
+  },
+  {
+    "title": "Among the Rank and File: Gogol in the Twilight of Empire",
+    "url": "https://www.thenation.com/article/culture/gogol-nose-other-stories/",
+    "upvotes": 11,
+    "author": "lermontov",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26720222"
   },
   {
     "title": "lscpu + neofetch = cpufetch",
     "url": "https://github.com/Dr-Noob/cpufetch",
-    "upvotes": 59,
+    "upvotes": 60,
     "author": "luke2m",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26733595"
-  },
-  {
-    "title": "Among the Rank and File: Nikolai Gogol in the Twilight of Empire",
-    "url": "https://www.thenation.com/article/culture/gogol-nose-other-stories/",
-    "upvotes": 6,
-    "author": "lermontov",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26720222"
   },
   {
     "title": "iOS 14 and Facebook Pixel causing increase in PSL inclusion requests",
     "url": "https://github.com/publicsuffix/list/issues/1245",
-    "upvotes": 253,
+    "upvotes": 258,
     "author": "CameronBanga",
-    "comments": 98,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=26726722"
   },
   {
     "title": "The Edges of Our Universe",
     "url": "https://arxiv.org/abs/2104.01191",
-    "upvotes": 54,
+    "upvotes": 58,
     "author": "henning",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26732996"
-  },
-  {
-    "title": "Geometrical Thinking Offers a Window into Computation",
-    "url": "https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/",
-    "upvotes": 8,
-    "author": "andyxor",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26735020"
   },
   {
     "title": "Redefining Threat Modeling: Security team goes on vacation",
     "url": "https://segment.com/blog/redefining-threat-modeling/",
-    "upvotes": 51,
+    "upvotes": 61,
     "author": "mooreds",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26726060"
+  },
+  {
+    "title": "Geometrical Thinking Offers a Window into Computation",
+    "url": "https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/",
+    "upvotes": 12,
+    "author": "andyxor",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26735020"
   },
   {
     "title": "A record label bringing Iranian music to the world",
     "url": "https://www.huckmag.com/art-and-culture/the-record-label-bringing-iranian-music-to-the-world/",
-    "upvotes": 86,
+    "upvotes": 89,
     "author": "tintinnabula",
-    "comments": 40,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26707647"
   },
   {
     "title": "Screw it, I’ll host it myself",
     "url": "https://www.markozivanovic.com/screw-it-ill-host-it-myself/",
-    "upvotes": 811,
+    "upvotes": 817,
     "author": "markozivanovic",
-    "comments": 391,
+    "comments": 396,
     "link": "https://news.ycombinator.com/item?id=26725185"
+  },
+  {
+    "title": "Warnings of AI doom gave way to primal fear of primates posting",
+    "url": "https://www.thenewatlantis.com/publications/welcoming-our-new-robot-overlords",
+    "upvotes": 3,
+    "author": "morisy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26712865"
+  },
+  {
+    "title": "A bit of XENIX history",
+    "url": "http://seefigure1.com/2014/04/15/xenixtime.html",
+    "upvotes": 100,
+    "author": "fanf2",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=26726249"
   },
   {
     "title": "The Health Hazards of Plug-In Air Fresheners",
     "url": "https://www.indoordoctor.com/health-hazards-plug-air-fresheners/",
-    "upvotes": 57,
+    "upvotes": 61,
     "author": "tentacleuno",
-    "comments": 56,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26732229"
   },
   {
-    "title": "The bacterial 'homing missiles' that scientists want to harness",
-    "url": "https://phys.org/news/2021-04-incredible-bacterial-homing-missiles-scientists.html",
-    "upvotes": 26,
-    "author": "dnetesn",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26722975"
+    "title": "TailwindCSS JIT with arbitrary values",
+    "url": "https://tailwindcss.com/docs/just-in-time-mode",
+    "upvotes": 124,
+    "author": "ccmcarey",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=26728575"
   },
   {
     "title": "Flow Club",
     "url": "https://www.workatastartup.com/jobs/43166"
   },
   {
+    "title": "Edith Wharton on Henry James’s asking for directions",
+    "url": "https://edithwhartonsociety.wordpress.com/2014/08/08/reply-edith-wharton-on-henry-jamess-asking-for-directions/",
+    "upvotes": 5,
+    "author": "samclemens",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26726484"
+  },
+  {
+    "title": "Particle mystery: physicists confirm the muon is more magnetic than predicted",
+    "url": "https://www.sciencemag.org/news/2021/04/particle-mystery-deepens-physicists-confirm-muon-more-magnetic-predicted",
+    "upvotes": 485,
+    "author": "furcyd",
+    "comments": 265,
+    "link": "https://news.ycombinator.com/item?id=26726269"
+  },
+  {
     "title": "TLA+ Graph Explorer",
     "url": "https://github.com/afonsonf/tlaplus-graph-explorer",
-    "upvotes": 84,
+    "upvotes": 86,
     "author": "hwayne",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26729307"
   },
   {
+    "title": "The bacterial 'homing missiles' that scientists want to harness",
+    "url": "https://phys.org/news/2021-04-incredible-bacterial-homing-missiles-scientists.html",
+    "upvotes": 28,
+    "author": "dnetesn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26722975"
+  },
+  {
     "title": "Opensource.cooking: A simple, bloat-free cooking site",
     "url": "https://opensource.cooking",
-    "upvotes": 137,
+    "upvotes": 143,
     "author": "locua",
-    "comments": 131,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=26727700"
-  },
-  {
-    "title": "Cycling is more important than electric cars for reaching net-zero cities",
-    "url": "https://theconversation.com/cycling-is-ten-times-more-important-than-electric-cars-for-reaching-net-zero-cities-157163",
-    "upvotes": 443,
-    "author": "dfgdghdf",
-    "comments": 576,
-    "link": "https://news.ycombinator.com/item?id=26728216"
-  },
-  {
-    "title": "IBM COBOL for Linux on x86",
-    "url": "https://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/9/872/ENUSAP21-0019/index.html&request_locale=en",
-    "upvotes": 110,
-    "author": "belter",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=26732415"
-  },
-  {
-    "title": "The NoPhone",
-    "url": "https://www.thenophone.com",
-    "upvotes": 228,
-    "author": "bdeshi",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=26727431"
-  },
-  {
-    "title": "Apple’s Find My network now offers new third-party finding experiences",
-    "url": "https://www.apple.com/newsroom/2021/04/apples-find-my-network-now-offers-new-third-party-finding-experiences/",
-    "upvotes": 115,
-    "author": "anaclet0",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=26727613"
   }
 ]
