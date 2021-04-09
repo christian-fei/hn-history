@@ -1,74 +1,90 @@
 [
   {
-    "title": "Zoom zero-day discovery makes calls safer, hackers $200k richer",
+    "title": "Zoom zero-day discovery",
     "url": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/",
-    "upvotes": 119,
+    "upvotes": 142,
     "author": "alexrustic",
-    "comments": 70,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=26749350"
   },
   {
-    "title": "Nix is the ultimate DevOps toolkit",
-    "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
-    "upvotes": 245,
-    "author": "rkrzr",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=26748696"
+    "title": "A Year in the Life of a Compiler Fuzzing Campaign",
+    "url": "https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/",
+    "upvotes": 8,
+    "author": "axiomdata316",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26751130"
+  },
+  {
+    "title": "Initial M1 support merged into Linux SoC tree",
+    "url": "https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf",
+    "upvotes": 460,
+    "author": "joseluisq",
+    "comments": 259,
+    "link": "https://news.ycombinator.com/item?id=26746983"
   },
   {
     "title": "Greeks Bearing Gifts: tracking the labyrinthine path of technology’s progress",
     "url": "https://www.laphamsquarterly.org/technology/greeks-bearing-gifts",
-    "upvotes": 16,
+    "upvotes": 19,
     "author": "Hooke",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26735293"
   },
   {
-    "title": "Initial M1 support merged into Linux SoC tree",
-    "url": "https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf",
-    "upvotes": 441,
-    "author": "joseluisq",
-    "comments": 253,
-    "link": "https://news.ycombinator.com/item?id=26746983"
+    "title": "Nix is the ultimate DevOps toolkit",
+    "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
+    "upvotes": 263,
+    "author": "rkrzr",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=26748696"
+  },
+  {
+    "title": "Figma and Canva are taking on Adobe, and winning",
+    "url": "https://kwokchain.com/2021/02/05/atomic-concepts/",
+    "upvotes": 64,
+    "author": "samulipehkonen",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26748723"
   },
   {
     "title": "Docker without Docker",
     "url": "https://fly.io/blog/docker-without-docker/",
-    "upvotes": 497,
+    "upvotes": 512,
     "author": "kwindla",
-    "comments": 141,
+    "comments": 146,
     "link": "https://news.ycombinator.com/item?id=26746280"
   },
   {
     "title": "Monkey MindPong",
     "url": "https://neuralink.com/blog/",
-    "upvotes": 552,
+    "upvotes": 566,
     "author": "ag8",
-    "comments": 217,
+    "comments": 223,
     "link": "https://news.ycombinator.com/item?id=26745227"
-  },
-  {
-    "title": "Figma and Canva are taking on Adobe, and winning",
-    "url": "https://kwokchain.com/2021/02/05/atomic-concepts/",
-    "upvotes": 38,
-    "author": "samulipehkonen",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26748723"
   },
   {
     "title": "The Web MiniDisc App",
     "url": "https://stefano.brilli.me/blog/web-minidisc/",
-    "upvotes": 89,
+    "upvotes": 97,
     "author": "mocko",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26748528"
+  },
+  {
+    "title": "Comparative unsafety",
+    "url": "https://flak.tedunangst.com/post/comparative-unsafety",
+    "upvotes": 27,
+    "author": "lionkor",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26749199"
   },
   {
     "title": "Scalable, Resilient Brainfuck as a service",
     "url": "https://zserge.com/posts/bfaas/",
-    "upvotes": 135,
+    "upvotes": 145,
     "author": "stevekemp",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26747384"
   },
   {
@@ -76,73 +92,89 @@
     "url": "https://www.dittowords.com/careers"
   },
   {
-    "title": "No Python Interpreter? This Simple Malware Installs Its Own Copy",
-    "url": "https://isc.sans.edu/forums/diary/No+Python+Interpreter+This+Simple+RAT+Installs+Its+Own+Copy/27292/",
-    "upvotes": 17,
-    "author": "wolframio",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26748731"
+    "title": "Facebook axes 16,000 accounts for trading fake reviews after UK intervenes",
+    "url": "https://www.reuters.com/article/us-facebook-britain-reviews/facebook-axes-16000-accounts-for-trading-fake-reviews-after-uk-intervenes-idUSKBN2BW168",
+    "upvotes": 24,
+    "author": "pseudolus",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26748791"
   },
   {
-    "title": "Rust – I used unsafe. It was unsafe",
-    "url": "https://flak.tedunangst.com/post/comparative-unsafety",
-    "upvotes": 12,
-    "author": "lionkor",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26749199"
+    "title": "Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out",
+    "url": "https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/",
+    "upvotes": 18,
+    "author": "todd8",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26750452"
   },
   {
-    "title": "Bike Theft Map",
-    "url": "https://bike-theft-map.bikmo.com/",
-    "upvotes": 65,
-    "author": "astre9",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=26747513"
+    "title": "The Apache Attic",
+    "url": "http://attic.apache.org/",
+    "upvotes": 9,
+    "author": "doener",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26749583"
   },
   {
     "title": "Why Hypercard had to die",
     "url": "http://www.loper-os.org/?p=568",
-    "upvotes": 71,
+    "upvotes": 83,
     "author": "_448",
-    "comments": 75,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=26749425"
+  },
+  {
+    "title": "No Python Interpreter? This Simple Malware Installs Its Own Copy",
+    "url": "https://isc.sans.edu/forums/diary/No+Python+Interpreter+This+Simple+RAT+Installs+Its+Own+Copy/27292/",
+    "upvotes": 24,
+    "author": "wolframio",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26748731"
+  },
+  {
+    "title": "Bike Theft Map",
+    "url": "https://bike-theft-map.bikmo.com/",
+    "upvotes": 69,
+    "author": "astre9",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=26747513"
   },
   {
     "title": "Hawking Hawking",
     "url": "https://www.math.columbia.edu/~woit/wordpress/?p=12235",
-    "upvotes": 89,
+    "upvotes": 92,
     "author": "chmaynard",
-    "comments": 43,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26746687"
   },
   {
     "title": "Tree.h in OpenBSD: dependency-free intrusive binary tree",
     "url": "https://github.com/openbsd/src/blob/c1d6f13173b788e34852a303bda0c5a53861979e/sys/sys/tree.h",
-    "upvotes": 78,
+    "upvotes": 80,
     "author": "attractivechaos",
-    "comments": 23,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26746674"
   },
   {
     "title": "FFmpeg 4.4",
     "url": "http://ffmpeg.org/index.html#pr4.4",
-    "upvotes": 260,
+    "upvotes": 274,
     "author": "_Gyan_",
-    "comments": 79,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=26746537"
   },
   {
-    "title": "The Apache Attic",
-    "url": "http://attic.apache.org/",
-    "upvotes": 4,
-    "author": "doener",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26749583"
+    "title": "They Write the Right Stuff",
+    "url": "https://david-haber.github.io/posts/the-right-stuff/",
+    "upvotes": 59,
+    "author": "dh00608000",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26748309"
   },
   {
     "title": "How a carnivorous mushroom poisons its prey",
     "url": "https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/",
-    "upvotes": 120,
+    "upvotes": 127,
     "author": "sohkamyung",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26745892"
@@ -150,63 +182,31 @@
   {
     "title": "CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU",
     "url": "https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html",
-    "upvotes": 401,
+    "upvotes": 410,
     "author": "gumby",
-    "comments": 128,
+    "comments": 129,
     "link": "https://news.ycombinator.com/item?id=26745326"
-  },
-  {
-    "title": "Facebook axes 16,000 accounts for trading fake reviews after UK intervenes",
-    "url": "https://www.reuters.com/article/us-facebook-britain-reviews/facebook-axes-16000-accounts-for-trading-fake-reviews-after-uk-intervenes-idUSKBN2BW168",
-    "upvotes": 13,
-    "author": "pseudolus",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26748791"
-  },
-  {
-    "title": "They Write the Right Stuff",
-    "url": "https://david-haber.github.io/posts/the-right-stuff/",
-    "upvotes": 55,
-    "author": "dh00608000",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26748309"
-  },
-  {
-    "title": "Prince Philip has died",
-    "url": "https://www.royal.uk/",
-    "upvotes": 325,
-    "author": "longdefeat",
-    "comments": 316,
-    "link": "https://news.ycombinator.com/item?id=26749021"
   },
   {
     "title": "W3C slaps down Google's proposal to treat multiple domains as same origin",
     "url": "https://www.theregister.com/2021/04/08/w3c_google_multple_domains/",
-    "upvotes": 144,
+    "upvotes": 155,
     "author": "kiyanwang",
-    "comments": 70,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=26747715"
   },
   {
-    "title": "Food waste responsible for 10% of global emissions",
-    "url": "https://www.bloomberg.com/news/articles/2021-03-04/in-one-year-a-billion-tons-of-food-got-wasted-mostly-at-home",
-    "upvotes": 76,
-    "author": "cwwc",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=26748763"
-  },
-  {
-    "title": "Vald: A Highly Scalable Distributed Vector Search Engine",
-    "url": "https://github.com/vdaas/vald",
-    "upvotes": 93,
-    "author": "ngaut",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26735300"
+    "title": "Prince Philip has died",
+    "url": "https://www.royal.uk/",
+    "upvotes": 356,
+    "author": "longdefeat",
+    "comments": 345,
+    "link": "https://news.ycombinator.com/item?id=26749021"
   },
   {
     "title": "The architecture behind a one-person tech startup",
     "url": "https://anthonynsimon.com/blog/one-man-saas-architecture/",
-    "upvotes": 1192,
+    "upvotes": 1197,
     "author": "ksahin",
     "comments": 290,
     "link": "https://news.ycombinator.com/item?id=26737771"
@@ -214,25 +214,25 @@
   {
     "title": "A Brief F# Exploration",
     "url": "https://notes.srid.ca/fsharp-exploration",
-    "upvotes": 92,
+    "upvotes": 96,
     "author": "todsacerdoti",
-    "comments": 37,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26739501"
+  },
+  {
+    "title": "Food waste responsible for 10% of global emissions",
+    "url": "https://www.bloomberg.com/news/articles/2021-03-04/in-one-year-a-billion-tons-of-food-got-wasted-mostly-at-home",
+    "upvotes": 83,
+    "author": "cwwc",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=26748763"
   },
   {
     "title": "Lossless Text Compression [pdf]",
     "url": "https://bilalonureskili.com/files/LTC_en.pdf",
-    "upvotes": 58,
+    "upvotes": 61,
     "author": "kronxe",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26722960"
-  },
-  {
-    "title": "Hooking keyboard input to play Snake in Notepad.exe",
-    "url": "http://kylehalladay.com/blog/2020/05/20/Hooking-Input-Snake-In-Notepad.html",
-    "upvotes": 80,
-    "author": "pcr910303",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26735187"
   }
 ]
