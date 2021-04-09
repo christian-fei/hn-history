@@ -2,101 +2,125 @@
   {
     "title": "Initial M1 support merged into Linux SoC tree",
     "url": "https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf",
-    "upvotes": 281,
+    "upvotes": 305,
     "author": "joseluisq",
-    "comments": 176,
+    "comments": 189,
     "link": "https://news.ycombinator.com/item?id=26746983"
+  },
+  {
+    "title": "Nix is the ultimate DevOps toolkit",
+    "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
+    "upvotes": 13,
+    "author": "rkrzr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26748696"
   },
   {
     "title": "Docker without Docker",
     "url": "https://fly.io/blog/docker-without-docker/",
-    "upvotes": 355,
+    "upvotes": 376,
     "author": "kwindla",
-    "comments": 84,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=26746280"
   },
   {
     "title": "Monkey MindPong",
     "url": "https://neuralink.com/blog/",
-    "upvotes": 432,
+    "upvotes": 447,
     "author": "ag8",
-    "comments": 167,
+    "comments": 177,
     "link": "https://news.ycombinator.com/item?id=26745227"
+  },
+  {
+    "title": "The Web MiniDisc App: Bringing Back to Life the MiniDisc with WebUSB and WASM",
+    "url": "https://stefano.brilli.me/blog/web-minidisc/",
+    "upvotes": 9,
+    "author": "mocko",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26748528"
   },
   {
     "title": "Scalable, Resilient Brainfuck as a service",
     "url": "https://zserge.com/posts/bfaas/",
-    "upvotes": 40,
+    "upvotes": 51,
     "author": "stevekemp",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26747384"
   },
   {
-    "title": "Tree.h in OpenBSD: dependency-free intrusive binary tree",
-    "url": "https://github.com/openbsd/src/blob/c1d6f13173b788e34852a303bda0c5a53861979e/sys/sys/tree.h",
-    "upvotes": 58,
-    "author": "attractivechaos",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26746674"
-  },
-  {
-    "title": "FFmpeg 4.4",
-    "url": "http://ffmpeg.org/index.html#pr4.4",
-    "upvotes": 169,
-    "author": "_Gyan_",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=26746537"
-  },
-  {
-    "title": "They Write the Right Stuff",
-    "url": "https://david-haber.github.io/posts/the-right-stuff/",
-    "upvotes": 14,
-    "author": "dh00608000",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26748309"
+    "title": "Is Netflix's Seaspiracy film right about fishing damaging oceans?",
+    "url": "https://www.bbc.co.uk/news/56660823",
+    "upvotes": 7,
+    "author": "bananapear",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26748592"
   },
   {
     "title": "Hawking Hawking",
     "url": "https://www.math.columbia.edu/~woit/wordpress/?p=12235",
-    "upvotes": 60,
+    "upvotes": 65,
     "author": "chmaynard",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26746687"
   },
   {
     "title": "You Don't Need a GUI",
     "url": "https://github.com/you-dont-need/You-Dont-Need-GUI",
-    "upvotes": 259,
+    "upvotes": 271,
     "author": "loige",
-    "comments": 259,
+    "comments": 273,
     "link": "https://news.ycombinator.com/item?id=26743704"
   },
   {
-    "title": "Idempotence now prevents pain later",
-    "url": "https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/",
-    "upvotes": 320,
-    "author": "zdw",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=26726449"
+    "title": "They Write the Right Stuff",
+    "url": "https://david-haber.github.io/posts/the-right-stuff/",
+    "upvotes": 16,
+    "author": "dh00608000",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26748309"
   },
   {
-    "title": "CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU",
-    "url": "https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html",
-    "upvotes": 327,
-    "author": "gumby",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=26745326"
+    "title": "FFmpeg 4.4",
+    "url": "http://ffmpeg.org/index.html#pr4.4",
+    "upvotes": 178,
+    "author": "_Gyan_",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26746537"
+  },
+  {
+    "title": "Tree.h in OpenBSD: dependency-free intrusive binary tree",
+    "url": "https://github.com/openbsd/src/blob/c1d6f13173b788e34852a303bda0c5a53861979e/sys/sys/tree.h",
+    "upvotes": 59,
+    "author": "attractivechaos",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26746674"
   },
   {
     "title": "Jupiter",
     "url": "https://www.notion.so/jupiterhome/Full-Stack-Software-Engineer-Product-9997a862394d48e4b8db702b859141e2"
   },
   {
+    "title": "Idempotence now prevents pain later",
+    "url": "https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/",
+    "upvotes": 329,
+    "author": "zdw",
+    "comments": 109,
+    "link": "https://news.ycombinator.com/item?id=26726449"
+  },
+  {
+    "title": "CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU",
+    "url": "https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html",
+    "upvotes": 333,
+    "author": "gumby",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=26745326"
+  },
+  {
     "title": "How a carnivorous mushroom poisons its prey",
     "url": "https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/",
-    "upvotes": 84,
+    "upvotes": 86,
     "author": "sohkamyung",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26745892"
   },
   {
@@ -104,135 +128,111 @@
     "url": "https://bilalonureskili.com/files/LTC_en.pdf",
     "upvotes": 48,
     "author": "kronxe",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26722960"
   },
   {
     "title": "Vald: A Highly Scalable Distributed Vector Search Engine",
     "url": "https://github.com/vdaas/vald",
-    "upvotes": 65,
+    "upvotes": 68,
     "author": "ngaut",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26735300"
   },
   {
+    "title": "W3C slaps down Google's proposal to treat multiple domains as same origin",
+    "url": "https://www.theregister.com/2021/04/08/w3c_google_multple_domains/",
+    "upvotes": 50,
+    "author": "kiyanwang",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26747715"
+  },
+  {
     "title": "A Brief F# Exploration",
     "url": "https://notes.srid.ca/fsharp-exploration",
-    "upvotes": 64,
+    "upvotes": 67,
     "author": "todsacerdoti",
-    "comments": 17,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26739501"
+  },
+  {
+    "title": "Wuffs the Language",
+    "url": "https://github.com/google/wuffs/blob/main/doc/wuffs-the-language.md",
+    "upvotes": 172,
+    "author": "bshanks",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=26731305"
   },
   {
     "title": "Deep genetic affinity between coastal Pacific and Amazonian natives",
     "url": "https://www.pnas.org/content/118/14/e2025739118",
-    "upvotes": 66,
+    "upvotes": 68,
     "author": "Thevet",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26730787"
   },
   {
-    "title": "Wuffs the Language",
-    "url": "https://github.com/google/wuffs/blob/main/doc/wuffs-the-language.md",
-    "upvotes": 170,
-    "author": "bshanks",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26731305"
-  },
-  {
     "title": "The architecture behind a one-person tech startup",
     "url": "https://anthonynsimon.com/blog/one-man-saas-architecture/",
-    "upvotes": 1123,
+    "upvotes": 1130,
     "author": "ksahin",
-    "comments": 278,
+    "comments": 279,
     "link": "https://news.ycombinator.com/item?id=26737771"
+  },
+  {
+    "title": "Food waste responsible for 10% of global emissions",
+    "url": "https://www.bloomberg.com/news/articles/2021-03-04/in-one-year-a-billion-tons-of-food-got-wasted-mostly-at-home",
+    "upvotes": 5,
+    "author": "cwwc",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26748763"
   },
   {
     "title": "Ask HN: I built it, nobody came, now what?",
     "url": "item?id=26734079",
-    "upvotes": 183,
+    "upvotes": 192,
     "author": "d--b",
-    "comments": 205,
+    "comments": 211,
     "link": "https://news.ycombinator.com/item?id=26734079"
   },
   {
-    "title": "W3C slaps down Google's proposal to treat multiple domains as same origin",
-    "url": "https://www.theregister.com/2021/04/08/w3c_google_multple_domains/",
-    "upvotes": 40,
-    "author": "kiyanwang",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26747715"
+    "title": "Why do long options start with two dashes?",
+    "url": "https://blog.djmnet.org/2019/08/02/why-do-long-options-start-with/",
+    "upvotes": 288,
+    "author": "spyh",
+    "comments": 197,
+    "link": "https://news.ycombinator.com/item?id=26744519"
   },
   {
     "title": "Hooking keyboard input to play Snake in Notepad.exe",
     "url": "http://kylehalladay.com/blog/2020/05/20/Hooking-Input-Snake-In-Notepad.html",
-    "upvotes": 60,
+    "upvotes": 62,
     "author": "pcr910303",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26735187"
   },
   {
-    "title": "Why do long options start with two dashes?",
-    "url": "https://blog.djmnet.org/2019/08/02/why-do-long-options-start-with/",
-    "upvotes": 282,
-    "author": "spyh",
-    "comments": 195,
-    "link": "https://news.ycombinator.com/item?id=26744519"
-  },
-  {
     "title": "A skeptic’s take on Neuralink and other consumer neurotech",
     "url": "https://www.statnews.com/2021/04/07/consumer-neurotech-skeptic/",
-    "upvotes": 95,
+    "upvotes": 97,
     "author": "hhs",
-    "comments": 105,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=26739872"
   },
   {
     "title": "A man is looking for the friends who shipped him overseas in a crate in 1965",
     "url": "https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5978289/this-man-is-looking-for-the-friends-who-shipped-him-overseas-in-a-crate-in-1965-1.5978296",
-    "upvotes": 375,
+    "upvotes": 378,
     "author": "colinprince",
-    "comments": 210,
+    "comments": 211,
     "link": "https://news.ycombinator.com/item?id=26740451"
   },
   {
     "title": "Run Bhyve in FreeBSD jails – The view from inside the forest",
     "url": "https://neirac.byteswizards.com/posts/run-bhyve-in-freebsd-jails/",
-    "upvotes": 92,
+    "upvotes": 93,
     "author": "rodrigo975",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26742588"
-  },
-  {
-    "title": "Why keyboard shortcuts don't work on non-US layouts and how devs could fix it",
-    "url": "https://tkainrad.dev/posts/why-keyboard-shortcuts-dont-work-on-non-us-keyboard-layouts-and-how-to-fix-it/",
-    "upvotes": 231,
-    "author": "tkainrad",
-    "comments": 171,
-    "link": "https://news.ycombinator.com/item?id=26743028"
-  },
-  {
-    "title": "Home-Built Scanning Tunneling Microscope",
-    "url": "https://dberard.com/home-built-stm/",
-    "upvotes": 336,
-    "author": "_Microft",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=26740968"
-  },
-  {
-    "title": "Huawei deactivates AI and cloud business group in restructuring",
-    "url": "https://asia.nikkei.com/Spotlight/Caixin/Huawei-deactivates-AI-and-cloud-business-group-in-restructuring",
-    "upvotes": 17,
-    "author": "shirkey",
     "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26746216"
-  },
-  {
-    "title": "PlutoCon 2021",
-    "url": "https://plutojl.org/plutocon2021",
-    "upvotes": 15,
-    "author": "amkkma",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26745795"
+    "link": "https://news.ycombinator.com/item?id=26742588"
   }
 ]
