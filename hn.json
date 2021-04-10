@@ -1,16 +1,32 @@
 [
   {
+    "title": "NASA space copter ready for first Mars flight",
+    "url": "https://phys.org/news/2021-04-nasa-space-copter-ready-mars.html",
+    "upvotes": 26,
+    "author": "dnetesn",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26760843"
+  },
+  {
+    "title": "Setting Up Starlink, SpaceX's Satellite Internet",
+    "url": "https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet",
+    "upvotes": 25,
+    "author": "giuliomagnifico",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26760735"
+  },
+  {
     "title": "Everyone is still terrible at creating software at scale",
     "url": "https://margint.blog/2021/04/05/creating-software-at-scale/",
-    "upvotes": 177,
+    "upvotes": 203,
     "author": "caspii",
-    "comments": 124,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=26759680"
   },
   {
     "title": "Free Python Books",
     "url": "https://github.com/pamoroso/free-python-books",
-    "upvotes": 61,
+    "upvotes": 78,
     "author": "Mike_Andreuzza",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26759677"
@@ -18,67 +34,75 @@
   {
     "title": "uBlock Origin works best on Firefox",
     "url": "https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox",
-    "upvotes": 1340,
+    "upvotes": 1364,
     "author": "anonymfus",
-    "comments": 422,
+    "comments": 424,
     "link": "https://news.ycombinator.com/item?id=26755252"
   },
   {
-    "title": "NoSQL Data Modeling Techniques",
-    "url": "https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/",
-    "upvotes": 76,
-    "author": "agmm",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26737833"
-  },
-  {
-    "title": "VNC client running on a coffee machine",
-    "url": "https://raymii.org/s/blog/MS_Teams_on_a_Coffee_Machine_or_Framebuffer_VNC_Client.html",
-    "upvotes": 45,
-    "author": "janvdberg",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26747132"
-  },
-  {
-    "title": "The patent troll that won a $308M jury trial against Apple",
-    "url": "https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a",
-    "upvotes": 254,
-    "author": "ketamine__",
-    "comments": 186,
-    "link": "https://news.ycombinator.com/item?id=26757503"
+    "title": "Et Tu, Procter and Gamble?",
+    "url": "https://daringfireball.net/2021/04/et_tu_procter_gamble",
+    "upvotes": 51,
+    "author": "FabHK",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=26760520"
   },
   {
     "title": "Smarking",
     "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567"
   },
   {
-    "title": "Et Tu, Procter and Gamble?",
-    "url": "https://daringfireball.net/2021/04/et_tu_procter_gamble",
-    "upvotes": 33,
-    "author": "FabHK",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26760520"
+    "title": "VNC client running on a coffee machine",
+    "url": "https://raymii.org/s/blog/MS_Teams_on_a_Coffee_Machine_or_Framebuffer_VNC_Client.html",
+    "upvotes": 51,
+    "author": "janvdberg",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26747132"
   },
   {
-    "title": "Printstack – Python package that adds stack trace links to the print function",
-    "url": "https://github.com/morefigs/printstack",
-    "upvotes": 29,
-    "author": "mfgs",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26747743"
+    "title": "NoSQL Data Modeling Techniques",
+    "url": "https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/",
+    "upvotes": 82,
+    "author": "agmm",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26737833"
+  },
+  {
+    "title": "Why Maya Angelou Partnered with Hallmark",
+    "url": "https://www.neh.gov/article/why-maya-angelou-partnered-hallmark",
+    "upvotes": 3,
+    "author": "samclemens",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26746892"
+  },
+  {
+    "title": "The patent troll that won a $308M jury trial against Apple",
+    "url": "https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a",
+    "upvotes": 259,
+    "author": "ketamine__",
+    "comments": 196,
+    "link": "https://news.ycombinator.com/item?id=26757503"
   },
   {
     "title": "ESP32-C6, a Wi-Fi 6 and Bluetooth 5",
     "url": "https://www.espressif.com/en/news/ESP32_C6",
-    "upvotes": 110,
+    "upvotes": 114,
     "author": "thedday",
-    "comments": 58,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=26758050"
+  },
+  {
+    "title": "Printstack – Python package that adds stack trace links to the print function",
+    "url": "https://github.com/morefigs/printstack",
+    "upvotes": 33,
+    "author": "mfgs",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26747743"
   },
   {
     "title": "A Ceph war story",
     "url": "https://michael-prokop.at/blog/2021/04/09/a-ceph-war-story/",
-    "upvotes": 67,
+    "upvotes": 71,
     "author": "pabs3",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26759185"
@@ -86,31 +110,55 @@
   {
     "title": "Simhashing",
     "url": "https://ferd.ca/simhashing-hopefully-made-simple.html",
-    "upvotes": 3,
+    "upvotes": 4,
     "author": "kkm",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26760532"
   },
   {
+    "title": "Facebook’s ad algorithms are still excluding women from seeing jobs",
+    "url": "https://www.technologyreview.com/2021/04/09/1022217/facebook-ad-algorithm-sex-discrimination",
+    "upvotes": 12,
+    "author": "yamafaktory",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26760790"
+  },
+  {
     "title": "Embrace the Grind",
     "url": "https://jacobian.org/2021/apr/7/embrace-the-grind/",
-    "upvotes": 885,
+    "upvotes": 898,
     "author": "karl42",
-    "comments": 250,
+    "comments": 253,
     "link": "https://news.ycombinator.com/item?id=26747305"
   },
   {
     "title": "Dream – Tidy Web Framework for OCaml and ReasonML",
     "url": "https://aantron.github.io/dream/",
-    "upvotes": 86,
+    "upvotes": 89,
     "author": "yawaramin",
-    "comments": 17,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26758151"
+  },
+  {
+    "title": "The Product-Minded Software Engineer",
+    "url": "https://blog.pragmaticengineer.com/the-product-minded-engineer/",
+    "upvotes": 44,
+    "author": "absolute100",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26759200"
+  },
+  {
+    "title": "Why 11 days disappeared in 1752",
+    "url": "https://www.augustachronicle.com/lifestyle/20190316/your-story-why-did-11-days-disappear-in-1752",
+    "upvotes": 89,
+    "author": "mortenjorck",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=26758205"
   },
   {
     "title": "Linux kernel incorrect computation of branch displacements in BPF JIT compiler",
     "url": "https://www.openwall.com/lists/oss-security/2021/04/08/1",
-    "upvotes": 74,
+    "upvotes": 77,
     "author": "panic",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26757760"
@@ -118,34 +166,34 @@
   {
     "title": "A Guide to Color from 1692",
     "url": "https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html",
-    "upvotes": 120,
+    "upvotes": 126,
     "author": "throw0101a",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26755839"
   },
   {
-    "title": "The Product-Minded Software Engineer",
-    "url": "https://blog.pragmaticengineer.com/the-product-minded-engineer/",
-    "upvotes": 40,
-    "author": "absolute100",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26759200"
-  },
-  {
-    "title": "Why 11 days disappeared in 1752",
-    "url": "https://www.augustachronicle.com/lifestyle/20190316/your-story-why-did-11-days-disappear-in-1752",
-    "upvotes": 85,
-    "author": "mortenjorck",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26758205"
+    "title": "Some Thoughts on Smart Canes",
+    "url": "https://derekriemer.com/posts/2021/01/16/some-thoughts-on-smart-canes/",
+    "upvotes": 66,
+    "author": "pcr910303",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26747758"
   },
   {
     "title": "Show HN: Export Mail for Microsoft Outlook for Mac",
     "url": "https://exportoutlookmacmail.com/",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "lancer",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26751612"
+  },
+  {
+    "title": "The Long Boom",
+    "url": "https://www.wired.com/1997/07/longboom/",
+    "upvotes": 32,
+    "author": "allenleein",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26734647"
   },
   {
     "title": "The new science of volcanoes harnesses AI, satellites and gas sensors",
@@ -156,83 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=26742045"
   },
   {
-    "title": "The Long Boom",
-    "url": "https://www.wired.com/1997/07/longboom/",
-    "upvotes": 30,
-    "author": "allenleein",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26734647"
-  },
-  {
     "title": "A Soroban Beats an Electric Calculator",
     "url": "https://www.historyofinformation.com/detail.php?id=1361",
-    "upvotes": 37,
+    "upvotes": 39,
     "author": "eternalban",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26747825"
-  },
-  {
-    "title": "Some Thoughts on Smart Canes",
-    "url": "https://derekriemer.com/posts/2021/01/16/some-thoughts-on-smart-canes/",
-    "upvotes": 58,
-    "author": "pcr910303",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26747758"
   },
   {
     "title": "Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs",
     "url": "https://github.com/DualCoder/vgpu_unlock",
-    "upvotes": 419,
+    "upvotes": 421,
     "author": "fragileone",
-    "comments": 116,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=26754351"
-  },
-  {
-    "title": "A Far-Right Extremist Allegedly Plotted to Blow Up Amazon Data Centers",
-    "url": "https://www.wired.com/story/far-right-extremist-allegedly-plotted-blow-up-amazon-data-centers/",
-    "upvotes": 63,
-    "author": "curmudgeon22",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=26758439"
-  },
-  {
-    "title": "Why was cycling not included in the ancient Olympics?",
-    "url": "https://web.stanford.edu/~learnest/cyclops/olympics.pdf",
-    "upvotes": 67,
-    "author": "Hooke",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=26759209"
-  },
-  {
-    "title": "Zoom zero-day discovery",
-    "url": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/",
-    "upvotes": 480,
-    "author": "alexrustic",
-    "comments": 224,
-    "link": "https://news.ycombinator.com/item?id=26749350"
-  },
-  {
-    "title": "Vector Games 32c3",
-    "url": "https://trmm.net/Vector_games_32c3/",
-    "upvotes": 68,
-    "author": "rbanffy",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26747703"
   },
   {
     "title": "The TEX tuneup of 2021 [pdf]",
     "url": "https://tug.org/TUGboat/tb42-1/tb130knuth-tuneup21.pdf",
-    "upvotes": 5,
+    "upvotes": 11,
     "author": "EvgeniyZh",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26759999"
   },
   {
-    "title": "FreeBSD/arm64 becoming Tier 1 in FreeBSD 13",
-    "url": "https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html",
-    "upvotes": 175,
-    "author": "Ducki",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26755476"
+    "title": "Zoom zero-day discovery",
+    "url": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/",
+    "upvotes": 483,
+    "author": "alexrustic",
+    "comments": 224,
+    "link": "https://news.ycombinator.com/item?id=26749350"
   }
 ]
