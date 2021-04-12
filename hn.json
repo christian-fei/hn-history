@@ -2,39 +2,63 @@
   {
     "title": "Microsoft buys Nuance for nearly $20B",
     "url": "https://www.axios.com/microsoft-readies-deal-frenzy-bbc807a2-fd5b-48a7-99d1-cf06d0a41547.html",
-    "upvotes": 220,
+    "upvotes": 262,
     "author": "moritzplassnig",
-    "comments": 144,
+    "comments": 174,
     "link": "https://news.ycombinator.com/item?id=26778780"
+  },
+  {
+    "title": "Use Console.log",
+    "url": "https://markodenic.com/use-console-log-like-a-pro/",
+    "upvotes": 50,
+    "author": "vuciv1",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26779800"
   },
   {
     "title": "Yuri Gagarin: Sixty years since the first man went into space [video]",
     "url": "https://www.bbc.co.uk/news/av/science-environment-56690949",
-    "upvotes": 178,
+    "upvotes": 188,
     "author": "spzb",
-    "comments": 81,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=26778073"
   },
   {
-    "title": "Windows 10 taskbar is now pushing Microsoft Edge web apps",
-    "url": "https://www.windowslatest.com/2021/04/11/windows-10-taskbar-is-now-pushing-microsoft-edge-web-apps/",
-    "upvotes": 19,
-    "author": "Arigato",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26780140"
+    "title": "Non-Fungible Taylor Swift",
+    "url": "https://stratechery.com/2021/non-fungible-taylor-swift/",
+    "upvotes": 37,
+    "author": "juokaz",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26779706"
   },
   {
     "title": "What was the point of [ “x$var” = “xval” ]?",
     "url": "https://www.vidarholen.net/contents/blog/?p=1035",
-    "upvotes": 238,
+    "upvotes": 250,
     "author": "JNRowe",
-    "comments": 135,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=26776956"
+  },
+  {
+    "title": "RMS addresses the free software community",
+    "url": "https://www.fsf.org/news/rms-addresses-the-free-software-community",
+    "upvotes": 110,
+    "author": "caution",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26780192"
+  },
+  {
+    "title": "Amp: Vi-like terminal editor written in Rust",
+    "url": "https://www.amp.rs/",
+    "upvotes": 28,
+    "author": "cassepipe",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26779949"
   },
   {
     "title": "Mugo, a toy compiler for a subset of Go that can compile itself",
     "url": "https://benhoyt.com/writings/mugo/",
-    "upvotes": 103,
+    "upvotes": 110,
     "author": "benhoyt",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26777705"
@@ -42,49 +66,33 @@
   {
     "title": "When real world mapping meets Tolkien",
     "url": "https://www.ordnancesurvey.co.uk/newsroom/blog/real-world-mapping-meets-tolkien",
-    "upvotes": 140,
+    "upvotes": 148,
     "author": "dcminter",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26770385"
   },
   {
-    "title": "Amp: Vi-like batteries-included terminal editor written in Rust",
-    "url": "https://www.amp.rs/",
-    "upvotes": 14,
-    "author": "cassepipe",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26779949"
+    "title": "Windows 10 taskbar is now pushing Microsoft Edge web apps",
+    "url": "https://www.windowslatest.com/2021/04/11/windows-10-taskbar-is-now-pushing-microsoft-edge-web-apps/",
+    "upvotes": 49,
+    "author": "Arigato",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=26780140"
   },
   {
     "title": "Cloudflare Pages is now Generally Available",
     "url": "https://blog.cloudflare.com/cloudflare-pages-ga/",
-    "upvotes": 132,
+    "upvotes": 149,
     "author": "rita3ko",
-    "comments": 40,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26778894"
-  },
-  {
-    "title": "Use Console.log",
-    "url": "https://markodenic.com/use-console-log-like-a-pro/",
-    "upvotes": 4,
-    "author": "vuciv1",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26779800"
-  },
-  {
-    "title": "Non-Fungible Taylor Swift",
-    "url": "https://stratechery.com/2021/non-fungible-taylor-swift/",
-    "upvotes": 9,
-    "author": "juokaz",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26779706"
   },
   {
     "title": "Step inside NYC’s competitive slotcar racing scene",
     "url": "https://arstechnica.com/cars/2019/01/step-inside-nycs-competitive-slotcar-racing-scene/",
-    "upvotes": 24,
+    "upvotes": 27,
     "author": "Tomte",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26760513"
   },
   {
@@ -92,147 +100,139 @@
     "url": "https://www.lumi.com/jobs"
   },
   {
-    "title": "Traversing nested data-structures in various languages",
-    "url": "https://github.com/josevalim/nested-data-structure-traversal",
-    "upvotes": 82,
-    "author": "self",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26776786"
+    "title": "Statement of FSF board on election of Richard Stallman",
+    "url": "https://www.fsf.org/news/statement-of-fsf-board-on-election-of-richard-stallman",
+    "upvotes": 15,
+    "author": "tjr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26780244"
   },
   {
-    "title": "800-year-old medieval pottery fragments reveal Jewish dietary practices",
-    "url": "https://www.medievalists.net/2021/04/medieval-jewish-dietary-practices/",
-    "upvotes": 81,
-    "author": "Petiver",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26757548"
+    "title": "Traversing nested data-structures in various languages",
+    "url": "https://github.com/josevalim/nested-data-structure-traversal",
+    "upvotes": 89,
+    "author": "self",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26776786"
   },
   {
     "title": "The Ratings Game, Part 1: A Likely and an Unlikely Suspect",
     "url": "https://www.filfre.net/2021/04/the-ratings-game-part-1-a-likely-and-an-unlikely-suspect/",
-    "upvotes": 32,
+    "upvotes": 34,
     "author": "doppp",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26767279"
   },
   {
+    "title": "800-year-old medieval pottery fragments reveal Jewish dietary practices",
+    "url": "https://www.medievalists.net/2021/04/medieval-jewish-dietary-practices/",
+    "upvotes": 84,
+    "author": "Petiver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26757548"
+  },
+  {
+    "title": "The Hard Crowd by Rachel Kushner – New Journalism given a new lease of life",
+    "url": "https://www.theguardian.com/books/2021/mar/29/the-hard-crowd-by-rachel-kushner-review-new-journalism-given-a-new-lease-of-life",
+    "upvotes": 4,
+    "author": "samclemens",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26767674"
+  },
+  {
     "title": "Compressing and enhancing hand-written notes",
     "url": "https://mzucker.github.io/2016/09/20/noteshrink.html",
-    "upvotes": 166,
+    "upvotes": 170,
     "author": "djoldman",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26762909"
   },
   {
+    "title": "Human Taste Buds Can Tell the Difference Between Normal and 'Heavy' Water",
+    "url": "https://www.sciencealert.com/there-s-one-kind-of-water-that-doesn-t-taste-like-water-scientists-confirm",
+    "upvotes": 10,
+    "author": "lnyan",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26780206"
+  },
+  {
+    "title": "Using the Switch",
+    "url": "https://seanbarry.dev/posts/switch-true-pattern",
+    "upvotes": 33,
+    "author": "seanbarry",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26777090"
+  },
+  {
+    "title": "Social networks neither ‘social’ nor ‘networks’ – what should we call them?",
+    "url": "https://medium.com/@rocketsyntax/social-networks-neither-social-nor-networks-what-should-we-call-them-c87b6898fba9",
+    "upvotes": 11,
+    "author": "RocketSyntax",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26779979"
+  },
+  {
+    "title": "Intel: Advances in silicon photonics can break the I/O “power wall”",
+    "url": "https://venturebeat.com/2021/04/12/intel-advances-in-silicon-photonics-can-break-the-i-o-power-wall-with-less-energy-higher-throughput/",
+    "upvotes": 34,
+    "author": "alexrustic",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26779247"
+  },
+  {
     "title": "Binary Lambda Calculus",
     "url": "https://www.ioccc.org/2012/tromp/hint.html",
-    "upvotes": 48,
+    "upvotes": 51,
     "author": "tosh",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26769650"
   },
   {
-    "title": "Intel: Advances in silicon photonics can break the I/O “power wall”",
-    "url": "https://venturebeat.com/2021/04/12/intel-advances-in-silicon-photonics-can-break-the-i-o-power-wall-with-less-energy-higher-throughput/",
-    "upvotes": 23,
-    "author": "alexrustic",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26779247"
-  },
-  {
-    "title": "Using the Switch",
-    "url": "https://seanbarry.dev/posts/switch-true-pattern",
-    "upvotes": 22,
-    "author": "seanbarry",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26777090"
-  },
-  {
     "title": "Go HTTPS Servers with TLS",
     "url": "https://eli.thegreenplace.net/2021/go-https-servers-with-tls/",
-    "upvotes": 88,
+    "upvotes": 90,
     "author": "signa11",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26767252"
+  },
+  {
+    "title": "Does the Universe Have Higher Dimensions? Part 1",
+    "url": "https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html",
+    "upvotes": 106,
+    "author": "sohkamyung",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26775447"
+  },
+  {
+    "title": "Illegal Prime Numbers",
+    "url": "https://en.wikipedia.org/wiki/Illegal_prime",
+    "upvotes": 168,
+    "author": "neatze",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=26776949"
   },
   {
     "title": "TorBox v.0.4.0",
     "url": "https://www.torbox.ch/?p=2027",
-    "upvotes": 70,
+    "upvotes": 71,
     "author": "h0ek",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26776390"
   },
   {
-    "title": "Illegal Prime Numbers",
-    "url": "https://en.wikipedia.org/wiki/Illegal_prime",
-    "upvotes": 157,
-    "author": "neatze",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=26776949"
-  },
-  {
-    "title": "Does the Universe Have Higher Dimensions? Part 1",
-    "url": "https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html",
-    "upvotes": 101,
-    "author": "sohkamyung",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=26775447"
-  },
-  {
     "title": "Proxmox PCI Switcher – Switch among Guest VMs organized by Resource Pool",
     "url": "https://github.com/rosineygp/proxmox-pci-switcher",
-    "upvotes": 22,
+    "upvotes": 27,
     "author": "rosineygp",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26762125"
   },
   {
     "title": "Facebook slow to address political manipulation in poor, small countries",
     "url": "https://www.theguardian.com/technology/2021/apr/12/facebook-loophole-state-backed-manipulation",
-    "upvotes": 263,
+    "upvotes": 274,
     "author": "erdo",
-    "comments": 115,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=26777374"
-  },
-  {
-    "title": "Social network neither social nor network – what to call them?",
-    "url": "https://medium.com/@rocketsyntax/social-networks-neither-social-nor-networks-what-should-we-call-them-c87b6898fba9",
-    "upvotes": 4,
-    "author": "RocketSyntax",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26779979"
-  },
-  {
-    "title": "A campaign to make environmental destruction an international crime",
-    "url": "https://www.politico.eu/article/ecocide-environmental-crime/",
-    "upvotes": 223,
-    "author": "Quanttek",
-    "comments": 180,
-    "link": "https://news.ycombinator.com/item?id=26778307"
-  },
-  {
-    "title": "Human Taste Buds Can Tell the Difference Between Normal and 'Heavy' Water",
-    "url": "https://www.sciencealert.com/there-s-one-kind-of-water-that-doesn-t-taste-like-water-scientists-confirm",
-    "upvotes": 3,
-    "author": "lnyan",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26780206"
-  },
-  {
-    "title": "MLJ.jl: A Julia package for composable machine learning",
-    "url": "https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features",
-    "upvotes": 219,
-    "author": "amkkma",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26774590"
-  },
-  {
-    "title": "Trans-Planetary Subway Systems",
-    "url": "https://www.rand.org/pubs/papers/P6092.html",
-    "upvotes": 38,
-    "author": "simonebrunozzi",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26770256"
   }
 ]
