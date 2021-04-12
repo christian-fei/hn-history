@@ -1,143 +1,191 @@
 [
   {
+    "title": "What was the point of [ “x$var” = “xval” ]?",
+    "url": "https://www.vidarholen.net/contents/blog/?p=1035",
+    "upvotes": 23,
+    "author": "JNRowe",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26776956"
+  },
+  {
+    "title": "Äike – First e-scooter developed and assembled in Europe",
+    "url": "https://rideaike.com/",
+    "upvotes": 13,
+    "author": "possiblelion",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26777008"
+  },
+  {
     "title": "MLJ.jl: A Julia package for composable machine learning",
     "url": "https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features",
-    "upvotes": 177,
+    "upvotes": 182,
     "author": "amkkma",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26774590"
   },
   {
     "title": "Traversing nested data-structures in various languages",
     "url": "https://github.com/josevalim/nested-data-structure-traversal",
-    "upvotes": 7,
+    "upvotes": 12,
     "author": "self",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26776786"
   },
   {
     "title": "std::unique_ptr implementation backed by Ethereum NFTs",
     "url": "https://github.com/zhuowei/nft_ptr",
-    "upvotes": 353,
+    "upvotes": 368,
     "author": "abhorrence",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26773637"
+  },
+  {
+    "title": "TorBox v.0.4.0",
+    "url": "https://www.torbox.ch/?p=2027",
+    "upvotes": 17,
+    "author": "h0ek",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26776390"
   },
   {
     "title": "MiSTer, an open-source FPGA gaming project",
     "url": "https://github.com/MiSTer-devel/Main_MiSTer/wiki",
-    "upvotes": 294,
+    "upvotes": 296,
     "author": "tediousdemise",
-    "comments": 78,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26772151"
+  },
+  {
+    "title": "Retool – Fixing product debt without PMs",
+    "url": "https://www.supercalifragilistic.co/p/retool",
+    "upvotes": 9,
+    "author": "tanguyls",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26777059"
   },
   {
     "title": "Technologies I thought my son would never use",
     "url": "https://www.tomshardware.com/opinion/15-technology-predictions-how-they-did",
-    "upvotes": 306,
+    "upvotes": 311,
     "author": "CrankyBear",
-    "comments": 390,
+    "comments": 402,
     "link": "https://news.ycombinator.com/item?id=26771623"
-  },
-  {
-    "title": "Compressing and enhancing hand-written notes",
-    "url": "https://mzucker.github.io/2016/09/20/noteshrink.html",
-    "upvotes": 48,
-    "author": "djoldman",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26762909"
-  },
-  {
-    "title": "Stuxnet sibling theory surges after Iran says nuke facility shut down",
-    "url": "https://www.theregister.com/2021/04/12/iran_cyber_attack_theory/",
-    "upvotes": 36,
-    "author": "beermonster",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26776698"
-  },
-  {
-    "title": "SUBLEQ and DawnOS",
-    "url": "https://esoteric.codes/blog/a-programming-language-with-only-one-command-and",
-    "upvotes": 48,
-    "author": "weare138",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26775501"
   },
   {
     "title": "Bonsai",
     "url": "https://angel.co/company/bonsai/jobs/1264053-product-manager-lead"
   },
   {
+    "title": "Compressing and enhancing hand-written notes",
+    "url": "https://mzucker.github.io/2016/09/20/noteshrink.html",
+    "upvotes": 52,
+    "author": "djoldman",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26762909"
+  },
+  {
+    "title": "SUBLEQ and DawnOS",
+    "url": "https://esoteric.codes/blog/a-programming-language-with-only-one-command-and",
+    "upvotes": 50,
+    "author": "weare138",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26775501"
+  },
+  {
+    "title": "800-year-old medieval pottery fragments reveal Jewish dietary practices",
+    "url": "https://www.medievalists.net/2021/04/medieval-jewish-dietary-practices/",
+    "upvotes": 10,
+    "author": "Petiver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26757548"
+  },
+  {
+    "title": "Stuxnet sibling theory surges after Iran says nuke facility shut down",
+    "url": "https://www.theregister.com/2021/04/12/iran_cyber_attack_theory/",
+    "upvotes": 39,
+    "author": "beermonster",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26776698"
+  },
+  {
     "title": "Does the Universe Have Higher Dimensions? Part 1",
     "url": "https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "sohkamyung",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26775447"
   },
   {
-    "title": "TorBox v.0.4.0",
-    "url": "https://www.torbox.ch/?p=2027",
-    "upvotes": 11,
-    "author": "h0ek",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26776390"
-  },
-  {
-    "title": "Tesla hikes solar roof price on contracts signed over a year ago",
-    "url": "https://electrek.co/2021/04/11/tesla-hikes-solar-roof-price-on-contracts-signed-over-a-year-ago/",
-    "upvotes": 105,
-    "author": "ping_pong",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=26776510"
-  },
-  {
     "title": "Linux, macOS, and Windows running simultaneously on a first gen Core i5",
     "url": "https://lukesempire.com/2021/04/11/vms",
-    "upvotes": 170,
+    "upvotes": 176,
     "author": "luke2m",
-    "comments": 72,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=26773310"
   },
   {
     "title": "Creating a minimalist blog with Jekyll Now",
     "url": "https://vdf.dev/blog/Creating-minimalist-blog-with-Jekyll-now/",
-    "upvotes": 45,
+    "upvotes": 47,
     "author": "flamecoals",
-    "comments": 48,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26776210"
   },
   {
     "title": "Go HTTPS Servers with TLS",
     "url": "https://eli.thegreenplace.net/2021/go-https-servers-with-tls/",
-    "upvotes": 29,
+    "upvotes": 35,
     "author": "signa11",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26767252"
   },
   {
     "title": "Forgotten Memories of Traumatic Events Get Some Backing from Brain-Imaging",
     "url": "https://www.scientificamerican.com/article/forgotten-memories-of-traumatic-events-get-some-backing-from-brain-imaging-studies/",
-    "upvotes": 42,
+    "upvotes": 46,
     "author": "pseudolus",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26769436"
-  },
-  {
-    "title": "Illegal Prime Numbers",
-    "url": "https://en.wikipedia.org/wiki/Illegal_prime",
-    "upvotes": 15,
-    "author": "neatze",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26776949"
   },
   {
     "title": "Microsoft in advanced talks to buy Nuance",
     "url": "https://www.cnbc.com/2021/04/11/microsoft-in-advanced-talks-to-buy-speech-recognition-company-nuance.html",
-    "upvotes": 66,
+    "upvotes": 68,
     "author": "jbredeche",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26774367"
+  },
+  {
+    "title": "Illegal Prime Numbers",
+    "url": "https://en.wikipedia.org/wiki/Illegal_prime",
+    "upvotes": 21,
+    "author": "neatze",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26776949"
+  },
+  {
+    "title": "X-Seed 4000",
+    "url": "https://en.wikipedia.org/wiki/X-Seed_4000",
+    "upvotes": 6,
+    "author": "keiferski",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26777147"
+  },
+  {
+    "title": "Tesla hikes solar roof price on contracts signed over a year ago",
+    "url": "https://electrek.co/2021/04/11/tesla-hikes-solar-roof-price-on-contracts-signed-over-a-year-ago/",
+    "upvotes": 110,
+    "author": "ping_pong",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=26776510"
+  },
+  {
+    "title": "The Healing Power of Code",
+    "url": "https://www.wired.com/story/healing-power-javascript-code-programming/",
+    "upvotes": 33,
+    "author": "cmod",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26767321"
   },
   {
     "title": "Biological Warfare in Eighteenth-Century America: Beyond Jeffery Amherst",
@@ -148,91 +196,43 @@
     "link": "https://news.ycombinator.com/item?id=26757715"
   },
   {
-    "title": "800-year-old medieval pottery fragments reveal Jewish dietary practices",
-    "url": "https://www.medievalists.net/2021/04/medieval-jewish-dietary-practices/",
-    "upvotes": 3,
-    "author": "Petiver",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26757548"
-  },
-  {
-    "title": "An environmental disaster was uncovered off California after 70 years",
-    "url": "https://www.cbsnews.com/news/california-ddt-environmental-disaster-sea-lions/",
-    "upvotes": 72,
-    "author": "jdkee",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26776086"
-  },
-  {
-    "title": "The Healing Power of Code",
-    "url": "https://www.wired.com/story/healing-power-javascript-code-programming/",
-    "upvotes": 27,
-    "author": "cmod",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26767321"
-  },
-  {
     "title": "Perlis' Epigrams",
     "url": "http://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "phab",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26770684"
   },
   {
+    "title": "An environmental disaster was uncovered off California after 70 years",
+    "url": "https://www.cbsnews.com/news/california-ddt-environmental-disaster-sea-lions/",
+    "upvotes": 74,
+    "author": "jdkee",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26776086"
+  },
+  {
     "title": "Problems with JPA/Hibernate",
     "url": "https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/",
-    "upvotes": 73,
+    "upvotes": 77,
     "author": "stemlaur",
-    "comments": 132,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=26772550"
   },
   {
     "title": "Linguist’s analysis of body cam footage of George Floyd in Derek Chauvin trial",
     "url": "https://www.languagejones.com/blog-1/2021/4/11/i-ate-too-many-drugs-are-you-kidding-me",
-    "upvotes": 35,
+    "upvotes": 38,
     "author": "tazjin",
-    "comments": 26,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26773513"
   },
   {
-    "title": "Long Live Sandboxing",
-    "url": "https://noncombatant.org/2021/04/11/long-live-sandboxing/",
-    "upvotes": 19,
-    "author": "mooreds",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26775143"
-  },
-  {
-    "title": "No success like failure – a natural history of the film maudit",
-    "url": "https://www.bfi.org.uk/sight-and-sound/features/films-maudit-cursed-films-natural-history",
-    "upvotes": 31,
-    "author": "prismatic",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26767663"
-  },
-  {
-    "title": "Google reportedly ran secret ‘Project Bernanke’ to boost its ad-buying system",
-    "url": "https://www.theverge.com/2021/4/11/22378296/google-secret-project-bernanke-ad-buying-competitors-texas",
-    "upvotes": 8,
-    "author": "stephc_int13",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26776990"
-  },
-  {
-    "title": "The Ponzi Career",
-    "url": "https://www.drorpoleg.com/the-ponzi-career/",
-    "upvotes": 420,
-    "author": "elsewhen",
-    "comments": 238,
-    "link": "https://news.ycombinator.com/item?id=26770562"
-  },
-  {
-    "title": "Listening and building trust: starting as I mean to go on",
-    "url": "https://www.gov.uk/government/news/listening-and-building-trust-starting-as-i-mean-to-go-on",
-    "upvotes": 29,
-    "author": "DanBC",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26768649"
+    "title": "Surround Sound in Headphones",
+    "url": "https://www.soundguys.com/surround-sound-headphones-guide-49389/",
+    "upvotes": 43,
+    "author": "giuliomagnifico",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26767996"
   }
 ]
