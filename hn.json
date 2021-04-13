@@ -1,51 +1,59 @@
 [
   {
+    "title": "The True Meaning of Technical Debt",
+    "url": "https://refactoring.fm/p/the-true-meaning-of-technical-debt",
+    "upvotes": 28,
+    "author": "srijan4",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26791138"
+  },
+  {
     "title": "The Dawn of a new Command Line Interface",
     "url": "https://arcan-fe.com/2017/07/12/the-dawn-of-a-new-command-line-interface/",
-    "upvotes": 40,
+    "upvotes": 56,
     "author": "harporoeder",
-    "comments": 18,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26790380"
-  },
-  {
-    "title": "US agencies call for pause in Johnson & Johnson vaccine",
-    "url": "https://www.bbc.co.uk/news/world-us-canada-56733715",
-    "upvotes": 41,
-    "author": "kjakm",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26790881"
-  },
-  {
-    "title": "Natto.dev – A Canvas for JavaScript",
-    "url": "https://natto.dev",
-    "upvotes": 58,
-    "author": "stigi",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26790285"
   },
   {
     "title": "Kaboom – JavaScript game programming library and environment",
     "url": "https://replit.com/kaboom",
-    "upvotes": 123,
+    "upvotes": 137,
     "author": "kiyanwang",
-    "comments": 41,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=26789022"
+  },
+  {
+    "title": "Natto.dev – A Canvas for JavaScript",
+    "url": "https://natto.dev",
+    "upvotes": 79,
+    "author": "stigi",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=26790285"
   },
   {
     "title": "Vincent Chan: Inside PayPal",
     "url": "http://paulgraham.com/paypal.html",
-    "upvotes": 75,
+    "upvotes": 80,
     "author": "prakhargurunani",
-    "comments": 15,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26789010"
   },
   {
     "title": "Chrome zero-day released on GitHub",
     "url": "https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160",
-    "upvotes": 340,
+    "upvotes": 346,
     "author": "alpb",
-    "comments": 127,
+    "comments": 129,
     "link": "https://news.ycombinator.com/item?id=26786326"
+  },
+  {
+    "title": "CEO: Intel in talks to produce chips for automakers within six to nine months",
+    "url": "https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4",
+    "upvotes": 265,
+    "author": "alexrustic",
+    "comments": 174,
+    "link": "https://news.ycombinator.com/item?id=26786264"
   },
   {
     "title": "Streak",
@@ -54,111 +62,127 @@
   {
     "title": "Gitlet.js – Git implemented in 1k lines of JavaScript",
     "url": "http://gitlet.maryrosecook.com/docs/gitlet.html",
-    "upvotes": 287,
+    "upvotes": 293,
     "author": "tambourine_man",
-    "comments": 67,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26787376"
   },
   {
-    "title": "CEO: Intel in talks to produce chips for automakers within six to nine months",
-    "url": "https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4",
-    "upvotes": 257,
-    "author": "alexrustic",
-    "comments": 174,
-    "link": "https://news.ycombinator.com/item?id=26786264"
+    "title": "How many device can you connect to I2C Bus?",
+    "url": "https://www.bluedot.space/tutorials/how-many-devices-can-you-connect-on-i2c-bus/",
+    "upvotes": 8,
+    "author": "drmacak",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26790862"
   },
   {
     "title": "Just Be Rich",
     "url": "https://keenen.xyz/just-be-rich/",
-    "upvotes": 1147,
+    "upvotes": 1248,
     "author": "kjcharles",
-    "comments": 524,
+    "comments": 572,
     "link": "https://news.ycombinator.com/item?id=26787654"
   },
   {
-    "title": "CVE Alerting Platform",
-    "url": "https://github.com/opencve/opencve",
-    "upvotes": 53,
-    "author": "ncrocfer",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26789093"
+    "title": "Tracking Users Across the Web via TLS Session Resumption",
+    "url": "https://svs.informatik.uni-hamburg.de/publications/2018/2018-12-06-Sy-ACSAC-Tracking_Users_across_the_Web_via_TLS_Session_Resumption.pdf",
+    "upvotes": 3,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26791186"
   },
   {
     "title": "The war against money-laundering is being lost",
     "url": "https://www.economist.com/finance-and-economics/2021/04/12/the-war-against-money-laundering-is-being-lost",
-    "upvotes": 143,
+    "upvotes": 159,
     "author": "pseudolus",
-    "comments": 113,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=26786810"
+  },
+  {
+    "title": "CVE Alerting Platform",
+    "url": "https://github.com/opencve/opencve",
+    "upvotes": 54,
+    "author": "ncrocfer",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26789093"
   },
   {
     "title": "Adobe charges subscription cancellation fee",
     "url": "https://twitter.com/MRDADDGUY/status/1381628427246039045",
-    "upvotes": 580,
+    "upvotes": 609,
     "author": "CSDude",
-    "comments": 442,
+    "comments": 468,
     "link": "https://news.ycombinator.com/item?id=26786563"
   },
   {
     "title": "How Finland rebranded itself as a literary country",
     "url": "https://www.theparisreview.org/blog/2018/07/16/how-finland-rebranded-itself-as-a-literary-country/",
-    "upvotes": 14,
+    "upvotes": 17,
     "author": "macbookaries",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26777905"
   },
   {
     "title": "The Beauty of Bresenham's Algorithm",
     "url": "http://members.chello.at/easyfilter/bresenham.html",
-    "upvotes": 24,
+    "upvotes": 28,
     "author": "ingve",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26777800"
-  },
-  {
-    "title": "Pessimal Algorithms and Simplexity Analysis [pdf]",
-    "url": "https://www.mipmip.org/tidbits/pasa.pdf",
-    "upvotes": 10,
-    "author": "belter",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26777977"
   },
   {
     "title": "Playing the Open Source Game",
     "url": "https://kristoff.it/blog/the-open-source-game/",
-    "upvotes": 151,
+    "upvotes": 157,
     "author": "lladnar",
-    "comments": 44,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26786372"
   },
   {
     "title": "Let us now praise tiny ants",
     "url": "https://www.nytimes.com/2021/04/05/science/ants-wilson-photography-niga-rice.html",
-    "upvotes": 73,
+    "upvotes": 74,
     "author": "Hooke",
-    "comments": 45,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26786932"
+  },
+  {
+    "title": "Pessimal Algorithms and Simplexity Analysis [pdf]",
+    "url": "https://www.mipmip.org/tidbits/pasa.pdf",
+    "upvotes": 14,
+    "author": "belter",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26777977"
+  },
+  {
+    "title": "The Mundell Difference",
+    "url": "https://voxeu.org/article/mundell-difference",
+    "upvotes": 3,
+    "author": "nabla9",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26777967"
   },
   {
     "title": "Skies went dark: Historians pinpoint the 'worst year' ever to be alive",
     "url": "https://www.accuweather.com/en/severe-weather/historians-pinpoint-the-very-worst-year-to-ever-be-alive/927803",
-    "upvotes": 89,
+    "upvotes": 95,
     "author": "pseudolus",
-    "comments": 76,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26786838"
   },
   {
     "title": "Kunst Der Fuge Collection – Free Classical MIDI Files",
     "url": "http://www.kunstderfuge.com/",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "eternalban",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26776927"
   },
   {
     "title": "Mathematician Disproves 80-Year-Old Algebra Conjecture",
     "url": "https://www.quantamagazine.org/mathematician-disproves-group-algebra-unit-conjecture-20210412/",
-    "upvotes": 74,
+    "upvotes": 75,
     "author": "pseudolus",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26787472"
@@ -166,31 +190,15 @@
   {
     "title": "Depends on Every Package in NPM",
     "url": "https://www.npmjs.com/package/no-one-left-behind",
-    "upvotes": 42,
+    "upvotes": 43,
     "author": "fctorial",
-    "comments": 7,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26787857"
-  },
-  {
-    "title": "Learn C in Y Minutes",
-    "url": "https://learnxinyminutes.com/docs/c/",
-    "upvotes": 32,
-    "author": "optimalsolver",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26789757"
-  },
-  {
-    "title": "Nominet chooses civil war over compromise by rejecting ex-BBC Trust chairman",
-    "url": "https://www.theregister.com/2021/04/13/nominet_civil_war/",
-    "upvotes": 52,
-    "author": "samizdis",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26789634"
   },
   {
     "title": "Student's physics homework picked up by Amazon quantum researchers",
     "url": "https://www.sydney.edu.au/news-opinion/news/2021/04/13/student-physics-homework-picked-up-by-amazon-web-services-quantum.html",
-    "upvotes": 71,
+    "upvotes": 73,
     "author": "jakecopp",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26786670"
@@ -200,39 +208,31 @@
     "url": "https://www.vidarholen.net/contents/blog/?p=1035",
     "upvotes": 388,
     "author": "JNRowe",
-    "comments": 216,
+    "comments": 217,
     "link": "https://news.ycombinator.com/item?id=26776956"
+  },
+  {
+    "title": "Nominet chooses civil war over compromise by rejecting ex-BBC Trust chairman",
+    "url": "https://www.theregister.com/2021/04/13/nominet_civil_war/",
+    "upvotes": 59,
+    "author": "samizdis",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26789634"
   },
   {
     "title": "OpenSearch: AWS fork of Elasticsearch and Kibana",
     "url": "https://aws.amazon.com/blogs/opensource/introducing-opensearch/",
-    "upvotes": 646,
+    "upvotes": 649,
     "author": "ke4qqq",
-    "comments": 393,
+    "comments": 394,
     "link": "https://news.ycombinator.com/item?id=26780848"
-  },
-  {
-    "title": "Blue Noise in Futhark",
-    "url": "https://munksgaard.github.io/bluenoise/",
-    "upvotes": 23,
-    "author": "Munksgaard",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26777427"
   },
   {
     "title": "Private Home Directories for Ubuntu 21.04",
     "url": "https://ubuntu.com/blog/private-home-directories-for-ubuntu-21-04",
-    "upvotes": 91,
+    "upvotes": 97,
     "author": "oedmarap",
-    "comments": 72,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26778376"
-  },
-  {
-    "title": "Microsoft buys Nuance for nearly $20B",
-    "url": "https://www.axios.com/microsoft-readies-deal-frenzy-bbc807a2-fd5b-48a7-99d1-cf06d0a41547.html",
-    "upvotes": 625,
-    "author": "moritzplassnig",
-    "comments": 381,
-    "link": "https://news.ycombinator.com/item?id=26778780"
   }
 ]
