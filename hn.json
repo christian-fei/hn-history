@@ -2,23 +2,23 @@
   {
     "title": "Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer",
     "url": "https://signal.org/blog/cellebrite-vulnerabilities/",
-    "upvotes": 283,
+    "upvotes": 324,
     "author": "derekerdmann",
-    "comments": 60,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26891811"
   },
   {
     "title": "“They introduce kernel bugs on purpose”",
     "url": "https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/",
-    "upvotes": 1312,
+    "upvotes": 1380,
     "author": "kdbg",
-    "comments": 1294,
+    "comments": 1315,
     "link": "https://news.ycombinator.com/item?id=26887670"
   },
   {
-    "title": "Large collection of machine learning paper notes",
+    "title": "My collection of machine learning paper notes",
     "url": "https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c",
-    "upvotes": 113,
+    "upvotes": 116,
     "author": "yobibyte",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26891227"
@@ -26,57 +26,57 @@
   {
     "title": "Beam VM Wisdoms",
     "url": "http://beam-wisdoms.clau.se/en/latest/",
-    "upvotes": 184,
+    "upvotes": 190,
     "author": "Tomte",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26889048"
   },
   {
     "title": "On the bare necessity of psychological safety",
     "url": "https://medium.com/luminovo/on-the-bare-necessity-of-psychological-safety-bdb34e311b8c",
-    "upvotes": 53,
+    "upvotes": 58,
     "author": "timonbimon",
-    "comments": 27,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26860743"
   },
   {
     "title": "GUI app support is now available for the Windows Subsystem for Linux",
     "url": "https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/",
-    "upvotes": 147,
+    "upvotes": 173,
     "author": "velmu",
-    "comments": 49,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26892508"
   },
   {
     "title": "New Bill to Ban US Government from Buying Location Data [pdf]",
     "url": "https://www.wyden.senate.gov/imo/media/doc/The%20Fourth%20Amendment%20Is%20Not%20For%20Sale%20Act%20of%202021%20Bill%20Text.pdf",
-    "upvotes": 262,
+    "upvotes": 271,
     "author": "jbegley",
-    "comments": 87,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=26890365"
-  },
-  {
-    "title": "Tracking the WhatsApp habits of 5000 random Smartphones",
-    "url": "https://jorislacance.fr/blog/2021/04/16/whatsapp-tracking-2",
-    "upvotes": 147,
-    "author": "jorislacance",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=26889139"
   },
   {
     "title": "The Culture of Whales",
     "url": "https://www.npr.org/sections/pictureshow/2021/04/19/988028339/photos-the-culture-of-whales",
-    "upvotes": 22,
+    "upvotes": 27,
     "author": "pseudolus",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26873711"
+  },
+  {
+    "title": "Mycodo – open-source environmental regulation system",
+    "url": "https://github.com/kizniche/Mycodo",
+    "upvotes": 9,
+    "author": "fbodz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26861471"
   },
   {
     "title": "How many x86 instructions are there?",
     "url": "https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/",
-    "upvotes": 87,
+    "upvotes": 90,
     "author": "sandinmyjoints",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26889108"
   },
   {
@@ -84,89 +84,89 @@
     "url": "https://www.truebill.com/careers/"
   },
   {
+    "title": "Tracking the WhatsApp habits of 5000 random Smartphones",
+    "url": "https://jorislacance.fr/blog/2021/04/16/whatsapp-tracking-2",
+    "upvotes": 152,
+    "author": "jorislacance",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=26889139"
+  },
+  {
+    "title": "Show HN: I made a tool to communicate data using the PC speaker",
+    "url": "https://github.com/ggerganov/ggwave/tree/master/examples/r2t2",
+    "upvotes": 21,
+    "author": "ggerganov",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26892930"
+  },
+  {
     "title": "Hunting down the stuck BGP routes",
     "url": "https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window",
-    "upvotes": 158,
+    "upvotes": 161,
     "author": "bswinnerton",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26887658"
   },
   {
     "title": "Prisma – A Complete ORM for Node.js and TypeScript",
     "url": "https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb",
-    "upvotes": 333,
+    "upvotes": 337,
     "author": "Sujan",
     "comments": 204,
     "link": "https://news.ycombinator.com/item?id=26887724"
   },
   {
-    "title": "Daily Mail owner sues Google over search results",
-    "url": "https://www.bbc.co.uk/news/business-56828173",
-    "upvotes": 133,
-    "author": "fredoralive",
-    "comments": 220,
-    "link": "https://news.ycombinator.com/item?id=26887451"
-  },
-  {
     "title": "Starting a TypeScript Project in 2021",
     "url": "https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/",
-    "upvotes": 115,
+    "upvotes": 125,
     "author": "majodev",
-    "comments": 96,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=26888455"
   },
   {
-    "title": "Mycodo – open-source environmental regulation system",
-    "url": "https://github.com/kizniche/Mycodo",
-    "upvotes": 7,
-    "author": "fbodz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26861471"
-  },
-  {
-    "title": "Show HN: I made a tool to communicate data using the PC speaker",
-    "url": "https://github.com/ggerganov/ggwave/tree/master/examples/r2t2",
-    "upvotes": 17,
-    "author": "ggerganov",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26892930"
+    "title": "Daily Mail owner sues Google over search results",
+    "url": "https://www.bbc.co.uk/news/business-56828173",
+    "upvotes": 135,
+    "author": "fredoralive",
+    "comments": 225,
+    "link": "https://news.ycombinator.com/item?id=26887451"
   },
   {
     "title": "Starting a New Digital Identity",
     "url": "https://k3tan.com/starting-a-new-digital-identity",
-    "upvotes": 121,
+    "upvotes": 124,
     "author": "noch",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=26888067"
   },
   {
     "title": "India’s second wave",
     "url": "https://www.ft.com/content/683914a3-134f-40b6-989b-21e0ba1dc403",
-    "upvotes": 188,
+    "upvotes": 194,
     "author": "DanBC",
-    "comments": 226,
+    "comments": 235,
     "link": "https://news.ycombinator.com/item?id=26886829"
-  },
-  {
-    "title": "Statement on DNS Encryption [pdf]",
-    "url": "https://root-servers.org/media/news/Statement_on_DNS_Encryption.pdf",
-    "upvotes": 27,
-    "author": "moviuro",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26892217"
   },
   {
     "title": "The Discipline of Do Easy [video]",
     "url": "https://www.youtube.com/watch?v=eoOUBETTyMI",
-    "upvotes": 72,
+    "upvotes": 75,
     "author": "brudgers",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26876502"
   },
   {
+    "title": "Statement on DNS Encryption [pdf]",
+    "url": "https://root-servers.org/media/news/Statement_on_DNS_Encryption.pdf",
+    "upvotes": 29,
+    "author": "moviuro",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26892217"
+  },
+  {
     "title": "Netdata: Open-source real-time monitoring platform",
     "url": "https://github.com/netdata/netdata",
-    "upvotes": 203,
+    "upvotes": 205,
     "author": "dvfjsdhgfv",
     "comments": 89,
     "link": "https://news.ycombinator.com/item?id=26886792"
@@ -174,15 +174,23 @@
   {
     "title": "_hyperscript: A jQuery and JavaScript Alternative",
     "url": "https://hyperscript.org/comparison/",
-    "upvotes": 113,
+    "upvotes": 118,
     "author": "recursivedoubts",
-    "comments": 84,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=26873682"
+  },
+  {
+    "title": "Belarusian regime’s thugs shut down Imaguru, the country’s key startup hub",
+    "url": "https://techcrunch.com/2021/04/20/belarusian-regimes-thugs-shut-down-imaguru-the-countrys-key-startup-hub/",
+    "upvotes": 244,
+    "author": "tosh",
+    "comments": 178,
+    "link": "https://news.ycombinator.com/item?id=26886846"
   },
   {
     "title": "Show HN: High-speed UTF-8 validation in Rust",
     "url": "https://github.com/rusticstuff/simdutf8",
-    "upvotes": 99,
+    "upvotes": 100,
     "author": "kryps",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26887438"
@@ -192,23 +200,15 @@
     "url": "https://www.nature.com/articles/s41586-021-03266-z",
     "upvotes": 62,
     "author": "tokai",
-    "comments": 37,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26888189"
-  },
-  {
-    "title": "Belarusian regime’s thugs shut down Imaguru, the country’s key startup hub",
-    "url": "https://techcrunch.com/2021/04/20/belarusian-regimes-thugs-shut-down-imaguru-the-countrys-key-startup-hub/",
-    "upvotes": 237,
-    "author": "tosh",
-    "comments": 178,
-    "link": "https://news.ycombinator.com/item?id=26886846"
   },
   {
     "title": "Smart Contract Security for Pentesters",
     "url": "https://iosiro.com/blog/smart-contract-security-pentesters",
-    "upvotes": 47,
+    "upvotes": 48,
     "author": "dyates",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26888421"
   },
   {
@@ -222,7 +222,7 @@
   {
     "title": "Apple AirDrop shares more than files",
     "url": "https://www.informatik.tu-darmstadt.de/fb20/ueber_uns_details_231616.en.jsp",
-    "upvotes": 207,
+    "upvotes": 214,
     "author": "bala529",
     "comments": 63,
     "link": "https://news.ycombinator.com/item?id=26889665"
@@ -230,9 +230,9 @@
   {
     "title": "Making sense of what’s going on in the housing market",
     "url": "https://cobylefko.medium.com/no-were-not-in-a-bubble-f6bc44b960dd",
-    "upvotes": 113,
+    "upvotes": 116,
     "author": "wyldfire",
-    "comments": 262,
+    "comments": 269,
     "link": "https://news.ycombinator.com/item?id=26890236"
   }
 ]
