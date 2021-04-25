@@ -2,74 +2,82 @@
   {
     "title": "How Facebook encodes videos",
     "url": "https://engineering.fb.com/2021/04/05/video-engineering/how-facebook-encodes-your-videos/",
-    "upvotes": 64,
+    "upvotes": 84,
     "author": "nl",
-    "comments": 21,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26930702"
   },
   {
     "title": "Parsing Protobuf at 2+GB/S: How I Learned to Love Tail Calls in C",
     "url": "https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html",
-    "upvotes": 376,
+    "upvotes": 387,
     "author": "signa11",
-    "comments": 126,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=26931581"
-  },
-  {
-    "title": "Heroku-style deployments with Docker and Git tags",
-    "url": "https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/",
-    "upvotes": 70,
-    "author": "polyrand",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26935725"
   },
   {
     "title": "Has UML died without anyone noticing?",
     "url": "https://garba.org/posts/2021/uml/",
-    "upvotes": 364,
+    "upvotes": 378,
     "author": "azhenley",
-    "comments": 365,
+    "comments": 382,
     "link": "https://news.ycombinator.com/item?id=26934577"
   },
   {
-    "title": "Last Resort Font",
-    "url": "http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html",
-    "upvotes": 51,
-    "author": "isomorph",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26936027"
+    "title": "Heroku-style deployments with Docker and Git tags",
+    "url": "https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/",
+    "upvotes": 73,
+    "author": "polyrand",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26935725"
   },
   {
     "title": "Developers on what makes their games ‘hand-drawn’",
     "url": "https://www.polygon.com/interviews/22397934/indie-games-hand-drawn-artists-cozy-grove",
-    "upvotes": 72,
+    "upvotes": 73,
     "author": "homarp",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26931084"
   },
   {
+    "title": "Foundations of Information",
+    "url": "https://faculty.washington.edu/ajko/books/foundations-of-information/#/",
+    "upvotes": 8,
+    "author": "azhenley",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26937201"
+  },
+  {
     "title": "Internet down in Tumbler Ridge, B.C., after beaver chews through fibre cable",
     "url": "https://www.cbc.ca/news/canada/british-columbia/beaver-internet-down-tumbler-ridge-1.6001594",
-    "upvotes": 240,
+    "upvotes": 245,
     "author": "barbazoo",
-    "comments": 107,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=26935488"
   },
   {
     "title": "A Product Engineer’s Guide to Platform Engineers",
     "url": "https://rinaarts.medium.com/stupid-baboons-stubborn-elephants-c33412541bb1",
-    "upvotes": 58,
+    "upvotes": 62,
     "author": "absolute100",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26935504"
   },
   {
-    "title": "The knackerman: the toughest job in British farming",
-    "url": "https://www.theguardian.com/environment/2021/apr/13/the-knacker-the-toughest-job-in-british-farming",
-    "upvotes": 125,
-    "author": "sensiquest",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26930873"
+    "title": "Tiberius, Imperial Detective",
+    "url": "https://www.atlasobscura.com/articles/emperor-tiberius-murder-investigation",
+    "upvotes": 10,
+    "author": "diodorus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26929991"
+  },
+  {
+    "title": "Last Resort Font",
+    "url": "http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html",
+    "upvotes": 55,
+    "author": "isomorph",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26936027"
   },
   {
     "title": "Replit",
@@ -78,10 +86,26 @@
   {
     "title": "MIT study finds indoor mask wearing much more effective than social distancing",
     "url": "https://www.pnas.org/content/118/17/e2018995118",
-    "upvotes": 26,
+    "upvotes": 38,
     "author": "antattack",
-    "comments": 5,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26936977"
+  },
+  {
+    "title": "The knackerman: the toughest job in British farming",
+    "url": "https://www.theguardian.com/environment/2021/apr/13/the-knacker-the-toughest-job-in-british-farming",
+    "upvotes": 128,
+    "author": "sensiquest",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=26930873"
+  },
+  {
+    "title": "Cisco says computer chip shortage to last six months",
+    "url": "https://www.bbc.co.uk/news/technology-56847518",
+    "upvotes": 210,
+    "author": "mjmasn",
+    "comments": 131,
+    "link": "https://news.ycombinator.com/item?id=26931244"
   },
   {
     "title": "Casbin: An authorization library that supports authz models like ACL, RBAC, ABAC",
@@ -92,17 +116,9 @@
     "link": "https://news.ycombinator.com/item?id=26934520"
   },
   {
-    "title": "Cisco says computer chip shortage to last six months",
-    "url": "https://www.bbc.co.uk/news/technology-56847518",
-    "upvotes": 207,
-    "author": "mjmasn",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=26931244"
-  },
-  {
     "title": "MMPX Style-Preserving Pixel Art Magnification [pdf]",
     "url": "https://casual-effects.com/research/McGuire2021PixelArt/McGuire2021PixelArt.pdf",
-    "upvotes": 41,
+    "upvotes": 43,
     "author": "ingve",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26934973"
@@ -110,129 +126,113 @@
   {
     "title": "Ingenuity: NASA's Mars helicopter makes it three from three",
     "url": "https://www.bbc.co.uk/news/science-environment-56882257",
-    "upvotes": 38,
+    "upvotes": 43,
     "author": "rwmj",
-    "comments": 11,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26936457"
-  },
-  {
-    "title": "Tiberius, Imperial Detective",
-    "url": "https://www.atlasobscura.com/articles/emperor-tiberius-murder-investigation",
-    "upvotes": 5,
-    "author": "diodorus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26929991"
   },
   {
     "title": "3D Game Shaders for Beginners",
     "url": "https://github.com/lettier/3d-game-shaders-for-beginners",
-    "upvotes": 225,
+    "upvotes": 226,
     "author": "ingve",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26931372"
   },
   {
-    "title": "Swift on the Server",
-    "url": "https://theswiftdev.com/swift-on-the-server-in-2020/",
-    "upvotes": 74,
-    "author": "gozzoo",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=26935152"
-  },
-  {
     "title": "PCG32: The Perfect PRNG for Roguelikes",
     "url": "https://steveasleep.com/pcg32-the-perfect-prng-for-roguelikes.html",
-    "upvotes": 31,
+    "upvotes": 35,
     "author": "henning",
-    "comments": 6,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26934636"
-  },
-  {
-    "title": "The Quest for a Floating Utopia",
-    "url": "https://www.hakaimagazine.com/features/the-quest-for-a-floating-utopia/",
-    "upvotes": 17,
-    "author": "Thevet",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26934923"
   },
   {
     "title": "Apple sued for terminating account with $25k worth of apps and videos",
     "url": "https://arstechnica.com/tech-policy/2021/04/apple-faces-class-action-lawsuit-over-its-definition-of-the-word-buy/",
-    "upvotes": 548,
+    "upvotes": 552,
     "author": "imgabe",
-    "comments": 314,
+    "comments": 323,
     "link": "https://news.ycombinator.com/item?id=26932144"
+  },
+  {
+    "title": "The Quest for a Floating Utopia",
+    "url": "https://www.hakaimagazine.com/features/the-quest-for-a-floating-utopia/",
+    "upvotes": 18,
+    "author": "Thevet",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26934923"
   },
   {
     "title": "The joys of creating Xcode project files",
     "url": "https://nibblestew.blogspot.com/2021/04/the-joys-of-creating-xcode-project-files.html",
-    "upvotes": 129,
+    "upvotes": 130,
     "author": "ingve",
-    "comments": 78,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26932240"
   },
   {
-    "title": "Álvaro de Campos",
-    "url": "https://en.wikipedia.org/wiki/Álvaro_de_Campos",
-    "upvotes": 53,
-    "author": "apollinaire",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26929600"
+    "title": "U.S. military starts Afghanistan withdrawal",
+    "url": "https://www.axios.com/afghanistan-withdrawal-military-biden-ae0f0f96-4382-4a11-86ab-15b8bb8bcd34.html",
+    "upvotes": 7,
+    "author": "cwwc",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26936444"
   },
   {
-    "title": "Show HN: MarkShow – Create Slideshows with Markdown",
-    "url": "https://mark.show",
-    "upvotes": 189,
-    "author": "motyar",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26931098"
+    "title": "Swift on the Server",
+    "url": "https://theswiftdev.com/swift-on-the-server-in-2020/",
+    "upvotes": 77,
+    "author": "gozzoo",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=26935152"
   },
   {
     "title": "Simulation of Space Shuttle – STS 62 A Polar Express high altitude journey",
     "url": "https://forum.flightgear.org/viewtopic.php?f=87&t=38916",
-    "upvotes": 76,
+    "upvotes": 78,
     "author": "emondi",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26932517"
+  },
+  {
+    "title": "Before he wrote a thesaurus, Roget had to escape Napoleon’s dragnet",
+    "url": "https://www.smithsonianmag.com/arts-culture/roget-gets-last-word-180977459/",
+    "upvotes": 38,
+    "author": "Petiver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26929915"
+  },
+  {
+    "title": "Álvaro de Campos",
+    "url": "https://en.wikipedia.org/wiki/Álvaro_de_Campos",
+    "upvotes": 54,
+    "author": "apollinaire",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26929600"
   },
   {
     "title": "Why Do We Believe in Photographs?",
     "url": "https://www.thenation.com/article/culture/photography-belief-david-strauss-review/",
     "upvotes": 12,
     "author": "prismatic",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26928888"
-  },
-  {
-    "title": "Before he wrote a thesaurus, Roget had to escape Napoleon’s dragnet",
-    "url": "https://www.smithsonianmag.com/arts-culture/roget-gets-last-word-180977459/",
-    "upvotes": 37,
-    "author": "Petiver",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26929915"
-  },
-  {
-    "title": "JavaScript for Data Science",
-    "url": "http://js4ds.org/",
-    "upvotes": 127,
-    "author": "mrmagoo17",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26931296"
   },
   {
     "title": "The Slander Industry",
     "url": "https://www.nytimes.com/interactive/2021/04/24/technology/online-slander-websites.html",
-    "upvotes": 135,
+    "upvotes": 142,
     "author": "mcenedella",
-    "comments": 86,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=26931894"
   },
   {
-    "title": "Amtrak's 2035 map has people talking about the future of U.S. train travel",
-    "url": "https://www.npr.org/2021/04/06/984464351/as-biden-pushes-major-rail-investments-rail-amtraks-2035-map-has-people-talking?t=1619351947832",
-    "upvotes": 247,
-    "author": "Tomte",
-    "comments": 475,
-    "link": "https://news.ycombinator.com/item?id=26932071"
+    "title": "JavaScript for Data Science",
+    "url": "http://js4ds.org/",
+    "upvotes": 129,
+    "author": "mrmagoo17",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=26931296"
   }
 ]
