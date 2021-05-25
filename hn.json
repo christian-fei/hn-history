@@ -1,24 +1,24 @@
 [
   {
-    "title": "Firefox fixes 21 year old bug, will use native context menus on macOS",
+    "title": "Use native context menus on Mac OS",
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=34572",
-    "upvotes": 312,
+    "upvotes": 336,
     "author": "reid",
-    "comments": 128,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=27273724"
   },
   {
     "title": "Show HN: Send email via Amazon ses and Sendgrid from your Google Sheets",
     "url": "https://www.sendsimple.app",
-    "upvotes": 18,
+    "upvotes": 24,
     "author": "theindianappguy",
-    "comments": 9,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27274647"
   },
   {
     "title": "Bird Architecture",
     "url": "https://mitpress.mit.edu/blog/hidden-architecture-birds",
-    "upvotes": 40,
+    "upvotes": 42,
     "author": "onemind",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27272634"
@@ -26,39 +26,47 @@
   {
     "title": "Ask HN: How to get started with audio programming?",
     "url": "item?id=27273706",
-    "upvotes": 140,
+    "upvotes": 156,
     "author": "Flex247A",
-    "comments": 45,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27273706"
   },
   {
     "title": "Elk OS – Audio Operating System",
     "url": "https://elk.audio/audio-os/",
-    "upvotes": 282,
+    "upvotes": 286,
     "author": "ushakov",
-    "comments": 123,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=27269589"
+  },
+  {
+    "title": "Better Thinking and Incentives: Lessons from Shakespeare",
+    "url": "https://fs.blog/2021/05/lessons-shakespeare/",
+    "upvotes": 12,
+    "author": "feross",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27264963"
+  },
+  {
+    "title": "GCHQ’s mass data-sharing violated right to privacy, court rules",
+    "url": "https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules",
+    "upvotes": 41,
+    "author": "robin_reala",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27274992"
   },
   {
     "title": "RefinedC: Automating Foundational Verification of C Code with Refined Ownership",
     "url": "https://plv.mpi-sws.org/refinedc/",
-    "upvotes": 38,
+    "upvotes": 41,
     "author": "matt_d",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27265329"
-  },
-  {
-    "title": "Rf: an experimental refactoring tool for Go",
-    "url": "https://pkg.go.dev/rsc.io/rf",
-    "upvotes": 212,
-    "author": "robfig",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=27264542"
   },
   {
     "title": "ORBIS: The Stanford Geospatial Network Model of the Roman World",
     "url": "https://orbis.stanford.edu/",
-    "upvotes": 23,
+    "upvotes": 28,
     "author": "seanhandley",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27273657"
@@ -66,25 +74,25 @@
   {
     "title": "Discovering Goroutine Leaks with Semgrep",
     "url": "https://www.trailofbits.com/post/discovering-goroutine-leaks-with-semgrep",
-    "upvotes": 19,
+    "upvotes": 25,
     "author": "rbanffy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27265197"
   },
   {
-    "title": "GCHQ’s mass data-sharing violated right to privacy, court rules",
-    "url": "https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules",
-    "upvotes": 25,
-    "author": "robin_reala",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27274992"
+    "title": "Rf: an experimental refactoring tool for Go",
+    "url": "https://pkg.go.dev/rsc.io/rf",
+    "upvotes": 213,
+    "author": "robfig",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27264542"
   },
   {
     "title": "Researchhub: GitHub for Science",
     "url": "https://www.researchhub.com/about",
-    "upvotes": 135,
+    "upvotes": 140,
     "author": "vimy",
-    "comments": 64,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=27271366"
   },
   {
@@ -92,19 +100,11 @@
     "url": "https://www.flexport.com/careers"
   },
   {
-    "title": "Better Thinking and Incentives: Lessons from Shakespeare",
-    "url": "https://fs.blog/2021/05/lessons-shakespeare/",
-    "upvotes": 7,
-    "author": "feross",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27264963"
-  },
-  {
     "title": "EU bans Belarusian airlines from European skies",
     "url": "https://www.bbc.com/news/world-europe-57236489",
-    "upvotes": 333,
+    "upvotes": 356,
     "author": "xendo",
-    "comments": 187,
+    "comments": 211,
     "link": "https://news.ycombinator.com/item?id=27273752"
   },
   {
@@ -112,21 +112,37 @@
     "url": "https://about1816.wordpress.com/2021/05/23/drunk-as-a-lord-the-regency-bottle-men/",
     "upvotes": 49,
     "author": "solvent",
-    "comments": 22,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27272605"
+  },
+  {
+    "title": "Google now lets you password-protect the page that shows all your searches",
+    "url": "https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history",
+    "upvotes": 6,
+    "author": "shivbhatt",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27275452"
   },
   {
     "title": "Need Something Sorted? Sleep on It",
     "url": "https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914",
-    "upvotes": 105,
+    "upvotes": 111,
     "author": "ingve",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27269586"
   },
   {
+    "title": "The Great Hanoi Rat Massacre of 1902 Did Not Go as Planned",
+    "url": "https://www.atlasobscura.com/articles/hanoi-rat-massacre-1902.html",
+    "upvotes": 80,
+    "author": "turtlegrids",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=27264816"
+  },
+  {
     "title": "Launch HN: Curvenote (YC W21) – Collaborative writing tools for science",
     "url": "item?id=27265380",
-    "upvotes": 95,
+    "upvotes": 96,
     "author": "rowanc1",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27265380"
@@ -134,42 +150,50 @@
   {
     "title": "Gromit-MPX Lets You Draw Anywhere on Linux Desktop Screen",
     "url": "https://itsfoss.com/gromit-mpx/",
-    "upvotes": 53,
+    "upvotes": 54,
     "author": "teleforce",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27263037"
-  },
-  {
-    "title": "The Great Hanoi Rat Massacre of 1902 Did Not Go as Planned",
-    "url": "https://www.atlasobscura.com/articles/hanoi-rat-massacre-1902.html",
-    "upvotes": 77,
-    "author": "turtlegrids",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=27264816"
   },
   {
     "title": "HIV mRNA Vaccines-Progress and Future Paths",
     "url": "https://pubmed.ncbi.nlm.nih.gov/33562203/",
-    "upvotes": 161,
+    "upvotes": 167,
     "author": "mmastrac",
-    "comments": 107,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=27260756"
+  },
+  {
+    "title": "German regulator probes Google's market position, data use",
+    "url": "https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520",
+    "upvotes": 6,
+    "author": "shivbhatt",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27275447"
   },
   {
     "title": "Than Average",
     "url": "https://thanaverage.xyz/",
-    "upvotes": 257,
+    "upvotes": 263,
     "author": "dvt",
-    "comments": 174,
+    "comments": 177,
     "link": "https://news.ycombinator.com/item?id=27270928"
   },
   {
     "title": "Vim Modes Transition Diagram",
     "url": "https://rawgit.com/darcyparker/1886716/raw/eab57dfe784f016085251771d65a75a471ca22d4/vimModeStateDiagram.svg",
-    "upvotes": 136,
+    "upvotes": 140,
     "author": "brobdingnagians",
-    "comments": 51,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=27265143"
+  },
+  {
+    "title": "DOOM Captcha",
+    "url": "https://vivirenremoto.github.io/doomcaptcha/",
+    "upvotes": 575,
+    "author": "jukkakoskinen",
+    "comments": 155,
+    "link": "https://news.ycombinator.com/item?id=27264988"
   },
   {
     "title": "In the Deep Sea, Animals Abound",
@@ -180,19 +204,11 @@
     "link": "https://news.ycombinator.com/item?id=27263609"
   },
   {
-    "title": "DOOM Captcha",
-    "url": "https://vivirenremoto.github.io/doomcaptcha/",
-    "upvotes": 567,
-    "author": "jukkakoskinen",
-    "comments": 154,
-    "link": "https://news.ycombinator.com/item?id=27264988"
-  },
-  {
     "title": "Do countries get the list of every passenger that's transiting their airspace?",
     "url": "https://travel.stackexchange.com/q/163892/101",
-    "upvotes": 140,
+    "upvotes": 148,
     "author": "beatthatflight",
-    "comments": 76,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=27272017"
   },
   {
@@ -206,7 +222,7 @@
   {
     "title": "Scientists use optogenetics to help a blind patient see again",
     "url": "https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/",
-    "upvotes": 181,
+    "upvotes": 183,
     "author": "bmau5",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27268537"
@@ -214,25 +230,9 @@
   {
     "title": "Magic Wormhole: Get things from one computer to another, safely",
     "url": "https://github.com/magic-wormhole/magic-wormhole",
-    "upvotes": 280,
+    "upvotes": 284,
     "author": "jstanley",
-    "comments": 166,
+    "comments": 168,
     "link": "https://news.ycombinator.com/item?id=27262193"
-  },
-  {
-    "title": "Replit now supports every programming language in Nix",
-    "url": "https://blog.replit.com/nix",
-    "upvotes": 222,
-    "author": "bobrenjc93",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=27269292"
-  },
-  {
-    "title": "Inkscape 1.1",
-    "url": "https://inkscape.org/news/2021/05/24/welcome-inkscape-11/",
-    "upvotes": 389,
-    "author": "RaitoBezarius",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=27270070"
   }
 ]
