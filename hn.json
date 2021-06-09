@@ -2,163 +2,187 @@
   {
     "title": "Bosch opens German chip plant",
     "url": "https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/",
-    "upvotes": 207,
+    "upvotes": 224,
     "author": "nixass",
-    "comments": 71,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=27441545"
-  },
-  {
-    "title": "Apple M1 support for TensorFlow 2.5 pluggable device API",
-    "url": "https://developer.apple.com/metal/tensorflow-plugin/",
-    "upvotes": 86,
-    "author": "dandiep",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=27442475"
   },
   {
     "title": "Ohio sues Google, seeks to declare the internet company a public utility",
     "url": "https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/",
-    "upvotes": 583,
+    "upvotes": 613,
     "author": "infodocket",
-    "comments": 487,
+    "comments": 509,
     "link": "https://news.ycombinator.com/item?id=27439010"
+  },
+  {
+    "title": "Apple M1 support for TensorFlow 2.5 pluggable device API",
+    "url": "https://developer.apple.com/metal/tensorflow-plugin/",
+    "upvotes": 105,
+    "author": "dandiep",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=27442475"
+  },
+  {
+    "title": "What the Fastly outage can teach us about writing error messages",
+    "url": "https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages",
+    "upvotes": 25,
+    "author": "rozenmd",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27443519"
   },
   {
     "title": "Study shows how taking short breaks may help our brains learn new skills",
     "url": "https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains",
-    "upvotes": 115,
+    "upvotes": 136,
     "author": "hhs",
-    "comments": 30,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27441175"
-  },
-  {
-    "title": "Astro: Ship Less JavaScript",
-    "url": "https://astro.build/blog/introducing-astro",
-    "upvotes": 225,
-    "author": "feross",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=27440553"
   },
   {
     "title": "Microsoft Patches Six Zero-Day Security Holes",
     "url": "https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/",
-    "upvotes": 140,
+    "upvotes": 150,
     "author": "parsecs",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27440675"
+  },
+  {
+    "title": "Astro: Ship Less JavaScript",
+    "url": "https://astro.build/blog/introducing-astro",
+    "upvotes": 241,
+    "author": "feross",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=27440553"
+  },
+  {
+    "title": "Vizh: Visual language that takes image files as input",
+    "url": "https://github.com/TartanLlama/vizh",
+    "upvotes": 16,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27431635"
   },
   {
     "title": "Bending time and space in slow motion",
     "url": "https://petapixel.com/2021/06/07/this-guy-bends-time-and-space-in-slow-motion/",
-    "upvotes": 55,
+    "upvotes": 70,
     "author": "giuliomagnifico",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27431602"
-  },
-  {
-    "title": "Introducing chrome.scripting",
-    "url": "https://developer.chrome.com/en/blog/crx-scripting-api/",
-    "upvotes": 73,
-    "author": "pentagrama",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=27441898"
-  },
-  {
-    "title": "A Project of One’s Own",
-    "url": "http://paulgraham.com/own.html",
-    "upvotes": 548,
-    "author": "prtkgpt",
-    "comments": 295,
-    "link": "https://news.ycombinator.com/item?id=27433040"
-  },
-  {
-    "title": "Ppl: The command line address book",
-    "url": "https://github.com/hendotcat/ppl",
-    "upvotes": 62,
-    "author": "nomoreplease",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27440516"
-  },
-  {
-    "title": "How Netflix uses eBPF flow logs at scale for network insight",
-    "url": "https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96",
-    "upvotes": 270,
-    "author": "el_duderino",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=27435081"
-  },
-  {
-    "title": "Real-world CSS vs. CSS-in-JS performance comparison",
-    "url": "https://pustelto.com/blog/css-vs-css-in-js-perf/",
-    "upvotes": 138,
-    "author": "______-",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=27438913"
-  },
-  {
-    "title": "Scientific Computing with Perl",
-    "url": "http://pdl.perl.org/",
-    "upvotes": 100,
-    "author": "smartmic",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=27439638"
   },
   {
     "title": "Trying to study textbooks effectively: a year of experimentation",
     "url": "https://www.lesswrong.com/posts/79dP94fEhGGcGmyDE/trying-to-study-textbooks-effectively-a-year-of",
-    "upvotes": 27,
+    "upvotes": 41,
     "author": "youcould",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27431253"
   },
   {
-    "title": "Design Issues in LLVM IR",
-    "url": "https://www.npopov.com/2021/06/02/Design-issues-in-LLVM-IR.html",
-    "upvotes": 15,
-    "author": "EvgeniyZh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27430967"
+    "title": "A Project of One’s Own",
+    "url": "http://paulgraham.com/own.html",
+    "upvotes": 566,
+    "author": "prtkgpt",
+    "comments": 301,
+    "link": "https://news.ycombinator.com/item?id=27433040"
   },
   {
-    "title": "ProPublica's Tax Story is Misleading",
-    "url": "https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax",
-    "upvotes": 92,
-    "author": "imgabe",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=27441277"
+    "title": "GPT-J-6B, a 6B Parameter Text Generation Model",
+    "url": "https://github.com/kingoflolz/mesh-transformer-jax",
+    "upvotes": 12,
+    "author": "kindiana",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27443528"
+  },
+  {
+    "title": "How Netflix uses eBPF flow logs at scale for network insight",
+    "url": "https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96",
+    "upvotes": 278,
+    "author": "el_duderino",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=27435081"
+  },
+  {
+    "title": "Introducing chrome.scripting",
+    "url": "https://developer.chrome.com/en/blog/crx-scripting-api/",
+    "upvotes": 90,
+    "author": "pentagrama",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=27441898"
+  },
+  {
+    "title": "Ppl: The command line address book",
+    "url": "https://github.com/hendotcat/ppl",
+    "upvotes": 68,
+    "author": "nomoreplease",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27440516"
+  },
+  {
+    "title": "Real-world CSS vs. CSS-in-JS performance comparison",
+    "url": "https://pustelto.com/blog/css-vs-css-in-js-perf/",
+    "upvotes": 140,
+    "author": "______-",
+    "comments": 119,
+    "link": "https://news.ycombinator.com/item?id=27438913"
+  },
+  {
+    "title": "Senate Approves $250B Bill to Boost Tech Research",
+    "url": "https://www.wsj.com/articles/senate-approves-250-billion-bill-to-boost-tech-research-11623192584",
+    "upvotes": 45,
+    "author": "julienchastang",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27443248"
   },
   {
     "title": "Gordian Software",
     "url": "https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22"
   },
   {
+    "title": "Scientific Computing with Perl",
+    "url": "http://pdl.perl.org/",
+    "upvotes": 107,
+    "author": "smartmic",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=27439638"
+  },
+  {
+    "title": "ProPublica's Tax Story is Misleading",
+    "url": "https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax",
+    "upvotes": 118,
+    "author": "imgabe",
+    "comments": 145,
+    "link": "https://news.ycombinator.com/item?id=27441277"
+  },
+  {
     "title": "Text Classification by Data Compression",
     "url": "https://maxhalford.github.io/blog/text-classification-by-compression/",
-    "upvotes": 59,
+    "upvotes": 64,
     "author": "Lemaxoxo",
-    "comments": 20,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27440093"
   },
   {
-    "title": "Grafana 8.0",
-    "url": "https://github.com/grafana/grafana/releases/tag/v8.0.0",
-    "upvotes": 374,
-    "author": "botayhard",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=27433552"
+    "title": "Design Issues in LLVM IR",
+    "url": "https://www.npopov.com/2021/06/02/Design-issues-in-LLVM-IR.html",
+    "upvotes": 26,
+    "author": "EvgeniyZh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27430967"
   },
   {
     "title": "Launch HN: Runway (YC W21) – Easier iOS and Android app releases for teams",
     "url": "item?id=27435377",
     "upvotes": 84,
     "author": "gsavit",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27435377"
   },
   {
     "title": "Bakeware: Compile any Elixir application into a single binary",
     "url": "https://github.com/bake-bake-bake/bakeware",
-    "upvotes": 108,
+    "upvotes": 113,
     "author": "sergiomattei",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27430806"
@@ -166,50 +190,34 @@
   {
     "title": "Apache Superset 1.1",
     "url": "https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1",
-    "upvotes": 53,
+    "upvotes": 58,
     "author": "skadamat",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27439939"
-  },
-  {
-    "title": "The History of Nuclear Secrecy in the U.S.",
-    "url": "https://inference-review.com/article/secrets",
-    "upvotes": 27,
-    "author": "torritest",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27431224"
   },
   {
     "title": "Socrates’ Examined Life",
     "url": "https://antigonejournal.com/2021/06/socrates-examined-life/",
-    "upvotes": 64,
+    "upvotes": 69,
     "author": "url",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27431260"
+  },
+  {
+    "title": "The History of Nuclear Secrecy in the U.S.",
+    "url": "https://inference-review.com/article/secrets",
+    "upvotes": 29,
+    "author": "torritest",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27431224"
   },
   {
     "title": "To protect against weaponized drones, we must understand their key strengths",
     "url": "https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths",
-    "upvotes": 81,
+    "upvotes": 84,
     "author": "jonbaer",
-    "comments": 152,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=27437092"
-  },
-  {
-    "title": "Terraform 1.0",
-    "url": "https://github.com/hashicorp/terraform/releases/tag/v1.0.0",
-    "upvotes": 650,
-    "author": "cube2222",
-    "comments": 270,
-    "link": "https://news.ycombinator.com/item?id=27433863"
-  },
-  {
-    "title": "The Consciousness of Invertebrates",
-    "url": "https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates",
-    "upvotes": 77,
-    "author": "quercusa",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=27437772"
   },
   {
     "title": "How the government set up a fake bank to launder drug money",
@@ -220,19 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=27434243"
   },
   {
-    "title": "Senate Approves $250B Bill to Boost Tech Research",
-    "url": "https://www.wsj.com/articles/senate-approves-250-billion-bill-to-boost-tech-research-11623192584",
-    "upvotes": 9,
-    "author": "julienchastang",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27443248"
-  },
-  {
-    "title": "Althttpd: Simple webserver in a single C file",
-    "url": "https://sqlite.org/althttpd/doc/trunk/althttpd.md",
-    "upvotes": 676,
-    "author": "miles",
-    "comments": 291,
-    "link": "https://news.ycombinator.com/item?id=27431910"
+    "title": "The Consciousness of Invertebrates",
+    "url": "https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates",
+    "upvotes": 80,
+    "author": "quercusa",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=27437772"
   }
 ]
