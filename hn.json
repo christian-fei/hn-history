@@ -2,50 +2,58 @@
   {
     "title": "Details of Yesterday's Bunny CDN Outage",
     "url": "https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/",
-    "upvotes": 26,
+    "upvotes": 45,
     "author": "aSig",
-    "comments": 12,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27602395"
   },
   {
     "title": "Plover",
     "url": "https://www.openstenoproject.org/plover/",
-    "upvotes": 19,
+    "upvotes": 27,
     "author": "smitty1e",
-    "comments": 21,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27602077"
+  },
+  {
+    "title": "Wikidata",
+    "url": "https://www.wikidata.org/wiki/Wikidata:Introduction",
+    "upvotes": 10,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27602520"
   },
   {
     "title": "Going Beyond Ada 2022",
     "url": "https://blog.adacore.com/going-beyond-ada-2022",
-    "upvotes": 41,
+    "upvotes": 50,
     "author": "pjmlp",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27576959"
+  },
+  {
+    "title": "Hosted Monitoring: Evaluating InfluxDB Cloud and Grafana Cloud",
+    "url": "https://pqvst.com/2021/06/22/hosted-monitoring-evaluating-influx-and-grafana/",
+    "upvotes": 11,
+    "author": "pqvst",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27602519"
   },
   {
     "title": "The Rise of the $10M Disc Golf Celebrity",
     "url": "https://www.theringer.com/features/2021/6/21/22542839/disc-golf-niche-sports-million-dollar-endorsement-deals",
-    "upvotes": 92,
+    "upvotes": 95,
     "author": "axiomdata316",
-    "comments": 51,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=27599734"
   },
   {
     "title": "New Kind of Paper",
     "url": "https://mlajtos.mu/posts/new-kind-of-paper",
-    "upvotes": 150,
+    "upvotes": 155,
     "author": "mlajtos",
-    "comments": 73,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=27576937"
-  },
-  {
-    "title": "Practical Cat: How T. S. Eliot became T. S. Eliot",
-    "url": "https://www.newyorker.com/magazine/2011/09/19/practical-cat",
-    "upvotes": 4,
-    "author": "apollinaire",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27580151"
   },
   {
     "title": "The Walkman a.k.a. Vbug 1.5 robot",
@@ -58,18 +66,38 @@
   {
     "title": "How to Think about Pleasure",
     "url": "https://psyche.co/guides/from-hedonism-to-humanism-philosophys-defence-of-pleasure",
-    "upvotes": 72,
+    "upvotes": 73,
     "author": "nkjoep",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27577615"
   },
   {
+    "title": "Taktile",
+    "url": "https://www.ycombinator.com/companies/taktile/jobs/HgBywT9-machine-learning-engineer-product-f-m-d"
+  },
+  {
     "title": "IBM 5110 Emulator in JavaScript",
     "url": "https://norbertkehrer.github.io/ibm_5110/emu5110.html",
-    "upvotes": 37,
+    "upvotes": 42,
     "author": "throwitaway1235",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27600653"
+  },
+  {
+    "title": "Learn C and build your own Lisp",
+    "url": "http://buildyourownlisp.com/",
+    "upvotes": 143,
+    "author": "katzeilla",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=27598424"
+  },
+  {
+    "title": "Practical Cat: How T. S. Eliot became T. S. Eliot",
+    "url": "https://www.newyorker.com/magazine/2011/09/19/practical-cat",
+    "upvotes": 5,
+    "author": "apollinaire",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27580151"
   },
   {
     "title": "Archaeologists recreated three common kinds of Paleolithic cave lighting",
@@ -80,32 +108,20 @@
     "link": "https://news.ycombinator.com/item?id=27568245"
   },
   {
-    "title": "Taktile",
-    "url": "https://www.ycombinator.com/companies/taktile/jobs/HgBywT9-machine-learning-engineer-product-f-m-d"
-  },
-  {
-    "title": "Learn C and build your own Lisp",
-    "url": "http://buildyourownlisp.com/",
-    "upvotes": 135,
-    "author": "katzeilla",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27598424"
+    "title": "A from-scratch tour of Bitcoin in Python",
+    "url": "https://karpathy.github.io/2021/06/21/blockchain/",
+    "upvotes": 1023,
+    "author": "yigitdemirag",
+    "comments": 245,
+    "link": "https://news.ycombinator.com/item?id=27593772"
   },
   {
     "title": "What Is Voter Satisfaction Efficiency?",
     "url": "http://electionscience.github.io/vse-sim/VSE/",
-    "upvotes": 81,
+    "upvotes": 82,
     "author": "cosmojg",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27599684"
-  },
-  {
-    "title": "A from-scratch tour of Bitcoin in Python",
-    "url": "https://karpathy.github.io/2021/06/21/blockchain/",
-    "upvotes": 1019,
-    "author": "yigitdemirag",
-    "comments": 244,
-    "link": "https://news.ycombinator.com/item?id=27593772"
   },
   {
     "title": "Regularization is all you need: simple neural nets can excel on tabular data",
@@ -118,9 +134,9 @@
   {
     "title": "My favourite C++ footgun",
     "url": "https://dustri.org/b/my-favourite-c-footgun.html",
-    "upvotes": 181,
+    "upvotes": 185,
     "author": "pabs3",
-    "comments": 217,
+    "comments": 228,
     "link": "https://news.ycombinator.com/item?id=27577601"
   },
   {
@@ -128,16 +144,32 @@
     "url": "https://github.com/ertugrulcetin/racing-game-cljs",
     "upvotes": 135,
     "author": "winkywooster",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27597987"
   },
   {
     "title": "Reply of the Zaporozhian Cossacks",
     "url": "https://en.wikipedia.org/wiki/Reply_of_the_Zaporozhian_Cossacks",
-    "upvotes": 169,
+    "upvotes": 170,
     "author": "slater",
-    "comments": 72,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=27595429"
+  },
+  {
+    "title": "Brave Search beta",
+    "url": "https://search.brave.com/",
+    "upvotes": 740,
+    "author": "vmullin",
+    "comments": 566,
+    "link": "https://news.ycombinator.com/item?id=27593360"
+  },
+  {
+    "title": "The Teamsters announce coordinated nationwide project to unionize Amazon",
+    "url": "https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon",
+    "upvotes": 248,
+    "author": "cratermoon",
+    "comments": 153,
+    "link": "https://news.ycombinator.com/item?id=27599253"
   },
   {
     "title": "The Clean Power of Starch",
@@ -146,22 +178,6 @@
     "author": "rustoo",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27559044"
-  },
-  {
-    "title": "Brave Search beta",
-    "url": "https://search.brave.com/",
-    "upvotes": 737,
-    "author": "vmullin",
-    "comments": 564,
-    "link": "https://news.ycombinator.com/item?id=27593360"
-  },
-  {
-    "title": "The Teamsters announce coordinated nationwide project to unionize Amazon",
-    "url": "https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon",
-    "upvotes": 240,
-    "author": "cratermoon",
-    "comments": 143,
-    "link": "https://news.ycombinator.com/item?id=27599253"
   },
   {
     "title": "Crosby, Stills, Nash and Young’s lost album, Human Highway",
@@ -174,15 +190,15 @@
   {
     "title": "Disintermediating friends: Online dating displaces other ways of meeting",
     "url": "https://web.stanford.edu/~mrosenfe/Rosenfeld_et_al_Disintermediating_Friends.pdf",
-    "upvotes": 85,
+    "upvotes": 87,
     "author": "arkj",
-    "comments": 108,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=27596719"
   },
   {
     "title": "The wrong way to switch operating systems on your server",
     "url": "https://figbert.com/posts/wrong-way-to-switch-server-os/",
-    "upvotes": 91,
+    "upvotes": 94,
     "author": "ohjeez",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27562613"
@@ -206,33 +222,17 @@
   {
     "title": "Digitising rural land records, one drone at a time",
     "url": "https://www.bloombergquint.com/business/digitising-rural-land-records-one-drone-at-a-time",
-    "upvotes": 48,
+    "upvotes": 50,
     "author": "harias",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27578079"
   },
   {
-    "title": "Rival weightlifter speaks out on transgender Hubbard's Olympic place",
-    "url": "https://www.insidethegames.biz/articles/1108399/anna-vanbellinghen-hubbard",
-    "upvotes": 160,
-    "author": "leephillips",
-    "comments": 276,
-    "link": "https://news.ycombinator.com/item?id=27598383"
-  },
-  {
     "title": "Saudi Operatives Who Killed Khashoggi Received Paramilitary Training in U.S.",
     "url": "https://www.nytimes.com/2021/06/22/us/politics/khashoggi-saudi-kill-team-us-training.html",
-    "upvotes": 159,
+    "upvotes": 169,
     "author": "bigpumpkin",
-    "comments": 64,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=27599615"
-  },
-  {
-    "title": "The Most Dangerous Censorship",
-    "url": "https://edwardsnowden.substack.com/p/on-censorship-pt-1",
-    "upvotes": 386,
-    "author": "0xedb",
-    "comments": 387,
-    "link": "https://news.ycombinator.com/item?id=27595902"
   }
 ]
