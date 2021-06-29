@@ -1,40 +1,48 @@
 [
   {
-    "title": "Wiretrustee: WireGuard-Based Mesh Network",
-    "url": "https://github.com/wiretrustee/wiretrustee",
-    "upvotes": 85,
-    "author": "j1elo",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27672715"
-  },
-  {
-    "title": "A Docker footgun led to a vandal deleting NewsBlur's MongoDB database",
-    "url": "https://blog.newsblur.com/2021/06/28/story-of-a-hacking/",
-    "upvotes": 392,
-    "author": "ecliptik",
-    "comments": 171,
-    "link": "https://news.ycombinator.com/item?id=27670058"
-  },
-  {
-    "title": "ARM64EC: Building Native and Interoperable Apps for Windows 11 on ARM",
-    "url": "https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/",
-    "upvotes": 59,
-    "author": "sjmulder",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27672711"
+    "title": "Google Compute Engine",
+    "url": "https://github.com/irsl/gcp-dhcp-takeover-code-exec",
+    "upvotes": 15,
+    "author": "ithkuil",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27673933"
   },
   {
     "title": "Maps Of Matter",
     "url": "https://futureofmatter.com/maps_of_matter.html",
-    "upvotes": 7,
+    "upvotes": 23,
     "author": "optimalsolver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27673753"
   },
   {
+    "title": "Wiretrustee: WireGuard-Based Mesh Network",
+    "url": "https://github.com/wiretrustee/wiretrustee",
+    "upvotes": 96,
+    "author": "j1elo",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=27672715"
+  },
+  {
+    "title": "A Docker footgun led to a vandal deleting NewsBlur's MongoDB database",
+    "url": "https://blog.newsblur.com/2021/06/28/story-of-a-hacking/",
+    "upvotes": 407,
+    "author": "ecliptik",
+    "comments": 175,
+    "link": "https://news.ycombinator.com/item?id=27670058"
+  },
+  {
+    "title": "ARM64EC: Building Native and Interoperable Apps for Windows 11 on ARM",
+    "url": "https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/",
+    "upvotes": 67,
+    "author": "sjmulder",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=27672711"
+  },
+  {
     "title": "Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS",
     "url": "https://pawelurbanek.com/ipfs-ethereum-blog",
-    "upvotes": 27,
+    "upvotes": 32,
     "author": "pawurb",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27673223"
@@ -42,9 +50,9 @@
   {
     "title": "Bring back menus, QR codes are terrible",
     "url": "https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html?via=rss",
-    "upvotes": 124,
+    "upvotes": 133,
     "author": "prostoalex",
-    "comments": 192,
+    "comments": 214,
     "link": "https://news.ycombinator.com/item?id=27671392"
   },
   {
@@ -52,29 +60,21 @@
     "url": "https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/",
     "upvotes": 66,
     "author": "open-source-ux",
-    "comments": 32,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27672100"
-  },
-  {
-    "title": "Judge dismisses FTC and state antitrust complaints against Facebook",
-    "url": "https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html",
-    "upvotes": 378,
-    "author": "ChrisArchitect",
-    "comments": 192,
-    "link": "https://news.ycombinator.com/item?id=27666439"
   },
   {
     "title": "Why Specs Matter",
     "url": "https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs",
-    "upvotes": 16,
+    "upvotes": 18,
     "author": "Tomte",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27673181"
   },
   {
     "title": "Protein found in robins’ eyes has all the hallmarks of a magnetoreceptor",
     "url": "https://www.the-scientist.com/news-opinion/new-study-fuels-debate-about-source-of-birds-magnetic-sense-68917",
-    "upvotes": 102,
+    "upvotes": 104,
     "author": "rehto21",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27650064"
@@ -82,110 +82,134 @@
   {
     "title": "Building a DIY Smart Doorbell",
     "url": "https://buzzert.net/posts/2021-05-09-doorbell",
-    "upvotes": 74,
+    "upvotes": 78,
     "author": "buzzert",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=27669924"
+  },
+  {
+    "title": "Duolingo S-1 IPO",
+    "url": "https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm",
+    "upvotes": 197,
+    "author": "marc__1",
+    "comments": 157,
+    "link": "https://news.ycombinator.com/item?id=27668370"
   },
   {
     "title": "Spline",
     "url": "https://www.ycombinator.com/companies/spline/jobs/vS70rg1DB-senior-engineer-3d-computer-graphics"
   },
   {
-    "title": "Duolingo S-1 IPO",
-    "url": "https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm",
-    "upvotes": 192,
-    "author": "marc__1",
-    "comments": 149,
-    "link": "https://news.ycombinator.com/item?id=27668370"
-  },
-  {
     "title": "DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields",
     "url": "https://depthoraclenerf.github.io/",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "Hard_Space",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27658661"
   },
   {
     "title": "Ask HN: Do you self-host your database?",
     "url": "item?id=27671376",
-    "upvotes": 67,
+    "upvotes": 73,
     "author": "vira28",
-    "comments": 84,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=27671376"
   },
   {
     "title": "The Y Combinator",
     "url": "https://mvanier.livejournal.com/2897.html",
-    "upvotes": 5,
+    "upvotes": 7,
     "author": "pcaversaccio",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27673177"
   },
   {
-    "title": "Ask HN: What should I say to my manager when my performance starts suffering?",
-    "url": "item?id=27650550",
-    "upvotes": 77,
-    "author": "chrishemsworth",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=27650550"
+    "title": "Mystery as 5k homing pigeons vanish into thin air",
+    "url": "https://www.walesonline.co.uk/news/uk-news/mystery-5000-homing-pigeons-birds-20907818",
+    "upvotes": 10,
+    "author": "graderjs",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27650201"
   },
   {
     "title": "Curated Code CAD",
     "url": "https://learn.cadhub.xyz/blog/curated-code-cad/",
-    "upvotes": 64,
+    "upvotes": 67,
     "author": "zimpenfish",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27649270"
+  },
+  {
+    "title": "Ask HN: What should I say to my manager when my performance starts suffering?",
+    "url": "item?id=27650550",
+    "upvotes": 83,
+    "author": "chrishemsworth",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=27650550"
   },
   {
     "title": "Confessions of a serial startup software developer",
     "url": "https://betterprogramming.pub/dont-write-code-for-a-startup-1eead038c372",
-    "upvotes": 112,
+    "upvotes": 119,
     "author": "kiyanwang",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27650453"
   },
   {
-    "title": "Adding React Native Apps to F-Droid",
-    "url": "https://f-droid.org/en/2020/10/14/adding-react-native-app-to-f-droid.html",
-    "upvotes": 16,
-    "author": "kaeruct",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27649487"
-  },
-  {
-    "title": "Code in ARM Assembly: Conditional Loops",
-    "url": "https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/",
-    "upvotes": 4,
-    "author": "ingve",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27673282"
+    "title": "Judge dismisses FTC and state antitrust complaints against Facebook",
+    "url": "https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html",
+    "upvotes": 382,
+    "author": "ChrisArchitect",
+    "comments": 196,
+    "link": "https://news.ycombinator.com/item?id=27666439"
   },
   {
     "title": "Tiny Treeshaker: JavaScript tree shaking in 200 lines of code",
     "url": "https://github.com/magicmark/tiny-treeshaker",
     "upvotes": 42,
     "author": "markl42",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27670859"
+  },
+  {
+    "title": "Adding React Native Apps to F-Droid",
+    "url": "https://f-droid.org/en/2020/10/14/adding-react-native-app-to-f-droid.html",
+    "upvotes": 18,
+    "author": "kaeruct",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27649487"
   },
   {
     "title": "Why the African genome project is so useful",
     "url": "https://www.economist.com/leaders/2021/06/26/why-the-african-genome-project-is-so-useful",
-    "upvotes": 46,
+    "upvotes": 48,
     "author": "jkuria",
-    "comments": 20,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27670615"
   },
   {
     "title": "We moderns are status-drunk",
     "url": "https://www.overcomingbias.com/2021/06/our-big-wealth-status-mistake.html",
-    "upvotes": 82,
+    "upvotes": 85,
     "author": "Tycho",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27666709"
+  },
+  {
+    "title": "Facit Homes, Wikihouse, and the Plywood Frame",
+    "url": "https://constructionphysics.substack.com/p/facit-homes-wikihouse-and-the-plywood",
+    "upvotes": 40,
+    "author": "colinprince",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27666320"
+  },
+  {
+    "title": "Code in ARM Assembly: Conditional Loops",
+    "url": "https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/",
+    "upvotes": 5,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27673282"
   },
   {
     "title": "The genius of William Shawn",
@@ -196,43 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=27653628"
   },
   {
-    "title": "Facit Homes, Wikihouse, and the Plywood Frame",
-    "url": "https://constructionphysics.substack.com/p/facit-homes-wikihouse-and-the-plywood",
-    "upvotes": 39,
-    "author": "colinprince",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27666320"
-  },
-  {
-    "title": "One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing",
-    "url": "http://nvidia-research-mingyuliu.com/vid2vid-cameo/",
-    "upvotes": 132,
-    "author": "jonbaer",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=27666493"
-  },
-  {
     "title": "The Limits of Optimization",
     "url": "https://theconvivialsociety.substack.com/p/the-limits-of-optimization",
-    "upvotes": 24,
+    "upvotes": 26,
     "author": "longdefeat",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27671502"
   },
   {
     "title": "Linux Foundation Introduces Open Voice Network",
     "url": "https://www.linuxfoundation.org/press-release/linux-foundation-introduces-open-voice-network-to-prioritize-trust-and-interoperability-in-a-voice-based-digital-future/",
-    "upvotes": 6,
+    "upvotes": 8,
     "author": "doener",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27673681"
-  },
-  {
-    "title": "Show HN: Minimal versioned log structured relational DB in Common Lisp",
-    "url": "https://github.com/codr7/whirlog",
-    "upvotes": 96,
-    "author": "codr7",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27657164"
   }
 ]
