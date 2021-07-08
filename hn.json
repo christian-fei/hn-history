@@ -1,82 +1,90 @@
 [
   {
+    "title": "Compiling rust is NP-hard",
+    "url": "https://niedzejkob.p4.team/rust-np/",
+    "upvotes": 33,
+    "author": "lovasoa",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27769718"
+  },
+  {
     "title": "Difftastic: Syntax-aware structured diff tool",
     "url": "https://github.com/wilfred/difftastic",
-    "upvotes": 99,
+    "upvotes": 112,
     "author": "ingve",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27768861"
   },
   {
     "title": "Apple camera design from iPhone 6S Plus to the 12 Pro Max",
     "url": "https://www.systemplus.fr/wp-content/uploads/2021/06/SPR21553_Camera-Module-Comparison-Vol.-2-iPhone-Evolution_Sample.pdf",
-    "upvotes": 92,
+    "upvotes": 97,
     "author": "giuliomagnifico",
-    "comments": 51,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=27768792"
-  },
-  {
-    "title": "A work-in-progress Magit clone for Neovim",
-    "url": "https://github.com/TimUntersberger/neogit",
-    "upvotes": 20,
-    "author": "JNRowe",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27746942"
   },
   {
     "title": "Understanding REvil: The Ransomware Gang Behind the Kaseya Attack",
     "url": "https://unit42.paloaltonetworks.com/revil-threat-actors/",
-    "upvotes": 17,
+    "upvotes": 23,
     "author": "weinzierl",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27769285"
   },
   {
-    "title": "PfSense CE 2.5.2 Released",
-    "url": "https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/",
-    "upvotes": 35,
-    "author": "sam345",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=27768934"
-  },
-  {
-    "title": "Show HN: A simple lazy Python Calculation Engine",
-    "url": "https://github.com/bsdz/calcengine",
-    "upvotes": 46,
-    "author": "bsdz",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27768826"
+    "title": "A work-in-progress Magit clone for Neovim",
+    "url": "https://github.com/TimUntersberger/neogit",
+    "upvotes": 30,
+    "author": "JNRowe",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27746942"
   },
   {
     "title": "Sub-zero water splitting marks a new dawn for solar hydrogen production",
     "url": "https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article",
-    "upvotes": 136,
+    "upvotes": 144,
     "author": "yusuf_giftworks",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27767656"
   },
   {
-    "title": "BGP in a Nutshell",
-    "url": "https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/",
-    "upvotes": 57,
-    "author": "edddie",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27768778"
+    "title": "PfSense CE 2.5.2 Released",
+    "url": "https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/",
+    "upvotes": 39,
+    "author": "sam345",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27768934"
+  },
+  {
+    "title": "Show HN: A simple lazy Python Calculation Engine",
+    "url": "https://github.com/bsdz/calcengine",
+    "upvotes": 49,
+    "author": "bsdz",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27768826"
   },
   {
     "title": "Let's build a simple interpreter for APL, part 2",
     "url": "https://mathspp.com/blog/lsbasi-apl-part2",
-    "upvotes": 18,
+    "upvotes": 22,
     "author": "miguendes",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27728071"
   },
   {
+    "title": "BGP in a Nutshell",
+    "url": "https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/",
+    "upvotes": 58,
+    "author": "edddie",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27768778"
+  },
+  {
     "title": "People may one day drill for copper as they now drill for oil",
     "url": "https://www.economist.com/science-and-technology/2021/07/07/people-may-one-day-drill-for-copper-as-they-now-drill-for-oil",
-    "upvotes": 32,
+    "upvotes": 34,
     "author": "helsinkiandrew",
-    "comments": 25,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27768771"
   },
   {
@@ -86,103 +94,119 @@
   {
     "title": "Runway – Create impossible video",
     "url": "https://runwayml.com/",
-    "upvotes": 296,
+    "upvotes": 299,
     "author": "smusamashah",
-    "comments": 73,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=27766655"
   },
   {
     "title": "TCP Fast Open? Not so fast",
     "url": "https://blog.apnic.net/2021/07/05/tcp-fast-open-not-so-fast/",
-    "upvotes": 114,
+    "upvotes": 116,
     "author": "todsacerdoti",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27745422"
   },
   {
     "title": "China’s gene giant harvests data from millions of women worldwide",
     "url": "https://www.reuters.com/investigates/special-report/health-china-bgi-dna/",
-    "upvotes": 36,
+    "upvotes": 45,
     "author": "emptybits",
-    "comments": 11,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27769406"
   },
   {
     "title": "Manual for a popular facial recognition tool shows how much the software tracks",
     "url": "https://themarkup.org/privacy/2021/07/06/this-manual-for-a-popular-facial-recognition-tool-shows-just-how-much-the-software-tracks-people",
-    "upvotes": 68,
+    "upvotes": 72,
     "author": "type0",
-    "comments": 34,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27767032"
   },
   {
     "title": "Sri Lanka’s ancient, almost lost martial art",
     "url": "https://www.atlasobscura.com/articles/angampora-sri-lanka-martial-art",
-    "upvotes": 86,
+    "upvotes": 89,
     "author": "samizdis",
-    "comments": 46,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=27767237"
   },
   {
-    "title": "Corona Game: A simulation of how Covid-19 spreads",
-    "url": "https://koronahra.cz/game",
-    "upvotes": 212,
-    "author": "pmontra",
-    "comments": 177,
-    "link": "https://news.ycombinator.com/item?id=27763873"
+    "title": "A call to minimize distraction and respect users’ attention",
+    "url": "http://www.minimizedistraction.com/",
+    "upvotes": 629,
+    "author": "cratermoon",
+    "comments": 233,
+    "link": "https://news.ycombinator.com/item?id=27763834"
+  },
+  {
+    "title": "The Crucial, Little Understood Science of the Seafloor",
+    "url": "https://newrepublic.com/article/162874/crucial-little-understood-science-deep",
+    "upvotes": 3,
+    "author": "aliasEli",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27745636"
   },
   {
     "title": "JSPatcher, a web-based visual editor to build JavaScript and WebAudio apps",
     "url": "https://webaudioconf2021.com/paper-a-2/",
-    "upvotes": 73,
+    "upvotes": 74,
     "author": "MaanuAir",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27745657"
   },
   {
-    "title": "A call to minimize distraction and respect users’ attention",
-    "url": "http://www.minimizedistraction.com/",
-    "upvotes": 623,
-    "author": "cratermoon",
-    "comments": 232,
-    "link": "https://news.ycombinator.com/item?id=27763834"
+    "title": "China urges its people to struggle. Some say no",
+    "url": "https://www.economist.com/china/2021/07/03/china-urges-its-people-to-struggle-some-say-no",
+    "upvotes": 16,
+    "author": "tchalla",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27769659"
+  },
+  {
+    "title": "Juul, The e-cigarette company, bought an entire issue of a scholarly journal",
+    "url": "https://prospect.org/health/juul-taking-academic-corruption-to-new-level/",
+    "upvotes": 5,
+    "author": "i_love_limes",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27769978"
   },
   {
     "title": "Why have there been so many own goals at the Euros?",
     "url": "https://inews.co.uk/sport/football/own-goals-euros-why-so-many-euro-2020-trend-explained-football-experts-1083944",
-    "upvotes": 9,
+    "upvotes": 18,
     "author": "sbmthakur",
-    "comments": 4,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27769624"
+  },
+  {
+    "title": "Networking I/O with Virtual Threads – Under the hood",
+    "url": "https://inside.java/2021/05/10/networking-io-with-virtual-threads/",
+    "upvotes": 43,
+    "author": "pjmlp",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27744826"
   },
   {
     "title": "Not school or homeschool, but modular learning",
     "url": "https://manisharoses.medium.com/not-school-or-homeschooling-but-modular-learning-5233927f8fc9",
     "upvotes": 91,
     "author": "actfrench",
-    "comments": 85,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=27765686"
-  },
-  {
-    "title": "Networking I/O with Virtual Threads – Under the hood",
-    "url": "https://inside.java/2021/05/10/networking-io-with-virtual-threads/",
-    "upvotes": 40,
-    "author": "pjmlp",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=27744826"
   },
   {
     "title": "The James Webb Space Telescope has passed the final mission analysis review",
     "url": "https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp",
-    "upvotes": 368,
+    "upvotes": 369,
     "author": "guerrilla",
-    "comments": 249,
+    "comments": 252,
     "link": "https://news.ycombinator.com/item?id=27763598"
   },
   {
     "title": "Data Structure Visualizations",
     "url": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html",
-    "upvotes": 390,
+    "upvotes": 394,
     "author": "yurish",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27745184"
@@ -190,49 +214,25 @@
   {
     "title": "Ask HN: How to get started with CB radio?",
     "url": "item?id=27728154",
-    "upvotes": 80,
+    "upvotes": 81,
     "author": "freediver",
-    "comments": 82,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=27728154"
-  },
-  {
-    "title": "All public GitHub code was used for Codex/Copilot, regardless of license",
-    "url": "https://twitter.com/NoraDotCodes/status/1412741339771461635",
-    "upvotes": 23,
-    "author": "fredley",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=27769440"
-  },
-  {
-    "title": "Launch HN: Evidently AI (YC S21) – Track and Debug ML Models in Production",
-    "url": "item?id=27760627",
-    "upvotes": 93,
-    "author": "elenasamuylova",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27760627"
-  },
-  {
-    "title": "How big should a microservice be?",
-    "url": "https://bovon.org/archives/350",
-    "upvotes": 50,
-    "author": "sidcool",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27744355"
   },
   {
     "title": "New type of Supernova explains ancient mystery",
     "url": "https://bigthink.com/surprising-science/new-type-supernova-discovered-ancient-mystery",
-    "upvotes": 8,
+    "upvotes": 12,
     "author": "StartupSven",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27769482"
   },
   {
-    "title": "DoorDash removing 1-year cliff for equity grants",
-    "url": "https://blog.doordash.com/aligning-reward-with-impact-an-update-to-our-equity-vesting-approach-96bf61d21eda",
-    "upvotes": 212,
-    "author": "matan_a",
-    "comments": 242,
-    "link": "https://news.ycombinator.com/item?id=27765421"
+    "title": "Launch HN: Evidently AI (YC S21) – Track and Debug ML Models in Production",
+    "url": "item?id=27760627",
+    "upvotes": 94,
+    "author": "elenasamuylova",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27760627"
   }
 ]
