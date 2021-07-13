@@ -1,67 +1,67 @@
 [
   {
+    "title": "Delta Variant",
+    "url": "https://unchartedterritories.tomaspueyo.com/p/delta-variant-everything-you-need",
+    "upvotes": 38,
+    "author": "tosh",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27820509"
+  },
+  {
     "title": "MacKichan Software, maker of Scientific Word, has gone out of business",
     "url": "https://www.mackichan.com/index.html?techtalk/407.htm~mainFrame",
-    "upvotes": 73,
+    "upvotes": 83,
     "author": "uger",
-    "comments": 36,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27819736"
   },
   {
-    "title": "Lachlan Morton completes 5,510km Alt Tour, beating peloton to Paris by five days",
-    "url": "https://www.bikeradar.com/news/lachlan-morton-completes-alt-tour/",
-    "upvotes": 102,
-    "author": "giuliomagnifico",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=27819545"
-  },
-  {
-    "title": "Show HN: Maildog – Hosting your own email forwarding service with GitHub Actions",
+    "title": "Show HN: maildog - Hosting email forwarding service on AWS with GitHub Actions",
     "url": "https://github.com/edmundhung/maildog",
-    "upvotes": 43,
+    "upvotes": 46,
     "author": "gmegoj32",
-    "comments": 11,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27819814"
   },
   {
     "title": "Inventor harvests methane gas from ditches and ponds to power his moped",
     "url": "https://www.notechmagazine.com/2021/07/inventor-harvests-methane-gas-from-ditches-and-ponds-to-power-his-moped.html",
-    "upvotes": 100,
+    "upvotes": 106,
     "author": "rudenoise",
-    "comments": 69,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=27818895"
   },
   {
     "title": "Do nothing",
     "url": "https://paul.copplest.one/blog/do-nothing.html",
-    "upvotes": 115,
+    "upvotes": 125,
     "author": "gurjeet",
-    "comments": 48,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27807224"
+  },
+  {
+    "title": "Lachlan Morton completes 5,510km Alt Tour, beating peloton to Paris by five days",
+    "url": "https://www.bikeradar.com/news/lachlan-morton-completes-alt-tour/",
+    "upvotes": 113,
+    "author": "giuliomagnifico",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=27819545"
   },
   {
     "title": "Apache Heron: A realtime, distributed, fault-tolerant stream processing engine",
     "url": "https://heron.incubator.apache.org/",
-    "upvotes": 31,
+    "upvotes": 34,
     "author": "yagizdegirmenci",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27819648"
   },
   {
     "title": "The History of Standard ML [audio]",
     "url": "https://www.pldi21.org/prerecorded_hopl.21.html",
-    "upvotes": 12,
+    "upvotes": 15,
     "author": "AlexeyBrin",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27800211"
-  },
-  {
-    "title": "Where in the HypeCycle is GraphQL in 2021? Analyzing trends through public data",
-    "url": "https://wundergraph.com/blog/where_in_the_hypecycle_is_graphql_in_2021_analyzing_public_data_from_google_trends_stackoverflow_github_and_hackernews",
-    "upvotes": 15,
-    "author": "jensneuse",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27819376"
   },
   {
     "title": "Litnerd",
@@ -70,31 +70,47 @@
   {
     "title": "Met Police seize record £180m of cryptocurrency in London",
     "url": "https://www.bbc.co.uk/news/uk-england-london-57816644",
-    "upvotes": 37,
+    "upvotes": 42,
     "author": "ColinWright",
-    "comments": 20,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27818838"
   },
   {
     "title": "Show HN: Fakeflix – Netflix open source clone",
     "url": "https://github.com/Th3Wall/Fakeflix",
-    "upvotes": 45,
+    "upvotes": 53,
     "author": "ReDeiPirati",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27819764"
   },
   {
     "title": "Elm Compiler Written in Elm",
     "url": "https://github.com/elm-in-elm/compiler",
-    "upvotes": 79,
+    "upvotes": 80,
     "author": "otobrglez",
-    "comments": 40,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=27808306"
+  },
+  {
+    "title": "Where in the HypeCycle is GraphQL in 2021? Analyzing trends through public data",
+    "url": "https://wundergraph.com/blog/where_in_the_hypecycle_is_graphql_in_2021_analyzing_public_data_from_google_trends_stackoverflow_github_and_hackernews",
+    "upvotes": 19,
+    "author": "jensneuse",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27819376"
+  },
+  {
+    "title": "Downgrade User Agent Client Hints to 'harmful'",
+    "url": "https://github.com/mozilla/standards-positions/issues/552",
+    "upvotes": 15,
+    "author": "ronancremin",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27819451"
   },
   {
     "title": "A commemoration of Edsger Dijkstra [pdf]",
     "url": "https://www.cs.utexas.edu/users/EWD/commemoration/EWD-commemoration-2021.pdf",
-    "upvotes": 81,
+    "upvotes": 82,
     "author": "cion",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27798764"
@@ -102,15 +118,15 @@
   {
     "title": "Reddit is forcing SaveVideo to shut down",
     "url": "https://np.reddit.com/user/SaveVideo/comments/oimo6y/the_end_is_nigh/",
-    "upvotes": 241,
+    "upvotes": 254,
     "author": "nixass",
-    "comments": 168,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=27818514"
   },
   {
     "title": "SDF Fractal Noise",
     "url": "http://iquilezles.org/www/articles/fbmsdf/fbmsdf.htm",
-    "upvotes": 107,
+    "upvotes": 114,
     "author": "winkywooster",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27817521"
@@ -118,42 +134,50 @@
   {
     "title": "Comic Books and Juvenile Delinquency",
     "url": "http://www.thecomicbooks.com/1955senateinterim.html",
-    "upvotes": 15,
+    "upvotes": 17,
     "author": "uniqueid",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27807762"
   },
   {
-    "title": "RMA: Rapid Motor Adaptation for Legged Robots",
-    "url": "https://ashish-kmr.github.io/rma-legged-robots/",
-    "upvotes": 109,
-    "author": "lnyan",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27817110"
+    "title": "Bret Victor: Learnable Programming",
+    "url": "http://worrydream.com/LearnableProgramming/",
+    "upvotes": 58,
+    "author": "karimf",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27799420"
   },
   {
     "title": "Borgs are giant extrachromosomal elements",
     "url": "https://www.biorxiv.org/content/10.1101/2021.07.10.451761v1?rss=1",
-    "upvotes": 153,
+    "upvotes": 157,
     "author": "snipped",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27816108"
   },
   {
-    "title": "Bret Victor: Learnable Programming",
-    "url": "http://worrydream.com/LearnableProgramming/",
-    "upvotes": 55,
-    "author": "karimf",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27799420"
+    "title": "RMA: Rapid Motor Adaptation for Legged Robots",
+    "url": "https://ashish-kmr.github.io/rma-legged-robots/",
+    "upvotes": 112,
+    "author": "lnyan",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27817110"
   },
   {
     "title": "Positive Energy Warp Drive from Hidden Geometric Structures",
     "url": "https://arxiv.org/abs/2104.06488",
-    "upvotes": 147,
+    "upvotes": 149,
     "author": "ctoth",
-    "comments": 131,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=27816225"
+  },
+  {
+    "title": "This Website is hosted on an Casio fx-9750GII Calculator",
+    "url": "http://fxip.as203478.net/",
+    "upvotes": 772,
+    "author": "mritzmann",
+    "comments": 228,
+    "link": "https://news.ycombinator.com/item?id=27814080"
   },
   {
     "title": "Show HN: Face Maker AI. Sketch to create photorealistic faces",
@@ -164,17 +188,9 @@
     "link": "https://news.ycombinator.com/item?id=27818548"
   },
   {
-    "title": "This Website is hosted on an Casio fx-9750GII Calculator",
-    "url": "http://fxip.as203478.net/",
-    "upvotes": 768,
-    "author": "mritzmann",
-    "comments": 225,
-    "link": "https://news.ycombinator.com/item?id=27814080"
-  },
-  {
     "title": "How to Review Code as a Junior Developer",
     "url": "https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958",
-    "upvotes": 99,
+    "upvotes": 101,
     "author": "allenleein",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=27807060"
@@ -190,49 +206,33 @@
   {
     "title": "Inflation climbs higher than expected in June as price index rises 5.4%",
     "url": "https://www.cnbc.com/2021/07/13/consumer-price-index-increases-5point4percent-in-june-vs-5percent-estimate.html",
-    "upvotes": 21,
+    "upvotes": 31,
     "author": "HappyTypist",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27820259"
   },
   {
     "title": "Those who know science are less likely to accept it if it’s controversial",
     "url": "https://arstechnica.com/science/2017/08/when-it-comes-to-controversial-science-a-little-knowledge-is-a-problem/",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "Tomte",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27819597"
-  },
-  {
-    "title": "Mutating and non-mutating Swift contexts",
-    "url": "https://www.swiftbysundell.com/articles/mutating-and-nonmutating-swift-contexts/",
-    "upvotes": 28,
-    "author": "tempodox",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27800041"
   },
   {
     "title": "How to calculate the alignment between BERT and spaCy tokens",
     "url": "https://gist.github.com/tamuhey/af6cbb44a703423556c32798e1e1b704",
-    "upvotes": 69,
+    "upvotes": 70,
     "author": "polm23",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27808430"
   },
   {
-    "title": "Downgrade User Agent Client Hints to 'harmful'",
-    "url": "https://github.com/mozilla/standards-positions/issues/552",
-    "upvotes": 8,
-    "author": "ronancremin",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27819451"
-  },
-  {
-    "title": "Schrödinger's Code",
-    "url": "https://queue.acm.org/detail.cfm?id=3468263",
-    "upvotes": 58,
-    "author": "wheresvic4",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27816297"
+    "title": "Mutating and non-mutating Swift contexts",
+    "url": "https://www.swiftbysundell.com/articles/mutating-and-nonmutating-swift-contexts/",
+    "upvotes": 30,
+    "author": "tempodox",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27800041"
   }
 ]
