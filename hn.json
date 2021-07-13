@@ -1,75 +1,91 @@
 [
   {
+    "title": "macOS Nix Setup",
+    "url": "https://wickedchicken.github.io/post/macos-nix-setup/",
+    "upvotes": 33,
+    "author": "notamy",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27825240"
+  },
+  {
     "title": "Beating TimSort at Merging",
     "url": "https://earthly.dev/blog/python-timsort-merge/",
-    "upvotes": 114,
+    "upvotes": 128,
     "author": "andrewstetsenko",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27823180"
+  },
+  {
+    "title": "Apple scores 35 Emmy nominations, including 20 for hit series “Ted Lasso”",
+    "url": "https://www.apple.com/newsroom/2021/07/apple-scores-35-emmy-nominations-including-20-for-hit-series-ted-lasso/",
+    "upvotes": 17,
+    "author": "todsacerdoti",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27825327"
   },
   {
     "title": "Give me /events, not webhooks",
     "url": "https://blog.syncinc.so/events-not-webhooks",
-    "upvotes": 146,
+    "upvotes": 174,
     "author": "todsacerdoti",
-    "comments": 83,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=27823109"
   },
   {
-    "title": "“Long Covid”: More Than a 1/4 of Covid-19 Patients Symptomatic After 6 Months",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254523",
-    "upvotes": 113,
-    "author": "infodocket",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=27824447"
-  },
-  {
-    "title": "Apple MagSafe Battery Pack",
-    "url": "https://www.apple.com/shop/product/MJWY3AM/A/magsafe-battery-pack",
-    "upvotes": 110,
-    "author": "kondro",
-    "comments": 107,
-    "link": "https://news.ycombinator.com/item?id=27823869"
+    "title": "Why is standing more tiring than walking? [audio]",
+    "url": "https://www.bbc.co.uk/programmes/w3ct1pqm",
+    "upvotes": 10,
+    "author": "open-source-ux",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27824885"
   },
   {
     "title": "MacKichan Software, maker of Scientific Word, has gone out of business",
     "url": "https://www.mackichan.com/index.html?techtalk/407.htm~mainFrame",
-    "upvotes": 177,
+    "upvotes": 180,
     "author": "uger",
-    "comments": 102,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=27819736"
-  },
-  {
-    "title": "$100M xPrize for Carbon Removal",
-    "url": "https://www.xprize.org/prizes/elonmusk",
-    "upvotes": 112,
-    "author": "captn3m0",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=27822694"
   },
   {
     "title": "Emacs Tramp over AWS SSM APIs",
     "url": "https://martin.baillie.id/wrote/emacs-tramp-over-aws-ssm-apis/",
-    "upvotes": 60,
+    "upvotes": 66,
     "author": "zshev",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27808531"
   },
   {
     "title": "Good and Bad Monitoring",
     "url": "https://raynorelyp.medium.com/good-and-bad-monitoring-9e1370d808c2",
-    "upvotes": 42,
+    "upvotes": 50,
     "author": "kiyanwang",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27799948"
   },
   {
-    "title": "Building a vision of life without work",
-    "url": "https://livingafi.com/2015/03/09/building-a-vision-of-life-without-work/",
-    "upvotes": 297,
-    "author": "milkcircle",
-    "comments": 279,
-    "link": "https://news.ycombinator.com/item?id=27821101"
+    "title": "AWS Cost Saving Recommendations",
+    "url": "https://www.vantage.sh/blog/vantage-launches-aws-cost-saving-recommendations",
+    "upvotes": 35,
+    "author": "jeffbarg",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27823824"
+  },
+  {
+    "title": "Launch HN: Café (YC S21) – Find the best days to go to the office",
+    "url": "item?id=27823005",
+    "upvotes": 48,
+    "author": "TomNguy",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27823005"
+  },
+  {
+    "title": "$100M xPrize for Carbon Removal",
+    "url": "https://www.xprize.org/prizes/elonmusk",
+    "upvotes": 154,
+    "author": "captn3m0",
+    "comments": 140,
+    "link": "https://news.ycombinator.com/item?id=27822694"
   },
   {
     "title": "Rabbet",
@@ -78,111 +94,127 @@
   {
     "title": "Inventor harvests methane gas from ditches and ponds to power his moped",
     "url": "https://www.notechmagazine.com/2021/07/inventor-harvests-methane-gas-from-ditches-and-ponds-to-power-his-moped.html",
-    "upvotes": 201,
+    "upvotes": 209,
     "author": "rudenoise",
-    "comments": 136,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=27818895"
+  },
+  {
+    "title": "Reducing the Computational Cost of Deep Reinforcement Learning Research",
+    "url": "https://ai.googleblog.com/2021/07/reducing-computational-cost-of-deep.html",
+    "upvotes": 16,
+    "author": "theafh",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27824245"
+  },
+  {
+    "title": "Burden of post-Covid-19 syndrome and implications for healthcare planning",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254523",
+    "upvotes": 140,
+    "author": "infodocket",
+    "comments": 166,
+    "link": "https://news.ycombinator.com/item?id=27824447"
+  },
+  {
+    "title": "Building a vision of life without work",
+    "url": "https://livingafi.com/2015/03/09/building-a-vision-of-life-without-work/",
+    "upvotes": 305,
+    "author": "milkcircle",
+    "comments": 286,
+    "link": "https://news.ycombinator.com/item?id=27821101"
+  },
+  {
+    "title": "Firefox 90",
+    "url": "https://www.mozilla.org/en-US/firefox/90.0/releasenotes/",
+    "upvotes": 240,
+    "author": "TangerineDream",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=27820881"
+  },
+  {
+    "title": "Night of the Guillotine: The Fall of Robespierre",
+    "url": "https://literaryreview.co.uk/night-of-the-guillotine",
+    "upvotes": 18,
+    "author": "benbreen",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27817672"
   },
   {
     "title": "Show HN: maildog - Hosting email forwarding service on AWS with GitHub Actions",
     "url": "https://github.com/edmundhung/maildog",
-    "upvotes": 106,
+    "upvotes": 107,
     "author": "gmegoj32",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27819814"
   },
   {
-    "title": "Firefox 90",
-    "url": "https://www.mozilla.org/en-US/firefox/90.0/releasenotes/",
-    "upvotes": 214,
-    "author": "TangerineDream",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=27820881"
+    "title": "Apple MagSafe Battery Pack",
+    "url": "https://www.apple.com/shop/product/MJWY3AM/A/magsafe-battery-pack",
+    "upvotes": 131,
+    "author": "kondro",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=27823869"
   },
   {
-    "title": "Launch HN: Café (YC S21) – Find the best days to go to the office",
-    "url": "item?id=27823005",
-    "upvotes": 45,
-    "author": "TomNguy",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=27823005"
+    "title": "Apache Heron: A realtime, distributed, fault-tolerant stream processing engine",
+    "url": "https://heron.incubator.apache.org/",
+    "upvotes": 128,
+    "author": "yagizdegirmenci",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=27819648"
+  },
+  {
+    "title": "Scalable but Wasteful, or why fast replication protocols are slow",
+    "url": "http://charap.co/scalable-but-wasteful-or-why-fast-replication-protocols-are-actually-slow/",
+    "upvotes": 4,
+    "author": "hugofirth",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27807621"
+  },
+  {
+    "title": "Downgrade User Agent Client Hints to 'harmful'",
+    "url": "https://github.com/mozilla/standards-positions/issues/552",
+    "upvotes": 118,
+    "author": "ronancremin",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=27819451"
   },
   {
     "title": "A review and how-to guide for Microsoft Form Recognizer",
     "url": "https://www.crosstab.io/articles/microsoft-form-recognizer-review",
-    "upvotes": 3,
+    "upvotes": 7,
     "author": "ctk_brian",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27824904"
   },
   {
-    "title": "Apache Heron: A realtime, distributed, fault-tolerant stream processing engine",
-    "url": "https://heron.incubator.apache.org/",
-    "upvotes": 122,
-    "author": "yagizdegirmenci",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=27819648"
-  },
-  {
-    "title": "Night of the Guillotine: The Fall of Robespierre",
-    "url": "https://literaryreview.co.uk/night-of-the-guillotine",
-    "upvotes": 12,
-    "author": "benbreen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27817672"
-  },
-  {
-    "title": "Vantage Launches AWS Cost Saving Recommendations",
-    "url": "https://www.vantage.sh/blog/vantage-launches-aws-cost-saving-recommendations",
-    "upvotes": 21,
-    "author": "jeffbarg",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27823824"
-  },
-  {
     "title": "Ask HN: Introduction to Analog Synthesizers",
     "url": "item?id=27822489",
-    "upvotes": 103,
+    "upvotes": 109,
     "author": "brudgers",
-    "comments": 85,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=27822489"
-  },
-  {
-    "title": "Reducing the Computational Cost of Deep Reinforcement Learning Research",
-    "url": "https://ai.googleblog.com/2021/07/reducing-computational-cost-of-deep.html",
-    "upvotes": 8,
-    "author": "theafh",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27824245"
-  },
-  {
-    "title": "Downgrade User Agent Client Hints to 'harmful'",
-    "url": "https://github.com/mozilla/standards-positions/issues/552",
-    "upvotes": 117,
-    "author": "ronancremin",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=27819451"
-  },
-  {
-    "title": "Study finds 83% of software developers feel burnout",
-    "url": "https://www.usehaystack.io/blog/83-of-developers-suffer-from-burnout-haystack-analytics-study-finds",
-    "upvotes": 285,
-    "author": "IcyApril",
-    "comments": 255,
-    "link": "https://news.ycombinator.com/item?id=27821392"
   },
   {
     "title": "Proust’s Madeleine Was Originally a Slice of Toast",
     "url": "https://www.tabletmag.com/sections/arts-letters/articles/proust-madeleine-antisemitism-jewishness",
-    "upvotes": 17,
+    "upvotes": 19,
     "author": "apollinaire",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27821925"
   },
   {
+    "title": "Comic Books and Juvenile Delinquency",
+    "url": "http://www.thecomicbooks.com/1955senateinterim.html",
+    "upvotes": 42,
+    "author": "uniqueid",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=27807762"
+  },
+  {
     "title": "The History of Standard ML [audio]",
     "url": "https://www.pldi21.org/prerecorded_hopl.21.html",
-    "upvotes": 72,
+    "upvotes": 74,
     "author": "AlexeyBrin",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27800211"
@@ -190,47 +222,15 @@
   {
     "title": "Lachlan Morton completes 5,510km Alt Tour, beating peloton to Paris by five days",
     "url": "https://www.bikeradar.com/news/lachlan-morton-completes-alt-tour/",
-    "upvotes": 217,
+    "upvotes": 220,
     "author": "giuliomagnifico",
-    "comments": 111,
+    "comments": 115,
     "link": "https://news.ycombinator.com/item?id=27819545"
-  },
-  {
-    "title": "Amazon SQS is 15 Years Old",
-    "url": "https://aws.amazon.com/blogs/aws/amazon-sqs-15-years-and-still-queueing/",
-    "upvotes": 50,
-    "author": "jeffbarr",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27820416"
-  },
-  {
-    "title": "To compute a constant of calculus",
-    "url": "http://blogs.perl.org/users/damian_conway/2019/09/to-compute-a-constant-of-calculusa-treatise-on-multiple-ways.html",
-    "upvotes": 41,
-    "author": "tosh",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=27809061"
-  },
-  {
-    "title": "Reddit is forcing SaveVideo to shut down",
-    "url": "https://np.reddit.com/user/SaveVideo/comments/oimo6y/the_end_is_nigh/",
-    "upvotes": 542,
-    "author": "nixass",
-    "comments": 332,
-    "link": "https://news.ycombinator.com/item?id=27818514"
-  },
-  {
-    "title": "Plenty of exercise can be enough to offset the negative impacts of poor sleep",
-    "url": "https://www.sciencealert.com/plenty-of-exercise-can-be-enough-to-offset-the-negative-impact-of-poor-sleep",
-    "upvotes": 91,
-    "author": "lnyan",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=27821217"
   },
   {
     "title": "Seven Centuries Too Late",
     "url": "https://www.lrb.co.uk/the-paper/v43/n14/barbara-newman/seven-centuries-too-late",
-    "upvotes": 14,
+    "upvotes": 17,
     "author": "lermontov",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27817802"
