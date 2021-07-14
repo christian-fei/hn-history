@@ -1,102 +1,94 @@
 [
   {
-    "title": "macOS Nix setup: an alternative to Homebrew",
-    "url": "https://wickedchicken.github.io/post/macos-nix-setup/",
-    "upvotes": 389,
-    "author": "notamy",
-    "comments": 167,
-    "link": "https://news.ycombinator.com/item?id=27825240"
-  },
-  {
     "title": "Nokia E63 phone converted into LoRa messenger",
     "url": "https://www.cnx-software.com/2021/07/09/nokia-e63-phone-converted-into-lora-messenger-for-secure-off-the-grid-communication/",
-    "upvotes": 44,
+    "upvotes": 55,
     "author": "RcrdBrt",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27808312"
+  },
+  {
+    "title": "macOS Nix setup: an alternative to Homebrew",
+    "url": "https://wickedchicken.github.io/post/macos-nix-setup/",
+    "upvotes": 392,
+    "author": "notamy",
+    "comments": 171,
+    "link": "https://news.ycombinator.com/item?id=27825240"
   },
   {
     "title": "The worst volume control UI in the world",
     "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
-    "upvotes": 360,
+    "upvotes": 380,
     "author": "yankcrime",
-    "comments": 251,
+    "comments": 261,
     "link": "https://news.ycombinator.com/item?id=27819384"
+  },
+  {
+    "title": "The art of asking nicely",
+    "url": "https://ai-weirdness.ghost.io/the-art-of-asking-nicely/",
+    "upvotes": 33,
+    "author": "pcr910303",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27809153"
   },
   {
     "title": "Ghidra: A software reverse engineering suite of tools developed by the NSA",
     "url": "https://ghidra-sre.org/",
-    "upvotes": 179,
+    "upvotes": 190,
     "author": "NotSwift",
-    "comments": 55,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27818492"
   },
   {
     "title": "Python for Excel: A Modern Environment for Automation and Data Analysis",
     "url": "https://www.xlwings.org/book",
-    "upvotes": 50,
+    "upvotes": 55,
     "author": "teleforce",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27817864"
   },
   {
-    "title": "YC founders for open eng roles at over 500 YC-funded startups",
+    "title": "Open engineering roles at over 500 YC-funded startups",
     "url": "https://www.ycombinator.com/jobs"
   },
   {
     "title": "If you want to transform IT, start with finance",
     "url": "https://zwischenzugs.com/2021/07/12/if-you-want-to-transform-it-start-with-finance/",
-    "upvotes": 213,
+    "upvotes": 216,
     "author": "feross",
-    "comments": 117,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=27825211"
   },
   {
     "title": "Give me /events, not webhooks",
     "url": "https://blog.syncinc.so/events-not-webhooks",
-    "upvotes": 416,
+    "upvotes": 422,
     "author": "todsacerdoti",
-    "comments": 219,
+    "comments": 220,
     "link": "https://news.ycombinator.com/item?id=27823109"
-  },
-  {
-    "title": "The art of asking nicely",
-    "url": "https://ai-weirdness.ghost.io/the-art-of-asking-nicely/",
-    "upvotes": 25,
-    "author": "pcr910303",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27809153"
   },
   {
     "title": "RabbitMQ Streams Overview",
     "url": "https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/",
-    "upvotes": 179,
+    "upvotes": 183,
     "author": "DeadTrickster",
-    "comments": 36,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27825889"
   },
   {
     "title": "Beating TimSort at Merging",
     "url": "https://earthly.dev/blog/python-timsort-merge/",
-    "upvotes": 252,
+    "upvotes": 253,
     "author": "andrewstetsenko",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=27823180"
   },
   {
-    "title": "TypeScript's Type System Is Turing Complete",
-    "url": "https://github.com/microsoft/TypeScript/issues/14833",
-    "upvotes": 30,
-    "author": "rendall",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27829953"
-  },
-  {
     "title": "A privacy war is raging inside the W3C",
     "url": "https://www.protocol.com/policy/w3c-privacy-war",
-    "upvotes": 262,
+    "upvotes": 268,
     "author": "bpierre",
-    "comments": 131,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=27825510"
   },
   {
@@ -112,23 +104,15 @@
     "url": "https://www.askamathematician.com/2020/12/q-is-%cf%80-the-same-in-every-universe/",
     "upvotes": 37,
     "author": "the-mitr",
-    "comments": 55,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27818986"
-  },
-  {
-    "title": "$100M xPrize for Carbon Removal",
-    "url": "https://www.xprize.org/prizes/elonmusk",
-    "upvotes": 392,
-    "author": "captn3m0",
-    "comments": 384,
-    "link": "https://news.ycombinator.com/item?id=27822694"
   },
   {
     "title": "Update: SaveVideo is Back",
     "url": "https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/",
-    "upvotes": 79,
+    "upvotes": 82,
     "author": "skunkworker",
-    "comments": 30,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27827758"
   },
   {
@@ -140,49 +124,73 @@
     "link": "https://news.ycombinator.com/item?id=27807621"
   },
   {
-    "title": "I critiqued my past papers on social media – here’s what I learnt",
-    "url": "https://www.nature.com/articles/d41586-021-01879-y",
-    "upvotes": 17,
-    "author": "r0n0j0y",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27818395"
-  },
-  {
-    "title": "Iranian Operatives Planned to Kidnap a Brooklyn Author, Prosecutors Say",
-    "url": "https://www.nytimes.com/2021/07/13/nyregion/iran-masih-alinejad-kidnapping.html",
-    "upvotes": 61,
-    "author": "ent101",
+    "title": "TypeScript's Type System Is Turing Complete",
+    "url": "https://github.com/microsoft/TypeScript/issues/14833",
+    "upvotes": 31,
+    "author": "rendall",
     "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27828560"
+    "link": "https://news.ycombinator.com/item?id=27829953"
   },
   {
     "title": "Jelly: a recreational programming language inspired by J",
     "url": "https://github.com/DennisMitchell/jellylanguage",
-    "upvotes": 64,
+    "upvotes": 65,
     "author": "tosh",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27800057"
   },
   {
-    "title": "Night of the Guillotine: The Fall of Robespierre",
-    "url": "https://literaryreview.co.uk/night-of-the-guillotine",
-    "upvotes": 67,
-    "author": "benbreen",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=27817672"
+    "title": "Iranian Operatives Planned to Kidnap a Brooklyn Author, Prosecutors Say",
+    "url": "https://www.nytimes.com/2021/07/13/nyregion/iran-masih-alinejad-kidnapping.html",
+    "upvotes": 64,
+    "author": "ent101",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=27828560"
+  },
+  {
+    "title": "I critiqued my past papers on social media – here’s what I learnt",
+    "url": "https://www.nature.com/articles/d41586-021-01879-y",
+    "upvotes": 17,
+    "author": "r0n0j0y",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27818395"
+  },
+  {
+    "title": "Show HN: Generating Audio-Visuals from Astrophotos",
+    "url": "https://www.astrumnft.art/process.html",
+    "upvotes": 8,
+    "author": "sirnicolaz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27818927"
   },
   {
     "title": "AWS Cost Saving Recommendations",
     "url": "https://www.vantage.sh/blog/vantage-launches-aws-cost-saving-recommendations",
-    "upvotes": 148,
+    "upvotes": 150,
     "author": "jeffbarg",
-    "comments": 68,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=27823824"
+  },
+  {
+    "title": "Night of the Guillotine: The Fall of Robespierre",
+    "url": "https://literaryreview.co.uk/night-of-the-guillotine",
+    "upvotes": 69,
+    "author": "benbreen",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=27817672"
+  },
+  {
+    "title": "ZSA Planck EZ: A Powerful, Backlit, Open-Source, 40% Mechanical Keyboard",
+    "url": "https://www.zsa.io/planck/",
+    "upvotes": 44,
+    "author": "mathgenius",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=27827206"
   },
   {
     "title": "EXIF-based intrinsic image sizing explainer",
     "url": "https://github.com/eeeps/exif-intrinsic-sizing-explainer",
-    "upvotes": 27,
+    "upvotes": 28,
     "author": "edward",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27827127"
@@ -190,49 +198,41 @@
   {
     "title": "Jailer: A truly relational database client",
     "url": "https://github.com/Wisser/Jailer",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "wisser",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27808653"
   },
   {
-    "title": "It’s official. Your private communications can",
-    "url": "https://edri.org/our-work/its-official-your-private-communications-can-and-will-be-spied-on/",
-    "upvotes": 114,
-    "author": "juniperplant",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27827122"
-  },
-  {
     "title": "Why is standing more tiring than walking? [audio]",
     "url": "https://www.bbc.co.uk/programmes/w3ct1pqm",
-    "upvotes": 115,
+    "upvotes": 118,
     "author": "open-source-ux",
-    "comments": 85,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=27824885"
+  },
+  {
+    "title": "Moon wobble to bring surge in coastal flooding in 2030s, NASA study predicts",
+    "url": "https://edition.cnn.com/2021/07/13/us/moon-wobble-coastal-flooding-scn-trnd/index.html",
+    "upvotes": 14,
+    "author": "jeffwass",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27829945"
   },
   {
     "title": "Of 55 students in my class at Columbia’s Film program, 4 made a career out of it",
     "url": "https://twitter.com/JStoteraux/status/1413326562821246978",
-    "upvotes": 313,
+    "upvotes": 317,
     "author": "luu",
-    "comments": 352,
+    "comments": 356,
     "link": "https://news.ycombinator.com/item?id=27827592"
-  },
-  {
-    "title": "Plane Food Simulator 2021",
-    "url": "https://sheepandram.itch.io/pfs2021",
-    "upvotes": 76,
-    "author": "polm23",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=27819905"
   },
   {
     "title": "Launch HN: Café (YC S21) – Find the best days to go to the office",
     "url": "item?id=27823005",
     "upvotes": 78,
     "author": "TomNguy",
-    "comments": 58,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27823005"
   }
 ]
