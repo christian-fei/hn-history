@@ -1,48 +1,56 @@
 [
   {
-    "title": "Where Is the Apple M2",
-    "url": "https://www.tbray.org/ongoing/When/202x/2021/07/12/Slow-M1",
-    "upvotes": 70,
-    "author": "tosh",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=27828693"
-  },
-  {
     "title": "macOS Nix setup: an alternative to Homebrew",
     "url": "https://wickedchicken.github.io/post/macos-nix-setup/",
-    "upvotes": 307,
+    "upvotes": 322,
     "author": "notamy",
-    "comments": 131,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=27825240"
+  },
+  {
+    "title": "Where Is the Apple M2",
+    "url": "https://www.tbray.org/ongoing/When/202x/2021/07/12/Slow-M1",
+    "upvotes": 85,
+    "author": "tosh",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=27828693"
   },
   {
     "title": "The worst volume control UI in the world",
     "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
-    "upvotes": 218,
+    "upvotes": 228,
     "author": "yankcrime",
-    "comments": 138,
+    "comments": 147,
     "link": "https://news.ycombinator.com/item?id=27819384"
   },
   {
     "title": "Ghidra: A software reverse engineering suite of tools developed by the NSA",
     "url": "https://ghidra-sre.org/",
-    "upvotes": 103,
+    "upvotes": 118,
     "author": "NotSwift",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27818492"
+  },
+  {
+    "title": "Python for Excel: A Modern Environment for Automation and Data Analysis",
+    "url": "https://www.xlwings.org/book",
+    "upvotes": 18,
+    "author": "teleforce",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27817864"
   },
   {
     "title": "Give me /events, not webhooks",
     "url": "https://blog.syncinc.so/events-not-webhooks",
-    "upvotes": 338,
+    "upvotes": 350,
     "author": "todsacerdoti",
-    "comments": 202,
+    "comments": 203,
     "link": "https://news.ycombinator.com/item?id=27823109"
   },
   {
     "title": "RabbitMQ Streams Overview",
     "url": "https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/",
-    "upvotes": 140,
+    "upvotes": 147,
     "author": "DeadTrickster",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27825889"
@@ -50,7 +58,7 @@
   {
     "title": "Beating TimSort at Merging",
     "url": "https://earthly.dev/blog/python-timsort-merge/",
-    "upvotes": 227,
+    "upvotes": 230,
     "author": "andrewstetsenko",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27823180"
@@ -58,66 +66,34 @@
   {
     "title": "If you want to transform IT, start with finance",
     "url": "https://zwischenzugs.com/2021/07/12/if-you-want-to-transform-it-start-with-finance/",
-    "upvotes": 165,
+    "upvotes": 170,
     "author": "feross",
-    "comments": 104,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=27825211"
-  },
-  {
-    "title": "Python for Excel: A Modern Environment for Automation and Data Analysis",
-    "url": "https://www.xlwings.org/book",
-    "upvotes": 8,
-    "author": "teleforce",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27817864"
-  },
-  {
-    "title": "A privacy war is raging inside the W3C",
-    "url": "https://www.protocol.com/policy/w3c-privacy-war",
-    "upvotes": 192,
-    "author": "bpierre",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=27825510"
   },
   {
     "title": "Reducing the Computational Cost of Deep Reinforcement Learning Research",
     "url": "https://ai.googleblog.com/2021/07/reducing-computational-cost-of-deep.html",
-    "upvotes": 75,
+    "upvotes": 79,
     "author": "theafh",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27824245"
+  },
+  {
+    "title": "A privacy war is raging inside the W3C",
+    "url": "https://www.protocol.com/policy/w3c-privacy-war",
+    "upvotes": 200,
+    "author": "bpierre",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=27825510"
   },
   {
     "title": "Scalable but Wasteful, or why fast replication protocols are slow",
     "url": "http://charap.co/scalable-but-wasteful-or-why-fast-replication-protocols-are-actually-slow/",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "hugofirth",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27807621"
-  },
-  {
-    "title": "Tennessee DoH halts all vaccine outreach to kids – not just for Covid-19",
-    "url": "https://www.tennessean.com/story/news/health/2021/07/13/tennessee-halts-all-vaccine-outreach-minors-not-just-covid-19/7928701002/",
-    "upvotes": 61,
-    "author": "dmitryminkovsky",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=27829020"
-  },
-  {
-    "title": "AWS Cost Saving Recommendations",
-    "url": "https://www.vantage.sh/blog/vantage-launches-aws-cost-saving-recommendations",
-    "upvotes": 126,
-    "author": "jeffbarg",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=27823824"
-  },
-  {
-    "title": "Why is standing more tiring than walking? [audio]",
-    "url": "https://www.bbc.co.uk/programmes/w3ct1pqm",
-    "upvotes": 96,
-    "author": "open-source-ux",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=27824885"
   },
   {
     "title": "Emacs Tramp over AWS SSM APIs",
@@ -128,48 +104,64 @@
     "link": "https://news.ycombinator.com/item?id=27808531"
   },
   {
+    "title": "Plane Food Simulator 2021",
+    "url": "https://sheepandram.itch.io/pfs2021",
+    "upvotes": 66,
+    "author": "polm23",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=27819905"
+  },
+  {
     "title": "Jelly",
     "url": "https://github.com/DennisMitchell/jellylanguage",
     "upvotes": 50,
     "author": "tosh",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27800057"
+  },
+  {
+    "title": "$100M xPrize for Carbon Removal",
+    "url": "https://www.xprize.org/prizes/elonmusk",
+    "upvotes": 357,
+    "author": "captn3m0",
+    "comments": 368,
+    "link": "https://news.ycombinator.com/item?id=27822694"
+  },
+  {
+    "title": "Why is standing more tiring than walking? [audio]",
+    "url": "https://www.bbc.co.uk/programmes/w3ct1pqm",
+    "upvotes": 100,
+    "author": "open-source-ux",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=27824885"
   },
   {
     "title": "Mozart Data",
     "url": "https://www.mozartdata.com/uiux-designer"
   },
   {
-    "title": "$100M xPrize for Carbon Removal",
-    "url": "https://www.xprize.org/prizes/elonmusk",
-    "upvotes": 354,
-    "author": "captn3m0",
-    "comments": 362,
-    "link": "https://news.ycombinator.com/item?id=27822694"
-  },
-  {
-    "title": "Plane Food Simulator 2021",
-    "url": "https://sheepandram.itch.io/pfs2021",
-    "upvotes": 62,
-    "author": "polm23",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=27819905"
-  },
-  {
     "title": "Night of the Guillotine: The Fall of Robespierre",
     "url": "https://literaryreview.co.uk/night-of-the-guillotine",
-    "upvotes": 58,
+    "upvotes": 59,
     "author": "benbreen",
-    "comments": 63,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=27817672"
   },
   {
-    "title": "Jailer: A truly relational database client",
-    "url": "https://github.com/Wisser/Jailer",
-    "upvotes": 24,
-    "author": "wisser",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27808653"
+    "title": "AWS Cost Saving Recommendations",
+    "url": "https://www.vantage.sh/blog/vantage-launches-aws-cost-saving-recommendations",
+    "upvotes": 128,
+    "author": "jeffbarg",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=27823824"
+  },
+  {
+    "title": "Tennessee DoH halts all vaccine outreach to kids – not just for Covid-19",
+    "url": "https://www.tennessean.com/story/news/health/2021/07/13/tennessee-halts-all-vaccine-outreach-minors-not-just-covid-19/7928701002/",
+    "upvotes": 77,
+    "author": "dmitryminkovsky",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=27829020"
   },
   {
     "title": "Good and Bad Monitoring",
@@ -180,59 +172,67 @@
     "link": "https://news.ycombinator.com/item?id=27799948"
   },
   {
-    "title": "Building a vision of life without work",
-    "url": "https://livingafi.com/2015/03/09/building-a-vision-of-life-without-work/",
-    "upvotes": 378,
-    "author": "milkcircle",
-    "comments": 358,
-    "link": "https://news.ycombinator.com/item?id=27821101"
+    "title": "Jailer: A truly relational database client",
+    "url": "https://github.com/Wisser/Jailer",
+    "upvotes": 29,
+    "author": "wisser",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27808653"
   },
   {
     "title": "Iranian Operatives Planned to Kidnap a Brooklyn Author, Prosecutors Say",
     "url": "https://www.nytimes.com/2021/07/13/nyregion/iran-masih-alinejad-kidnapping.html",
-    "upvotes": 13,
+    "upvotes": 17,
     "author": "ent101",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27828560"
+  },
+  {
+    "title": "Building a vision of life without work",
+    "url": "https://livingafi.com/2015/03/09/building-a-vision-of-life-without-work/",
+    "upvotes": 379,
+    "author": "milkcircle",
+    "comments": 359,
+    "link": "https://news.ycombinator.com/item?id=27821101"
   },
   {
     "title": "Firefox 90",
     "url": "https://www.mozilla.org/en-US/firefox/90.0/releasenotes/",
-    "upvotes": 418,
+    "upvotes": 420,
     "author": "TangerineDream",
-    "comments": 261,
+    "comments": 267,
     "link": "https://news.ycombinator.com/item?id=27820881"
   },
   {
     "title": "EXIF-based intrinsic image sizing explainer",
     "url": "https://github.com/eeeps/exif-intrinsic-sizing-explainer",
-    "upvotes": 15,
+    "upvotes": 17,
     "author": "edward",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27827127"
   },
   {
-    "title": "Carlos Ghosn: How I escaped Japan in a box",
-    "url": "https://www.bbc.co.uk/news/business-57760993",
-    "upvotes": 119,
-    "author": "phpnode",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=27826510"
-  },
-  {
-    "title": "Of 55 students in my class at Columbia’s Film program, 4 made a career out of it",
-    "url": "https://twitter.com/JStoteraux/status/1413326562821246978",
-    "upvotes": 267,
-    "author": "luu",
-    "comments": 296,
-    "link": "https://news.ycombinator.com/item?id=27827592"
-  },
-  {
     "title": "Launch HN: Café (YC S21) – Find the best days to go to the office",
     "url": "item?id=27823005",
-    "upvotes": 70,
+    "upvotes": 71,
     "author": "TomNguy",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=27823005"
+  },
+  {
+    "title": "It’s official. Your private communications can",
+    "url": "https://edri.org/our-work/its-official-your-private-communications-can-and-will-be-spied-on/",
+    "upvotes": 51,
+    "author": "juniperplant",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27827122"
+  },
+  {
+    "title": "Carlos Ghosn: How I escaped Japan in a box",
+    "url": "https://www.bbc.co.uk/news/business-57760993",
+    "upvotes": 123,
+    "author": "phpnode",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=27826510"
   }
 ]
