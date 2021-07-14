@@ -2,81 +2,81 @@
   {
     "title": "macOS Nix setup: an alternative to Homebrew",
     "url": "https://wickedchicken.github.io/post/macos-nix-setup/",
-    "upvotes": 332,
+    "upvotes": 335,
     "author": "notamy",
-    "comments": 141,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=27825240"
-  },
-  {
-    "title": "Where Is the Apple M2",
-    "url": "https://www.tbray.org/ongoing/When/202x/2021/07/12/Slow-M1",
-    "upvotes": 107,
-    "author": "tosh",
-    "comments": 103,
-    "link": "https://news.ycombinator.com/item?id=27828693"
-  },
-  {
-    "title": "Ghidra: A software reverse engineering suite of tools developed by the NSA",
-    "url": "https://ghidra-sre.org/",
-    "upvotes": 126,
-    "author": "NotSwift",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=27818492"
   },
   {
     "title": "The worst volume control UI in the world",
     "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
-    "upvotes": 246,
+    "upvotes": 257,
     "author": "yankcrime",
-    "comments": 168,
+    "comments": 178,
     "link": "https://news.ycombinator.com/item?id=27819384"
+  },
+  {
+    "title": "Ghidra: A software reverse engineering suite of tools developed by the NSA",
+    "url": "https://ghidra-sre.org/",
+    "upvotes": 136,
+    "author": "NotSwift",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27818492"
   },
   {
     "title": "Python for Excel: A Modern Environment for Automation and Data Analysis",
     "url": "https://www.xlwings.org/book",
-    "upvotes": 20,
+    "upvotes": 26,
     "author": "teleforce",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27817864"
+  },
+  {
+    "title": "Update: SaveVideo is Back",
+    "url": "https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/",
+    "upvotes": 41,
+    "author": "skunkworker",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27827758"
+  },
+  {
+    "title": "If you want to transform IT, start with finance",
+    "url": "https://zwischenzugs.com/2021/07/12/if-you-want-to-transform-it-start-with-finance/",
+    "upvotes": 180,
+    "author": "feross",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=27825211"
   },
   {
     "title": "Give me /events, not webhooks",
     "url": "https://blog.syncinc.so/events-not-webhooks",
-    "upvotes": 362,
+    "upvotes": 371,
     "author": "todsacerdoti",
-    "comments": 207,
+    "comments": 209,
     "link": "https://news.ycombinator.com/item?id=27823109"
   },
   {
     "title": "Beating TimSort at Merging",
     "url": "https://earthly.dev/blog/python-timsort-merge/",
-    "upvotes": 235,
+    "upvotes": 238,
     "author": "andrewstetsenko",
-    "comments": 56,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=27823180"
   },
   {
     "title": "RabbitMQ Streams Overview",
     "url": "https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/",
-    "upvotes": 153,
+    "upvotes": 160,
     "author": "DeadTrickster",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27825889"
   },
   {
-    "title": "If you want to transform IT, start with finance",
-    "url": "https://zwischenzugs.com/2021/07/12/if-you-want-to-transform-it-start-with-finance/",
-    "upvotes": 177,
-    "author": "feross",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=27825211"
-  },
-  {
     "title": "A privacy war is raging inside the W3C",
     "url": "https://www.protocol.com/policy/w3c-privacy-war",
-    "upvotes": 213,
+    "upvotes": 218,
     "author": "bpierre",
-    "comments": 114,
+    "comments": 115,
     "link": "https://news.ycombinator.com/item?id=27825510"
   },
   {
@@ -90,7 +90,7 @@
   {
     "title": "Scalable but Wasteful, or why fast replication protocols are slow",
     "url": "http://charap.co/scalable-but-wasteful-or-why-fast-replication-protocols-are-actually-slow/",
-    "upvotes": 69,
+    "upvotes": 71,
     "author": "hugofirth",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27807621"
@@ -98,7 +98,7 @@
   {
     "title": "Emacs Tramp over AWS SSM APIs",
     "url": "https://martin.baillie.id/wrote/emacs-tramp-over-aws-ssm-apis/",
-    "upvotes": 106,
+    "upvotes": 107,
     "author": "zshev",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27808531"
@@ -106,31 +106,39 @@
   {
     "title": "Why is standing more tiring than walking? [audio]",
     "url": "https://www.bbc.co.uk/programmes/w3ct1pqm",
-    "upvotes": 104,
+    "upvotes": 106,
     "author": "open-source-ux",
-    "comments": 74,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=27824885"
   },
   {
-    "title": "Jelly",
+    "title": "Jelly: a recreational programming language inspired by J",
     "url": "https://github.com/DennisMitchell/jellylanguage",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "tosh",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27800057"
   },
   {
+    "title": "Iranian Operatives Planned to Kidnap a Brooklyn Author, Prosecutors Say",
+    "url": "https://www.nytimes.com/2021/07/13/nyregion/iran-masih-alinejad-kidnapping.html",
+    "upvotes": 34,
+    "author": "ent101",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27828560"
+  },
+  {
     "title": "$100M xPrize for Carbon Removal",
     "url": "https://www.xprize.org/prizes/elonmusk",
-    "upvotes": 363,
+    "upvotes": 366,
     "author": "captn3m0",
-    "comments": 372,
+    "comments": 374,
     "link": "https://news.ycombinator.com/item?id=27822694"
   },
   {
     "title": "AWS Cost Saving Recommendations",
     "url": "https://www.vantage.sh/blog/vantage-launches-aws-cost-saving-recommendations",
-    "upvotes": 133,
+    "upvotes": 134,
     "author": "jeffbarg",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=27823824"
@@ -144,16 +152,12 @@
     "link": "https://news.ycombinator.com/item?id=27817672"
   },
   {
-    "title": "Iranian Operatives Planned to Kidnap a Brooklyn Author, Prosecutors Say",
-    "url": "https://www.nytimes.com/2021/07/13/nyregion/iran-masih-alinejad-kidnapping.html",
-    "upvotes": 27,
-    "author": "ent101",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27828560"
-  },
-  {
-    "title": "Mozart Data",
-    "url": "https://www.mozartdata.com/uiux-designer"
+    "title": "Good and Bad Monitoring",
+    "url": "https://raynorelyp.medium.com/good-and-bad-monitoring-9e1370d808c2",
+    "upvotes": 90,
+    "author": "kiyanwang",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=27799948"
   },
   {
     "title": "Jailer: A truly relational database client",
@@ -164,44 +168,48 @@
     "link": "https://news.ycombinator.com/item?id=27808653"
   },
   {
-    "title": "Good and Bad Monitoring",
-    "url": "https://raynorelyp.medium.com/good-and-bad-monitoring-9e1370d808c2",
-    "upvotes": 89,
-    "author": "kiyanwang",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=27799948"
+    "title": "Mozart Data",
+    "url": "https://www.mozartdata.com/uiux-designer"
   },
   {
     "title": "Plane Food Simulator 2021",
     "url": "https://sheepandram.itch.io/pfs2021",
-    "upvotes": 68,
+    "upvotes": 69,
     "author": "polm23",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=27819905"
   },
   {
-    "title": "I critiqued my past papers on social media – here’s what I learnt",
-    "url": "https://www.nature.com/articles/d41586-021-01879-y",
-    "upvotes": 8,
-    "author": "r0n0j0y",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27818395"
-  },
-  {
     "title": "Building a vision of life without work",
     "url": "https://livingafi.com/2015/03/09/building-a-vision-of-life-without-work/",
-    "upvotes": 382,
+    "upvotes": 386,
     "author": "milkcircle",
-    "comments": 362,
+    "comments": 363,
     "link": "https://news.ycombinator.com/item?id=27821101"
   },
   {
     "title": "It’s official. Your private communications can",
     "url": "https://edri.org/our-work/its-official-your-private-communications-can-and-will-be-spied-on/",
-    "upvotes": 66,
+    "upvotes": 73,
     "author": "juniperplant",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27827122"
+  },
+  {
+    "title": "I critiqued my past papers on social media – here’s what I learnt",
+    "url": "https://www.nature.com/articles/d41586-021-01879-y",
+    "upvotes": 9,
+    "author": "r0n0j0y",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27818395"
+  },
+  {
+    "title": "EXIF-based intrinsic image sizing explainer",
+    "url": "https://github.com/eeeps/exif-intrinsic-sizing-explainer",
+    "upvotes": 20,
+    "author": "edward",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27827127"
   },
   {
     "title": "Launch HN: Café (YC S21) – Find the best days to go to the office",
@@ -212,27 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=27823005"
   },
   {
-    "title": "Firefox 90",
-    "url": "https://www.mozilla.org/en-US/firefox/90.0/releasenotes/",
-    "upvotes": 427,
-    "author": "TangerineDream",
-    "comments": 275,
-    "link": "https://news.ycombinator.com/item?id=27820881"
+    "title": "Proust’s Madeleine Was Originally a Slice of Toast",
+    "url": "https://www.tabletmag.com/sections/arts-letters/articles/proust-madeleine-antisemitism-jewishness",
+    "upvotes": 32,
+    "author": "apollinaire",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27821925"
   },
   {
-    "title": "EXIF-based intrinsic image sizing explainer",
-    "url": "https://github.com/eeeps/exif-intrinsic-sizing-explainer",
-    "upvotes": 18,
-    "author": "edward",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27827127"
-  },
-  {
-    "title": "Reddit SaveVideo bot restored as takedown notice sent by impersonator",
-    "url": "https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/",
-    "upvotes": 34,
-    "author": "skunkworker",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27827758"
+    "title": "Ask HN: Introduction to Analog Synthesizers",
+    "url": "item?id=27822489",
+    "upvotes": 145,
+    "author": "brudgers",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=27822489"
   }
 ]
