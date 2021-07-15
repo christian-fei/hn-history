@@ -1,16 +1,24 @@
 [
   {
+    "title": "Google: Well Tempered Traveler",
+    "url": "https://www.google.com/welltemperedtraveler/",
+    "upvotes": 53,
+    "author": "nvahalik",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27841209"
+  },
+  {
     "title": "The unreasonable effectiveness of just showing up everyday",
     "url": "https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/",
-    "upvotes": 1522,
+    "upvotes": 1548,
     "author": "karterk",
-    "comments": 501,
+    "comments": 504,
     "link": "https://news.ycombinator.com/item?id=27833064"
   },
   {
     "title": "Microsoft/IoT-for-Beginners: 12 Weeks, 24 Lessons, IoT for All",
     "url": "https://github.com/microsoft/IoT-For-Beginners",
-    "upvotes": 47,
+    "upvotes": 65,
     "author": "gmays",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27840412"
@@ -18,47 +26,71 @@
   {
     "title": "Sega sued for ‘rigged’ arcade machine",
     "url": "https://www.polygon.com/22573590/sega-key-master-arcade-game-class-action-lawsuit",
-    "upvotes": 187,
+    "upvotes": 201,
     "author": "danso",
-    "comments": 93,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=27829913"
   },
   {
     "title": "The Art of the Romanian Haystack",
     "url": "https://www.kuriositas.com/2013/09/the-art-of-romanian-haystack.html",
-    "upvotes": 66,
+    "upvotes": 76,
     "author": "comeagain",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27839161"
+  },
+  {
+    "title": "The U.S. Wheat Crop Is in Trouble",
+    "url": "https://gizmodo.com/the-u-s-wheat-crop-is-in-trouble-1847281693",
+    "upvotes": 34,
+    "author": "vegetablepotpie",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27841245"
   },
   {
     "title": "Ask HN: Why haven't we heard of data centers being affected by Ransomware?",
     "url": "item?id=27841137",
-    "upvotes": 18,
+    "upvotes": 28,
     "author": "WheelsAtLarge",
-    "comments": 4,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27841137"
-  },
-  {
-    "title": "Monodraw: ASCII art editor for the Mac",
-    "url": "https://monodraw.helftone.com/",
-    "upvotes": 286,
-    "author": "keehun",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=27832910"
   },
   {
     "title": "Thinking in Events: From Databases to Distributed Collaboration Software [video]",
     "url": "https://martin.kleppmann.com/2021/07/02/debs-keynote-thinking-in-events.html",
-    "upvotes": 69,
+    "upvotes": 80,
     "author": "simonpure",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27824509"
   },
   {
+    "title": "Monodraw: ASCII art editor for the Mac",
+    "url": "https://monodraw.helftone.com/",
+    "upvotes": 291,
+    "author": "keehun",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=27832910"
+  },
+  {
+    "title": "Full-time minimum wage workers can't afford rent anywhere in the US",
+    "url": "https://www.cnbc.com/2021/07/14/full-time-minimum-wage-workers-cant-afford-rent-anywhere-in-the-us.html",
+    "upvotes": 14,
+    "author": "oftenwrong",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27841355"
+  },
+  {
+    "title": "GOP Rep. on cyber committee dumped MSFT shortly before $10B contract scrapped",
+    "url": "https://www.salon.com/2021/07/14/gop-rep-on-cyber-committee-dumped-msft-stock-shortly-before-10b-pentagon-contract-was-scrapped/",
+    "upvotes": 114,
+    "author": "fooey",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=27840908"
+  },
+  {
     "title": "The Failures That Made Ian Fleming",
     "url": "https://newrepublic.com/article/162964/failures-made-ian-fleming-james-bond-biography-review",
-    "upvotes": 42,
+    "upvotes": 43,
     "author": "jseliger",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27829725"
@@ -66,42 +98,70 @@
   {
     "title": "Mr. Rafieh’s Tehran Pencil Shop",
     "url": "https://www.ana.press/photo/548339/دنیای-مداد-رنگی",
-    "upvotes": 189,
+    "upvotes": 192,
     "author": "NaOH",
     "comments": 66,
     "link": "https://news.ycombinator.com/item?id=27830005"
   },
   {
-    "title": "GOP Rep. on cyber committee dumped MSFT shortly before $10B contract scrapped",
-    "url": "https://www.salon.com/2021/07/14/gop-rep-on-cyber-committee-dumped-msft-stock-shortly-before-10b-pentagon-contract-was-scrapped/",
-    "upvotes": 91,
-    "author": "fooey",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27840908"
+    "title": "Windows 365 Cloud PC",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2021/07/14/introducing-a-new-era-of-hybrid-personal-computing-the-windows-365-cloud-pc/",
+    "upvotes": 177,
+    "author": "WalterSobchak",
+    "comments": 195,
+    "link": "https://news.ycombinator.com/item?id=27834024"
   },
   {
     "title": "A Storage Crisis",
     "url": "http://blogs.harvard.edu/doc/2021/06/24/a-storage-crisis/",
-    "upvotes": 85,
+    "upvotes": 87,
     "author": "vikrum",
-    "comments": 105,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=27837570"
   },
   {
     "title": "Microsoft exec: “Summary of meeting with Steve Jobs\"",
     "url": "https://twitter.com/TechEmails/status/1412448981574209537",
-    "upvotes": 46,
+    "upvotes": 70,
     "author": "ent101",
-    "comments": 14,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27840752"
   },
   {
-    "title": "Windows 365 Cloud PC",
-    "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2021/07/14/introducing-a-new-era-of-hybrid-personal-computing-the-windows-365-cloud-pc/",
-    "upvotes": 169,
-    "author": "WalterSobchak",
-    "comments": 191,
-    "link": "https://news.ycombinator.com/item?id=27834024"
+    "title": "Richard C. Lewontin, Eminent Geneticist with a Sharp Pen, Dies at 92",
+    "url": "https://www.nytimes.com/2021/07/07/science/richard-c-lewontin-dead.html",
+    "upvotes": 5,
+    "author": "Hooke",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27827316"
+  },
+  {
+    "title": "Goodbye, Fleets",
+    "url": "https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets",
+    "upvotes": 324,
+    "author": "mattyb",
+    "comments": 249,
+    "link": "https://news.ycombinator.com/item?id=27835775"
+  },
+  {
+    "title": "A Portable Machine-Independent Global Optimizer",
+    "url": "https://www.researchgate.net/publication/213890050_A_portable_machine-independent_global_optimizer_-_design_and_measurements",
+    "upvotes": 6,
+    "author": "tjalfi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27821562"
+  },
+  {
+    "title": "Increasing HTTPS Adoption",
+    "url": "https://blog.chromium.org/2021/07/increasing-https-adoption.html",
+    "upvotes": 115,
+    "author": "inian",
+    "comments": 152,
+    "link": "https://news.ycombinator.com/item?id=27835506"
+  },
+  {
+    "title": "Lowkey",
+    "url": "https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748"
   },
   {
     "title": "Operation SpoofedScholars: A Conversation with TA453",
@@ -112,77 +172,33 @@
     "link": "https://news.ycombinator.com/item?id=27828137"
   },
   {
-    "title": "Goodbye, Fleets",
-    "url": "https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets",
-    "upvotes": 319,
-    "author": "mattyb",
-    "comments": 249,
-    "link": "https://news.ycombinator.com/item?id=27835775"
-  },
-  {
-    "title": "Increasing HTTPS Adoption",
-    "url": "https://blog.chromium.org/2021/07/increasing-https-adoption.html",
-    "upvotes": 113,
-    "author": "inian",
-    "comments": 151,
-    "link": "https://news.ycombinator.com/item?id=27835506"
-  },
-  {
-    "title": "Lowkey",
-    "url": "https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748"
-  },
-  {
     "title": "The Triumvirate: Coal, Iron, and Steam",
     "url": "https://technicshistory.com/2021/07/13/the-triumvirate-coal-iron-and-steam/",
-    "upvotes": 61,
+    "upvotes": 63,
     "author": "cfmcdonald",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27823649"
   },
   {
-    "title": "The U.S. Wheat Crop Is in Trouble",
-    "url": "https://gizmodo.com/the-u-s-wheat-crop-is-in-trouble-1847281693",
-    "upvotes": 6,
-    "author": "vegetablepotpie",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27841245"
-  },
-  {
     "title": "iOS zero-day let SolarWinds hackers compromise fully updated iPhones",
     "url": "https://arstechnica.com/gadgets/2021/07/solarwinds-hackers-used-an-ios-0-day-to-steal-google-and-microsoft-credentials/",
-    "upvotes": 189,
+    "upvotes": 194,
     "author": "wil421",
     "comments": 66,
     "link": "https://news.ycombinator.com/item?id=27837941"
   },
   {
-    "title": "Norman doors are everywhere",
-    "url": "https://www.youtube.com/watch?v=yY96hTb8WgI",
-    "upvotes": 125,
-    "author": "acmegeek",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=27832728"
-  },
-  {
     "title": "WebAssembly from Scratch: From FizzBuzz to DooM",
     "url": "https://github.com/diekmann/wasm-fizzbuzz",
-    "upvotes": 435,
+    "upvotes": 440,
     "author": "popitter",
     "comments": 74,
     "link": "https://news.ycombinator.com/item?id=27832115"
   },
   {
-    "title": "Optimizing inputs and becoming indistractable",
-    "url": "https://sovereign-individual.xyz/posts/becoming-indistractable/",
-    "upvotes": 58,
-    "author": "PascalPrecht",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27819700"
-  },
-  {
     "title": "Launch HN: Onfolk",
     "url": "item?id=27830978",
-    "upvotes": 94,
+    "upvotes": 95,
     "author": "4thstreet",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27830978"
@@ -190,49 +206,33 @@
   {
     "title": "The Challenges of First Contact",
     "url": "https://transfer-orbit.ghost.io/science-fiction-first-contact-desolation-conquerors-martine-zahn/",
-    "upvotes": 10,
+    "upvotes": 13,
     "author": "AndrewLiptak",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27819872"
   },
   {
-    "title": "A Portable Machine-Independent Global Optimizer",
-    "url": "https://www.researchgate.net/publication/213890050_A_portable_machine-independent_global_optimizer_-_design_and_measurements",
-    "upvotes": 3,
-    "author": "tjalfi",
+    "title": "Optimizing inputs and becoming indistractable",
+    "url": "https://sovereign-individual.xyz/posts/becoming-indistractable/",
+    "upvotes": 59,
+    "author": "PascalPrecht",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27821562"
+    "link": "https://news.ycombinator.com/item?id=27819700"
   },
   {
     "title": "The Blender Studio Pipeline",
     "url": "https://cloud.blender.org/blog/the-blender-studio-pipeline/",
-    "upvotes": 123,
+    "upvotes": 128,
     "author": "Tomte",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27835489"
   },
   {
-    "title": "The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games",
-    "url": "https://bair.berkeley.edu/blog/2021/07/14/mappo/",
-    "upvotes": 60,
-    "author": "jonbaer",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27833983"
-  },
-  {
     "title": "Germany fines YouTube for removing video of anti-lockdown protest",
     "url": "https://www.mediaite.com/news/germany-fines-youtube-six-figures-for-removing-video-of-anti-lockdown-protest/",
-    "upvotes": 413,
+    "upvotes": 422,
     "author": "sbuttgereit",
-    "comments": 393,
+    "comments": 396,
     "link": "https://news.ycombinator.com/item?id=27836640"
-  },
-  {
-    "title": "A shift in American family values is fueling estrangement",
-    "url": "https://www.theatlantic.com/family/archive/2021/01/why-parents-and-kids-get-estranged/617612/",
-    "upvotes": 370,
-    "author": "yamrzou",
-    "comments": 597,
-    "link": "https://news.ycombinator.com/item?id=27833159"
   }
 ]
