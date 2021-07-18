@@ -1,67 +1,75 @@
 [
   {
-    "title": "ToyDB: Distributed SQL Database in Rust",
-    "url": "https://github.com/erikgrinaker/toydb",
-    "upvotes": 49,
-    "author": "adamnemecek",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27874992"
-  },
-  {
     "title": "An app for M1 Macs that plays the sound of a fan as CPU usage goes up",
     "url": "https://fanfan.rambo.codes/",
-    "upvotes": 22,
+    "upvotes": 76,
     "author": "spideymans",
-    "comments": 3,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27875158"
+  },
+  {
+    "title": "ToyDB: Distributed SQL Database in Rust",
+    "url": "https://github.com/erikgrinaker/toydb",
+    "upvotes": 70,
+    "author": "adamnemecek",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27874992"
   },
   {
     "title": "Inserting One Billion Rows in SQLite Under a Minute",
     "url": "https://avi.im/blag/2021/fast-sqlite-inserts/",
-    "upvotes": 304,
+    "upvotes": 313,
     "author": "todsacerdoti",
     "comments": 91,
     "link": "https://news.ycombinator.com/item?id=27872575"
   },
   {
-    "title": "The Perils of M1 Ownership",
-    "url": "https://eclecticlight.co/2021/07/18/last-week-on-my-mac-the-perils-of-m1-ownership/",
-    "upvotes": 121,
-    "author": "ingve",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=27874600"
-  },
-  {
     "title": "Cryptographers unearth vulnerabilities in Telegram's encryption protocol",
     "url": "https://www.cyberscoop.com/telegram-app-security-encryption/",
-    "upvotes": 171,
+    "upvotes": 182,
     "author": "wglb",
-    "comments": 61,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=27866934"
-  },
-  {
-    "title": "Private Israeli spyware used to hack cellphones of journalists, activists",
-    "url": "https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/",
-    "upvotes": 181,
-    "author": "tosh",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=27874100"
-  },
-  {
-    "title": "Leak uncovers global abuse of cyber-surveillance weapon",
-    "url": "https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus",
-    "upvotes": 238,
-    "author": "johnny_reilly",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=27874027"
   },
   {
     "title": "Right or Left, You Should Be Worried About Big Tech Censorship [Cory Doctorow]",
     "url": "https://www.eff.org/deeplinks/2021/07/right-or-left-you-should-be-worried-about-big-tech-censorship",
-    "upvotes": 89,
+    "upvotes": 127,
     "author": "DiabloD3",
-    "comments": 26,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27874527"
+  },
+  {
+    "title": "Leak uncovers global abuse of cyber-surveillance weapon",
+    "url": "https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus",
+    "upvotes": 267,
+    "author": "johnny_reilly",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=27874027"
+  },
+  {
+    "title": "Private Israeli spyware used to hack cellphones of journalists, activists",
+    "url": "https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/",
+    "upvotes": 205,
+    "author": "tosh",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=27874100"
+  },
+  {
+    "title": "Chernobyl's 'stalker' subculture",
+    "url": "https://www.calvertjournal.com/features/show/10946/into-the-zone-4-days-inside-chernobyls-secretive-stalker-subculture",
+    "upvotes": 16,
+    "author": "galfarragem",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27871563"
+  },
+  {
+    "title": "The Perils of M1 Ownership",
+    "url": "https://eclecticlight.co/2021/07/18/last-week-on-my-mac-the-perils-of-m1-ownership/",
+    "upvotes": 137,
+    "author": "ingve",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=27874600"
   },
   {
     "title": "Volley",
@@ -70,79 +78,63 @@
   {
     "title": "Don’t Let Police Arm Autonomous or Remote-Controlled Robots and Drones",
     "url": "https://www.eff.org/deeplinks/2021/07/dont-let-police-arm-autonomous-or-remote-controlled-robots-and-drones",
-    "upvotes": 64,
+    "upvotes": 79,
     "author": "DiabloD3",
-    "comments": 25,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27874519"
   },
   {
     "title": "Zig cc: A drop-in replacement for GCC/Clang",
     "url": "https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html",
-    "upvotes": 213,
+    "upvotes": 222,
     "author": "AlexeyBrin",
-    "comments": 60,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=27872596"
   },
   {
-    "title": "Police Destroy 1,069 Bitcoin Miners with Big Ass Steamroller in Malaysia",
-    "url": "https://www.vice.com/en/article/7kv739/police-destroy-1069-bitcoin-miners-with-big-ass-steamroller-in-malaysia",
-    "upvotes": 35,
-    "author": "giuliomagnifico",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27874794"
-  },
-  {
-    "title": "Chernobyl's 'stalker' subculture",
-    "url": "https://www.calvertjournal.com/features/show/10946/into-the-zone-4-days-inside-chernobyls-secretive-stalker-subculture",
-    "upvotes": 7,
-    "author": "galfarragem",
+    "title": "“We're Shutting Down Our 3G Network”",
+    "url": "https://benergize.com/2021/07/16/were-shutting-down-our-3g-network/",
+    "upvotes": 5,
+    "author": "spcebar",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27871563"
+    "link": "https://news.ycombinator.com/item?id=27875356"
   },
   {
     "title": "How NSO's Pegasus Is Used to Spy on Journalists",
     "url": "https://www.haaretz.com/israel-news/tech-news/.premium-how-nso-s-pegasus-is-used-to-spy-on-journalists-1.10010560",
-    "upvotes": 62,
+    "upvotes": 71,
     "author": "rcMgD2BwE72F",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27874173"
   },
   {
     "title": "A reporter’s fight to expose Epstein’s crimes, and earn a living",
     "url": "https://www.nytimes.com/2021/07/17/opinion/julie-brown-epstein-book.html",
-    "upvotes": 38,
+    "upvotes": 47,
     "author": "dsr12",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27874442"
   },
   {
-    "title": "Matplotlib Gallery",
-    "url": "https://matplotlib.org/stable/gallery/index.html",
-    "upvotes": 20,
-    "author": "belter",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27873325"
-  },
-  {
     "title": "Do Low-Level Optimizations Matter?",
     "url": "https://cantrip.org/sortfast.html",
-    "upvotes": 83,
+    "upvotes": 90,
     "author": "signa11",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27863689"
   },
   {
-    "title": "Looking Glass: Run a Windows VM on Linux in a window with native performance",
-    "url": "https://looking-glass.io/",
-    "upvotes": 710,
-    "author": "tambourine_man",
-    "comments": 252,
-    "link": "https://news.ycombinator.com/item?id=27870399"
+    "title": "Matplotlib Gallery",
+    "url": "https://matplotlib.org/stable/gallery/index.html",
+    "upvotes": 23,
+    "author": "belter",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27873325"
   },
   {
     "title": "BANCStar",
     "url": "http://web.archive.org/web/20050313023432/http://www.geocities.com/ResearchTriangle/Station/2266/tarpit/bancstar.html",
-    "upvotes": 167,
+    "upvotes": 170,
     "author": "jasonhansel",
     "comments": 61,
     "link": "https://news.ycombinator.com/item?id=27870824"
@@ -150,89 +142,97 @@
   {
     "title": "Soviet scientific calculator gives up its Cold War-era secrets",
     "url": "https://hackaday.com/2021/07/17/soviet-scientific-calculator-gives-up-its-cold-war-era-secrets/",
-    "upvotes": 30,
+    "upvotes": 37,
     "author": "thunderbong",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27872292"
-  },
-  {
-    "title": "Physically Based Rendering Book",
-    "url": "https://www.pbr-book.org/3ed-2018/Preface",
-    "upvotes": 73,
-    "author": "jasim",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=27855145"
   },
   {
     "title": "The Fundamental Mechanism of Scaling",
     "url": "https://brooker.co.za/blog/2021/01/22/cloud-scale.html",
-    "upvotes": 11,
+    "upvotes": 16,
     "author": "yagizdegirmenci",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27865038"
   },
   {
+    "title": "Looking Glass: Run a Windows VM on Linux in a window with native performance",
+    "url": "https://looking-glass.io/",
+    "upvotes": 717,
+    "author": "tambourine_man",
+    "comments": 253,
+    "link": "https://news.ycombinator.com/item?id=27870399"
+  },
+  {
+    "title": "Cities Try to Phase Out Gas Stoves–But Cooks Are Pushing Back",
+    "url": "https://www.wsj.com/articles/cities-try-to-phase-out-gas-stovesbut-cooks-are-pushing-back-11626514200",
+    "upvotes": 20,
+    "author": "voisin",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=27874912"
+  },
+  {
+    "title": "Physically Based Rendering Book",
+    "url": "https://www.pbr-book.org/3ed-2018/Preface",
+    "upvotes": 78,
+    "author": "jasim",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=27855145"
+  },
+  {
+    "title": "Police Destroy 1,069 Bitcoin Miners with Big Ass Steamroller in Malaysia",
+    "url": "https://www.vice.com/en/article/7kv739/police-destroy-1069-bitcoin-miners-with-big-ass-steamroller-in-malaysia",
+    "upvotes": 43,
+    "author": "giuliomagnifico",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=27874794"
+  },
+  {
     "title": "Show HN: Work with CSV files using SQL. For data scientists and engineers",
     "url": "https://superintendent.app/",
-    "upvotes": 63,
+    "upvotes": 66,
     "author": "tanin",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27871574"
   },
   {
+    "title": "How You Wound Up Playing ‘The Oregon Trail’ in Computer Class",
+    "url": "https://www.smithsonianmag.com/innovation/how-you-wound-playing-em-oregon-trailem-computer-class-180959851/",
+    "upvotes": 117,
+    "author": "NotSwift",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=27871196"
+  },
+  {
     "title": "Show HN: I built an app to create repeatable checklists to help with ADHD",
     "url": "https://checkyourlist.app/",
-    "upvotes": 223,
+    "upvotes": 226,
     "author": "Swalden123",
     "comments": 149,
     "link": "https://news.ycombinator.com/item?id=27871790"
   },
   {
-    "title": "Cities Try to Phase Out Gas Stoves–But Cooks Are Pushing Back",
-    "url": "https://www.wsj.com/articles/cities-try-to-phase-out-gas-stovesbut-cooks-are-pushing-back-11626514200",
-    "upvotes": 13,
-    "author": "voisin",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27874912"
-  },
-  {
     "title": "Different Cultures Define Happiness Differently",
     "url": "https://www.theatlantic.com/family/archive/2021/07/happiest-country-definition/619441/",
-    "upvotes": 16,
+    "upvotes": 20,
     "author": "pseudolus",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27874342"
   },
   {
-    "title": "Ask HN: Did anybody apply for UK Global Talent visa? How did it go?",
-    "url": "item?id=27873783",
-    "upvotes": 50,
-    "author": "boghy8823",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27873783"
+    "title": "FireCracker internals: a deep dive inside the technology powering AWS Lambda",
+    "url": "https://www.talhoffman.com/2021/07/18/firecracker-internals/",
+    "upvotes": 15,
+    "author": "talhof8",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27872410"
   },
   {
-    "title": "How You Wound Up Playing ‘The Oregon Trail’ in Computer Class",
-    "url": "https://www.smithsonianmag.com/innovation/how-you-wound-playing-em-oregon-trailem-computer-class-180959851/",
-    "upvotes": 113,
-    "author": "NotSwift",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=27871196"
-  },
-  {
-    "title": "NYC Mesh Community Internet",
-    "url": "https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html",
-    "upvotes": 112,
-    "author": "eu",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=27872243"
-  },
-  {
-    "title": "Cannabis first domesticated 12,000 years ago",
-    "url": "https://phys.org/news/2021-07-cannabis-domesticated-years.html",
-    "upvotes": 112,
-    "author": "dnetesn",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=27871966"
+    "title": "Nice Problems to Have",
+    "url": "https://notebook.drmaciver.com/posts/2020-07-15-09:33.html",
+    "upvotes": 16,
+    "author": "apsec112",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27863600"
   }
 ]
