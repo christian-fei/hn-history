@@ -1,24 +1,32 @@
 [
   {
+    "title": "SQLite is 35% Faster Than The Filesystem",
+    "url": "https://www.sqlite.org/fasterthanfs.html",
+    "upvotes": 123,
+    "author": "emilengler",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=27897427"
+  },
+  {
     "title": "Our lawsuit against ChessBase",
     "url": "https://stockfishchess.org/blog/2021/our-lawsuit-against-chessbase/",
-    "upvotes": 207,
+    "upvotes": 241,
     "author": "EvgeniyZh",
-    "comments": 75,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=27896386"
   },
   {
-    "title": "SQLite is 35% Faster Than The Filesystem",
-    "url": "https://www.sqlite.org/fasterthanfs.html",
-    "upvotes": 82,
-    "author": "emilengler",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=27897427"
+    "title": "The Untamed Rise of Hospital Monopolies",
+    "url": "https://www.npr.org/sections/money/2021/07/20/1017631111/the-untamed-rise-of-hospital-monopolies",
+    "upvotes": 48,
+    "author": "elliekelly",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27897106"
   },
   {
     "title": "Baltimore Museum of Art will host an exhibition curated by the museum's guards",
     "url": "https://artbma.org/about/press/release/bma-security-officers-take-center-stage-as-guest-curators-of-a-new-exhibition-opening-in-march-2022",
-    "upvotes": 279,
+    "upvotes": 287,
     "author": "hampelm",
     "comments": 84,
     "link": "https://news.ycombinator.com/item?id=27893283"
@@ -26,67 +34,59 @@
   {
     "title": "size_t-to-int vulnerability in Linux’s filesystem layer",
     "url": "https://www.openwall.com/lists/oss-security/2021/07/20/1",
-    "upvotes": 197,
+    "upvotes": 208,
     "author": "jwilk",
-    "comments": 98,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=27893181"
-  },
-  {
-    "title": "How Bell’s Theorem Proved ‘Spooky Action at a Distance’ Is Real",
-    "url": "https://www.quantamagazine.org/how-bells-theorem-proved-spooky-action-at-a-distance-is-real-20210720/",
-    "upvotes": 114,
-    "author": "theafh",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=27894355"
-  },
-  {
-    "title": "The Untamed Rise of Hospital Monopolies",
-    "url": "https://www.npr.org/sections/money/2021/07/20/1017631111/the-untamed-rise-of-hospital-monopolies",
-    "upvotes": 18,
-    "author": "elliekelly",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27897106"
   },
   {
     "title": "T-10 to Blue Origin flight",
     "url": "https://www.blueorigin.com/",
-    "upvotes": 176,
+    "upvotes": 180,
     "author": "squarefoot",
-    "comments": 370,
+    "comments": 377,
     "link": "https://news.ycombinator.com/item?id=27893201"
-  },
-  {
-    "title": "Square Banking",
-    "url": "https://squareup.com/us/en/banking",
-    "upvotes": 194,
-    "author": "elvinyung",
-    "comments": 126,
-    "link": "https://news.ycombinator.com/item?id=27893280"
   },
   {
     "title": "JVM Anatomy Quark #26: Identity Hash Code",
     "url": "https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/",
-    "upvotes": 20,
+    "upvotes": 30,
     "author": "fniephaus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27880357"
+  },
+  {
+    "title": "How Bell’s Theorem Proved ‘Spooky Action at a Distance’ Is Real",
+    "url": "https://www.quantamagazine.org/how-bells-theorem-proved-spooky-action-at-a-distance-is-real-20210720/",
+    "upvotes": 117,
+    "author": "theafh",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=27894355"
+  },
+  {
+    "title": "Square Banking",
+    "url": "https://squareup.com/us/en/banking",
+    "upvotes": 199,
+    "author": "elvinyung",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=27893280"
+  },
+  {
+    "title": "Software research is a train wreck",
+    "url": "https://buttondown.email/hillelwayne/archive/i-ing-hate-science/",
+    "upvotes": 164,
+    "author": "martincmartin",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=27892615"
   },
   {
     "title": "GiveCampus",
     "url": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
   },
   {
-    "title": "Software research is a train wreck",
-    "url": "https://buttondown.email/hillelwayne/archive/i-ing-hate-science/",
-    "upvotes": 157,
-    "author": "martincmartin",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=27892615"
-  },
-  {
     "title": "Show HN: Sioyek – PDF viewer for reading research papers and technical documents",
     "url": "https://sioyek.info/",
-    "upvotes": 136,
+    "upvotes": 149,
     "author": "hexomancer",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27893303"
@@ -94,18 +94,34 @@
   {
     "title": "Launch HN: Bedrock AI (YC S21) – Using ML to identify red flags in SEC filings",
     "url": "item?id=27893182",
-    "upvotes": 76,
+    "upvotes": 82,
     "author": "kbennatti",
-    "comments": 69,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=27893182"
   },
   {
     "title": "GPU Architecture Types Explained",
     "url": "https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/",
-    "upvotes": 85,
+    "upvotes": 87,
     "author": "asicsp",
-    "comments": 12,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27893678"
+  },
+  {
+    "title": "AlphaFold 2 is here: what’s behind the structure prediction miracle",
+    "url": "https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/",
+    "upvotes": 186,
+    "author": "couteiral",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=27891532"
+  },
+  {
+    "title": "Show HN: Headless Recorder v1.0, get Playwright/Puppeteer scripts without coding",
+    "url": "https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda",
+    "upvotes": 12,
+    "author": "ianaya89",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27897291"
   },
   {
     "title": "Sequoia: A deep root in Linux's filesystem layer",
@@ -116,123 +132,107 @@
     "link": "https://news.ycombinator.com/item?id=27894368"
   },
   {
-    "title": "AlphaFold 2 is here: what’s behind the structure prediction miracle",
-    "url": "https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/",
-    "upvotes": 185,
-    "author": "couteiral",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=27891532"
-  },
-  {
     "title": "Who Owns Mike Disfarmer’s Photographs?",
     "url": "https://www.newyorker.com/news/us-journal/who-owns-mike-disfarmers-photographs",
-    "upvotes": 9,
+    "upvotes": 10,
     "author": "null_object",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27880166"
   },
   {
     "title": "Restaurant workers quit at record rate",
     "url": "https://www.npr.org/2021/07/20/1016081936/low-pay-no-benefits-rude-customers-restaurant-workers-quit-at-record-rate",
-    "upvotes": 92,
+    "upvotes": 112,
     "author": "boulos",
-    "comments": 181,
+    "comments": 225,
     "link": "https://news.ycombinator.com/item?id=27894640"
+  },
+  {
+    "title": "Ask HN: How do you track comment threads in HN?",
+    "url": "item?id=27897211",
+    "upvotes": 25,
+    "author": "xcambar",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27897211"
   },
   {
     "title": "DNA ‘Borg’ structures perplex scientists",
     "url": "https://www.nature.com/articles/d41586-021-01947-3",
-    "upvotes": 11,
+    "upvotes": 16,
     "author": "gmays",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27895793"
   },
   {
+    "title": "An Unedited, Rain-Soaked Ride on Claughton’s Aerial Ropeway [video]",
+    "url": "https://www.youtube.com/watch?v=7JTWc6jWZ9Q",
+    "upvotes": 4,
+    "author": "CaliforniaKarl",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27889273"
+  },
+  {
+    "title": "Node-RED 2.0",
+    "url": "https://nodered.org/blog/2021/07/20/version-2-0-released",
+    "upvotes": 135,
+    "author": "detaro",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27892226"
+  },
+  {
     "title": "Stopping FTP support in Firefox 90",
     "url": "https://blog.mozilla.org/security/2021/07/20/stopping-ftp-support-in-firefox-90/",
-    "upvotes": 88,
+    "upvotes": 95,
     "author": "ykat7",
-    "comments": 139,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=27896541"
   },
   {
     "title": "My mindfulness practice led me to meltdown",
     "url": "https://danlawton.substack.com/p/when-buddhism-goes-bad",
-    "upvotes": 321,
+    "upvotes": 331,
     "author": "mudita",
-    "comments": 334,
+    "comments": 351,
     "link": "https://news.ycombinator.com/item?id=27890790"
-  },
-  {
-    "title": "Node-RED 2.0",
-    "url": "https://nodered.org/blog/2021/07/20/version-2-0-released",
-    "upvotes": 129,
-    "author": "detaro",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=27892226"
   },
   {
     "title": "EvilModel: Hiding Malware Inside of Neural Network Models [pdf]",
     "url": "https://arxiv.org/abs/2107.08590",
-    "upvotes": 69,
+    "upvotes": 71,
     "author": "Hard_Space",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27892075"
   },
   {
-    "title": "Astronomers push for global debate on giant satellite swarms",
-    "url": "https://www.nature.com/articles/d41586-021-01954-4",
-    "upvotes": 124,
-    "author": "pseudolus",
-    "comments": 146,
-    "link": "https://news.ycombinator.com/item?id=27894318"
-  },
-  {
-    "title": "Show HN: Headless Recorder v1.0, get Playwright/Puppeteer scripts without coding",
-    "url": "https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda",
-    "upvotes": 8,
-    "author": "ianaya89",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27897291"
-  },
-  {
     "title": "Papers every developer should read at least twice",
     "url": "https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice",
-    "upvotes": 491,
+    "upvotes": 501,
     "author": "teleforce",
-    "comments": 74,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=27892076"
   },
   {
     "title": "Retroactive Public Goods Funding",
     "url": "https://optimismpbc.medium.com/retroactive-public-goods-funding-33c9b7d00f0c",
-    "upvotes": 15,
+    "upvotes": 16,
     "author": "abecedarius",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27895542"
   },
   {
-    "title": "Ask HN: How do you track comment threads in HN?",
-    "url": "item?id=27897211",
-    "upvotes": 11,
-    "author": "xcambar",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27897211"
-  },
-  {
     "title": "A bug's life: Millimeter-tall mountains on neutron stars",
     "url": "https://phys.org/news/2021-07-bug-life-millimeter-tall-mountains-neutron.html",
-    "upvotes": 41,
+    "upvotes": 42,
     "author": "dnetesn",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27880788"
   },
   {
-    "title": "Solid Objects: 16th-Century Geometric and Perspective Drawings",
-    "url": "https://publicdomainreview.org/collection/solid-objects",
-    "upvotes": 11,
-    "author": "benbreen",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27896003"
+    "title": "Astronomers push for global debate on giant satellite swarms",
+    "url": "https://www.nature.com/articles/d41586-021-01954-4",
+    "upvotes": 126,
+    "author": "pseudolus",
+    "comments": 152,
+    "link": "https://news.ycombinator.com/item?id=27894318"
   }
 ]
