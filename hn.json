@@ -2,57 +2,65 @@
   {
     "title": "The Tyranny of Spreadsheets",
     "url": "https://timharford.com/2021/07/the-tyranny-of-spreadsheets/",
-    "upvotes": 85,
+    "upvotes": 109,
     "author": "shortleash",
-    "comments": 34,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27923998"
   },
   {
     "title": "Show HN: I developed a native macOS Hacker News client",
     "url": "https://github.com/goranmoomin/HackerNews",
-    "upvotes": 36,
+    "upvotes": 65,
     "author": "pcr910303",
-    "comments": 4,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27900862"
   },
   {
     "title": "Migrating Facebook to MySQL 8.0",
     "url": "https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/",
-    "upvotes": 253,
+    "upvotes": 264,
     "author": "moneil971",
-    "comments": 174,
+    "comments": 181,
     "link": "https://news.ycombinator.com/item?id=27922097"
   },
   {
     "title": "0x7FDE623822FC16E6: A magic constant for double float reciprocal",
     "url": "http://pvk.ca/Blog/LowLevel/software-reciprocal.html",
-    "upvotes": 65,
+    "upvotes": 71,
     "author": "signa11",
-    "comments": 8,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27905105"
+  },
+  {
+    "title": "Google broke a conditional statement that verifies passwords on Chrome OS",
+    "url": "https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/",
+    "upvotes": 128,
+    "author": "stalfosknight",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=27922545"
   },
   {
     "title": "AlphaFold Protein Structure Database",
     "url": "https://alphafold.ebi.ac.uk/",
-    "upvotes": 212,
+    "upvotes": 221,
     "author": "matejmecka",
-    "comments": 55,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27919859"
   },
   {
     "title": "Mitchell Hashimoto takes on a new individual contributor role at HashiCorp",
     "url": "https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp",
-    "upvotes": 60,
+    "upvotes": 78,
     "author": "tosh",
-    "comments": 20,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27924312"
   },
   {
     "title": "Show HN: Alias – Google Alerts for your favorite people",
     "url": "http://alias.co?ref=hn",
-    "upvotes": 76,
+    "upvotes": 79,
     "author": "jonathancai",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27921875"
   },
   {
@@ -60,97 +68,89 @@
     "url": "https://www.easypost.com/careers"
   },
   {
-    "title": "iDOS 2 will be gone soon",
-    "url": "https://litchie.com/2021/07/idos2-will-be-gone",
-    "upvotes": 78,
-    "author": "taxyovio",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=27924207"
+    "title": "MGBA Integration: Introducing the Integrated GBA",
+    "url": "https://dolphin-emu.org/blog/2021/07/21/integrated-gba/",
+    "upvotes": 20,
+    "author": "rossy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27904218"
   },
   {
     "title": "Useful algorithms that are not optimized by Jax, PyTorch, or TensorFlow",
     "url": "https://www.stochasticlifestyle.com/useful-algorithms-that-are-not-optimized-by-jax-pytorch-or-tensorflow/",
-    "upvotes": 141,
+    "upvotes": 146,
     "author": "ChrisRackauckas",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27904729"
+  },
+  {
+    "title": "iDOS 2 will be gone soon",
+    "url": "https://litchie.com/2021/07/idos2-will-be-gone",
+    "upvotes": 93,
+    "author": "taxyovio",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=27924207"
+  },
+  {
+    "title": "Mastering the Basics of Icon Design",
+    "url": "https://blog.thenounproject.com/mastering-the-basics-of-icon-design-with-adrien-coquet-9c3802093e30",
+    "upvotes": 80,
+    "author": "adrian_mrd",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27903808"
   },
   {
     "title": "Show HN: Sell.app – A simple way to sell digital goods",
     "url": "https://sell.app",
     "upvotes": 73,
     "author": "youseff",
-    "comments": 63,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=27918226"
-  },
-  {
-    "title": "Mastering the Basics of Icon Design",
-    "url": "https://blog.thenounproject.com/mastering-the-basics-of-icon-design-with-adrien-coquet-9c3802093e30",
-    "upvotes": 77,
-    "author": "adrian_mrd",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27903808"
-  },
-  {
-    "title": "Quantum computing hype is bad for science",
-    "url": "https://www.linkedin.com/pulse/quantum-computing-hype-bad-science-victor-galitski-1c",
-    "upvotes": 85,
-    "author": "nkurz",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=27905231"
-  },
-  {
-    "title": "Google broke a conditional statement that verifies passwords on Chrome OS",
-    "url": "https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/",
-    "upvotes": 111,
-    "author": "stalfosknight",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=27922545"
   },
   {
     "title": "Autonomy founder Mike Lynch can be extradited to US",
     "url": "https://www.bbc.com/news/business-57933718",
-    "upvotes": 88,
+    "upvotes": 92,
     "author": "pseudolus",
-    "comments": 135,
+    "comments": 147,
     "link": "https://news.ycombinator.com/item?id=27920892"
   },
   {
     "title": "Show HN: Web-based visualization for robotics and autonomous vehicles",
     "url": "https://foxglove.dev/",
-    "upvotes": 75,
+    "upvotes": 76,
     "author": "amacneil",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27911362"
   },
   {
-    "title": "MGBA Integration: Introducing the Integrated GBA",
-    "url": "https://dolphin-emu.org/blog/2021/07/21/integrated-gba/",
-    "upvotes": 12,
-    "author": "rossy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27904218"
-  },
-  {
     "title": "Launch HN: hotglue (YC S21) – Easy user-facing SaaS integrations",
     "url": "item?id=27918900",
-    "upvotes": 93,
+    "upvotes": 95,
     "author": "hsyyid",
-    "comments": 43,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27918900"
+  },
+  {
+    "title": "Quantum computing hype is bad for science",
+    "url": "https://www.linkedin.com/pulse/quantum-computing-hype-bad-science-victor-galitski-1c",
+    "upvotes": 89,
+    "author": "nkurz",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=27905231"
   },
   {
     "title": "Starlink review, four months in",
     "url": "https://www.jeffgeerling.com/blog/2021/spacexs-starlink-review-four-months",
-    "upvotes": 345,
+    "upvotes": 352,
     "author": "geerlingguy",
-    "comments": 272,
+    "comments": 276,
     "link": "https://news.ycombinator.com/item?id=27919015"
   },
   {
     "title": "Translating Jabberwocky into Japanese",
     "url": "https://j-entranslations.com/two-japanese-jabberwocky-poems/",
-    "upvotes": 10,
+    "upvotes": 15,
     "author": "riboflavin",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27924079"
@@ -158,81 +158,81 @@
   {
     "title": "California sues Activision Blizzard over unequal pay, sexual harassment",
     "url": "https://www.npr.org/2021/07/22/1019293032/activision-blizzard-lawsuit-unequal-pay-sexual-harassment-video-games",
-    "upvotes": 226,
+    "upvotes": 246,
     "author": "cyb_",
-    "comments": 283,
+    "comments": 301,
     "link": "https://news.ycombinator.com/item?id=27922841"
   },
   {
     "title": "Implement unprivileged chroot",
     "url": "https://cgit.freebsd.org/src/commit/?id=a40cf4175c90142442d0c6515f6c83956336699b",
-    "upvotes": 203,
+    "upvotes": 207,
     "author": "0mp",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=27917230"
   },
   {
+    "title": "The Origin of Consciousness in the Breakdown of the Bicameral Mind",
+    "url": "https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind",
+    "upvotes": 213,
+    "author": "Paul_S",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=27917316"
+  },
+  {
     "title": "RVVM – RISC-V Virtual Machine",
     "url": "https://github.com/lekkit/rvvm",
-    "upvotes": 105,
+    "upvotes": 106,
     "author": "rvenjoyer",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27918744"
   },
   {
-    "title": "The Origin of Consciousness in the Breakdown of the Bicameral Mind",
-    "url": "https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind",
-    "upvotes": 208,
-    "author": "Paul_S",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=27917316"
-  },
-  {
-    "title": "Disinformation: It’s History",
-    "url": "https://www.cigionline.org/articles/disinformation-its-history/",
-    "upvotes": 6,
-    "author": "how-about-this",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27923933"
+    "title": "The LaTeX Font Catalogue",
+    "url": "https://tug.org/FontCatalogue/",
+    "upvotes": 173,
+    "author": "the-mitr",
+    "comments": 115,
+    "link": "https://news.ycombinator.com/item?id=27917366"
   },
   {
     "title": "4.6B-year-old meteorite found",
     "url": "https://www.lboro.ac.uk/media-centre/press-releases/2021/july/meteorite-reveal-origins-life-on-earth/",
-    "upvotes": 77,
+    "upvotes": 81,
     "author": "lambersley",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27922079"
-  },
-  {
-    "title": "The LaTeX Font Catalogue",
-    "url": "https://tug.org/FontCatalogue/",
-    "upvotes": 170,
-    "author": "the-mitr",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=27917366"
   },
   {
     "title": "The economic value of targeting aging",
     "url": "https://www.nature.com/articles/s43587-021-00080-0",
-    "upvotes": 112,
+    "upvotes": 116,
     "author": "deegles",
-    "comments": 118,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=27921440"
-  },
-  {
-    "title": "My app failed: lessons learned",
-    "url": "https://rithm.app/8-lessons-from-a-failed-version-1/",
-    "upvotes": 193,
-    "author": "kylebolt",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=27920021"
   },
   {
     "title": "How to gain more from your reading",
     "url": "https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly",
-    "upvotes": 167,
+    "upvotes": 169,
     "author": "prostoalex",
     "comments": 61,
     "link": "https://news.ycombinator.com/item?id=27901053"
+  },
+  {
+    "title": "Sometimes solecisms can reveal linguistic ingenuity",
+    "url": "https://www.economist.com/books-and-arts/2021/07/15/sometimes-solecisms-can-reveal-linguistic-ingenuity",
+    "upvotes": 23,
+    "author": "helsinkiandrew",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27903003"
+  },
+  {
+    "title": "Disinformation: It’s History",
+    "url": "https://www.cigionline.org/articles/disinformation-its-history/",
+    "upvotes": 10,
+    "author": "how-about-this",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27923933"
   }
 ]
