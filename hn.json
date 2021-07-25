@@ -2,63 +2,79 @@
   {
     "title": "PinePhone - A Phone That Out Of The Box Runs Other Operating Systems",
     "url": "https://www.pine64.org/pinephone/",
-    "upvotes": 140,
+    "upvotes": 158,
     "author": "peter_d_sherman",
-    "comments": 77,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=27947004"
   },
   {
-    "title": "You Shouldn't Roll Your Own Crypto: An Empirical Study",
+    "title": "An Empirical Study of Vulnerabilities in Cryptographic Libraries",
     "url": "https://arxiv.org/abs/2107.04940",
-    "upvotes": 7,
+    "upvotes": 21,
     "author": "signa11",
-    "comments": null,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27947661"
+  },
+  {
+    "title": "My Fanless OpenBSD Desktop – joshua stein",
+    "url": "https://jcs.org/2021/07/19/desktop",
+    "upvotes": 16,
+    "author": "rodrigo975",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27947696"
   },
   {
     "title": "Beneath Istanbul, Archaeologists Explore an Ancient City's Byzantine Basements",
     "url": "https://www.npr.org/2021/07/23/1016814868/beneath-istanbul-archaeologists-explore-an-ancient-citys-byzantine-basements",
-    "upvotes": 69,
+    "upvotes": 76,
     "author": "pseudolus",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27939893"
-  },
-  {
-    "title": "Agile at 20: The Failed Rebellion",
-    "url": "https://www.simplethread.com/agile-at-20-the-failed-rebellion/",
-    "upvotes": 200,
-    "author": "jetheredge",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=27946382"
   },
   {
     "title": "How Do You Keep a Subway from Flooding in the Age of Rising Seas?",
     "url": "https://www.atlasobscura.com/articles/subways-flood-without-rain",
-    "upvotes": 28,
+    "upvotes": 37,
     "author": "alanwong",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27946838"
+  },
+  {
+    "title": "AWS Config: Know before you take a plunge",
+    "url": "https://blog.cloudyali.io/aws-config-know-before-you-take-a-plunge",
+    "upvotes": 5,
+    "author": "heldsteel7",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27947792"
+  },
+  {
+    "title": "Agile at 20: The Failed Rebellion",
+    "url": "https://www.simplethread.com/agile-at-20-the-failed-rebellion/",
+    "upvotes": 219,
+    "author": "jetheredge",
+    "comments": 154,
+    "link": "https://news.ycombinator.com/item?id=27946382"
   },
   {
     "title": "A Fun List of Browsers",
     "url": "https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/",
-    "upvotes": 14,
+    "upvotes": 17,
     "author": "thunderbong",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27938988"
   },
   {
     "title": "Form Energy reveals the chemistry of its long-duration battery",
     "url": "https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174",
-    "upvotes": 169,
+    "upvotes": 172,
     "author": "courtf",
-    "comments": 100,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=27944600"
   },
   {
     "title": "Galleri: Interpreting results from GRAIL's multi-cancer early detection study",
     "url": "https://arsham.substack.com/p/is-this-the-holy-grail-for-cancer",
-    "upvotes": 37,
+    "upvotes": 40,
     "author": "axg11",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27926242"
@@ -66,10 +82,34 @@
   {
     "title": "Rethinking the Toilet, Converting Human Waste into Methane Power",
     "url": "https://www.atlasobscura.com/articles/korea-toilet-biogas",
-    "upvotes": 15,
+    "upvotes": 21,
     "author": "anw",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27946916"
+  },
+  {
+    "title": "Hacking Is the Opposite of Marketing",
+    "url": "https://macwright.com/2021/07/24/hacking-is-the-opposite-of-marketing.html",
+    "upvotes": 53,
+    "author": "cjlm",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27946127"
+  },
+  {
+    "title": "A Linux distro with a focus on simplicity and the concept of less is more",
+    "url": "https://kisslinux.org/",
+    "upvotes": 76,
+    "author": "kimburgess",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=27945792"
+  },
+  {
+    "title": "“Using Benford’s Law to Detect Bitcoin Manipulation”",
+    "url": "https://statmodeling.stat.columbia.edu/2021/07/15/using-benfords-law-to-detect-bitcoin-manipulation/",
+    "upvotes": 5,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27947734"
   },
   {
     "title": "Registry Explorer: Replacement for the Windows Built-In Regedit.exe Tool",
@@ -80,33 +120,21 @@
     "link": "https://news.ycombinator.com/item?id=27944743"
   },
   {
-    "title": "Hacking Is the Opposite of Marketing",
-    "url": "https://macwright.com/2021/07/24/hacking-is-the-opposite-of-marketing.html",
-    "upvotes": 44,
-    "author": "cjlm",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27946127"
+    "title": "Jerry",
+    "url": "https://apply.workable.com/jerry/j/07E1D2B302/"
   },
   {
     "title": "Inserting 130M SQLite rows per minute from a scripting language",
     "url": "https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html",
-    "upvotes": 141,
+    "upvotes": 145,
     "author": "mpweiher",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27944065"
   },
   {
-    "title": "A Linux distro with a focus on simplicity and the concept of less is more",
-    "url": "https://kisslinux.org/",
-    "upvotes": 71,
-    "author": "kimburgess",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=27945792"
-  },
-  {
     "title": "The Leakage Problem",
     "url": "https://pedestrianobservations.com/2021/07/23/the-leakage-problem/",
-    "upvotes": 16,
+    "upvotes": 21,
     "author": "telotortium",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27931242"
@@ -114,45 +142,41 @@
   {
     "title": "Elite Romans decorated their floors with garbage",
     "url": "https://www.atlasobscura.com/articles/what-is-in-profane-museum-vatican",
-    "upvotes": 66,
+    "upvotes": 67,
     "author": "ivanech",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27945426"
-  },
-  {
-    "title": "Jerry",
-    "url": "https://apply.workable.com/jerry/j/07E1D2B302/"
   },
   {
     "title": "Super MIDI Pak – Use Your SNES as a MIDI Synthesizer",
     "url": "https://www.supermidipak.com/",
-    "upvotes": 89,
+    "upvotes": 91,
     "author": "rocky1138",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27944426"
   },
   {
-    "title": "To H-E-Double-Hockey-Sticks with Facebook",
-    "url": "https://www.damninteresting.com/to-h-e-double-hockey-sticks-with-facebook/",
-    "upvotes": 281,
-    "author": "axiolite",
-    "comments": 125,
-    "link": "https://news.ycombinator.com/item?id=27945688"
-  },
-  {
     "title": "Show HN: A graveyard for my side projects",
     "url": "https://hackyexperiments.vercel.app/",
-    "upvotes": 20,
+    "upvotes": 23,
     "author": "bilater",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27946963"
+  },
+  {
+    "title": "To H-E-Double-Hockey-Sticks with Facebook",
+    "url": "https://www.damninteresting.com/to-h-e-double-hockey-sticks-with-facebook/",
+    "upvotes": 284,
+    "author": "axiolite",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=27945688"
   },
   {
     "title": "When will we get secure desktop OSes?",
     "url": "https://games.greggman.com/game/secure-desktop-oses-when/",
-    "upvotes": 52,
+    "upvotes": 56,
     "author": "boramalper",
-    "comments": 51,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=27946945"
   },
   {
@@ -166,73 +190,49 @@
   {
     "title": "Last of the Titans",
     "url": "https://corememorymusic.com/videos/last-of-the-titans.html",
-    "upvotes": 16,
+    "upvotes": 17,
     "author": "chmaynard",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27939029"
   },
   {
-    "title": "When Curation Becomes Creation",
-    "url": "https://queue.acm.org/detail.cfm?id=3477229",
-    "upvotes": 3,
-    "author": "Hell_World",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27940063"
-  },
-  {
     "title": "Amazon Echo Dot does not wipe personal content after factory reset",
     "url": "https://www.cpomagazine.com/data-privacy/is-it-possible-to-make-iot-devices-private-amazon-echo-dot-does-not-wipe-personal-content-after-factory-reset/",
-    "upvotes": 277,
+    "upvotes": 282,
     "author": "walterbell",
     "comments": 86,
     "link": "https://news.ycombinator.com/item?id=27943730"
   },
   {
-    "title": "Windows Sysinternals: advanced system utilities and technical information",
-    "url": "https://docs.microsoft.com/en-us/sysinternals/",
-    "upvotes": 16,
-    "author": "vsto",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27947414"
+    "title": "When Curation Becomes Creation",
+    "url": "https://queue.acm.org/detail.cfm?id=3477229",
+    "upvotes": 5,
+    "author": "Hell_World",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27940063"
   },
   {
     "title": "How the Python import system works",
     "url": "https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/",
-    "upvotes": 434,
+    "upvotes": 437,
     "author": "zikohh",
-    "comments": 168,
+    "comments": 171,
     "link": "https://news.ycombinator.com/item?id=27941208"
   },
   {
     "title": "Half of US states now using facial recognition to vet unemployment claims",
     "url": "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
-    "upvotes": 161,
+    "upvotes": 166,
     "author": "pseudolus",
     "comments": 123,
     "link": "https://news.ycombinator.com/item?id=27945280"
   },
   {
-    "title": "China bans for-profit school tutoring in sweeping overhaul",
-    "url": "https://www.bloombergquint.com/markets/china-bans-school-curriculum-tutoring-firms-from-going-public",
-    "upvotes": 186,
-    "author": "hhs",
-    "comments": 169,
-    "link": "https://news.ycombinator.com/item?id=27945213"
-  },
-  {
-    "title": "Steven Weinberg has died",
-    "url": "https://www.math.columbia.edu/~woit/wordpress/?p=12413",
-    "upvotes": 164,
-    "author": "chmaynard",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27942828"
-  },
-  {
-    "title": "The Highest Forms of Wealth",
-    "url": "https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/",
-    "upvotes": 178,
-    "author": "joeyespo",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=27944770"
+    "title": "Windows Sysinternals: advanced system utilities and technical information",
+    "url": "https://docs.microsoft.com/en-us/sysinternals/",
+    "upvotes": 19,
+    "author": "vsto",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27947414"
   }
 ]
