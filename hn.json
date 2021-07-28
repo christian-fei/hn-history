@@ -1,74 +1,82 @@
 [
   {
-    "title": "Evil programmer's tip: avoid “easy” things",
-    "url": "http://yosefk.com/blog/evil-tip-avoid-easy-things.html",
-    "upvotes": 237,
-    "author": "damir",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=27988260"
-  },
-  {
     "title": "'Arthur,' the Longest-Running Kids Animated Series in History, Is Ending",
     "url": "https://text.npr.org/1021687616",
-    "upvotes": 82,
+    "upvotes": 100,
     "author": "samizdis",
-    "comments": 37,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=27989775"
+  },
+  {
+    "title": "Evil programmer's tip: avoid “easy” things",
+    "url": "http://yosefk.com/blog/evil-tip-avoid-easy-things.html",
+    "upvotes": 255,
+    "author": "damir",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=27988260"
   },
   {
     "title": "Invasive ad targeting is bad for journalism and other high-quality publishers",
     "url": "https://www.ethicalads.io/blog/2021/05/how-invasive-ad-targeting-is-bad-for-journalism-and-other-high-quality-publishers/",
-    "upvotes": 124,
+    "upvotes": 132,
     "author": "ericholscher",
-    "comments": 40,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=27987650"
   },
   {
     "title": "Amazon EC2-Classic Is Retiring",
     "url": "https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/",
-    "upvotes": 81,
+    "upvotes": 96,
     "author": "jeffbarr",
-    "comments": 43,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=27988964"
   },
   {
     "title": "Triton: Open-Source GPU Programming for Neural Networks",
     "url": "https://www.openai.com/blog/triton/",
-    "upvotes": 244,
+    "upvotes": 249,
     "author": "ag8",
-    "comments": 65,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=27985594"
   },
   {
     "title": "Finding a kernel regression in half an hour with git bisect run",
     "url": "https://ldpreload.com/blog/git-bisect-run",
-    "upvotes": 36,
+    "upvotes": 46,
     "author": "10000truths",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27989912"
   },
   {
     "title": "From stolen laptop to inside the company network",
     "url": "https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network",
-    "upvotes": 205,
+    "upvotes": 219,
     "author": "nyx",
-    "comments": 109,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=27986316"
   },
   {
     "title": "IPv4 pricing",
     "url": "https://docs.hetzner.com/general/others/ipv4-pricing/",
-    "upvotes": 449,
+    "upvotes": 453,
     "author": "terom",
-    "comments": 443,
+    "comments": 445,
     "link": "https://news.ycombinator.com/item?id=27982968"
+  },
+  {
+    "title": "Amiga at NASA",
+    "url": "http://obligement.free.fr/articles_traduction/amiganasa_en.php",
+    "upvotes": 18,
+    "author": "LeoPanthera",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27990477"
   },
   {
     "title": "Perceptual distortions in late-teens predict psychotic symptoms in mid-life",
     "url": "https://www.binghamton.edu/news/story/3179/early-signs-perceptual-distortions-in-late-teens-predict-psychotic-symptoms-in-mid-life",
-    "upvotes": 81,
+    "upvotes": 90,
     "author": "gmays",
-    "comments": 56,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27987084"
   },
   {
@@ -76,163 +84,155 @@
     "url": "https://jny.journey.io/p/3acc112064fc4edcbb222800198827c2?email=hnjob@yc.com"
   },
   {
-    "title": "Amiga at NASA",
-    "url": "http://obligement.free.fr/articles_traduction/amiganasa_en.php",
-    "upvotes": 11,
-    "author": "LeoPanthera",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27990477"
+    "title": "Orbiter Space Flight Simulator is now open source",
+    "url": "https://www.orbiter-forum.com/threads/orbiter-is-now-open-source.40023/",
+    "upvotes": 336,
+    "author": "shakow",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=27982671"
   },
   {
     "title": "Emulating the IBM PC on an ESP32",
     "url": "https://hackaday.com/2021/07/28/emulating-the-ibm-pc-on-an-esp32/",
-    "upvotes": 85,
+    "upvotes": 89,
     "author": "watchdogtimer",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27983152"
-  },
-  {
-    "title": "Orbiter Space Flight Simulator is now open source",
-    "url": "https://www.orbiter-forum.com/threads/orbiter-is-now-open-source.40023/",
-    "upvotes": 333,
-    "author": "shakow",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=27982671"
   },
   {
     "title": "Show HN: A web-based matrix client: Cinny",
     "url": "https://github.com/ajbura/cinny/releases/tag/v1.0.0",
-    "upvotes": 100,
+    "upvotes": 109,
     "author": "kfiven",
-    "comments": 36,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27986376"
-  },
-  {
-    "title": "Israeli government raids NSO Group offices",
-    "url": "https://therecord.media/israeli-government-raids-nso-group-offices/",
-    "upvotes": 32,
-    "author": "arkadiyt",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27990558"
   },
   {
     "title": "Brain imaging before and after Covid-19 in UK Biobank",
     "url": "https://www.medrxiv.org/content/10.1101/2021.06.11.21258690v2",
-    "upvotes": 26,
+    "upvotes": 35,
     "author": "luu",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27975514"
   },
   {
-    "title": "The Thermocline of Truth",
-    "url": "https://robm.me.uk/2021/04/thermocline-of-truth/",
-    "upvotes": 33,
-    "author": "ivank",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27977056"
-  },
-  {
-    "title": "The Human Side of Elixir",
-    "url": "https://akoutmos.com/post/betting-on-elixir/",
-    "upvotes": 138,
-    "author": "feross",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=27985000"
-  },
-  {
-    "title": "In the Strange Land of Robert Heinlein",
-    "url": "https://www.washingtonpost.com/archive/lifestyle/1984/09/05/in-the-strange-land-of-robert-heinlein/b7a2ee22-0a6e-4c29-8fc1-88b3e68ec08c/",
-    "upvotes": 21,
-    "author": "brudgers",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27963691"
-  },
-  {
-    "title": "Drum Synthesis in JavaScript",
-    "url": "https://www.nickwritesablog.com/drum-synthesis-in-javascript/",
-    "upvotes": 46,
-    "author": "trypwire",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27987806"
-  },
-  {
-    "title": "External IPv6 addresses for VM instances is now in General Availability",
-    "url": "https://cloud.google.com/vpc/docs/release-notes#July_20_2021",
-    "upvotes": 216,
-    "author": "fulafel",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=27982431"
-  },
-  {
     "title": "First detection of light from behind a black hole",
     "url": "https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/",
-    "upvotes": 8,
+    "upvotes": 14,
     "author": "hhs",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27989875"
   },
   {
+    "title": "The Human Side of Elixir",
+    "url": "https://akoutmos.com/post/betting-on-elixir/",
+    "upvotes": 142,
+    "author": "feross",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=27985000"
+  },
+  {
+    "title": "The Thermocline of Truth",
+    "url": "https://robm.me.uk/2021/04/thermocline-of-truth/",
+    "upvotes": 34,
+    "author": "ivank",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27977056"
+  },
+  {
+    "title": "External IPv6 addresses for VM instances is now in General Availability",
+    "url": "https://cloud.google.com/vpc/docs/release-notes#July_20_2021",
+    "upvotes": 217,
+    "author": "fulafel",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27982431"
+  },
+  {
+    "title": "Drum Synthesis in JavaScript",
+    "url": "https://www.nickwritesablog.com/drum-synthesis-in-javascript/",
+    "upvotes": 47,
+    "author": "trypwire",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27987806"
+  },
+  {
     "title": "Dusty Hill of ZZ Top Dead",
     "url": "https://en.wikipedia.org/wiki/Dusty_Hill",
-    "upvotes": 34,
+    "upvotes": 46,
     "author": "abawany",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27990153"
   },
   {
     "title": "On the Trail of a Mysterious, Pseudonymous Author",
     "url": "https://www.newyorker.com/books/page-turner/on-the-trail-of-a-mysterious-pseudonymous-author",
-    "upvotes": 30,
+    "upvotes": 33,
     "author": "apollinaire",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27962657"
   },
   {
+    "title": "In the Strange Land of Robert Heinlein",
+    "url": "https://www.washingtonpost.com/archive/lifestyle/1984/09/05/in-the-strange-land-of-robert-heinlein/b7a2ee22-0a6e-4c29-8fc1-88b3e68ec08c/",
+    "upvotes": 25,
+    "author": "brudgers",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27963691"
+  },
+  {
     "title": "We should build for wildlife as well as people",
     "url": "https://www.bbc.com/future/article/20210727-how-to-boost-biodiversity-and-attract-wildlife-to-your-home",
-    "upvotes": 211,
+    "upvotes": 214,
     "author": "NotSwift",
     "comments": 127,
     "link": "https://news.ycombinator.com/item?id=27985330"
   },
   {
-    "title": "Maker's Schedule, Manager's Schedule",
-    "url": "http://www.paulgraham.com/makersschedule.html",
-    "upvotes": 117,
-    "author": "feross",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=27987036"
+    "title": "Potoooooooo",
+    "url": "https://en.wikipedia.org/wiki/Potoooooooo",
+    "upvotes": 18,
+    "author": "willemmerson",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27990683"
   },
   {
-    "title": "Harvey’s Casino Bomb",
-    "url": "https://www.fbi.gov/history/artifact-of-the-month/april-2019-harveys-casino-bomb",
-    "upvotes": 205,
-    "author": "realloc",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=27981371"
+    "title": "Spiritual Bypassing",
+    "url": "https://www.robertmasters.com/2013/04/29/spiritual-bypassing/",
+    "upvotes": 4,
+    "author": "elies",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27971435"
+  },
+  {
+    "title": "Maker's Schedule, Manager's Schedule",
+    "url": "http://www.paulgraham.com/makersschedule.html",
+    "upvotes": 119,
+    "author": "feross",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=27987036"
   },
   {
     "title": "Unleaded Avgas Approved",
     "url": "https://www.avweb.com/aviation-news/gami-awarded-long-awaited-stc-for-unleaded-100-octane-avgas/",
-    "upvotes": 161,
+    "upvotes": 165,
     "author": "another",
-    "comments": 136,
+    "comments": 138,
     "link": "https://news.ycombinator.com/item?id=27983845"
-  },
-  {
-    "title": "Techdirt Is Now Without Any Google Ads or Tracking Code",
-    "url": "https://www.techdirt.com/articles/20210726/09441047251/techdirt-is-now-entirely-without-any-google-ads-tracking-code.shtml",
-    "upvotes": 318,
-    "author": "nabilhat",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=27984215"
   },
   {
     "title": "The Twopenny Hangover",
     "url": "https://mikedashhistory.com/2021/05/19/the-twopenny-hangover/",
-    "upvotes": 15,
+    "upvotes": 17,
     "author": "morsch",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27989790"
+  },
+  {
+    "title": "Techdirt Is Now Without Any Google Ads or Tracking Code",
+    "url": "https://www.techdirt.com/articles/20210726/09441047251/techdirt-is-now-entirely-without-any-google-ads-tracking-code.shtml",
+    "upvotes": 324,
+    "author": "nabilhat",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=27984215"
   }
 ]
