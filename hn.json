@@ -2,23 +2,31 @@
   {
     "title": "Windows 96",
     "url": "https://windows96.net",
-    "upvotes": 277,
+    "upvotes": 304,
     "author": "besnn00",
-    "comments": 119,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=27978463"
   },
   {
     "title": "Father builds exoskeleton to help wheelchair-bound son walk",
     "url": "https://www.reuters.com/lifestyle/father-builds-exoskeleton-help-wheelchair-bound-son-walk-2021-07-26/",
-    "upvotes": 467,
+    "upvotes": 475,
     "author": "geox",
-    "comments": 143,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=27973986"
+  },
+  {
+    "title": "Facebook creates new unit to build a “metaverse”",
+    "url": "https://www.axios.com/facebook-metaverse-product-unit-88523382-7c54-4a2c-8bcd-061ac2266887.html",
+    "upvotes": 4,
+    "author": "lsllc",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27979810"
   },
   {
     "title": "Postgres Full-Text Search: A search engine in a database",
     "url": "https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database",
-    "upvotes": 391,
+    "upvotes": 399,
     "author": "twakefield",
     "comments": 102,
     "link": "https://news.ycombinator.com/item?id=27973497"
@@ -26,7 +34,7 @@
   {
     "title": "Naval Architecture",
     "url": "https://ciechanow.ski/naval-architecture/",
-    "upvotes": 393,
+    "upvotes": 398,
     "author": "todsacerdoti",
     "comments": 80,
     "link": "https://news.ycombinator.com/item?id=27973295"
@@ -34,42 +42,66 @@
   {
     "title": "Discord Launches Threads",
     "url": "https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b",
-    "upvotes": 338,
+    "upvotes": 340,
     "author": "dchengy",
-    "comments": 176,
+    "comments": 177,
     "link": "https://news.ycombinator.com/item?id=27973689"
-  },
-  {
-    "title": "How Tracing Uncovers Half-Truths in Slack’s CI Infrastructure",
-    "url": "https://frankc.net/tracing-in-ci",
-    "upvotes": 30,
-    "author": "frankchen",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27976758"
   },
   {
     "title": "Netcat – All you need to know",
     "url": "https://blog.ikuamike.io/posts/2021/netcat/",
-    "upvotes": 231,
+    "upvotes": 234,
     "author": "todsacerdoti",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27973020"
   },
   {
+    "title": "Google launches new vulnerability reward platform",
+    "url": "https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html",
+    "upvotes": 268,
+    "author": "theafh",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=27971921"
+  },
+  {
     "title": "Generally capable agents emerge from open-ended play",
     "url": "https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play",
-    "upvotes": 223,
+    "upvotes": 224,
     "author": "Hell_World",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27972950"
   },
   {
-    "title": "Google launches new vulnerability reward platform",
-    "url": "https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html",
-    "upvotes": 264,
-    "author": "theafh",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=27971921"
+    "title": "How Tracing Uncovers Half-Truths in Slack’s CI Infrastructure",
+    "url": "https://frankc.net/tracing-in-ci",
+    "upvotes": 32,
+    "author": "frankchen",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27976758"
+  },
+  {
+    "title": "'No-code' startup Bubble raises $100 mln in round led by Insight Partners",
+    "url": "https://www.reuters.com/technology/no-code-startup-bubble-raises-100-mln-in-round-led-by-insight-partners-2021-07-27/",
+    "upvotes": 9,
+    "author": "dthread3",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27979399"
+  },
+  {
+    "title": "Striking new Beeping Busy Beaver champion",
+    "url": "https://www.scottaaronson.com/blog/?p=5661",
+    "upvotes": 12,
+    "author": "bdr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27979496"
+  },
+  {
+    "title": "Co-working with friends over video in virtual gather.town office",
+    "url": "https://guzey.com/co-working/",
+    "upvotes": 11,
+    "author": "sabon",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27958422"
   },
   {
     "title": "Launch HN: Abbot (YC S21) – ChatOps as a Service, inspired by GitHub's Hubot",
@@ -80,28 +112,20 @@
     "link": "https://news.ycombinator.com/item?id=27974077"
   },
   {
-    "title": "Striking new Beeping Busy Beaver champion",
-    "url": "https://www.scottaaronson.com/blog/?p=5661",
-    "upvotes": 6,
-    "author": "bdr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27979496"
+    "title": "FastAI.jl: FastAI for Julia",
+    "url": "https://forums.fast.ai/t/ann-announcing-fastai-jl-fastai-for-julia/90228",
+    "upvotes": 135,
+    "author": "dklend122",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=27975519"
   },
   {
     "title": "A soil-science revolution upends plans to fight climate change",
     "url": "https://www.quantamagazine.org/a-soil-science-revolution-upends-plans-to-fight-climate-change-20210727/",
-    "upvotes": 125,
+    "upvotes": 129,
     "author": "theafh",
-    "comments": 49,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27974448"
-  },
-  {
-    "title": "FastAI.jl: FastAI for Julia",
-    "url": "https://forums.fast.ai/t/ann-announcing-fastai-jl-fastai-for-julia/90228",
-    "upvotes": 132,
-    "author": "dklend122",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27975519"
   },
   {
     "title": "Columbo: an origin story",
@@ -112,77 +136,69 @@
     "link": "https://news.ycombinator.com/item?id=27969966"
   },
   {
-    "title": "Fractons, the ‘weirdest’ matter, could yield quantum clues",
-    "url": "https://www.quantamagazine.org/fractons-the-weirdest-matter-could-yield-quantum-clues-20210726/",
-    "upvotes": 59,
-    "author": "jnord",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27969899"
-  },
-  {
-    "title": "Ask HN: Does anyone use keyboard/mouse extra buttons for coding?",
-    "url": "item?id=27958431",
-    "upvotes": 49,
-    "author": "matt_s",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=27958431"
-  },
-  {
-    "title": "Co-working with friends over video in virtual gather.town office",
-    "url": "https://guzey.com/co-working/",
-    "upvotes": 7,
-    "author": "sabon",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27958422"
-  },
-  {
     "title": "Modern Treasury",
     "url": "https://jobs.ashbyhq.com/moderntreasury/640c2aca-5a23-4762-b022-27039bd049cf"
   },
   {
-    "title": "Non-Standard Analysis in ACL2",
-    "url": "https://www.cs.uwyo.edu/~ruben/static/pdf/nsa.pdf",
-    "upvotes": 10,
-    "author": "luu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27956370"
-  },
-  {
     "title": "We need to talk about testing",
     "url": "https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/",
-    "upvotes": 47,
+    "upvotes": 52,
     "author": "glenjamin",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27970030"
   },
   {
-    "title": "Reconsidering the way I explain programming",
-    "url": "https://blog.frantic.im/all/explain-programming/",
-    "upvotes": 19,
-    "author": "swalladge",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27967644"
+    "title": "Fractons, the ‘weirdest’ matter, could yield quantum clues",
+    "url": "https://www.quantamagazine.org/fractons-the-weirdest-matter-could-yield-quantum-clues-20210726/",
+    "upvotes": 62,
+    "author": "jnord",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27969899"
   },
   {
-    "title": "Reconstructed path of Ingenuity flight 9 via photogrammetry",
-    "url": "https://twitter.com/stim3on/status/1419414622973616129",
-    "upvotes": 75,
-    "author": "_Microft",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27965635"
+    "title": "KeyCastr, an open-source keystroke visualizer",
+    "url": "https://github.com/keycastr/keycastr",
+    "upvotes": 9,
+    "author": "escot",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27979319"
+  },
+  {
+    "title": "Ask HN: Does anyone use keyboard/mouse extra buttons for coding?",
+    "url": "item?id=27958431",
+    "upvotes": 52,
+    "author": "matt_s",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=27958431"
   },
   {
     "title": "Wildfires in Canada are creating their own weather systems, experts say",
     "url": "https://www.cbc.ca/news/canada/british-columbia/western-canada-wildfires-creating-own-weather-experts-firestorm-1.6118889",
-    "upvotes": 115,
+    "upvotes": 118,
     "author": "colinprince",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27977421"
   },
   {
+    "title": "Reconstructed path of Ingenuity flight 9 via photogrammetry",
+    "url": "https://twitter.com/stim3on/status/1419414622973616129",
+    "upvotes": 76,
+    "author": "_Microft",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27965635"
+  },
+  {
+    "title": "Non-Standard Analysis in ACL2",
+    "url": "https://www.cs.uwyo.edu/~ruben/static/pdf/nsa.pdf",
+    "upvotes": 13,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27956370"
+  },
+  {
     "title": "Capitol Hill's mystery soda machine",
     "url": "https://en.wikipedia.org/wiki/Capitol_Hill%27s_mystery_soda_machine",
-    "upvotes": 378,
+    "upvotes": 382,
     "author": "zdw",
     "comments": 126,
     "link": "https://news.ycombinator.com/item?id=27977119"
@@ -190,49 +206,33 @@
   {
     "title": "In defense of hard counters in real time strategy games",
     "url": "https://waywardstrategy.com/2021/07/27/hard-counters/",
-    "upvotes": 105,
+    "upvotes": 108,
     "author": "aw1621107",
     "comments": 133,
     "link": "https://news.ycombinator.com/item?id=27975423"
+  },
+  {
+    "title": "Reconsidering the way I explain programming",
+    "url": "https://blog.frantic.im/all/explain-programming/",
+    "upvotes": 20,
+    "author": "swalladge",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27967644"
   },
   {
     "title": "Peter the Great’s Beard Tax",
     "url": "https://daily.jstor.org/peter-the-greats-beard-tax/",
     "upvotes": 81,
     "author": "lermontov",
-    "comments": 85,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=27955972"
-  },
-  {
-    "title": "KeyCastr, an open-source keystroke visualizer",
-    "url": "https://github.com/keycastr/keycastr",
-    "upvotes": 6,
-    "author": "escot",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27979319"
   },
   {
     "title": "Launch HN: Atmana (YC S21) – An app to help cut down on compulsive porn usage",
     "url": "item?id=27971757",
     "upvotes": 154,
     "author": "zero_billion",
-    "comments": 149,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=27971757"
-  },
-  {
-    "title": "Functional Programming in OCaml",
-    "url": "https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html",
-    "upvotes": 146,
-    "author": "noch",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=27972900"
-  },
-  {
-    "title": "Live Starlink Satellite Map",
-    "url": "http://satellitemap.space/",
-    "upvotes": 154,
-    "author": "omnibrain",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=27971969"
   }
 ]
