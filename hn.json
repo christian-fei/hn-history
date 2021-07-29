@@ -2,39 +2,47 @@
   {
     "title": "Activision Blizzard Hires Notorious Union-Busting Firm WilmerHale",
     "url": "https://www.promethean.news/news/activision-hires-notorious-union-busting-firm-wilmerhale",
-    "upvotes": 119,
+    "upvotes": 235,
     "author": "dv_dt",
-    "comments": 37,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=27998878"
   },
   {
     "title": "700k lines of code, 20 years, and one developer: How Dwarf Fortress is built",
     "url": "https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/",
-    "upvotes": 209,
+    "upvotes": 251,
     "author": "andreareina",
-    "comments": 61,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=27996684"
   },
   {
     "title": "Grand jury indicts Trevor Milton, Nikola founder, on three counts of fraud",
     "url": "https://www.cnbc.com/2021/07/29/us-prosecutors-charge-trevor-milton-founder-of-electric-carmaker-nikola-with-three-counts-of-fraud.html",
-    "upvotes": 287,
+    "upvotes": 304,
     "author": "us0r",
-    "comments": 221,
+    "comments": 226,
     "link": "https://news.ycombinator.com/item?id=27996321"
   },
   {
     "title": "Crafting Interpreters is available in print",
     "url": "http://craftinginterpreters.com/",
-    "upvotes": 387,
+    "upvotes": 404,
     "author": "azhenley",
-    "comments": 87,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=27997167"
+  },
+  {
+    "title": "Amazon's Older Kindles Will Start to Lose Their Internet Access in December",
+    "url": "https://www.theverge.com/2021/7/28/22598747/kindle-3g-network-shutdown-e-readers-no-internet",
+    "upvotes": 89,
+    "author": "theduder99",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=27998058"
   },
   {
     "title": "Undetectable quantum computation and communication for alien civilizations",
     "url": "https://arxiv.org/abs/2107.13023",
-    "upvotes": 52,
+    "upvotes": 60,
     "author": "mathgenius",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27997923"
@@ -42,18 +50,10 @@
   {
     "title": "Bootstrapping a multiplayer server with Elixir at X-Plane",
     "url": "https://elixir-lang.org/blog/2021/07/29/bootstraping-a-multiplayer-server-with-elixir-at-x-plane/",
-    "upvotes": 36,
+    "upvotes": 48,
     "author": "thibaut_barrere",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27998323"
-  },
-  {
-    "title": "Announcing Vitess 11",
-    "url": "https://vitess.io/blog/2021-07-27-announcing-vitess-11/",
-    "upvotes": 11,
-    "author": "ksec",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27998439"
   },
   {
     "title": "Bristle",
@@ -62,39 +62,63 @@
   {
     "title": "Monkey Island PC-speaker music player",
     "url": "https://www.thanassis.space/monkeyisland.html",
-    "upvotes": 249,
+    "upvotes": 255,
     "author": "ttsiodras",
-    "comments": 93,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=27971019"
-  },
-  {
-    "title": "Amazon's Older Kindles Will Start to Lose Their Internet Access in December",
-    "url": "https://www.theverge.com/2021/7/28/22598747/kindle-3g-network-shutdown-e-readers-no-internet",
-    "upvotes": 64,
-    "author": "theduder99",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=27998058"
-  },
-  {
-    "title": "FSF-calls for white papers on philosophical and legal questions around Copilot",
-    "url": "https://www.fsf.org/blogs/licensing/fsf-funded-call-for-white-papers-on-philosophical-and-legal-questions-around-copilot",
-    "upvotes": 91,
-    "author": "non_sequitur",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27998109"
   },
   {
     "title": "CATL Unveils First Generation of Sodium-Ion Batteries",
     "url": "https://www.catl.com/en/news/665.html",
-    "upvotes": 25,
+    "upvotes": 33,
     "author": "MaKey",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27998250"
+  },
+  {
+    "title": "Announcing Vitess 11",
+    "url": "https://vitess.io/blog/2021-07-27-announcing-vitess-11/",
+    "upvotes": 17,
+    "author": "ksec",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27998439"
+  },
+  {
+    "title": "FSF-calls for white papers on philosophical and legal questions around Copilot",
+    "url": "https://www.fsf.org/blogs/licensing/fsf-funded-call-for-white-papers-on-philosophical-and-legal-questions-around-copilot",
+    "upvotes": 106,
+    "author": "non_sequitur",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27998109"
+  },
+  {
+    "title": "Show HN: Procfile runner with interactive log viewer GUI",
+    "url": "https://exo.deref.io/",
+    "upvotes": 17,
+    "author": "brandonbloom",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27998708"
+  },
+  {
+    "title": "What even is data mesh",
+    "url": "https://cnr.sh/essays/what-the-heck-data-mesh",
+    "upvotes": 6,
+    "author": "riccomini",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27999348"
+  },
+  {
+    "title": "Myopia: A Modern yet Reversible Disease",
+    "url": "https://gettingstronger.org/2014/08/myopia-a-modern-yet-reversible-disease/",
+    "upvotes": 6,
+    "author": "wassenar",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27999231"
   },
   {
     "title": "Launch HN: Sane IT; mobile mechanics; chat teams; Zoom events; spas and beauty",
     "url": "item?id=27996057",
-    "upvotes": 43,
+    "upvotes": 44,
     "author": "dang",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27996057"
@@ -102,47 +126,31 @@
   {
     "title": "Low level is easy",
     "url": "http://yosefk.com/blog/low-level-is-easy.html",
-    "upvotes": 82,
+    "upvotes": 86,
     "author": "yagizdegirmenci",
-    "comments": 48,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=27995788"
   },
   {
-    "title": "US states brace for ‘avalanche’ of evictions as federal moratorium ends",
-    "url": "https://www.theguardian.com/us-news/2021/jul/29/eviction-moratorium-expiration-renters",
-    "upvotes": 49,
-    "author": "headShrinker",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27998282"
+    "title": "Scarlett Johansson Sues Disney over ‘Black Widow’ Streaming Release",
+    "url": "https://www.wsj.com/articles/scarlett-johansson-sues-disney-over-black-widow-streaming-release-11627579278",
+    "upvotes": 41,
+    "author": "marc__1",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=27998958"
   },
   {
     "title": "Hacker downloads close to 300k personal ID photos from Estonian gov database",
     "url": "https://news.err.ee/1608291072/hacker-downloads-close-to-300-000-personal-id-photos",
-    "upvotes": 186,
+    "upvotes": 195,
     "author": "chrismeller",
-    "comments": 84,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=27993882"
-  },
-  {
-    "title": "Show HN: Procfile runner with interactive log viewer GUI",
-    "url": "https://exo.deref.io/",
-    "upvotes": 10,
-    "author": "brandonbloom",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27998708"
-  },
-  {
-    "title": "Show HN: An app that helps engineers fight back against pointless meetings",
-    "url": "https://github.com/syncfast/clockwise",
-    "upvotes": 115,
-    "author": "droctothorpe",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=27996348"
   },
   {
     "title": "The Bureaucratic Failure Mode Pattern",
     "url": "http://habitatchronicles.com/2014/10/the-bureaucratic-failure-mode-pattern/",
-    "upvotes": 5,
+    "upvotes": 6,
     "author": "Melchizedek",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27996130"
@@ -150,89 +158,81 @@
   {
     "title": "Life of a Container",
     "url": "https://indradhanush.github.io/blog/life-of-a-container/",
-    "upvotes": 37,
+    "upvotes": 38,
     "author": "luu",
-    "comments": 7,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27980463"
+  },
+  {
+    "title": "Duolingo reaches $6.5B valuation on day of IPO",
+    "url": "https://www.reuters.com/technology/duolingo-valued-65-bln-shares-soar-debut-2021-07-28/",
+    "upvotes": 280,
+    "author": "doppp",
+    "comments": 302,
+    "link": "https://news.ycombinator.com/item?id=27992500"
   },
   {
     "title": "Reprogramming a Sennheiser Microphone",
     "url": "https://vgnotepad.blogspot.com/2021/04/reprogramming-old-sennheiser-skm-3072-u.html",
-    "upvotes": 80,
+    "upvotes": 81,
     "author": "drmacak",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27970847"
   },
   {
-    "title": "Scarlett Johansson Sues Disney over ‘Black Widow’ Streaming Release",
-    "url": "https://www.wsj.com/articles/scarlett-johansson-sues-disney-over-black-widow-streaming-release-11627579278",
-    "upvotes": 17,
-    "author": "marc__1",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27998958"
+    "title": "Show HN: An app that helps engineers fight back against pointless meetings",
+    "url": "https://github.com/syncfast/clockwise",
+    "upvotes": 120,
+    "author": "droctothorpe",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=27996348"
   },
   {
-    "title": "Duolingo reaches $6.5B valuation on day of IPO",
-    "url": "https://www.reuters.com/technology/duolingo-valued-65-bln-shares-soar-debut-2021-07-28/",
-    "upvotes": 272,
-    "author": "doppp",
-    "comments": 298,
-    "link": "https://news.ycombinator.com/item?id=27992500"
-  },
-  {
-    "title": "My Opinion on “5” == 5",
-    "url": "https://win-vector.com/2021/07/28/my-opinion-on-5-5/",
-    "upvotes": 16,
-    "author": "jmount",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=27985167"
-  },
-  {
-    "title": "Could, should, might, shouldn’t – A taxonomy of futurists",
-    "url": "https://medium.com/@fosta/could-should-might-shouldnt-a-taxonomy-of-futurists-2356cf4ceb79",
-    "upvotes": 42,
-    "author": "doener",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27969978"
+    "title": "US states brace for ‘avalanche’ of evictions as federal moratorium ends",
+    "url": "https://www.theguardian.com/us-news/2021/jul/29/eviction-moratorium-expiration-renters",
+    "upvotes": 73,
+    "author": "headShrinker",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=27998282"
   },
   {
     "title": "Smell You Later: The Weird Science of How Sweat Attracts",
     "url": "https://thewalrus.ca/smell-you-later-the-weird-science-of-how-sweat-attracts/",
-    "upvotes": 75,
+    "upvotes": 79,
     "author": "herbertl",
-    "comments": 28,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27995057"
+  },
+  {
+    "title": "Powers of Hearing: The Military Science of Sound Location",
+    "url": "https://thereader.mitpress.mit.edu/powers-of-hearing-the-military-science-of-sound-location/",
+    "upvotes": 33,
+    "author": "samizdis",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27971454"
+  },
+  {
+    "title": "Could, should, might, shouldn’t – A taxonomy of futurists",
+    "url": "https://medium.com/@fosta/could-should-might-shouldnt-a-taxonomy-of-futurists-2356cf4ceb79",
+    "upvotes": 43,
+    "author": "doener",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27969978"
   },
   {
     "title": "Morloc: Foreign languages unified under common functional type system",
     "url": "https://github.com/morloc-project/morloc",
     "upvotes": 78,
     "author": "agentofuser",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27994866"
-  },
-  {
-    "title": "Powers of Hearing: The Military Science of Sound Location",
-    "url": "https://thereader.mitpress.mit.edu/powers-of-hearing-the-military-science-of-sound-location/",
-    "upvotes": 30,
-    "author": "samizdis",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27971454"
   },
   {
     "title": "Let’s Talk OpenZFS Snapshots",
     "url": "https://klarasystems.com/articles/lets-talk-openzfs-snapshots/",
-    "upvotes": 93,
+    "upvotes": 98,
     "author": "rodrigo975",
-    "comments": 42,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27994369"
-  },
-  {
-    "title": "M4 as a templating language",
-    "url": "https://chrisman.github.io/9.html",
-    "upvotes": 120,
-    "author": "todsacerdoti",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=27994092"
   }
 ]
