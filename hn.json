@@ -2,87 +2,103 @@
   {
     "title": "How Dwarf Fortress is built",
     "url": "https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/",
-    "upvotes": 775,
+    "upvotes": 804,
     "author": "andreareina",
-    "comments": 279,
+    "comments": 284,
     "link": "https://news.ycombinator.com/item?id=27996684"
   },
   {
     "title": "One Tenth of a Second",
     "url": "https://studio.ribbonfarm.com/p/one-tenth-of-a-second",
-    "upvotes": 99,
+    "upvotes": 102,
     "author": "apsec112",
-    "comments": 29,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=28002094"
+  },
+  {
+    "title": "Against Overuse of the Gini Coefficient",
+    "url": "https://vitalik.ca/general/2021/07/29/gini.html",
+    "upvotes": 23,
+    "author": "elsewhen",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28003453"
   },
   {
     "title": "Cal Newport on an industrial revolution for office work",
     "url": "https://80000hours.org/podcast/episodes/cal-newport-industrial-revolution-for-office-work/",
-    "upvotes": 84,
+    "upvotes": 94,
     "author": "robertwiblin",
-    "comments": 28,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=28001210"
-  },
-  {
-    "title": "Hunting a bug in the i40e Intel driver",
-    "url": "https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/",
-    "upvotes": 69,
-    "author": "todsacerdoti",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28001746"
   },
   {
     "title": "Grand jury indicts Trevor Milton, Nikola founder, on three counts of fraud",
     "url": "https://www.cnbc.com/2021/07/29/us-prosecutors-charge-trevor-milton-founder-of-electric-carmaker-nikola-with-three-counts-of-fraud.html",
-    "upvotes": 470,
+    "upvotes": 476,
     "author": "us0r",
-    "comments": 385,
+    "comments": 392,
     "link": "https://news.ycombinator.com/item?id=27996321"
   },
   {
     "title": "A Large-Scale Security-Oriented Static Analysis of Python Packages in PyPI",
     "url": "https://arxiv.org/abs/2107.12699",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "afrcnc",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27995839"
   },
   {
-    "title": "Slate – A completely customizable framework for building rich text editors",
-    "url": "https://github.com/ianstormtaylor/slate",
-    "upvotes": 96,
-    "author": "corentin88",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=28000086"
+    "title": "Hunting a bug in the i40e Intel driver",
+    "url": "https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/",
+    "upvotes": 72,
+    "author": "todsacerdoti",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=28001746"
   },
   {
-    "title": "Against Overuse of the Gini Coefficient",
-    "url": "https://vitalik.ca/general/2021/07/29/gini.html",
-    "upvotes": 9,
-    "author": "elsewhen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28003453"
+    "title": "Slate – A completely customizable framework for building rich text editors",
+    "url": "https://github.com/ianstormtaylor/slate",
+    "upvotes": 97,
+    "author": "corentin88",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=28000086"
   },
   {
     "title": "So you want to self-publish books and courses on programming",
     "url": "https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/",
-    "upvotes": 104,
+    "upvotes": 111,
     "author": "lorendsr",
-    "comments": 43,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27998786"
+  },
+  {
+    "title": "Descriptorless Files for Io_uring",
+    "url": "https://lwn.net/Articles/863071/",
+    "upvotes": 5,
+    "author": "signa11",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28003697"
   },
   {
     "title": "Bootstrapping a multiplayer server with Elixir",
     "url": "https://elixir-lang.org/blog/2021/07/29/bootstraping-a-multiplayer-server-with-elixir-at-x-plane/",
-    "upvotes": 184,
+    "upvotes": 187,
     "author": "thibaut_barrere",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=27998323"
   },
   {
+    "title": "JPG vs. RAW: Get it right the first time",
+    "url": "https://www.kenrockwell.com/tech/raw.htm",
+    "upvotes": 19,
+    "author": "brudgers",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27990984"
+  },
+  {
     "title": "Document Database Transaction Models",
     "url": "https://fauna.com/blog/comparison-of-transaction-models-in-document-databases",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "evanweaver",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27985734"
@@ -90,39 +106,51 @@
   {
     "title": "Undetectable quantum computation and communication for alien civilizations",
     "url": "https://arxiv.org/abs/2107.13023",
-    "upvotes": 129,
+    "upvotes": 130,
     "author": "mathgenius",
     "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27997923"
   },
   {
+    "title": "UsTaxes – open-source tax filing web application",
+    "url": "https://ustaxes.org/start",
+    "upvotes": 102,
+    "author": "steviedotboston",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27998452"
+  },
+  {
     "title": "What the Heck is a Data Mesh?",
     "url": "https://cnr.sh/essays/what-the-heck-data-mesh",
-    "upvotes": 96,
+    "upvotes": 99,
     "author": "riccomini",
-    "comments": 35,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=27999348"
+  },
+  {
+    "title": "UpCodes is hiring our first PM to automate compliance for architects",
+    "url": "https://up.codes/careers#product_manager"
   },
   {
     "title": "The Playdate store is now open",
     "url": "https://shop.play.date/",
-    "upvotes": 187,
+    "upvotes": 188,
     "author": "ChrisArchitect",
-    "comments": 139,
+    "comments": 141,
     "link": "https://news.ycombinator.com/item?id=27998737"
   },
   {
-    "title": "UsTaxes – open-source tax filing web application",
-    "url": "https://ustaxes.org/start",
-    "upvotes": 87,
-    "author": "steviedotboston",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27998452"
+    "title": "Worlds Apart: Technology, Remote Work, and Equity",
+    "url": "https://www.computer.org/csdl/magazine/co/2021/07/09473209/1uUtAaDtEn6",
+    "upvotes": 4,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27995407"
   },
   {
     "title": "Probably Are Gonna Need It: Application Security Edition",
     "url": "https://jacobian.org/2021/jul/8/appsec-pagnis/",
-    "upvotes": 87,
+    "upvotes": 91,
     "author": "pcr910303",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27995799"
@@ -130,38 +158,18 @@
   {
     "title": "Low level is easy",
     "url": "http://yosefk.com/blog/low-level-is-easy.html",
-    "upvotes": 139,
+    "upvotes": 141,
     "author": "yagizdegirmenci",
-    "comments": 83,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=27995788"
-  },
-  {
-    "title": "UpCodes is hiring our first PM to automate compliance for architects",
-    "url": "https://up.codes/careers#product_manager"
   },
   {
     "title": "AWS Support for Internet Explorer 11 Is Ending",
     "url": "https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/",
-    "upvotes": 66,
+    "upvotes": 70,
     "author": "jeffbarr",
-    "comments": 46,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=28001754"
-  },
-  {
-    "title": "Worlds Apart: Technology, Remote Work, and Equity",
-    "url": "https://www.computer.org/csdl/magazine/co/2021/07/09473209/1uUtAaDtEn6",
-    "upvotes": 3,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27995407"
-  },
-  {
-    "title": "JPG vs. RAW: Get it right the first time",
-    "url": "https://www.kenrockwell.com/tech/raw.htm",
-    "upvotes": 14,
-    "author": "brudgers",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27990984"
   },
   {
     "title": "Announcing Vitess 11",
@@ -176,63 +184,55 @@
     "url": "item?id=27996057",
     "upvotes": 68,
     "author": "dang",
-    "comments": 55,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27996057"
-  },
-  {
-    "title": "Top Routinely Exploited Vulnerabilities",
-    "url": "https://us-cert.cisa.gov/ncas/alerts/aa21-209a",
-    "upvotes": 124,
-    "author": "infodocket",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=28001884"
-  },
-  {
-    "title": "Facebook is now claiming official CDC.gov links are “False Information”",
-    "url": "https://i.postimg.cc/CLBCNx0Q/D4Hg99zw.jpg",
-    "upvotes": 532,
-    "author": "URfejk",
-    "comments": 392,
-    "link": "https://news.ycombinator.com/item?id=27999720"
   },
   {
     "title": "Never Gonna Give You Up by Rick Astley reaches one billion views",
     "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "upvotes": 228,
+    "upvotes": 235,
     "author": "Sea-n",
-    "comments": 104,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=27995270"
+  },
+  {
+    "title": "Top Routinely Exploited Vulnerabilities",
+    "url": "https://us-cert.cisa.gov/ncas/alerts/aa21-209a",
+    "upvotes": 125,
+    "author": "infodocket",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=28001884"
   },
   {
     "title": "Amazon's Older Kindles Will Start to Lose Their Internet Access in December",
     "url": "https://www.theverge.com/2021/7/28/22598747/kindle-3g-network-shutdown-e-readers-no-internet",
-    "upvotes": 223,
+    "upvotes": 224,
     "author": "theduder99",
-    "comments": 228,
+    "comments": 229,
     "link": "https://news.ycombinator.com/item?id=27998058"
   },
   {
-    "title": "Stat of the day: 38% of remote workers work from bed",
-    "url": "https://www.axios.com/38-percent-remote-workers-work-bed-f8708125-a068-47ff-9519-bb7870011cd5.html",
-    "upvotes": 40,
-    "author": "rufus_foreman",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=28003412"
+    "title": "Facebook is now claiming official CDC.gov links are “False Information”",
+    "url": "https://i.postimg.cc/CLBCNx0Q/D4Hg99zw.jpg",
+    "upvotes": 548,
+    "author": "URfejk",
+    "comments": 406,
+    "link": "https://news.ycombinator.com/item?id=27999720"
   },
   {
     "title": "FSF-calls for white papers on philosophical and legal questions around Copilot",
     "url": "https://www.fsf.org/blogs/licensing/fsf-funded-call-for-white-papers-on-philosophical-and-legal-questions-around-copilot",
-    "upvotes": 245,
+    "upvotes": 246,
     "author": "non_sequitur",
-    "comments": 158,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=27998109"
   },
   {
-    "title": "Pleasure Domes and Postal Routes",
-    "url": "https://www.nybooks.com/articles/2021/07/22/pleasure-domes-and-postal-routes/",
-    "upvotes": 6,
-    "author": "Thevet",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27991461"
+    "title": "You can be shy and still be a CEO",
+    "url": "https://www.thecut.com/2021/07/how-thrilling-ceo-shilla-kim-parker-gets-it-done.html",
+    "upvotes": 113,
+    "author": "stonlyb",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=27999374"
   }
 ]
