@@ -2,31 +2,31 @@
   {
     "title": "NSA Kubernetes Hardening Guidance [pdf]",
     "url": "https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF",
-    "upvotes": 310,
+    "upvotes": 332,
     "author": "kennethko",
-    "comments": 78,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=28050750"
-  },
-  {
-    "title": "Apple iPhone charger teardown: quality in a tiny expensive package",
-    "url": "http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html",
-    "upvotes": 124,
-    "author": "retskrad",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=28053398"
   },
   {
     "title": "The 5-Hour CDN",
     "url": "https://fly.io/blog/the-5-hour-content-delivery-network/",
-    "upvotes": 82,
+    "upvotes": 98,
     "author": "robfig",
-    "comments": 16,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=28053168"
+  },
+  {
+    "title": "Apple iPhone charger teardown: quality in a tiny expensive package",
+    "url": "http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html",
+    "upvotes": 145,
+    "author": "retskrad",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=28053398"
   },
   {
     "title": "How MDN's Autocomplete Search Works",
     "url": "https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/",
-    "upvotes": 121,
+    "upvotes": 129,
     "author": "oedmarap",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=28051562"
@@ -34,99 +34,107 @@
   {
     "title": "Malicious PyPI packages stealing credit cards and injecting code",
     "url": "https://jfrog.com/blog/malicious-pypi-packages-stealing-credit-cards-injecting-code/",
-    "upvotes": 379,
+    "upvotes": 390,
     "author": "hpb42",
-    "comments": 193,
+    "comments": 194,
     "link": "https://news.ycombinator.com/item?id=28048184"
+  },
+  {
+    "title": "Ray Ozzie's latest venture is a cheap IoT board with flat rate connectivity",
+    "url": "https://blues.io/",
+    "upvotes": 147,
+    "author": "matthewsinclair",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=28051005"
   },
   {
     "title": "VergeSense",
     "url": "https://www.workatastartup.com/companies/vergesense"
   },
   {
-    "title": "The Dangerous Ideas of “Longtermism” and “Existential Risk”",
-    "url": "https://www.currentaffairs.org/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk",
-    "upvotes": 46,
-    "author": "phreeza",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=28046301"
-  },
-  {
     "title": "Amazon Unlawfully Confiscated Union Literature, NLRB Finds",
     "url": "https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds",
-    "upvotes": 155,
+    "upvotes": 172,
     "author": "cf100clunk",
-    "comments": 74,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=28053144"
   },
   {
-    "title": "Ray Ozzie's latest venture is a cheap IoT board with flat rate connectivity",
-    "url": "https://blues.io/",
-    "upvotes": 135,
-    "author": "matthewsinclair",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=28051005"
+    "title": "The Dangerous Ideas of “Longtermism” and “Existential Risk”",
+    "url": "https://www.currentaffairs.org/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk",
+    "upvotes": 61,
+    "author": "phreeza",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=28046301"
+  },
+  {
+    "title": "Goose flying upside down is simply showing off, say experts",
+    "url": "https://wgme.com/news/offbeat/goose-flying-upside-down-is-simply-showing-off-say-experts",
+    "upvotes": 85,
+    "author": "MaysonL",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=28033973"
+  },
+  {
+    "title": "Distributed consensus",
+    "url": "https://web3scout.github.io/forcecons-sim/",
+    "upvotes": 8,
+    "author": "web3scout",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28053979"
+  },
+  {
+    "title": "Postmortem in finance: How Credit Suisse lost $6B [pdf]",
+    "url": "https://www.credit-suisse.com/media/assets/corporate/docs/about-us/investor-relations/financial-disclosures/results/csg-special-committee-bod-report-archegos.pdf",
+    "upvotes": 22,
+    "author": "mlla",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28053420"
   },
   {
     "title": "LTTng 2.13 facilitates quick reaction to kernel/user-space instrumentation hit",
     "url": "https://lists.lttng.org/pipermail/lttng-dev/2021-August/030046.html",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "compudj",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28053078"
   },
   {
-    "title": "Goose flying upside down is simply showing off, say experts",
-    "url": "https://wgme.com/news/offbeat/goose-flying-upside-down-is-simply-showing-off-say-experts",
-    "upvotes": 76,
-    "author": "MaysonL",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=28033973"
-  },
-  {
     "title": "Launch YC: 3D Web; Training; Child privacy; Pregnancy; Life science; Desk rental",
     "url": "item?id=28049500",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "dang",
-    "comments": 61,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=28049500"
+  },
+  {
+    "title": "Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array",
+    "url": "https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/",
+    "upvotes": 5,
+    "author": "mindcrime",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28054017"
   },
   {
     "title": "Lists, More Lists, and the Power of Checkboxes",
     "url": "https://www.wired.com/story/adam-savage-lists-more-lists-power-checkboxes/",
     "upvotes": 52,
     "author": "Tomte",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=28034601"
   },
   {
-    "title": "Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array",
-    "url": "https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/",
-    "upvotes": 4,
-    "author": "mindcrime",
+    "title": "Fast, Efficient Neural Networks Copy Dragonfly Brains",
+    "url": "https://spectrum.ieee.org/fast-efficient-neural-networks-copy-dragonfly-brains",
+    "upvotes": 8,
+    "author": "lnyan",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28054017"
-  },
-  {
-    "title": "Postmortem in finance: How Credit Suisse lost $6B [pdf]",
-    "url": "https://www.credit-suisse.com/media/assets/corporate/docs/about-us/investor-relations/financial-disclosures/results/csg-special-committee-bod-report-archegos.pdf",
-    "upvotes": 13,
-    "author": "mlla",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28053420"
-  },
-  {
-    "title": "Distributed consensus",
-    "url": "https://web3scout.github.io/forcecons-sim/",
-    "upvotes": 4,
-    "author": "web3scout",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28053979"
+    "link": "https://news.ycombinator.com/item?id=28035307"
   },
   {
     "title": "Show HN: A work-in-progress C compiler from scratch",
     "url": "https://github.com/riicchhaarrd/ocean",
-    "upvotes": 121,
+    "upvotes": 123,
     "author": "r1chardnl",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=28048528"
@@ -134,26 +142,26 @@
   {
     "title": "Why don't tech companies pay their engineers to stay?",
     "url": "https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9",
-    "upvotes": 266,
+    "upvotes": 277,
     "author": "mattydoincode",
-    "comments": 282,
+    "comments": 302,
     "link": "https://news.ycombinator.com/item?id=28049254"
-  },
-  {
-    "title": "Tesla CEO berated employees, investors and tried to get rid of safety measures",
-    "url": "https://www.gq.com/story/powerplay-tesla-musk-excerpt/",
-    "upvotes": 113,
-    "author": "camjohnson26",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=28053358"
   },
   {
     "title": "The Oxymoron of “Data-Driven Innovation”",
     "url": "https://chelseatroy.com/2021/07/30/the-oxymoron-of-data-driven-innovation/",
-    "upvotes": 67,
+    "upvotes": 71,
     "author": "Hell_World",
-    "comments": 31,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=28038969"
+  },
+  {
+    "title": "South Korea: The only middle power of its kind",
+    "url": "https://nationalinterest.org/blog/korea-watch/south-korea-only-middle-power-its-kind-190911",
+    "upvotes": 161,
+    "author": "mooreds",
+    "comments": 331,
+    "link": "https://news.ycombinator.com/item?id=28048578"
   },
   {
     "title": "Beautiful ideas in programming: generators and continuations",
@@ -164,36 +172,52 @@
     "link": "https://news.ycombinator.com/item?id=28034486"
   },
   {
-    "title": "South Korea: The only middle power of its kind",
-    "url": "https://nationalinterest.org/blog/korea-watch/south-korea-only-middle-power-its-kind-190911",
-    "upvotes": 156,
-    "author": "mooreds",
-    "comments": 327,
-    "link": "https://news.ycombinator.com/item?id=28048578"
-  },
-  {
-    "title": "Leap seconds: Causing bugs even when they don’t happen",
-    "url": "https://berthub.eu/articles/posts/leapseconds-expose-bugs-even-when-they-dont-happen/",
-    "upvotes": 201,
-    "author": "ahubert",
-    "comments": 144,
-    "link": "https://news.ycombinator.com/item?id=28046997"
-  },
-  {
     "title": "Unix and Microservice Platforms",
     "url": "https://blog.deref.io/unix-and-microservice-platforms/",
-    "upvotes": 73,
+    "upvotes": 75,
     "author": "brandonbloom",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=28039542"
   },
   {
+    "title": "Leap seconds: Causing bugs even when they don’t happen",
+    "url": "https://berthub.eu/articles/posts/leapseconds-expose-bugs-even-when-they-dont-happen/",
+    "upvotes": 204,
+    "author": "ahubert",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=28046997"
+  },
+  {
+    "title": "Satan should chair your meetings – a literature lover’s guide to office politics",
+    "url": "https://www.economist.com/1843/2021/08/03/why-satan-should-chair-your-meetings",
+    "upvotes": 30,
+    "author": "dctoedt",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=28052153"
+  },
+  {
+    "title": "Interview with a ransomware group",
+    "url": "https://therecord.media/an-interview-with-blackmatter-a-new-ransomware-group-thats-learning-from-the-mistakes-of-darkside-and-revil/",
+    "upvotes": 105,
+    "author": "stereoradonc",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=28047733"
+  },
+  {
     "title": "Leaving Well",
     "url": "https://avc.com/2021/08/leaving-well/",
-    "upvotes": 77,
+    "upvotes": 78,
     "author": "mooreds",
     "comments": 48,
     "link": "https://news.ycombinator.com/item?id=28048282"
+  },
+  {
+    "title": "Bombs vs. Bugs",
+    "url": "https://edwardsnowden.substack.com/p/qa02",
+    "upvotes": 125,
+    "author": "carlotasoto",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=28049942"
   },
   {
     "title": "Simulating office reopening for sales teams",
@@ -204,33 +228,9 @@
     "link": "https://news.ycombinator.com/item?id=28042441"
   },
   {
-    "title": "Bombs vs. Bugs",
-    "url": "https://edwardsnowden.substack.com/p/qa02",
-    "upvotes": 124,
-    "author": "carlotasoto",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=28049942"
-  },
-  {
-    "title": "Interview with a ransomware group",
-    "url": "https://therecord.media/an-interview-with-blackmatter-a-new-ransomware-group-thats-learning-from-the-mistakes-of-darkside-and-revil/",
-    "upvotes": 101,
-    "author": "stereoradonc",
-    "comments": 103,
-    "link": "https://news.ycombinator.com/item?id=28047733"
-  },
-  {
-    "title": "Show HN: Tomatotree.tv – Find your next series to watch using Rotten Tomatoes",
-    "url": "https://tomatotree.tv/",
-    "upvotes": 26,
-    "author": "hauxir",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=28051563"
-  },
-  {
     "title": "Massachusetts couple suing eBay after employees harassed and stalked them",
     "url": "https://www.bostonglobe.com/2021/07/31/business/it-has-be-known-what-was-done-us-natick-couple-harassed-by-ebay-tell-their-story-first-time/?p1=Article_Feed_ContentQuery",
-    "upvotes": 461,
+    "upvotes": 464,
     "author": "disabled",
     "comments": 116,
     "link": "https://news.ycombinator.com/item?id=28046491"
