@@ -2,42 +2,50 @@
   {
     "title": "Malicious PyPI packages stealing credit cards and injecting code",
     "url": "https://jfrog.com/blog/malicious-pypi-packages-stealing-credit-cards-injecting-code/",
-    "upvotes": 271,
+    "upvotes": 304,
     "author": "hpb42",
-    "comments": 142,
+    "comments": 154,
     "link": "https://news.ycombinator.com/item?id=28048184"
-  },
-  {
-    "title": "Show HN: A work-in-progress C compiler from scratch",
-    "url": "https://github.com/riicchhaarrd/ocean",
-    "upvotes": 89,
-    "author": "r1chardnl",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=28048528"
   },
   {
     "title": "How MDN's Autocomplete Search Works",
     "url": "https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/",
-    "upvotes": 6,
+    "upvotes": 27,
     "author": "oedmarap",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28051562"
   },
   {
-    "title": "Launch YC: 3D Web; Training; Child privacy; Pregnancy; Life science; Desk rental",
-    "url": "item?id=28049500",
-    "upvotes": 32,
-    "author": "dang",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=28049500"
+    "title": "NSA Kubernetes Hardening Guidance [pdf]",
+    "url": "https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF",
+    "upvotes": 58,
+    "author": "kennethko",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=28050750"
+  },
+  {
+    "title": "Show HN: A work-in-progress C compiler from scratch",
+    "url": "https://github.com/riicchhaarrd/ocean",
+    "upvotes": 95,
+    "author": "r1chardnl",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=28048528"
   },
   {
     "title": "South Korea: The only middle power of its kind",
     "url": "https://nationalinterest.org/blog/korea-watch/south-korea-only-middle-power-its-kind-190911",
-    "upvotes": 91,
+    "upvotes": 103,
     "author": "mooreds",
-    "comments": 179,
+    "comments": 207,
     "link": "https://news.ycombinator.com/item?id=28048578"
+  },
+  {
+    "title": "Launch YC: 3D Web; Training; Child privacy; Pregnancy; Life science; Desk rental",
+    "url": "item?id=28049500",
+    "upvotes": 36,
+    "author": "dang",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=28049500"
   },
   {
     "title": "Treble.ai",
@@ -46,193 +54,185 @@
   {
     "title": "Bombs vs. Bugs",
     "url": "https://edwardsnowden.substack.com/p/qa02",
-    "upvotes": 83,
+    "upvotes": 88,
     "author": "carlotasoto",
-    "comments": 18,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=28049942"
   },
   {
     "title": "Leap seconds: Causing bugs even when they don’t happen",
     "url": "https://berthub.eu/articles/posts/leapseconds-expose-bugs-even-when-they-dont-happen/",
-    "upvotes": 169,
+    "upvotes": 171,
     "author": "ahubert",
-    "comments": 107,
+    "comments": 115,
     "link": "https://news.ycombinator.com/item?id=28046997"
   },
   {
     "title": "Unix and Microservice Platforms",
     "url": "https://blog.deref.io/unix-and-microservice-platforms/",
-    "upvotes": 44,
-    "author": "brandonbloom",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=28039542"
-  },
-  {
-    "title": "NSA Kubernetes Hardening Guidance [pdf]",
-    "url": "https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF",
-    "upvotes": 13,
-    "author": "kennethko",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28050750"
-  },
-  {
-    "title": "Leaving Well",
-    "url": "https://avc.com/2021/08/leaving-well/",
     "upvotes": 49,
-    "author": "mooreds",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=28048282"
-  },
-  {
-    "title": "The Oxymoron of “Data-Driven Innovation”",
-    "url": "https://chelseatroy.com/2021/07/30/the-oxymoron-of-data-driven-innovation/",
-    "upvotes": 19,
-    "author": "Hell_World",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28038969"
-  },
-  {
-    "title": "Quaternion Quantum Mechanics [video]",
-    "url": "https://www.youtube.com/watch?v=UT_EFqmSisQ",
-    "upvotes": 17,
-    "author": "miej",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28047853"
+    "author": "brandonbloom",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=28039542"
   },
   {
     "title": "Beautiful ideas in programming: generators and continuations",
     "url": "https://www.hhyu.org/posts/generator_and_continuation/",
-    "upvotes": 60,
+    "upvotes": 69,
     "author": "lukastyrychtr",
-    "comments": 29,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=28034486"
+  },
+  {
+    "title": "The Oxymoron of “Data-Driven Innovation”",
+    "url": "https://chelseatroy.com/2021/07/30/the-oxymoron-of-data-driven-innovation/",
+    "upvotes": 27,
+    "author": "Hell_World",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28038969"
+  },
+  {
+    "title": "Leaving Well",
+    "url": "https://avc.com/2021/08/leaving-well/",
+    "upvotes": 55,
+    "author": "mooreds",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=28048282"
+  },
+  {
+    "title": "Quaternion Quantum Mechanics [video]",
+    "url": "https://www.youtube.com/watch?v=UT_EFqmSisQ",
+    "upvotes": 25,
+    "author": "miej",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28047853"
   },
   {
     "title": "Interview with a ransomware group",
     "url": "https://therecord.media/an-interview-with-blackmatter-a-new-ransomware-group-thats-learning-from-the-mistakes-of-darkside-and-revil/",
-    "upvotes": 71,
+    "upvotes": 78,
     "author": "stereoradonc",
-    "comments": 59,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=28047733"
   },
   {
-    "title": "Alien Dreams: The long history of speculation about extraterrestrials",
-    "url": "https://thereader.mitpress.mit.edu/history-speculation-about-aliens/",
-    "upvotes": 46,
-    "author": "anarbadalov",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=28049138"
+    "title": "Why don't tech companies pay their engineers to stay?",
+    "url": "https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9",
+    "upvotes": 98,
+    "author": "mattydoincode",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=28049254"
   },
   {
-    "title": "Use Spreadsheets Everywhere",
-    "url": "https://www.simplethread.com/use-spreadsheets-everywhere/",
-    "upvotes": 76,
-    "author": "jetheredge",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=28049255"
+    "title": "Ray Ozzie's latest venture is a cheap IoT board with flat rate connectivity",
+    "url": "https://blues.io/",
+    "upvotes": 12,
+    "author": "matthewsinclair",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28051005"
   },
   {
     "title": "Infrastructure bill cryptocurrency surveillance provision is a privacy disaster",
     "url": "https://www.eff.org/deeplinks/2021/08/cryptocurrency-surveillance-provision-buried-infrastructure-bill-disaster-digital",
-    "upvotes": 330,
+    "upvotes": 343,
     "author": "abecedarius",
-    "comments": 270,
+    "comments": 283,
     "link": "https://news.ycombinator.com/item?id=28045227"
   },
   {
-    "title": "New Leadership at Blizzard",
-    "url": "https://news.blizzard.com/en-us/blizzard/23706475/new-leadership-at-blizzard",
-    "upvotes": 214,
-    "author": "bdz",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=28048919"
+    "title": "Lists, More Lists, and the Power of Checkboxes",
+    "url": "https://www.wired.com/story/adam-savage-lists-more-lists-power-checkboxes/",
+    "upvotes": 6,
+    "author": "Tomte",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28034601"
+  },
+  {
+    "title": "Use Spreadsheets Everywhere",
+    "url": "https://www.simplethread.com/use-spreadsheets-everywhere/",
+    "upvotes": 83,
+    "author": "jetheredge",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=28049255"
+  },
+  {
+    "title": "Massachusetts couple suing eBay after employees harassed and stalked them",
+    "url": "https://www.bostonglobe.com/2021/07/31/business/it-has-be-known-what-was-done-us-natick-couple-harassed-by-ebay-tell-their-story-first-time/?p1=Article_Feed_ContentQuery",
+    "upvotes": 408,
+    "author": "disabled",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=28046491"
   },
   {
     "title": "Unfolding the Hippocampus",
     "url": "https://news.westernu.ca/2021/07/unfolding-the-hippocampus/",
-    "upvotes": 38,
+    "upvotes": 41,
     "author": "rbanffy",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28048269"
   },
   {
-    "title": "Massachusetts couple suing eBay after employees harassed and stalked them",
-    "url": "https://www.bostonglobe.com/2021/07/31/business/it-has-be-known-what-was-done-us-natick-couple-harassed-by-ebay-tell-their-story-first-time/?p1=Article_Feed_ContentQuery",
-    "upvotes": 395,
-    "author": "disabled",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=28046491"
-  },
-  {
     "title": "Entire German bond yield curve back in sub-zero territory",
     "url": "https://www.reuters.com/article/eurozone-bonds/update-2-entire-german-bond-yield-curve-back-in-sub-zero-territory-idUSL1N2P90H5",
-    "upvotes": 104,
+    "upvotes": 109,
     "author": "nabla9",
-    "comments": 157,
+    "comments": 173,
     "link": "https://news.ycombinator.com/item?id=28048300"
   },
   {
-    "title": "Why don't tech companies pay their engineers to stay?",
-    "url": "https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9",
-    "upvotes": 74,
-    "author": "mattydoincode",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=28049254"
+    "title": "Alien Dreams: The long history of speculation about extraterrestrials",
+    "url": "https://thereader.mitpress.mit.edu/history-speculation-about-aliens/",
+    "upvotes": 49,
+    "author": "anarbadalov",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=28049138"
   },
   {
     "title": "Computational algebraic geometry for high school students",
     "url": "https://www.solidangl.es/post/varieties-the-spice-of-life",
-    "upvotes": 119,
+    "upvotes": 125,
     "author": "foxes",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28045553"
   },
   {
-    "title": "SaaS Blocks 2.0 – tools for building a SaaS app",
-    "url": "https://saasblocks.io/",
-    "upvotes": 36,
-    "author": "gertjandewilde",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28049265"
-  },
-  {
-    "title": "Cheap material converts heat to electricity",
-    "url": "https://www.sciencemag.org/news/2021/08/cheap-material-converts-heat-electricity",
-    "upvotes": 117,
-    "author": "rbanffy",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=28047112"
-  },
-  {
     "title": "Guide to Software Project Estimation",
     "url": "https://www.scalablepath.com/blog/software-project-estimation/",
-    "upvotes": 43,
+    "upvotes": 46,
     "author": "todsacerdoti",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=28047973"
   },
   {
+    "title": "Cheap material converts heat to electricity",
+    "url": "https://www.sciencemag.org/news/2021/08/cheap-material-converts-heat-electricity",
+    "upvotes": 119,
+    "author": "rbanffy",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=28047112"
+  },
+  {
     "title": "Launch HN: Heimdal (YC S21) – Carbon neutral cement",
     "url": "item?id=28036927",
-    "upvotes": 536,
+    "upvotes": 547,
     "author": "marcuslima",
     "comments": 200,
     "link": "https://news.ycombinator.com/item?id=28036927"
   },
   {
-    "title": "Data exfiltration in Keepa Price Tracker",
-    "url": "https://palant.info/2021/08/02/data-exfiltration-in-keepa-price-tracker/",
-    "upvotes": 50,
-    "author": "taxyovio",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=28047365"
+    "title": "New Leadership at Blizzard",
+    "url": "https://news.blizzard.com/en-us/blizzard/23706475/new-leadership-at-blizzard",
+    "upvotes": 224,
+    "author": "bdz",
+    "comments": 160,
+    "link": "https://news.ycombinator.com/item?id=28048919"
   },
   {
     "title": "My Custom Stream Deck Toolkit",
     "url": "http://peterhajas.com/blog/streamdeck.html",
-    "upvotes": 66,
+    "upvotes": 69,
     "author": "peterhajas",
-    "comments": 21,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=28031861"
   }
 ]
