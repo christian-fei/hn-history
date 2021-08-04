@@ -2,50 +2,50 @@
   {
     "title": "Bye CUPS: Printing with Netcat",
     "url": "https://retrohacker.substack.com/p/bye-cups-printing-with-netcat",
-    "upvotes": 182,
+    "upvotes": 187,
     "author": "r3trohack3r",
-    "comments": 83,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=28054789"
   },
   {
     "title": "Where are the robotic bricklayers?",
     "url": "https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers",
-    "upvotes": 183,
+    "upvotes": 196,
     "author": "bookofjoe",
-    "comments": 213,
+    "comments": 234,
     "link": "https://news.ycombinator.com/item?id=28054606"
+  },
+  {
+    "title": "Where Do Models Go Wrong? Parameter-Space Saliency Maps for Explainability",
+    "url": "https://arxiv.org/abs/2108.01335",
+    "upvotes": 13,
+    "author": "lnyan",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28056526"
   },
   {
     "title": "NSA Kubernetes Hardening Guidance [pdf]",
     "url": "https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF",
-    "upvotes": 447,
+    "upvotes": 454,
     "author": "kennethko",
-    "comments": 131,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=28050750"
   },
   {
     "title": "Test quantum mechanics in space – invest US$1B",
     "url": "https://www.nature.com/articles/d41586-021-02091-8",
-    "upvotes": 29,
+    "upvotes": 33,
     "author": "pseudolus",
-    "comments": 10,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28055824"
   },
   {
     "title": "The 5-Hour CDN",
     "url": "https://fly.io/blog/the-5-hour-content-delivery-network/",
-    "upvotes": 214,
+    "upvotes": 219,
     "author": "robfig",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=28053168"
-  },
-  {
-    "title": "Where Do Models Go Wrong? Parameter-Space Saliency Maps for Explainability",
-    "url": "https://arxiv.org/abs/2108.01335",
-    "upvotes": 6,
-    "author": "lnyan",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28056526"
   },
   {
     "title": "Malicious PyPI packages stealing credit cards and injecting code",
@@ -56,11 +56,19 @@
     "link": "https://news.ycombinator.com/item?id=28048184"
   },
   {
+    "title": "Archegos was too busy for margin calls",
+    "url": "https://www.bloomberg.com/opinion/articles/2021-07-29/archegos-was-too-busy-for-margin-calls",
+    "upvotes": 121,
+    "author": "mlla",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=28053420"
+  },
+  {
     "title": "What we lost – a paean, perhaps, to RSS",
     "url": "https://mattmower.com/2021/08/02/what-we-lost/",
-    "upvotes": 33,
+    "upvotes": 34,
     "author": "sandbags",
-    "comments": 17,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=28036235"
   },
   {
@@ -68,17 +76,9 @@
     "url": "https://angel.co/l/2vDCh2"
   },
   {
-    "title": "Archegos was too busy for margin calls",
-    "url": "https://www.bloomberg.com/opinion/articles/2021-07-29/archegos-was-too-busy-for-margin-calls",
-    "upvotes": 118,
-    "author": "mlla",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=28053420"
-  },
-  {
     "title": "Ray Ozzie's latest venture is a cheap IoT board with flat rate connectivity",
     "url": "https://blues.io/",
-    "upvotes": 210,
+    "upvotes": 211,
     "author": "matthewsinclair",
     "comments": 104,
     "link": "https://news.ycombinator.com/item?id=28051005"
@@ -86,34 +86,58 @@
   {
     "title": "Apple iPhone charger teardown: quality in a tiny expensive package",
     "url": "http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html",
-    "upvotes": 243,
+    "upvotes": 246,
     "author": "retskrad",
     "comments": 199,
     "link": "https://news.ycombinator.com/item?id=28053398"
   },
   {
-    "title": "This Can’t Go On",
-    "url": "https://www.cold-takes.com/this-cant-go-on/",
-    "upvotes": 102,
-    "author": "rfw300",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=28053649"
-  },
-  {
     "title": "Report on Archegos Capital Management",
     "url": "https://www.sec.gov/Archives/edgar/data/0001159510/000137036821000064/a210729-ex992.htm",
-    "upvotes": 5,
+    "upvotes": 8,
     "author": "ajaimk",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28056239"
   },
   {
+    "title": "This Can’t Go On",
+    "url": "https://www.cold-takes.com/this-cant-go-on/",
+    "upvotes": 104,
+    "author": "rfw300",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=28053649"
+  },
+  {
     "title": "How MDN's Autocomplete Search Works",
     "url": "https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/",
-    "upvotes": 164,
+    "upvotes": 166,
     "author": "oedmarap",
-    "comments": 53,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=28051562"
+  },
+  {
+    "title": "Law school applicants surge 13%, biggest increase since dot-com bubble",
+    "url": "https://www.reuters.com/legal/legalindustry/law-school-applicants-surge-13-biggest-increase-since-dot-com-bubble-2021-08-03/",
+    "upvotes": 13,
+    "author": "DLay",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28055897"
+  },
+  {
+    "title": "Amazon Unlawfully Confiscated Union Literature, NLRB Finds",
+    "url": "https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds",
+    "upvotes": 357,
+    "author": "cf100clunk",
+    "comments": 186,
+    "link": "https://news.ycombinator.com/item?id=28053144"
+  },
+  {
+    "title": "Goose flying upside down is simply showing off, say experts",
+    "url": "https://wgme.com/news/offbeat/goose-flying-upside-down-is-simply-showing-off-say-experts",
+    "upvotes": 151,
+    "author": "MaysonL",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=28033973"
   },
   {
     "title": "Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array",
@@ -124,113 +148,89 @@
     "link": "https://news.ycombinator.com/item?id=28054017"
   },
   {
-    "title": "Amazon Unlawfully Confiscated Union Literature, NLRB Finds",
-    "url": "https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds",
-    "upvotes": 351,
-    "author": "cf100clunk",
-    "comments": 178,
-    "link": "https://news.ycombinator.com/item?id=28053144"
-  },
-  {
-    "title": "Goose flying upside down is simply showing off, say experts",
-    "url": "https://wgme.com/news/offbeat/goose-flying-upside-down-is-simply-showing-off-say-experts",
-    "upvotes": 148,
-    "author": "MaysonL",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=28033973"
-  },
-  {
-    "title": "Law school applicants surge 13%, biggest increase since dot-com bubble",
-    "url": "https://www.reuters.com/legal/legalindustry/law-school-applicants-surge-13-biggest-increase-since-dot-com-bubble-2021-08-03/",
-    "upvotes": 8,
-    "author": "DLay",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28055897"
-  },
-  {
     "title": "Launch YC: 3D Web; Training; Child privacy; Pregnancy; Life science; Desk rental",
     "url": "item?id=28049500",
-    "upvotes": 66,
+    "upvotes": 67,
     "author": "dang",
-    "comments": 89,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=28049500"
   },
   {
     "title": "Fast, Efficient Neural Networks Copy Dragonfly Brains",
     "url": "https://spectrum.ieee.org/fast-efficient-neural-networks-copy-dragonfly-brains",
-    "upvotes": 49,
+    "upvotes": 51,
     "author": "lnyan",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28035307"
   },
   {
-    "title": "The Education of Melvyn Bragg",
-    "url": "https://www.newyorker.com/culture/the-new-yorker-interview/the-education-of-melvyn-bragg",
-    "upvotes": 23,
-    "author": "vijayr02",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=28048267"
-  },
-  {
-    "title": "Show HN: OnionShare with Just Tor and Redbean",
-    "url": "https://github.com/ndren/redbean-onionshare",
-    "upvotes": 23,
-    "author": "ndren",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28051222"
-  },
-  {
     "title": "Paving the Way to Small-Sized Room-Temperature Quantum Computers",
     "url": "https://rnd.iitb.ac.in/research-glimpse/graphene-valleytronics-paving-way-small-sized-room-temperature-quantum-computers",
-    "upvotes": 6,
+    "upvotes": 8,
     "author": "rustoo",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28047380"
   },
   {
+    "title": "The Education of Melvyn Bragg",
+    "url": "https://www.newyorker.com/culture/the-new-yorker-interview/the-education-of-melvyn-bragg",
+    "upvotes": 24,
+    "author": "vijayr02",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28048267"
+  },
+  {
     "title": "Satan should chair your meetings – a literature lover’s guide to office politics",
     "url": "https://www.economist.com/1843/2021/08/03/why-satan-should-chair-your-meetings",
-    "upvotes": 62,
+    "upvotes": 65,
     "author": "dctoedt",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=28052153"
   },
   {
+    "title": "Show HN: OnionShare with Just Tor and Redbean",
+    "url": "https://github.com/ndren/redbean-onionshare",
+    "upvotes": 24,
+    "author": "ndren",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28051222"
+  },
+  {
     "title": "Why don't tech companies pay their engineers to stay?",
     "url": "https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9",
-    "upvotes": 392,
+    "upvotes": 394,
     "author": "mattydoincode",
-    "comments": 415,
+    "comments": 419,
     "link": "https://news.ycombinator.com/item?id=28049254"
-  },
-  {
-    "title": "Show HN: A work-in-progress C compiler from scratch",
-    "url": "https://github.com/riicchhaarrd/ocean",
-    "upvotes": 138,
-    "author": "r1chardnl",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=28048528"
-  },
-  {
-    "title": "South Korea: The only middle power of its kind",
-    "url": "https://nationalinterest.org/blog/korea-watch/south-korea-only-middle-power-its-kind-190911",
-    "upvotes": 186,
-    "author": "mooreds",
-    "comments": 386,
-    "link": "https://news.ycombinator.com/item?id=28048578"
   },
   {
     "title": "The changing art of the subeditor: ‘You had to read the type upside down’",
     "url": "https://www.theguardian.com/media/2021/aug/02/the-changing-art-of-the-subeditor-you-had-to-read-the-type-upside-down",
-    "upvotes": 12,
+    "upvotes": 14,
     "author": "CTOSian",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28034803"
   },
   {
+    "title": "Show HN: A work-in-progress C compiler from scratch",
+    "url": "https://github.com/riicchhaarrd/ocean",
+    "upvotes": 140,
+    "author": "r1chardnl",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=28048528"
+  },
+  {
+    "title": "South Korea: The only middle power of its kind",
+    "url": "https://nationalinterest.org/blog/korea-watch/south-korea-only-middle-power-its-kind-190911",
+    "upvotes": 187,
+    "author": "mooreds",
+    "comments": 386,
+    "link": "https://news.ycombinator.com/item?id=28048578"
+  },
+  {
     "title": "Beautiful ideas in programming: generators and continuations",
     "url": "https://www.hhyu.org/posts/generator_and_continuation/",
-    "upvotes": 152,
+    "upvotes": 156,
     "author": "lukastyrychtr",
     "comments": 90,
     "link": "https://news.ycombinator.com/item?id=28034486"
