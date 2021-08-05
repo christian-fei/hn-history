@@ -2,31 +2,47 @@
   {
     "title": "Airyx OS",
     "url": "http://airyx.org/",
-    "upvotes": 379,
+    "upvotes": 400,
     "author": "todsacerdoti",
-    "comments": 129,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=28068542"
   },
   {
     "title": "System on SO-DIMM",
     "url": "https://twitter.com/Foone/status/1423078973064441858",
-    "upvotes": 35,
+    "upvotes": 40,
     "author": "_Microft",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=28070619"
   },
   {
     "title": "Apple enabling client-side CSAM scanning on iPhone tomorrow",
     "url": "https://twitter.com/matthew_d_green/status/1423071186616000513",
-    "upvotes": 578,
+    "upvotes": 609,
     "author": "robbiet480",
-    "comments": 312,
+    "comments": 332,
     "link": "https://news.ycombinator.com/item?id=28068741"
+  },
+  {
+    "title": "On Time, Money and Health",
+    "url": "https://todaypurpose.com/posts/time-money-health/",
+    "upvotes": 38,
+    "author": "clubdorothe",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=28070769"
+  },
+  {
+    "title": "Firefox Lost Almost 50M Users: Here’s Why It Is Concerning",
+    "url": "https://news.itsfoss.com/firefox-decline/",
+    "upvotes": 35,
+    "author": "jeremylevy",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=28071494"
   },
   {
     "title": "Contemporary COBOL: Developers' Perspectives on Defects and Defect Location",
     "url": "https://arxiv.org/abs/2105.01830",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "Fragoel2",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28071096"
@@ -34,50 +50,26 @@
   {
     "title": "Global Sourcebook for International Data Management",
     "url": "http://www.grcdi.nl/gsb/global%20sourcebook.html",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "nederdirk",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28070794"
   },
   {
-    "title": "Google hits undo on Chrome browser alert change that broke websites, web apps",
-    "url": "https://www.theregister.com/2021/08/05/google_chrome_iframe/",
-    "upvotes": 45,
-    "author": "kiyanwang",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=28071092"
-  },
-  {
-    "title": "On Time, Money and Health",
-    "url": "https://todaypurpose.com/posts/time-money-health/",
-    "upvotes": 21,
-    "author": "clubdorothe",
+    "title": "Six hundred and forty pages in 15 months",
+    "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
+    "upvotes": 17,
+    "author": "agluszak",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28070769"
+    "link": "https://news.ycombinator.com/item?id=28047615"
   },
   {
     "title": "SQLite Is Dynamically Typed",
     "url": "https://blog.zachwf.com/posts/sqlite-is-dynamically-typed/",
-    "upvotes": 87,
+    "upvotes": 91,
     "author": "zachthewf",
-    "comments": 56,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=28050198"
-  },
-  {
-    "title": "Slitter: A slab allocator that trusts, but verifies",
-    "url": "https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/",
-    "upvotes": 75,
-    "author": "jsnell",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28068015"
-  },
-  {
-    "title": "Six hundred and forty pages in 15 months",
-    "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
-    "upvotes": 11,
-    "author": "agluszak",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28047615"
   },
   {
     "title": "Lowkey",
@@ -86,34 +78,90 @@
   {
     "title": "The slow collapse of Amazon’s drone delivery dream",
     "url": "https://www.wired.co.uk/article/amazon-drone-delivery-prime-air",
-    "upvotes": 145,
+    "upvotes": 152,
     "author": "TigeriusKirk",
-    "comments": 190,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=28050538"
+  },
+  {
+    "title": "Slitter: A slab allocator that trusts, but verifies",
+    "url": "https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/",
+    "upvotes": 76,
+    "author": "jsnell",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=28068015"
+  },
+  {
+    "title": "The human ear detects half a millisecond delay in sound",
+    "url": "https://www.aalto.fi/en/news/the-human-ear-detects-half-a-millisecond-delay-in-sound",
+    "upvotes": 20,
+    "author": "pizza",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28069695"
   },
   {
     "title": "An attempt at demystifying graph deep learning",
     "url": "https://ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/",
-    "upvotes": 52,
+    "upvotes": 56,
     "author": "jonathanbgn",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=28045639"
+  },
+  {
+    "title": "Datafuse – Modern Real-Time Data Processing in Rust",
+    "url": "https://github.com/datafuselabs/datafuse/",
+    "upvotes": 22,
+    "author": "implfuture",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28069895"
   },
   {
     "title": "The world of cats: what our feline friends do when we’re not looking",
     "url": "https://www.theguardian.com/lifeandstyle/2021/jul/22/hidden-world-cats-what-feline-friends-doing-when-were-not-looking",
-    "upvotes": 21,
+    "upvotes": 25,
     "author": "dll",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28071005"
+  },
+  {
+    "title": "Correlating financial time series with micro-blogging activity",
+    "url": "https://chato.cl/papers/ruiz_hristidis_castillo_gionis_2012_financial_time_series_stock_market_twitter.pdf",
+    "upvotes": 6,
+    "author": "ColinWright",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28047654"
+  },
+  {
+    "title": "Print a Twitter feed as a simple HTML blog",
+    "url": "item?id=28071491",
+    "upvotes": 6,
+    "author": "1vuio0pswjnm7",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28071491"
   },
   {
     "title": "Launch HN: Turion Space (YC S21) – Space debris removal and satellite servicing",
     "url": "item?id=28061725",
-    "upvotes": 184,
+    "upvotes": 185,
     "author": "rwesterdahl",
-    "comments": 97,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=28061725"
+  },
+  {
+    "title": "Facebook’s claims about the Ad Observer are wrong",
+    "url": "https://blog.mozilla.org/en/mozilla/news/why-facebooks-claims-about-the-ad-observer-are-wrong/",
+    "upvotes": 220,
+    "author": "rbanffy",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=28068359"
+  },
+  {
+    "title": "Mario Paint Masterpiece",
+    "url": "https://www.charlieharrington.com/mario-paint-masterpiece",
+    "upvotes": 121,
+    "author": "whatrocks",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=28065357"
   },
   {
     "title": "A riddle wrapped in a curve",
@@ -124,68 +172,44 @@
     "link": "https://news.ycombinator.com/item?id=28047716"
   },
   {
-    "title": "Facebook’s claims about the Ad Observer are wrong",
-    "url": "https://blog.mozilla.org/en/mozilla/news/why-facebooks-claims-about-the-ad-observer-are-wrong/",
-    "upvotes": 214,
-    "author": "rbanffy",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=28068359"
-  },
-  {
-    "title": "Datafuse – Modern Real-Time Data Processing in Rust",
-    "url": "https://github.com/datafuselabs/datafuse/",
-    "upvotes": 20,
-    "author": "implfuture",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28069895"
-  },
-  {
-    "title": "Mario Paint Masterpiece",
-    "url": "https://www.charlieharrington.com/mario-paint-masterpiece",
-    "upvotes": 119,
-    "author": "whatrocks",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=28065357"
-  },
-  {
-    "title": "Correlating financial time series with micro-blogging activity",
-    "url": "https://chato.cl/papers/ruiz_hristidis_castillo_gionis_2012_financial_time_series_stock_market_twitter.pdf",
-    "upvotes": 4,
-    "author": "ColinWright",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28047654"
-  },
-  {
     "title": "Unleashing Radical Creativity",
     "url": "https://blog.x.company/tips-for-unleashing-radical-creativity-f4ba55602e17",
-    "upvotes": 14,
+    "upvotes": 15,
     "author": "Hell_World",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28065738"
   },
   {
     "title": "Golang Security Checker",
     "url": "https://github.com/securego/gosec",
-    "upvotes": 69,
+    "upvotes": 71,
     "author": "ngaut",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28069365"
   },
   {
-    "title": "Comma Three [video]",
-    "url": "https://www.youtube.com/watch?v=hbLiehrC2DQ",
-    "upvotes": 151,
-    "author": "hack_ml",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=28068063"
+    "title": "Ever wondered how much data web giants generate? Grab says 1.7MB/user/day",
+    "url": "https://www.theregister.com/2021/08/03/grab_q1_2021/",
+    "upvotes": 33,
+    "author": "pseudolus",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=28047618"
   },
   {
     "title": "Culture and Conduct Risk: The Normalization of Deviance",
     "url": "https://www.regulationasia.com/culture-conduct-risk-the-normalization-of-deviance/",
-    "upvotes": 57,
+    "upvotes": 59,
     "author": "kiyanwang",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=28033308"
+  },
+  {
+    "title": "Comma Three [video]",
+    "url": "https://www.youtube.com/watch?v=hbLiehrC2DQ",
+    "upvotes": 153,
+    "author": "hack_ml",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=28068063"
   },
   {
     "title": "Launch HN: Keyri (YC S21) – Secure smartphone-based passwordless authentication",
@@ -198,41 +222,17 @@
   {
     "title": "The historical accuracy of medieval city-builder video games",
     "url": "https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate",
-    "upvotes": 416,
+    "upvotes": 418,
     "author": "jsnell",
-    "comments": 211,
+    "comments": 214,
     "link": "https://news.ycombinator.com/item?id=28062677"
   },
   {
-    "title": "Microsoft Edge Experimenting with a Super Duper Secure Mode",
-    "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
-    "upvotes": 96,
-    "author": "todsacerdoti",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=28066037"
-  },
-  {
-    "title": "Spreadsheet formulas for personal finance",
-    "url": "https://bou.ke/blog/formulas/",
-    "upvotes": 527,
-    "author": "bouk",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=28037317"
-  },
-  {
-    "title": "Ever wondered how much data web giants generate? Grab says 1.7MB/user/day",
-    "url": "https://www.theregister.com/2021/08/03/grab_q1_2021/",
-    "upvotes": 30,
-    "author": "pseudolus",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=28047618"
-  },
-  {
-    "title": "Growing open source from Torch to PyTorch",
-    "url": "https://soumith.ch/posts/2021/02/growing-opensource/",
-    "upvotes": 72,
-    "author": "plinkplonk",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=28042126"
+    "title": "Tesla Owner Billed over $14,000 for Accidental Full Self-Driving Purchase",
+    "url": "https://www.thedrive.com/tech/41826/tesla-owner-billed-over-14000-for-accidental-full-self-driving-purchase",
+    "upvotes": 10,
+    "author": "jacquesm",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28071350"
   }
 ]
