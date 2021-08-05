@@ -2,102 +2,134 @@
   {
     "title": "Airyx OS",
     "url": "http://airyx.org/",
-    "upvotes": 319,
+    "upvotes": 346,
     "author": "todsacerdoti",
-    "comments": 109,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=28068542"
   },
   {
     "title": "System on SO-DIMM",
     "url": "https://twitter.com/Foone/status/1423078973064441858",
-    "upvotes": 15,
+    "upvotes": 25,
     "author": "_Microft",
-    "comments": 6,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28070619"
   },
   {
     "title": "Apple enabling client-side CSAM scanning on iPhone tomorrow",
     "url": "https://twitter.com/matthew_d_green/status/1423071186616000513",
-    "upvotes": 488,
+    "upvotes": 523,
     "author": "robbiet480",
-    "comments": 247,
+    "comments": 274,
     "link": "https://news.ycombinator.com/item?id=28068741"
   },
   {
     "title": "Global Sourcebook for International Data Management",
     "url": "http://www.grcdi.nl/gsb/global%20sourcebook.html",
-    "upvotes": 6,
+    "upvotes": 9,
     "author": "nederdirk",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28070794"
   },
   {
-    "title": "Good Design is Imperfect Design, Part 1: Honest Names",
-    "url": "https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-honest-names/",
-    "upvotes": 261,
-    "author": "dang",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=28063617"
+    "title": "Contemporary COBOL: Developers' Perspectives on Defects and Defect Location",
+    "url": "https://arxiv.org/abs/2105.01830",
+    "upvotes": 3,
+    "author": "Fragoel2",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28071096"
+  },
+  {
+    "title": "Google hits undo on Chrome browser alert change that broke websites, web apps",
+    "url": "https://www.theregister.com/2021/08/05/google_chrome_iframe/",
+    "upvotes": 16,
+    "author": "kiyanwang",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28071092"
   },
   {
     "title": "SQLite Is Dynamically Typed",
     "url": "https://blog.zachwf.com/posts/sqlite-is-dynamically-typed/",
-    "upvotes": 73,
+    "upvotes": 78,
     "author": "zachthewf",
-    "comments": 48,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=28050198"
-  },
-  {
-    "title": "Slitter: A slab allocator that trusts, but verifies",
-    "url": "https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/",
-    "upvotes": 68,
-    "author": "jsnell",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28068015"
   },
   {
     "title": "Lowkey",
     "url": "https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748"
   },
   {
-    "title": "Ultra fast Thunderbolt NAS with Apple M1 and Linux",
-    "url": "https://chrisbergeron.com/2021/07/25/Ultra-fast-Thunderbolt-NAS-with-Apple-M1-and-Linux/",
-    "upvotes": 202,
-    "author": "cyberge99",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=28048838"
+    "title": "Slitter: A slab allocator that trusts, but verifies",
+    "url": "https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/",
+    "upvotes": 71,
+    "author": "jsnell",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=28068015"
+  },
+  {
+    "title": "The slow collapse of Amazon’s drone delivery dream",
+    "url": "https://www.wired.co.uk/article/amazon-drone-delivery-prime-air",
+    "upvotes": 127,
+    "author": "TigeriusKirk",
+    "comments": 171,
+    "link": "https://news.ycombinator.com/item?id=28050538"
   },
   {
     "title": "An attempt at demystifying graph deep learning",
     "url": "https://ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/",
-    "upvotes": 46,
+    "upvotes": 50,
     "author": "jonathanbgn",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28045639"
   },
   {
-    "title": "The slow collapse of Amazon’s drone delivery dream",
-    "url": "https://www.wired.co.uk/article/amazon-drone-delivery-prime-air",
-    "upvotes": 122,
-    "author": "TigeriusKirk",
-    "comments": 168,
-    "link": "https://news.ycombinator.com/item?id=28050538"
+    "title": "A riddle wrapped in a curve",
+    "url": "https://blog.cryptographyengineering.com/2015/10/22/a-riddle-wrapped-in-curve/",
+    "upvotes": 21,
+    "author": "nuker",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28047716"
   },
   {
     "title": "Introduction to Convolutional Neural Networks",
     "url": "https://serokell.io/blog/introduction-to-convolutional-neural-networks",
-    "upvotes": 134,
+    "upvotes": 137,
     "author": "aroccoli",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=28048292"
   },
   {
+    "title": "Datafuse – Modern Real-Time Data Processing in Rust",
+    "url": "https://github.com/datafuselabs/datafuse/",
+    "upvotes": 16,
+    "author": "implfuture",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28069895"
+  },
+  {
     "title": "Facebook’s claims about the Ad Observer are wrong",
     "url": "https://blog.mozilla.org/en/mozilla/news/why-facebooks-claims-about-the-ad-observer-are-wrong/",
-    "upvotes": 203,
+    "upvotes": 207,
     "author": "rbanffy",
-    "comments": 79,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=28068359"
+  },
+  {
+    "title": "Ever wondered how much data web giants generate? Grab says 1.7MB/user/day",
+    "url": "https://www.theregister.com/2021/08/03/grab_q1_2021/",
+    "upvotes": 28,
+    "author": "pseudolus",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=28047618"
+  },
+  {
+    "title": "The world of cats: what our feline friends do when we’re not looking",
+    "url": "https://www.theguardian.com/lifeandstyle/2021/jul/22/hidden-world-cats-what-feline-friends-doing-when-were-not-looking",
+    "upvotes": 9,
+    "author": "dll",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28071005"
   },
   {
     "title": "Launch HN: Turion Space (YC S21) – Space debris removal and satellite servicing",
@@ -108,25 +140,33 @@
     "link": "https://news.ycombinator.com/item?id=28061725"
   },
   {
-    "title": "Golang Security Checker",
-    "url": "https://github.com/securego/gosec",
-    "upvotes": 61,
-    "author": "ngaut",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28069365"
-  },
-  {
     "title": "Mario Paint Masterpiece",
     "url": "https://www.charlieharrington.com/mario-paint-masterpiece",
-    "upvotes": 110,
+    "upvotes": 115,
     "author": "whatrocks",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=28065357"
+  },
+  {
+    "title": "Six hundred and forty pages in 15 months",
+    "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
+    "upvotes": 5,
+    "author": "agluszak",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28047615"
+  },
+  {
+    "title": "Golang Security Checker",
+    "url": "https://github.com/securego/gosec",
+    "upvotes": 66,
+    "author": "ngaut",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=28069365"
   },
   {
     "title": "Unleashing Radical Creativity",
     "url": "https://blog.x.company/tips-for-unleashing-radical-creativity-f4ba55602e17",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "Hell_World",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28065738"
@@ -134,34 +174,10 @@
   {
     "title": "Comma Three [video]",
     "url": "https://www.youtube.com/watch?v=hbLiehrC2DQ",
-    "upvotes": 143,
+    "upvotes": 144,
     "author": "hack_ml",
     "comments": 73,
     "link": "https://news.ycombinator.com/item?id=28068063"
-  },
-  {
-    "title": "Verilog2Factorio: Web Demo",
-    "url": "https://redcrafter.github.io/verilog2factorio/",
-    "upvotes": 116,
-    "author": "linux_is_nice",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=28063764"
-  },
-  {
-    "title": "Ever wondered how much data web giants generate? Grab says 1.7MB/user/day",
-    "url": "https://www.theregister.com/2021/08/03/grab_q1_2021/",
-    "upvotes": 21,
-    "author": "pseudolus",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28047618"
-  },
-  {
-    "title": "Datafuse – Modern Real-Time Data Processing in Rust",
-    "url": "https://github.com/datafuselabs/datafuse/",
-    "upvotes": 6,
-    "author": "implfuture",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28069895"
   },
   {
     "title": "Culture and Conduct Risk: The Normalization of Deviance",
@@ -182,7 +198,7 @@
   {
     "title": "The historical accuracy of medieval city-builder video games",
     "url": "https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate",
-    "upvotes": 405,
+    "upvotes": 408,
     "author": "jsnell",
     "comments": 208,
     "link": "https://news.ycombinator.com/item?id=28062677"
@@ -190,15 +206,15 @@
   {
     "title": "Microsoft Edge Experimenting with a Super Duper Secure Mode",
     "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
-    "upvotes": 85,
+    "upvotes": 90,
     "author": "todsacerdoti",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28066037"
   },
   {
     "title": "Spreadsheet formulas for personal finance",
     "url": "https://bou.ke/blog/formulas/",
-    "upvotes": 515,
+    "upvotes": 520,
     "author": "bouk",
     "comments": 102,
     "link": "https://news.ycombinator.com/item?id=28037317"
@@ -206,7 +222,7 @@
   {
     "title": "Ray Tracing Gems II available as free download",
     "url": "https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/",
-    "upvotes": 191,
+    "upvotes": 193,
     "author": "dagmx",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=28064615"
@@ -214,25 +230,9 @@
   {
     "title": "Growing open source from Torch to PyTorch",
     "url": "https://soumith.ch/posts/2021/02/growing-opensource/",
-    "upvotes": 67,
+    "upvotes": 70,
     "author": "plinkplonk",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=28042126"
-  },
-  {
-    "title": "Show HN: Hookdeck – An infrastructure to consume webhooks",
-    "url": "https://hookdeck.com?ref=hn",
-    "upvotes": 113,
-    "author": "alexbouchard",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=28063597"
-  },
-  {
-    "title": "The world of cats: what our feline friends do when we’re not looking",
-    "url": "https://www.theguardian.com/lifeandstyle/2021/jul/22/hidden-world-cats-what-feline-friends-doing-when-were-not-looking",
-    "upvotes": 3,
-    "author": "dll",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28071005"
   }
 ]
