@@ -2,39 +2,47 @@
   {
     "title": "On Apple's “Expanded Protections for Children” - A Personal Story",
     "url": "https://areoform.wordpress.com/2021/08/06/on-apples-expanded-protections-for-children/",
-    "upvotes": 365,
+    "upvotes": 404,
     "author": "areoform",
-    "comments": 217,
+    "comments": 242,
     "link": "https://news.ycombinator.com/item?id=28084220"
   },
   {
     "title": "Driving engineers to an arbitrary date is a value destroying mistake",
     "url": "https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49",
-    "upvotes": 59,
+    "upvotes": 62,
     "author": "vimes656",
-    "comments": 25,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=28084307"
-  },
-  {
-    "title": "Postgres.app",
-    "url": "https://postgresapp.com/",
-    "upvotes": 76,
-    "author": "simonebrunozzi",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=28084271"
   },
   {
     "title": "Give to Thunderbird",
     "url": "https://give.thunderbird.net",
-    "upvotes": 10,
+    "upvotes": 30,
     "author": "MzHN",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28084907"
+  },
+  {
+    "title": "Postgres.app",
+    "url": "https://postgresapp.com/",
+    "upvotes": 83,
+    "author": "simonebrunozzi",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=28084271"
+  },
+  {
+    "title": "The Design of the NetBSD I/O Subsystems",
+    "url": "https://arxiv.org/abs/1605.05810",
+    "upvotes": 9,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28084847"
   },
   {
     "title": "LÖVR – An open source framework for rapidly building immersive 3D experiences",
     "url": "https://lovr.org",
-    "upvotes": 246,
+    "upvotes": 250,
     "author": "wsc981",
     "comments": 88,
     "link": "https://news.ycombinator.com/item?id=28081656"
@@ -42,34 +50,18 @@
   {
     "title": "Scientist says cleaning indoor air could make us healthier and smarter",
     "url": "https://www.sciencemag.org/news/2021/08/scientist-says-cleaning-indoor-air-could-make-us-healthier-and-smarter",
-    "upvotes": 337,
+    "upvotes": 340,
     "author": "sohkamyung",
-    "comments": 290,
+    "comments": 296,
     "link": "https://news.ycombinator.com/item?id=28082348"
   },
   {
     "title": "Apple's plan to “think different” about encryption opens a backdoor to your life",
     "url": "https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life",
-    "upvotes": 1838,
+    "upvotes": 1865,
     "author": "bbatsell",
-    "comments": 705,
+    "comments": 708,
     "link": "https://news.ycombinator.com/item?id=28079171"
-  },
-  {
-    "title": "Infra-as-Code is cloud lock-in",
-    "url": "https://flicksfix.com/posts/infra-as-a-code-is-cloud-lock-in/",
-    "upvotes": 6,
-    "author": "margor",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28064820"
-  },
-  {
-    "title": "The Design of the NetBSD I/O Subsystems",
-    "url": "https://arxiv.org/abs/1605.05810",
-    "upvotes": 5,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28084847"
   },
   {
     "title": "Letter from Acting Director of the Bureau of Consumer Protection to Facebook",
@@ -82,115 +74,115 @@
   {
     "title": "HTTP/2: The Sequel is Always Worse",
     "url": "https://portswigger.net/research/http2",
-    "upvotes": 282,
+    "upvotes": 291,
     "author": "Berg0X00",
-    "comments": 85,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=28080097"
+  },
+  {
+    "title": "SAML Is Insecure by Design",
+    "url": "https://joonas.fi/2021/08/saml-is-insecure-by-design/",
+    "upvotes": 253,
+    "author": "aj3",
+    "comments": 147,
+    "link": "https://news.ycombinator.com/item?id=28064835"
+  },
+  {
+    "title": "Show HN: Visualizer for High Level System Design",
+    "url": "https://honzaap.github.io/Systemizer",
+    "upvotes": 23,
+    "author": "honzaaap",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28084104"
   },
   {
     "title": "Raycast",
     "url": "https://raycast.com/jobs"
   },
   {
-    "title": "SAML Is Insecure by Design",
-    "url": "https://joonas.fi/2021/08/saml-is-insecure-by-design/",
-    "upvotes": 251,
-    "author": "aj3",
-    "comments": 144,
-    "link": "https://news.ycombinator.com/item?id=28064835"
-  },
-  {
-    "title": "Show HN: Visualizer for High Level System Design",
-    "url": "https://honzaap.github.io/Systemizer",
-    "upvotes": 19,
-    "author": "honzaaap",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28084104"
+    "title": "Micro-models: purposefully overfit models that are good at one specific thing",
+    "url": "https://eric-landau.medium.com/introduction-to-micro-models-or-how-i-learned-to-stop-worrying-and-love-overfitting-fd8fbe98e99b",
+    "upvotes": 50,
+    "author": "ulrikhansen54",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=28073293"
   },
   {
     "title": "What makes an interview podcast good or great?",
     "url": "https://marginalrevolution.com/marginalrevolution/2021/08/what-makes-a-podcast-good-or-great.html",
-    "upvotes": 16,
+    "upvotes": 17,
     "author": "jger15",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=28059889"
   },
   {
-    "title": "Micro-models: purposefully overfit models that are good at one specific thing",
-    "url": "https://eric-landau.medium.com/introduction-to-micro-models-or-how-i-learned-to-stop-worrying-and-love-overfitting-fd8fbe98e99b",
-    "upvotes": 48,
-    "author": "ulrikhansen54",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=28073293"
+    "title": "Force Click for Layer Selection",
+    "url": "https://maxwellforbes.com/posts/force-click-for-layer-selection",
+    "upvotes": 8,
+    "author": "mbforbes",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28067207"
   },
   {
     "title": "Fornicating Under Consent of King",
     "url": "https://literaryreview.co.uk/fornicating-under-consent-of-king",
     "upvotes": 67,
     "author": "pepys",
-    "comments": 43,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=28053862"
   },
   {
     "title": "U.S. FTC says Facebook misused privacy decree to shut down ad research",
     "url": "https://www.reuters.com/article/us-tech-facebook-ftc/u-s-ftc-says-facebook-misused-privacy-decree-to-shut-down-ad-research-idUSKBN2F702X",
-    "upvotes": 335,
+    "upvotes": 339,
     "author": "ceejayoz",
     "comments": 67,
     "link": "https://news.ycombinator.com/item?id=28082371"
   },
   {
-    "title": "Force Click for Layer Selection",
-    "url": "https://maxwellforbes.com/posts/force-click-for-layer-selection",
-    "upvotes": 7,
-    "author": "mbforbes",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28067207"
+    "title": "Reverse Engineering the M1 [pdf]",
+    "url": "https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf",
+    "upvotes": 189,
+    "author": "todsacerdoti",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=28079038"
   },
   {
     "title": "Lead Poisoning and Rome",
     "url": "http://penelope.uchicago.edu/~grout/encyclopaedia_romana/wine/leadpoisoning.html",
-    "upvotes": 43,
+    "upvotes": 44,
     "author": "edmundo",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28070631"
   },
   {
-    "title": "Reverse Engineering the M1 [pdf]",
-    "url": "https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf",
-    "upvotes": 188,
-    "author": "todsacerdoti",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=28079038"
-  },
-  {
     "title": "Stanford AIMI releases free open-source repository of medical datasets",
     "url": "https://hai.stanford.edu/news/open-source-movement-comes-medical-datasets",
-    "upvotes": 73,
+    "upvotes": 74,
     "author": "panabee",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=28081222"
   },
   {
     "title": "Open Question: How Can We Fix Files?",
     "url": "https://www.schroer.ca/2021/08/05/file-browsers/",
-    "upvotes": 23,
+    "upvotes": 25,
     "author": "dschroer",
-    "comments": 34,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=28076524"
   },
   {
     "title": "Haskell for the Elm Enthusiast",
     "url": "https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast",
-    "upvotes": 75,
+    "upvotes": 77,
     "author": "msszczep2",
-    "comments": 25,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=28081960"
   },
   {
     "title": "Launch YC S21: Meet the Batch, Thread #4",
     "url": "item?id=28073548",
-    "upvotes": 111,
+    "upvotes": 112,
     "author": "dang",
     "comments": 133,
     "link": "https://news.ycombinator.com/item?id=28073548"
@@ -198,10 +190,18 @@
   {
     "title": "The Surprising Benefits of Talking to Strangers",
     "url": "https://www.theatlantic.com/family/archive/2021/08/why-we-should-talk-strangers-more/619642/",
-    "upvotes": 27,
+    "upvotes": 30,
     "author": "NotSwift",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28084472"
+  },
+  {
+    "title": "Mozilla Common Voice Adds 16 New Languages and 4,600 New Hours of Speech",
+    "url": "https://foundation.mozilla.org/en/blog/mozilla-common-voice-adds-16-new-languages-and-4600-new-hours-of-speech/",
+    "upvotes": 654,
+    "author": "heyhillary",
+    "comments": 151,
+    "link": "https://news.ycombinator.com/item?id=28073016"
   },
   {
     "title": "NIST’s Quantum Crystal Could Be a New Dark Matter Sensor",
@@ -212,27 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=28080725"
   },
   {
-    "title": "Mozilla Common Voice Adds 16 New Languages and 4,600 New Hours of Speech",
-    "url": "https://foundation.mozilla.org/en/blog/mozilla-common-voice-adds-16-new-languages-and-4600-new-hours-of-speech/",
-    "upvotes": 651,
-    "author": "heyhillary",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=28073016"
-  },
-  {
     "title": "Apophenia: How the Internet Transforms the Individual into a Conspiracy of One",
     "url": "https://edwardsnowden.substack.com/p/conspiracy-pt2",
-    "upvotes": 129,
+    "upvotes": 132,
     "author": "mcone",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=28079335"
   },
   {
-    "title": "What do many terrorists have in common? They abuse women",
-    "url": "https://www.theguardian.com/commentisfree/2021/aug/05/many-terrorists-abuse-women-research-extremist-attackers-violent-misogyny",
-    "upvotes": 5,
-    "author": "olvy0",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28085079"
+    "title": "Object Wake-Up: 3-D Object Reconstruction, Animation from a Single Image",
+    "url": "https://arxiv.org/abs/2108.02708",
+    "upvotes": 29,
+    "author": "lnyan",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28082522"
+  },
+  {
+    "title": "17th-century botanists filled their gardens with plants from around the world",
+    "url": "https://www.laphamsquarterly.org/roundtable/contribute-either-usefulness-or-delight",
+    "upvotes": 51,
+    "author": "benbreen",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=28057518"
   }
 ]
