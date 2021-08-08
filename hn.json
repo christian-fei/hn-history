@@ -2,7 +2,7 @@
   {
     "title": "The PDP-11 Basic Analysis Project",
     "url": "https://www.learningpdp11.com/pdp-11-basic-analysis",
-    "upvotes": 27,
+    "upvotes": 33,
     "author": "elvis70",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28105982"
@@ -10,75 +10,75 @@
   {
     "title": "Why I Wrote PGP",
     "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
-    "upvotes": 313,
+    "upvotes": 320,
     "author": "pdkl95",
-    "comments": 105,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=28103734"
-  },
-  {
-    "title": "Once an Addict, Always an Addict?",
-    "url": "https://www.deprocrastination.co/blog/once-an-addict-always-an-addict",
-    "upvotes": 66,
-    "author": "vitabenes",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=28105110"
   },
   {
     "title": "Space Station incident demands independent investigation",
     "url": "https://spectrum.ieee.org/space-station-accident-needs-independant-investigation",
-    "upvotes": 265,
+    "upvotes": 273,
     "author": "multivac42",
-    "comments": 86,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=28103731"
+  },
+  {
+    "title": "Major U.K. science funder to require grantees to make papers immediately free",
+    "url": "https://www.sciencemag.org/news/2021/08/major-uk-science-funder-require-grantees-make-papers-immediately-free-all",
+    "upvotes": 15,
+    "author": "cyrksoft",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28105966"
   },
   {
     "title": "A street snack that has baffled botanists",
     "url": "https://www.atlasobscura.com/articles/indian-street-snack-root",
-    "upvotes": 354,
+    "upvotes": 360,
     "author": "periya",
     "comments": 134,
     "link": "https://news.ycombinator.com/item?id=28103531"
   },
   {
-    "title": "Tokyo’s 7-Elevens and convenience stores",
-    "url": "https://www.latimes.com/sports/olympics/story/2021-08-07/7-elevens-convenience-stores-tokyo-japan-olympics",
-    "upvotes": 64,
-    "author": "thunderbong",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=28105094"
+    "title": "The Babylonians used Pythagorean ideas long before Pythagoras",
+    "url": "https://www.economist.com/science-and-technology/the-babylonians-used-pythagorean-ideas-long-before-pythagoras/21803301",
+    "upvotes": 23,
+    "author": "helsinkiandrew",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28097134"
   },
   {
     "title": "Bringing NetBSD to Zig's Continuous Integration",
     "url": "https://wf.lavatech.top/lun-4/bringing-netbsd-to-zigs-continuous-integration",
     "upvotes": 81,
     "author": "jayp1418",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28104807"
+  },
+  {
+    "title": "MusicXML and Percussion Notation",
+    "url": "https://v5.chriskrycho.com/journal/musicxml-and-percussion-redux/",
+    "upvotes": 3,
+    "author": "pcr910303",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28106459"
   },
   {
     "title": "Tesorio",
     "url": "https://www.tesorio.com/careers#job-openings"
   },
   {
-    "title": "Tesseract.js – Pure JavaScript OCR for 100 Languages",
+    "title": "Tesseract.js – A Javascript port of the Tesseract OCR engine",
     "url": "https://tesseract.projectnaptha.com/",
-    "upvotes": 24,
+    "upvotes": 26,
     "author": "kiyanwang",
-    "comments": 6,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28105850"
-  },
-  {
-    "title": "The Babylonians used Pythagorean ideas long before Pythagoras",
-    "url": "https://www.economist.com/science-and-technology/the-babylonians-used-pythagorean-ideas-long-before-pythagoras/21803301",
-    "upvotes": 19,
-    "author": "helsinkiandrew",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28097134"
   },
   {
     "title": "Increase HTTP performance by fitting in the initial TCP slow start window",
     "url": "https://sirupsen.com/napkin/problem-15/",
-    "upvotes": 53,
+    "upvotes": 55,
     "author": "mstats",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28104644"
@@ -86,50 +86,90 @@
   {
     "title": "; Echo “Shell Injection”",
     "url": "https://matklad.github.io//2021/07/30/shell-injection.html",
-    "upvotes": 47,
+    "upvotes": 53,
     "author": "martin-t",
-    "comments": 21,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=28105100"
-  },
-  {
-    "title": "Ask HN: Is domain squatting still profitable? Is there a solution?",
-    "url": "item?id=28106113",
-    "upvotes": 14,
-    "author": "9387367",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=28106113"
   },
   {
     "title": "1password is considering a self-hosted option to store vaults",
     "url": "https://1password.community/discussion/115018/support-for-local-vaults/p3",
-    "upvotes": 87,
+    "upvotes": 96,
     "author": "NmAmDa",
-    "comments": 38,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=28104134"
+  },
+  {
+    "title": "Ask HN: Is domain squatting still profitable? Is there a solution?",
+    "url": "item?id=28106113",
+    "upvotes": 23,
+    "author": "9387367",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28106113"
+  },
+  {
+    "title": "Does Oil Come from Dinosaurs?",
+    "url": "https://www.powells.com/post/original-essays/does-oil-come-from-dinosaurs",
+    "upvotes": 53,
+    "author": "azizsaya",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=28105070"
+  },
+  {
+    "title": "Once an Addict, Always an Addict?",
+    "url": "https://www.deprocrastination.co/blog/once-an-addict-always-an-addict",
+    "upvotes": 74,
+    "author": "vitabenes",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=28105110"
+  },
+  {
+    "title": "Google “contemplated buying some or all of Epic” to stop “contagion”",
+    "url": "https://www.rockpapershotgun.com/google-contemplated-buying-some-or-all-of-epic-to-stop-contagion-court-documents-say",
+    "upvotes": 119,
+    "author": "haunter",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=28105111"
   },
   {
     "title": "Why Don’t Green Buildings Live Up to Hype on Energy Efficiency?",
     "url": "https://e360.yale.edu/features/why-dont-green-buildings-live-up-to-hype-on-energy-efficiency",
     "upvotes": 38,
     "author": "_Microft",
-    "comments": 26,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=28104971"
   },
   {
-    "title": "Google “contemplated buying some or all of Epic” to stop “contagion”",
-    "url": "https://www.rockpapershotgun.com/google-contemplated-buying-some-or-all-of-epic-to-stop-contagion-court-documents-say",
-    "upvotes": 112,
-    "author": "haunter",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=28105111"
+    "title": "Metal artifacts in Southeast Asia challenge long-held archaeological theory",
+    "url": "https://penntoday.upenn.edu/news/Penn-Museum-metal-artifacts-Thailand-challenge-archaeological-theory",
+    "upvotes": 15,
+    "author": "Vigier",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28096665"
   },
   {
-    "title": "Does Oil Come from Dinosaurs?",
-    "url": "https://www.powells.com/post/original-essays/does-oil-come-from-dinosaurs",
-    "upvotes": 52,
-    "author": "azizsaya",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=28105070"
+    "title": "Tokyo’s 7-Elevens and convenience stores",
+    "url": "https://www.latimes.com/sports/olympics/story/2021-08-07/7-elevens-convenience-stores-tokyo-japan-olympics",
+    "upvotes": 67,
+    "author": "thunderbong",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=28105094"
+  },
+  {
+    "title": "Testing in production: using JSON Schema for 3rd party API response validation",
+    "url": "https://kristiandupont.medium.com/testing-3rd-party-api-access-b2808494ccd",
+    "upvotes": 38,
+    "author": "kristiandupont",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=28104901"
+  },
+  {
+    "title": "The Apple Psi System [pdf]",
+    "url": "https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf",
+    "upvotes": 143,
+    "author": "lavp",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=28097683"
   },
   {
     "title": "Scylla's Approach to Improve Performance for CPU-Bound Workloads",
@@ -140,41 +180,25 @@
     "link": "https://news.ycombinator.com/item?id=28096720"
   },
   {
-    "title": "The Apple Psi System [pdf]",
-    "url": "https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf",
-    "upvotes": 139,
-    "author": "lavp",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=28097683"
+    "title": "The Economics of OnlyFans: Most accounts make less than $145/mo",
+    "url": "https://xsrus.com/the-economics-of-onlyfans",
+    "upvotes": 85,
+    "author": "amin",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=28105011"
   },
   {
     "title": "SpaceX is buying communications smallsat operator Swarm Technologies",
     "url": "https://fcc.report/IBFS/SAT-T-C-20210806-00096",
     "upvotes": 64,
     "author": "caiobegotti",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=28103863"
-  },
-  {
-    "title": "Testing in production: using JSON Schema for 3rd party API response validation",
-    "url": "https://kristiandupont.medium.com/testing-3rd-party-api-access-b2808494ccd",
-    "upvotes": 37,
-    "author": "kristiandupont",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=28104901"
-  },
-  {
-    "title": "The Economics of OnlyFans: Most accounts make less than $145/mo",
-    "url": "https://xsrus.com/the-economics-of-onlyfans",
-    "upvotes": 82,
-    "author": "amin",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=28105011"
   },
   {
     "title": "Unlocking PinkRabbit: Using 90s Email Software in 2021",
     "url": "https://jessicastokes.net/blog/2021/06/10/unlocking-pinkrabbit/",
-    "upvotes": 38,
+    "upvotes": 40,
     "author": "polm23",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28104590"
@@ -188,51 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=28092258"
   },
   {
-    "title": "Metal artifacts in Southeast Asia challenge long-held archaeological theory",
-    "url": "https://penntoday.upenn.edu/news/Penn-Museum-metal-artifacts-Thailand-challenge-archaeological-theory",
-    "upvotes": 13,
-    "author": "Vigier",
+    "title": "Processing Semi-Structured Data in the Unix Shell",
+    "url": "http://www.weaselhat.com/2021/06/29/processing-semi-structured-data-in-the-unix-shell/",
+    "upvotes": 4,
+    "author": "lordylord",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28096665"
+    "link": "https://news.ycombinator.com/item?id=28104657"
   },
   {
     "title": "Live the Dream, Make the Change, Move to Pitcairn Island",
     "url": "http://www.immigration.gov.pn/immigrate/index.html",
     "upvotes": 93,
     "author": "jnord",
-    "comments": 84,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=28102843"
   },
   {
     "title": "Apple's New CSAM Protections May Make iCloud Photos Bruteforceable",
     "url": "https://crypto.stackexchange.com/questions/93423/how-unique-is-a-neuralhash",
-    "upvotes": 189,
+    "upvotes": 191,
     "author": "NTroy",
-    "comments": 50,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=28104024"
-  },
-  {
-    "title": "Working with Postgres Types",
-    "url": "https://blog.jonudell.net/2021/07/27/working-with-postgres-types/",
-    "upvotes": 51,
-    "author": "alainchabat",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28095264"
-  },
-  {
-    "title": "Making Reasonable Use of Computer Resources",
-    "url": "https://vfoley.xyz/reasonable-use/",
-    "upvotes": 72,
-    "author": "Hell_World",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=28097199"
-  },
-  {
-    "title": "Captcha pictures force you to look at the world the way an AI does",
-    "url": "https://clivethompson.medium.com/why-captcha-pictures-are-so-unbearably-depressing-20679b8cf84a",
-    "upvotes": 370,
-    "author": "_Microft",
-    "comments": 328,
-    "link": "https://news.ycombinator.com/item?id=28101336"
   }
 ]
