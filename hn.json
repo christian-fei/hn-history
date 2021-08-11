@@ -2,39 +2,47 @@
   {
     "title": "TikTok overtakes Facebook as most downloaded app",
     "url": "https://asia.nikkei.com/Business/Technology/TikTok-overtakes-Facebook-as-world-s-most-downloaded-app",
-    "upvotes": 650,
+    "upvotes": 673,
     "author": "em500",
-    "comments": 421,
+    "comments": 430,
     "link": "https://news.ycombinator.com/item?id=28133017"
   },
   {
     "title": "Culdesac Tempe: The first car-free neighborhood built from scratch in the US",
     "url": "https://culdesac.com/",
-    "upvotes": 383,
+    "upvotes": 399,
     "author": "foofoo4u",
-    "comments": 235,
+    "comments": 250,
     "link": "https://news.ycombinator.com/item?id=28133585"
-  },
-  {
-    "title": "Please Log in with Router's Password",
-    "url": "https://www.google.com/search?q=%22Please+log+in+with+router%27s+password%22",
-    "upvotes": 360,
-    "author": "fny",
-    "comments": 181,
-    "link": "https://news.ycombinator.com/item?id=28134176"
   },
   {
     "title": "The emergence of heat and humidity too severe for human tolerance",
     "url": "https://advances.sciencemag.org/content/6/19/eaaw1838",
-    "upvotes": 35,
+    "upvotes": 65,
     "author": "boplicity",
-    "comments": 28,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=28136793"
+  },
+  {
+    "title": "Please Log in with Router's Password",
+    "url": "https://www.google.com/search?q=%22Please+log+in+with+router%27s+password%22",
+    "upvotes": 370,
+    "author": "fny",
+    "comments": 183,
+    "link": "https://news.ycombinator.com/item?id=28134176"
+  },
+  {
+    "title": "U.S. prisons mull AI to analyze inmate phone calls",
+    "url": "https://www.reuters.com/article/us-usa-tech-prison-idUSKBN2FA0OO",
+    "upvotes": 18,
+    "author": "jdmark",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=28137212"
   },
   {
     "title": "FairyTailor: A Multimodal Generative Framework for Storytelling",
     "url": "https://github.com/EdenBD/MultiModalStory-demo",
-    "upvotes": 16,
+    "upvotes": 18,
     "author": "lnyan",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=28137211"
@@ -42,41 +50,41 @@
   {
     "title": "Summary of the semantics of inline in C and C++",
     "url": "https://lists.llvm.org/pipermail/llvm-dev/2021-August/152031.html",
-    "upvotes": 61,
+    "upvotes": 65,
     "author": "ingve",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=28126826"
+  },
+  {
+    "title": "DevOps, SRE, and Platform Engineering",
+    "url": "https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/",
+    "upvotes": 6,
+    "author": "limonod",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28137852"
   },
   {
     "title": "Unity to acquire Parsec for $320M",
     "url": "https://investors.unity.com/news/news-details/2021/Unity-Enters-Into-Agreement-to-Acquire-Parsec/default.aspx",
-    "upvotes": 139,
+    "upvotes": 142,
     "author": "charlietran",
-    "comments": 55,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=28134653"
-  },
-  {
-    "title": "U.S. prisons mull AI to analyze inmate phone calls",
-    "url": "https://www.reuters.com/article/us-usa-tech-prison-idUSKBN2FA0OO",
-    "upvotes": 14,
-    "author": "jdmark",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=28137212"
   },
   {
     "title": "Build you own SGI Indy workstation with mame",
     "url": "https://sgi.neocities.org/",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "marcodiego",
-    "comments": null,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28127607"
   },
   {
     "title": "JPL's Plan for the Next Mars Helicopter",
     "url": "https://spectrum.ieee.org/the-next-mars-helicopter",
-    "upvotes": 146,
+    "upvotes": 147,
     "author": "samizdis",
-    "comments": 80,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=28132330"
   },
   {
@@ -90,65 +98,73 @@
   {
     "title": "Crows have been shown to understand the concept of zero",
     "url": "https://www.quantamagazine.org/animals-can-count-and-use-zero-how-far-does-their-number-sense-go-20210809/",
-    "upvotes": 204,
+    "upvotes": 208,
     "author": "digital55",
     "comments": 136,
     "link": "https://news.ycombinator.com/item?id=28129906"
   },
   {
-    "title": "OpenAI Codex",
-    "url": "https://openai.com/blog/openai-codex/",
-    "upvotes": 289,
-    "author": "e0m",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=28131745"
-  },
-  {
-    "title": "Essence – An Operating System",
-    "url": "https://gitlab.com/nakst/essence",
-    "upvotes": 76,
-    "author": "nonbirithm",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=28123530"
+    "title": "Bloom Filters – Much, much more than a space efficient hashmap",
+    "url": "https://boyter.org/posts/bloom-filter/",
+    "upvotes": 10,
+    "author": "boyter",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28113100"
   },
   {
     "title": "Apple call center workers fear AI-powered surveillance cameras in their homes",
     "url": "https://9to5mac.com/2021/08/09/apple-call-center-workers-surveillance/",
-    "upvotes": 83,
+    "upvotes": 95,
     "author": "heshiebee",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=28136599"
-  },
-  {
-    "title": "Memory Bandwidth",
-    "url": "https://fgiesen.wordpress.com/2017/04/11/memory-bandwidth/",
-    "upvotes": 78,
-    "author": "luu",
     "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=28124183"
+    "link": "https://news.ycombinator.com/item?id=28136599"
   },
   {
     "title": "Firefox 91 introduces enhanced cookie clearing",
     "url": "https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-enhanced-cookie-clearing/",
-    "upvotes": 633,
+    "upvotes": 637,
     "author": "arthuredelstein",
     "comments": 193,
     "link": "https://news.ycombinator.com/item?id=28129032"
   },
   {
-    "title": "Bloom Filters – Much, much more than a space efficient hashmap",
-    "url": "https://boyter.org/posts/bloom-filter/",
-    "upvotes": 6,
-    "author": "boyter",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28113100"
+    "title": "Memory Bandwidth",
+    "url": "https://fgiesen.wordpress.com/2017/04/11/memory-bandwidth/",
+    "upvotes": 82,
+    "author": "luu",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=28124183"
+  },
+  {
+    "title": "Essence – An Operating System",
+    "url": "https://gitlab.com/nakst/essence",
+    "upvotes": 80,
+    "author": "nonbirithm",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=28123530"
+  },
+  {
+    "title": "OpenAI Codex",
+    "url": "https://openai.com/blog/openai-codex/",
+    "upvotes": 292,
+    "author": "e0m",
+    "comments": 155,
+    "link": "https://news.ycombinator.com/item?id=28131745"
+  },
+  {
+    "title": "MinIO: A Bare Metal Drop-In for AWS S3",
+    "url": "https://tech.marksblogg.com/minio-aws-s3-hdfs.html",
+    "upvotes": 235,
+    "author": "todsacerdoti",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=28128476"
   },
   {
     "title": "Show HN: YouTube Musical Spectrum – visualizer for YouTube with musical notes",
     "url": "https://github.com/mfcc64/youtube-musical-spectrum",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "mfcc64",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28135562"
   },
   {
@@ -156,83 +172,67 @@
     "url": "https://useavenue.notion.site/Software-Engineer-Avenue-d68ff1ec6b064380b3afa85d5d1b3276"
   },
   {
-    "title": "MinIO: A Bare Metal Drop-In for AWS S3",
-    "url": "https://tech.marksblogg.com/minio-aws-s3-hdfs.html",
-    "upvotes": 231,
-    "author": "todsacerdoti",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=28128476"
+    "title": "Am I stuck in a local maximum?",
+    "url": "https://blog.ploeh.dk/2021/08/09/am-i-stuck-in-a-local-maximum/",
+    "upvotes": 3,
+    "author": "dustinmoris",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28114626"
   },
   {
-    "title": "Siberia’s wildfires are bigger than all the world’s other blazes combined",
-    "url": "https://www.washingtonpost.com/world/2021/08/11/siberia-fires-russia-climate/",
-    "upvotes": 112,
-    "author": "belter",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=28135792"
+    "title": "Does this medieval fresco show a hallucinogenic mushroom in the Garden of Eden?",
+    "url": "https://www.atlasobscura.com/articles/muscaria-hallucinogenic-mushroom-fresco",
+    "upvotes": 92,
+    "author": "prismatic",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=28113127"
   },
   {
     "title": "Giuseppe 'Bepi' Colombo: Grandfather of the orbital fly-by",
     "url": "https://www.esa.int/About_Us/ESA_history/Giuseppe_Bepi_Colombo_Grandfather_of_the_fly-by",
-    "upvotes": 41,
+    "upvotes": 42,
     "author": "simonebrunozzi",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28134593"
   },
   {
-    "title": "California Megafires Are Solvable",
-    "url": "https://gabekleinman.medium.com/california-megafires-are-solvable-b3e01af873dd",
-    "upvotes": 100,
-    "author": "panic",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=28136391"
-  },
-  {
-    "title": "Detecting a permgen memory leak in a Java application",
-    "url": "https://smalldata.tech/blog/2015/09/29/detecting-java-permgen-memory-leak",
-    "upvotes": 12,
-    "author": "wheresvic1",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28122375"
-  },
-  {
-    "title": "Sony's new curved image sensors could shake up the whole camera industry",
-    "url": "https://www.digitalcameraworld.com/news/sonys-new-curved-image-sensors-could-shake-up-the-whole-camera-industry",
-    "upvotes": 5,
-    "author": "hhs",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28137361"
-  },
-  {
-    "title": "Does this medieval fresco show a hallucinogenic mushroom in the Garden of Eden?",
-    "url": "https://www.atlasobscura.com/articles/muscaria-hallucinogenic-mushroom-fresco",
-    "upvotes": 90,
-    "author": "prismatic",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=28113127"
+    "title": "Siberia’s wildfires are bigger than all the world’s other blazes combined",
+    "url": "https://www.washingtonpost.com/world/2021/08/11/siberia-fires-russia-climate/",
+    "upvotes": 118,
+    "author": "belter",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=28135792"
   },
   {
     "title": "Elementary OS 6 Odin",
     "url": "https://blog.elementary.io/elementary-os-6-odin-released/",
-    "upvotes": 481,
+    "upvotes": 485,
     "author": "jdhawk",
-    "comments": 269,
+    "comments": 271,
     "link": "https://news.ycombinator.com/item?id=28130560"
-  },
-  {
-    "title": "$600M taken in largest DeFi hack to date",
-    "url": "https://blockworks.co/hackers-steal-over-600m-biggest-in-defi-history/",
-    "upvotes": 277,
-    "author": "carlgreene",
-    "comments": 293,
-    "link": "https://news.ycombinator.com/item?id=28131737"
   },
   {
     "title": "Newly designed 'smart' insulin could improve type 1 diabetes treatment",
     "url": "https://www.sciencealert.com/a-new-kind-of-smart-insulin-could-help-diabetics-avoid-the-risks-of-low-blood-sugar-levels",
-    "upvotes": 106,
+    "upvotes": 109,
     "author": "lnyan",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=28115734"
+  },
+  {
+    "title": "The Usefulness of Useless Knowledge",
+    "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+    "upvotes": 69,
+    "author": "activatedgeek",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=28121309"
+  },
+  {
+    "title": "$600M taken in largest DeFi hack to date",
+    "url": "https://blockworks.co/hackers-steal-over-600m-biggest-in-defi-history/",
+    "upvotes": 280,
+    "author": "carlgreene",
+    "comments": 298,
+    "link": "https://news.ycombinator.com/item?id=28131737"
   }
 ]
