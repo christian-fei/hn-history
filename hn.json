@@ -1,58 +1,66 @@
 [
   {
+    "title": "AMD's Secure Processor",
+    "url": "https://arxiv.org/abs/2108.04575",
+    "upvotes": 22,
+    "author": "sevest",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28153523"
+  },
+  {
     "title": "For programmers, remote working is becoming the norm",
     "url": "https://www.economist.com/graphic-detail/2021/08/11/for-programmers-remote-working-is-becoming-the-norm",
-    "upvotes": 180,
+    "upvotes": 215,
     "author": "helsinkiandrew",
-    "comments": 176,
+    "comments": 211,
     "link": "https://news.ycombinator.com/item?id=28152174"
   },
   {
     "title": "Mosh: The Mobile Shell",
     "url": "https://mosh.org",
-    "upvotes": 256,
+    "upvotes": 263,
     "author": "chrisaycock",
-    "comments": 88,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=28150287"
   },
   {
     "title": "Open-source Dropbox client, with multi-account, no-device-limit and M1 support",
     "url": "https://github.com/SamSchott/maestral",
-    "upvotes": 257,
+    "upvotes": 265,
     "author": "daniel_iversen",
-    "comments": 104,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=28149778"
   },
   {
     "title": "Thunderbird 91.0",
     "url": "https://www.thunderbird.net/en-US/thunderbird/91.0/releasenotes/",
-    "upvotes": 151,
+    "upvotes": 161,
     "author": "commoner",
-    "comments": 47,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=28151942"
+  },
+  {
+    "title": "Climate change: Curbing methane emissions will 'buy us time'",
+    "url": "https://www.bbc.co.uk/news/science-environment-58174111",
+    "upvotes": 22,
+    "author": "vijayr02",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=28152500"
   },
   {
     "title": "Poly Network hacker returns $258M after stealing $600M",
     "url": "https://www.forbes.com/sites/jonathanponciano/2021/08/11/crypto-hacker-returns-258-million-after-stealing-600-million-solicits-donations-for-hacking-for-good/",
-    "upvotes": 83,
+    "upvotes": 86,
     "author": "paulpauper",
-    "comments": 77,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=28151538"
-  },
-  {
-    "title": "Actual impostors don't get impostor syndrome",
-    "url": "https://zapier.com/blog/actual-impostors-dont-get-impostor-syndrome/",
-    "upvotes": 462,
-    "author": "gscott",
-    "comments": 290,
-    "link": "https://news.ycombinator.com/item?id=28143261"
   },
   {
     "title": "Mea culpa: How developers fix their own simple bugs differently from other devs",
     "url": "https://neverworkintheory.org/2021/08/10/developers-fix-their-own-simple-bugs-differently-from-other-developers.html",
-    "upvotes": 29,
+    "upvotes": 31,
     "author": "zdw",
-    "comments": 11,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=28128729"
   },
   {
@@ -62,47 +70,39 @@
   {
     "title": "NodeJS security cheat sheet",
     "url": "https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html",
-    "upvotes": 57,
+    "upvotes": 65,
     "author": "thunderbong",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28152336"
-  },
-  {
-    "title": "Climate change: Curbing methane emissions will 'buy us time'",
-    "url": "https://www.bbc.co.uk/news/science-environment-58174111",
-    "upvotes": 16,
-    "author": "vijayr02",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=28152500"
   },
   {
     "title": "Launch HN: Slip (YC S21) – Build and sell interactive programming courses",
     "url": "item?id=28141462",
-    "upvotes": 344,
+    "upvotes": 345,
     "author": "CoffeePython",
     "comments": 92,
     "link": "https://news.ycombinator.com/item?id=28141462"
   },
   {
+    "title": "Nearest neighbor indexes for similarity search",
+    "url": "https://www.pinecone.io/learn/vector-indexes/",
+    "upvotes": 81,
+    "author": "gk1",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28138551"
+  },
+  {
     "title": "“Raiders of the Lost Ark” Story Conference Transcript",
     "url": "https://nloewen.com/docs/lucas-spielberg-kasdan--raiders-of-the-lost-ark-story-conference/",
-    "upvotes": 79,
+    "upvotes": 81,
     "author": "samclemens",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=28134871"
   },
   {
-    "title": "Nearest neighbor indexes for similarity search",
-    "url": "https://www.pinecone.io/learn/vector-indexes/",
-    "upvotes": 76,
-    "author": "gk1",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28138551"
-  },
-  {
     "title": "NASA's “Tour of Asteroid Bennu” Selected for Siggraph Film Festival",
     "url": "https://www.nasa.gov/feature/nasas-tour-of-asteroid-bennu-selected-for-prestigious-computer-graphics-film-festival",
-    "upvotes": 21,
+    "upvotes": 26,
     "author": "ArtWomb",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28127565"
@@ -112,24 +112,56 @@
     "url": "item?id=28145998",
     "upvotes": 168,
     "author": "berkozer",
-    "comments": 187,
+    "comments": 189,
     "link": "https://news.ycombinator.com/item?id=28145998"
   },
   {
     "title": "GitHub’s engineering team has moved to Codespaces",
     "url": "https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/",
-    "upvotes": 776,
+    "upvotes": 781,
     "author": "todsacerdoti",
-    "comments": 620,
+    "comments": 621,
     "link": "https://news.ycombinator.com/item?id=28143722"
   },
   {
     "title": "James Gosling Interview",
     "url": "https://evrone.com/james-gosling-interview",
-    "upvotes": 17,
+    "upvotes": 21,
     "author": "earthisnotmine",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28140374"
+  },
+  {
+    "title": "Apple Has Opened the Backdoor to Increased Surveillance and Censorship",
+    "url": "https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance",
+    "upvotes": 228,
+    "author": "taxyovio",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=28149805"
+  },
+  {
+    "title": "Senators introduce bipartisan antitrust bill to promote app store competition",
+    "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-blackburn-and-klobuchar-introduce-bipartisan-antitrust-legislation-to-promote-app-store-competition",
+    "upvotes": 323,
+    "author": "averysmallbird",
+    "comments": 295,
+    "link": "https://news.ycombinator.com/item?id=28144867"
+  },
+  {
+    "title": "Event Sourcing",
+    "url": "https://martinfowler.com/eaaDev/EventSourcing.html",
+    "upvotes": 85,
+    "author": "gjvc",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=28140598"
+  },
+  {
+    "title": "Netflix intensifies VPN ban and targets residential IP addresses",
+    "url": "https://torrentfreak.com/netflix-intensifies-vpn-ban-and-targets-residential-ip-addresses-too-210811/",
+    "upvotes": 301,
+    "author": "TangerineDream",
+    "comments": 408,
+    "link": "https://news.ycombinator.com/item?id=28143238"
   },
   {
     "title": "Gazing at the Mother Tongue: Analyzing Twitter’s Image Cropping Algorithm",
@@ -140,44 +172,20 @@
     "link": "https://news.ycombinator.com/item?id=28130209"
   },
   {
-    "title": "Apple Has Opened the Backdoor to Increased Surveillance and Censorship",
-    "url": "https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance",
-    "upvotes": 212,
-    "author": "taxyovio",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=28149805"
-  },
-  {
-    "title": "Senators introduce bipartisan antitrust bill to promote app store competition",
-    "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-blackburn-and-klobuchar-introduce-bipartisan-antitrust-legislation-to-promote-app-store-competition",
-    "upvotes": 318,
-    "author": "averysmallbird",
-    "comments": 295,
-    "link": "https://news.ycombinator.com/item?id=28144867"
-  },
-  {
-    "title": "Event Sourcing",
-    "url": "https://martinfowler.com/eaaDev/EventSourcing.html",
-    "upvotes": 83,
-    "author": "gjvc",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=28140598"
-  },
-  {
     "title": "Who Owns In-Chip Monitoring Data?",
     "url": "https://semiengineering.com/who-owns-in-chip-monitoring-data/",
-    "upvotes": 35,
+    "upvotes": 37,
     "author": "giuliomagnifico",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28139242"
   },
   {
-    "title": "Netflix intensifies VPN ban and targets residential IP addresses",
-    "url": "https://torrentfreak.com/netflix-intensifies-vpn-ban-and-targets-residential-ip-addresses-too-210811/",
-    "upvotes": 296,
-    "author": "TangerineDream",
-    "comments": 404,
-    "link": "https://news.ycombinator.com/item?id=28143238"
+    "title": "Actual impostors don't get impostor syndrome",
+    "url": "https://zapier.com/blog/actual-impostors-dont-get-impostor-syndrome/",
+    "upvotes": 463,
+    "author": "gscott",
+    "comments": 298,
+    "link": "https://news.ycombinator.com/item?id=28143261"
   },
   {
     "title": "Dancoland, Part 2: Just-So Stories",
@@ -198,41 +206,33 @@
   {
     "title": "ANSI Escape Codes",
     "url": "https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797",
-    "upvotes": 121,
+    "upvotes": 122,
     "author": "grafelic",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=28145209"
   },
   {
-    "title": "Show HN: Grok",
-    "url": "https://www.trygrok.com/",
-    "upvotes": 21,
-    "author": "jamescwu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28150169"
-  },
-  {
-    "title": "Quality and Effort",
-    "url": "https://seths.blog/2018/11/quality-and-effort/",
-    "upvotes": 115,
-    "author": "absolute100",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=28150063"
-  },
-  {
-    "title": "The metaverse is a dystopian nightmare – let’s build a better reality",
-    "url": "https://nianticlabs.com/blog/real-world-metaverse/",
-    "upvotes": 142,
-    "author": "riebschlager",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=28148229"
+    "title": "Open-sourcing a more precise time appliance",
+    "url": "https://engineering.fb.com/2021/08/11/open-source/time-appliance/",
+    "upvotes": 474,
+    "author": "alexvoica",
+    "comments": 172,
+    "link": "https://news.ycombinator.com/item?id=28140732"
   },
   {
     "title": "1Password 8 will be subscription only and won’t support local vaults",
     "url": "https://1password.community/discussion/comment/601917/#Comment_601917",
-    "upvotes": 523,
+    "upvotes": 526,
     "author": "taxyovio",
-    "comments": 574,
+    "comments": 576,
     "link": "https://news.ycombinator.com/item?id=28145247"
+  },
+  {
+    "title": "Show HN: Grok",
+    "url": "https://www.trygrok.com/",
+    "upvotes": 23,
+    "author": "jamescwu",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28150169"
   }
 ]
