@@ -2,71 +2,55 @@
   {
     "title": "Apple's child protection features spark concern within its own ranks: sources",
     "url": "https://www.reuters.com/technology/exclusive-apples-child-protection-features-spark-concern-within-its-own-ranks-2021-08-12/",
-    "upvotes": 1109,
+    "upvotes": 1139,
     "author": "spenvo",
-    "comments": 573,
+    "comments": 582,
     "link": "https://news.ycombinator.com/item?id=28162412"
+  },
+  {
+    "title": "Dad makes teddies with health conditions to help children with medical disorders",
+    "url": "https://inews.co.uk/news/real-life/this-leeds-dad-makes-teddies-with-health-conditions-to-help-children-living-with-medical-disorders-1148392",
+    "upvotes": 34,
+    "author": "zeristor",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28166741"
+  },
+  {
+    "title": "Jackson structured programming",
+    "url": "https://en.wikipedia.org/wiki/Jackson_structured_programming",
+    "upvotes": 26,
+    "author": "haakonhr",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28154890"
   },
   {
     "title": "Open Compute Project: An Interview with Intel's Rebecca Weekly",
     "url": "https://www.anandtech.com/show/16872/open-compute-project-an-interview-with-intels-rebecca-weekly",
-    "upvotes": 22,
+    "upvotes": 26,
     "author": "rbanffy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28155007"
   },
   {
-    "title": "Jackson structured programming",
-    "url": "https://en.wikipedia.org/wiki/Jackson_structured_programming",
-    "upvotes": 14,
-    "author": "haakonhr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28154890"
-  },
-  {
-    "title": "Dad makes teddies with health conditions to help children with medical disorders",
-    "url": "https://inews.co.uk/news/real-life/this-leeds-dad-makes-teddies-with-health-conditions-to-help-children-living-with-medical-disorders-1148392",
-    "upvotes": 5,
-    "author": "zeristor",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28166741"
-  },
-  {
     "title": "Show HN: C programming language extension: Cedro pre-processor",
     "url": "https://sentido-labs.com/en/library/cedro/202106171400/",
-    "upvotes": 27,
+    "upvotes": 31,
     "author": "AlbertoGP",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=28166125"
   },
   {
     "title": "Git password authentication is shutting down",
     "url": "https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/",
-    "upvotes": 383,
+    "upvotes": 388,
     "author": "judge2020",
-    "comments": 254,
+    "comments": 268,
     "link": "https://news.ycombinator.com/item?id=28160869"
-  },
-  {
-    "title": "Nvidia Reveals Its CEO Was Computer Generated in Keynote Speech",
-    "url": "https://www.vice.com/en/article/88nbpa/nvidia-reveals-its-ceo-was-computer-generated-in-keynote-speech",
-    "upvotes": 56,
-    "author": "tosh",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=28166236"
-  },
-  {
-    "title": "The Secretive, Semi-Illicit World of WhatsApp Mango Importing",
-    "url": "https://www.eater.com/22618349/pakistani-mangoes-chaunsa-anwar-ratol-buy-usa-whatsapp-shipping-supply-chain",
-    "upvotes": 5,
-    "author": "ryzvonusef",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28166646"
   },
   {
     "title": "PlayCover: Run iOS apps and games on the M1 Mac",
     "url": "https://github.com/Letscoder/PlayCover",
-    "upvotes": 85,
+    "upvotes": 86,
     "author": "mmastrac",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=28163722"
@@ -74,10 +58,34 @@
   {
     "title": "How green is blue hydrogen?",
     "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/ese3.956",
-    "upvotes": 24,
+    "upvotes": 27,
     "author": "wglb",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28158605"
+  },
+  {
+    "title": "The difference between a=a+b and a+=b in Python",
+    "url": "https://pub.towardsai.net/the-difference-between-a-a-b-and-a-b-in-python-a7338d96e408",
+    "upvotes": 17,
+    "author": "helsinkiandrew",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=28165974"
+  },
+  {
+    "title": "The Secretive, Semi-Illicit World of WhatsApp Mango Importing",
+    "url": "https://www.eater.com/22618349/pakistani-mangoes-chaunsa-anwar-ratol-buy-usa-whatsapp-shipping-supply-chain",
+    "upvotes": 9,
+    "author": "ryzvonusef",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28166646"
+  },
+  {
+    "title": "Nvidia Reveals Its CEO Was Computer Generated in Keynote Speech",
+    "url": "https://www.vice.com/en/article/88nbpa/nvidia-reveals-its-ceo-was-computer-generated-in-keynote-speech",
+    "upvotes": 70,
+    "author": "tosh",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=28166236"
   },
   {
     "title": "Raycast",
@@ -86,39 +94,23 @@
   {
     "title": "Show HN: Lisp implementation in modern Java, Go, C#, TypeScript, Python",
     "url": "https://github.com/eatonphil/lisp-rosetta-stone",
-    "upvotes": 59,
+    "upvotes": 62,
     "author": "eatonphil",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28164398"
-  },
-  {
-    "title": "The Myths of the Digital Native",
-    "url": "https://www.geeklawblog.com/2015/10/the-myths-of-digital-native-part-1.html",
-    "upvotes": 36,
-    "author": "vitorsr",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=28164681"
   },
   {
     "title": "The IBM PC, 41 Years Ago",
     "url": "https://www.os2museum.com/wp/the-ibm-pc-41-years-ago/",
-    "upvotes": 44,
+    "upvotes": 49,
     "author": "userbinator",
-    "comments": 33,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=28155980"
-  },
-  {
-    "title": "The difference between a=a+b and a+=b in Python",
-    "url": "https://pub.towardsai.net/the-difference-between-a-a-b-and-a-b-in-python-a7338d96e408",
-    "upvotes": 7,
-    "author": "helsinkiandrew",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28165974"
   },
   {
     "title": "Launch YC S21: Meet the Batch, Thread #6",
     "url": "item?id=28156460",
-    "upvotes": 96,
+    "upvotes": 98,
     "author": "dang",
     "comments": 102,
     "link": "https://news.ycombinator.com/item?id=28156460"
@@ -126,23 +118,23 @@
   {
     "title": "A future for SQL on the web",
     "url": "https://jlongster.com/future-sql-web",
-    "upvotes": 817,
+    "upvotes": 819,
     "author": "rasmusfabbe",
-    "comments": 190,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=28156831"
   },
   {
     "title": "The deceptive PR behind Apple’s “expanded protections for children”",
     "url": "https://piotr.is/2021/08/12/apple-csam/",
-    "upvotes": 655,
+    "upvotes": 669,
     "author": "arespredator",
-    "comments": 481,
+    "comments": 490,
     "link": "https://news.ycombinator.com/item?id=28160673"
   },
   {
     "title": "Fishdraw: Procedurally Generated Fish Drawings",
     "url": "https://fishdraw.glitch.me/",
-    "upvotes": 509,
+    "upvotes": 519,
     "author": "sigil",
     "comments": 76,
     "link": "https://news.ycombinator.com/item?id=28157657"
@@ -150,89 +142,97 @@
   {
     "title": "PonderNet: Annotated PyTorch Implementation",
     "url": "https://nn.labml.ai/adaptive_computation/ponder_net/index.html",
-    "upvotes": 27,
+    "upvotes": 28,
     "author": "vpj",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28164583"
   },
   {
-    "title": "C++ Exceptions: Under the Hood",
-    "url": "https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html",
-    "upvotes": 101,
-    "author": "arcatek",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=28161596"
-  },
-  {
-    "title": "Writing Great Alt Text: Emotion Matters",
-    "url": "https://jakearchibald.com/2021/great-alt-text/",
-    "upvotes": 36,
-    "author": "antibland",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=28153227"
-  },
-  {
     "title": "The Strong Law of Small Numbers",
     "url": "https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Guy697-712.pdf",
-    "upvotes": 58,
+    "upvotes": 59,
     "author": "thealig",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28154808"
   },
   {
+    "title": "Writing Great Alt Text: Emotion Matters",
+    "url": "https://jakearchibald.com/2021/great-alt-text/",
+    "upvotes": 39,
+    "author": "antibland",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28153227"
+  },
+  {
     "title": "Little kids burn so much energy, they’re like a different species, study finds",
     "url": "https://www.sciencemag.org/news/2021/08/little-kids-burn-so-much-energy-they-re-different-species-study-finds",
-    "upvotes": 146,
+    "upvotes": 157,
     "author": "lnyan",
-    "comments": 63,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=28164221"
   },
   {
     "title": "Scanning “private” content",
     "url": "https://lwn.net/SubscriberLink/865756/a7f67aaa8ea52862/",
-    "upvotes": 231,
+    "upvotes": 235,
     "author": "lisptime",
-    "comments": 52,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=28160368"
   },
   {
     "title": "What Is Value?",
     "url": "https://dwyer.co.za/what-is-value.html",
-    "upvotes": 39,
+    "upvotes": 43,
     "author": "sixhobbits",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=28155000"
+  },
+  {
+    "title": "C++ Exceptions: Under the Hood",
+    "url": "https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html",
+    "upvotes": 102,
+    "author": "arcatek",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=28161596"
   },
   {
     "title": "Huawei stole our tech and created a 'backdoor' to spy on Pakistan, claims IT biz",
     "url": "https://www.theregister.com/2021/08/13/huawei_accused_of_trade_secret/",
-    "upvotes": 110,
+    "upvotes": 117,
     "author": "Dotnaught",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=28164403"
   },
   {
     "title": "Geometric Deep Learning Course: Grids, Groups, Graphs, Geodesics, and Gauges",
     "url": "https://geometricdeeplearning.com/lectures/",
-    "upvotes": 42,
+    "upvotes": 47,
     "author": "sebg",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28160568"
   },
   {
-    "title": "Internet of Snitches",
-    "url": "https://puri.sm/posts/internet-of-snitches/",
-    "upvotes": 524,
-    "author": "nicolaslem",
-    "comments": 202,
-    "link": "https://news.ycombinator.com/item?id=28158939"
-  },
-  {
     "title": "Suburban Dwelling: John Cheever was the bard of the backyard",
     "url": "https://www.neh.gov/article/suburban-dwelling",
-    "upvotes": 10,
+    "upvotes": 11,
     "author": "lermontov",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28151562"
+  },
+  {
+    "title": "Internet of Snitches",
+    "url": "https://puri.sm/posts/internet-of-snitches/",
+    "upvotes": 532,
+    "author": "nicolaslem",
+    "comments": 211,
+    "link": "https://news.ycombinator.com/item?id=28158939"
+  },
+  {
+    "title": "Typography in Alien",
+    "url": "https://typesetinthefuture.com/2014/12/01/alien/",
+    "upvotes": 272,
+    "author": "tosh",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=28154477"
   }
 ]
