@@ -1,48 +1,56 @@
 [
   {
+    "title": "SoundStream: An End-to-End Neural Audio Codec",
+    "url": "http://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html",
+    "upvotes": 28,
+    "author": "todsacerdoti",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28185847"
+  },
+  {
     "title": "Closing 45% of the open Emacs bugs",
     "url": "https://lars.ingebrigtsen.no/2021/08/14/10x10/",
-    "upvotes": 314,
+    "upvotes": 324,
     "author": "clircle",
-    "comments": 129,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=28181575"
   },
   {
     "title": "Use Pixar's Story Formula to Win over Investors",
     "url": "https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars",
-    "upvotes": 270,
+    "upvotes": 282,
     "author": "gmays",
-    "comments": 137,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=28181861"
   },
   {
     "title": "Amiga Music Preservation",
     "url": "http://www.dascene.net/home.php",
-    "upvotes": 75,
+    "upvotes": 77,
     "author": "codetrotter",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=28184122"
-  },
-  {
-    "title": "Asahi Linux for Apple M1 progress report, August 2021",
-    "url": "https://asahilinux.org/2021/08/progress-report-august-2021/",
-    "upvotes": 493,
-    "author": "fanf2",
-    "comments": 123,
-    "link": "https://news.ycombinator.com/item?id=28180135"
   },
   {
     "title": "On Digital Minimalsim",
     "url": "https://www.calnewport.com/blog/2016/12/18/on-digital-minimalism/",
-    "upvotes": 32,
+    "upvotes": 37,
     "author": "hidden-spyder",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28166737"
+  },
+  {
+    "title": "Cap'n Proto 0.9",
+    "url": "https://capnproto.org/news/2021-08-14-capnproto-0.9.html",
+    "upvotes": 12,
+    "author": "Shelnutt2",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28185626"
   },
   {
     "title": "Philippine ethnic group has most Denisovan DNA",
     "url": "https://www.uu.se/en/news/article/?id=17306&typ=artikel&lang=en",
-    "upvotes": 172,
+    "upvotes": 174,
     "author": "DocFeind",
     "comments": 70,
     "link": "https://news.ycombinator.com/item?id=28181891"
@@ -50,31 +58,31 @@
   {
     "title": "What we can learn from Google Plus",
     "url": "https://www.intercom.com/blog/what-we-can-learn-from-google-plus/",
-    "upvotes": 38,
+    "upvotes": 41,
     "author": "vincent_s",
-    "comments": 16,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=28166321"
-  },
-  {
-    "title": "SoundStream: An End-to-End Neural Audio Codec",
-    "url": "http://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html",
-    "upvotes": 4,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28185847"
   },
   {
     "title": "Software Dev Can't Be Automated – It’s a Creative Process with an Unknown Goal",
     "url": "https://thehosk.medium.com/software-development-cannot-be-automated-because-its-a-creative-process-with-an-unknown-end-goal-2d4776866808",
-    "upvotes": 70,
+    "upvotes": 84,
     "author": "thunderbong",
-    "comments": 45,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=28182623"
+  },
+  {
+    "title": "The Construction of Bit Mixers",
+    "url": "http://jonkagstrom.com/bit-mixer-construction/",
+    "upvotes": 3,
+    "author": "ot",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28178106"
   },
   {
     "title": "Let's write a compiler, part 1: Introduction, selecting a language, and planning",
     "url": "https://briancallahan.net/blog/20210814.html",
-    "upvotes": 107,
+    "upvotes": 115,
     "author": "ingve",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28183062"
@@ -84,21 +92,13 @@
     "url": "https://www.descent2.de/index.html",
     "upvotes": 54,
     "author": "dtx1",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=28183868"
-  },
-  {
-    "title": "Fermat's Library: software to help illuminate academic papers",
-    "url": "https://fermatslibrary.com/",
-    "upvotes": 26,
-    "author": "cl3misch",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28184549"
   },
   {
     "title": "Machu Picchu older than expected, study reveals",
     "url": "https://news.yale.edu/2021/08/04/machu-picchu-older-expected-study-reveals",
-    "upvotes": 95,
+    "upvotes": 96,
     "author": "diodorus",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=28165554"
@@ -106,26 +106,50 @@
   {
     "title": "How to teach programming and other things",
     "url": "https://www.youtube.com/watch?v=g1ib43q3uXQ",
-    "upvotes": 50,
+    "upvotes": 52,
     "author": "tosh",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=28167792"
+  },
+  {
+    "title": "Fermat's Library: software to help illuminate academic papers",
+    "url": "https://fermatslibrary.com/",
+    "upvotes": 27,
+    "author": "cl3misch",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28184549"
   },
   {
     "title": "I hate almost all software",
     "url": "https://tinyclouds.org/rant.html",
-    "upvotes": 147,
+    "upvotes": 158,
     "author": "avinassh",
-    "comments": 89,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=28181632"
   },
   {
-    "title": "Opus – an open source parallel corpus",
-    "url": "https://opus.nlpl.eu/",
-    "upvotes": 8,
-    "author": "edward",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28179877"
+    "title": "The Light Phone: Minimal Smartphone",
+    "url": "https://www.thelightphone.com/",
+    "upvotes": 48,
+    "author": "keiferski",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=28184006"
+  },
+  {
+    "title": "Asahi Linux for Apple M1 progress report, August 2021",
+    "url": "https://asahilinux.org/2021/08/progress-report-august-2021/",
+    "upvotes": 498,
+    "author": "fanf2",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=28180135"
+  },
+  {
+    "title": "Avoiding Founder Burnout",
+    "url": "https://waseem.substack.com/p/avoiding-founder-burnout",
+    "upvotes": 28,
+    "author": "wdaher",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28184447"
   },
   {
     "title": "Path",
@@ -134,26 +158,34 @@
   {
     "title": "A Proposal for the Dartmouth Research Project on Artificial Intelligence",
     "url": "http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html",
-    "upvotes": 49,
+    "upvotes": 53,
     "author": "benbreen",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28178543"
   },
   {
-    "title": "Avoiding Founder Burnout",
-    "url": "https://waseem.substack.com/p/avoiding-founder-burnout",
-    "upvotes": 25,
-    "author": "wdaher",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28184447"
+    "title": "Opus – an open source parallel corpus",
+    "url": "https://opus.nlpl.eu/",
+    "upvotes": 9,
+    "author": "edward",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28179877"
   },
   {
     "title": "Boeing to ground Starliner indefinitely until valve issue solved",
     "url": "https://arstechnica.com/science/2021/08/boeing-to-ground-starliner-indefinitely-until-valve-issue-solved/",
-    "upvotes": 33,
+    "upvotes": 39,
     "author": "throwaway888abc",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=28185195"
+  },
+  {
+    "title": "GitHub seems to be enabling IPv6 for GitHub Pages",
+    "url": "https://github.com/isaacs/github/issues/354",
+    "upvotes": 107,
+    "author": "scrollaway",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=28180305"
   },
   {
     "title": "Root cause of failure, root cause of success",
@@ -164,75 +196,43 @@
     "link": "https://news.ycombinator.com/item?id=28179237"
   },
   {
-    "title": "GitHub seems to be enabling IPv6 for GitHub Pages",
-    "url": "https://github.com/isaacs/github/issues/354",
-    "upvotes": 102,
-    "author": "scrollaway",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=28180305"
-  },
-  {
     "title": "Debian 11",
     "url": "https://www.debian.org/releases/bullseye/amd64/release-notes/",
-    "upvotes": 480,
+    "upvotes": 485,
     "author": "marcodiego",
-    "comments": 224,
+    "comments": 229,
     "link": "https://news.ycombinator.com/item?id=28180074"
   },
   {
     "title": "Teaching Paradox, Victoria II, Part I: Mechanics and Gears",
     "url": "https://acoup.blog/2021/08/13/collections-teaching-paradox-victoria-ii-part-i-mechanics-and-gears/",
-    "upvotes": 69,
+    "upvotes": 74,
     "author": "parsecs",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28165921"
   },
   {
     "title": "YAML and Configuration Files",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/YAMLAndConfigurationFiles",
-    "upvotes": 57,
+    "upvotes": 58,
     "author": "signa11",
-    "comments": 74,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=28178047"
   },
   {
     "title": "MIT Researchers Make Hydrogen Fuel from Aluminum and Water",
     "url": "https://interestingengineering.com/mit-researchers-make-hydrogen-fuel-from-aluminum-and-water?_source=newsletter&_campaign=2e7LL8NyzpLK4&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-14-08-2021",
-    "upvotes": 30,
+    "upvotes": 32,
     "author": "mardiyah",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=28184758"
   },
   {
     "title": "What’s it like living with a phenomenal memory and can it be learned?",
     "url": "https://www.theguardian.com/science/2021/aug/15/whats-it-like-living-with-a-phenomenal-memory-and-can-it-be-learned",
-    "upvotes": 24,
+    "upvotes": 29,
     "author": "pseudolus",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28184852"
-  },
-  {
-    "title": "Unifying iPadOS and macOS",
-    "url": "https://www.screamingatmyscreen.com/unifying-ipados-and-macos/",
-    "upvotes": 104,
-    "author": "fallenhitokiri",
-    "comments": 190,
-    "link": "https://news.ycombinator.com/item?id=28180012"
-  },
-  {
-    "title": "An Elephant Crackup?",
-    "url": "https://www.nytimes.com/2006/10/08/magazine/08elephant.html",
-    "upvotes": 9,
-    "author": "vector_spaces",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28182795"
-  },
-  {
-    "title": "On This Day in Twistory",
-    "url": "https://twistory.ml/",
-    "upvotes": 16,
-    "author": "abscond",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28178098"
   }
 ]
