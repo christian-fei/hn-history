@@ -1,16 +1,32 @@
 [
   {
+    "title": "Go 1.17 Is Released",
+    "url": "https://blog.golang.org/go1.17",
+    "upvotes": 72,
+    "author": "jidiculous",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=28203147"
+  },
+  {
     "title": "Farmers help create ‘virtual safe space’ to save bumblebees",
     "url": "https://www.exeter.ac.uk/news/research/title_872443_en.html",
-    "upvotes": 80,
+    "upvotes": 92,
     "author": "rbanffy",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28201547"
+  },
+  {
+    "title": "LeafletJS",
+    "url": "https://leafletjs.com/",
+    "upvotes": 15,
+    "author": "x14km2d",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28203242"
   },
   {
     "title": "Alda – Text-Based Programming Language for Music Composition",
     "url": "https://alda.io/tutorial/",
-    "upvotes": 318,
+    "upvotes": 329,
     "author": "p1esk",
     "comments": 91,
     "link": "https://news.ycombinator.com/item?id=28198641"
@@ -18,34 +34,26 @@
   {
     "title": "T-Mobile Confirms It Was Hacked",
     "url": "https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked",
-    "upvotes": 121,
+    "upvotes": 171,
     "author": "jbegley",
-    "comments": 82,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=28202399"
   },
   {
     "title": "Widelands is a free, open-source real-time strategy game",
     "url": "https://www.widelands.org/",
-    "upvotes": 558,
+    "upvotes": 575,
     "author": "doener",
-    "comments": 135,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=28196178"
   },
   {
     "title": "Spring is a free RTS game engine",
     "url": "https://springrts.com/",
-    "upvotes": 42,
+    "upvotes": 58,
     "author": "homarp",
-    "comments": 11,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=28202275"
-  },
-  {
-    "title": "To remember everything you learn, surrender to this algorithm",
-    "url": "https://www.wired.com/2008/04/ff-wozniak/",
-    "upvotes": 49,
-    "author": "sanmak",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=28200913"
   },
   {
     "title": "Rally",
@@ -54,71 +62,87 @@
   {
     "title": "Decoding AVIF: Deep dive with cats and imgproxy",
     "url": "https://evilmartians.com/chronicles/decoding-avif-deep-dive-with-cats-and-imgproxy",
-    "upvotes": 13,
+    "upvotes": 24,
     "author": "progapandist",
-    "comments": 2,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28187895"
+  },
+  {
+    "title": "To remember everything you learn, surrender to this algorithm",
+    "url": "https://www.wired.com/2008/04/ff-wozniak/",
+    "upvotes": 62,
+    "author": "sanmak",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=28200913"
+  },
+  {
+    "title": "Discontinuing FlickType Keyboard for iPhone",
+    "url": "https://twitter.com/FlickType/status/1427292830523744257",
+    "upvotes": 117,
+    "author": "keleftheriou",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=28200288"
   },
   {
     "title": "A Programmer’s Introduction to Mathematics",
     "url": "https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/",
-    "upvotes": 253,
+    "upvotes": 264,
     "author": "ingve",
-    "comments": 75,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=28197103"
+  },
+  {
+    "title": "Progress Quest",
+    "url": "http://progressquest.com",
+    "upvotes": 11,
+    "author": "vector_spaces",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28193680"
   },
   {
     "title": "Why is it so hard to be rational?",
     "url": "https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational",
-    "upvotes": 238,
+    "upvotes": 250,
     "author": "ubuwaits",
-    "comments": 225,
+    "comments": 234,
     "link": "https://news.ycombinator.com/item?id=28197482"
   },
   {
     "title": "Plaid settled $58M lawsuit over alleged consumer data sharing",
     "url": "https://finledger.com/2021/08/09/plaid-settled-58-million-lawsuit-over-alleged-consumer-data-sharing/",
-    "upvotes": 175,
+    "upvotes": 185,
     "author": "exotree",
-    "comments": 100,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=28200076"
-  },
-  {
-    "title": "Discontinuing FlickType Keyboard for iPhone",
-    "url": "https://twitter.com/FlickType/status/1427292830523744257",
-    "upvotes": 90,
-    "author": "keleftheriou",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=28200288"
   },
   {
     "title": "Object-Oriented Entity-Component-System Design",
     "url": "https://voxely.net/blog/object-oriented-entity-component-system-design/",
-    "upvotes": 95,
+    "upvotes": 98,
     "author": "agluszak",
-    "comments": 68,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=28198996"
   },
   {
     "title": "Launch HN: Awesomic (YC S21) – Get design tasks done with 24-hour turnaround",
     "url": "item?id=28199089",
-    "upvotes": 86,
+    "upvotes": 88,
     "author": "Pavlyshyna",
-    "comments": 44,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=28199089"
   },
   {
     "title": "TikTok requests access to devices on local network",
     "url": "https://twitter.com/crobertsbmw/status/1427102606753550337",
-    "upvotes": 240,
+    "upvotes": 249,
     "author": "hacky_engineer",
-    "comments": 117,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=28199588"
   },
   {
     "title": "Pico-1K Jam: Make Something Cool in Pico-8 in 1024 Characters",
     "url": "https://itch.io/jam/pico-1k",
-    "upvotes": 96,
+    "upvotes": 102,
     "author": "polm23",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28198795"
@@ -126,55 +150,39 @@
   {
     "title": "Why Doesn't Software Show Up in Productivity?",
     "url": "https://austinvernon.eth.link/blog/softwareisprocess.html",
-    "upvotes": 176,
+    "upvotes": 181,
     "author": "Wildgoose",
-    "comments": 147,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=28196672"
-  },
-  {
-    "title": "Beyond All Reason: Open-source RTS reimagining Total Annihilation",
-    "url": "https://www.beyondallreason.info/",
-    "upvotes": 114,
-    "author": "mcbuilder",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=28201265"
-  },
-  {
-    "title": "Let's write a compiler, part 3: A parser",
-    "url": "https://briancallahan.net/blog/20210816.html",
-    "upvotes": 95,
-    "author": "ingve",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=28197876"
   },
   {
     "title": "Many Americans not aware of being tracked with facial recognition while shopping",
     "url": "https://www.techradar.com/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
-    "upvotes": 290,
+    "upvotes": 302,
     "author": "thunderbong",
-    "comments": 286,
+    "comments": 293,
     "link": "https://news.ycombinator.com/item?id=28197449"
-  },
-  {
-    "title": "Intel’s Arc GPUs will compete with GeForce and Radeon in early 2022",
-    "url": "https://arstechnica.com/gadgets/2021/08/intels-arc-gpus-will-compete-with-geforce-and-radeon-in-early-2022/",
-    "upvotes": 210,
-    "author": "TangerineDream",
-    "comments": 149,
-    "link": "https://news.ycombinator.com/item?id=28199067"
   },
   {
     "title": "U.S. opens probe into Tesla’s Autopilot over emergency vehicle crashes",
     "url": "https://www.reuters.com/business/autos-transportation/us-opens-formal-safety-probe-into-tesla-autopilot-crashes-2021-08-16/",
-    "upvotes": 295,
+    "upvotes": 306,
     "author": "etimberg",
-    "comments": 344,
+    "comments": 366,
     "link": "https://news.ycombinator.com/item?id=28197355"
+  },
+  {
+    "title": "Let's write a compiler, part 3: A parser",
+    "url": "https://briancallahan.net/blog/20210816.html",
+    "upvotes": 98,
+    "author": "ingve",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=28197876"
   },
   {
     "title": "Nokia 9000 Communicator was launched 25 years ago",
     "url": "https://www.dw.com/en/nokias-smartphone-25-years-since-it-changed-the-world/a-58841329",
-    "upvotes": 170,
+    "upvotes": 171,
     "author": "samizdis",
     "comments": 121,
     "link": "https://news.ycombinator.com/item?id=28196339"
@@ -182,18 +190,42 @@
   {
     "title": "Slackware 15.0 release candidate one",
     "url": "http://www.slackware.com/changelog/current.php?cpu=x86_64",
-    "upvotes": 93,
+    "upvotes": 104,
     "author": "Tomte",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=28201197"
+  },
+  {
+    "title": "Beyond All Reason: Open-source RTS reimagining Total Annihilation",
+    "url": "https://www.beyondallreason.info/",
+    "upvotes": 121,
+    "author": "mcbuilder",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=28201265"
   },
   {
     "title": "Antigravity.py",
     "url": "https://github.com/python/cpython/blob/main/Lib/antigravity.py",
-    "upvotes": 100,
+    "upvotes": 105,
     "author": "chha",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=28197502"
+  },
+  {
+    "title": "Intel’s Arc GPUs will compete with GeForce and Radeon in early 2022",
+    "url": "https://arstechnica.com/gadgets/2021/08/intels-arc-gpus-will-compete-with-geforce-and-radeon-in-early-2022/",
+    "upvotes": 216,
+    "author": "TangerineDream",
+    "comments": 153,
+    "link": "https://news.ycombinator.com/item?id=28199067"
+  },
+  {
+    "title": "Commonly used idioms in the tech industry",
+    "url": "https://levelup.gitconnected.com/demystifying-5-commonly-used-idioms-in-the-tech-industry-827e8a6d653a",
+    "upvotes": 108,
+    "author": "bookofjoe",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=28173721"
   },
   {
     "title": "Show HN: A dot matrix rendered using Braille characters",
@@ -202,37 +234,5 @@
     "author": "timfi",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28201034"
-  },
-  {
-    "title": "Commonly used idioms in the tech industry",
-    "url": "https://levelup.gitconnected.com/demystifying-5-commonly-used-idioms-in-the-tech-industry-827e8a6d653a",
-    "upvotes": 106,
-    "author": "bookofjoe",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=28173721"
-  },
-  {
-    "title": "On Diego Rivera",
-    "url": "https://www.lrb.co.uk/the-paper/v43/n16/julia-bryan-wilson/on-diego-rivera",
-    "upvotes": 37,
-    "author": "prismatic",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28186596"
-  },
-  {
-    "title": "Launch HN: SigmaOS (YC S21) – A MacOS web browser designed for faster work",
-    "url": "item?id=28197537",
-    "upvotes": 109,
-    "author": "MahyadGhassemi",
-    "comments": 289,
-    "link": "https://news.ycombinator.com/item?id=28197537"
-  },
-  {
-    "title": "Rustdoc résumé",
-    "url": "https://yozhgoor.github.io/yohan_boogaert_1995/",
-    "upvotes": 103,
-    "author": "1f60c",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=28197370"
   }
 ]
