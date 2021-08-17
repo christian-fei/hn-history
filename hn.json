@@ -1,24 +1,24 @@
 [
   {
-    "title": "The Inconsistency of Arithmetic",
-    "url": "https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html",
-    "upvotes": 282,
-    "author": "woopwoop",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=28204040"
-  },
-  {
     "title": "Psst: Fast Spotify client with native GUI, without Electron, built in Rust",
     "url": "https://github.com/jpochyla/psst",
-    "upvotes": 288,
+    "upvotes": 322,
     "author": "tim--",
-    "comments": 89,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=28203654"
+  },
+  {
+    "title": "The Inconsistency of Arithmetic",
+    "url": "https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html",
+    "upvotes": 285,
+    "author": "woopwoop",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=28204040"
   },
   {
     "title": "LeafletJS: a JavaScript library for interactive maps",
     "url": "https://leafletjs.com/",
-    "upvotes": 211,
+    "upvotes": 222,
     "author": "x14km2d",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=28203242"
@@ -26,55 +26,39 @@
   {
     "title": "How did so many Dungeon Crawl: Stone Soup players miss such an obvious bug?",
     "url": "https://desystemize.substack.com/p/desystemize-7",
-    "upvotes": 65,
+    "upvotes": 72,
     "author": "luu",
-    "comments": 21,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=28204948"
   },
   {
     "title": "Something is killing gray whales",
     "url": "https://www.latimes.com/projects/gray-whale-deaths-how-humans-climate-change-hurt-oceans/",
-    "upvotes": 97,
+    "upvotes": 103,
     "author": "prostoalex",
-    "comments": 32,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=28204026"
-  },
-  {
-    "title": "Pompeii’s fast food joint unearthed in 2019 opens to public",
-    "url": "https://www.theguardian.com/science/2021/aug/09/pompeis-fast-food-joint-unearthed-in-2019-opens-to-public",
-    "upvotes": 53,
-    "author": "diodorus",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28204786"
   },
   {
     "title": "Alda – Text-Based Programming Language for Music Composition",
     "url": "https://alda.io/tutorial/",
-    "upvotes": 410,
+    "upvotes": 411,
     "author": "p1esk",
     "comments": 104,
     "link": "https://news.ycombinator.com/item?id=28198641"
   },
   {
-    "title": "Go 1.17 Release Notes",
-    "url": "https://golang.org/doc/go1.17",
-    "upvotes": 148,
-    "author": "aofeisheng",
-    "comments": 123,
-    "link": "https://news.ycombinator.com/item?id=28201732"
-  },
-  {
-    "title": "Computer simulation helps test land management techniques to help bumblebees",
-    "url": "https://www.exeter.ac.uk/news/research/title_872443_en.html",
-    "upvotes": 125,
-    "author": "rbanffy",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=28201547"
+    "title": "Pompeii’s fast food joint unearthed in 2019 opens to public",
+    "url": "https://www.theguardian.com/science/2021/aug/09/pompeis-fast-food-joint-unearthed-in-2019-opens-to-public",
+    "upvotes": 56,
+    "author": "diodorus",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=28204786"
   },
   {
     "title": "Occlusion-Aware Video Object Inpainting",
     "url": "http://www.kelei.site/voin/",
-    "upvotes": 17,
+    "upvotes": 20,
     "author": "lnyan",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28205315"
@@ -82,15 +66,23 @@
   {
     "title": "Discontinuing FlickType Keyboard for iPhone",
     "url": "https://twitter.com/FlickType/status/1427292830523744257",
-    "upvotes": 339,
+    "upvotes": 351,
     "author": "keleftheriou",
-    "comments": 119,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=28200288"
+  },
+  {
+    "title": "Computer simulation helps test land management techniques to help bumblebees",
+    "url": "https://www.exeter.ac.uk/news/research/title_872443_en.html",
+    "upvotes": 126,
+    "author": "rbanffy",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=28201547"
   },
   {
     "title": "Linux Kernel Defence Map",
     "url": "https://github.com/a13xp0p0v/linux-kernel-defence-map",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "ingve",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=28187759"
@@ -98,35 +90,43 @@
   {
     "title": "Swiping left on magnetic stripes",
     "url": "https://www.mastercard.com/news/perspectives/2021/magnetic-stripe/",
-    "upvotes": 102,
+    "upvotes": 108,
     "author": "w3ll_w3ll_w3ll",
-    "comments": 152,
+    "comments": 162,
     "link": "https://news.ycombinator.com/item?id=28202198"
+  },
+  {
+    "title": "Homa, a transport protocol to replace TCP for low-latency RPC in data centers",
+    "url": "https://www.micahlerner.com/2021/08/15/a-linux-kernel-implementation-of-the-homa-transport-protocol.html",
+    "upvotes": 24,
+    "author": "mlerner",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28204808"
+  },
+  {
+    "title": "Museum of Extinct Video Recorders",
+    "url": "http://www.labguysworld.com/VTR-Museum_001.htm",
+    "upvotes": 6,
+    "author": "bookofjoe",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28182935"
   },
   {
     "title": "SwiftSku",
     "url": "https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive"
   },
   {
-    "title": "Homa, a transport protocol to replace TCP for low-latency RPC in data centers",
-    "url": "https://www.micahlerner.com/2021/08/15/a-linux-kernel-implementation-of-the-homa-transport-protocol.html",
-    "upvotes": 22,
-    "author": "mlerner",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28204808"
-  },
-  {
     "title": "To remember everything you learn, surrender to this algorithm",
     "url": "https://www.wired.com/2008/04/ff-wozniak/",
-    "upvotes": 146,
+    "upvotes": 148,
     "author": "sanmak",
-    "comments": 73,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=28200913"
   },
   {
     "title": "Progress Quest",
     "url": "http://progressquest.com",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "vector_spaces",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=28193680"
@@ -134,105 +134,105 @@
   {
     "title": "Google Groups kills RSS support without notice",
     "url": "https://www.theregister.com/2021/08/16/google_groups_rss/",
-    "upvotes": 131,
+    "upvotes": 141,
     "author": "samizdis",
-    "comments": 17,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=28204340"
   },
   {
     "title": "T-Mobile Confirms It Was Hacked",
     "url": "https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked",
-    "upvotes": 349,
+    "upvotes": 353,
     "author": "jbegley",
-    "comments": 205,
+    "comments": 206,
     "link": "https://news.ycombinator.com/item?id=28202399"
   },
   {
     "title": "Optical Adversarial Attack Can Change the Meaning of Road Signs",
     "url": "https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/",
-    "upvotes": 29,
+    "upvotes": 30,
     "author": "geox",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=28204077"
   },
   {
-    "title": "Museum of Extinct Video Recorders",
-    "url": "http://www.labguysworld.com/VTR-Museum_001.htm",
-    "upvotes": 3,
-    "author": "bookofjoe",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28182935"
-  },
-  {
     "title": "Lumen – Self-hosted Lisp for Lua and JavaScript",
     "url": "https://github.com/sctb/lumen",
-    "upvotes": 35,
+    "upvotes": 36,
     "author": "sudobash1",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28204105"
   },
   {
     "title": "Economic costs of war",
     "url": "https://watson.brown.edu/costsofwar/costs/economic",
-    "upvotes": 562,
+    "upvotes": 564,
     "author": "hncurious",
-    "comments": 472,
+    "comments": 477,
     "link": "https://news.ycombinator.com/item?id=28203948"
   },
   {
     "title": "Moving Avoids California Tax? Not So Fast",
     "url": "https://www.forbes.com/sites/robertwood/2021/07/12/moving-avoids-california-tax-not-so-fast",
-    "upvotes": 67,
+    "upvotes": 70,
     "author": "dmitrygr",
-    "comments": 89,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=28204401"
   },
   {
     "title": "The Federal Writers’ Project fueled the cultural ferment of the New Deal era",
     "url": "https://jacobinmag.com/2021/07/federal-writers-project-new-deal-era-public-funding-wpa-fdr",
-    "upvotes": 20,
+    "upvotes": 21,
     "author": "acsillag",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28192221"
+  },
+  {
+    "title": "Pico-1K Jam: Make Something Cool in Pico-8 in 1024 Characters",
+    "url": "https://itch.io/jam/pico-1k",
+    "upvotes": 125,
+    "author": "polm23",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=28198795"
   },
   {
     "title": "Object-Oriented Entity-Component-System Design",
     "url": "https://voxely.net/blog/object-oriented-entity-component-system-design/",
     "upvotes": 119,
     "author": "agluszak",
-    "comments": 92,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=28198996"
   },
   {
-    "title": "Pico-1K Jam: Make Something Cool in Pico-8 in 1024 Characters",
-    "url": "https://itch.io/jam/pico-1k",
-    "upvotes": 124,
-    "author": "polm23",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=28198795"
+    "title": "Go 1.17 Release Notes",
+    "url": "https://golang.org/doc/go1.17",
+    "upvotes": 157,
+    "author": "aofeisheng",
+    "comments": 125,
+    "link": "https://news.ycombinator.com/item?id=28201732"
+  },
+  {
+    "title": "Launch HN: SigmaOS (YC S21) – A MacOS web browser designed for faster work",
+    "url": "item?id=28197537",
+    "upvotes": 139,
+    "author": "MahyadGhassemi",
+    "comments": 304,
+    "link": "https://news.ycombinator.com/item?id=28197537"
+  },
+  {
+    "title": "Plaid settled $58M lawsuit over alleged consumer data sharing",
+    "url": "https://finledger.com/2021/08/09/plaid-settled-58-million-lawsuit-over-alleged-consumer-data-sharing/",
+    "upvotes": 239,
+    "author": "exotree",
+    "comments": 137,
+    "link": "https://news.ycombinator.com/item?id=28200076"
   },
   {
     "title": "Utilitarianism Expressed in Julia",
     "url": "https://www.erichgrunewald.com/posts/utilitarianism-expressed-in-julia/",
     "upvotes": 17,
     "author": "erwald",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28187936"
-  },
-  {
-    "title": "Plaid settled $58M lawsuit over alleged consumer data sharing",
-    "url": "https://finledger.com/2021/08/09/plaid-settled-58-million-lawsuit-over-alleged-consumer-data-sharing/",
-    "upvotes": 238,
-    "author": "exotree",
-    "comments": 137,
-    "link": "https://news.ycombinator.com/item?id=28200076"
-  },
-  {
-    "title": "Launch HN: SigmaOS (YC S21) – A MacOS web browser designed for faster work",
-    "url": "item?id=28197537",
-    "upvotes": 135,
-    "author": "MahyadGhassemi",
-    "comments": 304,
-    "link": "https://news.ycombinator.com/item?id=28197537"
   }
 ]
