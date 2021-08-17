@@ -2,31 +2,23 @@
   {
     "title": "Psst: Fast Spotify client with native GUI, without Electron, built in Rust",
     "url": "https://github.com/jpochyla/psst",
-    "upvotes": 434,
+    "upvotes": 466,
     "author": "tim--",
-    "comments": 175,
+    "comments": 187,
     "link": "https://news.ycombinator.com/item?id=28203654"
-  },
-  {
-    "title": "Why Are So Many Knowledge Workers Quitting?",
-    "url": "https://www.newyorker.com/culture/office-space/why-are-so-many-knowledge-workers-quitting",
-    "upvotes": 59,
-    "author": "irtefa",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=28205933"
   },
   {
     "title": "The Inconsistency of Arithmetic",
     "url": "https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html",
-    "upvotes": 296,
+    "upvotes": 300,
     "author": "woopwoop",
-    "comments": 90,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=28204040"
   },
   {
     "title": "LeafletJS: a JavaScript library for interactive maps",
     "url": "https://leafletjs.com/",
-    "upvotes": 234,
+    "upvotes": 240,
     "author": "x14km2d",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=28203242"
@@ -34,47 +26,75 @@
   {
     "title": "Something is killing gray whales",
     "url": "https://www.latimes.com/projects/gray-whale-deaths-how-humans-climate-change-hurt-oceans/",
-    "upvotes": 118,
+    "upvotes": 123,
     "author": "prostoalex",
-    "comments": 39,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=28204026"
   },
   {
     "title": "How did so many Dungeon Crawl: Stone Soup players miss such an obvious bug?",
     "url": "https://desystemize.substack.com/p/desystemize-7",
-    "upvotes": 79,
+    "upvotes": 82,
     "author": "luu",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=28204948"
+  },
+  {
+    "title": "UserGems",
+    "url": "https://www.usergems.com/careers/full-stack-engineer"
   },
   {
     "title": "The Math That Says Egalitarianism Is Possible",
     "url": "https://nautil.us/issue/104/harmony/the-math-that-says-egalitarianism-is-possible",
-    "upvotes": 11,
+    "upvotes": 21,
     "author": "Abishek_Muthian",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28206382"
+  },
+  {
+    "title": "Afghans are racing to erase their online lives",
+    "url": "https://www.wired.co.uk/article/afghanistan-social-media-delete",
+    "upvotes": 31,
+    "author": "jimmy2020",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=28206734"
+  },
+  {
+    "title": "SerenityOS: Graphical Unix-like operating system with classic 90s UI",
+    "url": "http://serenityos.org/",
+    "upvotes": 4,
+    "author": "Santosh83",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28206840"
   },
   {
     "title": "Pompeii’s fast food joint unearthed in 2019 opens to public",
     "url": "https://www.theguardian.com/science/2021/aug/09/pompeis-fast-food-joint-unearthed-in-2019-opens-to-public",
-    "upvotes": 63,
+    "upvotes": 66,
     "author": "diodorus",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28204786"
   },
   {
     "title": "Discontinuing FlickType Keyboard for iPhone",
     "url": "https://twitter.com/FlickType/status/1427292830523744257",
-    "upvotes": 385,
+    "upvotes": 392,
     "author": "keleftheriou",
-    "comments": 130,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=28200288"
+  },
+  {
+    "title": "Why are so many knowledge workers quitting?",
+    "url": "https://www.newyorker.com/culture/office-space/why-are-so-many-knowledge-workers-quitting",
+    "upvotes": 74,
+    "author": "irtefa",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=28205933"
   },
   {
     "title": "Occlusion-Aware Video Object Inpainting",
     "url": "http://www.kelei.site/voin/",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "lnyan",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28205315"
@@ -82,15 +102,15 @@
   {
     "title": "Computer simulation helps test land management techniques to help bumblebees",
     "url": "https://www.exeter.ac.uk/news/research/title_872443_en.html",
-    "upvotes": 128,
+    "upvotes": 129,
     "author": "rbanffy",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=28201547"
   },
   {
     "title": "Linux Kernel Defence Map",
     "url": "https://github.com/a13xp0p0v/linux-kernel-defence-map",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "ingve",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28187759"
@@ -98,38 +118,34 @@
   {
     "title": "Homa, a transport protocol to replace TCP for low-latency RPC in data centers",
     "url": "https://www.micahlerner.com/2021/08/15/a-linux-kernel-implementation-of-the-homa-transport-protocol.html",
-    "upvotes": 29,
+    "upvotes": 34,
     "author": "mlerner",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28204808"
   },
   {
     "title": "Swiping left on magnetic stripes",
     "url": "https://www.mastercard.com/news/perspectives/2021/magnetic-stripe/",
-    "upvotes": 116,
+    "upvotes": 120,
     "author": "w3ll_w3ll_w3ll",
-    "comments": 183,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=28202198"
   },
   {
     "title": "To remember everything you learn, surrender to this algorithm",
     "url": "https://www.wired.com/2008/04/ff-wozniak/",
-    "upvotes": 159,
+    "upvotes": 163,
     "author": "sanmak",
-    "comments": 81,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=28200913"
   },
   {
-    "title": "SwiftSku",
-    "url": "https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive"
-  },
-  {
-    "title": "Afghans are racing to erase their online lives",
-    "url": "https://www.wired.co.uk/article/afghanistan-social-media-delete",
-    "upvotes": 9,
-    "author": "jimmy2020",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28206734"
+    "title": "Improved C syntax highlighting for Vim",
+    "url": "https://github.com/pulkomandy/c.vim",
+    "upvotes": 21,
+    "author": "app4soft",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=28201652"
   },
   {
     "title": "Progress Quest",
@@ -140,35 +156,43 @@
     "link": "https://news.ycombinator.com/item?id=28193680"
   },
   {
-    "title": "Improved C syntax highlighting for Vim",
-    "url": "https://github.com/pulkomandy/c.vim",
-    "upvotes": 18,
-    "author": "app4soft",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28201652"
-  },
-  {
     "title": "Google Groups kills RSS support without notice",
     "url": "https://www.theregister.com/2021/08/16/google_groups_rss/",
-    "upvotes": 169,
+    "upvotes": 172,
     "author": "samizdis",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=28204340"
+  },
+  {
+    "title": "Edward de Bono Obituary",
+    "url": "https://www.theguardian.com/books/2021/jun/10/edward-de-bono-obituary",
+    "upvotes": 3,
+    "author": "edward",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28192626"
   },
   {
     "title": "T-Mobile Confirms It Was Hacked",
     "url": "https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked",
-    "upvotes": 368,
+    "upvotes": 372,
     "author": "jbegley",
-    "comments": 213,
+    "comments": 216,
     "link": "https://news.ycombinator.com/item?id=28202399"
+  },
+  {
+    "title": "Museum of Extinct Video Recorders",
+    "url": "http://www.labguysworld.com/VTR-Museum_001.htm",
+    "upvotes": 9,
+    "author": "bookofjoe",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28182935"
   },
   {
     "title": "Moving Avoids California Tax? Not So Fast",
     "url": "https://www.forbes.com/sites/robertwood/2021/07/12/moving-avoids-california-tax-not-so-fast",
-    "upvotes": 85,
+    "upvotes": 89,
     "author": "dmitrygr",
-    "comments": 107,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=28204401"
   },
   {
@@ -182,57 +206,33 @@
   {
     "title": "Alda – Text-Based Programming Language for Music Composition",
     "url": "https://alda.io/tutorial/",
-    "upvotes": 422,
+    "upvotes": 425,
     "author": "p1esk",
     "comments": 106,
     "link": "https://news.ycombinator.com/item?id=28198641"
   },
   {
-    "title": "Museum of Extinct Video Recorders",
-    "url": "http://www.labguysworld.com/VTR-Museum_001.htm",
-    "upvotes": 8,
-    "author": "bookofjoe",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28182935"
-  },
-  {
-    "title": "Economic costs of war",
-    "url": "https://watson.brown.edu/costsofwar/costs/economic",
-    "upvotes": 576,
-    "author": "hncurious",
-    "comments": 494,
-    "link": "https://news.ycombinator.com/item?id=28203948"
-  },
-  {
     "title": "The Federal Writers’ Project fueled the cultural ferment of the New Deal era",
     "url": "https://jacobinmag.com/2021/07/federal-writers-project-new-deal-era-public-funding-wpa-fdr",
-    "upvotes": 24,
+    "upvotes": 25,
     "author": "acsillag",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28192221"
   },
   {
+    "title": "Economic costs of war",
+    "url": "https://watson.brown.edu/costsofwar/costs/economic",
+    "upvotes": 582,
+    "author": "hncurious",
+    "comments": 498,
+    "link": "https://news.ycombinator.com/item?id=28203948"
+  },
+  {
     "title": "Object-Oriented Entity-Component-System Design",
     "url": "https://voxely.net/blog/object-oriented-entity-component-system-design/",
-    "upvotes": 121,
+    "upvotes": 122,
     "author": "agluszak",
-    "comments": 96,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=28198996"
-  },
-  {
-    "title": "Launch HN: SigmaOS (YC S21) – A MacOS web browser designed for faster work",
-    "url": "item?id=28197537",
-    "upvotes": 141,
-    "author": "MahyadGhassemi",
-    "comments": 309,
-    "link": "https://news.ycombinator.com/item?id=28197537"
-  },
-  {
-    "title": "Go 1.17 Release Notes",
-    "url": "https://golang.org/doc/go1.17",
-    "upvotes": 171,
-    "author": "aofeisheng",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=28201732"
   }
 ]
