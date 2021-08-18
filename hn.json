@@ -2,31 +2,31 @@
   {
     "title": "Asking nicely for root command execution and getting it",
     "url": "https://rachelbythebay.com/w/2021/08/17/pop/",
-    "upvotes": 232,
+    "upvotes": 251,
     "author": "TangerineDream",
-    "comments": 50,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=28215157"
   },
   {
     "title": "Slow Electricity: The Return of DC Power?",
     "url": "http://www.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-low-voltage-dc-power.html",
-    "upvotes": 23,
+    "upvotes": 25,
     "author": "lispython",
-    "comments": 15,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=28216968"
   },
   {
     "title": "Lawrence Livermore claims a milestone in laser fusion",
     "url": "https://physicstoday.scitation.org/do/10.1063/PT.6.2.20210817a/full/?af=R&",
-    "upvotes": 445,
+    "upvotes": 452,
     "author": "furcyd",
-    "comments": 204,
+    "comments": 207,
     "link": "https://news.ycombinator.com/item?id=28211726"
   },
   {
     "title": "Exploring Clang/LLVM optimization on programming horror",
     "url": "https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/",
-    "upvotes": 238,
+    "upvotes": 245,
     "author": "maattdd",
     "comments": 49,
     "link": "https://news.ycombinator.com/item?id=28207207"
@@ -34,50 +34,98 @@
   {
     "title": "Will the rich world’s worker deficit last?",
     "url": "https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401",
-    "upvotes": 80,
+    "upvotes": 87,
     "author": "prostoalex",
-    "comments": 157,
+    "comments": 169,
     "link": "https://news.ycombinator.com/item?id=28215646"
-  },
-  {
-    "title": "Zink",
-    "url": "https://cgit.freedesktop.org/mesa/mesa/commit/?id=40fdb3212c3ded2150faf952dc2b669991bfbf94",
-    "upvotes": 132,
-    "author": "marcodiego",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=28213587"
-  },
-  {
-    "title": "Complexity theory puts limits on performance of gradient descent",
-    "url": "https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/",
-    "upvotes": 69,
-    "author": "programd",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=28215676"
   },
   {
     "title": "Program Synthesis with Large Language Models",
     "url": "https://arxiv.org/abs/2108.07732",
-    "upvotes": 13,
+    "upvotes": 21,
     "author": "lnyan",
-    "comments": 4,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28217026"
+  },
+  {
+    "title": "Zink",
+    "url": "https://cgit.freedesktop.org/mesa/mesa/commit/?id=40fdb3212c3ded2150faf952dc2b669991bfbf94",
+    "upvotes": 138,
+    "author": "marcodiego",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=28213587"
   },
   {
     "title": "Helvetica Now Variable",
     "url": "https://www.monotype.com/fonts/helvetica-now-variable",
-    "upvotes": 272,
+    "upvotes": 276,
     "author": "bpierre",
     "comments": 155,
     "link": "https://news.ycombinator.com/item?id=28211137"
   },
   {
+    "title": "Complexity theory puts limits on performance of gradient descent",
+    "url": "https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/",
+    "upvotes": 71,
+    "author": "programd",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=28215676"
+  },
+  {
+    "title": "Modern LZ Compression",
+    "url": "https://glinscott.github.io/lz/index.html",
+    "upvotes": 39,
+    "author": "imadr",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=28215939"
+  },
+  {
     "title": "A Gentle Introduction to Tensors",
     "url": "https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf",
-    "upvotes": 61,
+    "upvotes": 64,
     "author": "michaelsbradley",
-    "comments": 14,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28215212"
+  },
+  {
+    "title": "Launch YC S21: Meet the Batch, Thread #7",
+    "url": "item?id=28209928",
+    "upvotes": 83,
+    "author": "dang",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=28209928"
+  },
+  {
+    "title": "Deleting no longer prompts on Android – Google Voice Community",
+    "url": "https://support.google.com/voice/thread/121731933/deleting-no-longer-prompts-on-android-delete-icon-next-to-archive",
+    "upvotes": 49,
+    "author": "encryptluks2",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=28216896"
+  },
+  {
+    "title": "A simple way to build collaborative web apps",
+    "url": "https://zjy.cloud/posts/collaborative-web-apps",
+    "upvotes": 198,
+    "author": "thezjy",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=28209736"
+  },
+  {
+    "title": "Show HN: Tara 2.0 – Fast Jira alternative with automation based on Git events",
+    "url": "https://tara.ai/",
+    "upvotes": 79,
+    "author": "iba99",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=28210493"
+  },
+  {
+    "title": "The ATS Programming Language",
+    "url": "http://www.ats-lang.org/",
+    "upvotes": 64,
+    "author": "rak1507",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=28214665"
   },
   {
     "title": "The Many",
@@ -88,52 +136,32 @@
     "link": "https://news.ycombinator.com/item?id=28208122"
   },
   {
-    "title": "Launch YC S21: Meet the Batch, Thread #7",
-    "url": "item?id=28209928",
-    "upvotes": 82,
-    "author": "dang",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=28209928"
-  },
-  {
-    "title": "The ATS Programming Language",
-    "url": "http://www.ats-lang.org/",
-    "upvotes": 61,
-    "author": "rak1507",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=28214665"
-  },
-  {
-    "title": "A simple way to build collaborative web apps",
-    "url": "https://zjy.cloud/posts/collaborative-web-apps",
-    "upvotes": 195,
-    "author": "thezjy",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=28209736"
-  },
-  {
-    "title": "Show HN: Tara 2.0 – Fast Jira alternative with automation based on Git events",
-    "url": "https://tara.ai/",
-    "upvotes": 75,
-    "author": "iba99",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=28210493"
-  },
-  {
     "title": "The Wendelstein 7-X concept proves its efficiency",
     "url": "https://www.ipp.mpg.de/5125328/05_21",
-    "upvotes": 156,
+    "upvotes": 160,
     "author": "Tomte",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=28211413"
   },
   {
-    "title": "Modern LZ Compression",
-    "url": "https://glinscott.github.io/lz/index.html",
-    "upvotes": 31,
-    "author": "imadr",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=28215939"
+    "title": "Why do so many people move to the Falkland Islands?",
+    "url": "https://slate.com/news-and-politics/2009/05/why-do-so-many-people-move-to-the-falkland-islands.html",
+    "upvotes": 3,
+    "author": "aww_dang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28207105"
+  },
+  {
+    "title": "Upsolve",
+    "url": "https://upsolve.org/careers/software-engineer/"
+  },
+  {
+    "title": "PureBasic switches to a C backend",
+    "url": "https://www.purebasic.fr/blog/?p=486",
+    "upvotes": 65,
+    "author": "svenfaw",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=28208317"
   },
   {
     "title": "Inflatable robotic hand gives amputees real-time tactile control",
@@ -144,95 +172,67 @@
     "link": "https://news.ycombinator.com/item?id=28201804"
   },
   {
-    "title": "Upsolve",
-    "url": "https://upsolve.org/careers/software-engineer/"
-  },
-  {
-    "title": "PureBasic switches to a C backend",
-    "url": "https://www.purebasic.fr/blog/?p=486",
-    "upvotes": 64,
-    "author": "svenfaw",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=28208317"
-  },
-  {
     "title": "Ask HN: Why does Zoom Desktop examine all processes and arguments?",
     "url": "item?id=28213292",
-    "upvotes": 349,
+    "upvotes": 357,
     "author": "neolog",
-    "comments": 176,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=28213292"
   },
   {
-    "title": "Deleting no longer prompts on Android – Google Voice Community",
-    "url": "https://support.google.com/voice/thread/121731933/deleting-no-longer-prompts-on-android-delete-icon-next-to-archive",
-    "upvotes": 45,
-    "author": "encryptluks2",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=28216896"
+    "title": "Designing better batteries for electric vehicles",
+    "url": "https://news.mit.edu/2021/designing-better-batteries-electric-vehicles-0816",
+    "upvotes": 5,
+    "author": "35_candelas",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28217067"
   },
   {
     "title": "Children of the night: the strange and epic tale of modern Romania",
     "url": "https://www.spectator.co.uk/article/it-all-started-with-dracula",
-    "upvotes": 28,
-    "author": "lermontov",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28204756"
-  },
-  {
-    "title": "The virtual data center – a 1401 3D simulation",
-    "url": "https://rolffson.de",
-    "upvotes": 26,
-    "author": "beprogrammed",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28207306"
-  },
-  {
-    "title": "CA drought: Past dry periods have lasted more than 200 years, scientists say",
-    "url": "https://www.mercurynews.com/2014/01/25/california-drought-past-dry-periods-have-lasted-more-than-200-years-scientists-say/",
     "upvotes": 30,
-    "author": "hncurious",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=28216772"
-  },
-  {
-    "title": "Human algorithms are contagious but not genetic",
-    "url": "https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/",
-    "upvotes": 41,
-    "author": "goldfish",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=28215232"
-  },
-  {
-    "title": "Burning Buried Sunshine",
-    "url": "https://plus.maths.org/content/burning-buried-sunshine",
-    "upvotes": 38,
-    "author": "dredmorbius",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=28214230"
-  },
-  {
-    "title": "Bad News",
-    "url": "https://harpers.org/archive/2021/09/bad-news-selling-the-story-of-disinformation/",
-    "upvotes": 180,
-    "author": "jbegley",
-    "comments": 180,
-    "link": "https://news.ycombinator.com/item?id=28209608"
+    "author": "lermontov",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28204756"
   },
   {
     "title": "A fast alternative to the modulo reduction",
     "url": "https://lemire.me/blog/2016/06/27/a-fast-alternative-to-the-modulo-reduction/",
-    "upvotes": 4,
+    "upvotes": 6,
     "author": "karmakaze",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28197029"
   },
   {
-    "title": "Designing better batteries for electric vehicles",
-    "url": "https://news.mit.edu/2021/designing-better-batteries-electric-vehicles-0816",
-    "upvotes": 3,
-    "author": "35_candelas",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28217067"
+    "title": "Bad News",
+    "url": "https://harpers.org/archive/2021/09/bad-news-selling-the-story-of-disinformation/",
+    "upvotes": 184,
+    "author": "jbegley",
+    "comments": 189,
+    "link": "https://news.ycombinator.com/item?id=28209608"
+  },
+  {
+    "title": "Human algorithms are contagious but not genetic",
+    "url": "https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/",
+    "upvotes": 42,
+    "author": "goldfish",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28215232"
+  },
+  {
+    "title": "CA drought: Past dry periods have lasted more than 200 years, scientists say",
+    "url": "https://www.mercurynews.com/2014/01/25/california-drought-past-dry-periods-have-lasted-more-than-200-years-scientists-say/",
+    "upvotes": 35,
+    "author": "hncurious",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=28216772"
+  },
+  {
+    "title": "The virtual data center – a 1401 3D simulation",
+    "url": "https://rolffson.de",
+    "upvotes": 27,
+    "author": "beprogrammed",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28207306"
   }
 ]
