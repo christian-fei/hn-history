@@ -2,34 +2,42 @@
   {
     "title": "SEC charges Netflix insider trading ring",
     "url": "https://www.sec.gov/news/press-release/2021-158",
-    "upvotes": 87,
+    "upvotes": 133,
     "author": "hhs",
-    "comments": 41,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=28227209"
-  },
-  {
-    "title": "Wgpu-0.10 released: WebGPU implementation now in pure Rust",
-    "url": "https://gfx-rs.github.io/2021/08/18/release-0.10.html",
-    "upvotes": 71,
-    "author": "kvark",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28227229"
   },
   {
     "title": "Canada calls screen scraping ‘unsecure,’ sets Open Banking target for 2023",
     "url": "https://finledger.com/2021/08/09/canada-sets-open-banking-target-for-2023/",
-    "upvotes": 29,
+    "upvotes": 61,
     "author": "exotree",
-    "comments": 9,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=28227633"
+  },
+  {
+    "title": "Wgpu-0.10 released: WebGPU implementation now in pure Rust",
+    "url": "https://gfx-rs.github.io/2021/08/18/release-0.10.html",
+    "upvotes": 87,
+    "author": "kvark",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=28227229"
   },
   {
     "title": "Richard Bartle releases his classic “Designing Virtual Worlds” book for free",
     "url": "https://nwn.blogs.com/nwn/2021/08/richard-bartle-designing-virtual-worlds-free-book.html",
-    "upvotes": 97,
+    "upvotes": 111,
     "author": "Kroeler",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28226176"
+  },
+  {
+    "title": "DigitalOcean has the worst reviews I've ever seen",
+    "url": "https://www.trustpilot.com/review/digitalocean.com",
+    "upvotes": 25,
+    "author": "zaczekadam",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=28228107"
   },
   {
     "title": "Launch HN: Govly (YC S21) – Making it easier to sell to the U.S. government",
@@ -42,197 +50,189 @@
   {
     "title": "GoKart: A static analysis tool for securing Go code",
     "url": "https://github.com/praetorian-inc/gokart",
-    "upvotes": 29,
+    "upvotes": 39,
     "author": "SnowflakeOnIce",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28227487"
   },
   {
     "title": "Show HN: I built an AI art installation at home generating new pieces on the fly",
     "url": "https://github.com/maxvfischer/DIY-ai-art",
-    "upvotes": 300,
+    "upvotes": 305,
     "author": "mfi",
-    "comments": 136,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=28221904"
   },
   {
-    "title": "The Big Sleep: The most baffling film ever made?",
-    "url": "https://www.bbc.com/culture/article/20210812-the-big-sleep-the-most-baffling-film-ever-made",
-    "upvotes": 78,
-    "author": "DrNuke",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=28207372"
+    "title": "Apple’s device surveillance plan is a threat to user privacy – and press freedom",
+    "url": "https://freedom.press/news/apples-device-surveillance-plan-is-a-threat-to-user-privacy-and-press-freedom/",
+    "upvotes": 143,
+    "author": "bangonkeyboard",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=28227022"
   },
   {
     "title": "Modern Treasury",
     "url": "https://jobs.ashbyhq.com/moderntreasury?departmentId=ee54bd63-1eab-4173-ae81-46e2b817fe57"
   },
   {
-    "title": "Elm at Rakuten",
-    "url": "https://engineering.rakuten.today/post/elm-at-rakuten/",
-    "upvotes": 213,
-    "author": "dragonsh",
-    "comments": 119,
-    "link": "https://news.ycombinator.com/item?id=28222060"
-  },
-  {
-    "title": "Xerox Alto Emulator",
-    "url": "https://archives.loomcom.com/contraltojs/",
-    "upvotes": 101,
-    "author": "hsnewman",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=28223312"
-  },
-  {
     "title": "Net Positive",
     "url": "https://projects.qz.com/is/net-positive/",
-    "upvotes": 10,
+    "upvotes": 16,
     "author": "hidden-spyder",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28218897"
   },
   {
+    "title": "The Big Sleep: The most baffling film ever made?",
+    "url": "https://www.bbc.com/culture/article/20210812-the-big-sleep-the-most-baffling-film-ever-made",
+    "upvotes": 83,
+    "author": "DrNuke",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=28207372"
+  },
+  {
+    "title": "Xerox Alto Emulator",
+    "url": "https://archives.loomcom.com/contraltojs/",
+    "upvotes": 106,
+    "author": "hsnewman",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=28223312"
+  },
+  {
+    "title": "Understanding Foreign Data Wrappers in Postgres and Postgres_fdw",
+    "url": "https://blog.crunchydata.com/blog/understanding-postgres_fdw",
+    "upvotes": 9,
+    "author": "craigkerstiens",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28227905"
+  },
+  {
+    "title": "Elm at Rakuten",
+    "url": "https://engineering.rakuten.today/post/elm-at-rakuten/",
+    "upvotes": 216,
+    "author": "dragonsh",
+    "comments": 123,
+    "link": "https://news.ycombinator.com/item?id=28222060"
+  },
+  {
+    "title": "Scientific progress despite irreproducibility: A seeming paradox",
+    "url": "https://www.pnas.org/content/115/11/2632",
+    "upvotes": 33,
+    "author": "nabla9",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=28225657"
+  },
+  {
+    "title": "Show HN: I made an LED indicator for my portfolio site",
+    "url": "https://www.circusscientist.com/2021/08/18/i-made-an-led-indicator-for-my-portfolio-site/",
+    "upvotes": 6,
+    "author": "tomjuggler",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28218645"
+  },
+  {
     "title": "Terrorist watchlist exposed via misconfigured Elasticsearch cluster",
     "url": "https://www.bleepingcomputer.com/news/security/secret-terrorist-watchlist-with-2-million-records-exposed-online/",
-    "upvotes": 257,
+    "upvotes": 267,
     "author": "david_shaw",
-    "comments": 167,
+    "comments": 173,
     "link": "https://news.ycombinator.com/item?id=28200691"
   },
   {
-    "title": "Theft! a History of Music",
+    "title": "Launch HN: Flow Club (YC S21) – Virtual co-working space for focused work",
+    "url": "item?id=28222242",
+    "upvotes": 150,
+    "author": "rickyyean",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=28222242"
+  },
+  {
+    "title": "Theft! A History of Music",
     "url": "https://web.law.duke.edu/musiccomic/",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "8bitsrule",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28218251"
   },
   {
-    "title": "Launch HN: Flow Club (YC S21) – Virtual co-working space for focused work",
-    "url": "item?id=28222242",
-    "upvotes": 149,
-    "author": "rickyyean",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=28222242"
-  },
-  {
     "title": "Reverse-engineering a vintage power supply chip from die photos",
     "url": "https://www.righto.com/2021/08/reverse-engineering-vintage-power.html",
-    "upvotes": 82,
+    "upvotes": 83,
     "author": "parsecs",
-    "comments": 22,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=28224575"
-  },
-  {
-    "title": "Scientific progress despite irreproducibility: A seeming paradox",
-    "url": "https://www.pnas.org/content/115/11/2632",
-    "upvotes": 28,
-    "author": "nabla9",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=28225657"
-  },
-  {
-    "title": "Apple’s device surveillance plan is a threat to user privacy – and press freedom",
-    "url": "https://freedom.press/news/apples-device-surveillance-plan-is-a-threat-to-user-privacy-and-press-freedom/",
-    "upvotes": 104,
-    "author": "bangonkeyboard",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28227022"
-  },
-  {
-    "title": "First Beta for Krita 5.0 released",
-    "url": "https://krita.org/en/item/first-beta-for-krita-5-0-released/",
-    "upvotes": 87,
-    "author": "marcodiego",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=28226681"
   },
   {
     "title": "B-Trees: More Than I Thought I'd Want to Know",
     "url": "https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/",
-    "upvotes": 133,
+    "upvotes": 139,
     "author": "todsacerdoti",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=28221612"
-  },
-  {
-    "title": "Best RealSense replacements?",
-    "url": "https://github.com/IntelRealSense/librealsense/issues/9653",
-    "upvotes": 70,
-    "author": "paulkrush",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=28225065"
   },
   {
     "title": "Using a laser to blast away a Bayer filter array from a CCD",
     "url": "https://hackaday.com/2021/08/09/using-a-laser-to-blast-away-a-bayer-array/",
-    "upvotes": 103,
+    "upvotes": 105,
     "author": "_Microft",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=28219101"
   },
   {
-    "title": "Time to retire the CSV?",
-    "url": "https://www.bitsondisk.com/writing/2021/retire-the-csv/",
-    "upvotes": 129,
-    "author": "asicsp",
-    "comments": 401,
-    "link": "https://news.ycombinator.com/item?id=28221654"
+    "title": "Best RealSense replacements?",
+    "url": "https://github.com/IntelRealSense/librealsense/issues/9653",
+    "upvotes": 73,
+    "author": "paulkrush",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=28225065"
   },
   {
-    "title": "Marc Andreessen on Investing and Tech",
-    "url": "https://richardhanania.substack.com/p/flying-x-wings-into-the-death-star",
-    "upvotes": 98,
-    "author": "MrBuddyCasino",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=28218989"
+    "title": "First Beta for Krita 5.0 released",
+    "url": "https://krita.org/en/item/first-beta-for-krita-5-0-released/",
+    "upvotes": 92,
+    "author": "marcodiego",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=28226681"
+  },
+  {
+    "title": "Time to retire the CSV?",
+    "url": "https://www.bitsondisk.com/writing/2021/retire-the-csv/",
+    "upvotes": 131,
+    "author": "asicsp",
+    "comments": 408,
+    "link": "https://news.ycombinator.com/item?id=28221654"
   },
   {
     "title": "The Quest for Very Wide Outlines",
     "url": "https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9",
-    "upvotes": 122,
+    "upvotes": 126,
     "author": "todsacerdoti",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28208586"
+  },
+  {
+    "title": "Marc Andreessen on Investing and Tech",
+    "url": "https://richardhanania.substack.com/p/flying-x-wings-into-the-death-star",
+    "upvotes": 100,
+    "author": "MrBuddyCasino",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=28218989"
   },
   {
     "title": "Hire for slope, not Y-Intercept",
     "url": "https://matt-rickard.com/hire-slope-not-intercept/",
-    "upvotes": 85,
+    "upvotes": 91,
     "author": "rckrd",
-    "comments": 68,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=28221382"
   },
   {
     "title": "Can AI help design our logo?",
     "url": "https://www.labelf.ai/blog/can-ai-help-design-our-logo",
-    "upvotes": 11,
+    "upvotes": 13,
     "author": "yboris",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28227033"
-  },
-  {
-    "title": "Resigning from the AMP Advisory Committee",
-    "url": "https://adactio.com/journal/18350",
-    "upvotes": 50,
-    "author": "robin_reala",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=28223221"
-  },
-  {
-    "title": "Show HN: Pop.com – pair programming with low-latency, Screenhero-style sharing",
-    "url": "https://pop.com/home",
-    "upvotes": 108,
-    "author": "jsherwani",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=28223515"
-  },
-  {
-    "title": "1800s Astronomical Drawings vs. NASA Images",
-    "url": "https://www.nypl.org/blog/2016/08/19/1800s-astronomical-drawings",
-    "upvotes": 230,
-    "author": "dredmorbius",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=28218428"
   }
 ]
