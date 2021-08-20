@@ -2,55 +2,71 @@
   {
     "title": "Performance Improvements in .NET 6",
     "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/",
-    "upvotes": 57,
+    "upvotes": 94,
     "author": "pjmlp",
-    "comments": 11,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28218174"
+  },
+  {
+    "title": "Quantum Mechanics of Gravitational Waves",
+    "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.081602",
+    "upvotes": 6,
+    "author": "shusaku",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28241758"
   },
   {
     "title": "Fructose in diet expands the surface of the gut and promotes nutrient absorption",
     "url": "https://www.nature.com/articles/d41586-021-02195-1",
-    "upvotes": 106,
+    "upvotes": 123,
     "author": "gmays",
-    "comments": 53,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=28239113"
-  },
-  {
-    "title": "ImageNet contains naturally occurring Apple NeuralHash collisions",
-    "url": "https://blog.roboflow.com/nerualhash-collision/",
-    "upvotes": 747,
-    "author": "yeldarb",
-    "comments": 449,
-    "link": "https://news.ycombinator.com/item?id=28236102"
   },
   {
     "title": "Memfd_secret",
     "url": "https://lwn.net/Articles/865256/",
-    "upvotes": 30,
+    "upvotes": 35,
     "author": "todsacerdoti",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28241033"
+  },
+  {
+    "title": "ImageNet contains naturally occurring Apple NeuralHash collisions",
+    "url": "https://blog.roboflow.com/nerualhash-collision/",
+    "upvotes": 752,
+    "author": "yeldarb",
+    "comments": 457,
+    "link": "https://news.ycombinator.com/item?id=28236102"
   },
   {
     "title": "OnlyFans to block sexually explicit videos starting in October",
     "url": "https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october",
-    "upvotes": 810,
+    "upvotes": 830,
     "author": "minimaxir",
-    "comments": 964,
+    "comments": 987,
     "link": "https://news.ycombinator.com/item?id=28237274"
   },
   {
-    "title": "Tesla AI Day Live Stream [video]",
-    "url": "https://livestream.tesla.com",
-    "upvotes": 74,
-    "author": "Geee",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=28240882"
+    "title": "Apple explicitly asks employees to merge their personal and work accounts",
+    "url": "https://twitter.com/oilyraincloud/status/1428497203253833731",
+    "upvotes": 7,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28241753"
+  },
+  {
+    "title": "Why it’s difficult to build teams in high growth organisations",
+    "url": "https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337",
+    "upvotes": 89,
+    "author": "absolute100",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=28238762"
   },
   {
     "title": "From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo",
     "url": "https://css-tricks.com/from-a-single-repo-to-multi-repos-to-monorepo-to-multi-monorepo/",
-    "upvotes": 31,
+    "upvotes": 34,
     "author": "leoloso",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28220113"
@@ -58,39 +74,31 @@
   {
     "title": "A Visual Guide to React Rendering",
     "url": "https://alexsidorenko.com/blog/react-render-always-rerenders/",
-    "upvotes": 73,
+    "upvotes": 78,
     "author": "bpierre",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28239692"
-  },
-  {
-    "title": "Why it’s difficult to build teams in high growth organisations",
-    "url": "https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337",
-    "upvotes": 84,
-    "author": "absolute100",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=28238762"
   },
   {
     "title": "Building Container Images with Nix",
     "url": "https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/",
-    "upvotes": 29,
+    "upvotes": 34,
     "author": "dboreham",
-    "comments": 5,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=28240748"
   },
   {
     "title": "Japanese gaming arcades are on their last life",
     "url": "https://www.japantimes.co.jp/life/2021/06/06/digital/japanese-gaming-arcades-pandemic/",
-    "upvotes": 42,
+    "upvotes": 47,
     "author": "mikhael",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28238977"
   },
   {
     "title": "A 5x reduction in RAM usage with Zoekt memory optimizations",
     "url": "https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud",
-    "upvotes": 84,
+    "upvotes": 89,
     "author": "janisz",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=28237556"
@@ -98,91 +106,115 @@
   {
     "title": "Automating a Software Company with GitHub Actions",
     "url": "https://posthog.com/blog/automating-a-software-company-with-github-actions/",
-    "upvotes": 202,
+    "upvotes": 203,
     "author": "mariusandra",
-    "comments": 61,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=28234057"
-  },
-  {
-    "title": "Zimki, the world's first Platform as a Service that belonged to Canon",
-    "url": "https://blog.porter.run/history-of-paas-how-canon-almost-became-a-major-cloud-provider/",
-    "upvotes": 70,
-    "author": "sungrokshim",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=28236217"
   },
   {
     "title": "Data-Mining Wikipedia for Fun and Profit",
     "url": "https://billpg.com/data-mining-wikipedia/",
-    "upvotes": 172,
+    "upvotes": 177,
     "author": "billpg",
     "comments": 76,
     "link": "https://news.ycombinator.com/item?id=28234122"
-  },
-  {
-    "title": "Show HN: Tangram – Train a model from a CSV file on the command line",
-    "url": "https://www.tangram.dev",
-    "upvotes": 47,
-    "author": "nitsky",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=28221043"
   },
   {
     "title": "Synthetic Minds",
     "url": "https://www.workatastartup.com/jobs/44386"
   },
   {
-    "title": "Launch YC S21: Meet the Batch, Thread #8",
-    "url": "item?id=28233916",
-    "upvotes": 75,
-    "author": "dang",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=28233916"
+    "title": "Tesla AI Day Live Stream [video]",
+    "url": "https://livestream.tesla.com",
+    "upvotes": 87,
+    "author": "Geee",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=28240882"
   },
   {
     "title": "The lost tablet and secret documents: Clues pointing to a shadowy Russian army",
     "url": "https://www.bbc.co.uk/news/extra/8iaz6xit26/the-lost-tablet-and-the-secret-documents",
-    "upvotes": 10,
+    "upvotes": 22,
     "author": "robocat",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28241439"
+  },
+  {
+    "title": "Zimki, the world's first Platform as a Service that belonged to Canon",
+    "url": "https://blog.porter.run/history-of-paas-how-canon-almost-became-a-major-cloud-provider/",
+    "upvotes": 71,
+    "author": "sungrokshim",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=28236217"
+  },
+  {
+    "title": "Show HN: Tangram – Train a model from a CSV file on the command line",
+    "url": "https://www.tangram.dev",
+    "upvotes": 50,
+    "author": "nitsky",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=28221043"
+  },
+  {
+    "title": "Launch YC S21: Meet the Batch, Thread #8",
+    "url": "item?id=28233916",
+    "upvotes": 75,
+    "author": "dang",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=28233916"
+  },
+  {
+    "title": "Show HN: ETSD – Transmit sensitive data encrypted across your organization",
+    "url": "https://github.com/spapas/etsd",
+    "upvotes": 22,
+    "author": "spapas82",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=28219614"
+  },
+  {
+    "title": "How Big Data Carried Graph Theory into New Dimensions",
+    "url": "https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/",
+    "upvotes": 3,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28241398"
   },
   {
     "title": "Where did the web archive go?",
     "url": "https://arxiv.org/abs/2108.05939",
-    "upvotes": 72,
+    "upvotes": 74,
     "author": "Hard_Space",
-    "comments": 23,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28218304"
-  },
-  {
-    "title": "Chip shortage: Toyota to cut global production by 40%",
-    "url": "https://www.bbc.com/news/business-58266794",
-    "upvotes": 522,
-    "author": "midnightcity",
-    "comments": 653,
-    "link": "https://news.ycombinator.com/item?id=28232469"
   },
   {
     "title": "FTC files new antitrust complaint against Facebook",
     "url": "https://www.ftc.gov/news-events/press-releases/2021/08/ftc-alleges-facebook-resorted-illegal-buy-or-bury-scheme-crush",
-    "upvotes": 378,
+    "upvotes": 379,
     "author": "dmix",
-    "comments": 117,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=28235555"
   },
   {
     "title": "What Is ‘Elite Overproduction’?",
     "url": "https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html",
-    "upvotes": 80,
+    "upvotes": 86,
     "author": "cinquemb",
-    "comments": 75,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=28240533"
+  },
+  {
+    "title": "‘Horizon Workrooms’: remote collaboration reimagined",
+    "url": "https://www.oculus.com/blog/workrooms/",
+    "upvotes": 91,
+    "author": "bemmu",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=28232660"
   },
   {
     "title": "NvChad: An attempt to make Neovim TUI as functional as an IDE",
     "url": "https://github.com/NvChad/NvChad",
-    "upvotes": 138,
+    "upvotes": 140,
     "author": "axiomdata316",
     "comments": 74,
     "link": "https://news.ycombinator.com/item?id=28204220"
@@ -190,49 +222,17 @@
   {
     "title": "The protocol designed to heal the ozone layer may also have fended off warming",
     "url": "https://www.technologyreview.com/2021/08/18/1032168/montreal-protocol-warming-lessons-climate-change-ozone/",
-    "upvotes": 49,
+    "upvotes": 51,
     "author": "r0n0j0y",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=28231507"
-  },
-  {
-    "title": "‘Horizon Workrooms’: remote collaboration reimagined",
-    "url": "https://www.oculus.com/blog/workrooms/",
-    "upvotes": 87,
-    "author": "bemmu",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=28232660"
   },
   {
     "title": "Water Conflict Chronology",
     "url": "http://www.worldwater.org/conflict/list/",
-    "upvotes": 71,
+    "upvotes": 72,
     "author": "simonebrunozzi",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=28234990"
-  },
-  {
-    "title": "286 vs. 386SX",
-    "url": "https://dfarq.homeip.net/286-vs-386sx/",
-    "upvotes": 149,
-    "author": "giuliomagnifico",
-    "comments": 155,
-    "link": "https://news.ycombinator.com/item?id=28233525"
-  },
-  {
-    "title": "PNG File Chunk Inspector",
-    "url": "https://www.nayuki.io/page/png-file-chunk-inspector",
-    "upvotes": 28,
-    "author": "nayuki",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28230482"
-  },
-  {
-    "title": "Breaking down a ripple animation in JavaScript",
-    "url": "https://www.bryanbraun.com/2021/04/15/ripple-animation-in-javascript/",
-    "upvotes": 55,
-    "author": "bryanbraun",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=28234779"
   }
 ]
