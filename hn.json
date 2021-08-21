@@ -1,95 +1,87 @@
 [
   {
-    "title": "Janet Programming Language",
-    "url": "https://janet-lang.org/",
-    "upvotes": 95,
-    "author": "rcarmo",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=28255116"
-  },
-  {
     "title": "Patterns in Confusing Explanations",
     "url": "https://jvns.ca/blog/confusing-explanations/",
-    "upvotes": 209,
+    "upvotes": 225,
     "author": "pabs3",
-    "comments": 47,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=28254630"
+  },
+  {
+    "title": "Janet Programming Language",
+    "url": "https://janet-lang.org/",
+    "upvotes": 106,
+    "author": "rcarmo",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=28255116"
   },
   {
     "title": "Google's Secret Initiative – “Project Hug”",
     "url": "https://twitter.com/jowens510/status/1428415192480698371",
-    "upvotes": 119,
+    "upvotes": 177,
     "author": "radmuzom",
-    "comments": 18,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=28255798"
-  },
-  {
-    "title": "‘I Don’t Want to Be Like a Family with My Co-Workers’",
-    "url": "https://www.thecut.com/article/i-dont-want-to-be-like-a-family-with-my-co-workers.html",
-    "upvotes": 73,
-    "author": "kakakiki",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=28255781"
   },
   {
     "title": "The World’s Largest Computer Chip",
     "url": "https://www.newyorker.com/tech/annals-of-technology/the-worlds-largest-computer-chip",
-    "upvotes": 19,
+    "upvotes": 29,
     "author": "doe88",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=28255634"
+  },
+  {
+    "title": "‘I Don’t Want to Be Like a Family with My Co-Workers’",
+    "url": "https://www.thecut.com/article/i-dont-want-to-be-like-a-family-with-my-co-workers.html",
+    "upvotes": 90,
+    "author": "kakakiki",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=28255781"
+  },
+  {
+    "title": "Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card",
+    "url": "https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/",
+    "upvotes": 825,
+    "author": "tosh",
+    "comments": 316,
+    "link": "https://news.ycombinator.com/item?id=28249977"
+  },
+  {
+    "title": "Don't attach tooltips to document.body",
+    "url": "https://atfzl.com/don-t-attach-tooltips-to-document-body",
+    "upvotes": 141,
+    "author": "atfzl",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=28230977"
   },
   {
     "title": "Finary",
     "url": "https://boards.greenhouse.io/finary/jobs/4031690004"
   },
   {
-    "title": "Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card",
-    "url": "https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/",
-    "upvotes": 819,
-    "author": "tosh",
-    "comments": 315,
-    "link": "https://news.ycombinator.com/item?id=28249977"
-  },
-  {
-    "title": "Don't attach tooltips to document.body",
-    "url": "https://atfzl.com/don-t-attach-tooltips-to-document-body",
+    "title": "Collaborative filtering doesn't work for us",
+    "url": "https://about.chatroulette.com/posts/better-match-making-part-1/",
     "upvotes": 136,
-    "author": "atfzl",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=28230977"
+    "author": "andreyk",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=28252165"
   },
   {
     "title": "Amazon Genomics CLI",
     "url": "https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/",
-    "upvotes": 63,
+    "upvotes": 66,
     "author": "harporoeder",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=28253993"
-  },
-  {
-    "title": "Collaborative filtering doesn't work for us",
-    "url": "https://about.chatroulette.com/posts/better-match-making-part-1/",
-    "upvotes": 135,
-    "author": "andreyk",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=28252165"
   },
   {
     "title": "Index 1.6B Keys with Automata and Rust",
     "url": "https://blog.burntsushi.net/transducers/",
-    "upvotes": 134,
+    "upvotes": 141,
     "author": "ithkuil",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28243636"
-  },
-  {
-    "title": "India approves first DNA Covid vaccine",
-    "url": "https://www.bbc.co.uk/news/world-asia-india-57774294",
-    "upvotes": 52,
-    "author": "vijayr02",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=28255207"
   },
   {
     "title": "Citation File Format",
@@ -102,87 +94,63 @@
   {
     "title": "Full-body tracking in VR using AprilTag markers",
     "url": "https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker",
-    "upvotes": 94,
+    "upvotes": 98,
     "author": "podiki",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=28252049"
+  },
+  {
+    "title": "Is catching Covid now better than more vaccine?",
+    "url": "https://www.bbc.co.uk/news/health-58270098",
+    "upvotes": 24,
+    "author": "Engineering-MD",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=28255500"
   },
   {
     "title": "The Secret Lives of Mosquitoes",
     "url": "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2021/08/19/secret-life-worlds-most-hated-insect/",
     "upvotes": 63,
     "author": "sohkamyung",
-    "comments": 43,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=28253050"
   },
   {
     "title": "Show HN: Duedilly.io – Accuracy of Reddit Trading Ideas",
     "url": "http://duedilly.io/",
-    "upvotes": 147,
+    "upvotes": 153,
     "author": "duedillyio",
-    "comments": 72,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=28244744"
   },
   {
     "title": "FFmpeg for browser and Node, powered by WebAssembly",
     "url": "https://ffmpegwasm.netlify.app/",
-    "upvotes": 239,
+    "upvotes": 246,
     "author": "MrRolling",
-    "comments": 67,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=28251801"
   },
   {
     "title": "Obstructive Sleep Apnea Is Associated with Low Testosterone Levels",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8350060/",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "fortran77",
-    "comments": 22,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=28254252"
-  },
-  {
-    "title": "An inside look at the custom CPUs in Tesla's Dojo Supercomputer",
-    "url": "https://semianalysis.com/tesla-dojo-ai-super-computer-unique-packaging-and-chip-design-allow-an-order-magnitude-advantage-over-competing-ai-hardware/",
-    "upvotes": 120,
-    "author": "gautamcgoel",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=28251396"
   },
   {
     "title": "Court rules California's Prop. 22 on Uber, Lyft drivers unconstitutional",
     "url": "https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html",
-    "upvotes": 228,
+    "upvotes": 231,
     "author": "ahurmazda",
-    "comments": 183,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=28253110"
-  },
-  {
-    "title": "Orlando urges residents to conserve water because of surge in hospitalizations",
-    "url": "https://www.washingtonpost.com/health/2021/08/20/covid-surge-orlando-water-conservation/",
-    "upvotes": 20,
-    "author": "dredmorbius",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28255374"
-  },
-  {
-    "title": "Is catching Covid now better than more vaccine?",
-    "url": "https://www.bbc.co.uk/news/health-58270098",
-    "upvotes": 10,
-    "author": "Engineering-MD",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28255500"
-  },
-  {
-    "title": "The Endgame for Cryptocurrency",
-    "url": "https://liuliu.me/eyes/the-endgame-for-cryptocurrency/",
-    "upvotes": 20,
-    "author": "liuliu",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28254569"
   },
   {
     "title": "View your browser's TLS fingerprint",
     "url": "https://tlsfingerprint.io/",
-    "upvotes": 78,
+    "upvotes": 79,
     "author": "jonatron",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28251700"
@@ -190,33 +158,41 @@
   {
     "title": "Manim: An animation engine for explanatory math videos",
     "url": "https://github.com/ManimCommunity/manim",
-    "upvotes": 510,
+    "upvotes": 512,
     "author": "agmm",
-    "comments": 64,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=28245277"
+  },
+  {
+    "title": "The Endgame for Cryptocurrency",
+    "url": "https://liuliu.me/eyes/the-endgame-for-cryptocurrency/",
+    "upvotes": 21,
+    "author": "liuliu",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=28254569"
   },
   {
     "title": "Another free CA as an alternative to Let's Encrypt",
     "url": "https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/",
     "upvotes": 603,
     "author": "mattowen_uk",
-    "comments": 189,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=28244246"
   },
   {
     "title": "Generics enabled by default in Go tip",
     "url": "https://go-review.googlesource.com/c/go/+/343732/",
-    "upvotes": 198,
+    "upvotes": 200,
     "author": "dcu",
-    "comments": 234,
+    "comments": 242,
     "link": "https://news.ycombinator.com/item?id=28253692"
   },
   {
     "title": "Engineers put Leonardo da Vinci's bridge design to the test",
     "url": "https://techxplore.com/news/2019-10-leonardo-da-vinci-bridge.html",
-    "upvotes": 27,
+    "upvotes": 28,
     "author": "hidden-spyder",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28255189"
   },
   {
@@ -230,9 +206,33 @@
   {
     "title": "Golang.org will be merged into go.dev",
     "url": "https://go.dev/blog/tidy-web",
-    "upvotes": 115,
+    "upvotes": 118,
     "author": "solarengineer",
-    "comments": 73,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=28253245"
+  },
+  {
+    "title": "Orlando urges residents to conserve water because of surge in hospitalizations",
+    "url": "https://www.washingtonpost.com/health/2021/08/20/covid-surge-orlando-water-conservation/",
+    "upvotes": 22,
+    "author": "dredmorbius",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=28255374"
+  },
+  {
+    "title": "Picturing Scent: The Tale of a Beached Whale",
+    "url": "https://publicdomainreview.org/essay/picturing-scent",
+    "upvotes": 10,
+    "author": "benbreen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28247585"
+  },
+  {
+    "title": "Enhanced Support for Citations on GitHub",
+    "url": "https://github.blog/2021-08-19-enhanced-support-citations-github/",
+    "upvotes": 60,
+    "author": "chenzhekl",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=28253293"
   }
 ]
