@@ -2,23 +2,31 @@
   {
     "title": "Generics enabled by default in Go tip",
     "url": "https://go-review.googlesource.com/c/go/+/343732/",
-    "upvotes": 84,
+    "upvotes": 99,
     "author": "dcu",
-    "comments": 37,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=28253692"
   },
   {
     "title": "Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card",
     "url": "https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/",
-    "upvotes": 641,
+    "upvotes": 649,
     "author": "tosh",
-    "comments": 250,
+    "comments": 251,
     "link": "https://news.ycombinator.com/item?id=28249977"
+  },
+  {
+    "title": "Citation File Format",
+    "url": "https://citation-file-format.github.io/",
+    "upvotes": 14,
+    "author": "polm23",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28246899"
   },
   {
     "title": "Collaborative filtering doesn't work for us",
     "url": "https://about.chatroulette.com/posts/better-match-making-part-1/",
-    "upvotes": 93,
+    "upvotes": 96,
     "author": "andreyk",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=28252165"
@@ -26,39 +34,39 @@
   {
     "title": "Index 1,600M Keys with Automata and Rust",
     "url": "https://blog.burntsushi.net/transducers/",
-    "upvotes": 74,
+    "upvotes": 78,
     "author": "ithkuil",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28243636"
   },
   {
-    "title": "Citation File Format",
-    "url": "https://citation-file-format.github.io/",
-    "upvotes": 10,
-    "author": "polm23",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28246899"
-  },
-  {
     "title": "Don't attach tooltips to document.body",
     "url": "https://atfzl.com/don-t-attach-tooltips-to-document-body",
-    "upvotes": 38,
+    "upvotes": 42,
     "author": "atfzl",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28230977"
   },
   {
     "title": "The Secret Lives of Mosquitoes",
     "url": "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2021/08/19/secret-life-worlds-most-hated-insect/",
-    "upvotes": 29,
+    "upvotes": 30,
     "author": "sohkamyung",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=28253050"
   },
   {
+    "title": "Amazon Genomics CLI",
+    "url": "https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/",
+    "upvotes": 8,
+    "author": "harporoeder",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28253993"
+  },
+  {
     "title": "Full-body tracking in VR using AprilTag markers",
     "url": "https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "podiki",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28252049"
@@ -66,17 +74,17 @@
   {
     "title": "macOS 11’s hidden security improvements",
     "url": "https://blog.malwarebytes.com/mac/2021/08/macos-11s-hidden-security-improvements/",
-    "upvotes": 168,
+    "upvotes": 169,
     "author": "ingve",
-    "comments": 73,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=28250340"
   },
   {
     "title": "Court rules California's Prop. 22 on Uber, Lyft drivers unconstitutional",
     "url": "https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html",
-    "upvotes": 131,
+    "upvotes": 140,
     "author": "ahurmazda",
-    "comments": 116,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=28253110"
   },
   {
@@ -84,37 +92,21 @@
     "url": "https://ffmpegwasm.netlify.app/",
     "upvotes": 176,
     "author": "MrRolling",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=28251801"
   },
   {
     "title": "An inside look at the custom CPUs in Tesla's Dojo Supercomputer",
     "url": "https://semianalysis.com/tesla-dojo-ai-super-computer-unique-packaging-and-chip-design-allow-an-order-magnitude-advantage-over-competing-ai-hardware/",
-    "upvotes": 59,
+    "upvotes": 61,
     "author": "gautamcgoel",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=28251396"
   },
   {
-    "title": "Golang.org will be merged into go.dev",
-    "url": "https://go.dev/blog/tidy-web",
-    "upvotes": 75,
-    "author": "solarengineer",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=28253245"
-  },
-  {
-    "title": "Amazon Genomics CLI",
-    "url": "https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/",
-    "upvotes": 4,
-    "author": "harporoeder",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28253993"
-  },
-  {
     "title": "Show HN: Duedilly.io – Accuracy of Reddit Trading Ideas",
     "url": "http://duedilly.io/",
-    "upvotes": 92,
+    "upvotes": 93,
     "author": "duedillyio",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=28244744"
@@ -122,15 +114,23 @@
   {
     "title": "CS/A65: A 6502 computer with USB, Ethernet and co-processors",
     "url": "http://www.6502.org/users/andre/csa/index.html",
-    "upvotes": 109,
+    "upvotes": 111,
     "author": "amrcnimgrnt",
-    "comments": 36,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=28248488"
+  },
+  {
+    "title": "Golang.org will be merged into go.dev",
+    "url": "https://go.dev/blog/tidy-web",
+    "upvotes": 77,
+    "author": "solarengineer",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=28253245"
   },
   {
     "title": "Chronically lonely flies overeat and lose sleep",
     "url": "https://www.nature.com/articles/d41586-021-02194-2",
-    "upvotes": 132,
+    "upvotes": 133,
     "author": "gmays",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=28248498"
@@ -138,7 +138,7 @@
   {
     "title": "Unix shell programming: the next 50 years",
     "url": "https://dl.acm.org/doi/10.1145/3458336.3465294",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "sjmulder",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=28231981"
@@ -146,22 +146,30 @@
   {
     "title": "Cuttlefish remember the what, when, and where of meals, even into old age",
     "url": "https://arstechnica.com/science/2021/08/cuttlefish-remember-the-what-when-and-where-of-meals-even-into-old-age/",
-    "upvotes": 83,
+    "upvotes": 84,
     "author": "Petiver",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=28242678"
   },
   {
-    "title": "View your browser's TLS fingerprint",
-    "url": "https://tlsfingerprint.io/",
-    "upvotes": 44,
-    "author": "jonatron",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=28251700"
+    "title": "The web browser as a tool of thought",
+    "url": "https://thesephist.com/posts/browser/",
+    "upvotes": 83,
+    "author": "tosh",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28230704"
   },
   {
     "title": "OneSignal",
     "url": "https://onesignal.com/careers/5accd5c2-4a81-45ca-9813-701cae3cbec4"
+  },
+  {
+    "title": "View your browser's TLS fingerprint",
+    "url": "https://tlsfingerprint.io/",
+    "upvotes": 47,
+    "author": "jonatron",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=28251700"
   },
   {
     "title": "For precision, the sapphire clock outshines even the best atomic clocks",
@@ -172,28 +180,28 @@
     "link": "https://news.ycombinator.com/item?id=28232645"
   },
   {
-    "title": "The web browser as a tool of thought",
-    "url": "https://thesephist.com/posts/browser/",
-    "upvotes": 82,
-    "author": "tosh",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28230704"
-  },
-  {
     "title": "Enhanced Support for Citations on GitHub",
     "url": "https://github.blog/2021-08-19-enhanced-support-citations-github/",
-    "upvotes": 31,
+    "upvotes": 34,
     "author": "chenzhekl",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28253293"
   },
   {
     "title": "The Ruin of War",
     "url": "https://acoup.blog/2021/08/20/collections-teaching-paradox-victoria-ii-part-ii-the-ruin-of-war/",
-    "upvotes": 110,
+    "upvotes": 112,
     "author": "Tomte",
-    "comments": 17,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=28247432"
+  },
+  {
+    "title": "Manim: An animation engine for explanatory math videos",
+    "url": "https://github.com/ManimCommunity/manim",
+    "upvotes": 474,
+    "author": "agmm",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=28245277"
   },
   {
     "title": "McFarlan Moore Lighting and the Central London Railway",
@@ -204,25 +212,17 @@
     "link": "https://news.ycombinator.com/item?id=28242675"
   },
   {
-    "title": "Manim: An animation engine for explanatory math videos",
-    "url": "https://github.com/ManimCommunity/manim",
-    "upvotes": 470,
-    "author": "agmm",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=28245277"
-  },
-  {
     "title": "Google's payments team is seeing an exodus of executives and employees",
     "url": "https://www.businessinsider.com/google-pay-payments-team-seeing-executive-exodus-turnover-caesar-sengupta-2021-8",
-    "upvotes": 124,
+    "upvotes": 125,
     "author": "tim_sw",
-    "comments": 79,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=28251591"
   },
   {
     "title": "Another free CA as an alternative to Let's Encrypt",
     "url": "https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/",
-    "upvotes": 565,
+    "upvotes": 566,
     "author": "mattowen_uk",
     "comments": 177,
     "link": "https://news.ycombinator.com/item?id=28244246"
@@ -230,9 +230,9 @@
   {
     "title": "The mutation that helps Delta spread",
     "url": "https://www.nature.com/articles/d41586-021-02275-2",
-    "upvotes": 168,
+    "upvotes": 174,
     "author": "pseudolus",
-    "comments": 484,
+    "comments": 488,
     "link": "https://news.ycombinator.com/item?id=28248945"
   }
 ]
