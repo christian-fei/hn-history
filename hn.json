@@ -2,39 +2,31 @@
   {
     "title": "An Opinionated Guide to Xargs",
     "url": "https://www.oilshell.org/blog/2021/08/xargs.html",
-    "upvotes": 27,
+    "upvotes": 48,
     "author": "todsacerdoti",
-    "comments": 2,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28258189"
   },
   {
     "title": "IceFireDB: Distributed disk storage database based on Raft and Redis protocol",
     "url": "https://github.com/gitsrc/IceFireDB",
-    "upvotes": 69,
+    "upvotes": 73,
     "author": "thunderbong",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=28257243"
-  },
-  {
-    "title": "The Normalization of Violence in Commercial Kitchens Through Food Media",
-    "url": "https://journals.sagepub.com/doi/10.1177/08862605211005138",
-    "upvotes": 19,
-    "author": "rustoo",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=28258104"
   },
   {
     "title": "Genius Checklist",
     "url": "https://supermemo.guru/wiki/Genius_checklist",
-    "upvotes": 60,
+    "upvotes": 72,
     "author": "Tomte",
-    "comments": 17,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=28257956"
   },
   {
     "title": "Snap: A microkernel approach to host networking",
     "url": "https://research.google/pubs/pub48630/",
-    "upvotes": 37,
+    "upvotes": 38,
     "author": "teleforce",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28257098"
@@ -42,115 +34,139 @@
   {
     "title": "Patterns in Confusing Explanations",
     "url": "https://jvns.ca/blog/confusing-explanations/",
-    "upvotes": 386,
+    "upvotes": 397,
     "author": "pabs3",
-    "comments": 98,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=28254630"
+  },
+  {
+    "title": "GitHub Issues-only project management",
+    "url": "https://blog.placemark.io/2021/07/19/issues-only-management.html",
+    "upvotes": 6,
+    "author": "JonathanBuchh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28258515"
+  },
+  {
+    "title": "Find eng roles at 800 high-growth YC startups on Y Combinator.com",
+    "url": "https://www.ycombinator.com/jobs"
   },
   {
     "title": "Launch HN: Fella (YC W20) – Tackling men's obesity using medication and coaching",
     "url": "item?id=28257352",
-    "upvotes": 45,
+    "upvotes": 47,
     "author": "rich-cartwright",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=28257352"
-  },
-  {
-    "title": "A Big Study About Honesty Turns Out to Be Based on Fake Data",
-    "url": "https://www.buzzfeednews.com/article/stephaniemlee/dan-ariely-honesty-study-retraction",
-    "upvotes": 73,
-    "author": "danso",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=28257860"
-  },
-  {
-    "title": "Thoughts of work invaded my life until I learned how to unplug",
-    "url": "https://www.sciencemag.org/careers/2021/08/thoughts-work-invaded-my-life-until-i-learned-how-unplug",
-    "upvotes": 119,
-    "author": "Pikkie",
     "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=28257197"
+    "link": "https://news.ycombinator.com/item?id=28257352"
   },
   {
     "title": "Facebook suppressed report that made it look bad",
     "url": "https://www.theverge.com/2021/8/20/22634841/facebook-most-viewed-content-report-look-bad",
-    "upvotes": 40,
+    "upvotes": 59,
     "author": "underscore_ku",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28257933"
   },
   {
-    "title": "Janet Programming Language",
-    "url": "https://janet-lang.org/",
-    "upvotes": 165,
-    "author": "rcarmo",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=28255116"
+    "title": "Thoughts of work invaded my life until I learned how to unplug",
+    "url": "https://www.sciencemag.org/careers/2021/08/thoughts-work-invaded-my-life-until-i-learned-how-unplug",
+    "upvotes": 127,
+    "author": "Pikkie",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=28257197"
+  },
+  {
+    "title": "A Big Study About Honesty Turns Out to Be Based on Fake Data",
+    "url": "https://www.buzzfeednews.com/article/stephaniemlee/dan-ariely-honesty-study-retraction",
+    "upvotes": 85,
+    "author": "danso",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=28257860"
   },
   {
     "title": "TLA+ is hard to learn",
     "url": "https://surfingcomplexity.blog/2018/12/24/tla-is-hard-to-learn/",
-    "upvotes": 47,
+    "upvotes": 52,
     "author": "azhenley",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=28256643"
   },
   {
+    "title": "Janet Programming Language",
+    "url": "https://janet-lang.org/",
+    "upvotes": 168,
+    "author": "rcarmo",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=28255116"
+  },
+  {
     "title": "Benefits of Not Using an IDE",
     "url": "https://alexander-hansen.dev/blog/benefits-of-not-using-an-ide",
-    "upvotes": 95,
+    "upvotes": 98,
     "author": "defaulty",
-    "comments": 177,
+    "comments": 188,
     "link": "https://news.ycombinator.com/item?id=28257116"
   },
   {
     "title": "Balaji: The collapse in state capacity has not been priced in",
     "url": "https://twitter.com/balajis/status/1429109239436308482",
-    "upvotes": 17,
+    "upvotes": 24,
     "author": "xqcgrek2",
-    "comments": 6,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=28258209"
+  },
+  {
+    "title": "Working in One Bit",
+    "url": "https://dukope.itch.io/mars-after-midnight/devlog/285964/working-in-one-bit",
+    "upvotes": 5,
+    "author": "polm23",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28255718"
   },
   {
     "title": "Google's Secret Initiative – “Project Hug”",
     "url": "https://twitter.com/jowens510/status/1428415192480698371",
-    "upvotes": 463,
+    "upvotes": 476,
     "author": "radmuzom",
-    "comments": 137,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=28255798"
-  },
-  {
-    "title": "Finary",
-    "url": "https://boards.greenhouse.io/finary/jobs/4031690004"
   },
   {
     "title": "Job-hopping heats up: 65% of U.S. workers are looking for a new job",
     "url": "https://fortune.com/2021/08/20/us-workers-looking-for-jobs/",
-    "upvotes": 30,
+    "upvotes": 33,
     "author": "hiddencache",
-    "comments": 11,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=28257947"
   },
   {
     "title": "Generics enabled by default in Go tip",
     "url": "https://go-review.googlesource.com/c/go/+/343732/",
-    "upvotes": 222,
+    "upvotes": 225,
     "author": "dcu",
-    "comments": 282,
+    "comments": 284,
     "link": "https://news.ycombinator.com/item?id=28253692"
   },
   {
     "title": "The World’s Largest Computer Chip",
     "url": "https://www.newyorker.com/tech/annals-of-technology/the-worlds-largest-computer-chip",
-    "upvotes": 77,
+    "upvotes": 78,
     "author": "doe88",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28255634"
+  },
+  {
+    "title": "Prop. 22, the gig worker exemption for Uber and Lyft, is ruled unconstitutional",
+    "url": "https://www.sfchronicle.com/tech/article/Prop-22-the-gig-worker-exemption-for-Uber-and-16401915.php",
+    "upvotes": 19,
+    "author": "warning26",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28258072"
   },
   {
     "title": "The big-load anti-pattern",
     "url": "https://lemire.me/blog/2021/08/21/the-big-load-anti-pattern/",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "r4um",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28256116"
@@ -158,81 +174,65 @@
   {
     "title": "I Don’t Want to Be Like a Family with My Co-Workers",
     "url": "https://www.thecut.com/article/i-dont-want-to-be-like-a-family-with-my-co-workers.html",
-    "upvotes": 247,
+    "upvotes": 258,
     "author": "kakakiki",
-    "comments": 164,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=28255781"
   },
   {
     "title": "pHash – An open source perceptual hash library",
     "url": "https://www.phash.org",
-    "upvotes": 34,
+    "upvotes": 35,
     "author": "tosh",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=28256220"
   },
   {
+    "title": "Going back to work? No, thank you",
+    "url": "https://dsebastien.medium.com/going-back-to-work-no-thank-you-5429d60acd12",
+    "upvotes": 55,
+    "author": "dSebastien",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=28255319"
+  },
+  {
     "title": "Why Facebook Shelved an Earlier Report on Popular Posts",
     "url": "https://www.nytimes.com/2021/08/20/technology/facebook-popular-posts.html",
-    "upvotes": 11,
+    "upvotes": 15,
     "author": "IAmEveryone",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28257958"
   },
   {
-    "title": "Going back to work? No, thank you",
-    "url": "https://dsebastien.medium.com/going-back-to-work-no-thank-you-5429d60acd12",
-    "upvotes": 49,
-    "author": "dSebastien",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=28255319"
-  },
-  {
     "title": "Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card",
     "url": "https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/",
-    "upvotes": 888,
+    "upvotes": 892,
     "author": "tosh",
-    "comments": 330,
+    "comments": 331,
     "link": "https://news.ycombinator.com/item?id=28249977"
   },
   {
     "title": "Engineers put Leonardo da Vinci's bridge design to the test",
     "url": "https://techxplore.com/news/2019-10-leonardo-da-vinci-bridge.html",
-    "upvotes": 44,
+    "upvotes": 46,
     "author": "hidden-spyder",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=28255189"
   },
   {
-    "title": "The Apollo Affair",
-    "url": "https://en.wikipedia.org/wiki/The_Apollo_Affair",
-    "upvotes": 61,
-    "author": "Lammy",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28256728"
+    "title": "The /bin/true Command and Copyright",
+    "url": "http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html",
+    "upvotes": 6,
+    "author": "kmstout",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28257666"
   },
   {
     "title": "The reason you’re not more productive at work? It’s not boredom, it’s bad UX",
     "url": "https://www.fastcompany.com/90667790/the-real-reason-youre-not-more-productive-at-work-its-not-boredom-its-bad-ux",
-    "upvotes": 48,
+    "upvotes": 53,
     "author": "hiddencache",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=28256686"
-  },
-  {
-    "title": "Prop. 22, the gig worker exemption for Uber and Lyft, is ruled unconstitutional",
-    "url": "https://www.sfchronicle.com/tech/article/Prop-22-the-gig-worker-exemption-for-Uber-and-16401915.php",
-    "upvotes": 7,
-    "author": "warning26",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28258072"
-  },
-  {
-    "title": "Henri becomes a hurricane as it moves toward the Northeast",
-    "url": "https://apnews.com/article/environment-and-nature-hurricanes-9c64eb1be8ccdf184861a53161e4d5f4",
-    "upvotes": 9,
-    "author": "jimgordon",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28257917"
   }
 ]
