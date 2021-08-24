@@ -1,42 +1,50 @@
 [
   {
+    "title": "Googlespeak – How Google Limits Thought About Antitrust",
+    "url": "https://zyppy.com/googlespeak/",
+    "upvotes": 115,
+    "author": "cyrusshepard",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=28294237"
+  },
+  {
     "title": "How Discord Stores Billions of Messages",
     "url": "https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7",
-    "upvotes": 277,
+    "upvotes": 307,
     "author": "ibraheemdev",
-    "comments": 148,
+    "comments": 162,
     "link": "https://news.ycombinator.com/item?id=28292369"
   },
   {
-    "title": "Googlespeak – How Google Limits Thought About Antitrust",
-    "url": "https://zyppy.com/googlespeak/",
-    "upvotes": 74,
-    "author": "cyrusshepard",
+    "title": "Man steals 620k photos from iCloud accounts from home without Apple noticing",
+    "url": "https://www.latimes.com/california/story/2021-08-23/icloud-photo-theft-nude-women",
+    "upvotes": 51,
+    "author": "radicaldreamer",
     "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=28294237"
+    "link": "https://news.ycombinator.com/item?id=28294885"
   },
   {
     "title": "Nitter: Alternative Twitter Front-End",
     "url": "https://github.com/zedeus/nitter",
-    "upvotes": 41,
+    "upvotes": 68,
     "author": "ducktective",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28294099"
   },
   {
     "title": "Nelua Programming Language",
     "url": "https://nelua.io/",
-    "upvotes": 57,
+    "upvotes": 72,
     "author": "nonbirithm",
-    "comments": 22,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=28293836"
   },
   {
     "title": "Samsung remotely disables TVs looted from South African warehouse",
     "url": "https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function",
-    "upvotes": 232,
+    "upvotes": 255,
     "author": "barbacoa",
-    "comments": 319,
+    "comments": 342,
     "link": "https://news.ycombinator.com/item?id=28289642"
   },
   {
@@ -46,63 +54,55 @@
   {
     "title": "SQLModel – SQL Databases in FastAPI",
     "url": "https://github.com/tiangolo/sqlmodel",
-    "upvotes": 13,
+    "upvotes": 28,
     "author": "dmart",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28294534"
-  },
-  {
-    "title": "Man steals 620k photos from iCloud accounts from home without Apple noticing",
-    "url": "https://www.latimes.com/california/story/2021-08-23/icloud-photo-theft-nude-women",
-    "upvotes": 11,
-    "author": "radicaldreamer",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28294885"
-  },
-  {
-    "title": "Launch HN: SafeBeat Rx (YC S21)- At-home ECG software to replace hospitalization",
-    "url": "item?id=28292206",
-    "upvotes": 49,
-    "author": "rnavara",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=28292206"
-  },
-  {
-    "title": "How does one get close to mastering software engineering?",
-    "url": "https://www.quora.com/How-does-one-get-as-close-as-possible-to-mastering-software-engineering/answer/Alan-Kay-11?share=1",
-    "upvotes": 41,
-    "author": "sidcool",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=28285661"
-  },
-  {
-    "title": "Aggregate streaming data in real-time with WebAssembly",
-    "url": "https://infinyon.com/blog/2021/08/smartstream-aggregates",
-    "upvotes": 47,
-    "author": "ahunyady",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=28292266"
   },
   {
     "title": "Scylla – Real-Time Big Data Database",
     "url": "https://www.scylladb.com/",
-    "upvotes": 13,
+    "upvotes": 24,
     "author": "andrewstuart",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28294501"
+  },
+  {
+    "title": "How does one get close to mastering software engineering?",
+    "url": "https://www.quora.com/How-does-one-get-as-close-as-possible-to-mastering-software-engineering/answer/Alan-Kay-11?share=1",
+    "upvotes": 46,
+    "author": "sidcool",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=28285661"
+  },
+  {
+    "title": "Launch HN: SafeBeat Rx (YC S21)- At-home ECG software to replace hospitalization",
+    "url": "item?id=28292206",
+    "upvotes": 51,
+    "author": "rnavara",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=28292206"
   },
   {
     "title": "Home Lab Hardware Guide",
     "url": "https://haydenjames.io/home-lab-beginners",
-    "upvotes": 78,
+    "upvotes": 89,
     "author": "ashitlerferad",
-    "comments": 26,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=28274128"
+  },
+  {
+    "title": "Aggregate streaming data in real-time with WebAssembly",
+    "url": "https://infinyon.com/blog/2021/08/smartstream-aggregates",
+    "upvotes": 48,
+    "author": "ahunyady",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=28292266"
   },
   {
     "title": "Mental phenomena don’t map into the brain as expected",
     "url": "https://www.quantamagazine.org/mental-phenomena-dont-map-into-the-brain-as-expected-20210824/",
-    "upvotes": 126,
+    "upvotes": 129,
     "author": "theafh",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=28289796"
@@ -110,7 +110,7 @@
   {
     "title": "More than eighty cultures still speak in whistles",
     "url": "https://www.smithsonianmag.com/science-nature/studying-whistled-languages-180978484/",
-    "upvotes": 167,
+    "upvotes": 173,
     "author": "bryanrasmussen",
     "comments": 86,
     "link": "https://news.ycombinator.com/item?id=28288269"
@@ -118,25 +118,25 @@
   {
     "title": "Welcoming our first riders in San Francisco",
     "url": "https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html",
-    "upvotes": 474,
+    "upvotes": 484,
     "author": "EvgeniyZh",
-    "comments": 502,
+    "comments": 510,
     "link": "https://news.ycombinator.com/item?id=28290765"
   },
   {
     "title": "Twitter starts to require login to view tweets",
     "url": "https://www.reddit.com/r/DataHoarder/comments/pa6dra/twitter_starts_to_require_login_to_view_tweets/",
-    "upvotes": 660,
+    "upvotes": 672,
     "author": "oenetan",
-    "comments": 482,
+    "comments": 490,
     "link": "https://news.ycombinator.com/item?id=28289263"
   },
   {
     "title": "The Btrfs inode-number epic",
     "url": "https://lwn.net/SubscriberLink/866582/26cfffcd133815e3/",
-    "upvotes": 45,
+    "upvotes": 49,
     "author": "Deeg9rie9usi",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=28274054"
   },
   {
@@ -144,95 +144,95 @@
     "url": "item?id=28292078",
     "upvotes": 31,
     "author": "jetblowfish",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=28292078"
+  },
+  {
+    "title": "Cisco Modeling Labs",
+    "url": "https://www.cisco.com/c/en/us/products/cloud-systems-management/modeling-labs/index.html",
+    "upvotes": 7,
+    "author": "teleforce",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28264672"
+  },
+  {
+    "title": "Lignum Nephriticum",
+    "url": "https://en.wikipedia.org/wiki/Lignum_nephriticum",
+    "upvotes": 13,
+    "author": "leto_ii",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=28285833"
   },
   {
     "title": "Ramp raises $300M to keep saving time and money for businesses",
     "url": "https://ramp.com/blog/ramp-finance-automation-platform",
     "upvotes": 41,
     "author": "zuhayeer",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=28291851"
+  },
+  {
+    "title": "Apache Arrow Datafusion 5.0.0 release",
+    "url": "https://arrow.apache.org/blog/2021/08/18/datafusion-5.0.0/",
+    "upvotes": 54,
+    "author": "houqp",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=28290616"
   },
   {
     "title": "404PageFound – Active Vintage Websites, Old Webpages, and Web 1.0",
     "url": "https://www.404pagefound.com/",
-    "upvotes": 66,
+    "upvotes": 67,
     "author": "gabitoju",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=28290169"
   },
   {
-    "title": "Lignum Nephriticum",
-    "url": "https://en.wikipedia.org/wiki/Lignum_nephriticum",
-    "upvotes": 11,
-    "author": "leto_ii",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=28285833"
-  },
-  {
-    "title": "Apache Arrow Datafusion 5.0.0 release",
-    "url": "https://arrow.apache.org/blog/2021/08/18/datafusion-5.0.0/",
-    "upvotes": 49,
-    "author": "houqp",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=28290616"
-  },
-  {
     "title": "Charlie Watts has died",
     "url": "https://www.bbc.com/news/entertainment-arts-58316842",
-    "upvotes": 277,
+    "upvotes": 284,
     "author": "coloneltcb",
-    "comments": 79,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=28291211"
-  },
-  {
-    "title": "Show HN: Kryptor – A simple, modern, and secure encryption tool",
-    "url": "https://www.kryptor.co.uk/",
-    "upvotes": 44,
-    "author": "samuel-lucas6",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=28291374"
   },
   {
     "title": "The growing market of not cutting down trees",
     "url": "https://www.wsj.com/podcasts/the-journal/the-growing-market-of-not-cutting-down-trees/5e0b4e3d-f26e-42cf-94e8-acaab805a65a",
-    "upvotes": 63,
+    "upvotes": 64,
     "author": "carride",
-    "comments": 45,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=28288590"
   },
   {
     "title": "Show HN: AI-Generated Illustrations of Plants",
     "url": "https://www.easyzoom.com/imageaccess/2128f27845ed4921b3143004dc550c3e",
-    "upvotes": 121,
+    "upvotes": 123,
     "author": "Yenrabbit",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=28286199"
   },
   {
+    "title": "Show HN: Kryptor – A simple, modern, and secure encryption tool",
+    "url": "https://www.kryptor.co.uk/",
+    "upvotes": 46,
+    "author": "samuel-lucas6",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=28291374"
+  },
+  {
     "title": "Y Combinator’s European founder intake continues to grow",
     "url": "https://sifted.eu/articles/y-combinator-founder-intake/",
-    "upvotes": 133,
+    "upvotes": 135,
     "author": "tommatsuda",
-    "comments": 203,
+    "comments": 207,
     "link": "https://news.ycombinator.com/item?id=28286194"
   },
   {
     "title": "The NPM registry is deprecating TLS 1.0 and TLS 1.1",
     "url": "https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/",
-    "upvotes": 89,
+    "upvotes": 91,
     "author": "joeyespo",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=28290396"
-  },
-  {
-    "title": "Is Hacker News a good predictor of future tech trends?",
-    "url": "https://jamespotter.dev/hacker-news-tech-trends/",
-    "upvotes": 295,
-    "author": "drpancake",
-    "comments": 240,
-    "link": "https://news.ycombinator.com/item?id=28288760"
   }
 ]
