@@ -2,42 +2,50 @@
   {
     "title": "Burning Out and Quitting",
     "url": "https://mayakaczorowski.com/blogs/burnout",
-    "upvotes": 43,
+    "upvotes": 143,
     "author": "czottmann",
-    "comments": null,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=28306750"
   },
   {
     "title": "Haiku has hired an existing contributor to work on Haiku full-time",
     "url": "https://www.haiku-os.org/news/2021-08-25_hiring_waddlesplash/",
-    "upvotes": 153,
+    "upvotes": 169,
     "author": "aarroyoc",
-    "comments": 30,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=28305191"
   },
   {
     "title": "An analysis of Amazon Echo's network behavior",
     "url": "https://arxiv.org/abs/2105.13500",
-    "upvotes": 37,
+    "upvotes": 54,
     "author": "pramodbiligiri",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=28306390"
   },
   {
     "title": "Prettymaps: Small Python library to draw customized maps from OpenStreetMap data",
     "url": "https://github.com/marceloprates/prettymaps",
-    "upvotes": 615,
+    "upvotes": 627,
     "author": "sebg",
-    "comments": 56,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=28300951"
   },
   {
     "title": "Launch HN: Evidence (YC S21) – Web framework for data analysts",
     "url": "item?id=28304781",
-    "upvotes": 94,
+    "upvotes": 100,
     "author": "amcaskill",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=28304781"
+  },
+  {
+    "title": "Joe Rogan, confined to Spotify, is losing influence",
+    "url": "https://www.theverge.com/22632213/joe-rogan-experience-spotify-exclusive-audience-reach",
+    "upvotes": 204,
+    "author": "Tomte",
+    "comments": 326,
+    "link": "https://news.ycombinator.com/item?id=28303025"
   },
   {
     "title": "Smarking",
@@ -46,111 +54,95 @@
   {
     "title": "The most underused browser feature: reader mode",
     "url": "https://frankgroeneveld.nl/2021/08/24/most-underused-browser-feature/",
-    "upvotes": 656,
+    "upvotes": 667,
     "author": "frenkel",
-    "comments": 275,
+    "comments": 277,
     "link": "https://news.ycombinator.com/item?id=28286493"
-  },
-  {
-    "title": "Joe Rogan, confined to Spotify, is losing influence",
-    "url": "https://www.theverge.com/22632213/joe-rogan-experience-spotify-exclusive-audience-reach",
-    "upvotes": 176,
-    "author": "Tomte",
-    "comments": 248,
-    "link": "https://news.ycombinator.com/item?id=28303025"
   },
   {
     "title": "OnlyFans drops planned porn ban",
     "url": "https://variety.com/2021/digital/news/onlyfans-drops-porn-ban-sexually-explicit-policy-1235048705/",
-    "upvotes": 356,
+    "upvotes": 377,
     "author": "uptown",
-    "comments": 834,
+    "comments": 846,
     "link": "https://news.ycombinator.com/item?id=28300797"
-  },
-  {
-    "title": "Responsibly recycle your used Dell and non-Dell equipment for free",
-    "url": "https://recycling.dell.com/",
-    "upvotes": 11,
-    "author": "CTOSian",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28306591"
-  },
-  {
-    "title": "Bashly – Create beautiful bash scripts from simple YAML configuration",
-    "url": "https://github.com/DannyBen/bashly",
-    "upvotes": 31,
-    "author": "iamjackg",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=28305479"
-  },
-  {
-    "title": "Toledo’s Last Swordmakers",
-    "url": "https://www.theguardian.com/world/2021/aug/24/toledos-last-swordmakers-refuse-to-give-up-on-their-ancient-craft",
-    "upvotes": 21,
-    "author": "nigerian1981",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28287693"
   },
   {
     "title": "Mind-Bending Perceptual Illusions",
     "url": "https://nautil.us/blog/12-mind_bending-perceptual-illusions",
-    "upvotes": 40,
+    "upvotes": 51,
     "author": "robertwiblin",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28305553"
+  },
+  {
+    "title": "Toledo’s Last Swordmakers",
+    "url": "https://www.theguardian.com/world/2021/aug/24/toledos-last-swordmakers-refuse-to-give-up-on-their-ancient-craft",
+    "upvotes": 28,
+    "author": "nigerian1981",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=28287693"
+  },
+  {
+    "title": "Responsibly recycle your used Dell and non-Dell equipment for free",
+    "url": "https://recycling.dell.com/",
+    "upvotes": 14,
+    "author": "CTOSian",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=28306591"
+  },
+  {
+    "title": "Why Some Infinities Are Bigger Than Others",
+    "url": "https://www.scientificamerican.com/article/a-deep-math-dive-into-why-some-infinities-are-bigger-than-others/",
+    "upvotes": 12,
+    "author": "prostoalex",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28297547"
   },
   {
     "title": "Do vision transformers see like convolutional neural networks?",
     "url": "https://arxiv.org/abs/2108.08810",
-    "upvotes": 79,
+    "upvotes": 80,
     "author": "jonbaer",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=28302995"
   },
   {
-    "title": "Why Some Infinities Are Bigger Than Others",
-    "url": "https://www.scientificamerican.com/article/a-deep-math-dive-into-why-some-infinities-are-bigger-than-others/",
-    "upvotes": 7,
-    "author": "prostoalex",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28297547"
-  },
-  {
     "title": "A Cartrivision Player TV",
     "url": "https://twitter.com/Foone/status/1423369057181454339",
-    "upvotes": 73,
+    "upvotes": 75,
     "author": "ag8",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=28302722"
-  },
-  {
-    "title": "Show HN: Exatorrent – Self-hostable Torrent client written in Go",
-    "url": "https://github.com/varbhat/exatorrent",
-    "upvotes": 147,
-    "author": "varbhat",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=28301374"
   },
   {
     "title": "Tools for Thinking",
     "url": "https://www.juliendesrosiers.com/2021/08/21/tools-for-thinking.php",
-    "upvotes": 191,
+    "upvotes": 199,
     "author": "juliend2",
-    "comments": 88,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=28292225"
+  },
+  {
+    "title": "Show HN: Exatorrent – Self-hostable Torrent client written in Go",
+    "url": "https://github.com/varbhat/exatorrent",
+    "upvotes": 149,
+    "author": "varbhat",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=28301374"
   },
   {
     "title": "Happy birthday – 30 years of Linux – Ubuntu",
     "url": "https://ubuntu.com/blog/happy-birthday-30-years-of-linux",
-    "upvotes": 74,
+    "upvotes": 91,
     "author": "grobbie",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28305579"
   },
   {
     "title": "Diggin’ and Fetchin’ with TruffleRuby",
     "url": "https://shopify.engineering/dig-fetch-truffleruby",
-    "upvotes": 48,
+    "upvotes": 49,
     "author": "chrisseaton",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28295504"
@@ -158,81 +150,89 @@
   {
     "title": "Launch HN: Litnerd (YC S21) – Teaching kids to read with the help of live actors",
     "url": "item?id=28300640",
-    "upvotes": 92,
+    "upvotes": 93,
     "author": "Anisa_Mirza",
-    "comments": 60,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=28300640"
   },
   {
-    "title": "Panic Blog » the Story of Playdate",
-    "url": "https://panic.com/blog/the-story-of-playdate/",
-    "upvotes": 10,
-    "author": "tonyedgecombe",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28305600"
-  },
-  {
-    "title": "Visualizing Python modules and dependencies with Neo4j",
-    "url": "http://blog.adnansiddiqi.me/visualizing-python-modules-and-dependencies-with-neo4j/",
-    "upvotes": 29,
-    "author": "pknerd",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28290296"
+    "title": "Jsc: My New Best Friend",
+    "url": "https://furbo.org/2021/08/25/jsc-my-new-best-friend/",
+    "upvotes": 11,
+    "author": "ingve",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28306305"
   },
   {
     "title": "My MacBook Pro had over 10k USD in repairs",
     "url": "https://pqvst.com/2021/08/24/my-macbook-pro/",
-    "upvotes": 165,
+    "upvotes": 171,
     "author": "pqvst",
-    "comments": 308,
+    "comments": 319,
     "link": "https://news.ycombinator.com/item?id=28300833"
-  },
-  {
-    "title": "Show HN: 59a34eabe31910abfb06f308 – NeuralHash Collision Demo",
-    "url": "https://thishashcollisionisnotporn.com",
-    "upvotes": 268,
-    "author": "mono-bob",
-    "comments": 148,
-    "link": "https://news.ycombinator.com/item?id=28305394"
   },
   {
     "title": "Turing Pi V2 is here",
     "url": "https://turingpi.com/turing-pi-v2-is-here/",
-    "upvotes": 192,
+    "upvotes": 193,
     "author": "rbanffy",
     "comments": 86,
     "link": "https://news.ycombinator.com/item?id=28299204"
   },
   {
+    "title": "Visualizing Python modules and dependencies with Neo4j",
+    "url": "http://blog.adnansiddiqi.me/visualizing-python-modules-and-dependencies-with-neo4j/",
+    "upvotes": 31,
+    "author": "pknerd",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28290296"
+  },
+  {
+    "title": "WTF Is Server-Side Conversion Tracking",
+    "url": "https://digiday.com/marketing/wtf-is-server-side-conversion-tracking/",
+    "upvotes": 5,
+    "author": "marketingtech",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28306225"
+  },
+  {
+    "title": "Panic Blog » the Story of Playdate",
+    "url": "https://panic.com/blog/the-story-of-playdate/",
+    "upvotes": 12,
+    "author": "tonyedgecombe",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28305600"
+  },
+  {
+    "title": "Show HN: 59a34eabe31910abfb06f308 – NeuralHash Collision Demo",
+    "url": "https://thishashcollisionisnotporn.com",
+    "upvotes": 279,
+    "author": "mono-bob",
+    "comments": 154,
+    "link": "https://news.ycombinator.com/item?id=28305394"
+  },
+  {
     "title": "Miller CLI – Like Awk, sed, cut, join, and sort for CSV, TSV and JSON",
     "url": "https://github.com/johnkerl/miller",
-    "upvotes": 238,
+    "upvotes": 242,
     "author": "jabo",
     "comments": 63,
     "link": "https://news.ycombinator.com/item?id=28298729"
   },
   {
-    "title": "Jsc: My New Best Friend",
-    "url": "https://furbo.org/2021/08/25/jsc-my-new-best-friend/",
-    "upvotes": 6,
-    "author": "ingve",
+    "title": "K/V Benchmark: PostgreSQL vs. Redis vs. Memcached",
+    "url": "https://www.cybertec-postgresql.com/en/postgresql-vs-redis-vs-memcached-performance/",
+    "upvotes": 3,
+    "author": "klaussilveira",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28306305"
+    "link": "https://news.ycombinator.com/item?id=28306472"
   },
   {
-    "title": "Vulnerability in Bumble dating app reveals any user's exact location",
-    "url": "https://robertheaton.com/bumble-vulnerability/",
-    "upvotes": 143,
-    "author": "np32",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=28303536"
-  },
-  {
-    "title": "Data brokers sell access to the backbone of the internet",
-    "url": "https://www.vice.com/en/article/jg84yy/data-brokers-netflow-data-team-cymru",
-    "upvotes": 72,
-    "author": "mattei",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=28300234"
+    "title": "Judge freezes UC Berkeley's student enrollment at 2020-21 levels",
+    "url": "https://www.berkeleyside.org/2021/08/24/judge-freezes-uc-berkeleys-student-enrollment-at-2020-21-levels",
+    "upvotes": 17,
+    "author": "elsewhen",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28304048"
   }
 ]
