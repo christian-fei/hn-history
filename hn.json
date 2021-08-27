@@ -1,8 +1,8 @@
 [
   {
-    "title": "The Evolution of Smalltalk from Smalltalk-72 to Squeak, by Daniel Ingalls, 2021",
+    "title": "The Evolution of Smalltalk from Smalltalk-72 to Squeak [video]",
     "url": "https://www.pldi21.org/prerecorded_hopl.17.html",
-    "upvotes": 60,
+    "upvotes": 76,
     "author": "gjvc",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28332205"
@@ -10,62 +10,62 @@
   {
     "title": "App store payments will have increased competition",
     "url": "https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/",
-    "upvotes": 232,
+    "upvotes": 242,
     "author": "laurieg",
-    "comments": 187,
+    "comments": 201,
     "link": "https://news.ycombinator.com/item?id=28329286"
-  },
-  {
-    "title": "When Do Investors Freak Out? Machine Learning Predictions of Panic Selling [pdf]",
-    "url": "https://poseidon01.ssrn.com/delivery.php?ID=271115095026087012004098001108106006017000060055059029121029112023088077096031119125100029055040112124009075016079123071120103119082082087053120022023118001080067018048118087123006081016028097113126006080089092084009084124127019000127065111081086&EXT=pdf&INDEX=TRUE",
-    "upvotes": 39,
-    "author": "elsewhen",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=28331610"
   },
   {
     "title": "Brussels battles old prejudices as it frees unloved river from its vault",
     "url": "https://www.theguardian.com/world/2021/aug/27/brussels-battles-old-prejudices-as-it-frees-unloved-river-senne-from-its-vault",
-    "upvotes": 36,
+    "upvotes": 46,
     "author": "f_allwein",
-    "comments": 16,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28331345"
   },
   {
     "title": "Launch HN: Hotswap (YC S21) – Easily migrate customers away from competitors",
     "url": "item?id=28327660",
-    "upvotes": 229,
+    "upvotes": 233,
     "author": "memset",
-    "comments": 113,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=28327660"
+  },
+  {
+    "title": "Nimforum: Lightweight alternative to Discourse written in Nim",
+    "url": "https://github.com/nim-lang/nimforum",
+    "upvotes": 111,
+    "author": "ducktective",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=28329672"
+  },
+  {
+    "title": "Sad Little Men: Assessing the impact of an elite education",
+    "url": "https://www.economist.com/books-and-arts/2021/08/28/britains-private-schools-are-lambasted-in-richard-beards-book",
+    "upvotes": 18,
+    "author": "jkuria",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28332480"
   },
   {
     "title": "Human Dx is hiring part-time community/growth team members",
     "url": "https://www.humandx.org/team?gh_jid=4859261002"
   },
   {
-    "title": "How does Google Authenticator work?",
-    "url": "https://prezu.ca/post/2021-07-30-totp-1/",
-    "upvotes": 89,
-    "author": "ecliptik",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=28324626"
-  },
-  {
-    "title": "nimforum: Lightweight alternative to Discourse written in Nim",
-    "url": "https://github.com/nim-lang/nimforum",
-    "upvotes": 106,
-    "author": "ducktective",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=28329672"
-  },
-  {
     "title": "Turning satellite imagery into wall art",
     "url": "https://ramblemaps.com/turning-satellite-imagery-into-wall-art",
-    "upvotes": 27,
+    "upvotes": 32,
     "author": "mparr4",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28325421"
+  },
+  {
+    "title": "Iced: A cross-platform GUI library for Rust, inspired by Elm",
+    "url": "https://github.com/hecrj/iced/",
+    "upvotes": 354,
+    "author": "ducktective",
+    "comments": 136,
+    "link": "https://news.ycombinator.com/item?id=28326125"
   },
   {
     "title": "One Week of Bugs",
@@ -76,92 +76,116 @@
     "link": "https://news.ycombinator.com/item?id=28329906"
   },
   {
-    "title": "Iced: A cross-platform GUI library for Rust, inspired by Elm",
-    "url": "https://github.com/hecrj/iced/",
-    "upvotes": 349,
-    "author": "ducktective",
-    "comments": 135,
-    "link": "https://news.ycombinator.com/item?id=28326125"
-  },
-  {
     "title": "Ansible Techniques I Wish I’d Known Earlier",
     "url": "https://zwischenzugs.com/2021/08/27/five-ansible-techniques-i-wish-id-known-earlier/",
-    "upvotes": 195,
+    "upvotes": 200,
     "author": "oedmarap",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=28327694"
   },
   {
-    "title": "Sad Little Men: Assessing the impact of an elite education",
-    "url": "https://www.economist.com/books-and-arts/2021/08/28/britains-private-schools-are-lambasted-in-richard-beards-book",
-    "upvotes": 11,
-    "author": "jkuria",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=28332480"
+    "title": "An error message if you put more than 2^24 items in a JS Map object",
+    "url": "https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24",
+    "upvotes": 4,
+    "author": "norescue",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28332962"
+  },
+  {
+    "title": "Show HN: I made a meme creator that makes around $4k a month",
+    "url": "https://metameme.app/",
+    "upvotes": 119,
+    "author": "par",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=28329444"
+  },
+  {
+    "title": "How does Google Authenticator work?",
+    "url": "https://prezu.ca/post/2021-07-30-totp-1/",
+    "upvotes": 94,
+    "author": "ecliptik",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=28324626"
+  },
+  {
+    "title": "The Dresden Job",
+    "url": "https://www.gq.com/story/the-dresden-job",
+    "upvotes": 42,
+    "author": "axiomdata316",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=28330122"
   },
   {
     "title": "Buoyant wants to solve middle-mile delivery with cargo airships",
     "url": "https://techcrunch.com/2021/08/27/yc-grad-buoyant-wants-to-solve-middle-mile-delivery-with-cargo-airships/",
-    "upvotes": 23,
+    "upvotes": 25,
     "author": "prostoalex",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28331686"
   },
   {
+    "title": "Arm China Has Gone Rogue",
+    "url": "https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century",
+    "upvotes": 491,
+    "author": "xbmcuser",
+    "comments": 247,
+    "link": "https://news.ycombinator.com/item?id=28329731"
+  },
+  {
     "title": "The Electromagnetic Force of Fridge Magnets",
     "url": "https://nautil.us/issue/104/harmony/the-electromagnetic-force-of-fridge-magnets",
-    "upvotes": 13,
+    "upvotes": 14,
     "author": "dnetesn",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28326120"
   },
   {
-    "title": "The Dresden Job",
-    "url": "https://www.gq.com/story/the-dresden-job",
-    "upvotes": 41,
-    "author": "axiomdata316",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=28330122"
-  },
-  {
-    "title": "An Open Letter to Airbnb The pitchforks are coming",
-    "url": "https://survivingtomorrow.org/an-open-letter-to-airbnb-8b1b58b4ad33",
-    "upvotes": 75,
-    "author": "paulpauper",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=28328817"
-  },
-  {
-    "title": "Arm China Has Gone Rogue",
-    "url": "https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century",
-    "upvotes": 458,
-    "author": "xbmcuser",
-    "comments": 222,
-    "link": "https://news.ycombinator.com/item?id=28329731"
+    "title": "Overuse of the word “the” in “Macbeth”",
+    "url": "https://onezero.medium.com/how-data-science-pinpointed-the-creepiest-word-in-macbeth-3150995d3808",
+    "upvotes": 7,
+    "author": "rouli",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28310204"
   },
   {
     "title": "Launch HN: Lemonade Finance (YC S21) – Digital Bank for the African Diaspora",
     "url": "item?id=28329211",
     "upvotes": 53,
     "author": "ridwan_olalere1",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=28329211"
+  },
+  {
+    "title": "Notes on the Perfidy of Dashboards",
+    "url": "https://charity.wtf/2021/08/09/notes-on-the-perfidy-of-dashboards/",
+    "upvotes": 74,
+    "author": "jedixit",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=28328724"
   },
   {
     "title": "LED Light Spectrum Enhancement with Transparent Pigmented Glazes",
     "url": "https://www.led-professional.com/resources-1/articles/led-light-spectrum-enhancement-with-transparent-pigmented-glazes-by-light-spectrum-glazes",
-    "upvotes": 10,
+    "upvotes": 11,
     "author": "pmlnr",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28332004"
   },
   {
-    "title": "The Battle of Blair Mountain",
-    "url": "https://www.smithsonianmag.com/history/battle-blair-mountain-largest-labor-uprising-american-history-180978520/",
-    "upvotes": 54,
-    "author": "pseudolus",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=28326213"
+    "title": "Cold Call",
+    "url": "https://theupsizers.wordpress.com/2021/08/09/entry-1068-cold-call/",
+    "upvotes": 5,
+    "author": "Alex3917",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28327111"
+  },
+  {
+    "title": "When correlation is better than causation",
+    "url": "https://www.narrator.ai/blog/when-correlation-is-better-than-causation/",
+    "upvotes": 5,
+    "author": "mattjstar",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28327198"
   },
   {
     "title": "A man preserving endangered colours",
@@ -172,67 +196,43 @@
     "link": "https://news.ycombinator.com/item?id=28299932"
   },
   {
+    "title": "The Battle of Blair Mountain",
+    "url": "https://www.smithsonianmag.com/history/battle-blair-mountain-largest-labor-uprising-american-history-180978520/",
+    "upvotes": 54,
+    "author": "pseudolus",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=28326213"
+  },
+  {
     "title": "Fastest table sort in the West – Redesigning DuckDB's sort",
     "url": "https://duckdb.org/2021/08/27/external-sorting.html",
-    "upvotes": 73,
+    "upvotes": 76,
     "author": "hfmuehleisen",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=28328657"
   },
   {
-    "title": "Questions about Trees",
-    "url": "http://bit-player.org/2020/questions-about-trees",
-    "upvotes": 40,
-    "author": "baradhiren07",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=28324604"
-  },
-  {
-    "title": "Whoogle Search: A self-hosted, ad-free, privacy-respecting metasearch engine",
-    "url": "https://github.com/benbusby/whoogle-search",
-    "upvotes": 147,
-    "author": "wsc981",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=28326180"
-  },
-  {
     "title": "Linux in a Pixel Shader – A RISC-V Emulator for VRChat",
     "url": "https://blog.pimaker.at/texts/rvc1/",
-    "upvotes": 381,
+    "upvotes": 385,
     "author": "PiMaker",
     "comments": 82,
     "link": "https://news.ycombinator.com/item?id=28312632"
   },
   {
-    "title": "Automatically Light Up a Sign When Your Webcam Is in Use",
-    "url": "https://fedoramagazine.org/automatically-light-up-a-sign-when-your-webcam-is-in-use/",
-    "upvotes": 101,
-    "author": "marbu",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=28326411"
+    "title": "Whoogle Search: A self-hosted, ad-free, privacy-respecting metasearch engine",
+    "url": "https://github.com/benbusby/whoogle-search",
+    "upvotes": 149,
+    "author": "wsc981",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=28326180"
   },
   {
-    "title": "Western Digital confirms speed crippling SN550 SSD flash change",
-    "url": "https://www.bleepingcomputer.com/news/hardware/western-digital-confirms-speed-crippling-sn550-ssd-flash-change/",
-    "upvotes": 148,
-    "author": "sharjeelsayed",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=28329409"
-  },
-  {
-    "title": "Keeping a Lab Notebook [pdf]",
-    "url": "https://www.training.nih.gov/assets/Lab_Notebook_508_(new).pdf",
-    "upvotes": 103,
-    "author": "Tomte",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=28300318"
-  },
-  {
-    "title": "Upsides to unshipping: The art of removing features and products",
-    "url": "https://mixpanel.com/blog/upsides-to-unshipping-the-art-of-removing-features-and-products/",
+    "title": "Some Vermonters turn to ayahuasca as a 'last resort' to heal",
+    "url": "https://www.sevendaysvt.com/vermont/some-vermonters-turn-to-ayahuasca-as-a-last-resort-to-heal-their-bodies-and-minds/Content?oid=32812290",
     "upvotes": 55,
-    "author": "villaaston1",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=28325752"
+    "author": "miles",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=28330176"
   }
 ]
