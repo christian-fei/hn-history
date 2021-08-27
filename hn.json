@@ -2,47 +2,47 @@
   {
     "title": "Fundamental physics is humanity’s most extraordinary achievement",
     "url": "https://www.economist.com/leaders/2021/08/28/fundamental-physics-is-humanitys-most-extraordinary-achievement",
-    "upvotes": 32,
+    "upvotes": 50,
     "author": "Osiris30",
-    "comments": 18,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=28327029"
   },
   {
     "title": "IPv4 vs. IPv6 FAQ",
     "url": "https://tailscale.com/kb/1134/ipv6-faq/",
-    "upvotes": 49,
+    "upvotes": 64,
     "author": "mjs",
-    "comments": 23,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=28326806"
-  },
-  {
-    "title": "Iced: A cross-platform GUI library for Rust, inspired by Elm",
-    "url": "https://github.com/hecrj/iced/",
-    "upvotes": 52,
-    "author": "ducktective",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=28326125"
   },
   {
     "title": "IEEE 754 round-off errors",
     "url": "https://yurichev.com/news/20210131_IEEE_754/",
-    "upvotes": 20,
+    "upvotes": 26,
     "author": "kulikov009",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28326685"
   },
   {
+    "title": "Iced: A cross-platform GUI library for Rust, inspired by Elm",
+    "url": "https://github.com/hecrj/iced/",
+    "upvotes": 75,
+    "author": "ducktective",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=28326125"
+  },
+  {
     "title": "Apple agrees to settle potential class action suit by U.S. developers",
     "url": "https://www.axios.com/apple-settles-developer-class-action-c13bb308-daf3-4231-a399-ffd48b6b2c52.html",
-    "upvotes": 536,
+    "upvotes": 541,
     "author": "throwaway888abc",
-    "comments": 193,
+    "comments": 199,
     "link": "https://news.ycombinator.com/item?id=28322971"
   },
   {
     "title": "Keeping a Lab Notebook [pdf]",
     "url": "https://www.training.nih.gov/assets/Lab_Notebook_508_(new).pdf",
-    "upvotes": 19,
+    "upvotes": 28,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28300318"
@@ -50,17 +50,17 @@
   {
     "title": "Linux in a Pixel Shader – A RISC-V Emulator for VRChat",
     "url": "https://blog.pimaker.at/texts/rvc1/",
-    "upvotes": 296,
+    "upvotes": 299,
     "author": "PiMaker",
-    "comments": 51,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=28312632"
   },
   {
     "title": "Write an SQL query builder in 150 lines of Python",
     "url": "https://death.andgravity.com/query-builder-how",
-    "upvotes": 57,
+    "upvotes": 66,
     "author": "genericlemon24",
-    "comments": 21,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=28290608"
   },
   {
@@ -70,15 +70,23 @@
   {
     "title": "Whoogle Search: A self-hosted, ad-free, privacy-respecting metasearch engine",
     "url": "https://github.com/benbusby/whoogle-search",
-    "upvotes": 22,
+    "upvotes": 26,
     "author": "wsc981",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28326180"
+  },
+  {
+    "title": "Latency Sneaks Up on You",
+    "url": "https://brooker.co.za/blog/2021/08/05/utilization.html",
+    "upvotes": 8,
+    "author": "luord",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28326932"
   },
   {
     "title": "Illustrated Redirection Tutorial",
     "url": "https://wiki.bash-hackers.org/howto/redirection_tutorial",
-    "upvotes": 130,
+    "upvotes": 136,
     "author": "pierremenard",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=28324311"
@@ -86,71 +94,79 @@
   {
     "title": "Chinese authorities say overtime '996' policy is illegal",
     "url": "https://www.reuters.com/world/china/chinese-authorities-say-overtime-996-policy-is-illegal-2021-08-27/",
-    "upvotes": 172,
+    "upvotes": 187,
     "author": "hkmaxpro",
-    "comments": 117,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=28325629"
-  },
-  {
-    "title": "Who Would Kidnap a Space Telescope?",
-    "url": "https://www.theatlantic.com/science/archive/2021/03/nasa-james-webb-space-telescope-pirates/618268/",
-    "upvotes": 20,
-    "author": "lanna",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28326479"
   },
   {
     "title": "Why observability requires a distributed column store",
     "url": "https://www.honeycomb.io/blog/why-observability-requires-distributed-column-store/",
-    "upvotes": 53,
+    "upvotes": 60,
     "author": "boyter",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28324776"
   },
   {
+    "title": "Phoenix 1.6.0-RC.0 Released",
+    "url": "https://www.phoenixframework.org/blog/phoenix-1.6-released",
+    "upvotes": 29,
+    "author": "thibaut_barrere",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=28325614"
+  },
+  {
+    "title": "Making reverse engineering tools for DEF CON Quals",
+    "url": "https://thume.ca/2021/05/09/making-reverse-engineering-tools-for-def-con-quals/",
+    "upvotes": 5,
+    "author": "allenleein",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28326461"
+  },
+  {
+    "title": "Who Would Kidnap a Space Telescope?",
+    "url": "https://www.theatlantic.com/science/archive/2021/03/nasa-james-webb-space-telescope-pirates/618268/",
+    "upvotes": 22,
+    "author": "lanna",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28326479"
+  },
+  {
     "title": "Yt-dlp – A YouTube-dl fork with additional features and fixes",
     "url": "https://github.com/yt-dlp/yt-dlp",
-    "upvotes": 691,
+    "upvotes": 700,
     "author": "makeworld",
-    "comments": 283,
+    "comments": 285,
     "link": "https://news.ycombinator.com/item?id=28319624"
+  },
+  {
+    "title": "My love-hate affair with technology",
+    "url": "https://nolanlawson.com/2021/08/26/my-love-hate-affair-with-technology/",
+    "upvotes": 120,
+    "author": "mmphosis",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=28324080"
   },
   {
     "title": "SnakeOS: Bootable x86 snake game in Rust",
     "url": "https://github.com/trusch/snakeos",
-    "upvotes": 126,
+    "upvotes": 128,
     "author": "jmmv",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=28323275"
   },
   {
     "title": "Facebook “transparency report” turns out to be anything but",
     "url": "https://www.cjr.org/the_media_today/facebook-transparency-report-turns-out-to-be-anything-but.php",
-    "upvotes": 131,
+    "upvotes": 137,
     "author": "cratermoon",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=28325164"
-  },
-  {
-    "title": "My love-hate affair with technology",
-    "url": "https://nolanlawson.com/2021/08/26/my-love-hate-affair-with-technology/",
-    "upvotes": 112,
-    "author": "mmphosis",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=28324080"
-  },
-  {
-    "title": "Honeycomb LX2 ARM Workstation: An Alternative to x86",
-    "url": "https://www.solid-run.com/arm-servers-networking-platforms/honeycomb-workstation/#overview",
-    "upvotes": 91,
-    "author": "ekianjo",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=28298148"
   },
   {
     "title": "Advantages of the Yaw Free View Camera [pdf]",
     "url": "https://www.pacificrimcamera.com/rl/01283/01283.pdf",
-    "upvotes": 24,
+    "upvotes": 25,
     "author": "brudgers",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28306355"
@@ -158,81 +174,65 @@
   {
     "title": "Lebanon’s underground cryptocurrency market",
     "url": "https://restofworld.org/2021/the-cryptocurrency-dons-of-beirut/",
-    "upvotes": 89,
+    "upvotes": 92,
     "author": "giuliomagnifico",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=28300000"
   },
   {
+    "title": "Visualizing observed deaths using polar coordinates",
+    "url": "https://mcculley.github.io/VisualizingObservedDeaths/",
+    "upvotes": 91,
+    "author": "mcculley",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=28315535"
+  },
+  {
     "title": "Researchers Ready Lab-Grown Delta for Human Trials",
     "url": "https://www.wsj.com/articles/researchers-ready-lab-grown-covid-19-delta-variant-for-human-trials-11630053797",
-    "upvotes": 7,
+    "upvotes": 8,
     "author": "nradov",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28327010"
   },
   {
-    "title": "Phoenix 1.6.0-RC.0 Released",
-    "url": "https://www.phoenixframework.org/blog/phoenix-1.6-released",
-    "upvotes": 21,
-    "author": "thibaut_barrere",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=28325614"
-  },
-  {
-    "title": "Visualizing observed deaths using polar coordinates",
-    "url": "https://mcculley.github.io/VisualizingObservedDeaths/",
-    "upvotes": 87,
-    "author": "mcculley",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=28315535"
+    "title": "Honeycomb LX2 ARM Workstation: An Alternative to x86",
+    "url": "https://www.solid-run.com/arm-servers-networking-platforms/honeycomb-workstation/#overview",
+    "upvotes": 92,
+    "author": "ekianjo",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=28298148"
   },
   {
     "title": "Microsoft warns thousands of cloud customers of exposed databases",
     "url": "https://www.reuters.com/technology/exclusive-microsoft-warns-thousands-cloud-customers-exposed-databases-emails-2021-08-26/",
-    "upvotes": 241,
+    "upvotes": 246,
     "author": "wsostt",
-    "comments": 116,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=28322550"
   },
   {
     "title": "The QSBS Tax Exemption: A Valuable Benefit for Startup Founders and Builders",
     "url": "https://www.brownadvisory.com/us/theadvisory/qsbs-tax-exemption-valuable-benefit-startup-founders-and-builders",
-    "upvotes": 97,
+    "upvotes": 98,
     "author": "omarfarooq",
-    "comments": 38,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=28322857"
   },
   {
     "title": "Where did this interaction come from? – a brief history of interaction design",
     "url": "https://uxdesign.cc/where-did-this-interaction-come-from-a-brief-history-of-interaction-design-ebcc8c278ae7",
-    "upvotes": 31,
+    "upvotes": 32,
     "author": "conanxin",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28324441"
   },
   {
-    "title": "Simone de Beauvoir’s Lost Novel of Early Love",
-    "url": "https://www.newyorker.com/magazine/2021/08/30/simone-de-beauvoirs-lost-novel-of-early-love",
-    "upvotes": 10,
-    "author": "apollinaire",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28303400"
-  },
-  {
     "title": "Responsible Monkeypatching in Ruby",
     "url": "https://blog.appsignal.com/2021/08/24/responsible-monkeypatching-in-ruby.html",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "thunderbong",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=28290403"
-  },
-  {
-    "title": "OpenShot 2.6.0 Released – AI and Computer Vision and Audio Effects",
-    "url": "https://www.openshot.org/blog/2021/08/25/new_openshot_release_260/",
-    "upvotes": 63,
-    "author": "pmontra",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=28324536"
   }
 ]
