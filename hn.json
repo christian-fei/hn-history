@@ -2,39 +2,31 @@
   {
     "title": "uBlock Origin review",
     "url": "https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/",
-    "upvotes": 214,
+    "upvotes": 253,
     "author": "miles",
-    "comments": 70,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=28410807"
-  },
-  {
-    "title": "Google Chrome to remove detailed cookie and site data controls",
-    "url": "https://lapcatsoftware.com/articles/chrome-cookie.html",
-    "upvotes": 639,
-    "author": "giuliomagnifico",
-    "comments": 243,
-    "link": "https://news.ycombinator.com/item?id=28407656"
   },
   {
     "title": "Shlinkedin – Satirical Social Network",
     "url": "https://www.shlinkedin.com/",
-    "upvotes": 52,
+    "upvotes": 76,
     "author": "tbabej",
-    "comments": 8,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=28411603"
   },
   {
-    "title": "Apple Delays Rollout of Child Safety Features",
-    "url": "https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/",
-    "upvotes": 1171,
-    "author": "nycdatasci",
-    "comments": 738,
-    "link": "https://news.ycombinator.com/item?id=28403727"
+    "title": "Google Chrome to remove detailed cookie and site data controls",
+    "url": "https://lapcatsoftware.com/articles/chrome-cookie.html",
+    "upvotes": 649,
+    "author": "giuliomagnifico",
+    "comments": 247,
+    "link": "https://news.ycombinator.com/item?id=28407656"
   },
   {
     "title": "MIT CSAIL network design principles",
     "url": "https://tig.csail.mit.edu/network-wireless/wireless-design/",
-    "upvotes": 7,
+    "upvotes": 16,
     "author": "asleepawake",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28411931"
@@ -42,18 +34,42 @@
   {
     "title": "Neurocracy",
     "url": "https://neurocracy.site/",
-    "upvotes": 29,
+    "upvotes": 44,
     "author": "evo_9",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=28411523"
+  },
+  {
+    "title": "Faust: Functional programming language for sound synthesis and audio processing",
+    "url": "https://faust.grame.fr/",
+    "upvotes": 12,
+    "author": "shiryel",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28411821"
   },
   {
     "title": "Did IBM Just Preview the Future of Caches?",
     "url": "https://www.anandtech.com/show/16924/did-ibm-just-preview-the-future-of-caches",
-    "upvotes": 88,
+    "upvotes": 97,
     "author": "boyter",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=28401737"
+  },
+  {
+    "title": "Migrating to Next.js from vanilla React.js",
+    "url": "https://nextjs.org/docs/migrating/from-create-react-app",
+    "upvotes": 23,
+    "author": "omarfarooq",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=28411621"
+  },
+  {
+    "title": "Tmpfs inode corruption: introducing inode64",
+    "url": "https://chrisdown.name/2021/07/02/tmpfs-inode-corruption-introducing-inode64.html",
+    "upvotes": 24,
+    "author": "r4um",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28401445"
   },
   {
     "title": "Software Piracy and IP Management: Strategic Responses to Imitation",
@@ -64,92 +80,92 @@
     "link": "https://news.ycombinator.com/item?id=28405847"
   },
   {
-    "title": "Tmpfs inode corruption: introducing inode64",
-    "url": "https://chrisdown.name/2021/07/02/tmpfs-inode-corruption-introducing-inode64.html",
-    "upvotes": 18,
-    "author": "r4um",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28401445"
-  },
-  {
-    "title": "Migrating to Next.js from React.js",
-    "url": "https://nextjs.org/docs/migrating/from-create-react-app",
-    "upvotes": 16,
-    "author": "omarfarooq",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=28411621"
-  },
-  {
     "title": "Forgetting My First Language",
     "url": "https://www.newyorker.com/culture/personal-history/forgetting-my-first-language",
-    "upvotes": 48,
+    "upvotes": 54,
     "author": "Thevet",
-    "comments": 27,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=28411104"
+  },
+  {
+    "title": "How to build silos and decrease collaboration",
+    "url": "https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/",
+    "upvotes": 16,
+    "author": "labwire",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28411712"
   },
   {
     "title": "Stanford researchers develop an engineered 'mini' CRISPR genome editing system",
     "url": "https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "kungfudoi",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28409123"
   },
   {
-    "title": "A nasty bit of undefined timezone behavior in Golang",
-    "url": "https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/",
-    "upvotes": 32,
-    "author": "fanf2",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=28411167"
+    "title": "Why can an ad break the Windows 11 desktop and taskbar?",
+    "url": "https://www.ctrl.blog/entry/windows11-empty-taskbar.html",
+    "upvotes": 383,
+    "author": "MBCook",
+    "comments": 361,
+    "link": "https://news.ycombinator.com/item?id=28404332"
   },
   {
     "title": "MIT Mathlets",
     "url": "https://mathlets.org/mathlets/",
-    "upvotes": 232,
+    "upvotes": 236,
     "author": "huftis",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=28405675"
   },
   {
-    "title": "Why can an ad break the Windows 11 desktop and taskbar?",
-    "url": "https://www.ctrl.blog/entry/windows11-empty-taskbar.html",
-    "upvotes": 378,
-    "author": "MBCook",
-    "comments": 352,
-    "link": "https://news.ycombinator.com/item?id=28404332"
+    "title": "Apple Delays Rollout of Child Safety Features",
+    "url": "https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/",
+    "upvotes": 1182,
+    "author": "nycdatasci",
+    "comments": 741,
+    "link": "https://news.ycombinator.com/item?id=28403727"
+  },
+  {
+    "title": "A nasty bit of undefined timezone behavior in Golang",
+    "url": "https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/",
+    "upvotes": 37,
+    "author": "fanf2",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28411167"
   },
   {
     "title": "The New Thermodynamic Understanding of Clocks",
     "url": "https://www.quantamagazine.org/the-new-science-of-clocks-prompts-questions-about-the-nature-of-time-20210831/",
-    "upvotes": 33,
+    "upvotes": 36,
     "author": "signa11",
-    "comments": 3,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28390312"
   },
   {
     "title": "Dynamic visualization of your WiFi signal",
     "url": "https://blog.ui.com/2021/08/19/wifiman-introduces-enhanced-signal-tracking-features/",
-    "upvotes": 85,
+    "upvotes": 88,
     "author": "libaznezba",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28391112"
+  },
+  {
+    "title": "Delays Aren't Good Enough–Apple Must Abandon Its Surveillance Plans",
+    "url": "https://www.eff.org/deeplinks/2021/09/delays-arent-good-enough-apple-must-abandon-its-surveillance-plans",
+    "upvotes": 21,
+    "author": "miles",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28411918"
   },
   {
     "title": "The fungal mind: on the evidence for mushroom intelligence",
     "url": "https://psyche.co/ideas/the-fungal-mind-on-the-evidence-for-mushroom-intelligence",
-    "upvotes": 163,
+    "upvotes": 165,
     "author": "pps",
-    "comments": 108,
+    "comments": 115,
     "link": "https://news.ycombinator.com/item?id=28406931"
-  },
-  {
-    "title": "OpenMoji: Open-source emojis",
-    "url": "https://openmoji.org",
-    "upvotes": 320,
-    "author": "nameequalsmain",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=28403672"
   },
   {
     "title": "Tesorio",
@@ -158,18 +174,26 @@
   {
     "title": "SQLite-TUI: A TUI for viewing SQLite databases, written in Go",
     "url": "https://github.com/mathaou/sqlite-tui",
-    "upvotes": 71,
+    "upvotes": 74,
     "author": "gjvc",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28408682"
   },
   {
     "title": "Retailers are spending millions to combat organized theft from stores",
     "url": "https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851",
-    "upvotes": 168,
+    "upvotes": 172,
     "author": "juokaz",
-    "comments": 269,
+    "comments": 274,
     "link": "https://news.ycombinator.com/item?id=28403759"
+  },
+  {
+    "title": "Prevent duplicate cron job running",
+    "url": "https://www.pankajtanwar.in/blog/prevent-duplicate-cron-job-running",
+    "upvotes": 4,
+    "author": "the2ndfloorguy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28379835"
   },
   {
     "title": "The little film SLR released a decade too early",
@@ -180,12 +204,20 @@
     "link": "https://news.ycombinator.com/item?id=28401713"
   },
   {
-    "title": "RSA chief believed cryptographers’ warnings on Dual EC DRBG lacked merit",
-    "url": "http://jeffreycarr.blogspot.com/2014/02/six-cryptographers-whose-work-on-dual.html",
-    "upvotes": 176,
-    "author": "jalcazar",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=28403588"
+    "title": "Rejected internal job applicants are twice as likely to quit",
+    "url": "https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit",
+    "upvotes": 407,
+    "author": "PaulHoule",
+    "comments": 200,
+    "link": "https://news.ycombinator.com/item?id=28404703"
+  },
+  {
+    "title": "Amazon’s answer to delivery driver shortage: Pot smokers",
+    "url": "https://www.latimes.com/business/technology/story/2021-09-01/amazons-answer-to-delivery-driver-shortage-recruit-pot-smokers",
+    "upvotes": 105,
+    "author": "numo16",
+    "comments": 218,
+    "link": "https://news.ycombinator.com/item?id=28403115"
   },
   {
     "title": "Hardest amorphous material can scratch even diamond",
@@ -196,43 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=28407155"
   },
   {
-    "title": "Rejected internal job applicants are twice as likely to quit",
-    "url": "https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit",
-    "upvotes": 401,
-    "author": "PaulHoule",
-    "comments": 199,
-    "link": "https://news.ycombinator.com/item?id=28404703"
-  },
-  {
-    "title": "How to build silos and decrease collaboration",
-    "url": "https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/",
-    "upvotes": 5,
-    "author": "labwire",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28411712"
-  },
-  {
-    "title": "Amazon’s answer to delivery driver shortage: Pot smokers",
-    "url": "https://www.latimes.com/business/technology/story/2021-09-01/amazons-answer-to-delivery-driver-shortage-recruit-pot-smokers",
-    "upvotes": 101,
-    "author": "numo16",
-    "comments": 208,
-    "link": "https://news.ycombinator.com/item?id=28403115"
-  },
-  {
     "title": "NoProto: Flexible, Fast and Compact Serialization with RPC",
     "url": "https://github.com/only-cliches/NoProto",
     "upvotes": 28,
     "author": "excerionsforte",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=28410414"
-  },
-  {
-    "title": "Joker: A small interpreted dialect of Clojure written in Go",
-    "url": "https://joker-lang.org/",
-    "upvotes": 173,
-    "author": "rcarmo",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=28397893"
   }
 ]
