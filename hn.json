@@ -2,15 +2,15 @@
   {
     "title": "Todo-or-die – Provides procedural macros that act as checked reminders",
     "url": "https://github.com/davidpdrsn/todo-or-die",
-    "upvotes": 125,
+    "upvotes": 133,
     "author": "pabs3",
-    "comments": 29,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=28429943"
   },
   {
     "title": "Podman, the open source Docker alternative ported to M1",
     "url": "https://github.com/simnalamburt/homebrew-x/blob/main/Formula/podman-apple-silicon.rb",
-    "upvotes": 106,
+    "upvotes": 118,
     "author": "pcr910303",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=28429650"
@@ -18,57 +18,65 @@
   {
     "title": "ZFS is mysteriously eating my CPU",
     "url": "https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html",
-    "upvotes": 113,
+    "upvotes": 125,
     "author": "mfrw",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=28429596"
   },
   {
     "title": "Art student’s 407-piece hand-carved wooden clock",
     "url": "https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/",
-    "upvotes": 411,
+    "upvotes": 415,
     "author": "_Microft",
     "comments": 64,
     "link": "https://news.ycombinator.com/item?id=28426701"
   },
   {
+    "title": "Show HN: Postgres Docker image with common extensions",
+    "url": "https://github.com/supabase/postgres",
+    "upvotes": 34,
+    "author": "kiwicopple",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=28430439"
+  },
+  {
     "title": "Juniper breach mystery starts to clear with new details on hackers and U.S. role",
     "url": "https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers",
-    "upvotes": 439,
+    "upvotes": 442,
     "author": "merrier",
-    "comments": 140,
+    "comments": 141,
     "link": "https://news.ycombinator.com/item?id=28425354"
   },
   {
-    "title": "Show HN: Postgres Docker image with common extensions",
-    "url": "https://github.com/supabase/postgres",
-    "upvotes": 22,
-    "author": "kiwicopple",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28430439"
+    "title": "A curated list of awesome things related to GitHub Actions",
+    "url": "https://github.com/sdras/awesome-actions",
+    "upvotes": 7,
+    "author": "chynkm",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28430756"
   },
   {
     "title": "Melatonin: Much More Than You Wanted to Know",
     "url": "https://slatestarcodex.com/2018/07/10/melatonin-much-more-than-you-wanted-to-know/",
-    "upvotes": 130,
+    "upvotes": 140,
     "author": "deegles",
-    "comments": 55,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=28416035"
   },
   {
     "title": "Climate activist arrested after ProtonMail provided his IP address",
     "url": "https://twitter.com/tenacioustek/status/1434604102676271106",
-    "upvotes": 916,
+    "upvotes": 943,
     "author": "kdunglas",
-    "comments": 388,
+    "comments": 400,
     "link": "https://news.ycombinator.com/item?id=28427259"
   },
   {
     "title": "Earth’s inner core is growing unevenly. Why isn’t the planet tipping?",
     "url": "https://www.independent.co.uk/news/science/earth-core-growing-planet-tipping-b1907810.html",
-    "upvotes": 15,
+    "upvotes": 17,
     "author": "Phithagoras",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28417071"
   },
   {
@@ -80,35 +88,35 @@
     "link": "https://news.ycombinator.com/item?id=28416484"
   },
   {
-    "title": "Are we on the road to civilisation collapse?",
-    "url": "https://www.bbc.com/future/article/20190218-are-we-on-the-road-to-civilisation-collapse",
-    "upvotes": 123,
-    "author": "hiddencache",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=28429521"
-  },
-  {
     "title": "Ask HN: What could a modern database do that PostgreSQL and MySQL can't",
     "url": "item?id=28425379",
-    "upvotes": 259,
+    "upvotes": 263,
     "author": "eatonphil",
-    "comments": 246,
+    "comments": 253,
     "link": "https://news.ycombinator.com/item?id=28425379"
   },
   {
     "title": "Terraform is currently not reviewing community pull requests",
     "url": "https://github.com/hashicorp/terraform/commit/6562466c32a8750d7a71a6cc6232e6b5a28fe13a",
-    "upvotes": 189,
+    "upvotes": 194,
     "author": "jaxxstorm",
-    "comments": 77,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=28425849"
+  },
+  {
+    "title": "Are we on the road to civilisation collapse?",
+    "url": "https://www.bbc.com/future/article/20190218-are-we-on-the-road-to-civilisation-collapse",
+    "upvotes": 131,
+    "author": "hiddencache",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=28429521"
   },
   {
     "title": "E-Ink Typewriter",
     "url": "https://github.com/olup/kobowriter",
-    "upvotes": 97,
+    "upvotes": 101,
     "author": "olup",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=28426741"
   },
   {
@@ -116,7 +124,7 @@
     "url": "https://www.ubyssey.ca/news/international-students-struggle-to-return/",
     "upvotes": 64,
     "author": "luu",
-    "comments": 36,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=28412543"
   },
   {
@@ -126,18 +134,18 @@
   {
     "title": "Researchers studying Facebook misinformation say they were deplatformed",
     "url": "https://www.cnn.com/2021/09/05/media/reliable-sources-facebook-researchers-deplatform/index.html",
-    "upvotes": 71,
+    "upvotes": 72,
     "author": "SmkyMt",
-    "comments": 25,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=28429575"
   },
   {
-    "title": "Ethereum's Metamask now has 8 million users on Google Chrome alone",
-    "url": "https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en",
-    "upvotes": 33,
-    "author": "omarfarooq",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=28428660"
+    "title": "GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor",
+    "url": "https://hackernoon.com/github-codespaces-vs-gitpod-choosing-the-best-online-code-editor",
+    "upvotes": 12,
+    "author": "okikio",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28430808"
   },
   {
     "title": "The Programmer as a Young Dog",
@@ -148,49 +156,49 @@
     "link": "https://news.ycombinator.com/item?id=28418473"
   },
   {
-    "title": "A programmer broke the internet by deleting a tiny piece of code",
-    "url": "https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/",
-    "upvotes": 3,
-    "author": "Anon84",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28415676"
-  },
-  {
     "title": "How Ida dodged NYC’s flood defenses",
     "url": "https://www.technologyreview.com/2021/09/03/1034315/ida-dodged-nyc-flood-defenses-climate-change-storm/",
     "upvotes": 26,
     "author": "lnyan",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28415447"
   },
   {
-    "title": "Russia asks Google to clamp down on Navalny′s ′Smart Voting′",
+    "title": "A programmer broke the internet by deleting a tiny piece of code",
+    "url": "https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/",
+    "upvotes": 3,
+    "author": "Anon84",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28415676"
+  },
+  {
+    "title": "Russia asks Google to clamp down on Navalny′s ‘Smart Voting′",
     "url": "https://m.dw.com/en/russia-google-told-to-clamp-down-on-navalnys-smart-voting/a-59092740",
-    "upvotes": 89,
+    "upvotes": 92,
     "author": "t23",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=28429223"
   },
   {
     "title": "Malware found preinstalled in classic push-button phones sold in Russia",
     "url": "https://therecord.media/malware-found-preinstalled-in-classic-push-button-phones-sold-in-russia/",
-    "upvotes": 244,
+    "upvotes": 249,
     "author": "giuliomagnifico",
-    "comments": 96,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=28422196"
   },
   {
-    "title": "GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor",
-    "url": "https://hackernoon.com/github-codespaces-vs-gitpod-choosing-the-best-online-code-editor",
-    "upvotes": 8,
-    "author": "okikio",
+    "title": "Code Runs on People",
+    "url": "https://rachelbythebay.com/w/2021/09/05/clever/",
+    "upvotes": 19,
+    "author": "parsecs",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28430808"
+    "link": "https://news.ycombinator.com/item?id=28430335"
   },
   {
     "title": "Dogs distinguish human intentional and unintentional action",
     "url": "https://www.nature.com/articles/s41598-021-94374-3",
-    "upvotes": 332,
+    "upvotes": 335,
     "author": "sam345",
     "comments": 134,
     "link": "https://news.ycombinator.com/item?id=28423122"
@@ -198,18 +206,10 @@
   {
     "title": "Raspberry Pi in Rotary Phone",
     "url": "https://www.instructables.com/Raspberry-Pi-in-Rotary-Phone/",
-    "upvotes": 44,
+    "upvotes": 45,
     "author": "polm23",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=28421686"
-  },
-  {
-    "title": "Constructive Journalism Pays Off",
-    "url": "https://ellen-heinrichs.medium.com/cha-ching-five-insights-into-how-constructive-journalism-pays-off-d7bcf5d1b0f9",
-    "upvotes": 17,
-    "author": "rapnie",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28413601"
   },
   {
     "title": "Incident: Airbus A330 at Taipei, primary computers failed on touchdown",
@@ -220,19 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=28424482"
   },
   {
-    "title": "Towards a taxonomy of cliches in Space Opera",
-    "url": "http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html",
-    "upvotes": 63,
-    "author": "georgecmu",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=28428024"
+    "title": "Constructive Journalism Pays Off",
+    "url": "https://ellen-heinrichs.medium.com/cha-ching-five-insights-into-how-constructive-journalism-pays-off-d7bcf5d1b0f9",
+    "upvotes": 17,
+    "author": "rapnie",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28413601"
   },
   {
-    "title": "Roadrunner Blocked by U.S. Border Wall Wins Best Bird Photo of 2021",
-    "url": "https://petapixel.com/2021/09/01/roadrunner-blocked-by-u-s-border-wall-wins-best-bird-photo-of-2021/",
-    "upvotes": 69,
-    "author": "fnord77",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=28430122"
+    "title": "Towards a taxonomy of cliches in Space Opera",
+    "url": "http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html",
+    "upvotes": 65,
+    "author": "georgecmu",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=28428024"
   }
 ]
