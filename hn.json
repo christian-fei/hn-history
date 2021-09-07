@@ -1,107 +1,123 @@
 [
   {
-    "title": "Serving 2000 requests/s on a ~US$1500/month budget",
+    "title": "MangaDex infrastructure overview",
     "url": "https://mangadex.dev/mangadex-v5-infrastructure-overview/",
-    "upvotes": 135,
+    "upvotes": 177,
     "author": "m45t3r",
-    "comments": 37,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=28440742"
   },
   {
     "title": "The operating system: should there be one?",
     "url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.715.9197&rep=rep1&type=pdf",
-    "upvotes": 44,
+    "upvotes": 56,
     "author": "evanlh",
-    "comments": 12,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=28440490"
   },
   {
     "title": "Libwebsockets a powerful and lightweight pure C library",
     "url": "https://libwebsockets.org/",
-    "upvotes": 141,
+    "upvotes": 148,
     "author": "khoobid_shoma",
-    "comments": 17,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=28439447"
   },
   {
     "title": "Minus",
     "url": "https://minus.social/",
-    "upvotes": 460,
+    "upvotes": 475,
     "author": "fredley",
-    "comments": 130,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=28436395"
   },
   {
     "title": "Linux implementation of Homa, a protocol to replace TCP for low-latency RPC",
     "url": "https://www.micahlerner.com/2021/08/29/a-linux-kernel-implementation-of-the-homa-transport-protocol.html",
-    "upvotes": 20,
+    "upvotes": 30,
     "author": "mlerner",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28440542"
+  },
+  {
+    "title": "Zero-Trust RDP and SSH Access to VMs on Google Cloud",
+    "url": "https://github.com/GoogleCloudPlatform/iap-desktop",
+    "upvotes": 9,
+    "author": "confuseddeputy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28441104"
   },
   {
     "title": "Show HN: Age 1.0 – Simple, modern and secure file encryption",
     "url": "https://github.com/FiloSottile/age/releases/tag/v1.0.0",
-    "upvotes": 384,
+    "upvotes": 395,
     "author": "FiloSottile",
     "comments": 64,
     "link": "https://news.ycombinator.com/item?id=28435613"
   },
   {
-    "title": "SystemE – A lightweight systemd replacement written in Emacs Lisp",
-    "url": "https://github.com/a-schaefers/systemE",
-    "upvotes": 86,
-    "author": "pabs3",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=28439275"
-  },
-  {
-    "title": "Who is Monica Main, and where is ex-NYT bestselling author Judith McNaught?",
-    "url": "https://accrispin.blogspot.com/2021/09/very-weird-solicitation-alert-monica.html",
-    "upvotes": 38,
-    "author": "ilamont",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=28439807"
-  },
-  {
-    "title": "Rumble, an open source, offline, censorship resistant microblog",
-    "url": "https://github.com/Marlinski/Rumble",
-    "upvotes": 86,
-    "author": "hkt",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=28431505"
-  },
-  {
     "title": "Looking into Odin and Zig",
     "url": "https://ayende.com/blog/194466-A/looking-into-odin-and-zig-my-notes",
-    "upvotes": 14,
+    "upvotes": 20,
     "author": "dsego",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28440579"
   },
   {
+    "title": "SystemE – A lightweight systemd replacement written in Emacs Lisp",
+    "url": "https://github.com/a-schaefers/systemE",
+    "upvotes": 94,
+    "author": "pabs3",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=28439275"
+  },
+  {
+    "title": "Who is Monica Main, and where is ex-NYT bestselling author Judith McNaught?",
+    "url": "https://accrispin.blogspot.com/2021/09/very-weird-solicitation-alert-monica.html",
+    "upvotes": 41,
+    "author": "ilamont",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=28439807"
+  },
+  {
+    "title": "Rumble, an open source, offline, censorship resistant microblog",
+    "url": "https://github.com/Marlinski/Rumble",
+    "upvotes": 88,
+    "author": "hkt",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=28431505"
+  },
+  {
+    "title": "Morashon",
+    "url": "http://www.morashon.com/",
+    "upvotes": 3,
+    "author": "sternmere",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28441246"
+  },
+  {
     "title": "Apple iMessage Zero-Click Hacks",
     "url": "https://www.wired.com/story/apple-imessage-zero-click-hacks/",
-    "upvotes": 164,
+    "upvotes": 174,
     "author": "curmudgeon22",
-    "comments": 82,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=28436768"
+  },
+  {
+    "title": "Low Cost Banana Pi BPI-R2 Pro 5-Port Gigabit Ethernet Router Board",
+    "url": "https://www.cnx-software.com/2021/08/30/banana-pi-bpi-r2-pro-5-port-gigabit-ethernet-router-board-rockchip-rk3568/",
+    "upvotes": 12,
+    "author": "teleforce",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28440718"
   },
   {
     "title": "Intermediate Algebra",
     "url": "https://saylordotorg.github.io/text_intermediate-algebra/index.html",
-    "upvotes": 78,
+    "upvotes": 86,
     "author": "parsecs",
-    "comments": 61,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=28438595"
-  },
-  {
-    "title": "Intel’s Turnaround and the Future of Chipmaking",
-    "url": "https://www.economist.com/business/intels-turnaround-and-the-future-of-chipmaking/21804288",
-    "upvotes": 65,
-    "author": "martincmartin",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=28439631"
   },
   {
     "title": "Sirum (YC Nonprofit) needs engineers to automate medicine delivery",
@@ -110,71 +126,79 @@
   {
     "title": "Micro-GPS: High-Precision Localization Using Ground Texture",
     "url": "https://microgps.cs.princeton.edu/",
-    "upvotes": 65,
+    "upvotes": 68,
     "author": "miduil",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=28438457"
+  },
+  {
+    "title": "Can progressives be convinced that genetics matters?",
+    "url": "https://www.newyorker.com/magazine/2021/09/13/can-progressives-be-convinced-that-genetics-matters",
+    "upvotes": 88,
+    "author": "fspacef",
+    "comments": 130,
+    "link": "https://news.ycombinator.com/item?id=28437237"
   },
   {
     "title": "Missing businesswoman urges ex-husband not to publish book critical of China",
     "url": "https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine",
-    "upvotes": 289,
+    "upvotes": 320,
     "author": "ilamont",
-    "comments": 133,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=28439448"
   },
   {
-    "title": "A generation of American men give up on college",
-    "url": "https://www.wsj.com/articles/college-university-fall-higher-education-men-women-enrollment-admissions-back-to-school-11630948233",
-    "upvotes": 56,
-    "author": "flowerbeater",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=28436836"
+    "title": "Intel’s Turnaround and the Future of Chipmaking",
+    "url": "https://www.economist.com/business/intels-turnaround-and-the-future-of-chipmaking/21804288",
+    "upvotes": 68,
+    "author": "martincmartin",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=28439631"
   },
   {
     "title": "Silence Is a Commons",
     "url": "https://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/5962/Silence%252520is%252520a%252520Commons.html?sequence=1&isAllowed=y",
-    "upvotes": 86,
+    "upvotes": 87,
     "author": "csbartus",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28431541"
   },
   {
-    "title": "Can progressives be convinced that genetics matters?",
-    "url": "https://www.newyorker.com/magazine/2021/09/13/can-progressives-be-convinced-that-genetics-matters",
-    "upvotes": 75,
-    "author": "fspacef",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=28437237"
-  },
-  {
     "title": "Greedy AI agents learn to cooperate",
     "url": "https://spectrum.ieee.org/reinforcement-learning",
-    "upvotes": 71,
+    "upvotes": 73,
     "author": "ystad",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=28437797"
   },
   {
-    "title": "Jeff Bezos and the New Pharoahs",
-    "url": "https://joebot.substack.com/p/jeff-bezos-and-the-new-pharoahs",
-    "upvotes": 14,
-    "author": "starkd",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=28440348"
-  },
-  {
     "title": "Who Owns the US National Debt?",
     "url": "https://www.thebalance.com/who-owns-the-u-s-national-debt-3306124",
-    "upvotes": 74,
+    "upvotes": 81,
     "author": "omarfarooq",
-    "comments": 115,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=28437934"
+  },
+  {
+    "title": "A $10k poker win changed how I think",
+    "url": "https://www.bbc.com/future/article/20210517-how-a-10k-poker-win-changed-how-i-think",
+    "upvotes": 200,
+    "author": "cjg",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=28436541"
+  },
+  {
+    "title": "A generation of American men give up on college",
+    "url": "https://www.wsj.com/articles/college-university-fall-higher-education-men-women-enrollment-admissions-back-to-school-11630948233",
+    "upvotes": 65,
+    "author": "flowerbeater",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=28436836"
   },
   {
     "title": "Plans are useless, but planning is indispensable",
     "url": "https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487",
-    "upvotes": 80,
+    "upvotes": 83,
     "author": "cjg",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28437278"
@@ -182,34 +206,26 @@
   {
     "title": "Why video game doors are so hard to get right [video]",
     "url": "https://www.youtube.com/watch?v=AYEWsLdLmcc",
-    "upvotes": 207,
+    "upvotes": 211,
     "author": "throw0101a",
-    "comments": 104,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=28415196"
-  },
-  {
-    "title": "A $10k poker win changed how I think",
-    "url": "https://www.bbc.com/future/article/20210517-how-a-10k-poker-win-changed-how-i-think",
-    "upvotes": 194,
-    "author": "cjg",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=28436541"
-  },
-  {
-    "title": "Commodore 64 Ads from the 1980s",
-    "url": "https://lunduke.substack.com/p/commodore-64-ads-from-the-1980s-still",
-    "upvotes": 29,
-    "author": "GuyNumberFive",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28439849"
   },
   {
     "title": "Manuscript fragments of the famous Merlin legend among the oldest of their kind",
     "url": "https://www.bristol.ac.uk/news/2021/september/bristol-merlin-update.html",
-    "upvotes": 37,
+    "upvotes": 38,
     "author": "diodorus",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28430858"
+  },
+  {
+    "title": "Commodore 64 Ads from the 1980s",
+    "url": "https://lunduke.substack.com/p/commodore-64-ads-from-the-1980s-still",
+    "upvotes": 34,
+    "author": "GuyNumberFive",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28439849"
   },
   {
     "title": "Nabokov in Time",
@@ -218,21 +234,5 @@
     "author": "luu",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28431193"
-  },
-  {
-    "title": "The Unraveling of the Real 3D Mandelbulb",
-    "url": "https://www.skytopia.com/project/fractal/mandelbulb.html",
-    "upvotes": 15,
-    "author": "codewiz",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28440347"
-  },
-  {
-    "title": "Notcurses 2.4",
-    "url": "https://github.com/dankamongmen/notcurses/releases/tag/v2.4.0",
-    "upvotes": 97,
-    "author": "marcodiego",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=28437173"
   }
 ]
