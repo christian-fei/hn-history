@@ -1,72 +1,72 @@
 [
   {
-    "title": "Facebook Says Its Rules Apply to All. Documents Reveal an Elite That’s Exempt",
+    "title": "Disclosing E2EE vulnerability in multiple Matrix clients",
+    "url": "https://matrix.org/blog/2021/09/13/vulnerability-disclosure-key-sharing",
+    "upvotes": 32,
+    "author": "Sami_Lehtinen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28512941"
+  },
+  {
+    "title": "Facebook has exempted high-profile users from some or all of its rules",
     "url": "https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353",
-    "upvotes": 248,
+    "upvotes": 352,
     "author": "tysone",
-    "comments": 88,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=28512121"
   },
   {
     "title": "Mozilla has defeated Microsoft’s default browser protections in Windows",
     "url": "https://www.theverge.com/2021/9/13/22671182/mozilla-default-browser-windows-protections-firefox",
-    "upvotes": 377,
+    "upvotes": 435,
     "author": "hadrien01",
-    "comments": 173,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=28510490"
-  },
-  {
-    "title": "Fortran Web Framework",
-    "url": "https://fortran.io/",
-    "upvotes": 180,
-    "author": "neatze",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=28509333"
   },
   {
     "title": "Resource efficient Thread Pools with Zig",
     "url": "https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291",
-    "upvotes": 201,
+    "upvotes": 211,
     "author": "komuW",
-    "comments": 54,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=28509073"
   },
   {
-    "title": "France grants citizenship to 12,000 Covid frontline workers",
-    "url": "https://www.axios.com/covid-france-frontline-workers-citizenship-df86d46d-d488-4009-b2f7-e166be464cd4.html",
-    "upvotes": 140,
-    "author": "_Microft",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=28510613"
-  },
-  {
-    "title": "How We Proved the Eth2 Deposit Contract Is Free of Runtime Errors",
-    "url": "https://consensys.net/blog/ethereum-2-0/20039/",
-    "upvotes": 116,
-    "author": "michaelsbradley",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=28494885"
-  },
-  {
-    "title": "Epiousios",
-    "url": "https://en.wikipedia.org/wiki/Epiousios",
-    "upvotes": 429,
-    "author": "benbreen",
-    "comments": 156,
-    "link": "https://news.ycombinator.com/item?id=28507350"
+    "title": "Fortran Web Framework",
+    "url": "https://fortran.io/",
+    "upvotes": 188,
+    "author": "neatze",
+    "comments": 115,
+    "link": "https://news.ycombinator.com/item?id=28509333"
   },
   {
     "title": "Trademark Actions Against the PostgreSQL Community",
     "url": "https://www.postgresql.org/about/news/trademark-actions-against-the-postgresql-community-2302/",
-    "upvotes": 38,
+    "upvotes": 79,
     "author": "alch-",
-    "comments": 5,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=28512274"
+  },
+  {
+    "title": "Epiousios",
+    "url": "https://en.wikipedia.org/wiki/Epiousios",
+    "upvotes": 453,
+    "author": "benbreen",
+    "comments": 160,
+    "link": "https://news.ycombinator.com/item?id=28507350"
+  },
+  {
+    "title": "How We Proved the Eth2 Deposit Contract Is Free of Runtime Errors",
+    "url": "https://consensys.net/blog/ethereum-2-0/20039/",
+    "upvotes": 123,
+    "author": "michaelsbradley",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=28494885"
   },
   {
     "title": "Custom Search Engine Built on Searx",
     "url": "https://jpreston.xyz/custom-search-engine.html",
-    "upvotes": 44,
+    "upvotes": 53,
     "author": "wcerfgba",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28509997"
@@ -74,26 +74,34 @@
   {
     "title": "Uber must employ its drivers, Dutch court rules",
     "url": "https://nltimes.nl/2021/09/13/uber-must-employ-its-drivers-dutch-court-rules",
-    "upvotes": 266,
+    "upvotes": 292,
     "author": "jsiepkes",
-    "comments": 302,
+    "comments": 323,
     "link": "https://news.ycombinator.com/item?id=28509463"
-  },
-  {
-    "title": "My Life After Quitting Social Media",
-    "url": "https://durmonski.com/life-advice/life-after-quitting-social-media/",
-    "upvotes": 62,
-    "author": "durmonski",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=28511280"
   },
   {
     "title": "Length-Limited Prefix Codes",
     "url": "https://create.stephan-brumme.com/length-limited-prefix-codes/",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "Rendello",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28511141"
+  },
+  {
+    "title": "Britain's Age Appropriate Design Code has made inroads into big tech's dominance",
+    "url": "https://www.wired.co.uk/article/age-appropriate-design-code-big-tech",
+    "upvotes": 66,
+    "author": "intunderflow",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=28509776"
+  },
+  {
+    "title": "Ship / Show / Ask: A modern branching strategy",
+    "url": "https://martinfowler.com/articles/ship-show-ask.html",
+    "upvotes": 90,
+    "author": "NicoJuicy",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=28510212"
   },
   {
     "title": "Rescale",
@@ -102,18 +110,18 @@
   {
     "title": "Use your own WiFi connection test server in Windows",
     "url": "https://www.nu42.com/2021/09/use-your-own-wifi-connection-test.html",
-    "upvotes": 5,
+    "upvotes": 7,
     "author": "nanis",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28512149"
   },
   {
-    "title": "Ship / Show / Ask: A modern branching strategy",
-    "url": "https://martinfowler.com/articles/ship-show-ask.html",
-    "upvotes": 81,
-    "author": "NicoJuicy",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=28510212"
+    "title": "France grants citizenship to 12,000 Covid frontline workers",
+    "url": "https://www.axios.com/covid-france-frontline-workers-citizenship-df86d46d-d488-4009-b2f7-e166be464cd4.html",
+    "upvotes": 179,
+    "author": "_Microft",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=28510613"
   },
   {
     "title": "‘It’s like a puzzle’: experts on piecing together Roman fresco find",
@@ -124,115 +132,107 @@
     "link": "https://news.ycombinator.com/item?id=28484552"
   },
   {
-    "title": "Britain's Age Appropriate Design Code has made inroads into big tech's dominance",
-    "url": "https://www.wired.co.uk/article/age-appropriate-design-code-big-tech",
-    "upvotes": 62,
-    "author": "intunderflow",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=28509776"
-  },
-  {
     "title": "Design Principles: An Open Source Collection",
     "url": "https://principles.design/",
-    "upvotes": 75,
+    "upvotes": 81,
     "author": "alokrai",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28494225"
   },
   {
+    "title": "Welcome to Speed Week and a Waitless Internet",
+    "url": "https://blog.cloudflare.com/fastest-internet/",
+    "upvotes": 9,
+    "author": "bovermyer",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28512931"
+  },
+  {
+    "title": "My life after quitting social media",
+    "url": "https://durmonski.com/life-advice/life-after-quitting-social-media/",
+    "upvotes": 82,
+    "author": "durmonski",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=28511280"
+  },
+  {
+    "title": "Hyperbaric oxygen therapy reverses hallmarks of Alzheimer’s disease and dementia",
+    "url": "https://www.technology.org/2021/09/10/hyperbaric-oxygen-therapy-reverses-hallmarks-of-alzheimers-disease-and-dementia/",
+    "upvotes": 233,
+    "author": "sidcool",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=28508070"
+  },
+  {
+    "title": "C++20 Oxymoron: Constexpr Virtual",
+    "url": "https://www.cppstories.com/2021/constexpr-virtual/",
+    "upvotes": 22,
+    "author": "todsacerdoti",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28509579"
+  },
+  {
+    "title": "I refuse to let Amazon define Rust",
+    "url": "https://twitter.com/steveklabnik/status/1437441118745071617",
+    "upvotes": 8,
+    "author": "formalsystem",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28513130"
+  },
+  {
     "title": "The challenge of finding new tools to fight prostate cancer",
     "url": "https://arstechnica.com/science/2021/09/prostate-cancer-feature/",
-    "upvotes": 5,
+    "upvotes": 7,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28494847"
   },
   {
-    "title": "Hyperbaric oxygen therapy reverses hallmarks of Alzheimer’s disease and dementia",
-    "url": "https://www.technology.org/2021/09/10/hyperbaric-oxygen-therapy-reverses-hallmarks-of-alzheimers-disease-and-dementia/",
-    "upvotes": 217,
-    "author": "sidcool",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=28508070"
-  },
-  {
     "title": "Prison Company Patents VR to Give Inmates Brief Taste of Freedom",
     "url": "https://www.vice.com/en/article/3aqm4k/prison-virtual-reality-vr-global-tel-link",
-    "upvotes": 54,
+    "upvotes": 59,
     "author": "zachguo",
-    "comments": 40,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=28489378"
-  },
-  {
-    "title": "Usage statistics of server-side programming languages for websites",
-    "url": "https://w3techs.com/technologies/history_overview/programming_language/ms/y",
-    "upvotes": 177,
-    "author": "TicklishTiger",
-    "comments": 215,
-    "link": "https://news.ycombinator.com/item?id=28510520"
   },
   {
     "title": "Eleven proofs of the Gaussian integral [pdf]",
     "url": "https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf",
-    "upvotes": 106,
+    "upvotes": 108,
     "author": "antognini",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28507114"
+  },
+  {
+    "title": "Usage statistics of server-side programming languages for websites",
+    "url": "https://w3techs.com/technologies/history_overview/programming_language/ms/y",
+    "upvotes": 179,
+    "author": "TicklishTiger",
+    "comments": 222,
+    "link": "https://news.ycombinator.com/item?id=28510520"
+  },
+  {
+    "title": "Estimating the probabilities of causation via deep monotonic twin networks",
+    "url": "https://arxiv.org/abs/2109.01904",
+    "upvotes": 31,
+    "author": "Anon84",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28493251"
   },
   {
     "title": "Hrmpf rescue system, built on Void Linux",
     "url": "https://github.com/leahneukirchen/hrmpf",
     "upvotes": 58,
     "author": "smasher164",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=28508125"
-  },
-  {
-    "title": "C++20 Oxymoron: Constexpr Virtual",
-    "url": "https://www.cppstories.com/2021/constexpr-virtual/",
-    "upvotes": 14,
-    "author": "todsacerdoti",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28509579"
-  },
-  {
-    "title": "Ask HN: Does privacy and data protection law apply to the inside of your home?",
-    "url": "item?id=28512242",
-    "upvotes": 14,
-    "author": "rsgrn",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28512242"
-  },
-  {
-    "title": "Estimating the probabilities of causation via deep monotonic twin networks",
-    "url": "https://arxiv.org/abs/2109.01904",
-    "upvotes": 29,
-    "author": "Anon84",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28493251"
   },
   {
     "title": "Minimal APIs at a glance in .NET 6",
     "url": "https://www.hanselman.com/blog/minimal-apis-at-a-glance-in-net-6",
-    "upvotes": 109,
+    "upvotes": 119,
     "author": "ingve",
-    "comments": 77,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=28508494"
-  },
-  {
-    "title": "A Simulator of a Universal Turing Machine",
-    "url": "https://www.codeproject.com/Articles/1179819/A-Simulator-of-a-Universal-Turing-Machine",
-    "upvotes": 21,
-    "author": "gone35",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28494793"
-  },
-  {
-    "title": "Wireless Charging Power Side-Channel Attacks",
-    "url": "https://arxiv.org/abs/2105.12266",
-    "upvotes": 59,
-    "author": "tosh",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=28494882"
   }
 ]
