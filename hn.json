@@ -1,58 +1,66 @@
 [
   {
-    "title": "Apple unveils new iPad mini with breakthrough performance in new design",
-    "url": "https://www.apple.com/newsroom/2021/09/apple-unveils-new-ipad-mini-with-breakthrough-performance-in-stunning-new-design/",
-    "upvotes": 74,
-    "author": "0xedb",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=28527931"
-  },
-  {
     "title": "How percentile approximation works and why it's more useful than averages",
     "url": "https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/",
-    "upvotes": 170,
+    "upvotes": 209,
     "author": "od0",
-    "comments": 45,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=28526966"
   },
   {
     "title": "Intel is reducing server chip pricing in attempt to stem the AMD tide",
     "url": "https://www.tomshardware.com/news/intel-reduces-server-pricing-to-fight-amd",
-    "upvotes": 303,
+    "upvotes": 314,
     "author": "rbanffy",
-    "comments": 213,
+    "comments": 222,
     "link": "https://news.ycombinator.com/item?id=28522378"
+  },
+  {
+    "title": "Apple Watch Series 7",
+    "url": "https://www.apple.com/apple-watch-series-7/",
+    "upvotes": 11,
+    "author": "kumarvvr",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=28528596"
   },
   {
     "title": "Steve Wozniak announces private space company to clean up space debris in orbit",
     "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/apple-founder-wozniak-space-debris-company-b1919747.html",
-    "upvotes": 473,
+    "upvotes": 514,
     "author": "notRobot",
-    "comments": 146,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=28523946"
   },
   {
     "title": "14kb WASM game written in D",
     "url": "https://skoppe.github.io/spasm/examples/underrun/",
-    "upvotes": 199,
+    "upvotes": 207,
     "author": "Shadonototra",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=28523792"
   },
   {
+    "title": "Effect Size Is Significantly More Important Than Statistical Significance",
+    "url": "http://www.argmin.net/2021/09/13/effect-size/",
+    "upvotes": 44,
+    "author": "stochastician",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=28526909"
+  },
+  {
     "title": "Scientists create matter from pure light, proving the Breit-Wheeler effect",
     "url": "https://www.bnl.gov/newsroom/news.php?a=119023",
-    "upvotes": 231,
+    "upvotes": 246,
     "author": "was_a_dev",
-    "comments": 149,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=28521970"
   },
   {
     "title": "Software should convey a sense of calm",
     "url": "https://patrickjuchli.com/en/posts/learning-experience/",
-    "upvotes": 114,
+    "upvotes": 127,
     "author": "pajuc",
-    "comments": 39,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=28511881"
   },
   {
@@ -62,39 +70,23 @@
   {
     "title": "Facebook knows Instagram is toxic for teen girls, company documents show",
     "url": "https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739",
-    "upvotes": 647,
+    "upvotes": 687,
     "author": "jmsflknr",
-    "comments": 416,
+    "comments": 427,
     "link": "https://news.ycombinator.com/item?id=28523688"
-  },
-  {
-    "title": "Effect Size Is Significantly More Important Than Statistical Significance",
-    "url": "http://www.argmin.net/2021/09/13/effect-size/",
-    "upvotes": 23,
-    "author": "stochastician",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28526909"
   },
   {
     "title": "How factories were made safe",
     "url": "https://rootsofprogress.org/history-of-factory-safety",
-    "upvotes": 59,
+    "upvotes": 69,
     "author": "jasoncrawford",
-    "comments": 33,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=28504316"
-  },
-  {
-    "title": "Rainbow Six Vegas, SWAT 4 unplayable due to disabled ad server",
-    "url": "https://twitter.com/_eezstreet_/status/1437652748179234819",
-    "upvotes": 159,
-    "author": "danso",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=28525828"
   },
   {
     "title": "Linux kernel VP9 codec V4L2 control interface",
     "url": "http://lkml.iu.edu/hypermail/linux/kernel/2109.1/07229.html",
-    "upvotes": 48,
+    "upvotes": 56,
     "author": "mfilion",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=28524826"
@@ -102,137 +94,145 @@
   {
     "title": "Why I’m Not an Angel Investor",
     "url": "https://www.georgesaines.com/blog/2021/9/10/why-im-not-an-angel-investor",
-    "upvotes": 30,
+    "upvotes": 37,
     "author": "gsaines",
-    "comments": 17,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28511572"
+  },
+  {
+    "title": "Rainbow Six Vegas, SWAT 4 unplayable due to disabled ad server",
+    "url": "https://twitter.com/_eezstreet_/status/1437652748179234819",
+    "upvotes": 170,
+    "author": "danso",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=28525828"
   },
   {
     "title": "Java 17 / JDK 17: General Availability",
     "url": "https://mail.openjdk.java.net/pipermail/jdk-dev/2021-September/006037.html",
-    "upvotes": 245,
+    "upvotes": 256,
     "author": "0xedb",
-    "comments": 153,
+    "comments": 164,
     "link": "https://news.ycombinator.com/item?id=28525378"
+  },
+  {
+    "title": "Apple unveils new iPad mini with breakthrough performance in new design",
+    "url": "https://www.apple.com/newsroom/2021/09/apple-unveils-new-ipad-mini-with-breakthrough-performance-in-stunning-new-design/",
+    "upvotes": 111,
+    "author": "0xedb",
+    "comments": 168,
+    "link": "https://news.ycombinator.com/item?id=28527931"
   },
   {
     "title": "Simple Mathematical Law Predicts Movement in Cities Around the World",
     "url": "https://www.scientificamerican.com/article/simple-mathematical-law-predicts-movement-in-cities-around-the-world/",
-    "upvotes": 14,
+    "upvotes": 19,
     "author": "iamwil",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28527145"
   },
   {
+    "title": "Donations make up a quarter of my income",
+    "url": "https://method.ac/writing/work_journal/donations.html",
+    "upvotes": 29,
+    "author": "duopixel",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28526231"
+  },
+  {
+    "title": "Scikit-Learn Version 1.0",
+    "url": "https://scikit-learn.org/dev/whats_new/v1.0.html",
+    "upvotes": 195,
+    "author": "m3at",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=28521992"
+  },
+  {
+    "title": "Why doesn’t natural immunity count in the US?",
+    "url": "https://www.bmj.com/content/374/bmj.n2101",
+    "upvotes": 16,
+    "author": "peteradio",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28528550"
+  },
+  {
+    "title": "AI Recognises Race in Medical Images",
+    "url": "https://explainthispaper.com/ai-recognises-race-in-medical-images/",
+    "upvotes": 98,
+    "author": "stuartbman",
+    "comments": 229,
+    "link": "https://news.ycombinator.com/item?id=28523878"
+  },
+  {
+    "title": "S.Korea fines Google $177M for blocking Android customisation",
+    "url": "https://www.reuters.com/technology/skorean-antitrust-agency-fines-google-177-mln-abusing-market-dominance-2021-09-14/",
+    "upvotes": 181,
+    "author": "quasisphere",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=28521401"
+  },
+  {
     "title": "Rectangle{} debugging in QML – like printf",
     "url": "https://raymii.org/s/articles/Rectangle_debugging_in_QML_just_like_printf.html",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "jandeboevrie",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28502695"
   },
   {
-    "title": "Scikit-Learn Version 1.0",
-    "url": "https://scikit-learn.org/dev/whats_new/v1.0.html",
-    "upvotes": 194,
-    "author": "m3at",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=28521992"
-  },
-  {
-    "title": "Donations make up a quarter of my income",
-    "url": "https://method.ac/writing/work_journal/donations.html",
-    "upvotes": 25,
-    "author": "duopixel",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28526231"
-  },
-  {
     "title": "Efficient service isolation on Alpine with VRFs",
     "url": "https://ariadne.space/2021/09/13/efficient-service-isolation-on-alpine-with-vrfs/",
-    "upvotes": 14,
+    "upvotes": 15,
     "author": "zdw",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28526543"
-  },
-  {
-    "title": "S.Korea fines Google $177M for blocking Android customisation",
-    "url": "https://www.reuters.com/technology/skorean-antitrust-agency-fines-google-177-mln-abusing-market-dominance-2021-09-14/",
-    "upvotes": 167,
-    "author": "quasisphere",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=28521401"
-  },
-  {
-    "title": "AI Recognises Race in Medical Images",
-    "url": "https://explainthispaper.com/ai-recognises-race-in-medical-images/",
-    "upvotes": 93,
-    "author": "stuartbman",
-    "comments": 217,
-    "link": "https://news.ycombinator.com/item?id=28523878"
   },
   {
     "title": "Speaking Latin",
     "url": "https://psyche.co/ideas/speaking-latin-brings-an-unmediated-thrill-to-the-classics",
-    "upvotes": 83,
+    "upvotes": 87,
     "author": "neonate",
-    "comments": 56,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=28510232"
   },
   {
     "title": "Online coding school Treehouse lays off most of its staff",
     "url": "https://www.oregonlive.com/silicon-forest/2021/09/online-coding-school-treehouse-formerly-based-in-portland-lays-off-most-of-its-staff.html",
-    "upvotes": 38,
+    "upvotes": 48,
     "author": "fantunes",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28527481"
-  },
-  {
-    "title": "China uses anti-fraud app to track access to overseas financial news sites",
-    "url": "https://www.ft.com/content/84b6b889-ae03-47f7-9cd0-bd604b21d5de",
-    "upvotes": 129,
-    "author": "jbegley",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=28523855"
   },
   {
     "title": "Q1K3 - An homage to Quake in 13kb of JavaScript",
     "url": "https://js13kgames.com/entries/q1k3",
-    "upvotes": 294,
+    "upvotes": 299,
     "author": "ecliptik",
-    "comments": 65,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=28520221"
   },
   {
-    "title": "Superpack: Pushing the limits of compression in Facebook’s mobile apps",
-    "url": "https://engineering.fb.com/2021/09/13/core-data/superpack/",
-    "upvotes": 66,
-    "author": "detaro",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=28523259"
+    "title": "China uses anti-fraud app to track access to overseas financial news sites",
+    "url": "https://www.ft.com/content/84b6b889-ae03-47f7-9cd0-bd604b21d5de",
+    "upvotes": 135,
+    "author": "jbegley",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=28523855"
   },
   {
     "title": "No One Wanted A&W's Third-Pound Burger",
     "url": "https://www.mentalfloss.com/article/76144/why-no-one-wanted-aws-third-pound-burger",
-    "upvotes": 91,
+    "upvotes": 95,
     "author": "ZeljkoS",
-    "comments": 198,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=28521772"
   },
   {
     "title": "Stripe banned us for payment disputes but we never had a single dispute",
     "url": "https://justuseapp.com/page/stripe-ban",
-    "upvotes": 579,
+    "upvotes": 596,
     "author": "hienyimba",
-    "comments": 239,
+    "comments": 248,
     "link": "https://news.ycombinator.com/item?id=28522784"
-  },
-  {
-    "title": "Machine-Learning media bias",
-    "url": "https://www.unite.ai/mit-measuring-media-bias-in-major-news-outlets-with-machine-learning/",
-    "upvotes": 71,
-    "author": "Hard_Space",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=28522327"
   }
 ]
