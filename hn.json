@@ -2,31 +2,31 @@
   {
     "title": "I started SaaS companies in 2013 and 2021 – how things have changed",
     "url": "https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/",
-    "upvotes": 198,
+    "upvotes": 218,
     "author": "zuhayeer",
-    "comments": 31,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=28601031"
-  },
-  {
-    "title": "GitHub Actions: Ephemeral self-hosted runners and new webhooks for auto-scaling",
-    "url": "https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/",
-    "upvotes": 43,
-    "author": "gazab",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28601618"
   },
   {
     "title": "Show HN: 40k HN comments mentioning books, extracted using deep learning",
     "url": "https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0",
-    "upvotes": 867,
+    "upvotes": 890,
     "author": "tracyhenry",
-    "comments": 203,
+    "comments": 210,
     "link": "https://news.ycombinator.com/item?id=28595967"
+  },
+  {
+    "title": "GitHub Actions: Ephemeral self-hosted runners and new webhooks for auto-scaling",
+    "url": "https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/",
+    "upvotes": 49,
+    "author": "gazab",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28601618"
   },
   {
     "title": "Ruby Packer: distribute your Ruby code as a compiled binary",
     "url": "https://github.com/pmq20/ruby-packer",
-    "upvotes": 71,
+    "upvotes": 75,
     "author": "burlesona",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28601055"
@@ -34,47 +34,63 @@
   {
     "title": "Arm AArch64 Adds Memcpy",
     "url": "https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-developments-2021",
-    "upvotes": 50,
+    "upvotes": 58,
     "author": "universal_sinc",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28601386"
-  },
-  {
-    "title": "Python GUIs for Humans – Transforms UI into People-Friendly Pythonic Interfaces",
-    "url": "https://github.com/PySimpleGUI/PySimpleGUI",
-    "upvotes": 83,
-    "author": "dragonsh",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=28600922"
   },
   {
     "title": "Structural pattern matching in Python 3.10",
     "url": "https://benhoyt.com/writings/python-pattern-matching/",
-    "upvotes": 94,
+    "upvotes": 99,
     "author": "chmaynard",
-    "comments": 29,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=28600594"
+  },
+  {
+    "title": "Rust on the MOS 6502: Beyond Fibonacci",
+    "url": "https://gergo.erdi.hu/blog/2021-09-18-rust_on_the_mos_6502__beyond_fibonacci/",
+    "upvotes": 10,
+    "author": "gergoerdi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28581812"
+  },
+  {
+    "title": "Python GUIs for Humans – Transforms UI into People-Friendly Pythonic Interfaces",
+    "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+    "upvotes": 90,
+    "author": "dragonsh",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=28600922"
   },
   {
     "title": "What is this Gemini thing, and why am I excited about it?",
     "url": "https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html",
-    "upvotes": 109,
+    "upvotes": 115,
     "author": "als0",
-    "comments": 76,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=28600436"
+  },
+  {
+    "title": "Former NSA Hacker Describes Being Recruited for UAE Spy Program",
+    "url": "https://zetter.substack.com/p/former-nsa-hacker-describes-being",
+    "upvotes": 14,
+    "author": "jbegley",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28601769"
   },
   {
     "title": "Home Price to Income Ratio",
     "url": "https://www.longtermtrends.net/home-price-median-annual-income-ratio/",
-    "upvotes": 434,
+    "upvotes": 444,
     "author": "hncurious",
-    "comments": 531,
+    "comments": 536,
     "link": "https://news.ycombinator.com/item?id=28594201"
   },
   {
     "title": "ClickHouse, Inc.",
     "url": "https://github.com/ClickHouse/ClickHouse/blob/master/website/blog/en/2021/clickhouse-inc.md",
-    "upvotes": 402,
+    "upvotes": 406,
     "author": "zX41ZdbW",
     "comments": 129,
     "link": "https://news.ycombinator.com/item?id=28595419"
@@ -82,46 +98,54 @@
   {
     "title": "As a solo developer, I decided to offer phone support",
     "url": "http://plumshell.com/2017/11/30/as-a-solo-app-developer-i-decided-to-offer-phone-support-and-this-is-what-happened/",
-    "upvotes": 358,
+    "upvotes": 364,
     "author": "artkulak",
-    "comments": 153,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=28594313"
   },
   {
     "title": "A function decorator that rewrites the bytecode to enable goto in Python",
     "url": "https://github.com/snoack/python-goto",
-    "upvotes": 103,
+    "upvotes": 105,
     "author": "sea6ear",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=28600651"
-  },
-  {
-    "title": "Laziness does not exist",
-    "url": "https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01",
-    "upvotes": 106,
-    "author": "edtechdev",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=28574627"
   },
   {
     "title": "Jerry",
     "url": "https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8"
   },
   {
+    "title": "A mathematician's guided tour through higher dimensions",
+    "url": "https://www.quantamagazine.org/a-mathematicians-guided-tour-through-high-dimensions-20210913/",
+    "upvotes": 138,
+    "author": "Anon84",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=28597940"
+  },
+  {
+    "title": "Laziness does not exist",
+    "url": "https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01",
+    "upvotes": 114,
+    "author": "edtechdev",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=28574627"
+  },
+  {
     "title": "Developer experience is user experience",
     "url": "https://www.mikebrevoort.com/post/002-developer-experience-is-user-experience",
-    "upvotes": 15,
+    "upvotes": 18,
     "author": "mbrevoort",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28576347"
   },
   {
-    "title": "A mathematician's guided tour through higher dimensions",
-    "url": "https://www.quantamagazine.org/a-mathematicians-guided-tour-through-high-dimensions-20210913/",
-    "upvotes": 135,
-    "author": "Anon84",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=28597940"
+    "title": "Show HN: 7GUIs in Vanilla HTML, CSS, JavaScript",
+    "url": "https://7guis.bradwoods.io/",
+    "upvotes": 37,
+    "author": "bradwoodsio",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=28600804"
   },
   {
     "title": "Rejections, resilience, and rejoicing: getting a tenure-track position",
@@ -132,75 +156,59 @@
     "link": "https://news.ycombinator.com/item?id=28593938"
   },
   {
-    "title": "Show HN: 7GUIs in Vanilla HTML, CSS, JavaScript",
-    "url": "https://7guis.bradwoods.io/",
-    "upvotes": 33,
-    "author": "bradwoodsio",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=28600804"
-  },
-  {
     "title": "The Truth, by Stanisław Lem",
     "url": "https://thereader.mitpress.mit.edu/the-truth-by-stanislaw-lem/",
-    "upvotes": 174,
+    "upvotes": 178,
     "author": "anarbadalov",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=28595761"
   },
   {
-    "title": "Amazon’s AI cameras are punishing drivers for mistakes they didn’t make",
-    "url": "https://www.vice.com/en/article/88npjv/amazons-ai-cameras-are-punishing-drivers-for-mistakes-they-didnt-make",
-    "upvotes": 34,
-    "author": "echo_hessel",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28601698"
-  },
-  {
-    "title": "Rust on the MOS 6502: Beyond Fibonacci",
-    "url": "https://gergo.erdi.hu/blog/2021-09-18-rust_on_the_mos_6502__beyond_fibonacci/",
-    "upvotes": 3,
-    "author": "gergoerdi",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28581812"
-  },
-  {
-    "title": "Six Degrees of Wikipedia",
-    "url": "https://www.sixdegreesofwikipedia.com/",
-    "upvotes": 86,
-    "author": "sharkweek",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=28595821"
-  },
-  {
     "title": "How to Ride a Motorcycle – 1942 British Military Training Film [video]",
     "url": "https://www.youtube.com/watch?v=Q7OPLWQJYKg",
-    "upvotes": 80,
+    "upvotes": 82,
     "author": "happy-go-lucky",
-    "comments": 62,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=28584010"
   },
   {
     "title": "Let's Encrypt's old root certificate is expiring",
     "url": "https://scotthelme.co.uk/lets-encrypt-old-root-expiration/",
-    "upvotes": 123,
+    "upvotes": 128,
     "author": "zdw",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=28596317"
+  },
+  {
+    "title": "Six Degrees of Wikipedia",
+    "url": "https://www.sixdegreesofwikipedia.com/",
+    "upvotes": 92,
+    "author": "sharkweek",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=28595821"
   },
   {
     "title": "Inspecting coredumps like it's 2021",
     "url": "https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/",
-    "upvotes": 88,
+    "upvotes": 93,
     "author": "ingve",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=28596933"
   },
   {
+    "title": "Amazon’s AI cameras are punishing drivers for mistakes they didn’t make",
+    "url": "https://www.vice.com/en/article/88npjv/amazons-ai-cameras-are-punishing-drivers-for-mistakes-they-didnt-make",
+    "upvotes": 38,
+    "author": "echo_hessel",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=28601698"
+  },
+  {
     "title": "Microsoft ruined passwords, now aims for a passwordless future",
     "url": "https://puri.sm/posts/microsoft-ruined-passwords-now-aims-for-a-passwordless-future/",
-    "upvotes": 161,
+    "upvotes": 167,
     "author": "summm",
-    "comments": 156,
+    "comments": 164,
     "link": "https://news.ycombinator.com/item?id=28598894"
   },
   {
@@ -214,7 +222,7 @@
   {
     "title": "Emacs Typing Tutor",
     "url": "https://connorberry.com/2021/08/20/emacs-typing-tutor/",
-    "upvotes": 33,
+    "upvotes": 36,
     "author": "sea6ear",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28597994"
@@ -222,17 +230,9 @@
   {
     "title": "Excel as Code",
     "url": "https://github.com/GavinMendelGleason/excel_as_code",
-    "upvotes": 136,
+    "upvotes": 138,
     "author": "LukeEF",
-    "comments": 107,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=28595155"
-  },
-  {
-    "title": "Defending human civilization from supervolcanic eruptions",
-    "url": "https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/DefendingCivilizationFromSupervolcanos20151015.pdf",
-    "upvotes": 91,
-    "author": "rbanffy",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=28593452"
   }
 ]
