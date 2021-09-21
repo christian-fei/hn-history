@@ -2,81 +2,97 @@
   {
     "title": "OpenSSL 3.0 released; relicensed to Apache-2.0",
     "url": "https://lwn.net/Articles/868536/",
-    "upvotes": 79,
+    "upvotes": 113,
     "author": "jabo",
-    "comments": 37,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=28599418"
   },
   {
-    "title": "Show HN: 40k books on HN extracted using deep learning",
+    "title": "What is this Gemini thing, and why am I excited about it?",
+    "url": "https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html",
+    "upvotes": 34,
+    "author": "als0",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28600436"
+  },
+  {
+    "title": "Show HN: 40k HN comments mentioning books, extracted using deep learning´",
     "url": "https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0",
-    "upvotes": 568,
+    "upvotes": 623,
     "author": "tracyhenry",
-    "comments": 155,
+    "comments": 157,
     "link": "https://news.ycombinator.com/item?id=28595967"
   },
   {
     "title": "A mathematician's guided tour through higher dimensions",
     "url": "https://www.quantamagazine.org/a-mathematicians-guided-tour-through-high-dimensions-20210913/",
-    "upvotes": 82,
+    "upvotes": 94,
     "author": "Anon84",
-    "comments": 32,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=28597940"
   },
   {
     "title": "ClickHouse, Inc.",
     "url": "https://github.com/ClickHouse/ClickHouse/blob/master/website/blog/en/2021/clickhouse-inc.md",
-    "upvotes": 327,
+    "upvotes": 339,
     "author": "zX41ZdbW",
-    "comments": 97,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=28595419"
-  },
-  {
-    "title": "As a solo developer, I decided to offer phone support",
-    "url": "http://plumshell.com/2017/11/30/as-a-solo-app-developer-i-decided-to-offer-phone-support-and-this-is-what-happened/",
-    "upvotes": 303,
-    "author": "artkulak",
-    "comments": 123,
-    "link": "https://news.ycombinator.com/item?id=28594313"
-  },
-  {
-    "title": "Home Price to Income Ratio",
-    "url": "https://www.longtermtrends.net/home-price-median-annual-income-ratio/",
-    "upvotes": 298,
-    "author": "hncurious",
-    "comments": 388,
-    "link": "https://news.ycombinator.com/item?id=28594201"
   },
   {
     "title": "Laziness Does Not Exist",
     "url": "https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01",
-    "upvotes": 13,
+    "upvotes": 39,
     "author": "edtechdev",
-    "comments": null,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28574627"
+  },
+  {
+    "title": "As a solo developer, I decided to offer phone support",
+    "url": "http://plumshell.com/2017/11/30/as-a-solo-app-developer-i-decided-to-offer-phone-support-and-this-is-what-happened/",
+    "upvotes": 315,
+    "author": "artkulak",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=28594313"
+  },
+  {
+    "title": "A function decorator that rewrites the bytecode to enable goto in Python",
+    "url": "https://github.com/snoack/python-goto",
+    "upvotes": 4,
+    "author": "sea6ear",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28600651"
+  },
+  {
+    "title": "Home Price to Income Ratio",
+    "url": "https://www.longtermtrends.net/home-price-median-annual-income-ratio/",
+    "upvotes": 325,
+    "author": "hncurious",
+    "comments": 431,
+    "link": "https://news.ycombinator.com/item?id=28594201"
   },
   {
     "title": "Google Docs in a clean-room browser",
     "url": "https://www.ekioh.com/devblog/google-docs-in-a-clean-room-browser/",
-    "upvotes": 358,
+    "upvotes": 367,
     "author": "sohkamyung",
-    "comments": 102,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=28593070"
   },
   {
     "title": "The Truth, by Stanisław Lem",
     "url": "https://thereader.mitpress.mit.edu/the-truth-by-stanislaw-lem/",
-    "upvotes": 129,
+    "upvotes": 142,
     "author": "anarbadalov",
-    "comments": 28,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=28595761"
   },
   {
     "title": "Inspecting coredumps like it's 2021",
     "url": "https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/",
-    "upvotes": 63,
+    "upvotes": 69,
     "author": "ingve",
-    "comments": 33,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=28596933"
   },
   {
@@ -86,153 +102,137 @@
   {
     "title": "Let's Encrypt's old Root Certificate is expiring",
     "url": "https://scotthelme.co.uk/lets-encrypt-old-root-expiration/",
-    "upvotes": 75,
+    "upvotes": 91,
     "author": "zdw",
-    "comments": 6,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=28596317"
+  },
+  {
+    "title": "Tips for saving memory with Pandas",
+    "url": "https://marcobonzanini.com/2021/09/15/tips-for-saving-memory-with-pandas/",
+    "upvotes": 6,
+    "author": "bigsassy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28565674"
+  },
+  {
+    "title": "Emacs Typing Tutor",
+    "url": "https://connorberry.com/2021/08/20/emacs-typing-tutor/",
+    "upvotes": 10,
+    "author": "sea6ear",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28597994"
   },
   {
     "title": "Ruby for eBook Publishing",
     "url": "https://nts.strzibny.name/ruby-for-ebook-publishing/",
-    "upvotes": 109,
+    "upvotes": 113,
     "author": "thunderbong",
-    "comments": 32,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=28594863"
-  },
-  {
-    "title": "Excel as Code",
-    "url": "https://github.com/GavinMendelGleason/excel_as_code",
-    "upvotes": 111,
-    "author": "LukeEF",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=28595155"
-  },
-  {
-    "title": "Reading code is a skill",
-    "url": "https://trishagee.com/2020/09/07/reading-code-is-a-skill/",
-    "upvotes": 92,
-    "author": "historynops",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=28598528"
   },
   {
     "title": "This implanted microchip may one day control your sleep",
     "url": "https://www.freethink.com/technology/a-microchip-may-revolutionize-how-we-treat-diseases",
-    "upvotes": 21,
+    "upvotes": 29,
     "author": "type0",
-    "comments": 24,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=28598003"
+  },
+  {
+    "title": "Excel as Code",
+    "url": "https://github.com/GavinMendelGleason/excel_as_code",
+    "upvotes": 113,
+    "author": "LukeEF",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=28595155"
   },
   {
     "title": "Text entered into Windows' Run dialogue gets sent to Microsoft's telemetry",
     "url": "https://twitter.com/netresec/status/1440036446291693574",
-    "upvotes": 147,
+    "upvotes": 179,
     "author": "NKosmatos",
-    "comments": 93,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=28598474"
+  },
+  {
+    "title": "Our evolved intuitions about privacy aren’t made for this era",
+    "url": "https://psyche.co/ideas/our-evolved-intuitions-about-privacy-arent-made-for-this-era",
+    "upvotes": 5,
+    "author": "danielskogly",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28592855"
+  },
+  {
+    "title": "Reading code is a skill",
+    "url": "https://trishagee.com/2020/09/07/reading-code-is-a-skill/",
+    "upvotes": 96,
+    "author": "historynops",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=28598528"
   },
   {
     "title": "A version of the Internet respectful of people’s attention and time",
     "url": "https://girardin.medium.com/after-the-big-now-f0a3f1857294",
-    "upvotes": 26,
+    "upvotes": 32,
     "author": "indiantinker",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28574241"
   },
   {
     "title": "So what is the deal with A/UX anyways?",
     "url": "https://virtuallyfun.com/wordpress/2021/09/19/so-what-is-the-deal-with-a-ux-anyways/",
-    "upvotes": 132,
+    "upvotes": 134,
     "author": "skreuzer",
-    "comments": 117,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=28593552"
+  },
+  {
+    "title": "Wcap: Simple and efficient screen recording utility for Windows",
+    "url": "https://github.com/mmozeiko/wcap",
+    "upvotes": 49,
+    "author": "ahmadrosid",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28596413"
+  },
+  {
+    "title": "Adguard Letter of Support to Quad9",
+    "url": "https://adguard.com/en/blog/adguard-quad9-statement.html",
+    "upvotes": 56,
+    "author": "NmAmDa",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=28598262"
+  },
+  {
+    "title": "If I could bring one thing back to the internet it would be blogs",
+    "url": "http://tttthis.com/blog/if-i-could-bring-one-thing-back-to-the-internet-it-would-be-blogs",
+    "upvotes": 568,
+    "author": "artkulak",
+    "comments": 282,
+    "link": "https://news.ycombinator.com/item?id=28591880"
   },
   {
     "title": "Defending human civilization from supervolcanic eruptions",
     "url": "https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/DefendingCivilizationFromSupervolcanos20151015.pdf",
     "upvotes": 84,
     "author": "rbanffy",
-    "comments": 60,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=28593452"
-  },
-  {
-    "title": "Adguard Letter of Support to Quad9",
-    "url": "https://adguard.com/en/blog/adguard-quad9-statement.html",
-    "upvotes": 51,
-    "author": "NmAmDa",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28598262"
-  },
-  {
-    "title": "Footage of Australian Raven Attacking a Wing Drone in Canberra, Australia",
-    "url": "https://www.linkedin.com/posts/robertsforwriting_i-am-in-the-wing-delivery-area-in-canberra-activity-6845498818092498944-A8sh",
-    "upvotes": 228,
-    "author": "adrian_mrd",
-    "comments": 300,
-    "link": "https://news.ycombinator.com/item?id=28591407"
-  },
-  {
-    "title": "Wcap: Simple and efficient screen recording utility for Windows",
-    "url": "https://github.com/mmozeiko/wcap",
-    "upvotes": 45,
-    "author": "ahmadrosid",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28596413"
-  },
-  {
-    "title": "Checking It Twice",
-    "url": "https://leancrew.com/all-this/2021/08/checking-it-twice/",
-    "upvotes": 22,
-    "author": "arm",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28560241"
-  },
-  {
-    "title": "If I could bring one thing back to the internet it would be blogs",
-    "url": "http://tttthis.com/blog/if-i-could-bring-one-thing-back-to-the-internet-it-would-be-blogs",
-    "upvotes": 561,
-    "author": "artkulak",
-    "comments": 276,
-    "link": "https://news.ycombinator.com/item?id=28591880"
-  },
-  {
-    "title": "Quran API",
-    "url": "https://m3o.com/quran",
-    "upvotes": 162,
-    "author": "asim",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=28592101"
   },
   {
     "title": "Nano98: Windows 98 that boots and runs under 5MB",
     "url": "https://web.archive.org/web/20080306134751/http://www.etek.chalmers.se/~e8gus/nano98/",
-    "upvotes": 183,
+    "upvotes": 187,
     "author": "ksec",
-    "comments": 115,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=28591866"
-  },
-  {
-    "title": "Emacs Typing Tutor",
-    "url": "https://connorberry.com/2021/08/20/emacs-typing-tutor/",
-    "upvotes": 3,
-    "author": "sea6ear",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28597994"
   },
   {
     "title": "Assyrian soldier diving with an inflatable goatskin bag",
     "url": "https://twitter.com/FedeItaliano76/status/1435295257437028352",
-    "upvotes": 138,
+    "upvotes": 141,
     "author": "type0",
-    "comments": 69,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=28579782"
-  },
-  {
-    "title": "Why has the price of electricity in Europe reached record highs?",
-    "url": "https://www.economist.com/the-economist-explains/2021/09/15/why-has-the-price-of-electricity-in-europe-reached-record-highs",
-    "upvotes": 161,
-    "author": "ciconia",
-    "comments": 341,
-    "link": "https://news.ycombinator.com/item?id=28591813"
   }
 ]
