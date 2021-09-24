@@ -1,32 +1,24 @@
 [
   {
-    "title": "Putting a DELL XPS laptop in a bag voids its warranty",
-    "url": "https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448",
-    "upvotes": 58,
-    "author": "bestouff",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=28639952"
-  },
-  {
     "title": "Disclosure of three 0-day iOS vulnerabilities",
     "url": "https://habr.com/en/post/579714/",
-    "upvotes": 1052,
+    "upvotes": 1096,
     "author": "jayhoon",
-    "comments": 217,
+    "comments": 225,
     "link": "https://news.ycombinator.com/item?id=28637276"
   },
   {
     "title": "Total surveillance law proposed in Serbia",
     "url": "https://www.sharefoundation.info/en/total-surveillance-law-proposed-in-serbia/",
-    "upvotes": 95,
+    "upvotes": 115,
     "author": "giuliomagnifico",
-    "comments": 35,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=28638982"
   },
   {
     "title": "RBoy: A Gameboy Emulator in Rust",
     "url": "https://github.com/mvdnes/rboy",
-    "upvotes": 52,
+    "upvotes": 57,
     "author": "NiklasBegley",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=28639018"
@@ -34,49 +26,65 @@
   {
     "title": "Slacktyping: I'm typing when you're typing",
     "url": "https://github.com/will/slacktyping",
-    "upvotes": 434,
+    "upvotes": 441,
     "author": "thunderbong",
-    "comments": 114,
+    "comments": 115,
     "link": "https://news.ycombinator.com/item?id=28634831"
   },
   {
     "title": "Apple's Power Move to Kneecap Facebook Advertising Is Working",
     "url": "https://bigtechnology.substack.com/p/completely-running-blind-apples-power",
-    "upvotes": 282,
+    "upvotes": 295,
     "author": "exolymph",
-    "comments": 214,
+    "comments": 229,
     "link": "https://news.ycombinator.com/item?id=28637062"
+  },
+  {
+    "title": "Putting a DELL XPS laptop in a bag voids its warranty",
+    "url": "https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448",
+    "upvotes": 106,
+    "author": "bestouff",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=28639952"
   },
   {
     "title": "The world's worst Linux kernel module",
     "url": "https://github.com/davidmalcolm/antipatterns.ko",
-    "upvotes": 81,
+    "upvotes": 88,
     "author": "pabs3",
-    "comments": 23,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=28638874"
+  },
+  {
+    "title": "A note on recent content takedowns",
+    "url": "https://www.researchgate.net/blog/post/a-note-on-recent-content-takedowns",
+    "upvotes": 14,
+    "author": "EvgeniyZh",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28639815"
   },
   {
     "title": "Alternative materials could shrink concrete’s giant carbon footprint",
     "url": "https://cen.acs.org/materials/inorganic-chemistry/Alternative-materials-shrink-concretes-giant/98/i45",
-    "upvotes": 51,
+    "upvotes": 56,
     "author": "arunbahl",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28638327"
   },
   {
-    "title": "A note on recent content takedowns",
-    "url": "https://www.researchgate.net/blog/post/a-note-on-recent-content-takedowns",
-    "upvotes": 7,
-    "author": "EvgeniyZh",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28639815"
+    "title": "Breaking the 100bps barrier with Matrix, meshsim and coap-proxy",
+    "url": "https://matrix.org/blog/2019/03/12/breaking-the-100-bps-barrier-with-matrix-meshsim-coap-proxy/",
+    "upvotes": 68,
+    "author": "miguelrochefort",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28638375"
   },
   {
     "title": "It's tough being an Azure fan",
     "url": "https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan/",
-    "upvotes": 296,
+    "upvotes": 305,
     "author": "ealexhudson",
-    "comments": 211,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=28617663"
   },
   {
@@ -84,17 +92,9 @@
     "url": "https://jobs.lever.co/Neuro/20602492-eaf6-4e42-936a-1e2928e851b8"
   },
   {
-    "title": "Breaking the 100bps barrier with Matrix, meshsim and coap-proxy",
-    "url": "https://matrix.org/blog/2019/03/12/breaking-the-100-bps-barrier-with-matrix-meshsim-coap-proxy/",
-    "upvotes": 62,
-    "author": "miguelrochefort",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28638375"
-  },
-  {
     "title": "Elk: A low footprint JavaScript engine for embedded systems",
     "url": "https://github.com/cesanta/elk",
-    "upvotes": 128,
+    "upvotes": 135,
     "author": "pjf",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=28614092"
@@ -102,23 +102,23 @@
   {
     "title": "Embedded social media posts might now be illegal",
     "url": "https://maya.land/monologues/2021/09/21/illegal-fox-picture.html",
-    "upvotes": 66,
+    "upvotes": 68,
     "author": "kixiQu",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=28619684"
   },
   {
     "title": "Know Labs unveils glucose monitor that swaps fingersticks for RF sensors",
     "url": "https://www.fiercebiotech.com/medtech/know-labs-unveils-pocket-sized-glucose-monitor-swaps-fingersticks-for-radiofrequency",
-    "upvotes": 110,
+    "upvotes": 113,
     "author": "coatta",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=28636926"
   },
   {
     "title": "The diagrammatic writings of an asylum patient",
     "url": "https://publicdomainreview.org/collection/the-diagrammatic-writings-of-an-asylum-patient-1870/",
-    "upvotes": 18,
+    "upvotes": 19,
     "author": "apophasis",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28619396"
@@ -126,15 +126,15 @@
   {
     "title": "Show HN: Go playground powered by WASM that runs in the browser",
     "url": "https://go-playground-wasm.vercel.app/",
-    "upvotes": 101,
+    "upvotes": 104,
     "author": "zackoverflow",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=28636540"
   },
   {
     "title": "Fourier Series Visualisation with D3",
     "url": "https://bl.ocks.org/jinroh/7524988",
-    "upvotes": 226,
+    "upvotes": 227,
     "author": "colinprince",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=28632776"
@@ -142,63 +142,63 @@
   {
     "title": "Book review: The Checklist Manifesto",
     "url": "https://www.lesswrong.com/posts/dtmmP4YdJEfK9y4Rc/book-review-the-checklist-manifesto",
-    "upvotes": 141,
+    "upvotes": 143,
     "author": "lobbly",
-    "comments": 74,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=28622867"
   },
   {
     "title": "Opening http://../foo on Android Chrome crashes the browser",
     "url": "https://bugs.chromium.org/p/chromium/issues/detail?id=1252624",
-    "upvotes": 46,
+    "upvotes": 53,
     "author": "antoineaugusti",
-    "comments": 27,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=28639708"
   },
   {
     "title": "Quitting your dream job twice",
     "url": "https://t3.gg/blog/posts/quitting",
-    "upvotes": 92,
+    "upvotes": 94,
     "author": "purgator",
-    "comments": 24,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=28622669"
   },
   {
-    "title": "The Not-So-Special Relationship",
-    "url": "http://www.historytoday.com/miscellanies/not-so-special-relationship",
+    "title": "Luxury Linux Smartphones",
+    "url": "https://tuxphones.com/luxury-linux-phones/",
     "upvotes": 13,
-    "author": "apollinaire",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=28631408"
+    "author": "cunidev",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28640139"
   },
   {
     "title": "Discontinue Sourcetrail",
     "url": "https://sourcetrail.com/blog/discontinue_sourcetrail/",
-    "upvotes": 63,
+    "upvotes": 66,
     "author": "pabs3",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=28637193"
   },
   {
     "title": "Why EFF Flew a Plane over Apple's Headquarters – Electronic Frontier Foundation",
     "url": "https://www.eff.org/deeplinks/2021/09/why-eff-flew-plane-over-apples-headquarters",
-    "upvotes": 33,
+    "upvotes": 45,
     "author": "rastafang",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28639154"
   },
   {
-    "title": "Show HN: Rules-based labelling tool for NLP",
-    "url": "https://github.com/dataqa/dataqa",
-    "upvotes": 28,
-    "author": "dataqa",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=28614699"
+    "title": "The Not-So-Special Relationship",
+    "url": "http://www.historytoday.com/miscellanies/not-so-special-relationship",
+    "upvotes": 15,
+    "author": "apollinaire",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=28631408"
   },
   {
     "title": "Avoiding the audience paradox when writing job descriptions",
     "url": "https://blog.interviewing.io/how-to-write-good-job-descriptions/",
-    "upvotes": 51,
+    "upvotes": 52,
     "author": "leeny",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=28630431"
@@ -206,33 +206,33 @@
   {
     "title": "Facebook paid billions to spare Zuckerberg in data suit, shareholders allege",
     "url": "https://www.politico.com/news/2021/09/21/facebook-paid-billions-extra-to-the-ftc-to-spare-zuckerberg-in-data-suit-shareholders-allege-513456",
-    "upvotes": 548,
+    "upvotes": 555,
     "author": "croes",
     "comments": 315,
     "link": "https://news.ycombinator.com/item?id=28632565"
   },
   {
-    "title": "If AT&T Had Managed the Phone Business Like Google",
-    "url": "https://tedgioia.substack.com/p/if-at-and-t-had-managed-the-phone",
-    "upvotes": 119,
-    "author": "chubot",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=28638617"
-  },
-  {
     "title": "Catala Lang: DSL designed for deriving implementations from legislative texts",
     "url": "https://catala-lang.org/",
-    "upvotes": 87,
+    "upvotes": 88,
     "author": "wut42",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=28633122"
   },
   {
-    "title": "Luxury Linux Smartphones",
-    "url": "https://tuxphones.com/luxury-linux-phones/",
-    "upvotes": 9,
-    "author": "cunidev",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28640139"
+    "title": "Show HN: Rules-based labelling tool for NLP",
+    "url": "https://github.com/dataqa/dataqa",
+    "upvotes": 32,
+    "author": "dataqa",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28614699"
+  },
+  {
+    "title": "If AT&T Had Managed the Phone Business Like Google",
+    "url": "https://tedgioia.substack.com/p/if-at-and-t-had-managed-the-phone",
+    "upvotes": 122,
+    "author": "chubot",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=28638617"
   }
 ]
