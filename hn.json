@@ -1,80 +1,88 @@
 [
   {
+    "title": "A bit of math around Cloudflare's R2 pricing model",
+    "url": "https://twitter.com/QuinnyPig/status/1443028078196711426",
+    "upvotes": 61,
+    "author": "dustintrex",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=28702997"
+  },
+  {
     "title": "When users never use the features they asked for",
     "url": "https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html",
-    "upvotes": 291,
+    "upvotes": 297,
     "author": "jermaustin1",
-    "comments": 101,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=28699637"
   },
   {
     "title": "Tell HN: Amplitude (YC W12) just went public – AMA",
     "url": "item?id=28696641",
-    "upvotes": 155,
+    "upvotes": 164,
     "author": "sskates",
-    "comments": 64,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=28696641"
   },
   {
     "title": "The Reactive Monolith – How to Move from CRUD to Event Sourcing",
     "url": "https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing",
-    "upvotes": 39,
+    "upvotes": 47,
     "author": "MoradSTR",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28691728"
-  },
-  {
-    "title": "How to fit any dataset with a single parameter",
-    "url": "https://arxiv.org/abs/1904.12320",
-    "upvotes": 156,
-    "author": "tambourine_man",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=28698163"
-  },
-  {
-    "title": "Mosquitto: An open-source MQTT broker",
-    "url": "https://github.com/eclipse/mosquitto",
-    "upvotes": 212,
-    "author": "ducktective",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=28695346"
   },
   {
     "title": "Show HN: Firezone, an open-source WireGuard-based alternative to OpenVPN AS",
     "url": "https://github.com/firezone/firezone",
-    "upvotes": 49,
+    "upvotes": 58,
     "author": "jamilbk",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28683231"
   },
   {
-    "title": "A Short Overview of Typed Template Haskell",
-    "url": "https://serokell.io/blog/typed-template-haskell-overview",
-    "upvotes": 23,
-    "author": "ingve",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28691760"
+    "title": "Mosquitto: An open-source MQTT broker",
+    "url": "https://github.com/eclipse/mosquitto",
+    "upvotes": 218,
+    "author": "ducktective",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=28695346"
+  },
+  {
+    "title": "How to fit any dataset with a single parameter",
+    "url": "https://arxiv.org/abs/1904.12320",
+    "upvotes": 161,
+    "author": "tambourine_man",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=28698163"
   },
   {
     "title": "The Deceiving Virtues of Technology",
     "url": "https://netfuture.org/2001/Nov1501_125.html",
-    "upvotes": 12,
+    "upvotes": 17,
     "author": "kkoncevicius",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28691683"
   },
   {
+    "title": "A Short Overview of Typed Template Haskell",
+    "url": "https://serokell.io/blog/typed-template-haskell-overview",
+    "upvotes": 26,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28691760"
+  },
+  {
     "title": "iPhone remains findable after power off",
     "url": "https://twitter.com/matthew_d_green/status/1442870352799879174",
-    "upvotes": 240,
+    "upvotes": 254,
     "author": "chetangoti",
-    "comments": 229,
+    "comments": 230,
     "link": "https://news.ycombinator.com/item?id=28692907"
   },
   {
     "title": "Heatshrink: Data compression library for embedded/real-time systems",
     "url": "https://github.com/atomicobject/heatshrink",
-    "upvotes": 6,
+    "upvotes": 10,
     "author": "zdw",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28687589"
@@ -84,68 +92,84 @@
     "url": "https://www.ycombinator.com/companies/creatoros-questbook/jobs/3DHDEnz-golang-backend-engineer"
   },
   {
-    "title": "Apple didn't revolutionize power supplies; new transistors did",
-    "url": "http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
-    "upvotes": 131,
-    "author": "Rondom",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=28700554"
-  },
-  {
-    "title": "GPUs open the potential to forecast urban weather for drones and air taxis",
-    "url": "https://news.ucar.edu/132811/gpus-open-potential-forecast-urban-weather-drones-and-air-taxis",
-    "upvotes": 54,
-    "author": "giuliomagnifico",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=28698968"
-  },
-  {
     "title": "Show HN: Ampie – See HN or Twitter discussions mentioning the page you are on",
     "url": "https://ampie.app",
-    "upvotes": 129,
+    "upvotes": 133,
     "author": "posobin",
-    "comments": 50,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=28697828"
+  },
+  {
+    "title": "Discipline by King Crimson: why you should definitely own it",
+    "url": "https://www.loudersound.com/features/why-you-should-definitely-own-discipline-by-king-crimson",
+    "upvotes": 7,
+    "author": "lightlyused",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28702381"
+  },
+  {
+    "title": "Apple didn't revolutionize power supplies; new transistors did",
+    "url": "http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+    "upvotes": 137,
+    "author": "Rondom",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=28700554"
   },
   {
     "title": "Flowistry helps you understand Rust programs with program analysis",
     "url": "https://github.com/willcrichton/flowistry",
-    "upvotes": 112,
+    "upvotes": 114,
     "author": "ibraheemdev",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=28686443"
   },
   {
+    "title": "GPUs open the potential to forecast urban weather for drones and air taxis",
+    "url": "https://news.ucar.edu/132811/gpus-open-potential-forecast-urban-weather-drones-and-air-taxis",
+    "upvotes": 56,
+    "author": "giuliomagnifico",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=28698968"
+  },
+  {
     "title": "AWS launches ARM-powered Lambdas",
     "url": "https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/",
-    "upvotes": 178,
+    "upvotes": 186,
     "author": "orf",
-    "comments": 87,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=28700209"
   },
   {
     "title": "NansAreNumbers – An esoteric data type built of NaNs",
     "url": "https://github.com/thoppe/NansAreNumbers",
-    "upvotes": 66,
+    "upvotes": 69,
     "author": "shelfchair",
-    "comments": 24,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=28691005"
   },
   {
     "title": "In software, when an engineer exits the team",
     "url": "https://medium.com/@solidi/in-software-when-an-engineer-exits-the-team-1e550303cff8",
-    "upvotes": 105,
+    "upvotes": 110,
     "author": "solidist",
-    "comments": 97,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=28692059"
   },
   {
     "title": "YouTube is banning anti-vaccine activists and blocking all anti-vaccine content",
     "url": "https://www.washingtonpost.com/technology/2021/09/29/youtube-ban-joseph-mercola/",
-    "upvotes": 1306,
+    "upvotes": 1313,
     "author": "danso",
-    "comments": 2482,
+    "comments": 2509,
     "link": "https://news.ycombinator.com/item?id=28693060"
+  },
+  {
+    "title": "Unhook: Hide YouTube Recommendations",
+    "url": "https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid",
+    "upvotes": 100,
+    "author": "tandav",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=28698979"
   },
   {
     "title": "Dithered images and websites",
@@ -156,83 +180,59 @@
     "link": "https://news.ycombinator.com/item?id=28696014"
   },
   {
+    "title": "Making bracket pair colorization faster",
+    "url": "https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization",
+    "upvotes": 642,
+    "author": "feross",
+    "comments": 195,
+    "link": "https://news.ycombinator.com/item?id=28692470"
+  },
+  {
+    "title": "Mariana Trench: Security-Focused Static Analysis for Android and Java",
+    "url": "https://mariana-tren.ch/",
+    "upvotes": 60,
+    "author": "afrcnc",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28697758"
+  },
+  {
     "title": "Can You See Me Now? A measurement study of Zoom, Webex, and Meet",
     "url": "https://arxiv.org/abs/2109.13113",
     "upvotes": 55,
     "author": "pramodbiligiri",
-    "comments": 24,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=28698231"
-  },
-  {
-    "title": "Making bracket pair colorization faster",
-    "url": "https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization",
-    "upvotes": 639,
-    "author": "feross",
-    "comments": 193,
-    "link": "https://news.ycombinator.com/item?id=28692470"
   },
   {
     "title": "Kraken Security Labs Identifies Vulnerabilities in Commonly Used Bitcoin ATM",
     "url": "https://blog.kraken.com/post/11263/kraken-security-labs-identifies-vulnerabilities-in-commonly-used-bitcoin-atm/",
     "upvotes": 87,
     "author": "2bluesc",
-    "comments": 36,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=28694186"
-  },
-  {
-    "title": "Mariana Trench: Security-Focused Static Analysis for Android and Java",
-    "url": "https://mariana-tren.ch/",
-    "upvotes": 57,
-    "author": "afrcnc",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=28697758"
   },
   {
     "title": "Gregory MS",
     "url": "https://gregory-ms.com/",
-    "upvotes": 41,
+    "upvotes": 43,
     "author": "rcarmo",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28691044"
   },
   {
-    "title": "Stripe launched 10 years ago today",
-    "url": "https://twitter.com/patrickc/status/1443289393695911938",
-    "upvotes": 194,
-    "author": "tosh",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=28698653"
-  },
-  {
     "title": "Attempts to scientifically “rationalize” policy may be damaging democracy",
     "url": "https://thereader.mitpress.mit.edu/why-science-cant-fix-politics/",
-    "upvotes": 205,
+    "upvotes": 209,
     "author": "anarbadalov",
-    "comments": 224,
+    "comments": 228,
     "link": "https://news.ycombinator.com/item?id=28693269"
   },
   {
-    "title": "Unhook: Hide YouTube Recommendations",
-    "url": "https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid",
-    "upvotes": 97,
-    "author": "tandav",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=28698979"
-  },
-  {
-    "title": "Alexander von Humboldt: the first Solarpunk",
-    "url": "https://piszek.com/2021/09/28/humboldt-the-first-solarpunk/",
-    "upvotes": 93,
-    "author": "artpi",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=28683681"
-  },
-  {
-    "title": "Face detection for my leaf blower",
-    "url": "http://www.jeffgeerling.com/blog/2021/face-detection-my-leaf-blower",
-    "upvotes": 22,
-    "author": "geerlingguy",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=28700027"
+    "title": "Stripe launched 10 years ago today",
+    "url": "https://twitter.com/patrickc/status/1443289393695911938",
+    "upvotes": 199,
+    "author": "tosh",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=28698653"
   }
 ]
