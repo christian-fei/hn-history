@@ -2,50 +2,58 @@
   {
     "title": "Firefighters say they’re swamped by calls for routine care from senior homes",
     "url": "https://www.oregonlive.com/business/2021/10/firefighters-say-theyre-swamped-by-calls-for-routine-care-from-senior-homes-setting-off-one-sided-political-battle.html",
-    "upvotes": 72,
+    "upvotes": 85,
     "author": "joveian",
-    "comments": 37,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=28741980"
   },
   {
     "title": "E-Ink Magic Calendar that runs off a battery powered Raspberry Pi",
     "url": "https://github.com/speedyg0nz/MagInkCal",
-    "upvotes": 273,
+    "upvotes": 285,
     "author": "edward",
-    "comments": 80,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=28740452"
+  },
+  {
+    "title": "Three Things Go Needs More Than Generics",
+    "url": "https://ryanc118.medium.com/three-things-go-needs-right-now-more-than-generics-a6225d62f76b",
+    "upvotes": 10,
+    "author": "ngaut",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28742509"
   },
   {
     "title": "FoundationDB: A Distributed Unbundled Transactional Key Value Store",
     "url": "https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html",
-    "upvotes": 116,
+    "upvotes": 120,
     "author": "mlerner",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=28740497"
   },
   {
+    "title": "New USB-C logos make picking USB cables, chargers less confusing",
+    "url": "https://www.pcworld.com/article/540033/new-usb-c-logos-to-ease-confusion-in-picking-cables-and-chargers.html",
+    "upvotes": 33,
+    "author": "isaacfrond",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=28715976"
+  },
+  {
     "title": "Word-Aligned Bloom Filters",
     "url": "https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/",
-    "upvotes": 226,
+    "upvotes": 228,
     "author": "zdw",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=28737910"
   },
   {
-    "title": "New USB-C logos make picking USB cables, chargers less confusing",
-    "url": "https://www.pcworld.com/article/540033/new-usb-c-logos-to-ease-confusion-in-picking-cables-and-chargers.html",
-    "upvotes": 22,
-    "author": "isaacfrond",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=28715976"
-  },
-  {
-    "title": "Whistleblower: FB misleading pub on progress vs. hate speech, violence, misinfo",
-    "url": "https://www.cbsnews.com/news/facebook-whistleblower-misinformation-public-60-minutes-2021-10-03/",
-    "upvotes": 101,
-    "author": "cratermoon",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=28741755"
+    "title": "Pull Requests vs. Pair Programming",
+    "url": "https://chemaclass.es/blog/pull-request-vs-pair-prog/",
+    "upvotes": 10,
+    "author": "Chemaclass",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28716147"
   },
   {
     "title": "A Macintosh History 85.10",
@@ -58,18 +66,26 @@
   {
     "title": "Unified Shader Programming in C++",
     "url": "https://arxiv.org/abs/2109.14682",
-    "upvotes": 86,
+    "upvotes": 87,
     "author": "matt_d",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=28738750"
   },
   {
-    "title": "The FB Whistleblower, Frances Haugen, Says She Wants to Fix Company, Not Harm It",
-    "url": "https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122",
-    "upvotes": 121,
-    "author": "mudil",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=28741532"
+    "title": "Whistleblower: FB misleading pub on progress vs. hate speech, violence, misinfo",
+    "url": "https://www.cbsnews.com/news/facebook-whistleblower-misinformation-public-60-minutes-2021-10-03/",
+    "upvotes": 112,
+    "author": "cratermoon",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=28741755"
+  },
+  {
+    "title": "Python 3.11",
+    "url": "https://docs.python.org/3.11/whatsnew/changelog.html#changelog",
+    "upvotes": 54,
+    "author": "wetpaws",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=28742061"
   },
   {
     "title": "Show HN: SpotML – Managed ML Training on Cheap AWS/GCP Spot Instances",
@@ -80,52 +96,44 @@
     "link": "https://news.ycombinator.com/item?id=28738141"
   },
   {
+    "title": "The FB Whistleblower, Frances Haugen, Says She Wants to Fix Company, Not Harm It",
+    "url": "https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122",
+    "upvotes": 131,
+    "author": "mudil",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=28741532"
+  },
+  {
     "title": "Characterization of bacteria and fungi associated with the ISS' surfaces",
     "url": "https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x",
-    "upvotes": 21,
+    "upvotes": 22,
     "author": "areoform",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=28740937"
   },
   {
-    "title": "Python 3.11",
-    "url": "https://docs.python.org/3.11/whatsnew/changelog.html#changelog",
-    "upvotes": 43,
-    "author": "wetpaws",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=28742061"
+    "title": "DARPA's hypersonic scramjet achieves successful flight",
+    "url": "https://www.darpa.mil/news-events/2021-09-27",
+    "upvotes": 138,
+    "author": "geox",
+    "comments": 177,
+    "link": "https://news.ycombinator.com/item?id=28737766"
   },
   {
     "title": "New study reveals iPhones aren't as private as you think",
     "url": "https://www.tomsguide.com/news/android-ios-data-collection",
-    "upvotes": 149,
+    "upvotes": 153,
     "author": "ColinWright",
-    "comments": 85,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=28741262"
   },
   {
     "title": "The delights and the dangers of deplatforming extremists",
     "url": "https://conversationalist.org/2021/10/01/the-delights-and-the-dangers-of-deplatforming-extremists/",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "cratermoon",
-    "comments": 2,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28742016"
-  },
-  {
-    "title": "DARPA's hypersonic scramjet achieves successful flight",
-    "url": "https://www.darpa.mil/news-events/2021-09-27",
-    "upvotes": 134,
-    "author": "geox",
-    "comments": 175,
-    "link": "https://news.ycombinator.com/item?id=28737766"
-  },
-  {
-    "title": "Pull Requests vs. Pair Programming",
-    "url": "https://chemaclass.es/blog/pull-request-vs-pair-prog/",
-    "upvotes": 5,
-    "author": "Chemaclass",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28716147"
   },
   {
     "title": "Sirum (YC Nonprofit) Is Hiring Mission-Driven Founding Engineers",
@@ -140,60 +148,84 @@
     "link": "https://news.ycombinator.com/item?id=28727084"
   },
   {
-    "title": "How much information can a small image contain?",
-    "url": "https://www.camerongordon.site/post/how-much-information-can-a-small-image-contain",
-    "upvotes": 23,
-    "author": "iciac",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28716233"
-  },
-  {
     "title": "Riesz Proves the Riesz Representation Theorem",
     "url": "http://nonagon.org/ExLibris/riesz-proves-riesz-representation-theorem",
-    "upvotes": 57,
+    "upvotes": 58,
     "author": "todsacerdoti",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28727732"
+  },
+  {
+    "title": "How much information can a small image contain?",
+    "url": "https://www.camerongordon.site/post/how-much-information-can-a-small-image-contain",
+    "upvotes": 26,
+    "author": "iciac",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=28716233"
+  },
+  {
+    "title": "Pandora papers: biggest leak of offshore data exposes financial secrets of rich",
+    "url": "https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful",
+    "upvotes": 924,
+    "author": "pseudolus",
+    "comments": 443,
+    "link": "https://news.ycombinator.com/item?id=28738407"
+  },
+  {
+    "title": "Show HN: Futurecoder – A free online interactive Python course",
+    "url": "https://futurecoder.io/",
+    "upvotes": 85,
+    "author": "alexmojaki",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=28737779"
+  },
+  {
+    "title": "Removing my site from Google search",
+    "url": "https://www.btao.org/2021/10/03/removing-from-google/",
+    "upvotes": 170,
+    "author": "todsacerdoti",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=28739081"
   },
   {
     "title": "Mysterious Stone Orbs Stashed All over Neolithic Britain",
     "url": "https://www.atlasobscura.com/articles/mysterious-neolithic-stone-balls",
     "upvotes": 77,
     "author": "samizdis",
-    "comments": 52,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=28727725"
-  },
-  {
-    "title": "Pandora papers: biggest leak of offshore data exposes financial secrets of rich",
-    "url": "https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful",
-    "upvotes": 914,
-    "author": "pseudolus",
-    "comments": 437,
-    "link": "https://news.ycombinator.com/item?id=28738407"
-  },
-  {
-    "title": "Removing my site from Google search",
-    "url": "https://www.btao.org/2021/10/03/removing-from-google/",
-    "upvotes": 167,
-    "author": "todsacerdoti",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=28739081"
   },
   {
     "title": "Robotic Process Automation and Artificial Intelligence in Industry 4.0",
     "url": "https://www.sciencedirect.com/science/article/pii/S1877050921001393",
-    "upvotes": 50,
+    "upvotes": 51,
     "author": "TiagoEckhardt",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28738024"
   },
   {
-    "title": "Show HN: Futurecoder – A free online interactive Python course",
-    "url": "https://futurecoder.io/",
-    "upvotes": 83,
-    "author": "alexmojaki",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=28737779"
+    "title": "Double-Odd Elliptic Curves",
+    "url": "https://doubleodd.group/front.html",
+    "upvotes": 60,
+    "author": "rdpintqogeogsaa",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28736958"
+  },
+  {
+    "title": "A massive oil spill in the Pacific Ocean reached the Southern California coast",
+    "url": "https://www.npr.org/2021/10/03/1042846846/a-massive-oil-spill-in-the-pacific-ocean-has-reached-the-southern-california-coa",
+    "upvotes": 193,
+    "author": "amelius",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=28739577"
+  },
+  {
+    "title": "The Nernst Lamp",
+    "url": "https://edisontechcenter.org/NernstLamps.html",
+    "upvotes": 34,
+    "author": "rolph",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=28739587"
   },
   {
     "title": "Data-Driven Routers",
@@ -202,37 +234,5 @@
     "author": "viebel",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28715381"
-  },
-  {
-    "title": "The Nernst Lamp",
-    "url": "https://edisontechcenter.org/NernstLamps.html",
-    "upvotes": 34,
-    "author": "rolph",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=28739587"
-  },
-  {
-    "title": "A massive oil spill in the Pacific Ocean reached the Southern California coast",
-    "url": "https://www.npr.org/2021/10/03/1042846846/a-massive-oil-spill-in-the-pacific-ocean-has-reached-the-southern-california-coa",
-    "upvotes": 191,
-    "author": "amelius",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=28739577"
-  },
-  {
-    "title": "BANCStar: Financial Programming Language",
-    "url": "https://esolangs.org/wiki/BANCStar",
-    "upvotes": 36,
-    "author": "merlinscholz",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28739144"
-  },
-  {
-    "title": "Double-Odd Elliptic Curves",
-    "url": "https://doubleodd.group/front.html",
-    "upvotes": 58,
-    "author": "rdpintqogeogsaa",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28736958"
   }
 ]
