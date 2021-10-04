@@ -1,35 +1,47 @@
 [
   {
+    "title": "It takes a PhD to develop that",
+    "url": "https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/",
+    "upvotes": 22,
+    "author": "kaeruct",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28743687"
+  },
+  {
     "title": "BepiColombo’s First Views of Mercury",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_s_first_views_of_Mercury",
-    "upvotes": 33,
+    "upvotes": 50,
     "author": "adolph",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28743252"
   },
   {
     "title": "E-Ink Magic Calendar that runs off a battery powered Raspberry Pi",
     "url": "https://github.com/speedyg0nz/MagInkCal",
-    "upvotes": 423,
+    "upvotes": 441,
     "author": "edward",
-    "comments": 107,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=28740452"
-  },
-  {
-    "title": "Hiawatha Webserver",
-    "url": "https://www.hiawatha-webserver.org/",
-    "upvotes": 8,
-    "author": "Tomte",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28727922"
   },
   {
     "title": "FoundationDB: A Distributed Unbundled Transactional Key Value Store",
     "url": "https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html",
-    "upvotes": 174,
+    "upvotes": 183,
     "author": "mlerner",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=28740497"
+  },
+  {
+    "title": "Hiawatha Webserver",
+    "url": "https://www.hiawatha-webserver.org/",
+    "upvotes": 12,
+    "author": "Tomte",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28727922"
+  },
+  {
+    "title": "Raycast",
+    "url": "https://www.raycast.com/jobs/product-designer"
   },
   {
     "title": "Watering and draining planets – math and data",
@@ -40,165 +52,121 @@
     "link": "https://news.ycombinator.com/item?id=28736512"
   },
   {
-    "title": "I Was a Facebook Fact-Checker. It Was Like Playing a Doomed Game of Whack-a-Mole",
+    "title": "I Was a Facebook Fact-Checker",
     "url": "https://www.buzzfeednews.com/article/brookebinkowski/fact-checking-facebook-doomed",
-    "upvotes": 52,
+    "upvotes": 63,
     "author": "dredmorbius",
-    "comments": 25,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=28743284"
-  },
-  {
-    "title": "Pull Requests vs. Pair Programming",
-    "url": "https://chemaclass.es/blog/pull-request-vs-pair-prog/",
-    "upvotes": 37,
-    "author": "Chemaclass",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=28716147"
-  },
-  {
-    "title": "Python 3.11",
-    "url": "https://docs.python.org/3.11/whatsnew/changelog.html#changelog",
-    "upvotes": 122,
-    "author": "wetpaws",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=28742061"
-  },
-  {
-    "title": "A Macintosh History 85.10",
-    "url": "https://systemtalk.org/post/macintosh-history-8510/",
-    "upvotes": 91,
-    "author": "ingve",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=28739998"
   },
   {
     "title": "Show HN: SpotML – Managed ML Training on Cheap AWS/GCP Spot Instances",
     "url": "https://spotml.io/",
-    "upvotes": 140,
+    "upvotes": 142,
     "author": "vishnukool",
     "comments": 62,
     "link": "https://news.ycombinator.com/item?id=28738141"
   },
   {
-    "title": "Unified Shader Programming in C++",
-    "url": "https://arxiv.org/abs/2109.14682",
-    "upvotes": 94,
-    "author": "matt_d",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=28738750"
-  },
-  {
     "title": "New study reveals iPhones aren't as private as you think",
     "url": "https://www.tomsguide.com/news/android-ios-data-collection",
-    "upvotes": 234,
+    "upvotes": 253,
     "author": "ColinWright",
-    "comments": 132,
+    "comments": 147,
     "link": "https://news.ycombinator.com/item?id=28741262"
   },
   {
-    "title": "A Computer in the Game of Life",
-    "url": "https://hackaday.com/2020/11/21/a-computer-in-the-game-of-life/",
-    "upvotes": 14,
-    "author": "Hooke",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28734326"
+    "title": "Unified Shader Programming in C++",
+    "url": "https://arxiv.org/abs/2109.14682",
+    "upvotes": 95,
+    "author": "matt_d",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=28738750"
+  },
+  {
+    "title": "A Macintosh History 85.10",
+    "url": "https://systemtalk.org/post/macintosh-history-8510/",
+    "upvotes": 93,
+    "author": "ingve",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=28739998"
   },
   {
     "title": "The Act of Smelling",
     "url": "https://believermag.com/jude-stewart-act-of-smelling/",
-    "upvotes": 5,
+    "upvotes": 7,
     "author": "drdee",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28734469"
-  },
-  {
-    "title": "Mt32-pi: A baremetal Roland MT-32 emulator",
-    "url": "https://github.com/dwhinham/mt32-pi",
-    "upvotes": 97,
-    "author": "rcarmo",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=28727084"
   },
   {
     "title": "Characterization of bacteria and fungi associated with the ISS' surfaces",
     "url": "https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x",
-    "upvotes": 29,
+    "upvotes": 33,
     "author": "areoform",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28740937"
   },
   {
-    "title": "The FB Whistleblower, Frances Haugen, Says She Wants to Fix Company, Not Harm It",
-    "url": "https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122",
-    "upvotes": 188,
-    "author": "mudil",
-    "comments": 153,
-    "link": "https://news.ycombinator.com/item?id=28741532"
+    "title": "A Computer in the Game of Life",
+    "url": "https://hackaday.com/2020/11/21/a-computer-in-the-game-of-life/",
+    "upvotes": 17,
+    "author": "Hooke",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28734326"
   },
   {
-    "title": "An Honest Look at Urbit",
-    "url": "https://jayriverlong.substack.com/p/36-an-honest-look-at-urbit",
-    "upvotes": 51,
-    "author": "riverlong",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=28742537"
+    "title": "Faster Maven Builds",
+    "url": "https://blog.frankel.ch/faster-maven-builds/1/",
+    "upvotes": 33,
+    "author": "based2",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=28740367"
   },
   {
     "title": "Riesz Proves the Riesz Representation Theorem",
     "url": "http://nonagon.org/ExLibris/riesz-proves-riesz-representation-theorem",
-    "upvotes": 68,
+    "upvotes": 70,
     "author": "todsacerdoti",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28727732"
   },
   {
-    "title": "Sirum (YC Nonprofit) Is Hiring Mission-Driven Founding Engineers",
-    "url": "item?id=28740459"
+    "title": "Classic on NextGen: AmigaOS 3.2 on AmigaOS 4.1 [video]",
+    "url": "https://www.youtube.com/watch?v=Yq__c-9bg70",
+    "upvotes": 3,
+    "author": "doener",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28728617"
   },
   {
-    "title": "Faster Maven Builds",
-    "url": "https://blog.frankel.ch/faster-maven-builds/1/",
-    "upvotes": 29,
-    "author": "based2",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28740367"
+    "title": "An Honest Look at Urbit",
+    "url": "https://jayriverlong.substack.com/p/36-an-honest-look-at-urbit",
+    "upvotes": 55,
+    "author": "riverlong",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=28742537"
   },
   {
-    "title": "Show HN: Futurecoder – A free online interactive Python course",
-    "url": "https://futurecoder.io/",
-    "upvotes": 110,
-    "author": "alexmojaki",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=28737779"
+    "title": "The FB Whistleblower, Frances Haugen, Says She Wants to Fix Company, Not Harm It",
+    "url": "https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122",
+    "upvotes": 194,
+    "author": "mudil",
+    "comments": 167,
+    "link": "https://news.ycombinator.com/item?id=28741532"
   },
   {
     "title": "Word-Aligned Bloom Filters",
     "url": "https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/",
-    "upvotes": 241,
+    "upvotes": 244,
     "author": "zdw",
     "comments": 71,
     "link": "https://news.ycombinator.com/item?id=28737910"
   },
   {
-    "title": "How much information can a small image contain?",
-    "url": "https://www.camerongordon.site/post/how-much-information-can-a-small-image-contain",
-    "upvotes": 35,
-    "author": "iciac",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=28716233"
-  },
-  {
-    "title": "Things Go Needs More Than Generics",
-    "url": "https://ryanc118.medium.com/three-things-go-needs-right-now-more-than-generics-a6225d62f76b",
-    "upvotes": 62,
-    "author": "ngaut",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=28742509"
-  },
-  {
     "title": "Robotic Process Automation and Artificial Intelligence in Industry 4.0",
     "url": "https://www.sciencedirect.com/science/article/pii/S1877050921001393",
-    "upvotes": 58,
+    "upvotes": 62,
     "author": "TiagoEckhardt",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=28738024"
@@ -206,33 +174,65 @@
   {
     "title": "Pandora papers: biggest leak of offshore data exposes financial secrets of rich",
     "url": "https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful",
-    "upvotes": 1037,
+    "upvotes": 1061,
     "author": "pseudolus",
-    "comments": 469,
+    "comments": 476,
     "link": "https://news.ycombinator.com/item?id=28738407"
-  },
-  {
-    "title": "Whistleblower says Facebook is misleading the public",
-    "url": "https://www.cbsnews.com/news/facebook-whistleblower-misinformation-public-60-minutes-2021-10-03/",
-    "upvotes": 286,
-    "author": "cratermoon",
-    "comments": 138,
-    "link": "https://news.ycombinator.com/item?id=28741755"
   },
   {
     "title": "BANCStar: Financial Programming Language",
     "url": "https://esolangs.org/wiki/BANCStar",
-    "upvotes": 46,
+    "upvotes": 48,
     "author": "merlinscholz",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28739144"
   },
   {
+    "title": "Whistleblower says Facebook is misleading the public",
+    "url": "https://www.cbsnews.com/news/facebook-whistleblower-misinformation-public-60-minutes-2021-10-03/",
+    "upvotes": 299,
+    "author": "cratermoon",
+    "comments": 152,
+    "link": "https://news.ycombinator.com/item?id=28741755"
+  },
+  {
     "title": "How does the economy work? A new Fed paper suggests nobody really knows",
     "url": "https://www.nytimes.com/2021/10/01/upshot/inflation-economy-analysis.html",
-    "upvotes": 308,
+    "upvotes": 315,
     "author": "pseudolus",
-    "comments": 293,
+    "comments": 299,
     "link": "https://news.ycombinator.com/item?id=28736145"
+  },
+  {
+    "title": "Removing my site from Google search",
+    "url": "https://www.btao.org/2021/10/03/removing-from-google/",
+    "upvotes": 190,
+    "author": "todsacerdoti",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=28739081"
+  },
+  {
+    "title": "The Nernst Lamp",
+    "url": "https://edisontechcenter.org/NernstLamps.html",
+    "upvotes": 42,
+    "author": "rolph",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28739587"
+  },
+  {
+    "title": "Python 3.11",
+    "url": "https://docs.python.org/3.11/whatsnew/changelog.html#changelog",
+    "upvotes": 138,
+    "author": "wetpaws",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=28742061"
+  },
+  {
+    "title": "A massive oil spill in the Pacific Ocean reached the Southern California coast",
+    "url": "https://www.npr.org/2021/10/03/1042846846/a-massive-oil-spill-in-the-pacific-ocean-has-reached-the-southern-california-coa",
+    "upvotes": 204,
+    "author": "amelius",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=28739577"
   }
 ]
