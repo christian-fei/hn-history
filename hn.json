@@ -2,23 +2,15 @@
   {
     "title": "E-Ink Magic Calendar that runs off a battery powered Raspberry Pi",
     "url": "https://github.com/speedyg0nz/MagInkCal",
-    "upvotes": 346,
+    "upvotes": 368,
     "author": "edward",
-    "comments": 88,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=28740452"
-  },
-  {
-    "title": "An Honest Look at Urbit",
-    "url": "https://jayriverlong.substack.com/p/36-an-honest-look-at-urbit",
-    "upvotes": 36,
-    "author": "riverlong",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=28742537"
   },
   {
     "title": "FoundationDB: A Distributed Unbundled Transactional Key Value Store",
     "url": "https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html",
-    "upvotes": 151,
+    "upvotes": 159,
     "author": "mlerner",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=28740497"
@@ -26,39 +18,47 @@
   {
     "title": "Watering and draining planets – math and data",
     "url": "https://ahstat.github.io/Topography/",
-    "upvotes": 12,
+    "upvotes": 16,
     "author": "mikro2nd",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28736512"
   },
   {
     "title": "Things Go Needs More Than Generics",
     "url": "https://ryanc118.medium.com/three-things-go-needs-right-now-more-than-generics-a6225d62f76b",
-    "upvotes": 42,
+    "upvotes": 50,
     "author": "ngaut",
-    "comments": 29,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=28742509"
   },
   {
     "title": "Word-Aligned Bloom Filters",
     "url": "https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/",
-    "upvotes": 236,
+    "upvotes": 237,
     "author": "zdw",
-    "comments": 67,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=28737910"
+  },
+  {
+    "title": "I Was a Facebook Fact-Checker. It Was Like Playing a Doomed Game of Whack-a-Mole",
+    "url": "https://www.buzzfeednews.com/article/brookebinkowski/fact-checking-facebook-doomed",
+    "upvotes": 13,
+    "author": "dredmorbius",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28743284"
   },
   {
     "title": "Whistleblower: Facebook is misleading the public",
     "url": "https://www.cbsnews.com/news/facebook-whistleblower-misinformation-public-60-minutes-2021-10-03/",
-    "upvotes": 192,
+    "upvotes": 210,
     "author": "cratermoon",
-    "comments": 94,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=28741755"
   },
   {
     "title": "A Macintosh History 85.10",
     "url": "https://systemtalk.org/post/macintosh-history-8510/",
-    "upvotes": 84,
+    "upvotes": 86,
     "author": "ingve",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28739998"
@@ -72,52 +72,68 @@
     "link": "https://news.ycombinator.com/item?id=28738750"
   },
   {
-    "title": "Python 3.11",
-    "url": "https://docs.python.org/3.11/whatsnew/changelog.html#changelog",
-    "upvotes": 85,
-    "author": "wetpaws",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=28742061"
-  },
-  {
     "title": "Show HN: SpotML – Managed ML Training on Cheap AWS/GCP Spot Instances",
     "url": "https://spotml.io/",
-    "upvotes": 135,
+    "upvotes": 136,
     "author": "vishnukool",
-    "comments": 59,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=28738141"
+  },
+  {
+    "title": "Python 3.11",
+    "url": "https://docs.python.org/3.11/whatsnew/changelog.html#changelog",
+    "upvotes": 94,
+    "author": "wetpaws",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=28742061"
   },
   {
     "title": "DARPA's hypersonic scramjet achieves successful flight",
     "url": "https://www.darpa.mil/news-events/2021-09-27",
-    "upvotes": 149,
+    "upvotes": 151,
     "author": "geox",
-    "comments": 182,
+    "comments": 183,
     "link": "https://news.ycombinator.com/item?id=28737766"
+  },
+  {
+    "title": "The Act of Smelling",
+    "url": "https://believermag.com/jude-stewart-act-of-smelling/",
+    "upvotes": 4,
+    "author": "drdee",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28734469"
+  },
+  {
+    "title": "New study reveals iPhones aren't as private as you think",
+    "url": "https://www.tomsguide.com/news/android-ios-data-collection",
+    "upvotes": 193,
+    "author": "ColinWright",
+    "comments": 119,
+    "link": "https://news.ycombinator.com/item?id=28741262"
+  },
+  {
+    "title": "Pull Requests vs. Pair Programming",
+    "url": "https://chemaclass.es/blog/pull-request-vs-pair-prog/",
+    "upvotes": 22,
+    "author": "Chemaclass",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=28716147"
   },
   {
     "title": "A Computer in the Game of Life",
     "url": "https://hackaday.com/2020/11/21/a-computer-in-the-game-of-life/",
-    "upvotes": 7,
+    "upvotes": 9,
     "author": "Hooke",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28734326"
   },
   {
-    "title": "Pull Requests vs. Pair Programming",
-    "url": "https://chemaclass.es/blog/pull-request-vs-pair-prog/",
-    "upvotes": 21,
-    "author": "Chemaclass",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=28716147"
-  },
-  {
-    "title": "New study reveals iPhones aren't as private as you think",
-    "url": "https://www.tomsguide.com/news/android-ios-data-collection",
-    "upvotes": 183,
-    "author": "ColinWright",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=28741262"
+    "title": "Mt32-pi: A baremetal Roland MT-32 emulator",
+    "url": "https://github.com/dwhinham/mt32-pi",
+    "upvotes": 96,
+    "author": "rcarmo",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=28727084"
   },
   {
     "title": "Characterization of bacteria and fungi associated with the ISS' surfaces",
@@ -128,33 +144,17 @@
     "link": "https://news.ycombinator.com/item?id=28740937"
   },
   {
-    "title": "Mt32-pi: A baremetal Roland MT-32 emulator",
-    "url": "https://github.com/dwhinham/mt32-pi",
-    "upvotes": 94,
-    "author": "rcarmo",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=28727084"
-  },
-  {
-    "title": "The Act of Smelling",
-    "url": "https://believermag.com/jude-stewart-act-of-smelling/",
-    "upvotes": 3,
-    "author": "drdee",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28734469"
-  },
-  {
     "title": "The FB Whistleblower, Frances Haugen, Says She Wants to Fix Company, Not Harm It",
     "url": "https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122",
-    "upvotes": 160,
+    "upvotes": 166,
     "author": "mudil",
-    "comments": 135,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=28741532"
   },
   {
     "title": "Riesz Proves the Riesz Representation Theorem",
     "url": "http://nonagon.org/ExLibris/riesz-proves-riesz-representation-theorem",
-    "upvotes": 63,
+    "upvotes": 64,
     "author": "todsacerdoti",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28727732"
@@ -164,52 +164,44 @@
     "url": "item?id=28740459"
   },
   {
-    "title": "How much information can a small image contain?",
-    "url": "https://www.camerongordon.site/post/how-much-information-can-a-small-image-contain",
-    "upvotes": 32,
-    "author": "iciac",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=28716233"
-  },
-  {
-    "title": "Faster Maven Builds",
-    "url": "https://blog.frankel.ch/faster-maven-builds/1/",
-    "upvotes": 19,
-    "author": "based2",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28740367"
-  },
-  {
     "title": "Show HN: Futurecoder – A free online interactive Python course",
     "url": "https://futurecoder.io/",
-    "upvotes": 101,
+    "upvotes": 105,
     "author": "alexmojaki",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=28737779"
   },
   {
-    "title": "Firefighters say they’re swamped by calls for routine care from senior homes",
-    "url": "https://www.oregonlive.com/business/2021/10/firefighters-say-theyre-swamped-by-calls-for-routine-care-from-senior-homes-setting-off-one-sided-political-battle.html",
-    "upvotes": 104,
-    "author": "joveian",
-    "comments": 143,
-    "link": "https://news.ycombinator.com/item?id=28741980"
+    "title": "Faster Maven Builds",
+    "url": "https://blog.frankel.ch/faster-maven-builds/1/",
+    "upvotes": 22,
+    "author": "based2",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28740367"
+  },
+  {
+    "title": "How much information can a small image contain?",
+    "url": "https://www.camerongordon.site/post/how-much-information-can-a-small-image-contain",
+    "upvotes": 33,
+    "author": "iciac",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=28716233"
+  },
+  {
+    "title": "An Honest Look at Urbit",
+    "url": "https://jayriverlong.substack.com/p/36-an-honest-look-at-urbit",
+    "upvotes": 41,
+    "author": "riverlong",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=28742537"
   },
   {
     "title": "Pandora papers: biggest leak of offshore data exposes financial secrets of rich",
     "url": "https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful",
-    "upvotes": 971,
+    "upvotes": 985,
     "author": "pseudolus",
-    "comments": 454,
+    "comments": 456,
     "link": "https://news.ycombinator.com/item?id=28738407"
-  },
-  {
-    "title": "BANCStar: Financial Programming Language",
-    "url": "https://esolangs.org/wiki/BANCStar",
-    "upvotes": 44,
-    "author": "merlinscholz",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28739144"
   },
   {
     "title": "Robotic Process Automation and Artificial Intelligence in Industry 4.0",
@@ -220,19 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=28738024"
   },
   {
-    "title": "How does the economy work? A new Fed paper suggests nobody really knows",
-    "url": "https://www.nytimes.com/2021/10/01/upshot/inflation-economy-analysis.html",
-    "upvotes": 295,
-    "author": "pseudolus",
-    "comments": 289,
-    "link": "https://news.ycombinator.com/item?id=28736145"
+    "title": "BANCStar: Financial Programming Language",
+    "url": "https://esolangs.org/wiki/BANCStar",
+    "upvotes": 44,
+    "author": "merlinscholz",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=28739144"
   },
   {
-    "title": "Mysterious Stone Orbs Stashed All over Neolithic Britain",
-    "url": "https://www.atlasobscura.com/articles/mysterious-neolithic-stone-balls",
-    "upvotes": 82,
-    "author": "samizdis",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=28727725"
+    "title": "Firefighters say they’re swamped by calls for routine care from senior homes",
+    "url": "https://www.oregonlive.com/business/2021/10/firefighters-say-theyre-swamped-by-calls-for-routine-care-from-senior-homes-setting-off-one-sided-political-battle.html",
+    "upvotes": 106,
+    "author": "joveian",
+    "comments": 149,
+    "link": "https://news.ycombinator.com/item?id=28741980"
+  },
+  {
+    "title": "How does the economy work? A new Fed paper suggests nobody really knows",
+    "url": "https://www.nytimes.com/2021/10/01/upshot/inflation-economy-analysis.html",
+    "upvotes": 298,
+    "author": "pseudolus",
+    "comments": 290,
+    "link": "https://news.ycombinator.com/item?id=28736145"
   }
 ]
