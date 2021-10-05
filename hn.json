@@ -1,175 +1,223 @@
 [
   {
-    "title": "Is 40 the New 60?",
-    "url": "https://neverworkintheory.org/2021/10/03/is-40-the-new-60.html",
-    "upvotes": 154,
-    "author": "luu",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=28757964"
-  },
-  {
-    "title": "Phrack Magazine Issue 70",
+    "title": "Phrack Issue 70",
     "url": "http://phrack.org/issues/70/1.html",
-    "upvotes": 36,
+    "upvotes": 74,
     "author": "bugmen0t",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28758486"
-  },
-  {
-    "title": "Open Source Tax Software",
-    "url": "http://ctskennerton.github.io/2021/08/30/open-source-tax-software/",
-    "upvotes": 353,
-    "author": "aidangrimshaw",
-    "comments": 154,
-    "link": "https://news.ycombinator.com/item?id=28755034"
   },
   {
     "title": "Show HN: Hurl – Run and test HTTP requests with plain text, curl and Rust",
     "url": "https://hurl.dev/index.html",
-    "upvotes": 19,
+    "upvotes": 35,
     "author": "jicea",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28758226"
   },
   {
     "title": "Udemy S-1 IPO",
     "url": "https://www.sec.gov/Archives/edgar/data/1607939/000119312521291460/d163445ds1.htm",
-    "upvotes": 13,
+    "upvotes": 26,
     "author": "marc__1",
-    "comments": 2,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28758236"
   },
   {
-    "title": "The Nobel Prize in Physics 2021",
-    "url": "https://www.nobelprize.org/prizes/physics/2021/press-release/",
-    "upvotes": 111,
-    "author": "harscoat",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=28757304"
+    "title": "Open Source Tax Software",
+    "url": "http://ctskennerton.github.io/2021/08/30/open-source-tax-software/",
+    "upvotes": 360,
+    "author": "aidangrimshaw",
+    "comments": 160,
+    "link": "https://news.ycombinator.com/item?id=28755034"
   },
   {
     "title": "Sending newsletters should cost something",
     "url": "https://www.rmhsilva.com/w/blockchain-mail-b-mail/",
-    "upvotes": 9,
+    "upvotes": 16,
     "author": "rmhsilva",
-    "comments": 4,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28758125"
+  },
+  {
+    "title": "The Nobel Prize in Physics 2021",
+    "url": "https://www.nobelprize.org/prizes/physics/2021/press-release/",
+    "upvotes": 118,
+    "author": "harscoat",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=28757304"
+  },
+  {
+    "title": "Is 40 the New 60?",
+    "url": "https://neverworkintheory.org/2021/10/03/is-40-the-new-60.html",
+    "upvotes": 183,
+    "author": "luu",
+    "comments": 157,
+    "link": "https://news.ycombinator.com/item?id=28757964"
+  },
+  {
+    "title": "Show HN: Sixel-tmux displays graphics even if your terminal has no Sixel support",
+    "url": "https://github.com/csdvrx/sixel-tmux",
+    "upvotes": 73,
+    "author": "csdvrx",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=28756701"
   },
   {
     "title": "Centaur Labs",
     "url": "https://www.centaurlabs.com/open-positions"
   },
   {
-    "title": "Show HN: Sixel-tmux displays graphics even if your terminal has no Sixel support",
-    "url": "https://github.com/csdvrx/sixel-tmux",
-    "upvotes": 60,
-    "author": "csdvrx",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28756701"
+    "title": "Ask HN: How should I back up data on devices if I'm not smart?",
+    "url": "item?id=28758415",
+    "upvotes": 16,
+    "author": "bloqs",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=28758415"
   },
   {
     "title": "A new public beta of GitHub Releases",
     "url": "https://github.blog/2021-10-04-beta-github-releases-improving-release-experience/",
-    "upvotes": 74,
+    "upvotes": 78,
     "author": "mrzool",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=28756454"
   },
   {
-    "title": "Playing Battleships over BGP",
-    "url": "https://blog.benjojo.co.uk/post/bgp-battleships",
-    "upvotes": 35,
-    "author": "tcard",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28757375"
+    "title": "Rowy: Open-source Airtable alternative on Google Cloud",
+    "url": "https://www.rowy.io",
+    "upvotes": 4,
+    "author": "karanbhangui",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28758598"
+  },
+  {
+    "title": "Is this the simplest",
+    "url": "https://arxiv.org/abs/2110.01111",
+    "upvotes": 3,
+    "author": "ColinWright",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28758106"
   },
   {
     "title": "PostgreSQL: Kubegres is available as open source",
     "url": "https://www.postgresql.org/about/news/kubegres-is-available-as-open-source-2197/",
-    "upvotes": 31,
+    "upvotes": 44,
     "author": "9woc",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28758162"
+  },
+  {
+    "title": "Playing Battleships over BGP",
+    "url": "https://blog.benjojo.co.uk/post/bgp-battleships",
+    "upvotes": 39,
+    "author": "tcard",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=28757375"
+  },
+  {
+    "title": "Facebook misled investors about its reach, whistleblower tells SEC",
+    "url": "https://on.ft.com/2YldSxc",
+    "upvotes": 15,
+    "author": "boh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28758506"
   },
   {
     "title": "Teach Me PCB",
     "url": "https://teachmepcb.com",
-    "upvotes": 87,
+    "upvotes": 95,
     "author": "zdw",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=28742902"
   },
   {
-    "title": "Maintenance windows are a mistake",
-    "url": "https://www.infoworld.com/article/3632987/maintenance-windows-are-a-mistake.html",
-    "upvotes": 24,
-    "author": "kiyanwang",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=28736380"
+    "title": "Break into this CEO’s laptop to steal company secrets and plant malware",
+    "url": "https://twitter.com/SecurityJon/status/1445020885472235524",
+    "upvotes": 44,
+    "author": "lhoff",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=28757781"
   },
   {
     "title": "The Dark Art of Displaying Deep-Sea Fish",
     "url": "https://www.atlasobscura.com/articles/deep-sea-footballfish",
-    "upvotes": 11,
+    "upvotes": 12,
     "author": "prismatic",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28743345"
   },
   {
-    "title": "Facebook going down meant more than just a social network being unavailable",
-    "url": "https://twitter.com/abgutman/status/1445124247005933573",
-    "upvotes": 246,
-    "author": "MaxLeiter",
-    "comments": 294,
-    "link": "https://news.ycombinator.com/item?id=28752659"
-  },
-  {
-    "title": "Break into this CEO’s laptop to steal company secrets and plant malware",
-    "url": "https://twitter.com/SecurityJon/status/1445020885472235524",
-    "upvotes": 32,
-    "author": "lhoff",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=28757781"
+    "title": "After a decade as Apple’s assistant, Siri still hasn’t figured out the job",
+    "url": "https://www.theverge.com/22704233/siri-apple-digital-assistant-10-years-development-problems-why",
+    "upvotes": 72,
+    "author": "1cvmask",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=28756904"
   },
   {
     "title": "Direct detection of dark energy: the XENON1T excess and future prospects",
     "url": "https://arxiv.org/abs/2103.15834",
     "upvotes": 62,
     "author": "M2Ys4U",
-    "comments": 13,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=28755204"
   },
   {
-    "title": "Estimated 216,000 children abused by French Catholic priests, report finds",
-    "url": "https://www.theguardian.com/world/2021/oct/05/french-catholic-priests-abused-children-report",
-    "upvotes": 37,
-    "author": "sofixa",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=28757139"
+    "title": "PayPal raises fees for most domestic transaction types to 3.49% + $0.49",
+    "url": "https://www.paypal.com/us/webapps/mpp/merchant-fees",
+    "upvotes": 216,
+    "author": "kaslai",
+    "comments": 163,
+    "link": "https://news.ycombinator.com/item?id=28755702"
   },
   {
     "title": "Researchers Have Developed a New Kind of 'Unbreakable' Glass",
     "url": "https://interestingengineering.com/researchers-have-developed-a-new-kind-of-unbreakable-glass",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "djoldman",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=28740852"
   },
   {
     "title": "Curiosity Is Better Than Being Smart?",
     "url": "https://durmonski.com/life-advice/curiosity-is-better-than-being-smart/",
-    "upvotes": 280,
+    "upvotes": 285,
     "author": "enigmatic02",
-    "comments": 142,
+    "comments": 147,
     "link": "https://news.ycombinator.com/item?id=28753560"
+  },
+  {
+    "title": "Hello",
+    "url": "https://www.zocalopublicsquare.org/2021/09/29/hello-friendly-tv-translator/ideas/essay/",
+    "upvotes": 27,
+    "author": "herbertl",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28736377"
   },
   {
     "title": "In Topology When Are Two Shapes the Same?",
     "url": "https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "bryanrasmussen",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=28735883"
+  },
+  {
+    "title": "The NAND gate. One gate to rule them all",
+    "url": "https://sebastiancarlos.medium.com/the-nand-gate-one-gate-to-rule-them-all-ee1a5dbc83dd",
+    "upvotes": 50,
+    "author": "deepCelibate",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=28756727"
+  },
+  {
+    "title": "New features coming in Julia 1.7",
+    "url": "https://lwn.net/SubscriberLink/871486/e4ae97b79d72bb25/",
+    "upvotes": 78,
+    "author": "leephillips",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=28753182"
   },
   {
     "title": "Apple II Audio and the Mockingboard",
@@ -180,59 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=28740395"
   },
   {
-    "title": "New features coming in Julia 1.7",
-    "url": "https://lwn.net/SubscriberLink/871486/e4ae97b79d72bb25/",
-    "upvotes": 75,
-    "author": "leephillips",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=28753182"
-  },
-  {
     "title": "Update about the October 4th outage",
     "url": "https://engineering.fb.com/2021/10/04/networking-traffic/outage/",
-    "upvotes": 246,
+    "upvotes": 250,
     "author": "ve55",
-    "comments": 184,
+    "comments": 187,
     "link": "https://news.ycombinator.com/item?id=28754824"
-  },
-  {
-    "title": "Hello",
-    "url": "https://www.zocalopublicsquare.org/2021/09/29/hello-friendly-tv-translator/ideas/essay/",
-    "upvotes": 25,
-    "author": "herbertl",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28736377"
-  },
-  {
-    "title": "The NAND gate. One gate to rule them all",
-    "url": "https://sebastiancarlos.medium.com/the-nand-gate-one-gate-to-rule-them-all-ee1a5dbc83dd",
-    "upvotes": 48,
-    "author": "deepCelibate",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=28756727"
-  },
-  {
-    "title": "Drones Raining from the Sky in Zhengzhou",
-    "url": "https://twitter.com/pitdesi/status/1445118812659933187",
-    "upvotes": 259,
-    "author": "freddier",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=28754680"
-  },
-  {
-    "title": "Seattle Votes to Decriminalize Psilocybin and Similar Substances",
-    "url": "https://www.bloomberg.com/news/articles/2021-10-04/seattle-votes-to-decriminalize-psylocybin-and-similar-substances",
-    "upvotes": 111,
-    "author": "bryanrasmussen",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=28756546"
-  },
-  {
-    "title": "Time machine: Solaris 2.6 on QEMU",
-    "url": "https://smackeyacky.blogspot.com/2021/10/time-machine-solaris-26-on-qemu.html",
-    "upvotes": 50,
-    "author": "smackeyacky",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=28754305"
   }
 ]
