@@ -2,31 +2,47 @@
   {
     "title": "RenderingNG: An architecture that makes and keeps Chrome fast for the long term",
     "url": "https://blog.chromium.org/2021/10/renderingng.html",
-    "upvotes": 47,
+    "upvotes": 52,
     "author": "ksec",
-    "comments": 16,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=28782493"
+  },
+  {
+    "title": "Mozilla to put ads in Firefox address bar suggestions",
+    "url": "https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest#w_contextual-suggestions",
+    "upvotes": 62,
+    "author": "mikro2nd",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=28783381"
   },
   {
     "title": "Protein complex prediction with AlphaFold-Multimer",
     "url": "https://deepmind.com/research/publications/2021/protein-complex-prediction-with-alphafold-multimer",
-    "upvotes": 85,
+    "upvotes": 91,
     "author": "xbmcuser",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28781518"
   },
   {
     "title": "Canyon.mid",
     "url": "https://canyonmid.com/",
-    "upvotes": 239,
+    "upvotes": 246,
     "author": "1_player",
-    "comments": 87,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=28779729"
+  },
+  {
+    "title": "x86 assembly doesn’t have to be scary",
+    "url": "https://blog.benjojo.co.uk/post/interactive-x86-bootloader-tutorial",
+    "upvotes": 16,
+    "author": "aphrax",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28770907"
   },
   {
     "title": "The Insane Innovation of TI Calculator Hobbyists",
     "url": "https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/",
-    "upvotes": 189,
+    "upvotes": 194,
     "author": "bkudria",
     "comments": 75,
     "link": "https://news.ycombinator.com/item?id=28779621"
@@ -34,26 +50,18 @@
   {
     "title": "Apple requires account deletion within apps in AppStore starting January 31",
     "url": "https://developer.apple.com/news/?id=mdkbobfo",
-    "upvotes": 890,
+    "upvotes": 896,
     "author": "ezhik_",
-    "comments": 420,
+    "comments": 423,
     "link": "https://news.ycombinator.com/item?id=28776960"
   },
   {
     "title": "Hyperbaric Oxygen Treatment for Alzheimer's",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293997/",
-    "upvotes": 91,
+    "upvotes": 93,
     "author": "taf2",
-    "comments": 33,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=28780494"
-  },
-  {
-    "title": "x86 assembly doesn’t have to be scary",
-    "url": "https://blog.benjojo.co.uk/post/interactive-x86-bootloader-tutorial",
-    "upvotes": 11,
-    "author": "aphrax",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28770907"
   },
   {
     "title": "Shopscribe",
@@ -62,15 +70,15 @@
   {
     "title": "Lessons learned from sharding Postgres at Notion",
     "url": "https://www.notion.so/blog/sharding-postgres-at-notion",
-    "upvotes": 364,
+    "upvotes": 372,
     "author": "craigkerstiens",
-    "comments": 97,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=28776786"
   },
   {
     "title": "Gentle Introduction to Realtime Fluid Simulation for Programmers and Artists",
     "url": "https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac",
-    "upvotes": 69,
+    "upvotes": 74,
     "author": "ArtWomb",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28780335"
@@ -78,127 +86,127 @@
   {
     "title": "The Tech Worker Handbook",
     "url": "https://techworkerhandbook.org/",
-    "upvotes": 266,
+    "upvotes": 269,
     "author": "giuliomagnifico",
-    "comments": 79,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=28777329"
   },
   {
     "title": "Terraform vs. AWS CloudFormation",
     "url": "https://gswallow.medium.com/do-not-use-aws-cloudformation-7cf61f58bd5f",
-    "upvotes": 214,
+    "upvotes": 218,
     "author": "historynops",
-    "comments": 170,
+    "comments": 175,
     "link": "https://news.ycombinator.com/item?id=28777997"
   },
   {
     "title": "Effective Code Browsing",
     "url": "https://noahan.me/posts/effective-code-browsing-part1/",
-    "upvotes": 38,
+    "upvotes": 41,
     "author": "anooh",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=28781583"
   },
   {
-    "title": "OPPA: Ohio could become the third US state to enact a new consumer privacy law",
-    "url": "https://portswigger.net/daily-swig/oppa-ohio-could-become-the-third-us-state-to-enact-a-new-consumer-privacy-law-in-2021",
-    "upvotes": 159,
-    "author": "feross",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=28775648"
-  },
-  {
     "title": "The naughty username checking system used by Twitch",
     "url": "https://ghostbin.com/57bCm",
-    "upvotes": 366,
+    "upvotes": 373,
     "author": "PrincessJess",
-    "comments": 163,
+    "comments": 174,
     "link": "https://news.ycombinator.com/item?id=28779566"
-  },
-  {
-    "title": "You can't tell people anything",
-    "url": "http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/",
-    "upvotes": 234,
-    "author": "xojoc",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=28775517"
-  },
-  {
-    "title": "Show HN: IndiePaper – An easy way to write and sell self-published books",
-    "url": "https://indiepaper.me",
-    "upvotes": 19,
-    "author": "aswinmohanme",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28775313"
   },
   {
     "title": "Investigators say they've finally identified the Zodiac Killer",
     "url": "https://www.fox13now.com/news/national-news/investigators-say-theyve-finally-identified-the-zodiac-killer",
-    "upvotes": 304,
+    "upvotes": 307,
     "author": "afrcnc",
     "comments": 184,
     "link": "https://news.ycombinator.com/item?id=28776548"
   },
   {
+    "title": "Desert Locust Risk Mapping",
+    "url": "https://storymaps.arcgis.com/stories/f07f6eb7a70c420f854d7f8c6a206253",
+    "upvotes": 3,
+    "author": "adrianN",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28769338"
+  },
+  {
     "title": "The History of OS/2",
     "url": "http://www.landley.net/history/mirror/os2/history/",
-    "upvotes": 52,
+    "upvotes": 55,
     "author": "Lammy",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=28780433"
   },
   {
+    "title": "Show HN: IndiePaper – An easy way to write and sell self-published books",
+    "url": "https://indiepaper.me",
+    "upvotes": 24,
+    "author": "aswinmohanme",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28775313"
+  },
+  {
     "title": "Spacehey: A Space for Friends",
     "url": "https://spacehey.com/",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "type0",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=28770637"
-  },
-  {
-    "title": "Twitch source code and customer data has reportedly been leaked",
-    "url": "https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/",
-    "upvotes": 1138,
-    "author": "cvak",
-    "comments": 535,
-    "link": "https://news.ycombinator.com/item?id=28770590"
-  },
-  {
-    "title": "Democratising the Right to Laziness",
-    "url": "https://abhim.substack.com/p/democratising-the-right-to-laziness",
-    "upvotes": 16,
-    "author": "Abhishekmmm",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28780626"
-  },
-  {
-    "title": "I'm sorry",
-    "url": "https://github.com/dotnet-foundation/Home/discussions/39",
-    "upvotes": 240,
-    "author": "wfox",
-    "comments": 190,
-    "link": "https://news.ycombinator.com/item?id=28779342"
-  },
-  {
-    "title": "Will Cloudflare R2 Win Customers from Amazon S3?",
-    "url": "https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3",
-    "upvotes": 361,
-    "author": "cloudfalcon",
-    "comments": 181,
-    "link": "https://news.ycombinator.com/item?id=28774782"
   },
   {
     "title": "LVGL – Light and Versatile Graphics Library",
     "url": "https://github.com/lvgl/lvgl",
-    "upvotes": 40,
+    "upvotes": 48,
     "author": "rcarmo",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28779057"
   },
   {
+    "title": "Democratising the Right to Laziness",
+    "url": "https://abhim.substack.com/p/democratising-the-right-to-laziness",
+    "upvotes": 19,
+    "author": "Abhishekmmm",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28780626"
+  },
+  {
+    "title": "Twitch source code and customer data has reportedly been leaked",
+    "url": "https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/",
+    "upvotes": 1142,
+    "author": "cvak",
+    "comments": 536,
+    "link": "https://news.ycombinator.com/item?id=28770590"
+  },
+  {
+    "title": "Will Cloudflare R2 Win Customers from Amazon S3?",
+    "url": "https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3",
+    "upvotes": 362,
+    "author": "cloudfalcon",
+    "comments": 181,
+    "link": "https://news.ycombinator.com/item?id=28774782"
+  },
+  {
+    "title": "I'm sorry",
+    "url": "https://github.com/dotnet-foundation/Home/discussions/39",
+    "upvotes": 242,
+    "author": "wfox",
+    "comments": 195,
+    "link": "https://news.ycombinator.com/item?id=28779342"
+  },
+  {
+    "title": "We moved from Pony to Rust",
+    "url": "https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust",
+    "upvotes": 177,
+    "author": "aturley",
+    "comments": 130,
+    "link": "https://news.ycombinator.com/item?id=28777306"
+  },
+  {
     "title": "The Economics of Programming Languages",
     "url": "https://www.welton.it/articles/programming_language_economics.html",
-    "upvotes": 21,
+    "upvotes": 22,
     "author": "kelseyfrog",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28781046"
@@ -206,7 +214,7 @@
   {
     "title": "The ultimate SMD marking codes database",
     "url": "https://smd.yooneed.one/",
-    "upvotes": 78,
+    "upvotes": 79,
     "author": "rolph",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28777350"
@@ -220,19 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=28777862"
   },
   {
-    "title": "We moved from Pony to Rust",
-    "url": "https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust",
-    "upvotes": 173,
-    "author": "aturley",
-    "comments": 129,
-    "link": "https://news.ycombinator.com/item?id=28777306"
-  },
-  {
-    "title": "Writing a “bare metal” operating system for Raspberry Pi 4",
-    "url": "https://github.com/isometimes/rpi4-osdev",
-    "upvotes": 391,
-    "author": "rcarmo",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=28774022"
+    "title": "Remembering Huxley's “Brave New World”",
+    "url": "https://psydef.substack.com/p/brave-new-world",
+    "upvotes": 18,
+    "author": "WriterGuy2021",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28780388"
   }
 ]
