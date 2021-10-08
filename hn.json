@@ -2,39 +2,63 @@
   {
     "title": "Things I’ve learned in my 20 years as a software engineer",
     "url": "https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/",
-    "upvotes": 472,
+    "upvotes": 552,
     "author": "D_Guidi",
-    "comments": 233,
+    "comments": 255,
     "link": "https://news.ycombinator.com/item?id=28797485"
   },
   {
-    "title": "Quickemu: Quickly create and run optimised Win-10,11/macOS/Linux on Linux",
-    "url": "https://github.com/wimpysworld/quickemu",
-    "upvotes": 203,
-    "author": "nixcraft",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=28797129"
+    "title": "Computer Game Play Reduces Intrusive Memories of Experimental Trauma",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526368/",
+    "upvotes": 23,
+    "author": "tnorthcutt",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28799760"
   },
   {
     "title": "Orion is the new WebKit-based browser for Mac",
     "url": "https://browser.kagi.com/",
-    "upvotes": 26,
+    "upvotes": 52,
     "author": "mpweiher",
-    "comments": 14,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=28799049"
   },
   {
-    "title": "A visit from a social robot improves hospitalized children’s outlook",
-    "url": "https://newsroom.ucla.edu/releases/social-robot-improves-hospitalized-children-outlook",
-    "upvotes": 18,
-    "author": "geox",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28799178"
+    "title": "Haugen isn’t really a ‘Facebook whistleblower’",
+    "url": "https://jonathancook.substack.com/p/haugen-isnt-really-a-facebook-whistleblower",
+    "upvotes": 11,
+    "author": "k1m",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28799782"
+  },
+  {
+    "title": "ETL Pipelines with Airflow: The Good, the Bad and the Ugly",
+    "url": "https://airbyte.io/blog/airflow-etl-pipelines",
+    "upvotes": 12,
+    "author": "Arimbr",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28799745"
+  },
+  {
+    "title": "Quickemu: Quickly create and run optimised Win-10,11/macOS/Linux on Linux",
+    "url": "https://github.com/wimpysworld/quickemu",
+    "upvotes": 219,
+    "author": "nixcraft",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=28797129"
+  },
+  {
+    "title": "AutoEQ: Automatic headphone equalization from frequency responses",
+    "url": "https://github.com/jaakkopasanen/AutoEq",
+    "upvotes": 8,
+    "author": "ishitatsuyuki",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28799910"
   },
   {
     "title": "Roapi: An API Server for Static Datasets",
     "url": "https://tech.marksblogg.com/roapi-rust-data-api.html",
-    "upvotes": 45,
+    "upvotes": 54,
     "author": "todsacerdoti",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28798360"
@@ -42,197 +66,173 @@
   {
     "title": "Moths in slow motion [video]",
     "url": "https://aeon.co/videos/witness-the-majesty-of-moths-taking-flight-at-6000-frames-per-second",
-    "upvotes": 517,
+    "upvotes": 531,
     "author": "Tomte",
-    "comments": 87,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=28785117"
   },
   {
-    "title": "Xterm.js",
-    "url": "http://xtermjs.org/",
-    "upvotes": 80,
-    "author": "humility",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=28797535"
+    "title": "A visit from a social robot improves hospitalized children’s outlook",
+    "url": "https://newsroom.ucla.edu/releases/social-robot-improves-hospitalized-children-outlook",
+    "upvotes": 20,
+    "author": "geox",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=28799178"
   },
   {
     "title": "Why Multitasking Doesn't Work",
     "url": "https://health.clevelandclinic.org/science-clear-multitasking-doesnt-work/",
-    "upvotes": 15,
+    "upvotes": 26,
     "author": "giuliomagnifico",
-    "comments": null,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28798509"
-  },
-  {
-    "title": "Explaining explaining: a quick guide on explanatory writing",
-    "url": "http://lucasfcosta.com/2021/09/30/explaining-in-writing.html",
-    "upvotes": 84,
-    "author": "lucasfcosta",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=28797133"
-  },
-  {
-    "title": "Smoothness and performance of Qt based systems compared to native apps and OS",
-    "url": "item?id=28798868",
-    "upvotes": 28,
-    "author": "donboscow",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=28798868"
   },
   {
     "title": "Xkit",
     "url": "https://github.com/xkit-co/jobs/blob/main/senior-ux-engineer.md"
   },
   {
+    "title": "Xterm.js",
+    "url": "http://xtermjs.org/",
+    "upvotes": 92,
+    "author": "humility",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=28797535"
+  },
+  {
+    "title": "SpaceX hits $100B valuation after secondary share sale",
+    "url": "https://www.cnbc.com/2021/10/08/elon-musks-spacex-valuation-100-billion.html",
+    "upvotes": 34,
+    "author": "jaredwiener",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=28799633"
+  },
+  {
+    "title": "Explaining explaining: a quick guide on explanatory writing",
+    "url": "http://lucasfcosta.com/2021/09/30/explaining-in-writing.html",
+    "upvotes": 94,
+    "author": "lucasfcosta",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=28797133"
+  },
+  {
+    "title": "Rust: Enums to Wrap Multiple Errors",
+    "url": "https://fettblog.eu/rust-enums-wrapping-errors/",
+    "upvotes": 3,
+    "author": "jasim",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28799931"
+  },
+  {
+    "title": "Smoothness and performance of Qt based systems compared to native apps and OS",
+    "url": "item?id=28798868",
+    "upvotes": 34,
+    "author": "donboscow",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=28798868"
+  },
+  {
     "title": "Laser for control of mosquitos, weeds and pests",
     "url": "https://github.com/Ildaron/Laser_control",
-    "upvotes": 276,
+    "upvotes": 279,
     "author": "ildaron_ron",
-    "comments": 132,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=28793660"
-  },
-  {
-    "title": "Elite MBAs are no Longer Relevant",
-    "url": "item?id=28798440",
-    "upvotes": 35,
-    "author": "digitcatphd",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=28798440"
-  },
-  {
-    "title": "XMonad – The Automated Tiling WM",
-    "url": "https://xmonad.org/",
-    "upvotes": 216,
-    "author": "lolcat_cowsay",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=28793941"
   },
   {
     "title": "Heuristics to Ensure Your Team is on The Same Page",
     "url": "https://pulseasync.com/operators/remote-team-alignment/",
-    "upvotes": 7,
+    "upvotes": 12,
     "author": "anacleto",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28785080"
   },
   {
-    "title": "When Facebook went down this week, traffic to news sites went up",
-    "url": "https://www.niemanlab.org/2021/10/when-facebook-went-down-this-week-traffic-to-news-sites-went-up/",
-    "upvotes": 310,
-    "author": "donohoe",
-    "comments": 156,
-    "link": "https://news.ycombinator.com/item?id=28794773"
-  },
-  {
-    "title": "The Ampere Altra Max Review: Pushing It to 128 Cores per Socket",
-    "url": "https://www.anandtech.com/show/16979/the-ampere-altra-max-review-pushing-it-to-128-cores-per-socket",
-    "upvotes": 74,
-    "author": "pella",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=28785355"
-  },
-  {
-    "title": "Understanding Shannon's Entropy metric for Information [pdf]",
-    "url": "https://arxiv.org/abs/1405.2061",
-    "upvotes": 72,
-    "author": "micouay",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=28785902"
-  },
-  {
-    "title": "When did we start signing our names to authenticate documents?",
-    "url": "https://slate.com/news-and-politics/2011/03/when-did-we-start-signing-our-names-to-authenticate-documents.html",
-    "upvotes": 19,
-    "author": "martinlaz",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28798311"
-  },
-  {
-    "title": "Autonomous drone navigates independently through the forest at 40 km/h",
-    "url": "https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html",
-    "upvotes": 360,
-    "author": "giuliomagnifico",
-    "comments": 187,
-    "link": "https://news.ycombinator.com/item?id=28792613"
-  },
-  {
-    "title": "Instanced Line Rendering Part II: Alpha Blending",
-    "url": "https://wwwtyro.net/2021/10/01/instanced-lines-part-2.html",
-    "upvotes": 74,
-    "author": "colinprince",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=28784862"
-  },
-  {
-    "title": "SolarWinds hackers stole data on US sanctions policy, intelligence probes",
-    "url": "https://www.reuters.com/world/us/hackers-solarwinds-breach-stole-data-us-sanctions-policy-intelligence-probes-2021-10-07/",
-    "upvotes": 62,
-    "author": "throwoutway",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=28792085"
-  },
-  {
-    "title": "USPS Begins Postal Banking Pilot Program",
-    "url": "https://prospect.org/economy/usps-begins-postal-banking-pilot-program/",
-    "upvotes": 72,
-    "author": "bryanrasmussen",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=28796618"
-  },
-  {
-    "title": "Vim Anti-Patterns That Cause Beginners To:Quit",
-    "url": "https://paweldu.dev/posts/vim-anti-patterns-that-cause-beginners-to-quit/",
-    "upvotes": 48,
-    "author": "pawelduda",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=28793760"
-  },
-  {
-    "title": "Ask HN: Practically accepting cryptocurrency for businesses without middlemen?",
-    "url": "item?id=28795005",
-    "upvotes": 115,
-    "author": "hda2",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=28795005"
-  },
-  {
     "title": "Playing Tetris Can Help Tame Traumatic Memories",
     "url": "https://www.npr.org/sections/health-shots/2017/04/09/523011446/how-playing-tetris-tames-the-trauma-of-a-car-crash",
-    "upvotes": 4,
+    "upvotes": 13,
     "author": "Amorymeltzer",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28797818"
   },
   {
-    "title": "Hugo Themes ranked by GitHub Stars",
-    "url": "https://hugoranked.com/",
-    "upvotes": 133,
-    "author": "sydney6",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=28795478"
+    "title": "XMonad – The Automated Tiling WM",
+    "url": "https://xmonad.org/",
+    "upvotes": 219,
+    "author": "lolcat_cowsay",
+    "comments": 144,
+    "link": "https://news.ycombinator.com/item?id=28793941"
   },
   {
-    "title": "MRAM technologies: from space applications to unified cache memory?",
-    "url": "https://www.imec-int.com/en/articles/mram-technologies-space-applications-unified-cache-memory",
-    "upvotes": 35,
-    "author": "baybal2",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28771648"
+    "title": "When Facebook went down this week, traffic to news sites went up",
+    "url": "https://www.niemanlab.org/2021/10/when-facebook-went-down-this-week-traffic-to-news-sites-went-up/",
+    "upvotes": 321,
+    "author": "donohoe",
+    "comments": 170,
+    "link": "https://news.ycombinator.com/item?id=28794773"
   },
   {
-    "title": "Anyone Seen Tether’s Billions?",
-    "url": "https://www.bloomberg.com/news/features/2021-10-07/crypto-mystery-where-s-the-69-billion-backing-the-stablecoin-tether",
-    "upvotes": 428,
-    "author": "CPLX",
-    "comments": 390,
-    "link": "https://news.ycombinator.com/item?id=28784745"
+    "title": "Understanding Shannon's Entropy metric for Information [pdf]",
+    "url": "https://arxiv.org/abs/1405.2061",
+    "upvotes": 76,
+    "author": "micouay",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=28785902"
   },
   {
-    "title": "USS Connecticut",
-    "url": "https://www.cpf.navy.mil/News/Article/2797630/statement-regarding-uss-connecticut-ssn-22/",
-    "upvotes": 154,
-    "author": "executive",
-    "comments": 156,
-    "link": "https://news.ycombinator.com/item?id=28792804"
+    "title": "The Ampere Altra Max Review: Pushing It to 128 Cores per Socket",
+    "url": "https://www.anandtech.com/show/16979/the-ampere-altra-max-review-pushing-it-to-128-cores-per-socket",
+    "upvotes": 76,
+    "author": "pella",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=28785355"
+  },
+  {
+    "title": "When did we start signing our names to authenticate documents?",
+    "url": "https://slate.com/news-and-politics/2011/03/when-did-we-start-signing-our-names-to-authenticate-documents.html",
+    "upvotes": 24,
+    "author": "martinlaz",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=28798311"
+  },
+  {
+    "title": "Autonomous drone navigates independently through the forest at 40 km/h",
+    "url": "https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html",
+    "upvotes": 363,
+    "author": "giuliomagnifico",
+    "comments": 188,
+    "link": "https://news.ycombinator.com/item?id=28792613"
+  },
+  {
+    "title": "Instanced Line Rendering Part II: Alpha Blending",
+    "url": "https://wwwtyro.net/2021/10/01/instanced-lines-part-2.html",
+    "upvotes": 76,
+    "author": "colinprince",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=28784862"
+  },
+  {
+    "title": "USPS Begins Postal Banking Pilot Program",
+    "url": "https://prospect.org/economy/usps-begins-postal-banking-pilot-program/",
+    "upvotes": 86,
+    "author": "bryanrasmussen",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=28796618"
+  },
+  {
+    "title": "Vim Anti-Patterns That Cause Beginners To:Quit",
+    "url": "https://paweldu.dev/posts/vim-anti-patterns-that-cause-beginners-to-quit/",
+    "upvotes": 53,
+    "author": "pawelduda",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=28793760"
+  },
+  {
+    "title": "Ask HN: Practically accepting cryptocurrency for businesses without middlemen?",
+    "url": "item?id=28795005",
+    "upvotes": 123,
+    "author": "hda2",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=28795005"
   }
 ]
