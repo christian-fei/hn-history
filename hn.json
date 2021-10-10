@@ -2,39 +2,47 @@
   {
     "title": "Which Version of JDK Should I Use?",
     "url": "http://whichjdk.com/",
-    "upvotes": 74,
+    "upvotes": 123,
     "author": "aiobe",
-    "comments": 47,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=28820601"
   },
   {
     "title": "Understanding Python through its builtins",
     "url": "https://sadh.life/post/builtins/",
-    "upvotes": 223,
+    "upvotes": 243,
     "author": "tusharsadhwani",
-    "comments": 39,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=28819030"
   },
   {
     "title": "Localstack – Local AWS Emulator",
     "url": "https://github.com/localstack/localstack",
-    "upvotes": 100,
+    "upvotes": 121,
     "author": "emersonrsantos",
-    "comments": 40,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=28820012"
   },
   {
     "title": "Photos from NASA's Perseverance rover indicate ancient flash floods on Mars",
     "url": "https://www.science.org/doi/10.1126/science.abl4051",
-    "upvotes": 48,
+    "upvotes": 56,
     "author": "el_duderino",
-    "comments": 9,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28820342"
+  },
+  {
+    "title": "Linux from Scratch with Training Wheels",
+    "url": "https://philsyme.github.io/lfs-tw/",
+    "upvotes": 36,
+    "author": "pthyme",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28820602"
   },
   {
     "title": "Bashcrawl: Learn Linux commands by playing a simple text adventure",
     "url": "https://gitlab.com/slackermedia/bashcrawl",
-    "upvotes": 89,
+    "upvotes": 112,
     "author": "free-malloc",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=28819387"
@@ -42,7 +50,7 @@
   {
     "title": "Using load shedding to avoid overload",
     "url": "https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/",
-    "upvotes": 153,
+    "upvotes": 168,
     "author": "kristianpaul",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=28818622"
@@ -50,189 +58,181 @@
   {
     "title": "How the biggest consumer apps got their first 1k users",
     "url": "https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got",
-    "upvotes": 65,
+    "upvotes": 80,
     "author": "tacon",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28819548"
   },
   {
     "title": "Good Leaders Know You Can’t Fight Reality",
     "url": "https://hbr.org/2021/10/good-leaders-know-you-cant-fight-reality",
-    "upvotes": 56,
+    "upvotes": 67,
     "author": "adrian_mrd",
-    "comments": 22,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=28801549"
   },
   {
-    "title": "Linux from Scratch with Training Wheels",
-    "url": "https://philsyme.github.io/lfs-tw/",
-    "upvotes": 16,
-    "author": "pthyme",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28820602"
+    "title": "My Emotions as a CEO",
+    "url": "https://ryancaldbeck.co/2021/10/08/my-emotions-as-a-ceo/",
+    "upvotes": 34,
+    "author": "mooreds",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=28809195"
   },
   {
-    "title": "Programming PIC32 Microcontroller with Rust",
-    "url": "https://gill.net.in/posts/pic32-blink-led-rust/",
-    "upvotes": 75,
-    "author": "pjmlp",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=28818853"
+    "title": "The Trouble with Checked Exceptions",
+    "url": "https://www.artima.com/articles/the-trouble-with-checked-exceptions",
+    "upvotes": 20,
+    "author": "j765",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28820613"
   },
   {
     "title": "Porter",
     "url": "https://www.ycombinator.com/companies/porter/jobs/V5kia33-ux-product-engineer"
   },
   {
-    "title": "The Trouble with Checked Exceptions",
-    "url": "https://www.artima.com/articles/the-trouble-with-checked-exceptions",
-    "upvotes": 12,
-    "author": "j765",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28820613"
+    "title": "Programming PIC32 Microcontroller with Rust",
+    "url": "https://gill.net.in/posts/pic32-blink-led-rust/",
+    "upvotes": 80,
+    "author": "pjmlp",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28818853"
   },
   {
     "title": "Kairos",
     "url": "https://en.wikipedia.org/wiki/Kairos",
-    "upvotes": 177,
+    "upvotes": 183,
     "author": "tosh",
-    "comments": 51,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=28817494"
   },
   {
     "title": "Scaling Large Production Clusters at Alibaba with Partitioned Synchronization",
     "url": "https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html",
-    "upvotes": 36,
+    "upvotes": 39,
     "author": "mlerner",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28819518"
   },
   {
-    "title": "Lunar samples returned by Chang’e-5 tell of recent volcanism",
-    "url": "https://arstechnica.com/science/2021/10/lunar-samples-returned-by-change-5-tell-of-recent-volcanism/",
-    "upvotes": 19,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28799979"
-  },
-  {
-    "title": "Suicides among Swedish men decreased after Viagra became more affordable",
-    "url": "https://sapienjournal.org/suicides-among-swedish-men-decreased-after-viagra-became-more-affordable/",
-    "upvotes": 37,
-    "author": "hheikinh",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=28820991"
-  },
-  {
-    "title": "My Emotions as a CEO",
-    "url": "https://ryancaldbeck.co/2021/10/08/my-emotions-as-a-ceo/",
-    "upvotes": 15,
-    "author": "mooreds",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28809195"
-  },
-  {
     "title": "A web app that can play musical scales according to mathematical equations",
     "url": "https://alexcrist.github.io/scaler/",
-    "upvotes": 19,
+    "upvotes": 28,
     "author": "eviledamame",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28820093"
   },
   {
-    "title": "Keybase Browser Extension Insecure",
-    "url": "https://www.grepular.com/Keybase_Browser_Extension_Insecure",
-    "upvotes": 45,
-    "author": "zdw",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=28819025"
-  },
-  {
     "title": "Are iPhones Better for Privacy? Comparative Study of iOS and Android Apps",
     "url": "https://arxiv.org/abs/2109.13722",
-    "upvotes": 93,
+    "upvotes": 102,
     "author": "zdw",
-    "comments": 82,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=28819318"
+  },
+  {
+    "title": "Suicides among Swedish men decreased after Viagra became more affordable",
+    "url": "https://sapienjournal.org/suicides-among-swedish-men-decreased-after-viagra-became-more-affordable/",
+    "upvotes": 56,
+    "author": "hheikinh",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=28820991"
+  },
+  {
+    "title": "Lunar samples returned by Chang’e-5 tell of recent volcanism",
+    "url": "https://arstechnica.com/science/2021/10/lunar-samples-returned-by-change-5-tell-of-recent-volcanism/",
+    "upvotes": 23,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28799979"
+  },
+  {
+    "title": "Keybase Browser Extension Insecure",
+    "url": "https://www.grepular.com/Keybase_Browser_Extension_Insecure",
+    "upvotes": 49,
+    "author": "zdw",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=28819025"
   },
   {
     "title": "SerenityOS: Year 3 in Review",
     "url": "https://serenityos.org/happy/3rd/",
-    "upvotes": 174,
+    "upvotes": 181,
     "author": "ingve",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=28817599"
   },
   {
     "title": "China blocks Wikimedia from entering World Intellectual Property Organization",
     "url": "https://wikimediafoundation.org/news/2021/10/05/china-again-blocks-wikimedia-foundations-accreditation-to-world-intellectual-property-organization/",
-    "upvotes": 181,
+    "upvotes": 211,
     "author": "hardmaru",
-    "comments": 42,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=28819378"
-  },
-  {
-    "title": "3D Printing Sex Toys",
-    "url": "https://www.billieruben.info/post/3d-printing-sex-toys-a-quick-easy-and-safe-method",
-    "upvotes": 98,
-    "author": "app4soft",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=28819927"
   },
   {
     "title": "M",
     "url": "https://www.mersenne.org/",
-    "upvotes": 120,
+    "upvotes": 124,
     "author": "mattashii",
-    "comments": 80,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=28817034"
   },
   {
     "title": "Leonardo, the Bipedal Robot, Can Ride a Skateboard and Walk a Slackline",
     "url": "https://www.caltech.edu/about/news/leonardo-the-bipedal-robot-can-ride-a-skateboard-and-walk-a-slackline",
-    "upvotes": 81,
+    "upvotes": 83,
     "author": "sizzle",
-    "comments": 42,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=28802532"
   },
   {
-    "title": "Reading the web offline and distraction-free",
-    "url": "https://blog.owulveryck.info/2021/10/07/reading-from-the-web-offline-and-distraction-free.html",
-    "upvotes": 31,
-    "author": "owulveryck",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28800493"
+    "title": "3D Printing Sex Toys",
+    "url": "https://www.billieruben.info/post/3d-printing-sex-toys-a-quick-easy-and-safe-method",
+    "upvotes": 106,
+    "author": "app4soft",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=28819927"
   },
   {
     "title": "Singularity – Microsoft’s Experimental OS",
     "url": "https://codingkaiser.blog/2021/07/23/operating-systems-are-more-exciting-than-you-think/",
-    "upvotes": 161,
+    "upvotes": 165,
     "author": "devev",
-    "comments": 94,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=28816876"
   },
   {
     "title": "SSH Tunneling Explained",
     "url": "https://goteleport.com/blog/ssh-tunneling-explained/",
-    "upvotes": 284,
+    "upvotes": 291,
     "author": "twakefield",
-    "comments": 45,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=28802493"
+  },
+  {
+    "title": "Reading the web offline and distraction-free",
+    "url": "https://blog.owulveryck.info/2021/10/07/reading-from-the-web-offline-and-distraction-free.html",
+    "upvotes": 37,
+    "author": "owulveryck",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=28800493"
   },
   {
     "title": "GraphSCAD – A User Friendly Nodal Editor for OpenSCAD",
     "url": "http://graphscad.blogspot.com/",
-    "upvotes": 107,
+    "upvotes": 111,
     "author": "app4soft",
-    "comments": 40,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=28817102"
   },
   {
     "title": "Taming the BPF Superpowers",
     "url": "https://lwn.net/Articles/870269/",
-    "upvotes": 53,
+    "upvotes": 59,
     "author": "belter",
-    "comments": 20,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=28817794"
   }
 ]
