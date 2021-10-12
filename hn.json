@@ -2,39 +2,55 @@
   {
     "title": "Rancher Desktop, a Docker Desktop Replacement",
     "url": "https://rancherdesktop.io/",
-    "upvotes": 165,
+    "upvotes": 190,
     "author": "emersonrsantos",
-    "comments": 52,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=28835690"
   },
   {
     "title": "Peter Norvig Joins Stanford HAI",
     "url": "https://hai.stanford.edu/news/peter-norvig-todays-most-pressing-questions-ai-are-human-centered",
-    "upvotes": 330,
+    "upvotes": 346,
     "author": "azhenley",
-    "comments": 62,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=28833933"
+  },
+  {
+    "title": "Use Raspberry Pi as Airplay server to screen mirror on TVs, monitors, projectors",
+    "url": "https://github.com/rahul-thakoor/air-pi-play",
+    "upvotes": 19,
+    "author": "codewithcheese",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28836382"
   },
   {
     "title": "Sony to join TSMC on new $7B chip plant in Japan",
     "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/Sony-to-join-TSMC-on-new-7bn-chip-plant-in-Japan",
-    "upvotes": 516,
+    "upvotes": 523,
     "author": "thedday",
-    "comments": 147,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=28830921"
   },
   {
     "title": "The Home Depot Teams Up with Walmart to Expand Same-Day and Next-Day Delivery",
     "url": "https://corporate.homedepot.com/newsroom/expands-same-day-next-day-delivery-with-walmart",
-    "upvotes": 72,
+    "upvotes": 79,
     "author": "mc32",
-    "comments": 27,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=28835317"
+  },
+  {
+    "title": "Up to 600 watts of power for graphics cards with the new PCIe 5.0 powerconnector",
+    "url": "https://www.igorslab.de/en/up-to-600-watt-power-for-graphics-cards-with-the-new-pcie-5-0-adapter-nvidias-rtx-3090-ti-makes-the-start-exclusive/",
+    "upvotes": 33,
+    "author": "jsiepkes",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=28826552"
   },
   {
     "title": "Nvidia releases Alias-Free GAN code and pre-trained models, naming it StyleGAN3",
     "url": "https://github.com/NVlabs/stylegan3",
-    "upvotes": 164,
+    "upvotes": 169,
     "author": "polisteps",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=28833213"
@@ -42,197 +58,181 @@
   {
     "title": "Fosscord is a free open-source discord compatible chat, voice and video platform",
     "url": "https://github.com/fosscord/fosscord",
-    "upvotes": 286,
+    "upvotes": 296,
     "author": "thunderbong",
-    "comments": 84,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=28830640"
   },
   {
     "title": "2,050-year-old Roman tomb offers insights on ancient concrete resilience",
     "url": "https://news.mit.edu/2021/roman-tomb-offers-insights-ancient-concrete-resilience-1008",
-    "upvotes": 102,
+    "upvotes": 110,
     "author": "mmastrac",
-    "comments": 34,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=28833525"
-  },
-  {
-    "title": "Up to 600 watts of power for graphics cards with the new PCIe 5.0 powerconnector",
-    "url": "https://www.igorslab.de/en/up-to-600-watt-power-for-graphics-cards-with-the-new-pcie-5-0-adapter-nvidias-rtx-3090-ti-makes-the-start-exclusive/",
-    "upvotes": 24,
-    "author": "jsiepkes",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28826552"
-  },
-  {
-    "title": "Solar-powered aircraft flown for nearly three weeks without landing",
-    "url": "https://eandt.theiet.org/content/articles/2021/10/solar-powered-aircraft-flown-for-nearly-three-weeks-without-landing/",
-    "upvotes": 319,
-    "author": "OJFord",
-    "comments": 166,
-    "link": "https://news.ycombinator.com/item?id=28829668"
   },
   {
     "title": "Structured Identifiers",
     "url": "https://pernos.co/blog/structured-identifiers/",
-    "upvotes": 7,
+    "upvotes": 13,
     "author": "roca",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28836151"
   },
   {
+    "title": "Solar-powered aircraft flown for nearly three weeks without landing",
+    "url": "https://eandt.theiet.org/content/articles/2021/10/solar-powered-aircraft-flown-for-nearly-three-weeks-without-landing/",
+    "upvotes": 326,
+    "author": "OJFord",
+    "comments": 171,
+    "link": "https://news.ycombinator.com/item?id=28829668"
+  },
+  {
     "title": "Pro rata is a bad term for founders",
     "url": "https://blog.aaronkharris.com/pro-rata-is-a-bad-term",
-    "upvotes": 130,
+    "upvotes": 134,
     "author": "akharris",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=28828907"
+  },
+  {
+    "title": "Amazon will allow many employees to work remotely indefinitely",
+    "url": "https://www.seattletimes.com/business/amazon/amazon-will-allow-many-employees-to-work-remotely-indefinitely/",
+    "upvotes": 453,
+    "author": "chickenpotpie",
+    "comments": 368,
+    "link": "https://news.ycombinator.com/item?id=28831031"
   },
   {
     "title": "FAA Fumbled Its Response to a Surge in GPS Jamming",
     "url": "https://spectrum.ieee.org/gps-jamming",
-    "upvotes": 110,
+    "upvotes": 112,
     "author": "throw0101a",
-    "comments": 104,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=28832616"
   },
   {
     "title": "Hacking YouTube with a MP4",
     "url": "https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html",
-    "upvotes": 205,
+    "upvotes": 210,
     "author": "Keyb0ardWarr10r",
-    "comments": 58,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=28831347"
-  },
-  {
-    "title": "Amazon will allow many employees to work remotely indefinitely",
-    "url": "https://www.seattletimes.com/business/amazon/amazon-will-allow-many-employees-to-work-remotely-indefinitely/",
-    "upvotes": 435,
-    "author": "chickenpotpie",
-    "comments": 356,
-    "link": "https://news.ycombinator.com/item?id=28831031"
-  },
-  {
-    "title": "Ancient Courses: Harold Fisk’s Meander Maps of the Mississippi River",
-    "url": "https://publicdomainreview.org/collection/maps-of-the-lower-mississippi-harold-fisk/",
-    "upvotes": 32,
-    "author": "dthal",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28826005"
-  },
-  {
-    "title": "Farm equipment security at DEF CON 29",
-    "url": "https://www.kaspersky.com/blog/hacking-agriculture-defcon29/42402/",
-    "upvotes": 121,
-    "author": "artbristol",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=28831673"
-  },
-  {
-    "title": "‘Give away your Legos’ and other commandments for scaling startups",
-    "url": "https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups",
-    "upvotes": 105,
-    "author": "ali92hm",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=28833628"
   },
   {
     "title": "Generic CRC algorithm generator, from Mark Adler",
     "url": "https://github.com/madler/crcany",
-    "upvotes": 25,
+    "upvotes": 27,
     "author": "childintime",
-    "comments": 8,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28808903"
+  },
+  {
+    "title": "Farm equipment security at DEF CON 29",
+    "url": "https://www.kaspersky.com/blog/hacking-agriculture-defcon29/42402/",
+    "upvotes": 125,
+    "author": "artbristol",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=28831673"
+  },
+  {
+    "title": "Ancient Courses: Harold Fisk’s Meander Maps of the Mississippi River",
+    "url": "https://publicdomainreview.org/collection/maps-of-the-lower-mississippi-harold-fisk/",
+    "upvotes": 34,
+    "author": "dthal",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=28826005"
   },
   {
     "title": "Memcached vs. Redis – More Different Than You Would Expect",
     "url": "https://engineering.kablamo.com.au/posts/2021/memcached-vs-redis-whats-the-difference/",
-    "upvotes": 188,
+    "upvotes": 193,
     "author": "kelseyfrog",
-    "comments": 35,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=28830007"
   },
   {
     "title": "My first industry job: lies, deceptions, and layoffs",
     "url": "https://jeremyaboyd.com/post/my-first-industry-job",
-    "upvotes": 195,
+    "upvotes": 200,
     "author": "azhenley",
-    "comments": 125,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=28829547"
+  },
+  {
+    "title": "‘Give away your Legos’ and other commandments for scaling startups",
+    "url": "https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups",
+    "upvotes": 109,
+    "author": "ali92hm",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=28833628"
+  },
+  {
+    "title": "Optimising Common Lisp to try and beat Java and Rust on phone encoding 2/2",
+    "url": "https://renato.athaydes.com/posts/revenge_of_lisp-part-2.html",
+    "upvotes": 18,
+    "author": "mark254",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28825307"
   },
   {
     "title": "The Microsoft MFA system almost brought me to a nervous breakdown",
     "url": "https://kgizdov.medium.com/the-efficiency-of-microsoft-e50ea81f69f5",
-    "upvotes": 230,
+    "upvotes": 248,
     "author": "kgizdov",
-    "comments": 85,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=28834260"
   },
   {
     "title": "And you will know us by the company we keep",
     "url": "https://www.eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep",
-    "upvotes": 242,
+    "upvotes": 245,
     "author": "jger15",
     "comments": 79,
     "link": "https://news.ycombinator.com/item?id=28829843"
-  },
-  {
-    "title": "Show HN: YoHa – A practical hand tracking engine",
-    "url": "https://handtracking.io",
-    "upvotes": 226,
-    "author": "b-3-n",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=28825820"
   },
   {
     "title": "AtoB",
     "url": "https://careers.atob.com/"
   },
   {
-    "title": "Megatron-Turing NLG 530B, the World’s Largest Generative Language Model",
-    "url": "https://developer.nvidia.com/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/",
-    "upvotes": 94,
-    "author": "selimonder",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=28827957"
+    "title": "Best Practices",
+    "url": "https://fev.al/posts/best-practices/",
+    "upvotes": 3,
+    "author": "charles_f",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28829898"
+  },
+  {
+    "title": "Show HN: YoHa – A practical hand tracking engine",
+    "url": "https://handtracking.io",
+    "upvotes": 231,
+    "author": "b-3-n",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=28825820"
   },
   {
     "title": "Is going to the office a broken way of working?",
     "url": "https://www.newyorker.com/culture/office-space/is-going-to-the-office-a-broken-way-of-working",
-    "upvotes": 278,
+    "upvotes": 282,
     "author": "sien",
-    "comments": 343,
+    "comments": 349,
     "link": "https://news.ycombinator.com/item?id=28831828"
+  },
+  {
+    "title": "Megatron-Turing NLG 530B, the World’s Largest Generative Language Model",
+    "url": "https://developer.nvidia.com/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/",
+    "upvotes": 95,
+    "author": "selimonder",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=28827957"
   },
   {
     "title": "Open Source Tractor",
     "url": "https://opensourceecology.dozuki.com/c/LifeTrac",
-    "upvotes": 753,
+    "upvotes": 757,
     "author": "vincent_s",
     "comments": 187,
     "link": "https://news.ycombinator.com/item?id=28827785"
-  },
-  {
-    "title": "Optimising Common Lisp to try and beat Java and Rust on phone encoding 2/2",
-    "url": "https://renato.athaydes.com/posts/revenge_of_lisp-part-2.html",
-    "upvotes": 14,
-    "author": "mark254",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28825307"
-  },
-  {
-    "title": "World’s deadliest bird was raised by people 18,000 years ago",
-    "url": "https://www.nytimes.com/2021/09/28/science/most-dangerous-bird-cassowary.html",
-    "upvotes": 41,
-    "author": "anyonecancode",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=28834381"
-  },
-  {
-    "title": "Full WireGuard Support in ProtonVPN for Android",
-    "url": "https://github.com/ProtonVPN/android-app/releases/tag/2.9.0.28",
-    "upvotes": 93,
-    "author": "xook",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=28831393"
   }
 ]
