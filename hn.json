@@ -2,66 +2,74 @@
   {
     "title": "IoT hacking and rickrolling my high school district",
     "url": "https://whitehoodhacker.net/posts/2021-10-04-the-big-rick",
-    "upvotes": 1248,
+    "upvotes": 1281,
     "author": "revicon",
-    "comments": 282,
+    "comments": 284,
     "link": "https://news.ycombinator.com/item?id=28844101"
-  },
-  {
-    "title": "OVH is down along with its status page",
-    "url": "https://status.ovh.com",
-    "upvotes": 139,
-    "author": "rgun",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=28849319"
   },
   {
     "title": "GTFOBins",
     "url": "https://gtfobins.github.io/",
-    "upvotes": 25,
+    "upvotes": 51,
     "author": "matthberg",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28849101"
+  },
+  {
+    "title": "OVH is down along with its status page",
+    "url": "https://status.ovh.com",
+    "upvotes": 162,
+    "author": "rgun",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=28849319"
   },
   {
     "title": "GCP releases Spot VMs, the next generation of Pre-emptible VMs",
     "url": "https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms",
-    "upvotes": 90,
+    "upvotes": 95,
     "author": "drimphgol",
-    "comments": 58,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=28847909"
-  },
-  {
-    "title": "Showing GUIs from Shell Scripts",
-    "url": "https://sixtyfps.io/blog/showing-guis-from-shell-scripts.html",
-    "upvotes": 40,
-    "author": "ogoffart",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=28848858"
   },
   {
     "title": "Meterorite chunk crashes into house, bedroom, pillow",
     "url": "https://www.cbc.ca/news/canada/british-columbia/meteorite-crashes-into-womans-bedroom-golden-bc-1.6207904",
-    "upvotes": 324,
+    "upvotes": 332,
     "author": "walrus01",
-    "comments": 187,
+    "comments": 194,
     "link": "https://news.ycombinator.com/item?id=28845505"
+  },
+  {
+    "title": "Showing GUIs from Shell Scripts",
+    "url": "https://sixtyfps.io/blog/showing-guis-from-shell-scripts.html",
+    "upvotes": 55,
+    "author": "ogoffart",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=28848858"
+  },
+  {
+    "title": "Chernobyl’s Blown Up Reactor 4 Just Woke Up",
+    "url": "https://historyofyesterday.com/chernobyls-blown-up-reactor-4-just-woke-up-74bedd5fc92d?gi=404e39cf92f1",
+    "upvotes": 20,
+    "author": "illuminated",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=28849695"
   },
   {
     "title": "Tiny ELF Files: Revisited in 2021",
     "url": "https://nathanotterness.com/2021/10/tiny_elf_modernized.html",
-    "upvotes": 57,
+    "upvotes": 65,
     "author": "zdw",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28848070"
   },
   {
-    "title": "To catch a hacker in my home lab",
-    "url": "https://marcusedmondson.com/2021/07/15/to-catch-a-hacker-in-my-home-lab/",
-    "upvotes": 60,
-    "author": "risk",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28839711"
+    "title": "How Laravel Livewire works",
+    "url": "https://calebporzio.com/how-livewire-works-a-deep-dive",
+    "upvotes": 27,
+    "author": "clementmas",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=28837333"
   },
   {
     "title": "Jerry",
@@ -70,23 +78,23 @@
   {
     "title": "Show HN: A world map of 24x365 average temperature “fingerprints”",
     "url": "https://weatherspark.com/map",
-    "upvotes": 260,
+    "upvotes": 261,
     "author": "jacobn",
-    "comments": 47,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=28845089"
   },
   {
-    "title": "How Laravel Livewire works",
-    "url": "https://calebporzio.com/how-livewire-works-a-deep-dive",
-    "upvotes": 19,
-    "author": "clementmas",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28837333"
+    "title": "To catch a hacker in my home lab",
+    "url": "https://marcusedmondson.com/2021/07/15/to-catch-a-hacker-in-my-home-lab/",
+    "upvotes": 64,
+    "author": "risk",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=28839711"
   },
   {
     "title": "Evidence of people on the Azores archipelago 700 years earlier than thought",
     "url": "https://phys.org/news/2021-10-evidence-people-azores-archipelago-years.html",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "Hooke",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28831319"
@@ -94,15 +102,31 @@
   {
     "title": "Android phones are sending significant amount of user data with no opt-out [pdf]",
     "url": "https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf",
-    "upvotes": 460,
+    "upvotes": 470,
     "author": "giuliomagnifico",
-    "comments": 258,
+    "comments": 268,
     "link": "https://news.ycombinator.com/item?id=28830328"
+  },
+  {
+    "title": "Who was buried with Nestor’s Cup? Macroscopic and microscopic analyses",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257368",
+    "upvotes": 5,
+    "author": "diodorus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28825210"
+  },
+  {
+    "title": "Apple Set to Cut iPhone Production Goals Due to Chip Crunch",
+    "url": "https://www.bloomberg.com/news/articles/2021-10-12/apple-poised-to-slash-iphone-production-goals-due-to-chip-crunch",
+    "upvotes": 25,
+    "author": "gardaani",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=28849462"
   },
   {
     "title": "New PostgreSQL Interface for Cloud Spanner",
     "url": "https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interface-adds-familiarity-and-portability-cloud-spanner",
-    "upvotes": 167,
+    "upvotes": 173,
     "author": "aleyan",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=28844770"
@@ -110,23 +134,15 @@
   {
     "title": "Why birds can fly over Mount Everest",
     "url": "https://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest",
-    "upvotes": 204,
+    "upvotes": 207,
     "author": "Phithagoras",
-    "comments": 70,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=28844872"
-  },
-  {
-    "title": "Apple Set to Cut iPhone Production Goals Due to Chip Crunch",
-    "url": "https://www.bloomberg.com/news/articles/2021-10-12/apple-poised-to-slash-iphone-production-goals-due-to-chip-crunch",
-    "upvotes": 16,
-    "author": "gardaani",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28849462"
   },
   {
     "title": "SQL for Distributed Systems",
     "url": "https://www.babbling.fish/elt-cookbook-sql/",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "babblingfish",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28834117"
@@ -134,66 +150,66 @@
   {
     "title": "SHA-1 'fully and practically broken' by new collision",
     "url": "https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision",
-    "upvotes": 248,
+    "upvotes": 251,
     "author": "ofou",
-    "comments": 167,
+    "comments": 168,
     "link": "https://news.ycombinator.com/item?id=28844142"
   },
   {
-    "title": "Who was buried with Nestor’s Cup? Macroscopic and microscopic analyses",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257368",
-    "upvotes": 3,
-    "author": "diodorus",
+    "title": "A QEMU case study in grappling with software complexity",
+    "url": "https://lwn.net/SubscriberLink/872321/2e4d8002f40ae38d/",
+    "upvotes": 7,
+    "author": "Tomte",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28825210"
+    "link": "https://news.ycombinator.com/item?id=28849294"
   },
   {
     "title": "The Problem with Macros",
     "url": "https://ianthehenry.com/posts/janet-game/the-problem-with-macros/",
-    "upvotes": 120,
+    "upvotes": 122,
     "author": "todsacerdoti",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=28845971"
   },
   {
-    "title": "History of Mathematics Project",
-    "url": "https://history-of-mathematics.org/",
-    "upvotes": 62,
-    "author": "WithinReason",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28846447"
-  },
-  {
     "title": "SRE Doesn’t Scale",
     "url": "https://bravenewgeek.com/sre-doesnt-scale/",
-    "upvotes": 126,
+    "upvotes": 133,
     "author": "kiyanwang",
-    "comments": 79,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=28825352"
   },
   {
     "title": "Mechanical sympathy for QR codes: making NSW check-in better",
     "url": "https://huonw.github.io/blog/2021/10/nsw-covid-qr/",
-    "upvotes": 110,
+    "upvotes": 116,
     "author": "dbaupp",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=28845424"
   },
   {
-    "title": "Reversal of cognitive decline: A novel therapeutic program",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4221920/",
-    "upvotes": 166,
-    "author": "lawrenceyan",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=28845783"
+    "title": "History of Mathematics Project",
+    "url": "https://history-of-mathematics.org/",
+    "upvotes": 63,
+    "author": "WithinReason",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28846447"
   },
   {
     "title": "Sending Emails to Myself",
     "url": "https://voussoir.net/writing/emailing_myself",
-    "upvotes": 116,
+    "upvotes": 118,
     "author": "voussoir",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=28821341"
+  },
+  {
+    "title": "Reversal of cognitive decline: A novel therapeutic program",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4221920/",
+    "upvotes": 169,
+    "author": "lawrenceyan",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=28845783"
   },
   {
     "title": "Ten Years of Rows and Columns",
@@ -204,35 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=28846024"
   },
   {
-    "title": "Facebook's Novi wallet hits trouble as two top engineers depart",
-    "url": "https://financefeeds.com/facebooks-novi-wallet-hits-trouble-as-two-top-engineers-depart/",
-    "upvotes": 108,
-    "author": "cinquemb",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=28846371"
-  },
-  {
     "title": "Monorepos and Forced Migrations",
     "url": "https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/",
-    "upvotes": 83,
+    "upvotes": 84,
     "author": "zdw",
-    "comments": 63,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=28845570"
   },
   {
-    "title": "Self Destructing Plastics via Embedded Enzymes",
-    "url": "https://contest.techbriefs.com/2021/entries/sustainable-technologies-future-energy/11344",
-    "upvotes": 80,
-    "author": "baybal2",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=28843072"
-  },
-  {
-    "title": "Slack LaTeX",
-    "url": "https://blog.c0nrad.io/posts/slack-latex/",
-    "upvotes": 52,
-    "author": "c0nrad",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28835660"
+    "title": "Facebook's Novi wallet hits trouble as two top engineers depart",
+    "url": "https://financefeeds.com/facebooks-novi-wallet-hits-trouble-as-two-top-engineers-depart/",
+    "upvotes": 111,
+    "author": "cinquemb",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=28846371"
   }
 ]
