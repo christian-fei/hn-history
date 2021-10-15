@@ -2,23 +2,23 @@
   {
     "title": "Carp – A statically typed Lisp, without a GC, for real-time applications",
     "url": "https://github.com/carp-lang/Carp",
-    "upvotes": 50,
+    "upvotes": 64,
     "author": "fuzzythinker",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28875051"
   },
   {
     "title": "Oculess – Removes account requirements and telemetry from Oculus Quest devices",
     "url": "https://github.com/basti564/Oculess",
-    "upvotes": 594,
+    "upvotes": 605,
     "author": "detaro",
-    "comments": 257,
+    "comments": 261,
     "link": "https://news.ycombinator.com/item?id=28869462"
   },
   {
     "title": "OpenBSD Webzine Issue #2",
     "url": "https://webzine.puffy.cafe/issue-2.html",
-    "upvotes": 20,
+    "upvotes": 30,
     "author": "hucste",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=28875199"
@@ -26,31 +26,39 @@
   {
     "title": "Former Boeing 737 Max Chief Technical Pilot Indicted for Fraud",
     "url": "https://www.justice.gov/usao-ndtx/pr/former-boeing-737-max-chief-technical-pilot-indicted-fraud",
-    "upvotes": 312,
+    "upvotes": 320,
     "author": "frisco",
-    "comments": 197,
+    "comments": 211,
     "link": "https://news.ycombinator.com/item?id=28871008"
   },
   {
     "title": "Remote OK Open Startup",
     "url": "https://remoteok.io/open",
-    "upvotes": 147,
+    "upvotes": 158,
     "author": "enjoyyourlife",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=28873956"
+  },
+  {
+    "title": "V8 Release v9.6",
+    "url": "https://v8.dev/blog/v8-release-96",
+    "upvotes": 8,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28875578"
   },
   {
     "title": "How to win at CORS",
     "url": "https://jakearchibald.com/2021/cors/",
-    "upvotes": 155,
+    "upvotes": 163,
     "author": "jaffathecake",
-    "comments": 56,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=28861944"
   },
   {
     "title": "The void in Calgary: How office towers emptied in a once bustling downtown",
     "url": "https://www.theglobeandmail.com/canada/alberta/article-the-void-in-calgary-how-office-towers-emptied-in-a-once-bustling/",
-    "upvotes": 81,
+    "upvotes": 85,
     "author": "Geekette",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=28873926"
@@ -58,106 +66,114 @@
   {
     "title": "We Tried Baseball and It Didn't Work",
     "url": "https://ronjeffries.com/xprog/articles/jatbaseball/",
-    "upvotes": 44,
+    "upvotes": 50,
     "author": "DeathArrow",
-    "comments": 28,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=28836903"
   },
   {
     "title": "Multiple vulnerabilities in WP Fastest Cache plugin",
     "url": "https://jetpack.com/2021/10/14/multiple-vulnerabilities-in-wp-fastest-cache-plugin/",
-    "upvotes": 76,
+    "upvotes": 78,
     "author": "decrypt",
-    "comments": 30,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=28873316"
+  },
+  {
+    "title": "Create and share beautiful images of your source code",
+    "url": "https://carbon.now.sh/",
+    "upvotes": 88,
+    "author": "omarfarooq",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=28874123"
   },
   {
     "title": "Emacs Lisp Readable Closures",
     "url": "https://nullprogram.com/blog/2013/12/30/",
-    "upvotes": 50,
+    "upvotes": 55,
     "author": "nanna",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28862735"
   },
   {
-    "title": "Create and share beautiful images of your source code",
-    "url": "https://carbon.now.sh/",
-    "upvotes": 82,
-    "author": "omarfarooq",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=28874123"
-  },
-  {
     "title": "The Serde Rust Framework",
     "url": "https://serde.rs/",
-    "upvotes": 290,
+    "upvotes": 296,
     "author": "ur-whale",
-    "comments": 113,
+    "comments": 116,
     "link": "https://news.ycombinator.com/item?id=28869970"
+  },
+  {
+    "title": "VoloDrone Heavy-Lift Cargo Drone Makes First Public Flight",
+    "url": "https://www.lloydsloadinglist.com/freight-directory/news/VoloDrone-heavy-lift-cargo-drone-makes-first-public-flight/80104.htm",
+    "upvotes": 5,
+    "author": "infodocket",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28860544"
   },
   {
     "title": "Postgres text search: balancing query time and relevancy",
     "url": "https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and-relevancy/",
-    "upvotes": 47,
+    "upvotes": 50,
     "author": "SerCe",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28873779"
   },
   {
+    "title": "YJIT: Building a New JIT Compiler for CRuby",
+    "url": "https://shopify.engineering/yjit-just-in-time-compiler-cruby",
+    "upvotes": 29,
+    "author": "tarellel",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=28874283"
+  },
+  {
     "title": "IBM Computing Cheese Cutter Restoration [video]",
     "url": "https://www.youtube.com/watch?v=z8VhNF_0I5c",
-    "upvotes": 93,
+    "upvotes": 95,
     "author": "zdw",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=28852811"
+  },
+  {
+    "title": "Show HN: Download videos, but only the parts you want",
+    "url": "https://videodownloadtool.io",
+    "upvotes": 65,
+    "author": "foxbarrington",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=28854823"
+  },
+  {
+    "title": "New Zealand council ends contract with wizard after 23 years of service",
+    "url": "https://www.theguardian.com/world/2021/oct/15/new-zealand-council-ends-contract-with-wizard-after-two-decades-of-service",
+    "upvotes": 17,
+    "author": "samizdis",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28875463"
+  },
+  {
+    "title": "First Ever Image of a Multi-Planet System Around a Sun-Like Star",
+    "url": "https://www.eso.org/public/news/eso2011/",
+    "upvotes": 141,
+    "author": "echelon",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=28869482"
   },
   {
     "title": "Imitating Deep Learning Dynamics via Stochastic Differential Equations",
     "url": "https://arxiv.org/abs/2110.05960",
     "upvotes": 91,
     "author": "jiayaozhang",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=28864171"
-  },
-  {
-    "title": "First Ever Image of a Multi-Planet System Around a Sun-Like Star",
-    "url": "https://www.eso.org/public/news/eso2011/",
-    "upvotes": 139,
-    "author": "echelon",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=28869482"
-  },
-  {
-    "title": "Show HN: Download videos, but only the parts you want",
-    "url": "https://videodownloadtool.io",
-    "upvotes": 63,
-    "author": "foxbarrington",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=28854823"
-  },
-  {
-    "title": "YJIT: Building a New JIT Compiler for CRuby",
-    "url": "https://shopify.engineering/yjit-just-in-time-compiler-cruby",
-    "upvotes": 25,
-    "author": "tarellel",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28874283"
   },
   {
     "title": "The Dust That Measures All Our Time",
     "url": "https://publicdomainreview.org/essay/the-dust-that-measures-all-our-time/",
-    "upvotes": 5,
+    "upvotes": 7,
     "author": "benbreen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28854850"
-  },
-  {
-    "title": "Habitable Software",
-    "url": "http://akkartik.name/post/habitability",
-    "upvotes": 21,
-    "author": "rasmusfabbe",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28874653"
   },
   {
     "title": "Swarm: A resource-gathering game based on robot programming, written in Haskell",
@@ -168,32 +184,48 @@
     "link": "https://news.ycombinator.com/item?id=28837496"
   },
   {
+    "title": "Habitable Software",
+    "url": "http://akkartik.name/post/habitability",
+    "upvotes": 21,
+    "author": "rasmusfabbe",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28874653"
+  },
+  {
     "title": "Spinoza’s God: Einstein believed in it, but what was it?",
     "url": "https://www.prospectmagazine.co.uk/philosophy/spinozas-religion-clare-carlisle-god-einstein-philosophy-religion-review",
-    "upvotes": 156,
+    "upvotes": 160,
     "author": "Petiver",
-    "comments": 250,
+    "comments": 253,
     "link": "https://news.ycombinator.com/item?id=28869030"
   },
   {
     "title": "Crystal 1.2.0 Is Released",
     "url": "https://crystal-lang.org/2021/10/14/1.2.0-released.html",
-    "upvotes": 117,
+    "upvotes": 121,
     "author": "weatherlight",
-    "comments": 69,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=28872769"
-  },
-  {
-    "title": "The Law of Shitty Clickthroughs",
-    "url": "https://andrewchen.com/the-law-of-shitty-clickthroughs/",
-    "upvotes": 32,
-    "author": "cwaffles",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=28866401"
   },
   {
     "title": "UpCodes is hiring our first recruiter to help automate compliance for architects",
     "url": "https://up.codes/careers#recruiter"
+  },
+  {
+    "title": "The Law of Shitty Clickthroughs",
+    "url": "https://andrewchen.com/the-law-of-shitty-clickthroughs/",
+    "upvotes": 35,
+    "author": "cwaffles",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=28866401"
+  },
+  {
+    "title": "Tech compensation in 2021",
+    "url": "https://jacobian.org/2021/oct/13/tech-salaries-2021/",
+    "upvotes": 320,
+    "author": "mjgardner",
+    "comments": 497,
+    "link": "https://news.ycombinator.com/item?id=28870464"
   },
   {
     "title": "The Kingpin of Shanghai",
@@ -202,37 +234,5 @@
     "author": "lermontov",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=28847367"
-  },
-  {
-    "title": "Tech compensation in 2021",
-    "url": "https://jacobian.org/2021/oct/13/tech-salaries-2021/",
-    "upvotes": 314,
-    "author": "mjgardner",
-    "comments": 492,
-    "link": "https://news.ycombinator.com/item?id=28870464"
-  },
-  {
-    "title": "Learn electronics technology, IT and fiber optics technology",
-    "url": "https://rsdacademy.net",
-    "upvotes": 113,
-    "author": "marchukov",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28826803"
-  },
-  {
-    "title": "LANtenna attack reveals Ethernet cable traffic contents",
-    "url": "https://www.theregister.com/2021/10/14/lantenna_ethernet_cable_rf_emissions/",
-    "upvotes": 41,
-    "author": "rcarmo",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=28862387"
-  },
-  {
-    "title": "Show HN: OtterTune – Automated Database Tuning Service for RDS MySQL/Postgres",
-    "url": "item?id=28868382",
-    "upvotes": 141,
-    "author": "apavlo",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=28868382"
   }
 ]
