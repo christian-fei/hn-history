@@ -1,154 +1,170 @@
 [
   {
-    "title": "Carp – A statically typed Lisp, without a GC, for real-time applications",
-    "url": "https://github.com/carp-lang/Carp",
-    "upvotes": 96,
-    "author": "fuzzythinker",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=28875051"
-  },
-  {
     "title": "Nomad vs. Kubernetes",
     "url": "https://www.nomadproject.io/docs/nomad-vs-kubernetes",
-    "upvotes": 44,
+    "upvotes": 64,
     "author": "capableweb",
-    "comments": 15,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=28875764"
+  },
+  {
+    "title": "Carp – A statically typed Lisp, without a GC, for real-time applications",
+    "url": "https://github.com/carp-lang/Carp",
+    "upvotes": 102,
+    "author": "fuzzythinker",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=28875051"
   },
   {
     "title": "Oculess – Removes account requirements and telemetry from Oculus Quest devices",
     "url": "https://github.com/basti564/Oculess",
-    "upvotes": 632,
+    "upvotes": 643,
     "author": "detaro",
-    "comments": 271,
+    "comments": 275,
     "link": "https://news.ycombinator.com/item?id=28869462"
-  },
-  {
-    "title": "A study of data collection by Android devices",
-    "url": "https://lwn.net/Articles/872639/",
-    "upvotes": 13,
-    "author": "dede4metal",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28875932"
-  },
-  {
-    "title": "OpenBSD Webzine Issue #2",
-    "url": "https://webzine.puffy.cafe/issue-2.html",
-    "upvotes": 47,
-    "author": "hucste",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=28875199"
   },
   {
     "title": "Former Boeing 737 Max Chief Technical Pilot Indicted for Fraud",
     "url": "https://www.justice.gov/usao-ndtx/pr/former-boeing-737-max-chief-technical-pilot-indicted-fraud",
-    "upvotes": 339,
+    "upvotes": 346,
     "author": "frisco",
-    "comments": 230,
+    "comments": 238,
     "link": "https://news.ycombinator.com/item?id=28871008"
+  },
+  {
+    "title": "OpenBSD Webzine Issue #2",
+    "url": "https://webzine.puffy.cafe/issue-2.html",
+    "upvotes": 52,
+    "author": "hucste",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=28875199"
   },
   {
     "title": "Remote OK Open Startup",
     "url": "https://remoteok.io/open",
-    "upvotes": 185,
+    "upvotes": 188,
     "author": "enjoyyourlife",
-    "comments": 40,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=28873956"
-  },
-  {
-    "title": "How to win at CORS",
-    "url": "https://jakearchibald.com/2021/cors/",
-    "upvotes": 191,
-    "author": "jaffathecake",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=28861944"
-  },
-  {
-    "title": "The void in Calgary: How office towers emptied in a once bustling downtown",
-    "url": "https://www.theglobeandmail.com/canada/alberta/article-the-void-in-calgary-how-office-towers-emptied-in-a-once-bustling/",
-    "upvotes": 98,
-    "author": "Geekette",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=28873926"
-  },
-  {
-    "title": "VoloDrone Heavy-Lift Cargo Drone Makes First Public Flight",
-    "url": "https://www.lloydsloadinglist.com/freight-directory/news/VoloDrone-heavy-lift-cargo-drone-makes-first-public-flight/80104.htm",
-    "upvotes": 15,
-    "author": "infodocket",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=28860544"
   },
   {
     "title": "We Are Beast Machines",
     "url": "https://nautil.us/issue/107/the-edge/we-are-beast-machines",
-    "upvotes": 7,
+    "upvotes": 13,
     "author": "CapitalistCartr",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28862769"
+  },
+  {
+    "title": "A study of data collection by Android devices",
+    "url": "https://lwn.net/Articles/872639/",
+    "upvotes": 22,
+    "author": "dede4metal",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28875932"
+  },
+  {
+    "title": "How to win at CORS",
+    "url": "https://jakearchibald.com/2021/cors/",
+    "upvotes": 205,
+    "author": "jaffathecake",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=28861944"
+  },
+  {
+    "title": "VoloDrone Heavy-Lift Cargo Drone Makes First Public Flight",
+    "url": "https://www.lloydsloadinglist.com/freight-directory/news/VoloDrone-heavy-lift-cargo-drone-makes-first-public-flight/80104.htm",
+    "upvotes": 20,
+    "author": "infodocket",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=28860544"
+  },
+  {
+    "title": "The void in Calgary: How office towers emptied in a once bustling downtown",
+    "url": "https://www.theglobeandmail.com/canada/alberta/article-the-void-in-calgary-how-office-towers-emptied-in-a-once-bustling/",
+    "upvotes": 106,
+    "author": "Geekette",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=28873926"
   },
   {
     "title": "Multiple vulnerabilities in WP Fastest Cache plugin",
     "url": "https://jetpack.com/2021/10/14/multiple-vulnerabilities-in-wp-fastest-cache-plugin/",
-    "upvotes": 84,
+    "upvotes": 87,
     "author": "decrypt",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=28873316"
   },
   {
     "title": "The Serde Rust Framework",
     "url": "https://serde.rs/",
-    "upvotes": 316,
+    "upvotes": 317,
     "author": "ur-whale",
-    "comments": 124,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=28869970"
   },
   {
-    "title": "V8 Release v9.6",
-    "url": "https://v8.dev/blog/v8-release-96",
-    "upvotes": 31,
-    "author": "tosh",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28875578"
+    "title": "Create and share beautiful images of your source code",
+    "url": "https://carbon.now.sh/",
+    "upvotes": 106,
+    "author": "omarfarooq",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=28874123"
   },
   {
     "title": "Emacs Lisp Readable Closures",
     "url": "https://nullprogram.com/blog/2013/12/30/",
-    "upvotes": 62,
+    "upvotes": 64,
     "author": "nanna",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28862735"
   },
   {
-    "title": "Create and share beautiful images of your source code",
-    "url": "https://carbon.now.sh/",
-    "upvotes": 102,
-    "author": "omarfarooq",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=28874123"
-  },
-  {
     "title": "Postgres text search: balancing query time and relevancy",
     "url": "https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and-relevancy/",
-    "upvotes": 63,
+    "upvotes": 70,
     "author": "SerCe",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28873779"
   },
   {
+    "title": "V8 Release v9.6",
+    "url": "https://v8.dev/blog/v8-release-96",
+    "upvotes": 32,
+    "author": "tosh",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=28875578"
+  },
+  {
+    "title": "We've spotted a planet surviving its dying star",
+    "url": "https://theconversation.com/weve-spotted-a-planet-surviving-its-dying-star-heres-what-it-tells-us-about-end-of-our-solar-system-169514",
+    "upvotes": 5,
+    "author": "gmays",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28863210"
+  },
+  {
     "title": "New Zealand council ends contract with wizard after 23 years of service",
     "url": "https://www.theguardian.com/world/2021/oct/15/new-zealand-council-ends-contract-with-wizard-after-two-decades-of-service",
-    "upvotes": 52,
+    "upvotes": 61,
     "author": "samizdis",
-    "comments": 16,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=28875463"
+  },
+  {
+    "title": "IBM Computing Cheese Cutter Restoration [video]",
+    "url": "https://www.youtube.com/watch?v=z8VhNF_0I5c",
+    "upvotes": 104,
+    "author": "zdw",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=28852811"
   },
   {
     "title": "YJIT: Building a New JIT Compiler for CRuby",
     "url": "https://shopify.engineering/yjit-just-in-time-compiler-cruby",
-    "upvotes": 38,
+    "upvotes": 41,
     "author": "tarellel",
-    "comments": 19,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28874283"
   },
   {
@@ -160,60 +176,60 @@
     "link": "https://news.ycombinator.com/item?id=28864171"
   },
   {
-    "title": "IBM Computing Cheese Cutter Restoration [video]",
-    "url": "https://www.youtube.com/watch?v=z8VhNF_0I5c",
-    "upvotes": 100,
-    "author": "zdw",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=28852811"
-  },
-  {
-    "title": "Show HN: Download videos, but only the parts you want",
-    "url": "https://videodownloadtool.io",
-    "upvotes": 77,
-    "author": "foxbarrington",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=28854823"
-  },
-  {
     "title": "First Ever Image of a Multi-Planet System Around a Sun-Like Star",
     "url": "https://www.eso.org/public/news/eso2011/",
-    "upvotes": 147,
+    "upvotes": 150,
     "author": "echelon",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=28869482"
   },
   {
-    "title": "Spinoza’s God: Einstein believed in it, but what was it?",
-    "url": "https://www.prospectmagazine.co.uk/philosophy/spinozas-religion-clare-carlisle-god-einstein-philosophy-religion-review",
-    "upvotes": 166,
-    "author": "Petiver",
-    "comments": 262,
-    "link": "https://news.ycombinator.com/item?id=28869030"
+    "title": "Show HN: Download videos, but only the parts you want",
+    "url": "https://videodownloadtool.io",
+    "upvotes": 80,
+    "author": "foxbarrington",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=28854823"
   },
   {
-    "title": "The Law of Shitty Clickthroughs",
-    "url": "https://andrewchen.com/the-law-of-shitty-clickthroughs/",
-    "upvotes": 44,
-    "author": "cwaffles",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=28866401"
+    "title": "Spinoza’s God: Einstein believed in it, but what was it?",
+    "url": "https://www.prospectmagazine.co.uk/philosophy/spinozas-religion-clare-carlisle-god-einstein-philosophy-religion-review",
+    "upvotes": 169,
+    "author": "Petiver",
+    "comments": 270,
+    "link": "https://news.ycombinator.com/item?id=28869030"
   },
   {
     "title": "Habitable Software",
     "url": "http://akkartik.name/post/habitability",
-    "upvotes": 27,
+    "upvotes": 28,
     "author": "rasmusfabbe",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28874653"
   },
   {
+    "title": "The Law of Shitty Clickthroughs",
+    "url": "https://andrewchen.com/the-law-of-shitty-clickthroughs/",
+    "upvotes": 46,
+    "author": "cwaffles",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=28866401"
+  },
+  {
     "title": "Swarm: A resource-gathering game based on robot programming, written in Haskell",
     "url": "https://github.com/byorgey/swarm",
-    "upvotes": 87,
+    "upvotes": 89,
     "author": "Eugeleo",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=28837496"
+  },
+  {
+    "title": "Crystal 1.2.0",
+    "url": "https://crystal-lang.org/2021/10/14/1.2.0-released.html",
+    "upvotes": 132,
+    "author": "weatherlight",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=28872769"
   },
   {
     "title": "The Dust That Measures All Our Time",
@@ -222,21 +238,5 @@
     "author": "benbreen",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28854850"
-  },
-  {
-    "title": "Crystal 1.2.0",
-    "url": "https://crystal-lang.org/2021/10/14/1.2.0-released.html",
-    "upvotes": 130,
-    "author": "weatherlight",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=28872769"
-  },
-  {
-    "title": "The Kingpin of Shanghai",
-    "url": "https://www.damninteresting.com/the-kingpin-of-shanghai/",
-    "upvotes": 41,
-    "author": "lermontov",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=28847367"
   }
 ]
