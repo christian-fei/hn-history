@@ -1,80 +1,96 @@
 [
   {
+    "title": "Wearable Microphone Jamming",
+    "url": "http://sandlab.cs.uchicago.edu/jammer/",
+    "upvotes": 23,
+    "author": "graderjs",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28885739"
+  },
+  {
     "title": "Theory of Computation ocw course",
     "url": "https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/",
-    "upvotes": 35,
+    "upvotes": 50,
     "author": "charlysl",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28885313"
   },
   {
     "title": "A viable solution for Python concurrency",
     "url": "https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/",
-    "upvotes": 604,
+    "upvotes": 614,
     "author": "zorgmonkey",
-    "comments": 254,
+    "comments": 258,
     "link": "https://news.ycombinator.com/item?id=28880782"
   },
   {
     "title": "1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond",
     "url": "https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond",
-    "upvotes": 75,
+    "upvotes": 86,
     "author": "larsiusprime",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=28884837"
-  },
-  {
-    "title": "Deepdive on USDT fraud: The GrantWilliams Podcast: BennettTomlin and GeorgeNoble",
-    "url": "https://www.grant-williams.com/podcast/the-grant-williams-podcast-bennett-tomlin-george-noble/",
-    "upvotes": 22,
-    "author": "jbp",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28885235"
   },
   {
     "title": "Minias – A mini x86-64 assembler for fun and learning",
     "url": "https://github.com/andrewchambers/minias",
-    "upvotes": 51,
+    "upvotes": 57,
     "author": "todsacerdoti",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28884768"
+  },
+  {
+    "title": "Deepdive on USDT fraud: The GrantWilliams Podcast: BennettTomlin and GeorgeNoble",
+    "url": "https://www.grant-williams.com/podcast/the-grant-williams-podcast-bennett-tomlin-george-noble/",
+    "upvotes": 30,
+    "author": "jbp",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=28885235"
   },
   {
     "title": "Some reasons to work on productivity and velocity",
     "url": "https://danluu.com/productivity-velocity/",
-    "upvotes": 198,
+    "upvotes": 210,
     "author": "davidmckenna",
-    "comments": 95,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=28882043"
   },
   {
     "title": "Functional Algorithms, Verified",
     "url": "https://functional-algorithms-verified.org",
-    "upvotes": 68,
+    "upvotes": 74,
     "author": "haskellandchill",
-    "comments": 24,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=28884229"
-  },
-  {
-    "title": "Louisville sawmill challenges perception about wages",
-    "url": "https://cdispatch.com/opinions/2021-10-13/slimantics-louisville-sawmill-challenges-perception-about-wages/",
-    "upvotes": 34,
-    "author": "MaysonL",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=28884887"
   },
   {
     "title": "NixOS and the Art of OS Configuration",
     "url": "https://www.rousette.org.uk/archives/nixos-and-the-art-of-os-configuration/",
-    "upvotes": 46,
+    "upvotes": 52,
     "author": "behnamoh",
-    "comments": 9,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=28884609"
+  },
+  {
+    "title": "The “Decline and Fall” of Rome – A Dangerous Idea?",
+    "url": "https://www.lareviewofbooks.org/article/the-decline-and-fall-of-rome-a-dangerous-idea/",
+    "upvotes": 11,
+    "author": "diodorus",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28870683"
+  },
+  {
+    "title": "Louisville sawmill challenges perception about wages",
+    "url": "https://cdispatch.com/opinions/2021-10-13/slimantics-louisville-sawmill-challenges-perception-about-wages/",
+    "upvotes": 37,
+    "author": "MaysonL",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=28884887"
   },
   {
     "title": "Mezzano on Librebooted ThinkPads",
     "url": "https://www.fitzsim.org/blog/?p=445",
-    "upvotes": 198,
+    "upvotes": 199,
     "author": "lispm",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=28880888"
@@ -82,46 +98,46 @@
   {
     "title": "Ubuntu Frame; A secure, LTS display server for embedded displays [pdf]",
     "url": "https://assets.ubuntu.com/v1/713b9224-Ubuntu.Frame.Datasheet.pdf",
-    "upvotes": 63,
+    "upvotes": 67,
     "author": "No_CQRT",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28838698"
   },
   {
-    "title": "Hunting down a C memory leak in a Go program",
-    "url": "https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d",
-    "upvotes": 45,
-    "author": "xerxes901",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=28883359"
+    "title": "The Math Behind “Spot It”",
+    "url": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
+    "upvotes": 38,
+    "author": "bobbiechen",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28870721"
+  },
+  {
+    "title": "Implementing form filling and accessibility in the Firefox PDF viewer",
+    "url": "https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/",
+    "upvotes": 137,
+    "author": "xojoc",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=28880936"
   },
   {
     "title": "Circle Medical",
     "url": "https://www.ycombinator.com/companies/circle-medical/jobs/ZpIlsd7-fullstack-engineer-react-js-ruby-rails"
   },
   {
-    "title": "The Math Behind “Spot It”",
-    "url": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
-    "upvotes": 32,
-    "author": "bobbiechen",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=28870721"
-  },
-  {
-    "title": "Implementing form filling and accessibility in the Firefox PDF viewer",
-    "url": "https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/",
-    "upvotes": 135,
-    "author": "xojoc",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=28880936"
-  },
-  {
     "title": "Open source is coming to financial services",
     "url": "https://future.a16z.com/open-source-financial-services/",
-    "upvotes": 177,
+    "upvotes": 181,
     "author": "jseliger",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=28879133"
+  },
+  {
+    "title": "Hunting down a C memory leak in a Go program",
+    "url": "https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d",
+    "upvotes": 53,
+    "author": "xerxes901",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=28883359"
   },
   {
     "title": "Explore the most detailed map of the universe – EPFL Longread",
@@ -134,31 +150,23 @@
   {
     "title": "“Progress” by Aldous Huxley",
     "url": "https://atlasofplaces.com/essays/progress/",
-    "upvotes": 17,
+    "upvotes": 18,
     "author": "apollinaire",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28858562"
-  },
-  {
-    "title": "The “Decline and Fall” of Rome – A Dangerous Idea?",
-    "url": "https://www.lareviewofbooks.org/article/the-decline-and-fall-of-rome-a-dangerous-idea/",
-    "upvotes": 6,
-    "author": "diodorus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28870683"
   },
   {
     "title": "Scaling Indexing and Search – Algolia New Search Architecture",
     "url": "http://highscalability.com/blog/2021/10/11/scaling-indexing-and-search-algolia-new-search-architecture.html",
     "upvotes": 57,
     "author": "yarapavan",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28838583"
   },
   {
     "title": "Cortical Column Networks",
     "url": "https://thesmartrobot.github.io/2021/08/26/thousand-brains.html",
-    "upvotes": 27,
+    "upvotes": 28,
     "author": "RageoftheRobots",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28883875"
@@ -166,41 +174,25 @@
   {
     "title": "DX-Ball",
     "url": "https://dx-ball.ru/",
-    "upvotes": 13,
+    "upvotes": 16,
     "author": "indigodaddy",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28884699"
   },
   {
     "title": "Review of the Buick Riviera’s ‘touchscreen’ from 1986 [video]",
     "url": "https://www.youtube.com/watch?v=mEzEbS4uvuo",
-    "upvotes": 94,
+    "upvotes": 96,
     "author": "giuliomagnifico",
     "comments": 65,
     "link": "https://news.ycombinator.com/item?id=28836522"
   },
   {
-    "title": "Apple fires leader of AppleToo movement",
-    "url": "https://appleinsider.com/articles/21/10/15/apple-fires-leader-of-appletoo-movement",
-    "upvotes": 117,
-    "author": "fortran77",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=28885093"
-  },
-  {
-    "title": "Neutralizing antibodies from the B cells of 1918 influenza pandemic survivors",
-    "url": "https://europepmc.org/article/PMC/PMC2848880",
-    "upvotes": 3,
-    "author": "Gibbon1",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28885673"
-  },
-  {
     "title": "Save the Scribe: the women who worked with medieval manuscripts",
     "url": "https://www.laphamsquarterly.org/roundtable/save-scribe",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "drdee",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=28869193"
   },
   {
@@ -214,25 +206,33 @@
   {
     "title": "Most Canadians believe Facebook harms their mental health",
     "url": "https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/",
-    "upvotes": 600,
+    "upvotes": 607,
     "author": "elorant",
-    "comments": 238,
+    "comments": 241,
     "link": "https://news.ycombinator.com/item?id=28878991"
+  },
+  {
+    "title": "“as_strided” and “sum” are all you need",
+    "url": "https://jott.live/markdown/as_strided",
+    "upvotes": 59,
+    "author": "brrrrrm",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28883086"
   },
   {
     "title": "Tether Fined $41M for Lying About Reserves",
     "url": "https://www.bloomberg.com/news/articles/2021-10-15/tether-bitfinex-to-pay-fines-totaling-42-5-million-cftc-says",
-    "upvotes": 333,
+    "upvotes": 340,
     "author": "virtualwhys",
     "comments": 224,
     "link": "https://news.ycombinator.com/item?id=28879115"
   },
   {
-    "title": "“as_strided” and “sum” are all you need",
-    "url": "https://jott.live/markdown/as_strided",
-    "upvotes": 58,
-    "author": "brrrrrm",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28883086"
+    "title": "Speed Matters",
+    "url": "https://scattered-thoughts.net/writing/speed-matters/",
+    "upvotes": 185,
+    "author": "U1F984",
+    "comments": 125,
+    "link": "https://news.ycombinator.com/item?id=28879240"
   }
 ]
