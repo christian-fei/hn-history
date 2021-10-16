@@ -2,79 +2,79 @@
   {
     "title": "Kanidm: A simple, secure and fast identity management platform",
     "url": "https://github.com/kanidm/kanidm",
-    "upvotes": 34,
+    "upvotes": 43,
     "author": "haveyaseen",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28886636"
   },
   {
     "title": "Wearable Microphone Jamming",
     "url": "http://sandlab.cs.uchicago.edu/jammer/",
-    "upvotes": 166,
+    "upvotes": 176,
     "author": "graderjs",
-    "comments": 40,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=28885739"
-  },
-  {
-    "title": "How to Safely Think in Systems",
-    "url": "https://lethain.com/how-to-safely-think-in-systems/",
-    "upvotes": 41,
-    "author": "kiyanwang",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28886376"
   },
   {
     "title": "Cracking Random Number Generators Using Machine Learning",
     "url": "https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/",
-    "upvotes": 10,
+    "upvotes": 16,
     "author": "Hard_Space",
-    "comments": 5,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=28886698"
+  },
+  {
+    "title": "How to Safely Think in Systems",
+    "url": "https://lethain.com/how-to-safely-think-in-systems/",
+    "upvotes": 44,
+    "author": "kiyanwang",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=28886376"
+  },
+  {
+    "title": "The Reemergence of Style in Software",
+    "url": "https://future.a16z.com/software-style-over-branding/",
+    "upvotes": 11,
+    "author": "sundaypancakes",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28885772"
   },
   {
     "title": "Show HN: Add a command-line interface to any C++ program",
     "url": "https://github.com/empirical-soft/command-interface",
-    "upvotes": 35,
+    "upvotes": 37,
     "author": "chrisaycock",
-    "comments": 10,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=28886328"
   },
   {
-    "title": "Proposal to add constexpr to C [pdf]",
-    "url": "http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2851.pdf",
-    "upvotes": 25,
-    "author": "pantalaimon",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=28861672"
+    "title": "Tether Discussion featuring Bennett Tomlin and George Noble",
+    "url": "https://www.grant-williams.com/podcast/the-grant-williams-podcast-bennett-tomlin-george-noble/",
+    "upvotes": 83,
+    "author": "jbp",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=28885235"
   },
   {
     "title": "1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond",
     "url": "https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond",
-    "upvotes": 136,
+    "upvotes": 139,
     "author": "larsiusprime",
-    "comments": 36,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=28884837"
-  },
-  {
-    "title": "Deepdive on USDT fraud: The GrantWilliams Podcast: BennettTomlin and GeorgeNoble",
-    "url": "https://www.grant-williams.com/podcast/the-grant-williams-podcast-bennett-tomlin-george-noble/",
-    "upvotes": 78,
-    "author": "jbp",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=28885235"
   },
   {
     "title": "Ask HN: What does one look for in a laptop these days?",
     "url": "item?id=28861949",
-    "upvotes": 82,
+    "upvotes": 87,
     "author": "godDLL",
-    "comments": 223,
+    "comments": 239,
     "link": "https://news.ycombinator.com/item?id=28861949"
   },
   {
-    "title": "Theory of Computation ocw course",
+    "title": "Theory of Computation",
     "url": "https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/",
-    "upvotes": 100,
+    "upvotes": 103,
     "author": "charlysl",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28885313"
@@ -82,27 +82,35 @@
   {
     "title": "Redis Cluster Re-Implemented in Rust: Scaling Redis Easily in Kubernetes",
     "url": "https://github.com/doyoubi/undermoon",
-    "upvotes": 52,
+    "upvotes": 55,
     "author": "doyoubi",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=28885586"
+  },
+  {
+    "title": "Proposal to add constexpr to C [pdf]",
+    "url": "http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2851.pdf",
+    "upvotes": 27,
+    "author": "pantalaimon",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=28861672"
+  },
+  {
+    "title": "Functional Algorithms, Verified",
+    "url": "https://functional-algorithms-verified.org",
+    "upvotes": 127,
+    "author": "haskellandchill",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=28884229"
   },
   {
     "title": "Writesonic",
     "url": "https://www.ycombinator.com/companies/writesonic/jobs/x3TOSI1-founding-fullstack-engineer"
   },
   {
-    "title": "Functional Algorithms, Verified",
-    "url": "https://functional-algorithms-verified.org",
-    "upvotes": 120,
-    "author": "haskellandchill",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=28884229"
-  },
-  {
     "title": "Minias – A mini x86-64 assembler for fun and learning",
     "url": "https://github.com/andrewchambers/minias",
-    "upvotes": 80,
+    "upvotes": 81,
     "author": "todsacerdoti",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28884768"
@@ -110,129 +118,121 @@
   {
     "title": "Deeper Than Pixels: A Reading List on Video Games",
     "url": "https://longreads.com/2021/10/07/deeper-than-pixels-a-reading-list-on-video-games/",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "homarp",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28885867"
   },
   {
     "title": "NixOS and the Art of OS Configuration",
     "url": "https://www.rousette.org.uk/archives/nixos-and-the-art-of-os-configuration/",
-    "upvotes": 114,
+    "upvotes": 120,
     "author": "behnamoh",
-    "comments": 43,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=28884609"
   },
   {
     "title": "The first study of individualized brain stimulation to treat severe depression",
     "url": "https://www.nytimes.com/2021/10/04/health/depression-treatment-deep-brain-stimulation.html",
-    "upvotes": 30,
+    "upvotes": 32,
     "author": "ed",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28878248"
   },
   {
-    "title": "ADOP: Approximate Differentiable One-Pixel Point Rendering",
-    "url": "https://arxiv.org/abs/2110.06635",
-    "upvotes": 11,
-    "author": "rohithkp",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28886155"
+    "title": "A viable solution for Python concurrency",
+    "url": "https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/",
+    "upvotes": 695,
+    "author": "zorgmonkey",
+    "comments": 302,
+    "link": "https://news.ycombinator.com/item?id=28880782"
   },
   {
     "title": "Ubuntu Frame; A secure, LTS display server for embedded displays [pdf]",
     "url": "https://assets.ubuntu.com/v1/713b9224-Ubuntu.Frame.Datasheet.pdf",
     "upvotes": 87,
     "author": "No_CQRT",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=28838698"
   },
   {
-    "title": "A viable solution for Python concurrency",
-    "url": "https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/",
-    "upvotes": 689,
-    "author": "zorgmonkey",
-    "comments": 301,
-    "link": "https://news.ycombinator.com/item?id=28880782"
-  },
-  {
-    "title": "The Math Behind “Spot It”",
-    "url": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
-    "upvotes": 54,
-    "author": "bobbiechen",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=28870721"
+    "title": "ADOP: Approximate Differentiable One-Pixel Point Rendering",
+    "url": "https://arxiv.org/abs/2110.06635",
+    "upvotes": 12,
+    "author": "rohithkp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28886155"
   },
   {
     "title": "Hunting down a C memory leak in a Go program",
     "url": "https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d",
-    "upvotes": 75,
+    "upvotes": 81,
     "author": "xerxes901",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=28883359"
+  },
+  {
+    "title": "Slowing Down, Yes, but to What?",
+    "url": "https://alhambrapartners.com/2021/10/15/slowing-down-yes-but-to-what/",
+    "upvotes": 17,
+    "author": "cinquemb",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=28885900"
+  },
+  {
+    "title": "The Math Behind “Spot It”",
+    "url": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
+    "upvotes": 58,
+    "author": "bobbiechen",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=28870721"
   },
   {
     "title": "Explore the most detailed map of the universe – EPFL Longread",
     "url": "https://longread.epfl.ch/en/dossier/virup/",
-    "upvotes": 60,
+    "upvotes": 63,
     "author": "rbanffy",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28883922"
   },
   {
-    "title": "Slowing Down, Yes, but to What?",
-    "url": "https://alhambrapartners.com/2021/10/15/slowing-down-yes-but-to-what/",
-    "upvotes": 15,
-    "author": "cinquemb",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=28885900"
-  },
-  {
-    "title": "Warped Portraits of the 1930s",
-    "url": "https://www.unseenhistories.com/warped-portraits",
-    "upvotes": 4,
-    "author": "apollinaire",
+    "title": "Ask HN: Is Anyone Here a Professional Baker?",
+    "url": "item?id=28886933",
+    "upvotes": 5,
+    "author": "idontwantthis",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28874705"
-  },
-  {
-    "title": "Some reasons to work on productivity and velocity",
-    "url": "https://danluu.com/productivity-velocity/",
-    "upvotes": 264,
-    "author": "davidmckenna",
-    "comments": 126,
-    "link": "https://news.ycombinator.com/item?id=28882043"
+    "link": "https://news.ycombinator.com/item?id=28886933"
   },
   {
     "title": "DX-Ball",
     "url": "https://dx-ball.ru/",
-    "upvotes": 37,
+    "upvotes": 40,
     "author": "indigodaddy",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=28884699"
+  },
+  {
+    "title": "Some reasons to work on productivity and velocity",
+    "url": "https://danluu.com/productivity-velocity/",
+    "upvotes": 267,
+    "author": "davidmckenna",
+    "comments": 127,
+    "link": "https://news.ycombinator.com/item?id=28882043"
+  },
+  {
+    "title": "Warped Portraits of the 1930s",
+    "url": "https://www.unseenhistories.com/warped-portraits",
+    "upvotes": 5,
+    "author": "apollinaire",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28874705"
   },
   {
     "title": "Louisville sawmill challenges perception about wages",
     "url": "https://cdispatch.com/opinions/2021-10-13/slimantics-louisville-sawmill-challenges-perception-about-wages/",
     "upvotes": 57,
     "author": "MaysonL",
-    "comments": 49,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=28884887"
-  },
-  {
-    "title": "Cortical Column Networks",
-    "url": "https://thesmartrobot.github.io/2021/08/26/thousand-brains.html",
-    "upvotes": 40,
-    "author": "RageoftheRobots",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=28883875"
-  },
-  {
-    "title": "China's Robotaxis Hit the Road",
-    "url": "https://www.eetimes.com/chinas-robotaxis-hit-the-road/",
-    "upvotes": 41,
-    "author": "giuliomagnifico",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=28879264"
   }
 ]
