@@ -2,7 +2,7 @@
   {
     "title": "Minias – A mini x86-64 assembler for fun and learning",
     "url": "https://github.com/andrewchambers/minias",
-    "upvotes": 20,
+    "upvotes": 26,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28884768"
@@ -10,49 +10,57 @@
   {
     "title": "A viable solution for Python concurrency",
     "url": "https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/",
-    "upvotes": 501,
+    "upvotes": 518,
     "author": "zorgmonkey",
-    "comments": 218,
+    "comments": 226,
     "link": "https://news.ycombinator.com/item?id=28880782"
   },
   {
     "title": "Some reasons to work on productivity and velocity",
     "url": "https://danluu.com/productivity-velocity/",
-    "upvotes": 135,
+    "upvotes": 147,
     "author": "davidmckenna",
-    "comments": 75,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=28882043"
   },
   {
     "title": "Functional Algorithms, Verified",
     "url": "https://functional-algorithms-verified.org",
-    "upvotes": 26,
+    "upvotes": 33,
     "author": "haskellandchill",
-    "comments": 7,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=28884229"
   },
   {
     "title": "Mezzano on Librebooted ThinkPads",
     "url": "https://www.fitzsim.org/blog/?p=445",
-    "upvotes": 180,
+    "upvotes": 182,
     "author": "lispm",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=28880888"
+  },
+  {
+    "title": "The Math Behind Spot It, the Beloved Family Card Game",
+    "url": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
+    "upvotes": 14,
+    "author": "bobbiechen",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28870721"
   },
   {
     "title": "Ubuntu Frame; A secure, LTS display server for embedded displays [pdf]",
     "url": "https://assets.ubuntu.com/v1/713b9224-Ubuntu.Frame.Datasheet.pdf",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "No_CQRT",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=28838698"
   },
   {
     "title": "Implementing form filling and accessibility in the Firefox PDF viewer",
     "url": "https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/",
-    "upvotes": 117,
+    "upvotes": 119,
     "author": "xojoc",
-    "comments": 59,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=28880936"
   },
   {
@@ -60,17 +68,9 @@
     "url": "https://www.ycombinator.com/companies/circle-medical/jobs/ZpIlsd7-fullstack-engineer-react-js-ruby-rails"
   },
   {
-    "title": "The Math Behind Spot It, the Beloved Family Card Game",
-    "url": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
-    "upvotes": 8,
-    "author": "bobbiechen",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28870721"
-  },
-  {
     "title": "Explore the most detailed map of the universe – EPFL Longread",
     "url": "https://longread.epfl.ch/en/dossier/virup/",
-    "upvotes": 24,
+    "upvotes": 28,
     "author": "rbanffy",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=28883922"
@@ -78,161 +78,161 @@
   {
     "title": "Open source is coming to financial services",
     "url": "https://future.a16z.com/open-source-financial-services/",
-    "upvotes": 155,
+    "upvotes": 161,
     "author": "jseliger",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=28879133"
   },
   {
-    "title": "Save the Scribe: the women who worked with medieval manuscripts",
-    "url": "https://www.laphamsquarterly.org/roundtable/save-scribe",
-    "upvotes": 26,
-    "author": "drdee",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=28869193"
-  },
-  {
     "title": "Cortical Column Networks",
     "url": "https://thesmartrobot.github.io/2021/08/26/thousand-brains.html",
-    "upvotes": 13,
+    "upvotes": 16,
     "author": "RageoftheRobots",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28883875"
   },
   {
+    "title": "1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond",
+    "url": "https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond",
+    "upvotes": 4,
+    "author": "larsiusprime",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28884837"
+  },
+  {
+    "title": "Save the Scribe: the women who worked with medieval manuscripts",
+    "url": "https://www.laphamsquarterly.org/roundtable/save-scribe",
+    "upvotes": 28,
+    "author": "drdee",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=28869193"
+  },
+  {
     "title": "Scaling Indexing and Search – Algolia New Search Architecture",
     "url": "http://highscalability.com/blog/2021/10/11/scaling-indexing-and-search-algolia-new-search-architecture.html",
-    "upvotes": 41,
+    "upvotes": 42,
     "author": "yarapavan",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28838583"
   },
   {
-    "title": "Exploring Programmers' API Learning Processes",
-    "url": "https://neverworkintheory.org/2021/10/14/api-learning-processes.html",
-    "upvotes": 13,
-    "author": "zdw",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28874282"
-  },
-  {
     "title": "“as_strided” and “sum” are all you need",
     "url": "https://jott.live/markdown/as_strided",
-    "upvotes": 49,
+    "upvotes": 53,
     "author": "brrrrrm",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28883086"
   },
   {
     "title": "How not to blow up the production database",
     "url": "https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47",
-    "upvotes": 62,
+    "upvotes": 64,
     "author": "pyrolistical",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28881151"
+  },
+  {
+    "title": "Trust-Busting as the Unsexy Answer to Google and Facebook",
+    "url": "https://www.lareviewofbooks.org/article/trust-busting-as-the-unsexy-answer-to-google-and-facebook/",
+    "upvotes": 274,
+    "author": "colinprince",
+    "comments": 277,
+    "link": "https://news.ycombinator.com/item?id=28877126"
+  },
+  {
+    "title": "Exploring Programmers' API Learning Processes",
+    "url": "https://neverworkintheory.org/2021/10/14/api-learning-processes.html",
+    "upvotes": 14,
+    "author": "zdw",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28874282"
+  },
+  {
+    "title": "Most Canadians believe Facebook harms their mental health",
+    "url": "https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/",
+    "upvotes": 579,
+    "author": "elorant",
+    "comments": 230,
+    "link": "https://news.ycombinator.com/item?id=28878991"
   },
   {
     "title": "Elf – A reactive store with magical powers",
     "url": "https://ngneat.github.io/elf/",
     "upvotes": 31,
     "author": "roosgit",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28863244"
-  },
-  {
-    "title": "Trust-Busting as the Unsexy Answer to Google and Facebook",
-    "url": "https://www.lareviewofbooks.org/article/trust-busting-as-the-unsexy-answer-to-google-and-facebook/",
-    "upvotes": 271,
-    "author": "colinprince",
-    "comments": 274,
-    "link": "https://news.ycombinator.com/item?id=28877126"
-  },
-  {
-    "title": "Most Canadians believe Facebook harms their mental health",
-    "url": "https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/",
-    "upvotes": 574,
-    "author": "elorant",
-    "comments": 229,
-    "link": "https://news.ycombinator.com/item?id=28878991"
-  },
-  {
-    "title": "Speed Matters",
-    "url": "https://scattered-thoughts.net/writing/speed-matters/",
-    "upvotes": 173,
-    "author": "U1F984",
-    "comments": 119,
-    "link": "https://news.ycombinator.com/item?id=28879240"
   },
   {
     "title": "PostgreSQL adds support for OUT parameters in Procedures",
     "url": "https://www.migops.com/blog/2021/10/14/stored-procedure-out-parameters-in-postgresql-14/",
-    "upvotes": 87,
+    "upvotes": 88,
     "author": "avi_vallarapu",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=28878918"
   },
   {
-    "title": "Tether Fined $41M for Lying About Fiat Currency Backing",
+    "title": "Tether Fined $41M for Lying About Reserves",
     "url": "https://www.bloomberg.com/news/articles/2021-10-15/tether-bitfinex-to-pay-fines-totaling-42-5-million-cftc-says",
-    "upvotes": 293,
+    "upvotes": 301,
     "author": "virtualwhys",
-    "comments": 196,
+    "comments": 201,
     "link": "https://news.ycombinator.com/item?id=28879115"
   },
   {
-    "title": "Is my Facebook activity fucking my finances?",
-    "url": "https://foundation.mozilla.org/en/blog/is-my-facebook-activity-fcking-my-finances-mozilla-explains-data-brokers/",
-    "upvotes": 54,
-    "author": "oblib",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=28884531"
+    "title": "“Progress” by Aldous Huxley",
+    "url": "https://atlasofplaces.com/essays/progress/",
+    "upvotes": 4,
+    "author": "apollinaire",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28858562"
+  },
+  {
+    "title": "Speed Matters",
+    "url": "https://scattered-thoughts.net/writing/speed-matters/",
+    "upvotes": 175,
+    "author": "U1F984",
+    "comments": 122,
+    "link": "https://news.ycombinator.com/item?id=28879240"
   },
   {
     "title": "Kyoto – Build Front End with Golang",
     "url": "https://kyoto.codes",
-    "upvotes": 68,
+    "upvotes": 71,
     "author": "yuriizinets",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=28862611"
   },
   {
-    "title": "Show HN: Munchy, a search engine to discover recipes",
-    "url": "https://joinmunchy.com/",
-    "upvotes": 62,
-    "author": "devanflores",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=28879461"
-  },
-  {
-    "title": "Nomad vs. Kubernetes",
-    "url": "https://www.nomadproject.io/docs/nomad-vs-kubernetes",
-    "upvotes": 493,
-    "author": "capableweb",
-    "comments": 286,
-    "link": "https://news.ycombinator.com/item?id=28875764"
-  },
-  {
     "title": "Hunting down a C memory leak in a Go program",
     "url": "https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d",
-    "upvotes": 8,
+    "upvotes": 11,
     "author": "xerxes901",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28883359"
   },
   {
+    "title": "Show HN: Munchy, a search engine to discover recipes",
+    "url": "https://joinmunchy.com/",
+    "upvotes": 63,
+    "author": "devanflores",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=28879461"
+  },
+  {
     "title": "Bugs in Our Pockets?",
     "url": "https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/",
-    "upvotes": 71,
+    "upvotes": 72,
     "author": "etiam",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=28877303"
   },
   {
-    "title": "How Animals Map 3D Spaces Surprises Brain Researchers",
-    "url": "https://www.quantamagazine.org/how-animals-map-3d-spaces-surprises-brain-researchers-20211014/",
-    "upvotes": 80,
-    "author": "jonbaer",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=28876481"
+    "title": "Nomad vs. Kubernetes",
+    "url": "https://www.nomadproject.io/docs/nomad-vs-kubernetes",
+    "upvotes": 495,
+    "author": "capableweb",
+    "comments": 293,
+    "link": "https://news.ycombinator.com/item?id=28875764"
   }
 ]
