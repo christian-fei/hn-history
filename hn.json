@@ -2,63 +2,63 @@
   {
     "title": "Turing Complete is a game about computer science",
     "url": "https://turingcomplete.game/",
-    "upvotes": 102,
+    "upvotes": 116,
     "author": "mvdwoord",
-    "comments": 21,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=28903296"
   },
   {
     "title": "OpenMW: Open-source reimplementation of TES3 Morrowind",
     "url": "https://github.com/OpenMW/openmw",
-    "upvotes": 57,
+    "upvotes": 68,
     "author": "agluszak",
-    "comments": 33,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=28903451"
   },
   {
     "title": "What every software engineer should know about search",
     "url": "https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d",
-    "upvotes": 179,
+    "upvotes": 190,
     "author": "todsacerdoti",
-    "comments": 71,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=28902662"
   },
   {
     "title": "Privacy Redirect: Redirects browser requests to privacy-friendly alternatives",
     "url": "https://github.com/SimonBrazell/privacy-redirect",
-    "upvotes": 37,
+    "upvotes": 42,
     "author": "ignoramous",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28903419"
-  },
-  {
-    "title": "L0phtCrack Is Now Open Source",
-    "url": "https://l0phtcrack.gitlab.io/",
-    "upvotes": 338,
-    "author": "rbanffy",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=28900615"
-  },
-  {
-    "title": "Airbnb removes 80 percent of ads in Amsterdam after registration obligation",
-    "url": "https://www.ruetir.com/2021/10/18/airbnb-removes-more-than-three-quarters-of-advertisements-in-amsterdam-after-registration-obligation/",
-    "upvotes": 75,
-    "author": "clydethefrog",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=28903530"
   },
   {
     "title": "Issues we've encountered while building a Kafka based data processing pipeline",
     "url": "https://sixfold.medium.com/bringing-kafka-based-architecture-to-the-next-level-using-simple-postgresql-tables-415f1ff6076d",
-    "upvotes": 17,
+    "upvotes": 20,
     "author": "poolik",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28903614"
+  },
+  {
+    "title": "Airbnb removes 80% of advertisements in Amsterdam after registration obligation",
+    "url": "https://www.ruetir.com/2021/10/18/airbnb-removes-more-than-three-quarters-of-advertisements-in-amsterdam-after-registration-obligation/",
+    "upvotes": 93,
+    "author": "clydethefrog",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=28903530"
+  },
+  {
+    "title": "L0phtCrack Is Now Open Source",
+    "url": "https://l0phtcrack.gitlab.io/",
+    "upvotes": 340,
+    "author": "rbanffy",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=28900615"
   },
   {
     "title": "Show HN: I built a sonar into my surfboard",
     "url": "https://foobarbecue.github.io/surfsonar/",
-    "upvotes": 246,
+    "upvotes": 251,
     "author": "foobarbecue",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=28901214"
@@ -66,10 +66,18 @@
   {
     "title": "Roger Hui has died",
     "url": "http://jsoftware.com/pipermail/programming/2021-October/059091.html",
-    "upvotes": 475,
+    "upvotes": 478,
     "author": "z0a",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=28898045"
+  },
+  {
+    "title": "Serialization-Based Undo",
+    "url": "https://prideout.net/blog/undo_system/",
+    "upvotes": 15,
+    "author": "prideout",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28898761"
   },
   {
     "title": "How Time Series Databases Work–and Where They Don't",
@@ -82,15 +90,15 @@
   {
     "title": "History of Apple Portables",
     "url": "https://twitter.com/stevesi/status/1449443506783543297",
-    "upvotes": 20,
+    "upvotes": 21,
     "author": "tambourine_man",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28893799"
   },
   {
     "title": "Before Pong, There Was Computer Space",
     "url": "https://thereader.mitpress.mit.edu/before-pong-there-was-computer-space/",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "benbreen",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28902666"
@@ -98,7 +106,7 @@
   {
     "title": "Seashells: Pipe output from command-line programs to the web in real-time",
     "url": "https://seashells.io/",
-    "upvotes": 84,
+    "upvotes": 86,
     "author": "tjhill",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28901580"
@@ -112,41 +120,25 @@
     "link": "https://news.ycombinator.com/item?id=28895878"
   },
   {
-    "title": "Serialization-Based Undo",
-    "url": "https://prideout.net/blog/undo_system/",
-    "upvotes": 8,
-    "author": "prideout",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28898761"
+    "title": "Weaponized Architecture",
+    "url": "https://artcrimearchive.net/2021/10/14/weaponized-architecture/",
+    "upvotes": 31,
+    "author": "cratermoon",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=28891842"
   },
   {
     "title": "Thank HN: 7 years and $7M later, it all started right here",
     "url": "item?id=28902215",
-    "upvotes": 239,
+    "upvotes": 247,
     "author": "massiarri",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=28902215"
   },
   {
-    "title": "Weaponized Architecture",
-    "url": "https://artcrimearchive.net/2021/10/14/weaponized-architecture/",
-    "upvotes": 29,
-    "author": "cratermoon",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=28891842"
-  },
-  {
-    "title": "Pop OS – System76",
-    "url": "https://pop.system76.com/",
-    "upvotes": 138,
-    "author": "robfig",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=28901288"
-  },
-  {
     "title": "Unfolding the Earth: Myriahedral Projections",
     "url": "https://www.win.tue.nl/~vanwijk/myriahedral/",
-    "upvotes": 30,
+    "upvotes": 32,
     "author": "dredmorbius",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28895327"
@@ -154,9 +146,9 @@
   {
     "title": "Awesome-loginless: internet services that don't require registrations",
     "url": "https://github.com/fiatjaf/awesome-loginless",
-    "upvotes": 172,
+    "upvotes": 174,
     "author": "pickledish",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=28901220"
   },
   {
@@ -164,32 +156,56 @@
     "url": "http://bytepointer.com/articles/the_microsoft_rich_header.htm",
     "upvotes": 103,
     "author": "Lammy",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=28899933"
   },
   {
-    "title": "Is it time to rewrite the Operating System in Rust? – Bryan Cantrill",
-    "url": "https://www.youtube.com/watch?v=HgtRAbE1nBM",
+    "title": "I get abuse and threats online – why can't it be stopped?",
+    "url": "https://www.bbc.co.uk/news/uk-58924168",
     "upvotes": 13,
-    "author": "lnsp",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28903739"
+    "author": "gadders",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=28904030"
   },
   {
     "title": "NixOS on Framework Laptop",
     "url": "http://kvark.github.io/linux/framework/2021/10/17/framework-nixos.html",
     "upvotes": 310,
     "author": "kvark",
-    "comments": 183,
+    "comments": 187,
     "link": "https://news.ycombinator.com/item?id=28899039"
   },
   {
     "title": "HTTP is obsolete – it's time for the distributed, permanent web",
     "url": "https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html",
-    "upvotes": 453,
+    "upvotes": 455,
     "author": "Hakeemmidan",
-    "comments": 266,
+    "comments": 269,
     "link": "https://news.ycombinator.com/item?id=28897373"
+  },
+  {
+    "title": "Is it time to rewrite the Operating System in Rust? – Bryan Cantrill",
+    "url": "https://www.youtube.com/watch?v=HgtRAbE1nBM",
+    "upvotes": 17,
+    "author": "lnsp",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=28903739"
+  },
+  {
+    "title": "Facial recognition cameras installed in UK school canteens",
+    "url": "https://www.independent.co.uk/news/education/education-news/facial-recognition-uk-school-canteens-b1940109.html",
+    "upvotes": 4,
+    "author": "lloyd678",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28904276"
+  },
+  {
+    "title": "Pop OS – System76",
+    "url": "https://pop.system76.com/",
+    "upvotes": 139,
+    "author": "robfig",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=28901288"
   },
   {
     "title": "Show HN: Qvm-Create-Windows-Qube: The most secure and private way to run Windows",
@@ -214,25 +230,9 @@
   {
     "title": "Manifold: Java typesafe metaprogramming with IDE support by abusing the compiler",
     "url": "http://manifold.systems/",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "pcr910303",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=28901312"
-  },
-  {
-    "title": "I get abuse and threats online – why can't it be stopped?",
-    "url": "https://www.bbc.co.uk/news/uk-58924168",
-    "upvotes": 5,
-    "author": "gadders",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28904030"
-  },
-  {
-    "title": "Fast rebases with git-move",
-    "url": "https://blog.waleedkhan.name/in-memory-rebases/",
-    "upvotes": 79,
-    "author": "jdorfman",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=28899661"
   }
 ]
