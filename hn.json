@@ -1,80 +1,56 @@
 [
   {
-    "title": "Five U.S. lawmakers accuse Amazon of possibly lying to Congress",
-    "url": "https://www.reuters.com/technology/five-us-lawmakers-accuse-amazon-possibly-lying-congress-following-reuters-report-2021-10-18/",
-    "upvotes": 76,
-    "author": "rrix2",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=28926222"
-  },
-  {
-    "title": "Brave Search Replaces Google as Default Search Engine in the Brave Browser",
+    "title": "Brave Search replaces Google as default search engine in the Brave browser",
     "url": "https://brave.com/search-and-web-discovery/",
-    "upvotes": 43,
+    "upvotes": 66,
     "author": "skellertor",
-    "comments": 13,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=28926582"
   },
   {
     "title": "The FDA wants you to be able to buy a hearing aid without a prescription",
     "url": "https://www.npr.org/2021/10/19/1047303559/fda-hearing-aid-prescription-over-the-counter",
-    "upvotes": 585,
+    "upvotes": 588,
     "author": "cf100clunk",
-    "comments": 373,
+    "comments": 374,
     "link": "https://news.ycombinator.com/item?id=28921244"
-  },
-  {
-    "title": "A drone company is working to airlift dogs stranded by the volcano in La Palma",
-    "url": "https://www.npr.org/2021/10/19/1047360268/drone-rescue-dogs-volcano-la-palma-spain",
-    "upvotes": 21,
-    "author": "theonething",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28926485"
   },
   {
     "title": "Study: Recycled Lithium Batteries as Good as Newly Mined",
     "url": "https://spectrum.ieee.org/recycled-batteries-good-as-newly-mined",
-    "upvotes": 420,
+    "upvotes": 424,
     "author": "mpweiher",
-    "comments": 122,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=28921083"
   },
   {
     "title": "Google Pixel 6 and Pixel 6 Pro",
     "url": "https://store.google.com/category/phones?hl=en-US",
-    "upvotes": 421,
+    "upvotes": 423,
     "author": "mikeevans",
-    "comments": 536,
+    "comments": 548,
     "link": "https://news.ycombinator.com/item?id=28921247"
   },
   {
-    "title": "Outdated, vulnerable open source components shipped with Windows 10 and 11",
-    "url": "https://seclists.org/fulldisclosure/2021/Oct/17",
-    "upvotes": 199,
-    "author": "CTOSian",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=28923231"
+    "title": "Simple Linux kernel memory corruption bug can lead to complete system compromise",
+    "url": "https://googleprojectzero.blogspot.com/2021/10/how-simple-linux-kernel-memory.html",
+    "upvotes": 13,
+    "author": "pabs3",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28926426"
   },
   {
     "title": "Why I Hate Frameworks",
     "url": "https://www.fredrikholmqvist.com/pages/why-i-hate-frameworks.html",
-    "upvotes": 410,
+    "upvotes": 412,
     "author": "zkldi",
-    "comments": 227,
+    "comments": 228,
     "link": "https://news.ycombinator.com/item?id=28920095"
-  },
-  {
-    "title": "Overly analytical guide to escorting",
-    "url": "https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/",
-    "upvotes": 255,
-    "author": "exolymph",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=28924751"
   },
   {
     "title": "New Optical Switch Up to 1000x Faster Than Transistors",
     "url": "https://spectrum.ieee.org/optical-switch-1000x-faster-transistors",
-    "upvotes": 77,
+    "upvotes": 81,
     "author": "ofou",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=28925148"
@@ -82,94 +58,126 @@
   {
     "title": "Software Freedom Conservancy files GPL lawsuit against Vizio",
     "url": "https://sfconservancy.org/copyleft-compliance/vizio.html",
-    "upvotes": 274,
+    "upvotes": 275,
     "author": "jra_samba",
-    "comments": 82,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=28920954"
   },
   {
-    "title": "Single sign-on and identity for government services: What we've learned so far",
+    "title": "Overly analytical guide to escorting",
+    "url": "https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/",
+    "upvotes": 273,
+    "author": "exolymph",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=28924751"
+  },
+  {
+    "title": "Five U.S. lawmakers accuse Amazon of possibly lying to Congress",
+    "url": "https://www.reuters.com/technology/five-us-lawmakers-accuse-amazon-possibly-lying-congress-following-reuters-report-2021-10-18/",
+    "upvotes": 82,
+    "author": "rrix2",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=28926222"
+  },
+  {
+    "title": "Single sign-on: What we learned during our identity alpha",
     "url": "https://gds.blog.gov.uk/2021/10/19/single-sign-on-what-we-learned-during-our-identity-alpha/",
-    "upvotes": 87,
+    "upvotes": 89,
     "author": "open-source-ux",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=28924300"
   },
   {
-    "title": "Function pipelines: Building functional programming into PostgreSQL",
-    "url": "https://blog.timescale.com/blog/function-pipelines-building-functional-programming-into-postgresql-using-custom-operators/",
-    "upvotes": 299,
-    "author": "oconnor663",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=28919205"
+    "title": "Five things we still don’t know about water",
+    "url": "https://nautil.us/issue/25/water/five-things-we-still-dont-know-about-water",
+    "upvotes": 213,
+    "author": "Anon84",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=28921543"
+  },
+  {
+    "title": "Former Netflix executive convicted of receiving bribes from contractors",
+    "url": "https://www.justice.gov/usao-ndca/pr/former-netflix-executive-convicted-receiving-bribes-and-kickbacks-companies-contracting",
+    "upvotes": 458,
+    "author": "ugwigr",
+    "comments": 357,
+    "link": "https://news.ycombinator.com/item?id=28918805"
   },
   {
     "title": "Zeus (YC S11) Is Hiring for EA to the CEO/Co-Founder",
     "url": "item?id=28925621"
   },
   {
-    "title": "Five things we still don’t know about water",
-    "url": "https://nautil.us/issue/25/water/five-things-we-still-dont-know-about-water",
-    "upvotes": 207,
-    "author": "Anon84",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=28921543"
-  },
-  {
-    "title": "Former Netflix executive convicted of receiving bribes from contractors",
-    "url": "https://www.justice.gov/usao-ndca/pr/former-netflix-executive-convicted-receiving-bribes-and-kickbacks-companies-contracting",
-    "upvotes": 457,
-    "author": "ugwigr",
-    "comments": 355,
-    "link": "https://news.ycombinator.com/item?id=28918805"
+    "title": "Function pipelines: Building functional programming into PostgreSQL",
+    "url": "https://blog.timescale.com/blog/function-pipelines-building-functional-programming-into-postgresql-using-custom-operators/",
+    "upvotes": 301,
+    "author": "oconnor663",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=28919205"
   },
   {
     "title": "The tight-knit time zone data maintenance community",
     "url": "https://onezero.medium.com/the-largely-untold-story-of-how-one-guy-in-california-keeps-the-worlds-computers-on-the-right-time-a97a5493bf73",
     "upvotes": 151,
     "author": "xrayarx",
-    "comments": 101,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=28904252"
   },
   {
     "title": "32 Bit Real Estate",
     "url": "https://fly.io/blog/32-bit-real-estate/",
-    "upvotes": 142,
+    "upvotes": 143,
     "author": "craigkerstiens",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=28920269"
   },
   {
-    "title": "A proposal for adding a pipe operator to JavaScript",
-    "url": "https://github.com/tc39/proposal-pipeline-operator",
-    "upvotes": 122,
-    "author": "tentacleuno",
-    "comments": 140,
-    "link": "https://news.ycombinator.com/item?id=28916775"
-  },
-  {
-    "title": "Remembering When Americans Picnicked in Cemeteries",
+    "title": "When Americans picnicked in cemeteries",
     "url": "https://www.atlasobscura.com/articles/picnic-in-cemeteries-america",
-    "upvotes": 11,
+    "upvotes": 12,
     "author": "samclemens",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28914927"
   },
   {
+    "title": "A proposal for adding a pipe operator to JavaScript",
+    "url": "https://github.com/tc39/proposal-pipeline-operator",
+    "upvotes": 123,
+    "author": "tentacleuno",
+    "comments": 141,
+    "link": "https://news.ycombinator.com/item?id=28916775"
+  },
+  {
     "title": "Is the world economy entering a wage-price spiral?",
     "url": "https://www.economist.com/leaders/2021/10/16/is-the-world-economy-entering-a-wage-price-spiral",
-    "upvotes": 99,
+    "upvotes": 100,
     "author": "paulpauper",
-    "comments": 162,
+    "comments": 169,
     "link": "https://news.ycombinator.com/item?id=28918454"
+  },
+  {
+    "title": "A drone company is working to airlift dogs stranded by the volcano in La Palma",
+    "url": "https://www.npr.org/2021/10/19/1047360268/drone-rescue-dogs-volcano-la-palma-spain",
+    "upvotes": 25,
+    "author": "theonething",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28926485"
   },
   {
     "title": "Long-term NAEP scores for 13-year-olds drop for first time since testing began",
     "url": "https://www.the74million.org/article/naep-long-term-unprecedented-performance-drop-american-13-year-olds/",
     "upvotes": 67,
     "author": "Bostonian",
-    "comments": 101,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=28917023"
+  },
+  {
+    "title": "How the brain navigates cities",
+    "url": "https://news.mit.edu/2021/how-brain-navigates-cities-1018",
+    "upvotes": 87,
+    "author": "el_duderino",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=28917033"
   },
   {
     "title": "A Graduate Course in Applied Cryptography",
@@ -180,59 +188,51 @@
     "link": "https://news.ycombinator.com/item?id=28918554"
   },
   {
-    "title": "How the brain navigates cities",
-    "url": "https://news.mit.edu/2021/how-brain-navigates-cities-1018",
-    "upvotes": 84,
-    "author": "el_duderino",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=28917033"
-  },
-  {
     "title": "How to get back into a hacked Facebook account",
     "url": "https://www.washingtonpost.com/technology/2021/09/29/hacked-social-media-account/",
-    "upvotes": 154,
+    "upvotes": 156,
     "author": "bookofjoe",
     "comments": 110,
     "link": "https://news.ycombinator.com/item?id=28918076"
   },
   {
-    "title": "Against ‘Diversity Statements’",
-    "url": "https://www.commentary.org/jonathan-marks/against-diversity-statements/",
-    "upvotes": 20,
-    "author": "jseliger",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28926203"
-  },
-  {
     "title": "The day my script killed 10k phones in South America",
     "url": "https://new.pythonforengineers.com/blog/the-day-i/",
-    "upvotes": 142,
+    "upvotes": 149,
     "author": "nixcraft",
-    "comments": 103,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=28917531"
+  },
+  {
+    "title": "Harvard, a Media Company",
+    "url": "https://www.readthegeneralist.com/briefing/harvard",
+    "upvotes": 4,
+    "author": "yarapavan",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28904476"
   },
   {
     "title": "Drone operator will try to rescue dogs from Spanish volcano",
     "url": "https://www.reuters.com/world/europe/drone-operator-will-try-rescue-dogs-spanish-volcano-2021-10-19/",
-    "upvotes": 175,
+    "upvotes": 176,
     "author": "ClosedPistachio",
-    "comments": 77,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=28920693"
+  },
+  {
+    "title": "Outdated, vulnerable open source components shipped with Windows 10 and 11",
+    "url": "https://seclists.org/fulldisclosure/2021/Oct/17",
+    "upvotes": 206,
+    "author": "CTOSian",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=28923231"
   },
   {
     "title": "Version Control for Structure Editing",
     "url": "https://alarmingdevelopment.org/?p=1570",
-    "upvotes": 107,
+    "upvotes": 109,
     "author": "mepian",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=28922140"
-  },
-  {
-    "title": "Penguin is no longer the owner of the copyright to The Tao of Pooh",
-    "url": "https://www.benjaminhoffauthor.com/",
-    "upvotes": 145,
-    "author": "Tomte",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=28920800"
   }
 ]
