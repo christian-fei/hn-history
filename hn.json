@@ -2,47 +2,47 @@
   {
     "title": "Scryer-Prolog: modern Prolog implementation written mostly in Rust",
     "url": "https://github.com/mthom/scryer-prolog",
-    "upvotes": 61,
+    "upvotes": 70,
     "author": "homarp",
-    "comments": 12,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=28966133"
   },
   {
     "title": "Feasibility of a Dune Ornithopter",
     "url": "http://pages.erau.edu/~andrewsa/sci_fi_projects_spring_2015/Project_2/Eilts_Mitchell/Dune%20Eilts/Dune%20Eilts/index_Eilts.html",
-    "upvotes": 148,
+    "upvotes": 151,
     "author": "HiroProtagonist",
-    "comments": 68,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=28964460"
+  },
+  {
+    "title": "Dutch forensic lab says it has decoded Tesla's driving data",
+    "url": "https://www.reuters.com/article/autos-tesla-netherlands-data-idUSKBN2HB1D3",
+    "upvotes": 28,
+    "author": "velmu",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=28943234"
   },
   {
     "title": "An enormous thread on alleged Google Facebook collusion",
     "url": "https://twitter.com/PatrickMcGee_/status/1451619916994396164",
-    "upvotes": 169,
+    "upvotes": 199,
     "author": "choppaface",
-    "comments": 38,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=28965949"
   },
   {
     "title": "Adopting Erlang",
     "url": "https://adoptingerlang.org",
-    "upvotes": 54,
+    "upvotes": 63,
     "author": "ecliptik",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28940337"
   },
   {
-    "title": "Dutch forensic lab says it has decoded Tesla's driving data",
-    "url": "https://www.reuters.com/article/autos-tesla-netherlands-data-idUSKBN2HB1D3",
-    "upvotes": 15,
-    "author": "velmu",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=28943234"
-  },
-  {
     "title": "Kina Knowledge, using Common Lisp extensively in their document processing stack",
     "url": "https://lisp-journey.gitlab.io/blog/lisp-interview-kina/",
-    "upvotes": 155,
+    "upvotes": 156,
     "author": "p_l",
     "comments": 49,
     "link": "https://news.ycombinator.com/item?id=28961987"
@@ -50,66 +50,74 @@
   {
     "title": "Federal Judges or Their Brokers Traded Stocks of Litigants During Cases",
     "url": "https://www.wsj.com/articles/federal-judges-brokers-traded-stocks-of-litigants-during-cases-walmart-pfizer-11634306192",
-    "upvotes": 43,
+    "upvotes": 47,
     "author": "colinprince",
-    "comments": 18,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28966045"
   },
   {
     "title": "IBM PS/2 Keyboard Modification",
     "url": "https://ardent-tool.com/keyboard/mods/Model_M_Modifications.html",
-    "upvotes": 48,
+    "upvotes": 49,
     "author": "grae_QED",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=28964727"
   },
   {
     "title": "Triumph at Saturn [video]",
     "url": "https://www.youtube.com/watch?v=SY-hQJ5pMd4",
-    "upvotes": 72,
+    "upvotes": 73,
     "author": "l0b0",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28942285"
   },
   {
-    "title": "An Introduction to Probabilistic Programming",
-    "url": "https://arxiv.org/abs/1809.10756",
-    "upvotes": 177,
-    "author": "homarp",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=28941145"
+    "title": "The Uselessness of Useful Knowledge",
+    "url": "https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/",
+    "upvotes": 52,
+    "author": "bainsfather",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28942983"
   },
   {
     "title": "The IBM 4020 Military Computer – Tracking Missiles with 6-Bit Bytes",
     "url": "https://www.cpushack.com/2021/10/22/the-ibm-4020-military-computer-tracking-missiles-with-6-bit-bytes/",
-    "upvotes": 41,
+    "upvotes": 42,
     "author": "picture",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=28963981"
   },
   {
-    "title": "The Uselessness of Useful Knowledge",
-    "url": "https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/",
-    "upvotes": 46,
-    "author": "bainsfather",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=28942983"
+    "title": "Not Belonging to the World: Hannah Arendt Holds Firm",
+    "url": "https://www.laphamsquarterly.org/roundtable/not-belonging-world",
+    "upvotes": 89,
+    "author": "lermontov",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=28939024"
+  },
+  {
+    "title": "GPT Code Clippy, the Open Source Version of GitHub Copilot",
+    "url": "https://github.com/CodedotAl/gpt-code-clippy",
+    "upvotes": 64,
+    "author": "NmAmDa",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28962582"
   },
   {
     "title": "Converting binary floating-point numbers to integers",
     "url": "https://lemire.me/blog/2021/10/21/converting-binary-floating-point-numbers-to-integers/",
-    "upvotes": 22,
+    "upvotes": 23,
     "author": "ingve",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28941755"
   },
   {
-    "title": "Not Belonging to the World: Hannah Arendt Holds Firm",
-    "url": "https://www.laphamsquarterly.org/roundtable/not-belonging-world",
-    "upvotes": 87,
-    "author": "lermontov",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=28939024"
+    "title": "Glimmer DSL for LibUI – Simplest Native Cross-Platform GUI Library",
+    "url": "https://github.com/AndyObtiva/glimmer-dsl-libui",
+    "upvotes": 13,
+    "author": "AndyMaleh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28965735"
   },
   {
     "title": "Audio tape interface revives microcassettes as storage medium",
@@ -120,77 +128,61 @@
     "link": "https://news.ycombinator.com/item?id=28928521"
   },
   {
-    "title": "GPT Code Clippy, the Open Source Version of GitHub Copilot",
-    "url": "https://github.com/CodedotAl/gpt-code-clippy",
-    "upvotes": 58,
-    "author": "NmAmDa",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28962582"
-  },
-  {
     "title": "What Makes Stuff Rot?",
     "url": "https://www.overcomingbias.com/2021/10/what-makes-stuff-rot.html",
-    "upvotes": 23,
+    "upvotes": 24,
     "author": "cinquemb",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=28964535"
   },
   {
+    "title": "Ask HN: Best way to host a website for 500 years?",
+    "url": "item?id=28957573",
+    "upvotes": 556,
+    "author": "adamkochanowicz",
+    "comments": 707,
+    "link": "https://news.ycombinator.com/item?id=28957573"
+  },
+  {
     "title": "Facebook crisis grows as new whistleblower and leaked documents emerge",
     "url": "https://www.theguardian.com/technology/2021/oct/22/facebook-whistleblower-hate-speech-illegal-report",
-    "upvotes": 29,
+    "upvotes": 34,
     "author": "mindracer",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28966024"
+  },
+  {
+    "title": "Original 1851 reviews of Moby-Dick",
+    "url": "https://lithub.com/check-out-the-original-1851-reviews-of-moby-dick/",
+    "upvotes": 96,
+    "author": "thedday",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=28938593"
   },
   {
     "title": "Stayflexi",
     "url": "https://www.ycombinator.com/companies/stayflexi/jobs/XOgPJYp-software-developer"
   },
   {
-    "title": "Ask HN: Best way to host a website for 500 years?",
-    "url": "item?id=28957573",
-    "upvotes": 553,
-    "author": "adamkochanowicz",
-    "comments": 703,
-    "link": "https://news.ycombinator.com/item?id=28957573"
-  },
-  {
     "title": "Leaving Google",
     "url": "https://jayconrod.com/posts/122/leaving-google",
-    "upvotes": 220,
+    "upvotes": 225,
     "author": "dcu",
-    "comments": 191,
+    "comments": 202,
     "link": "https://news.ycombinator.com/item?id=28965282"
-  },
-  {
-    "title": "Original 1851 reviews of Moby-Dick",
-    "url": "https://lithub.com/check-out-the-original-1851-reviews-of-moby-dick/",
-    "upvotes": 95,
-    "author": "thedday",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=28938593"
   },
   {
     "title": "NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised",
     "url": "https://old.reddit.com/r/programming/comments/qdlela/breaking_npm_package_uaparserjs_with_more_than_7m/",
-    "upvotes": 203,
+    "upvotes": 208,
     "author": "geocrasher",
-    "comments": 99,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=28962168"
-  },
-  {
-    "title": "Glimmer DSL for LibUI – Simplest Native Cross-Platform GUI Library",
-    "url": "https://github.com/AndyObtiva/glimmer-dsl-libui",
-    "upvotes": 7,
-    "author": "AndyMaleh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28965735"
   },
   {
     "title": "Magit, the magical Git interface",
     "url": "https://emacsair.me/2017/09/01/the-magical-git-interface/",
-    "upvotes": 597,
+    "upvotes": 598,
     "author": "Tomte",
     "comments": 315,
     "link": "https://news.ycombinator.com/item?id=28954058"
@@ -198,7 +190,7 @@
   {
     "title": "I Have No Mouth, and I Must Scream",
     "url": "https://www.filfre.net/2021/10/i-have-no-mouth-and-i-must-scream/",
-    "upvotes": 179,
+    "upvotes": 181,
     "author": "aarestad",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=28958140"
@@ -214,25 +206,33 @@
   {
     "title": "Willingness to look stupid",
     "url": "https://danluu.com/look-stupid/",
-    "upvotes": 1758,
+    "upvotes": 1763,
     "author": "ZephyrBlu",
-    "comments": 749,
+    "comments": 751,
     "link": "https://news.ycombinator.com/item?id=28942189"
   },
   {
-    "title": "The Ultimate Student: Best Practices for 100 Mental Models",
-    "url": "https://app.telepathylab.com/ultimate-student",
-    "upvotes": 19,
-    "author": "pfettis777",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28966004"
+    "title": "An Introduction to Probabilistic Programming",
+    "url": "https://arxiv.org/abs/1809.10756",
+    "upvotes": 180,
+    "author": "homarp",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=28941145"
   },
   {
     "title": "The 'impossible' crane shot from Soy Cuba",
     "url": "https://twitter.com/nickdale/status/1450617359375343617",
-    "upvotes": 480,
+    "upvotes": 481,
     "author": "tehnub",
     "comments": 128,
     "link": "https://news.ycombinator.com/item?id=28953167"
+  },
+  {
+    "title": "The age of machine learning as code has arrived",
+    "url": "https://huggingface.co/blog/the-age-of-ml-as-code",
+    "upvotes": 101,
+    "author": "gk1",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=28960925"
   }
 ]
