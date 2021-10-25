@@ -1,42 +1,70 @@
 [
   {
+    "title": "Node-RED: Low-code programming for event-driven applications",
+    "url": "https://nodered.org/",
+    "upvotes": 30,
+    "author": "omarfarooq",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28985268"
+  },
+  {
+    "title": "WhatsApp scaled to 1B users with only 50 engineers",
+    "url": "https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion",
+    "upvotes": 34,
+    "author": "unripe_syntax",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=28985169"
+  },
+  {
     "title": "NYT journalist hacked with Pegasus after reporting on previous hacking attempts",
     "url": "https://citizenlab.ca/2021/10/breaking-news-new-york-times-journalist-ben-hubbard-pegasus/",
-    "upvotes": 868,
+    "upvotes": 887,
     "author": "giuliomagnifico",
-    "comments": 253,
+    "comments": 261,
     "link": "https://news.ycombinator.com/item?id=28980382"
   },
   {
     "title": "How to learn mathematics: the asterisk method",
-    "url": "http://www.geometry.org/human/?i=/tex/conc/mathlearn.html",
-    "upvotes": 101,
+    "url": "http://www.geometry.org/tex/conc/mathlearn.html",
+    "upvotes": 126,
     "author": "VitalyAnkh",
-    "comments": 20,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=28953781"
   },
   {
     "title": "The fatiguing effects of camera use in virtual meetings",
     "url": "https://doi.apa.org/fulltext/2021-77825-003.html",
-    "upvotes": 89,
+    "upvotes": 97,
     "author": "gmays",
-    "comments": 61,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=28983859"
   },
   {
     "title": "Fun with Nano Server",
     "url": "https://virtuallyfun.com/wordpress/2021/10/17/fun-with-nano-server/",
-    "upvotes": 30,
+    "upvotes": 35,
     "author": "collate",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28984663"
+  },
+  {
+    "title": "To learn a new language, read its standard library",
+    "url": "http://patshaughnessy.net/2021/10/23/to-learn-a-new-language-read-its-standard-library",
+    "upvotes": 275,
+    "author": "sferik",
+    "comments": 150,
+    "link": "https://news.ycombinator.com/item?id=28975453"
+  },
+  {
+    "title": "Payflow",
+    "url": "https://www.ycombinator.com/companies/payflow/jobs/N6SNNmG-vp-of-engineering"
   },
   {
     "title": "Art Vote",
     "url": "https://artvote.net/",
-    "upvotes": 27,
+    "upvotes": 31,
     "author": "if-curious",
-    "comments": 8,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=28984610"
   },
   {
@@ -44,195 +72,167 @@
     "url": "https://gilesbowkett.com/blog/2021/08/15/fork-freshness-project-lifespans-in-the-ruby-ecosystem/",
     "upvotes": 112,
     "author": "aazaa",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=28983436"
-  },
-  {
-    "title": "Payflow",
-    "url": "https://www.ycombinator.com/companies/payflow/jobs/N6SNNmG-vp-of-engineering"
-  },
-  {
-    "title": "To learn a new language, read its standard library",
-    "url": "http://patshaughnessy.net/2021/10/23/to-learn-a-new-language-read-its-standard-library",
-    "upvotes": 262,
-    "author": "sferik",
-    "comments": 143,
-    "link": "https://news.ycombinator.com/item?id=28975453"
-  },
-  {
-    "title": "Jetson One – Personal Electric Aerial Vehicle",
-    "url": "https://www.jetsonaero.com/",
-    "upvotes": 154,
-    "author": "swatkat",
-    "comments": 124,
-    "link": "https://news.ycombinator.com/item?id=28982993"
-  },
-  {
-    "title": "Across Kazakhstan by rail",
-    "url": "https://www.theguardian.com/travel/2021/oct/22/across-kazakhstan-by-rail-a-photo-essay",
-    "upvotes": 109,
-    "author": "sleepyshift",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=28954825"
-  },
-  {
-    "title": "We are recreating the entire planet in Minecraft",
-    "url": "https://buildtheearth.net/",
-    "upvotes": 184,
-    "author": "doener",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=28981591"
-  },
-  {
-    "title": "MTA tests new subway map that evokes jettisoned 1972 version",
-    "url": "https://www.wsj.com/articles/mta-tests-new-subway-map-that-evokes-jettisoned-1972-version-11634119201",
-    "upvotes": 46,
-    "author": "pondsider",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=28984040"
-  },
-  {
-    "title": "The Brain Processes Speech in Parallel with Other Sounds",
-    "url": "https://www.quantamagazine.org/the-brain-processes-speech-in-parallel-with-other-sounds-20211021/",
-    "upvotes": 27,
-    "author": "nsoonhui",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28966491"
-  },
-  {
-    "title": "Richard Feynman and the Connection Machine",
-    "url": "https://longnow.org/essays/richard-feynman-connection-machine/",
-    "upvotes": 114,
-    "author": "rl3",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=28981275"
-  },
-  {
-    "title": "A Big Little Country",
-    "url": "https://www.afar.com/magazine/westarctica-antarctica-a-micronation-with-a-mission",
-    "upvotes": 7,
-    "author": "url",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28984847"
-  },
-  {
-    "title": "Signed integers are asymmetrical",
-    "url": "https://borretti.me/article/signed-integers-asymmetrical",
-    "upvotes": 99,
-    "author": "zetalyrae",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=28981224"
-  },
-  {
-    "title": "Prince of Persia has been released for the Atari XL/XE",
-    "url": "https://www.vintageisthenewold.com/prince-of-persia-for-the-atari-xl-xe-a-deserved-port-hits-the-atari-8-bit-computers",
-    "upvotes": 27,
-    "author": "pgarcia",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28983738"
   },
   {
     "title": "Strings, arrays, recursion, and parsing JSON: Exploring PL/pgSQL",
     "url": "https://notes.eatonphil.com/exploring-plpgsql.html",
-    "upvotes": 7,
+    "upvotes": 13,
     "author": "stevekemp",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28984959"
   },
   {
+    "title": "Jetson One – Personal Electric Aerial Vehicle",
+    "url": "https://www.jetsonaero.com/",
+    "upvotes": 166,
+    "author": "swatkat",
+    "comments": 136,
+    "link": "https://news.ycombinator.com/item?id=28982993"
+  },
+  {
+    "title": "Across Kazakhstan by rail",
+    "url": "https://www.theguardian.com/travel/2021/oct/22/across-kazakhstan-by-rail-a-photo-essay",
+    "upvotes": 119,
+    "author": "sleepyshift",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=28954825"
+  },
+  {
+    "title": "We are recreating the entire planet in Minecraft",
+    "url": "https://buildtheearth.net/",
+    "upvotes": 193,
+    "author": "doener",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=28981591"
+  },
+  {
+    "title": "MTA tests new subway map that evokes jettisoned 1972 version",
+    "url": "https://www.wsj.com/articles/mta-tests-new-subway-map-that-evokes-jettisoned-1972-version-11634119201",
+    "upvotes": 47,
+    "author": "pondsider",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=28984040"
+  },
+  {
+    "title": "Richard Feynman and the Connection Machine",
+    "url": "https://longnow.org/essays/richard-feynman-connection-machine/",
+    "upvotes": 117,
+    "author": "rl3",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=28981275"
+  },
+  {
+    "title": "Prince of Persia has been released for the Atari XL/XE",
+    "url": "https://www.vintageisthenewold.com/prince-of-persia-for-the-atari-xl-xe-a-deserved-port-hits-the-atari-8-bit-computers",
+    "upvotes": 33,
+    "author": "pgarcia",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28983738"
+  },
+  {
+    "title": "The Brain Processes Speech in Parallel with Other Sounds",
+    "url": "https://www.quantamagazine.org/the-brain-processes-speech-in-parallel-with-other-sounds-20211021/",
+    "upvotes": 28,
+    "author": "nsoonhui",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28966491"
+  },
+  {
+    "title": "Signed integers are asymmetrical",
+    "url": "https://borretti.me/article/signed-integers-asymmetrical",
+    "upvotes": 103,
+    "author": "zetalyrae",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=28981224"
+  },
+  {
+    "title": "Film DX Coding",
+    "url": "https://www.photothinking.com/2018-02-03-film-dx-coding-a-photographers-life-hack/",
+    "upvotes": 9,
+    "author": "brudgers",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28973774"
+  },
+  {
     "title": "Servicing and repairing electric cars requires new skills",
     "url": "https://www.economist.com/science-and-technology/servicing-and-repairing-electric-cars-requires-new-skills/21805752",
-    "upvotes": 25,
+    "upvotes": 27,
     "author": "sohkamyung",
-    "comments": 53,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=28983538"
+  },
+  {
+    "title": "Healing Weeds",
+    "url": "https://worldsensorium.com/two-of-the-greatest-healing-weeds-in-the-world/",
+    "upvotes": 3,
+    "author": "dnetesn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28967231"
+  },
+  {
+    "title": "A Big Little Country",
+    "url": "https://www.afar.com/magazine/westarctica-antarctica-a-micronation-with-a-mission",
+    "upvotes": 8,
+    "author": "url",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28984847"
   },
   {
     "title": "Community Banking and Fintech",
     "url": "https://bam.kalzumeus.com/archive/community-banking-and-fintech/",
-    "upvotes": 92,
+    "upvotes": 97,
     "author": "Ozzie_osman",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=28970067"
-  },
-  {
-    "title": "Ask HN: Which NoCode platforms are fine?",
-    "url": "item?id=28984955",
-    "upvotes": 21,
-    "author": "rweissgraeber",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=28984955"
   },
   {
     "title": "5 side projects in 6 years, earning $0",
     "url": "https://kwcodes.com/how-i-failed-5-side-projects-in-6-years-earning-0/",
-    "upvotes": 390,
+    "upvotes": 401,
     "author": "kw_dev",
-    "comments": 167,
+    "comments": 173,
     "link": "https://news.ycombinator.com/item?id=28980691"
   },
   {
     "title": "Show HN: Online editor to create animated SVG",
     "url": "https://bestsnip.com/svg_animation/",
-    "upvotes": 36,
+    "upvotes": 42,
     "author": "8toast",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=28983386"
   },
   {
     "title": "How to keep a support contract: Make the user think they solved the problem",
     "url": "https://www.theregister.com/2021/10/22/on_call/",
-    "upvotes": 127,
+    "upvotes": 131,
     "author": "sohkamyung",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=28954883"
   },
   {
     "title": "New Brunswick’s Mystery Disease",
     "url": "https://thewalrus.ca/new-brunswicks-medical-mystery/",
-    "upvotes": 148,
+    "upvotes": 152,
     "author": "Geekette",
     "comments": 74,
     "link": "https://news.ycombinator.com/item?id=28979532"
   },
   {
-    "title": "Film DX Coding",
-    "url": "https://www.photothinking.com/2018-02-03-film-dx-coding-a-photographers-life-hack/",
-    "upvotes": 5,
-    "author": "brudgers",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28973774"
-  },
-  {
-    "title": "Rewriting Reddit",
-    "url": "http://www.aaronsw.com/weblog/rewritingreddit",
-    "upvotes": 47,
-    "author": "leohonexus",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28983861"
+    "title": "Ask HN: Which NoCode platforms are fine?",
+    "url": "item?id=28984955",
+    "upvotes": 27,
+    "author": "rweissgraeber",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=28984955"
   },
   {
     "title": "The Financial Times’ 404 page",
     "url": "https://www.ft.com/3lJQa6w",
-    "upvotes": 497,
+    "upvotes": 508,
     "author": "ColinWright",
-    "comments": 74,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=28980927"
-  },
-  {
-    "title": "Deadly infection linked to contaminated room spray sold at Walmart",
-    "url": "https://www.statnews.com/2021/10/22/melioidosis-outbreak-georgia-walmart/",
-    "upvotes": 256,
-    "author": "vanilla-almond",
-    "comments": 169,
-    "link": "https://news.ycombinator.com/item?id=28981861"
-  },
-  {
-    "title": "Exosuit Designed in Woodruff School Helps with Awkward Lifts",
-    "url": "https://www.me.gatech.edu/news/exosuit-designed-woodruff-school-helps-awkward-lifts",
-    "upvotes": 45,
-    "author": "rbanffy",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28954052"
   }
 ]
