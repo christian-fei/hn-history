@@ -2,91 +2,75 @@
   {
     "title": "Show HN: I built a fake VS Code to browse live cricket score in office",
     "url": "https://cric-code.pankajtanwar.in/",
-    "upvotes": 377,
+    "upvotes": 406,
     "author": "the2ndfloorguy",
-    "comments": 104,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=28985936"
   },
   {
     "title": "Kerla: Monolithic kernel in Rust, aiming for Linux ABI compatibility",
     "url": "https://github.com/nuta/kerla",
-    "upvotes": 134,
+    "upvotes": 153,
     "author": "Klasiaster",
-    "comments": 69,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=28986229"
   },
   {
     "title": "Project SPHINX – When the USSR tried to change the computer",
     "url": "https://www.inexhibit.com/case-studies/project-sphinx-when-the-ussr-tried-to-change-the-computer/",
-    "upvotes": 64,
+    "upvotes": 71,
     "author": "cunidev",
-    "comments": 18,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=28986682"
-  },
-  {
-    "title": "Ebcdic Is Incompatible with GDPR",
-    "url": "https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/",
-    "upvotes": 52,
-    "author": "edent",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=28986735"
   },
   {
     "title": "WhatsApp scaled to 1B users with only 50 engineers",
     "url": "https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion",
-    "upvotes": 209,
+    "upvotes": 229,
     "author": "unripe_syntax",
-    "comments": 183,
+    "comments": 202,
     "link": "https://news.ycombinator.com/item?id=28985169"
   },
   {
     "title": "Star Labs StarLite Mk IV 11\" Linux Laptop with Coreboot",
     "url": "https://starlabs.systems/pages/starlite",
-    "upvotes": 30,
+    "upvotes": 35,
     "author": "gadgetoid",
-    "comments": 7,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=28986767"
   },
   {
     "title": "Node-RED: Low-code programming for event-driven applications",
     "url": "https://nodered.org/",
-    "upvotes": 164,
+    "upvotes": 171,
     "author": "omarfarooq",
-    "comments": 43,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=28985268"
   },
   {
     "title": "Luxe: Cross platform, rapid development game engine",
     "url": "https://luxeengine.com/about/",
-    "upvotes": 36,
+    "upvotes": 41,
     "author": "de_keyboard",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28986275"
+  },
+  {
+    "title": "Running SSH-MitM on Android Devices",
+    "url": "https://github.com/ssh-mitm/ssh-mitm/discussions/83",
+    "upvotes": 9,
+    "author": "tool4cool",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28987065"
   },
   {
     "title": "Anakin",
     "url": "https://www.ycombinator.com/companies/anakin/jobs/9GpOWPi-senior-software-engineer"
   },
   {
-    "title": "WWII ships raised from watery graves by volcanic activity",
-    "url": "https://taiwanenglishnews.com/volcanic-activity-seismic-shifts-wwii-ships-from-battle-of-iwo-jima-raised-from-watery-graves/",
-    "upvotes": 59,
-    "author": "simonebrunozzi",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=28985956"
-  },
-  {
-    "title": "Running SSH-MitM on Android Devices",
-    "url": "https://github.com/ssh-mitm/ssh-mitm/discussions/83",
-    "upvotes": 5,
-    "author": "tool4cool",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28987065"
-  },
-  {
     "title": "How to learn mathematics: the asterisk method",
     "url": "http://www.geometry.org/tex/conc/mathlearn.html",
-    "upvotes": 242,
+    "upvotes": 251,
     "author": "VitalyAnkh",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=28953781"
@@ -94,47 +78,87 @@
   {
     "title": "Why did Dostoyevsky write Crime and Punishment?",
     "url": "https://www.theatlantic.com/magazine/archive/2021/11/dostoyevsky-crime-punishment-birmingham-sinner-saint/620175/",
-    "upvotes": 42,
+    "upvotes": 46,
     "author": "apollinaire",
-    "comments": 28,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=28975061"
+  },
+  {
+    "title": "WWII ships raised from watery graves by volcanic activity",
+    "url": "https://taiwanenglishnews.com/volcanic-activity-seismic-shifts-wwii-ships-from-battle-of-iwo-jima-raised-from-watery-graves/",
+    "upvotes": 63,
+    "author": "simonebrunozzi",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28985956"
+  },
+  {
+    "title": "Nine Raspberry Pis power this entire office",
+    "url": "https://www.raspberrypi.com/news/nine-raspberry-pis-power-this-entire-office/",
+    "upvotes": 13,
+    "author": "heywire",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28986816"
+  },
+  {
+    "title": "Hertz Orders 100k Teslas",
+    "url": "https://www.wsj.com/articles/hertz-orders-100-000-teslas-11635167670",
+    "upvotes": 16,
+    "author": "bookofjoe",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28987482"
+  },
+  {
+    "title": "Ebcdic Is Incompatible with GDPR",
+    "url": "https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/",
+    "upvotes": 69,
+    "author": "edent",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=28986735"
   },
   {
     "title": "Show HN: Made a web app to read a book carefully, paragraph by paragraph",
     "url": "https://readwok.com",
-    "upvotes": 55,
+    "upvotes": 61,
     "author": "wi5cat",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28975662"
-  },
-  {
-    "title": "The World of Cricket Fighting",
-    "url": "https://www.npr.org/2021/10/23/1045988512/china-cricket-fighting",
-    "upvotes": 17,
-    "author": "dccoolgai",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=28977146"
   },
   {
     "title": "The fatiguing effects of camera use in virtual meetings",
     "url": "https://doi.apa.org/fulltext/2021-77825-003.html",
-    "upvotes": 138,
+    "upvotes": 143,
     "author": "gmays",
-    "comments": 166,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=28983859"
+  },
+  {
+    "title": "Microservices and the layers to watch for when architecting your system",
+    "url": "https://www.infoq.com/articles/consistency-coupling-complexity/",
+    "upvotes": 49,
+    "author": "mulkave",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=28985889"
   },
   {
     "title": "Jetson One – Personal Electric Aerial Vehicle",
     "url": "https://www.jetsonaero.com/",
-    "upvotes": 227,
+    "upvotes": 231,
     "author": "swatkat",
-    "comments": 189,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=28982993"
+  },
+  {
+    "title": "The World of Cricket Fighting",
+    "url": "https://www.npr.org/2021/10/23/1045988512/china-cricket-fighting",
+    "upvotes": 18,
+    "author": "dccoolgai",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=28977146"
   },
   {
     "title": "Strings, arrays, recursion, and parsing JSON: Exploring PL/pgSQL",
     "url": "https://notes.eatonphil.com/exploring-plpgsql.html",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "stevekemp",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28984959"
@@ -142,50 +166,58 @@
   {
     "title": "Fork Freshness: Project lifespans in the Ruby ecosystem",
     "url": "https://gilesbowkett.com/blog/2021/08/15/fork-freshness-project-lifespans-in-the-ruby-ecosystem/",
-    "upvotes": 138,
+    "upvotes": 139,
     "author": "aazaa",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=28983436"
   },
   {
-    "title": "Lua backed completion engine for nvim",
-    "url": "https://github.com/hrsh7th/nvim-cmp",
-    "upvotes": 38,
-    "author": "gigatexal",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=28955115"
-  },
-  {
     "title": "NYT journalist hacked with Pegasus after reporting on previous hacking attempts",
     "url": "https://citizenlab.ca/2021/10/breaking-news-new-york-times-journalist-ben-hubbard-pegasus/",
-    "upvotes": 946,
+    "upvotes": 952,
     "author": "giuliomagnifico",
-    "comments": 279,
+    "comments": 280,
     "link": "https://news.ycombinator.com/item?id=28980382"
   },
   {
-    "title": "Microservices and the layers to watch for when architecting your system",
-    "url": "https://www.infoq.com/articles/consistency-coupling-complexity/",
-    "upvotes": 44,
-    "author": "mulkave",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=28985889"
+    "title": "Lua backed completion engine for nvim",
+    "url": "https://github.com/hrsh7th/nvim-cmp",
+    "upvotes": 41,
+    "author": "gigatexal",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=28955115"
   },
   {
     "title": "Across Kazakhstan by rail",
     "url": "https://www.theguardian.com/travel/2021/oct/22/across-kazakhstan-by-rail-a-photo-essay",
-    "upvotes": 168,
+    "upvotes": 170,
     "author": "sleepyshift",
-    "comments": 65,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=28954825"
   },
   {
-    "title": "Nine Raspberry Pis power this entire office",
-    "url": "https://www.raspberrypi.com/news/nine-raspberry-pis-power-this-entire-office/",
-    "upvotes": 5,
-    "author": "heywire",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28986816"
+    "title": "Prince of Persia has been released for the Atari XL/XE",
+    "url": "https://www.vintageisthenewold.com/prince-of-persia-for-the-atari-xl-xe-a-deserved-port-hits-the-atari-8-bit-computers",
+    "upvotes": 86,
+    "author": "pgarcia",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=28983738"
+  },
+  {
+    "title": "Fun with Nano Server",
+    "url": "https://virtuallyfun.com/wordpress/2021/10/17/fun-with-nano-server/",
+    "upvotes": 63,
+    "author": "collate",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=28984663"
+  },
+  {
+    "title": "Art Vote",
+    "url": "https://artvote.net/",
+    "upvotes": 61,
+    "author": "if-curious",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=28984610"
   },
   {
     "title": "Modifying the Acorn CLE-215 FPGA into a PCILeech DMA Attack Device",
@@ -196,43 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=28980651"
   },
   {
-    "title": "Prince of Persia has been released for the Atari XL/XE",
-    "url": "https://www.vintageisthenewold.com/prince-of-persia-for-the-atari-xl-xe-a-deserved-port-hits-the-atari-8-bit-computers",
-    "upvotes": 80,
-    "author": "pgarcia",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=28983738"
-  },
-  {
-    "title": "Fun with Nano Server",
-    "url": "https://virtuallyfun.com/wordpress/2021/10/17/fun-with-nano-server/",
-    "upvotes": 62,
-    "author": "collate",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=28984663"
-  },
-  {
-    "title": "Art Vote",
-    "url": "https://artvote.net/",
-    "upvotes": 59,
-    "author": "if-curious",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=28984610"
-  },
-  {
-    "title": "Employees pleaded with Facebook to stop letting politicians bend rules",
-    "url": "https://www.ft.com/content/67ad6eda-eb1c-4c97-bb3e-464c65bd63e7",
-    "upvotes": 48,
-    "author": "belter",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=28986601"
-  },
-  {
     "title": "MTA tests new subway map that evokes jettisoned 1972 version",
     "url": "https://www.wsj.com/articles/mta-tests-new-subway-map-that-evokes-jettisoned-1972-version-11634119201",
-    "upvotes": 71,
+    "upvotes": 72,
     "author": "pondsider",
-    "comments": 45,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=28984040"
   }
 ]
