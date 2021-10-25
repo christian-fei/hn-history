@@ -1,59 +1,67 @@
 [
   {
-    "title": "I don’t know how to count that low",
-    "url": "https://www.lesswrong.com/posts/koGbEwgbfst2wCbzG/i-don-t-know-how-to-count-that-low",
-    "upvotes": 130,
-    "author": "CapitalistCartr",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=28988281"
-  },
-  {
     "title": "The FBI's internal guide for getting data from AT&T, T-Mobile, Verizon",
     "url": "https://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon",
-    "upvotes": 54,
+    "upvotes": 148,
     "author": "arkadiyt",
-    "comments": 2,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=28989508"
-  },
-  {
-    "title": "An ultra-precise clock shows how to link the quantum world with gravity",
-    "url": "https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/",
-    "upvotes": 91,
-    "author": "theafh",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=28988350"
-  },
-  {
-    "title": "A Prototype Original iPod",
-    "url": "https://panic.com/blog/a-prototype-original-ipod/",
-    "upvotes": 59,
-    "author": "samps",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=28969757"
-  },
-  {
-    "title": "50 years ago, The Electric Company used comedy to boost kids' reading skills",
-    "url": "https://www.npr.org/2021/10/25/1048365940/50-years-ago-the-electric-company-used-comedy-to-boost-kids-reading-skills",
-    "upvotes": 57,
-    "author": "samizdis",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=28989111"
-  },
-  {
-    "title": "Kerla: Monolithic kernel in Rust, aiming for Linux ABI compatibility",
-    "url": "https://github.com/nuta/kerla",
-    "upvotes": 319,
-    "author": "Klasiaster",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=28986229"
   },
   {
     "title": "History of Lisp",
     "url": "http://jmc.stanford.edu/articles/lisp/lisp.pdf",
-    "upvotes": 11,
+    "upvotes": 25,
     "author": "iamcurious",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=28990878"
+  },
+  {
+    "title": "A Prototype Original iPod",
+    "url": "https://panic.com/blog/a-prototype-original-ipod/",
+    "upvotes": 90,
+    "author": "samps",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=28969757"
+  },
+  {
+    "title": "Ephemeralization",
+    "url": "https://en.wikipedia.org/wiki/Ephemeralization",
+    "upvotes": 15,
+    "author": "dearwell",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28991200"
+  },
+  {
+    "title": "An ultra-precise clock shows how to link the quantum world with gravity",
+    "url": "https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/",
+    "upvotes": 99,
+    "author": "theafh",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=28988350"
+  },
+  {
+    "title": "50 years ago, The Electric Company used comedy to boost kids' reading skills",
+    "url": "https://www.npr.org/2021/10/25/1048365940/50-years-ago-the-electric-company-used-comedy-to-boost-kids-reading-skills",
+    "upvotes": 70,
+    "author": "samizdis",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=28989111"
+  },
+  {
+    "title": "Feds order Google to track people searching certain names or details",
+    "url": "https://www.dailymail.co.uk/news/article-10063665/Government-orders-Google-track-searching-certain-names-addresses-phone-numbers.html",
+    "upvotes": 102,
+    "author": "ColinWright",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=28988184"
+  },
+  {
+    "title": "I don’t know how to count that low",
+    "url": "https://www.lesswrong.com/posts/koGbEwgbfst2wCbzG/i-don-t-know-how-to-count-that-low",
+    "upvotes": 160,
+    "author": "CapitalistCartr",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=28988281"
   },
   {
     "title": "Metadrop is hiring front end devs interested in cryptocurrency, NFTs",
@@ -62,87 +70,95 @@
   {
     "title": "Nine Raspberry Pis powering an office",
     "url": "https://www.monterail.com/blog/2016/smart-office-raspberry-pi",
-    "upvotes": 180,
+    "upvotes": 201,
     "author": "heywire",
-    "comments": 89,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=28986816"
+  },
+  {
+    "title": "Kerla: Monolithic kernel in Rust, aiming for Linux ABI compatibility",
+    "url": "https://github.com/nuta/kerla",
+    "upvotes": 333,
+    "author": "Klasiaster",
+    "comments": 131,
+    "link": "https://news.ycombinator.com/item?id=28986229"
   },
   {
     "title": "Star Labs StarLite Mk IV – 11\" Linux laptop with Coreboot",
     "url": "https://starlabs.systems/pages/starlite",
-    "upvotes": 169,
+    "upvotes": 177,
     "author": "gadgetoid",
-    "comments": 69,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=28986767"
   },
   {
-    "title": "Lambda School leaked documents show poor performance over the last two years",
-    "url": "https://www.businessinsider.com/lambda-school-promised-lucrative-tech-coding-career-low-job-placement-2021-10",
-    "upvotes": 96,
-    "author": "akanet",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=28989092"
-  },
-  {
-    "title": "Feds order Google to track people searching certain names or details",
-    "url": "https://www.dailymail.co.uk/news/article-10063665/Government-orders-Google-track-searching-certain-names-addresses-phone-numbers.html",
-    "upvotes": 51,
-    "author": "ColinWright",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=28988184"
+    "title": "Facebook documents offer a treasure trove for Washington’s antitrust war",
+    "url": "https://www.politico.com/news/2021/10/25/facebook-market-dominance-whistleblower-516918",
+    "upvotes": 54,
+    "author": "fortran77",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28987591"
   },
   {
     "title": "Show HN: Flatmap – a new tool to make vector tiles from OpenStreetMap data fast",
     "url": "https://github.com/onthegomap/flatmap",
-    "upvotes": 24,
+    "upvotes": 33,
     "author": "zylepe",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=28986762"
   },
   {
     "title": "How Many Thursdays?",
     "url": "https://leancrew.com/all-this/2021/10/how-many-thursdays/",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "Amorymeltzer",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28986236"
   },
   {
     "title": "Project SPHINX – When the USSR tried to change the computer",
     "url": "https://www.inexhibit.com/case-studies/project-sphinx-when-the-ussr-tried-to-change-the-computer/",
-    "upvotes": 128,
+    "upvotes": 130,
     "author": "cunidev",
-    "comments": 91,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=28986682"
   },
   {
-    "title": "Orbital Reef: Commercial space station by BlueOrigin, Sierra Space, Boeing",
-    "url": "https://www.orbitalreef.com",
-    "upvotes": 66,
-    "author": "panick21_",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=28989846"
-  },
-  {
-    "title": "Facebook documents offer a treasure trove for Washington’s antitrust war",
-    "url": "https://www.politico.com/news/2021/10/25/facebook-market-dominance-whistleblower-516918",
-    "upvotes": 30,
-    "author": "fortran77",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28987591"
+    "title": "Lambda School leaked documents show poor performance over the last two years",
+    "url": "https://www.businessinsider.com/lambda-school-promised-lucrative-tech-coding-career-low-job-placement-2021-10",
+    "upvotes": 131,
+    "author": "akanet",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=28989092"
   },
   {
     "title": "EBCDIC is incompatible with GDPR",
     "url": "https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/",
-    "upvotes": 160,
+    "upvotes": 172,
     "author": "edent",
-    "comments": 122,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=28986735"
+  },
+  {
+    "title": "Achsa Sprague, a spiritualist and abolitionist in 1850s Vermont",
+    "url": "https://narratively.com/she-spoke-to-the-dead-they-told-her-to-free-the-slaves/",
+    "upvotes": 8,
+    "author": "apollinaire",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28984118"
+  },
+  {
+    "title": "Orbital Reef: Commercial space station by BlueOrigin, Sierra Space, Boeing",
+    "url": "https://www.orbitalreef.com",
+    "upvotes": 70,
+    "author": "panick21_",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=28989846"
   },
   {
     "title": "Node-RED: Low-code programming for event-driven applications",
     "url": "https://nodered.org/",
-    "upvotes": 227,
+    "upvotes": 233,
     "author": "omarfarooq",
     "comments": 73,
     "link": "https://news.ycombinator.com/item?id=28985268"
@@ -150,89 +166,73 @@
   {
     "title": "WhatsApp scaled to 1B users with only 50 engineers",
     "url": "https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion",
-    "upvotes": 447,
+    "upvotes": 460,
     "author": "unripe_syntax",
-    "comments": 340,
+    "comments": 345,
     "link": "https://news.ycombinator.com/item?id=28985169"
   },
   {
-    "title": "Arrow and the Impossibility Theorem",
-    "url": "https://econweb.ucsd.edu/~rstarr/113Winter2012/Sen%27s%20ARRO-COL%2009A.pdf",
-    "upvotes": 25,
-    "author": "rfreytag",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=28988491"
+    "title": "Banning anonymous social media accounts would only stifle free speech, democracy",
+    "url": "https://www.theguardian.com/commentisfree/2021/oct/25/banning-anonymous-social-media-accounts-stifle-free-speech-abuse",
+    "upvotes": 110,
+    "author": "pseudolus",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=28988459"
   },
   {
     "title": "Blamer.el: A Git blame plugin for Emacs inspired by VS Code’s GitLens plugin",
     "url": "https://github.com/Artawower/blamer.el",
-    "upvotes": 35,
+    "upvotes": 38,
     "author": "hprotagonist",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28988346"
   },
   {
-    "title": "Banning anonymous social media accounts would only stifle free speech, democracy",
-    "url": "https://www.theguardian.com/commentisfree/2021/oct/25/banning-anonymous-social-media-accounts-stifle-free-speech-abuse",
-    "upvotes": 93,
-    "author": "pseudolus",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=28988459"
-  },
-  {
     "title": "Intelink",
     "url": "https://en.wikipedia.org/wiki/Intelink",
-    "upvotes": 33,
+    "upvotes": 36,
     "author": "graderjs",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28984602"
   },
   {
-    "title": "Art that was hiding in plain sight",
-    "url": "https://www.nytimes.com/2021/10/21/arts/arshile-gorky-new-painting.html",
-    "upvotes": 12,
-    "author": "drdee",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=28984303"
-  },
-  {
     "title": "WWII ships from Battle of Iwo Jima raised by volcanic activity, seismic shifts",
     "url": "https://taiwanenglishnews.com/volcanic-activity-seismic-shifts-wwii-ships-from-battle-of-iwo-jima-raised-from-watery-graves/",
-    "upvotes": 101,
+    "upvotes": 106,
     "author": "simonebrunozzi",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=28985956"
+  },
+  {
+    "title": "Arrow and the Impossibility Theorem",
+    "url": "https://econweb.ucsd.edu/~rstarr/113Winter2012/Sen%27s%20ARRO-COL%2009A.pdf",
+    "upvotes": 26,
+    "author": "rfreytag",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=28988491"
   },
   {
     "title": "Neo-Amish Drop Outs",
     "url": "https://kk.org/thetechnium/neoamish-drop-o/",
-    "upvotes": 16,
+    "upvotes": 21,
     "author": "johndcook",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=28989366"
   },
   {
-    "title": "Novasaur CP/M TTL Retrocomputer",
-    "url": "https://hackaday.io/project/164212-novasaur-cpm-ttl-retrocomputer",
-    "upvotes": 7,
-    "author": "rolph",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28990852"
-  },
-  {
-    "title": "Luxe: Cross platform, rapid development game engine",
-    "url": "https://luxeengine.com/about/",
-    "upvotes": 92,
-    "author": "de_keyboard",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=28986275"
+    "title": "Art that was hiding in plain sight",
+    "url": "https://www.nytimes.com/2021/10/21/arts/arshile-gorky-new-painting.html",
+    "upvotes": 13,
+    "author": "drdee",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28984303"
   },
   {
     "title": "We memo all the things",
     "url": "https://attardi.org/why-we-memo-all-the-things/",
-    "upvotes": 98,
+    "upvotes": 103,
     "author": "davecardwell",
-    "comments": 58,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=28987421"
   }
 ]
