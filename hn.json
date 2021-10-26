@@ -1,40 +1,48 @@
 [
   {
-    "title": "Privacy Is a Human Right",
-    "url": "https://blog.torproject.org/privacy-is-a-human-right",
-    "upvotes": 152,
-    "author": "pabs3",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=28997501"
-  },
-  {
     "title": "Writing a Linux-compatible kernel in Rust",
     "url": "https://seiya.me/writing-linux-clone-in-rust",
-    "upvotes": 39,
+    "upvotes": 63,
     "author": "signa11",
-    "comments": 21,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=28997668"
+  },
+  {
+    "title": "Privacy Is a Human Right",
+    "url": "https://blog.torproject.org/privacy-is-a-human-right",
+    "upvotes": 190,
+    "author": "pabs3",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=28997501"
   },
   {
     "title": "A bug that doesn’t exist on x86: Exploiting an ARM-only race condition",
     "url": "https://github.com/stong/how-to-exploit-a-double-free",
-    "upvotes": 131,
+    "upvotes": 139,
     "author": "stong1",
-    "comments": 36,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=28996500"
+  },
+  {
+    "title": "Facing sky-high connection fees, rural Ontarians go off the grid",
+    "url": "https://www.cbc.ca/news/canada/toronto/wind-solar-power-rural-ontario-1.6224159",
+    "upvotes": 17,
+    "author": "dgudkov",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=28997995"
   },
   {
     "title": "Offline-First Database Comparison",
     "url": "https://github.com/pubkey/client-side-databases",
-    "upvotes": 293,
+    "upvotes": 300,
     "author": "typingmonkey",
-    "comments": 67,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=28995268"
   },
   {
     "title": "A Librarian and a Food Historian Rediscovered the Recipes of Moorish Spain",
     "url": "https://www.atlasobscura.com/articles/moorish-cuisine",
-    "upvotes": 34,
+    "upvotes": 37,
     "author": "benbreen",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28997027"
@@ -42,7 +50,7 @@
   {
     "title": "The danger of hidden functional roles",
     "url": "https://surfingcomplexity.blog/2021/10/22/the-danger-of-hidden-functional-roles/",
-    "upvotes": 75,
+    "upvotes": 81,
     "author": "henrik_w",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=28966452"
@@ -50,51 +58,75 @@
   {
     "title": "Jury hands victory to Facebook and Oculus VR founder in Rift ownership trial",
     "url": "https://lawstreetmedia.com/news/tech/jury-hands-victory-to-facebook-and-oculus-vr-founder-in-rift-ownership-trial/",
-    "upvotes": 294,
+    "upvotes": 297,
     "author": "telotortium",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=28993752"
-  },
-  {
-    "title": "Slow Down, Finish Faster",
-    "url": "https://briandicroce.com/slow-down-finish-faster/",
-    "upvotes": 122,
-    "author": "bdicroce",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=28995431"
-  },
-  {
-    "title": "PiBox Mini – Modular Raspberry Pi Storage Server",
-    "url": "https://pibox.io",
-    "upvotes": 258,
-    "author": "geerlingguy",
     "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=28992873"
+    "link": "https://news.ycombinator.com/item?id=28993752"
   },
   {
     "title": "Show HN: CookLang – Recipe Markup Language",
     "url": "https://cooklang.org/",
-    "upvotes": 23,
+    "upvotes": 38,
     "author": "dubadub",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=28997309"
+  },
+  {
+    "title": "Plans to shift aviation from magnetic navigation to true navigation",
+    "url": "https://www.flightglobal.com/flight-international/why-aviations-compass-is-shifting-towards-true-navigation/145663.article",
+    "upvotes": 7,
+    "author": "tankenmate",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28985745"
+  },
+  {
+    "title": "Slow Down, Finish Faster",
+    "url": "https://briandicroce.com/slow-down-finish-faster/",
+    "upvotes": 126,
+    "author": "bdicroce",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=28995431"
   },
   {
     "title": "Humanloop",
     "url": "https://careers.humanloop.com/"
   },
   {
+    "title": "PiBox Mini – Modular Raspberry Pi Storage Server",
+    "url": "https://pibox.io",
+    "upvotes": 264,
+    "author": "geerlingguy",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=28992873"
+  },
+  {
+    "title": "Apple Is Normalising Surveillance",
+    "url": "https://www.wired.co.uk/article/apple-surveillance-technology",
+    "upvotes": 15,
+    "author": "freddyym",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28998318"
+  },
+  {
     "title": "My experience of losing a friend to heroin",
     "url": "https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/",
-    "upvotes": 222,
+    "upvotes": 230,
     "author": "exolymph",
-    "comments": 308,
+    "comments": 317,
     "link": "https://news.ycombinator.com/item?id=28993567"
+  },
+  {
+    "title": "Edward Snowden Slams Sam Altman's Worldcoin: 'Don't Catalogue Eyeballs'",
+    "url": "https://decrypt.co/84277/snowden-slams-sam-altman-worldcoin-eyeball-scan-for-crypto",
+    "upvotes": 32,
+    "author": "beambot",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=28998065"
   },
   {
     "title": "Venture Fund Model",
     "url": "https://my.causal.app/models/7140",
-    "upvotes": 49,
+    "upvotes": 50,
     "author": "simonebrunozzi",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28986871"
@@ -102,7 +134,7 @@
   {
     "title": "Tinysheet",
     "url": "https://tinysheet.com/",
-    "upvotes": 205,
+    "upvotes": 212,
     "author": "Amorymeltzer",
     "comments": 65,
     "link": "https://news.ycombinator.com/item?id=28967514"
@@ -110,82 +142,58 @@
   {
     "title": "Sudan woke up without Internet",
     "url": "https://blog.cloudflare.com/sudan-woke-up-without-internet/",
-    "upvotes": 16,
+    "upvotes": 24,
     "author": "pimterry",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=28997989"
   },
   {
     "title": "Apple M1 Pro and Max Surprises",
     "url": "https://mondaynote.com/apple-m1-pro-max-surprises-7b097788160b?gi=48d77e07e47",
-    "upvotes": 83,
+    "upvotes": 87,
     "author": "evo_9",
-    "comments": 33,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=28994941"
   },
   {
     "title": "The FBI's internal guide for getting data from AT&T, T-Mobile, Verizon",
     "url": "https://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon",
-    "upvotes": 724,
+    "upvotes": 727,
     "author": "arkadiyt",
-    "comments": 222,
+    "comments": 224,
     "link": "https://news.ycombinator.com/item?id=28989508"
-  },
-  {
-    "title": "Rendering on the Apple M1 Max Chip",
-    "url": "https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html",
-    "upvotes": 263,
-    "author": "bhouston",
-    "comments": 213,
-    "link": "https://news.ycombinator.com/item?id=28994800"
   },
   {
     "title": "The Jonathan Computer",
     "url": "http://www.storiesofapple.net/the-jonathan-computer.html",
-    "upvotes": 46,
+    "upvotes": 47,
     "author": "rbanffy",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=28986908"
   },
   {
-    "title": "Grand mosaic of the Milky Way is now larger than ever",
-    "url": "https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html",
-    "upvotes": 134,
-    "author": "MrSlo",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=28991537"
-  },
-  {
-    "title": "Missing hiker ignores calls from rescuers as they didn’t recognise the number",
-    "url": "https://www.theguardian.com/us-news/2021/oct/26/hiker-lost-on-us-mountain-ignored-calls-from-rescuers-because-he-didnt-recognise-the-number",
-    "upvotes": 36,
-    "author": "alibarber",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=28997392"
+    "title": "Rendering on the Apple M1 Max Chip",
+    "url": "https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html",
+    "upvotes": 266,
+    "author": "bhouston",
+    "comments": 220,
+    "link": "https://news.ycombinator.com/item?id=28994800"
   },
   {
     "title": "Feds order Google to track people searching certain names or details",
     "url": "https://www.dailymail.co.uk/news/article-10063665/Government-orders-Google-track-searching-certain-names-addresses-phone-numbers.html",
-    "upvotes": 637,
+    "upvotes": 643,
     "author": "ColinWright",
-    "comments": 276,
+    "comments": 279,
     "link": "https://news.ycombinator.com/item?id=28988184"
   },
   {
     "title": "I’ve been reading a whole lot about tomatoes",
     "url": "https://buttondown.email/hardwarethings/archive/hardware-things-im-betting-that-you-need-a-break/",
-    "upvotes": 95,
+    "upvotes": 97,
     "author": "feltsense",
-    "comments": 109,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=28992216"
-  },
-  {
-    "title": "Ephemeralization",
-    "url": "https://en.wikipedia.org/wiki/Ephemeralization",
-    "upvotes": 130,
-    "author": "dearwell",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=28991200"
   },
   {
     "title": "System sniffs out hardware trojans in electromagnetic emissions",
@@ -198,41 +206,33 @@
   {
     "title": "The strangely difficult problem of drawing a box around text",
     "url": "https://blog.battlefy.com/the-strangely-difficult-problem-of-drawing-a-box-around-text-e6a70bdf6bb9?gi=79a10e112449",
-    "upvotes": 73,
+    "upvotes": 74,
     "author": "pyrolistical",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=28990145"
   },
   {
     "title": "Right-to-disconnect legislation being introduced by Ontario Government",
     "url": "https://www.cbc.ca/news/canada/toronto/ontario-to-introduce-legislation-to-help-protect-workers-1.6223719",
-    "upvotes": 79,
+    "upvotes": 80,
     "author": "neom",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=28995812"
+  },
+  {
+    "title": "macOS Monterey",
+    "url": "https://www.apple.com/macos/monterey/",
+    "upvotes": 376,
+    "author": "fossislife",
+    "comments": 519,
+    "link": "https://news.ycombinator.com/item?id=28990744"
   },
   {
     "title": "Judging Janet",
     "url": "https://ianthehenry.com/posts/janet-game/judging-janet/",
-    "upvotes": 15,
+    "upvotes": 16,
     "author": "ianthehenry",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28991474"
-  },
-  {
-    "title": "Edward Snowden Slams Sam Altman's Worldcoin: 'Don't Catalogue Eyeballs'",
-    "url": "https://decrypt.co/84277/snowden-slams-sam-altman-worldcoin-eyeball-scan-for-crypto",
-    "upvotes": 9,
-    "author": "beambot",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28998065"
-  },
-  {
-    "title": "FBI raids researcher who discovered private patient data on public server",
-    "url": "https://www.dailydot.com/debug/justin-shafer-fbi-raid/",
-    "upvotes": 117,
-    "author": "tragictrash",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=28995840"
   }
 ]
