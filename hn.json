@@ -2,31 +2,31 @@
   {
     "title": "This word does not exist",
     "url": "https://www.thisworddoesnotexist.com/",
-    "upvotes": 462,
+    "upvotes": 505,
     "author": "adrian_mrd",
-    "comments": 220,
+    "comments": 232,
     "link": "https://news.ycombinator.com/item?id=29002776"
-  },
-  {
-    "title": "France moves to shield its book industry from Amazon",
-    "url": "https://www.reuters.com/business/retail-consumer/france-moves-shield-its-book-industry-amazon-2021-10-25/",
-    "upvotes": 27,
-    "author": "80mph",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=29006388"
   },
   {
     "title": "Bugs in our pockets: the risks of client-side scanning",
     "url": "https://arxiv.org/abs/2110.07450",
-    "upvotes": 54,
+    "upvotes": 67,
     "author": "azalemeth",
-    "comments": 11,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29005793"
+  },
+  {
+    "title": "France moves to shield its book industry from Amazon",
+    "url": "https://www.reuters.com/business/retail-consumer/france-moves-shield-its-book-industry-amazon-2021-10-25/",
+    "upvotes": 54,
+    "author": "80mph",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=29006388"
   },
   {
     "title": "A patent troll backs off",
     "url": "https://www.sparkfun.com/news/3970",
-    "upvotes": 481,
+    "upvotes": 495,
     "author": "zdw",
     "comments": 132,
     "link": "https://news.ycombinator.com/item?id=29000304"
@@ -34,26 +34,34 @@
   {
     "title": "Building a recommendation engine inside Postgres with Python and Pandas",
     "url": "https://blog.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python",
-    "upvotes": 29,
+    "upvotes": 34,
     "author": "rbanffy",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29005863"
-  },
-  {
-    "title": "Fast-Paced Multiplayer",
-    "url": "https://www.gabrielgambetta.com/client-server-game-architecture.html",
-    "upvotes": 91,
-    "author": "mkl95",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=29003727"
   },
   {
     "title": "Which jobs most often pair together among married couples",
     "url": "https://flowingdata.com/2021/05/26/jobs-that-marry-together/",
-    "upvotes": 97,
+    "upvotes": 117,
     "author": "thrower123",
-    "comments": 97,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=29003986"
+  },
+  {
+    "title": "Fast-Paced Multiplayer",
+    "url": "https://www.gabrielgambetta.com/client-server-game-architecture.html",
+    "upvotes": 100,
+    "author": "mkl95",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=29003727"
+  },
+  {
+    "title": "My Foreword to “The Art of Agile Development”",
+    "url": "https://martinfowler.com/articles/art-agile-foreword.html",
+    "upvotes": 20,
+    "author": "gregmac",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29000973"
   },
   {
     "title": "EasyPost",
@@ -62,23 +70,31 @@
   {
     "title": "We need new data books, so we published one",
     "url": "https://theinformedcompany.com/posts/we-need-new-data-books-so-we-published-one/",
-    "upvotes": 74,
+    "upvotes": 79,
     "author": "thingsilearned",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29004757"
   },
   {
-    "title": "My Foreword to “The Art of Agile Development”",
-    "url": "https://martinfowler.com/articles/art-agile-foreword.html",
-    "upvotes": 16,
-    "author": "gregmac",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29000973"
+    "title": "Why Lisp?",
+    "url": "http://blog.rongarret.info/2015/05/why-lisp.html",
+    "upvotes": 29,
+    "author": "oumua_don17",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=29006172"
+  },
+  {
+    "title": "Sand Won’t Save You This Time",
+    "url": "https://www.science.org/content/blog-post/sand-won-t-save-you-time",
+    "upvotes": 38,
+    "author": "Tomte",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=28998834"
   },
   {
     "title": "Allwinner D1s/F133 RISC-V Processor Integrates 64MB DDR2",
     "url": "https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/",
-    "upvotes": 53,
+    "upvotes": 57,
     "author": "thedday",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29004551"
@@ -86,153 +102,137 @@
   {
     "title": "Get AWS costs posted directly to Slack",
     "url": "https://www.vantage.sh/blog/vantage-slack-notifications",
-    "upvotes": 44,
+    "upvotes": 48,
     "author": "StratusBen",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=29004934"
   },
   {
-    "title": "Why Lisp?",
-    "url": "http://blog.rongarret.info/2015/05/why-lisp.html",
-    "upvotes": 23,
-    "author": "oumua_don17",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=29006172"
-  },
-  {
-    "title": "Sand Won’t Save You This Time",
-    "url": "https://www.science.org/content/blog-post/sand-won-t-save-you-time",
-    "upvotes": 32,
-    "author": "Tomte",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=28998834"
-  },
-  {
     "title": "Element One – All of Matrix, WhatsApp, Signal and Telegram in one place",
     "url": "https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/",
-    "upvotes": 458,
+    "upvotes": 465,
     "author": "mcjiggerlog",
-    "comments": 320,
+    "comments": 324,
     "link": "https://news.ycombinator.com/item?id=28997898"
-  },
-  {
-    "title": "Alphabet Third Quarter 2021 Results [pdf]",
-    "url": "https://abc.xyz/investor/static/pdf/2021Q3_alphabet_earnings_release.pdf",
-    "upvotes": 94,
-    "author": "nappy-doo",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=29005669"
-  },
-  {
-    "title": "Geothermal's path to relevance: cheap drilling",
-    "url": "https://austinvernon.site/blog/drillingplan.html",
-    "upvotes": 86,
-    "author": "drocer88",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=29002804"
   },
   {
     "title": "Postgres audit tables saved us from taking down production",
     "url": "https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production",
-    "upvotes": 58,
+    "upvotes": 64,
     "author": "kmdupree",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=29003356"
   },
   {
     "title": "The slab and the permacomputer",
     "url": "https://society.robinsloan.com/archive/slab/",
-    "upvotes": 50,
+    "upvotes": 54,
     "author": "akkartik",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28995999"
+  },
+  {
+    "title": "Geothermal's path to relevance: cheap drilling",
+    "url": "https://austinvernon.site/blog/drillingplan.html",
+    "upvotes": 90,
+    "author": "drocer88",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=29002804"
   },
   {
     "title": "Facing sky-high connection fees, rural Ontarians go off the grid",
     "url": "https://www.cbc.ca/news/canada/toronto/wind-solar-power-rural-ontario-1.6224159",
-    "upvotes": 279,
+    "upvotes": 286,
     "author": "dgudkov",
-    "comments": 319,
+    "comments": 323,
     "link": "https://news.ycombinator.com/item?id=28997995"
-  },
-  {
-    "title": "Plans to shift aviation from magnetic navigation to true navigation",
-    "url": "https://www.flightglobal.com/flight-international/why-aviations-compass-is-shifting-towards-true-navigation/145663.article",
-    "upvotes": 248,
-    "author": "tankenmate",
-    "comments": 146,
-    "link": "https://news.ycombinator.com/item?id=28985745"
-  },
-  {
-    "title": "Where have all the insects gone?",
-    "url": "https://www.newyorker.com/magazine/2021/11/01/where-have-all-the-insects-gone-e-o-wilson-silent-earth",
-    "upvotes": 241,
-    "author": "jseliger",
-    "comments": 226,
-    "link": "https://news.ycombinator.com/item?id=29002120"
   },
   {
     "title": "How we built a serverless SQL database",
     "url": "https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/",
-    "upvotes": 166,
+    "upvotes": 173,
     "author": "TheresaBraccio",
-    "comments": 46,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=29001285"
   },
   {
-    "title": "U.S. regulators exploring how banks could hold Bitcoin – FDIC Chairman",
-    "url": "https://www.reuters.com/business/finance/us-regulators-exploring-how-banks-could-hold-crypto-assets-fdic-chairman-2021-10-26/",
-    "upvotes": 46,
-    "author": "washedup",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=29003168"
+    "title": "Plans to shift aviation from magnetic navigation to true navigation",
+    "url": "https://www.flightglobal.com/flight-international/why-aviations-compass-is-shifting-towards-true-navigation/145663.article",
+    "upvotes": 249,
+    "author": "tankenmate",
+    "comments": 147,
+    "link": "https://news.ycombinator.com/item?id=28985745"
+  },
+  {
+    "title": "Google exec Peter Norvig challenges Berners-Lee",
+    "url": "https://web.archive.org/web/20070105030625/http://news.com.com/Google+exec+challenges+Berners-Lee/2100-1025_3-6095705.html",
+    "upvotes": 4,
+    "author": "ColinWright",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28976349"
   },
   {
     "title": "The Sequoia Fund: Patient capital for building enduring companies",
     "url": "https://medium.com/sequoia-capital/the-sequoia-fund-patient-capital-for-building-enduring-companies-9ed7bcd6c7da",
-    "upvotes": 142,
+    "upvotes": 143,
     "author": "Zhenya",
-    "comments": 54,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=29000939"
   },
   {
     "title": "What's Next for Transistors and Chiplets?",
     "url": "https://semiengineering.com/whats-next-for-transistors-and-chiplets/",
-    "upvotes": 18,
+    "upvotes": 21,
     "author": "PaulHoule",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29000609"
+  },
+  {
+    "title": "Where have all the insects gone?",
+    "url": "https://www.newyorker.com/magazine/2021/11/01/where-have-all-the-insects-gone-e-o-wilson-silent-earth",
+    "upvotes": 245,
+    "author": "jseliger",
+    "comments": 232,
+    "link": "https://news.ycombinator.com/item?id=29002120"
   },
   {
     "title": "Porting WebGL Shaders to WebGPU",
     "url": "https://www.construct.net/en/blogs/ashleys-blog-2/porting-webgl-shaders-webgpu-1576",
-    "upvotes": 68,
+    "upvotes": 71,
     "author": "AshleysBrain",
-    "comments": 38,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=29001270"
-  },
-  {
-    "title": "Announcing Vitess 12",
-    "url": "https://vitess.io/blog/2021-10-26-announcing-vitess-12/",
-    "upvotes": 30,
-    "author": "ksec",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29006157"
   },
   {
     "title": "Former Facebook staffers launch Integrity Institute",
     "url": "https://www.protocol.com/policy/integrity-institute",
-    "upvotes": 127,
+    "upvotes": 133,
     "author": "paultopia",
-    "comments": 87,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=29000137"
   },
   {
-    "title": "Show HN: CookLang – Recipe Markup Language",
-    "url": "https://cooklang.org/",
-    "upvotes": 346,
-    "author": "dubadub",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=28997309"
+    "title": "Ask HN: Whatever happened to exploring the internet?",
+    "url": "item?id=28976069",
+    "upvotes": 70,
+    "author": "mickjagger",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=28976069"
+  },
+  {
+    "title": "Alphabet Third Quarter 2021 Results [pdf]",
+    "url": "https://abc.xyz/investor/static/pdf/2021Q3_alphabet_earnings_release.pdf",
+    "upvotes": 97,
+    "author": "nappy-doo",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=29005669"
+  },
+  {
+    "title": "Announcing Vitess 12",
+    "url": "https://vitess.io/blog/2021-10-26-announcing-vitess-12/",
+    "upvotes": 33,
+    "author": "ksec",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29006157"
   }
 ]
