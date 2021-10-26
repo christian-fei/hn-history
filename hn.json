@@ -1,175 +1,191 @@
 [
   {
+    "title": "This Word Does Not Exist",
+    "url": "https://www.thisworddoesnotexist.com/",
+    "upvotes": 85,
+    "author": "adrian_mrd",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=29002776"
+  },
+  {
     "title": "A patent troll backs off",
     "url": "https://www.sparkfun.com/news/3970",
-    "upvotes": 306,
+    "upvotes": 336,
     "author": "zdw",
-    "comments": 78,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=29000304"
   },
   {
     "title": "Where have all the insects gone?",
     "url": "https://www.newyorker.com/magazine/2021/11/01/where-have-all-the-insects-gone-e-o-wilson-silent-earth",
-    "upvotes": 142,
+    "upvotes": 159,
     "author": "jseliger",
-    "comments": 128,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=29002120"
-  },
-  {
-    "title": "This Word Does Not Exist",
-    "url": "https://www.thisworddoesnotexist.com/",
-    "upvotes": 27,
-    "author": "adrian_mrd",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=29002776"
-  },
-  {
-    "title": "The Gold Standard and the Great Depression",
-    "url": "https://www.nber.org/papers/w6060",
-    "upvotes": 36,
-    "author": "VHRanger",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=29003199"
-  },
-  {
-    "title": "Geothermal's path to relevance: cheap drilling",
-    "url": "https://austinvernon.site/blog/drillingplan.html",
-    "upvotes": 33,
-    "author": "drocer88",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=29002804"
-  },
-  {
-    "title": "Element One – All of Matrix, WhatsApp, Signal and Telegram in one place",
-    "url": "https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/",
-    "upvotes": 375,
-    "author": "mcjiggerlog",
-    "comments": 260,
-    "link": "https://news.ycombinator.com/item?id=28997898"
   },
   {
     "title": "SARS-CoV-2 variant A.30 is heavily mutated and evades vaccine-induced antibodies",
     "url": "https://www.nature.com/articles/s41423-021-00779-5",
-    "upvotes": 25,
+    "upvotes": 74,
     "author": "bananapear",
-    "comments": 9,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=29004006"
+  },
+  {
+    "title": "The Gold Standard and the Great Depression",
+    "url": "https://www.nber.org/papers/w6060",
+    "upvotes": 39,
+    "author": "VHRanger",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=29003199"
+  },
+  {
+    "title": "Element One – All of Matrix, WhatsApp, Signal and Telegram in one place",
+    "url": "https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/",
+    "upvotes": 384,
+    "author": "mcjiggerlog",
+    "comments": 272,
+    "link": "https://news.ycombinator.com/item?id=28997898"
+  },
+  {
+    "title": "Geothermal's path to relevance: cheap drilling",
+    "url": "https://austinvernon.site/blog/drillingplan.html",
+    "upvotes": 35,
+    "author": "drocer88",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=29002804"
   },
   {
     "title": "The Sequoia Fund: Patient capital for building enduring companies",
     "url": "https://medium.com/sequoia-capital/the-sequoia-fund-patient-capital-for-building-enduring-companies-9ed7bcd6c7da",
-    "upvotes": 108,
+    "upvotes": 112,
     "author": "Zhenya",
-    "comments": 36,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=29000939"
+  },
+  {
+    "title": "Plans to shift aviation from magnetic navigation to true navigation",
+    "url": "https://www.flightglobal.com/flight-international/why-aviations-compass-is-shifting-towards-true-navigation/145663.article",
+    "upvotes": 228,
+    "author": "tankenmate",
+    "comments": 132,
+    "link": "https://news.ycombinator.com/item?id=28985745"
   },
   {
     "title": "CareRev (YC S16) is hiring data engineers and data architects",
     "url": "item?id=29002941"
   },
   {
-    "title": "Next.js 12",
-    "url": "https://nextjs.org/blog/next-12",
-    "upvotes": 285,
-    "author": "jacobwg",
-    "comments": 171,
-    "link": "https://news.ycombinator.com/item?id=29001721"
-  },
-  {
-    "title": "Plans to shift aviation from magnetic navigation to true navigation",
-    "url": "https://www.flightglobal.com/flight-international/why-aviations-compass-is-shifting-towards-true-navigation/145663.article",
-    "upvotes": 224,
-    "author": "tankenmate",
-    "comments": 130,
-    "link": "https://news.ycombinator.com/item?id=28985745"
-  },
-  {
     "title": "Facing sky-high connection fees, rural Ontarians go off the grid",
     "url": "https://www.cbc.ca/news/canada/toronto/wind-solar-power-rural-ontario-1.6224159",
-    "upvotes": 234,
+    "upvotes": 241,
     "author": "dgudkov",
-    "comments": 267,
+    "comments": 273,
     "link": "https://news.ycombinator.com/item?id=28997995"
-  },
-  {
-    "title": "Porting WebGL Shaders to WebGPU",
-    "url": "https://www.construct.net/en/blogs/ashleys-blog-2/porting-webgl-shaders-webgpu-1576",
-    "upvotes": 40,
-    "author": "AshleysBrain",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=29001270"
   },
   {
     "title": "MobaXterm free Xserver and tabbed SSH client for Windows",
     "url": "https://mobaxterm.mobatek.net/",
-    "upvotes": 40,
+    "upvotes": 43,
     "author": "thunderbong",
-    "comments": 28,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=29001665"
   },
   {
-    "title": "Former Facebook staffers launch Integrity Institute",
-    "url": "https://www.protocol.com/policy/integrity-institute",
-    "upvotes": 87,
-    "author": "paultopia",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=29000137"
-  },
-  {
-    "title": "Show HN: Scribe generates step-by-step guides for GUI workflows",
-    "url": "https://get.scribehow.com/hn2021/",
-    "upvotes": 18,
-    "author": "apodolny",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=29001486"
+    "title": "Porting WebGL Shaders to WebGPU",
+    "url": "https://www.construct.net/en/blogs/ashleys-blog-2/porting-webgl-shaders-webgpu-1576",
+    "upvotes": 45,
+    "author": "AshleysBrain",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=29001270"
   },
   {
     "title": "How Postgres Audit Tables Saved Us from Taking Down Production",
     "url": "https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production",
-    "upvotes": 7,
+    "upvotes": 10,
     "author": "kmdupree",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29003356"
   },
   {
-    "title": "Rust on Espressif chips",
-    "url": "https://mabez.dev/blog/posts/esp-rust-18-10-2021/",
-    "upvotes": 184,
-    "author": "lukastyrychtr",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=29000870"
+    "title": "Next.js 12",
+    "url": "https://nextjs.org/blog/next-12",
+    "upvotes": 298,
+    "author": "jacobwg",
+    "comments": 190,
+    "link": "https://news.ycombinator.com/item?id=29001721"
   },
   {
     "title": "The Slab and the Permacomputer",
     "url": "https://society.robinsloan.com/archive/slab/",
-    "upvotes": 6,
+    "upvotes": 9,
     "author": "akkartik",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28995999"
   },
   {
-    "title": "Hacking Hacker News for Fun and Profit – Part 1",
-    "url": "https://blog.arnica.io/hacking-hacker-news-for-fun-and-profit-part-1-41bd6a48a2c2?gi=60c4e82c053c",
-    "upvotes": 42,
-    "author": "eranation",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=29002669"
+    "title": "Show HN: Scribe generates step-by-step guides for GUI workflows",
+    "url": "https://get.scribehow.com/hn2021/",
+    "upvotes": 21,
+    "author": "apodolny",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=29001486"
+  },
+  {
+    "title": "Allwinner D1s/F133 RISC-V Processor Integrates 64MB DDR2 – CNX Software",
+    "url": "https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/",
+    "upvotes": 3,
+    "author": "thedday",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29004551"
+  },
+  {
+    "title": "Former Facebook staffers launch Integrity Institute",
+    "url": "https://www.protocol.com/policy/integrity-institute",
+    "upvotes": 90,
+    "author": "paultopia",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=29000137"
   },
   {
     "title": "How we built a serverless SQL database",
     "url": "https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/",
-    "upvotes": 73,
+    "upvotes": 84,
     "author": "TheresaBraccio",
-    "comments": 7,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=29001285"
   },
   {
-    "title": "Neuroscientists discovered a whole new role for the cerebellum",
-    "url": "https://www.sciencealert.com/cerebellum-human-brain-neuroscience-discover-new-role-behaviour-reward-response",
-    "upvotes": 30,
-    "author": "ofou",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=28975203"
+    "title": "Hacking Hacker News for Fun and Profit – Part 1",
+    "url": "https://blog.arnica.io/hacking-hacker-news-for-fun-and-profit-part-1-41bd6a48a2c2?gi=60c4e82c053c",
+    "upvotes": 45,
+    "author": "eranation",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29002669"
+  },
+  {
+    "title": "Rust on Espressif chips",
+    "url": "https://mabez.dev/blog/posts/esp-rust-18-10-2021/",
+    "upvotes": 186,
+    "author": "lukastyrychtr",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=29000870"
+  },
+  {
+    "title": "Show HN: CookLang – Recipe Markup Language",
+    "url": "https://cooklang.org/",
+    "upvotes": 312,
+    "author": "dubadub",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=28997309"
+  },
+  {
+    "title": "A bug that doesn’t exist on x86: Exploiting an ARM-only race condition",
+    "url": "https://github.com/stong/how-to-exploit-a-double-free",
+    "upvotes": 269,
+    "author": "stong1",
+    "comments": 112,
+    "link": "https://news.ycombinator.com/item?id=28996500"
   },
   {
     "title": "Ask Delphi",
@@ -180,59 +196,43 @@
     "link": "https://news.ycombinator.com/item?id=28987704"
   },
   {
-    "title": "Show HN: CookLang – Recipe Markup Language",
-    "url": "https://cooklang.org/",
-    "upvotes": 306,
-    "author": "dubadub",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=28997309"
-  },
-  {
-    "title": "A bug that doesn’t exist on x86: Exploiting an ARM-only race condition",
-    "url": "https://github.com/stong/how-to-exploit-a-double-free",
-    "upvotes": 269,
-    "author": "stong1",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=28996500"
-  },
-  {
-    "title": "Our new Connect subscription service",
-    "url": "https://support.remarkable.com/hc/en-us/articles/4406217575441-Information-about-Connect",
+    "title": "Neuroscientists discovered a whole new role for the cerebellum",
+    "url": "https://www.sciencealert.com/cerebellum-human-brain-neuroscience-discover-new-role-behaviour-reward-response",
     "upvotes": 31,
-    "author": "gapo",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=29000674"
-  },
-  {
-    "title": "Photoshop’s journey to the web",
-    "url": "https://web.dev/ps-on-the-web/",
-    "upvotes": 135,
-    "author": "feross",
-    "comments": 148,
-    "link": "https://news.ycombinator.com/item?id=29001093"
+    "author": "ofou",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=28975203"
   },
   {
     "title": "Show HN: QuickServ – User-friendly web server",
     "url": "https://github.com/jstrieb/quickserv",
-    "upvotes": 20,
+    "upvotes": 25,
     "author": "jstrieb",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29002694"
+  },
+  {
+    "title": "Photoshop’s journey to the web",
+    "url": "https://web.dev/ps-on-the-web/",
+    "upvotes": 139,
+    "author": "feross",
+    "comments": 150,
+    "link": "https://news.ycombinator.com/item?id=29001093"
+  },
+  {
+    "title": "Our new Connect subscription service",
+    "url": "https://support.remarkable.com/hc/en-us/articles/4406217575441-Information-about-Connect",
+    "upvotes": 33,
+    "author": "gapo",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=29000674"
   },
   {
     "title": "Too big to cover alone: Newsrooms team up",
     "url": "https://www.axios.com/journalism-partnerships-facebook-papers-panama-127415c0-e11d-4e5e-8697-322ab75c02cc.html",
-    "upvotes": 25,
+    "upvotes": 28,
     "author": "samizdis",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=29000158"
-  },
-  {
-    "title": "My interview with Steven Levy re. leaking of my Facebook Goodbye post",
-    "url": "https://alecmuffett.com/article/14994",
-    "upvotes": 199,
-    "author": "amadeuspagel",
-    "comments": 207,
-    "link": "https://news.ycombinator.com/item?id=28999117"
   }
 ]
