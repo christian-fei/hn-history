@@ -1,83 +1,91 @@
 [
   {
-    "title": "Plans to shift aviation from magnetic navigation to true navigation",
-    "url": "https://www.flightglobal.com/flight-international/why-aviations-compass-is-shifting-towards-true-navigation/145663.article",
-    "upvotes": 138,
-    "author": "tankenmate",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=28985745"
+    "title": "Rust on Espressif chips",
+    "url": "https://mabez.dev/blog/posts/esp-rust-18-10-2021/",
+    "upvotes": 72,
+    "author": "lukastyrychtr",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29000870"
   },
   {
     "title": "Element One – All of Matrix, WhatsApp, Signal and Telegram in One Place",
     "url": "https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/",
-    "upvotes": 199,
+    "upvotes": 231,
     "author": "mcjiggerlog",
-    "comments": 123,
+    "comments": 163,
     "link": "https://news.ycombinator.com/item?id=28997898"
+  },
+  {
+    "title": "Plans to shift aviation from magnetic navigation to true navigation",
+    "url": "https://www.flightglobal.com/flight-international/why-aviations-compass-is-shifting-towards-true-navigation/145663.article",
+    "upvotes": 163,
+    "author": "tankenmate",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=28985745"
   },
   {
     "title": "Facing sky-high connection fees, rural Ontarians go off the grid",
     "url": "https://www.cbc.ca/news/canada/toronto/wind-solar-power-rural-ontario-1.6224159",
-    "upvotes": 144,
+    "upvotes": 162,
     "author": "dgudkov",
-    "comments": 156,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=28997995"
-  },
-  {
-    "title": "Rust on Espressif chips – 18-10-2021",
-    "url": "https://mabez.dev/blog/posts/esp-rust-18-10-2021/",
-    "upvotes": 5,
-    "author": "lukastyrychtr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29000870"
   },
   {
     "title": "Uranium Glass",
     "url": "https://en.wikipedia.org/wiki/Uranium_glass",
-    "upvotes": 52,
+    "upvotes": 72,
     "author": "hdivider",
-    "comments": 31,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=28967478"
-  },
-  {
-    "title": "A bug that doesn’t exist on x86: Exploiting an ARM-only race condition",
-    "url": "https://github.com/stong/how-to-exploit-a-double-free",
-    "upvotes": 222,
-    "author": "stong1",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=28996500"
-  },
-  {
-    "title": "Offline-First Database Comparison",
-    "url": "https://github.com/pubkey/client-side-databases",
-    "upvotes": 370,
-    "author": "typingmonkey",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=28995268"
-  },
-  {
-    "title": "The Venus’s Flower Basket’s Weird Fluid Dynamics Explained",
-    "url": "https://www.scientificamerican.com/article/the-venuss-flower-baskets-weird-fluid-dynamics-explained/",
-    "upvotes": 10,
-    "author": "_Microft",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28987357"
   },
   {
     "title": "Ask Delphi",
     "url": "https://delphi.allenai.org/",
-    "upvotes": 22,
+    "upvotes": 31,
     "author": "ilarum",
-    "comments": 16,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=28987704"
+  },
+  {
+    "title": "A bug that doesn’t exist on x86: Exploiting an ARM-only race condition",
+    "url": "https://github.com/stong/how-to-exploit-a-double-free",
+    "upvotes": 231,
+    "author": "stong1",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=28996500"
+  },
+  {
+    "title": "My interview with Steven Levy re. leaking of my Facebook Goodbye post",
+    "url": "https://alecmuffett.com/article/14994",
+    "upvotes": 149,
+    "author": "amadeuspagel",
+    "comments": 145,
+    "link": "https://news.ycombinator.com/item?id=28999117"
+  },
+  {
+    "title": "Offline-First Database Comparison",
+    "url": "https://github.com/pubkey/client-side-databases",
+    "upvotes": 378,
+    "author": "typingmonkey",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=28995268"
   },
   {
     "title": "Apple Is Normalising Surveillance",
     "url": "https://www.wired.co.uk/article/apple-surveillance-technology",
-    "upvotes": 203,
+    "upvotes": 237,
     "author": "freddyym",
-    "comments": 133,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=28998318"
+  },
+  {
+    "title": "The Venus’s Flower Basket’s Weird Fluid Dynamics Explained",
+    "url": "https://www.scientificamerican.com/article/the-venuss-flower-baskets-weird-fluid-dynamics-explained/",
+    "upvotes": 12,
+    "author": "_Microft",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=28987357"
   },
   {
     "title": "MagicBell",
@@ -86,111 +94,127 @@
   {
     "title": "Edward Snowden Slams Sam Altman's Worldcoin: 'Don't Catalogue Eyeballs'",
     "url": "https://decrypt.co/84277/snowden-slams-sam-altman-worldcoin-eyeball-scan-for-crypto",
-    "upvotes": 263,
+    "upvotes": 311,
     "author": "beambot",
-    "comments": 135,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=28998065"
   },
   {
     "title": "Show HN: CookLang – Recipe Markup Language",
     "url": "https://cooklang.org/",
-    "upvotes": 188,
+    "upvotes": 206,
     "author": "dubadub",
-    "comments": 67,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=28997309"
   },
   {
     "title": "A Librarian and a Food Historian Rediscovered the Recipes of Moorish Spain",
     "url": "https://www.atlasobscura.com/articles/moorish-cuisine",
-    "upvotes": 75,
+    "upvotes": 84,
     "author": "benbreen",
-    "comments": 22,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=28997027"
-  },
-  {
-    "title": "My interview with Steven Levy re. leaking of my Facebook Goodbye post",
-    "url": "https://alecmuffett.com/article/14994",
-    "upvotes": 133,
-    "author": "amadeuspagel",
-    "comments": 130,
-    "link": "https://news.ycombinator.com/item?id=28999117"
   },
   {
     "title": "GitHub stale bot considered harmful",
     "url": "https://drewdevault.com/2021/10/26/stalebot.html",
-    "upvotes": 211,
+    "upvotes": 253,
     "author": "als0",
-    "comments": 105,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=28998374"
+  },
+  {
+    "title": "They left Facebooks integrity team. Now they want the world to know how it works",
+    "url": "https://www.protocol.com/policy/integrity-institute",
+    "upvotes": 26,
+    "author": "paultopia",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29000137"
   },
   {
     "title": "The danger of hidden functional roles",
     "url": "https://surfingcomplexity.blog/2021/10/22/the-danger-of-hidden-functional-roles/",
-    "upvotes": 134,
+    "upvotes": 142,
     "author": "henrik_w",
-    "comments": 51,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=28966452"
-  },
-  {
-    "title": "Slow Down, Finish Faster",
-    "url": "https://briandicroce.com/slow-down-finish-faster/",
-    "upvotes": 170,
-    "author": "bdicroce",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=28995431"
   },
   {
     "title": "CRDT resources",
     "url": "https://wiki.nikitavoloboev.xyz/distributed-systems/crdt",
-    "upvotes": 57,
+    "upvotes": 69,
     "author": "stichers",
-    "comments": 20,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=28998767"
+  },
+  {
+    "title": "Building a Multi-Region Service Mesh",
+    "url": "https://www.koyeb.com/blog/building-a-multi-region-service-mesh-with-kuma-envoy-anycast-bgp-and-mtls",
+    "upvotes": 18,
+    "author": "eric_khun",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=28987009"
+  },
+  {
+    "title": "Slow Down, Finish Faster",
+    "url": "https://briandicroce.com/slow-down-finish-faster/",
+    "upvotes": 173,
+    "author": "bdicroce",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=28995431"
   },
   {
     "title": "Apple Privacy Rules to Blame for Facebook's Lower Than Expected Quarterly Growth",
     "url": "https://www.macrumors.com/2021/10/26/apple-privacy-rules-blame-facebook-earnings/",
-    "upvotes": 49,
+    "upvotes": 63,
     "author": "charlieegan3",
-    "comments": 37,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=28999056"
+  },
+  {
+    "title": "Europol investigation busts 150 'high value' darknet vendors",
+    "url": "https://www.dw.com/en/europol-investigation-busts-150-high-value-darknet-vendors/a-59625287",
+    "upvotes": 8,
+    "author": "samizdis",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29000865"
   },
   {
     "title": "Just Ask for Generalization",
     "url": "https://evjang.com/2021/10/23/generalization.html",
-    "upvotes": 18,
+    "upvotes": 23,
     "author": "ArtWomb",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28987046"
   },
   {
     "title": "The ‘Dune’ Screenplay Was Written in MS-DOS",
     "url": "https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos",
-    "upvotes": 58,
+    "upvotes": 84,
     "author": "onychomys",
-    "comments": 57,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=29000175"
   },
   {
     "title": "Iran says cyberattack closes gas stations across country",
     "url": "https://apnews.com/article/business-middle-east-iran-dubai-united-arab-emirates-0342c10733bc89379e00d99152fe7a1f",
-    "upvotes": 29,
+    "upvotes": 36,
     "author": "geox",
-    "comments": 12,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=28999209"
   },
   {
     "title": "The FBI's internal guide for getting data from AT&T, T-Mobile, Verizon",
     "url": "https://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon",
-    "upvotes": 759,
+    "upvotes": 769,
     "author": "arkadiyt",
-    "comments": 233,
+    "comments": 235,
     "link": "https://news.ycombinator.com/item?id=28989508"
   },
   {
     "title": "Venture Fund Model",
     "url": "https://my.causal.app/models/7140",
-    "upvotes": 68,
+    "upvotes": 72,
     "author": "simonebrunozzi",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28986871"
@@ -198,41 +222,17 @@
   {
     "title": "The Jonathan Computer",
     "url": "http://www.storiesofapple.net/the-jonathan-computer.html",
-    "upvotes": 68,
+    "upvotes": 72,
     "author": "rbanffy",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=28986908"
   },
   {
-    "title": "Rendering on the Apple M1 Max Chip",
-    "url": "https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html",
-    "upvotes": 314,
-    "author": "bhouston",
-    "comments": 252,
-    "link": "https://news.ycombinator.com/item?id=28994800"
-  },
-  {
     "title": "Sudan woke up without Internet",
     "url": "https://blog.cloudflare.com/sudan-woke-up-without-internet/",
-    "upvotes": 89,
+    "upvotes": 106,
     "author": "pimterry",
-    "comments": 19,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=28997989"
-  },
-  {
-    "title": "Feds order Google to track people searching certain names or details",
-    "url": "https://www.dailymail.co.uk/news/article-10063665/Government-orders-Google-track-searching-certain-names-addresses-phone-numbers.html",
-    "upvotes": 693,
-    "author": "ColinWright",
-    "comments": 290,
-    "link": "https://news.ycombinator.com/item?id=28988184"
-  },
-  {
-    "title": "Jury hands victory to Facebook and Oculus VR founder in Rift ownership trial",
-    "url": "https://lawstreetmedia.com/news/tech/jury-hands-victory-to-facebook-and-oculus-vr-founder-in-rift-ownership-trial/",
-    "upvotes": 314,
-    "author": "telotortium",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=28993752"
   }
 ]
