@@ -2,55 +2,55 @@
   {
     "title": "This word does not exist",
     "url": "https://www.thisworddoesnotexist.com/",
-    "upvotes": 704,
+    "upvotes": 723,
     "author": "adrian_mrd",
-    "comments": 299,
+    "comments": 303,
     "link": "https://news.ycombinator.com/item?id=29002776"
   },
   {
     "title": "A patent troll backs off",
     "url": "https://www.sparkfun.com/news/3970",
-    "upvotes": 581,
+    "upvotes": 586,
     "author": "zdw",
-    "comments": 158,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=29000304"
-  },
-  {
-    "title": "Bugs in our pockets: the risks of client-side scanning",
-    "url": "https://arxiv.org/abs/2110.07450",
-    "upvotes": 117,
-    "author": "azalemeth",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=29005793"
-  },
-  {
-    "title": "Which jobs most often pair together among married couples",
-    "url": "https://flowingdata.com/2021/05/26/jobs-that-marry-together/",
-    "upvotes": 220,
-    "author": "thrower123",
-    "comments": 212,
-    "link": "https://news.ycombinator.com/item?id=29003986"
   },
   {
     "title": "Giant, free index to world's research papers released online",
     "url": "https://www.nature.com/articles/d41586-021-02895-8",
-    "upvotes": 15,
+    "upvotes": 25,
     "author": "webmaven",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29008367"
+  },
+  {
+    "title": "Which jobs most often pair together among married couples",
+    "url": "https://flowingdata.com/2021/05/26/jobs-that-marry-together/",
+    "upvotes": 230,
+    "author": "thrower123",
+    "comments": 217,
+    "link": "https://news.ycombinator.com/item?id=29003986"
+  },
+  {
+    "title": "Bugs in our pockets: the risks of client-side scanning",
+    "url": "https://arxiv.org/abs/2110.07450",
+    "upvotes": 120,
+    "author": "azalemeth",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=29005793"
   },
   {
     "title": "Building a recommendation engine inside Postgres with Python and Pandas",
     "url": "https://blog.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python",
-    "upvotes": 76,
+    "upvotes": 83,
     "author": "rbanffy",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=29005863"
   },
   {
     "title": "Fast-Paced Multiplayer",
     "url": "https://www.gabrielgambetta.com/client-server-game-architecture.html",
-    "upvotes": 153,
+    "upvotes": 159,
     "author": "mkl95",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=29003727"
@@ -58,15 +58,15 @@
   {
     "title": "Sand won’t save you this time",
     "url": "https://www.science.org/content/blog-post/sand-won-t-save-you-time",
-    "upvotes": 90,
+    "upvotes": 96,
     "author": "Tomte",
-    "comments": 15,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=28998834"
   },
   {
     "title": "Google exec challenges Berners-Lee",
     "url": "https://web.archive.org/web/20070105030625/http://news.com.com/Google+exec+challenges+Berners-Lee/2100-1025_3-6095705.html",
-    "upvotes": 40,
+    "upvotes": 45,
     "author": "ColinWright",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=28976349"
@@ -74,7 +74,7 @@
   {
     "title": "Project Stardust: A Photographer Scours Rooftops for Minuscule Cosmic Particles",
     "url": "https://www.thisiscolossal.com/2021/10/jon-larsen-project-stardust/",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "Petiver",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=28997010"
@@ -82,75 +82,59 @@
   {
     "title": "We need new data books, so we published one",
     "url": "https://theinformedcompany.com/posts/we-need-new-data-books-so-we-published-one/",
-    "upvotes": 112,
+    "upvotes": 115,
     "author": "thingsilearned",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=29004757"
   },
   {
-    "title": "Make Your Own ColecoVision at Home",
-    "url": "https://www.leadedsolder.com/2021/10/26/colecovision-diy-part-4.html",
-    "upvotes": 17,
-    "author": "krallja",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29008023"
-  },
-  {
-    "title": "Affordable 70 MPH electric motorcycle is already here and no one noticed",
-    "url": "https://electrek.co/2021/10/26/north-americas-most-affordable-70-mph-electric-motorcycle-is-already-here-and-no-one-noticed/",
-    "upvotes": 38,
-    "author": "danboarder",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=29008369"
+    "title": "Notes from the Meeting on Python GIL Removal Between Python Core and Sam Gross",
+    "url": "https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/",
+    "upvotes": 60,
+    "author": "rbanffy",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=29005573"
   },
   {
     "title": "Wikivoyage has disappeared from DuckDuckGo",
     "url": "https://gaganpreet.in/posts/duckduckgo-wikivoyage/",
-    "upvotes": 174,
+    "upvotes": 180,
     "author": "gsa",
-    "comments": 60,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=29006789"
   },
   {
     "title": "Get AWS costs posted directly to Slack",
     "url": "https://www.vantage.sh/blog/vantage-slack-notifications",
-    "upvotes": 75,
+    "upvotes": 77,
     "author": "StratusBen",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=29004934"
   },
   {
-    "title": "France moves to shield its book industry from Amazon",
-    "url": "https://www.reuters.com/business/retail-consumer/france-moves-shield-its-book-industry-amazon-2021-10-25/",
-    "upvotes": 131,
-    "author": "80mph",
-    "comments": 176,
-    "link": "https://news.ycombinator.com/item?id=29006388"
+    "title": "Make Your Own ColecoVision at Home",
+    "url": "https://www.leadedsolder.com/2021/10/26/colecovision-diy-part-4.html",
+    "upvotes": 20,
+    "author": "krallja",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29008023"
+  },
+  {
+    "title": "Geothermal's path to relevance: cheap drilling",
+    "url": "https://austinvernon.site/blog/drillingplan.html",
+    "upvotes": 115,
+    "author": "drocer88",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=29002804"
   },
   {
     "title": "EasyPost",
     "url": "https://www.easypost.com/careers"
   },
   {
-    "title": "Notes from the Meeting on Python GIL Removal Between Python Core and Sam Gross",
-    "url": "https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/",
-    "upvotes": 50,
-    "author": "rbanffy",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=29005573"
-  },
-  {
-    "title": "How we built a serverless SQL database",
-    "url": "https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/",
-    "upvotes": 208,
-    "author": "TheresaBraccio",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=29001285"
-  },
-  {
     "title": "Postgres audit tables saved us from taking down production",
     "url": "https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production",
-    "upvotes": 97,
+    "upvotes": 100,
     "author": "kmdupree",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=29003356"
@@ -158,31 +142,63 @@
   {
     "title": "Allwinner D1s/F133 RISC-V Processor Integrates 64MB DDR2",
     "url": "https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/",
-    "upvotes": 77,
+    "upvotes": 79,
     "author": "thedday",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=29004551"
   },
   {
-    "title": "Geothermal's path to relevance: cheap drilling",
-    "url": "https://austinvernon.site/blog/drillingplan.html",
-    "upvotes": 112,
-    "author": "drocer88",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=29002804"
+    "title": "How we built a serverless SQL database",
+    "url": "https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/",
+    "upvotes": 212,
+    "author": "TheresaBraccio",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=29001285"
+  },
+  {
+    "title": "France moves to shield its book industry from Amazon",
+    "url": "https://www.reuters.com/business/retail-consumer/france-moves-shield-its-book-industry-amazon-2021-10-25/",
+    "upvotes": 131,
+    "author": "80mph",
+    "comments": 179,
+    "link": "https://news.ycombinator.com/item?id=29006388"
+  },
+  {
+    "title": "Terence Tao's first published paper, at 8 years old",
+    "url": "https://fermatslibrary.com/s/perfect-numbers",
+    "upvotes": 3,
+    "author": "sohkamyung",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29000595"
   },
   {
     "title": "Ask HN: Whatever happened to exploring the internet?",
     "url": "item?id=28976069",
-    "upvotes": 154,
+    "upvotes": 160,
     "author": "mickjagger",
-    "comments": 155,
+    "comments": 159,
     "link": "https://news.ycombinator.com/item?id=28976069"
+  },
+  {
+    "title": "Affordable 70 MPH electric motorcycle is already here and no one noticed",
+    "url": "https://electrek.co/2021/10/26/north-americas-most-affordable-70-mph-electric-motorcycle-is-already-here-and-no-one-noticed/",
+    "upvotes": 45,
+    "author": "danboarder",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=29008369"
+  },
+  {
+    "title": "Howard University’s removal of classics is a spiritual catastrophe",
+    "url": "https://www.washingtonpost.com/opinions/2021/04/19/cornel-west-howard-classics/",
+    "upvotes": 75,
+    "author": "hncurious",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=29007800"
   },
   {
     "title": "The slab and the permacomputer",
     "url": "https://society.robinsloan.com/archive/slab/",
-    "upvotes": 64,
+    "upvotes": 65,
     "author": "akkartik",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=28995999"
@@ -192,24 +208,16 @@
     "url": "https://medium.com/sequoia-capital/the-sequoia-fund-patient-capital-for-building-enduring-companies-9ed7bcd6c7da",
     "upvotes": 159,
     "author": "Zhenya",
-    "comments": 66,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=29000939"
   },
   {
     "title": "Adaptive Convolutions for Structure-Aware Style Transfer",
     "url": "https://studios.disneyresearch.com/2021/06/19/adaptive-convolutions-for-structure-aware-style-transfer/",
-    "upvotes": 11,
+    "upvotes": 12,
     "author": "lnyan",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29000409"
-  },
-  {
-    "title": "Howard University’s removal of classics is a spiritual catastrophe",
-    "url": "https://www.washingtonpost.com/opinions/2021/04/19/cornel-west-howard-classics/",
-    "upvotes": 66,
-    "author": "hncurious",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=29007800"
   },
   {
     "title": "What's Next for Transistors and Chiplets?",
@@ -220,19 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=29000609"
   },
   {
-    "title": "A small Documerica Twitter bot",
-    "url": "https://blog.yossarian.net/2021/10/25/A-small-documerica-twitter-bot",
-    "upvotes": 12,
-    "author": "woodruffw",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28988693"
-  },
-  {
     "title": "Where have all the insects gone?",
     "url": "https://www.newyorker.com/magazine/2021/11/01/where-have-all-the-insects-gone-e-o-wilson-silent-earth",
-    "upvotes": 272,
+    "upvotes": 274,
     "author": "jseliger",
-    "comments": 258,
+    "comments": 260,
     "link": "https://news.ycombinator.com/item?id=29002120"
   }
 ]
