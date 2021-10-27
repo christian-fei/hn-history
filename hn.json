@@ -2,7 +2,7 @@
   {
     "title": "Comparing SQLite, DuckDB and Arrow",
     "url": "https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/",
-    "upvotes": 112,
+    "upvotes": 117,
     "author": "marcle",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=29010103"
@@ -10,7 +10,7 @@
   {
     "title": "Giant, free index to world's research papers released online",
     "url": "https://www.nature.com/articles/d41586-021-02895-8",
-    "upvotes": 276,
+    "upvotes": 284,
     "author": "webmaven",
     "comments": 71,
     "link": "https://news.ycombinator.com/item?id=29008367"
@@ -18,74 +18,82 @@
   {
     "title": "Roy Fielding's Misappropriated REST Dissertation",
     "url": "https://twobithistory.org/2020/06/28/rest.html",
-    "upvotes": 99,
+    "upvotes": 103,
     "author": "fagnerbrack",
-    "comments": 79,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=29009729"
   },
   {
     "title": "The IKEA catalogue through the ages",
     "url": "https://ikeamuseum.com/en/digital/ikea-catalogues-through-the-ages/",
-    "upvotes": 41,
+    "upvotes": 48,
     "author": "pmcpinto",
-    "comments": 20,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=28997461"
+  },
+  {
+    "title": "“Dune”",
+    "url": "https://maxread.substack.com/p/dune-annotated",
+    "upvotes": 7,
+    "author": "sebg",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29011467"
+  },
+  {
+    "title": "Indian Supreme Court orders inquiry into state’s use of Pegasus spyware",
+    "url": "https://www.theguardian.com/news/2021/oct/27/indian-supreme-court-orders-inquiry-into-states-use-of-pegasus-spyware",
+    "upvotes": 38,
+    "author": "nigerian1981",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29011366"
   },
   {
     "title": "The most brilliant bookshops in the world",
     "url": "https://www.ft.com/content/42bb3a0f-ba18-4dc7-ae8a-570fd989cbfc",
-    "upvotes": 62,
+    "upvotes": 65,
     "author": "ingve",
-    "comments": 34,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=28976112"
+  },
+  {
+    "title": "Private keys used to sign EU Digital Covid Certificate might have been leaked",
+    "url": "https://nitter.net/reversebrain/status/1453095038284615682?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1453095038284615682%7Ctwgr%5E%7Ctwcon%5Es1.html",
+    "upvotes": 14,
+    "author": "qsort",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29011452"
   },
   {
     "title": "Go 1.18 will embed source version information into binaries",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionOfYourSource",
-    "upvotes": 105,
+    "upvotes": 108,
     "author": "nnx",
-    "comments": 25,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29008811"
-  },
-  {
-    "title": "Show HN: Coding Font – A game to find your favorite coding font",
-    "url": "https://www.codingfont.com/",
-    "upvotes": 25,
-    "author": "wentin",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=29010443"
   },
   {
     "title": "Replacing my Octopress blog with 200 lines of Babashka",
     "url": "https://blog.michielborkent.nl/migrating-octopress-to-babashka.html",
-    "upvotes": 99,
+    "upvotes": 102,
     "author": "grzm",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=28982952"
   },
   {
-    "title": "Indian Supreme Court orders inquiry into state’s use of Pegasus spyware",
-    "url": "https://www.theguardian.com/news/2021/oct/27/indian-supreme-court-orders-inquiry-into-states-use-of-pegasus-spyware",
-    "upvotes": 16,
-    "author": "nigerian1981",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29011366"
-  },
-  {
     "title": "This word does not exist",
     "url": "https://www.thisworddoesnotexist.com/",
-    "upvotes": 1026,
+    "upvotes": 1034,
     "author": "adrian_mrd",
-    "comments": 380,
+    "comments": 379,
     "link": "https://news.ycombinator.com/item?id=29002776"
   },
   {
-    "title": "Notes from the Meeting on Python GIL Removal Between Python Core and Sam Gross",
-    "url": "https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/",
-    "upvotes": 193,
-    "author": "rbanffy",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=29005573"
+    "title": "Large Language Models: A New Moore's Law?",
+    "url": "https://huggingface.co/blog/large-language-models",
+    "upvotes": 15,
+    "author": "EvgeniyZh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29010663"
   },
   {
     "title": "Building a recommendation engine inside Postgres with Python and Pandas",
@@ -100,84 +108,60 @@
     "url": "https://jobs.ashbyhq.com/ashby"
   },
   {
-    "title": "Large Language Models: A New Moore's Law?",
-    "url": "https://huggingface.co/blog/large-language-models",
-    "upvotes": 9,
-    "author": "EvgeniyZh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29010663"
-  },
-  {
-    "title": "Bugs in our pockets: the risks of client-side scanning",
-    "url": "https://arxiv.org/abs/2110.07450",
-    "upvotes": 192,
-    "author": "azalemeth",
-    "comments": 117,
-    "link": "https://news.ycombinator.com/item?id=29005793"
-  },
-  {
     "title": "Calculating Current Limiting Resistor Values for LED Circuits",
     "url": "https://www.nutsvolts.com/magazine/article/calculating_current",
-    "upvotes": 17,
+    "upvotes": 21,
     "author": "lightlyused",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=28976943"
+  },
+  {
+    "title": "Walmart Billionaire Marc Lore Is Planning a $500B “City of the Future”",
+    "url": "https://www.architecturaldigest.com/story/telosa-city-of-the-future",
+    "upvotes": 13,
+    "author": "walterbell",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=29010654"
   },
   {
     "title": "My ideal Rust workflow",
     "url": "https://fasterthanli.me/articles/my-ideal-rust-workflow",
-    "upvotes": 44,
+    "upvotes": 47,
     "author": "ingve",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29010327"
+  },
+  {
+    "title": "Why Lisp?",
+    "url": "http://blog.rongarret.info/2015/05/why-lisp.html",
+    "upvotes": 122,
+    "author": "oumua_don17",
+    "comments": 114,
+    "link": "https://news.ycombinator.com/item?id=29006172"
   },
   {
     "title": "The Miracle of Stephen Crane",
     "url": "https://www.newyorker.com/magazine/2021/10/25/the-miracle-of-stephen-crane-red-badge-of-courage-burning-boy",
-    "upvotes": 8,
+    "upvotes": 9,
     "author": "mellosouls",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=28975655"
   },
   {
-    "title": "Sand won’t save you this time",
-    "url": "https://www.science.org/content/blog-post/sand-won-t-save-you-time",
-    "upvotes": 157,
-    "author": "Tomte",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=28998834"
-  },
-  {
-    "title": "Why Lisp?",
-    "url": "http://blog.rongarret.info/2015/05/why-lisp.html",
-    "upvotes": 120,
-    "author": "oumua_don17",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=29006172"
-  },
-  {
-    "title": "Remembering Intel 740",
-    "url": "https://www.raspberrypi.com/news/remembering-intel-740-custom-pc-218/",
-    "upvotes": 10,
-    "author": "pmarin",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29010541"
-  },
-  {
     "title": "A patent troll backs off",
     "url": "https://www.sparkfun.com/news/3970",
-    "upvotes": 702,
+    "upvotes": 712,
     "author": "zdw",
     "comments": 191,
     "link": "https://news.ycombinator.com/item?id=29000304"
   },
   {
-    "title": "Applications and Techniques for Fast Machine Learning in Science",
-    "url": "https://arxiv.org/abs/2110.13041",
-    "upvotes": 4,
-    "author": "sebg",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29002127"
+    "title": "Remembering Intel 740",
+    "url": "https://www.raspberrypi.com/news/remembering-intel-740-custom-pc-218/",
+    "upvotes": 12,
+    "author": "pmarin",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29010541"
   },
   {
     "title": "Project Stardust: A Photographer Scours Rooftops for Minuscule Cosmic Particles",
@@ -188,51 +172,67 @@
     "link": "https://news.ycombinator.com/item?id=28997010"
   },
   {
-    "title": "Walmart Billionaire Marc Lore Is Planning a $500B “City of the Future”",
-    "url": "https://www.architecturaldigest.com/story/telosa-city-of-the-future",
-    "upvotes": 8,
-    "author": "walterbell",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29010654"
+    "title": "Models of Programming",
+    "url": "https://lambdaland.org/posts/2021-09-25_models_of_programming_draft2/",
+    "upvotes": 31,
+    "author": "ashton314",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=29009198"
+  },
+  {
+    "title": "Applications and Techniques for Fast Machine Learning in Science",
+    "url": "https://arxiv.org/abs/2110.13041",
+    "upvotes": 4,
+    "author": "sebg",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29002127"
+  },
+  {
+    "title": "Which jobs most often pair together among married couples",
+    "url": "https://flowingdata.com/2021/05/26/jobs-that-marry-together/",
+    "upvotes": 394,
+    "author": "thrower123",
+    "comments": 335,
+    "link": "https://news.ycombinator.com/item?id=29003986"
   },
   {
     "title": "Bitcoin is largely controlled by a small group of investors and miners",
     "url": "https://www.techspot.com/news/91937-bitcoin-largely-controlled-small-group-investors-miners-study.html",
-    "upvotes": 341,
+    "upvotes": 349,
     "author": "CharlesW",
-    "comments": 291,
+    "comments": 309,
     "link": "https://news.ycombinator.com/item?id=29008910"
-  },
-  {
-    "title": "Models of Programming",
-    "url": "https://lambdaland.org/posts/2021-09-25_models_of_programming_draft2/",
-    "upvotes": 30,
-    "author": "ashton314",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=29009198"
   },
   {
     "title": "We need new data books, so we published one",
     "url": "https://theinformedcompany.com/posts/we-need-new-data-books-so-we-published-one/",
-    "upvotes": 148,
+    "upvotes": 150,
     "author": "thingsilearned",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29004757"
   },
   {
-    "title": "Which jobs most often pair together among married couples",
-    "url": "https://flowingdata.com/2021/05/26/jobs-that-marry-together/",
-    "upvotes": 393,
-    "author": "thrower123",
-    "comments": 328,
-    "link": "https://news.ycombinator.com/item?id=29003986"
+    "title": "It appears that private keys for generating EU Covid Certificates have leaked",
+    "url": "https://github.com/ehn-dcc-development/hcert-spec/issues/103",
+    "upvotes": 33,
+    "author": "camillomiller",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29011537"
+  },
+  {
+    "title": "EU Green Pass-generation keys stolen",
+    "url": "https://www.ansa.it/english/news/general_news/2021/10/27/eu-green-pass-generation-keys-stolen-sources_e231d1e5-8eab-429b-ae6d-c70991469d41.html",
+    "upvotes": 3,
+    "author": "Berazu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29011679"
   },
   {
     "title": "Google exec challenges Berners-Lee",
     "url": "https://web.archive.org/web/20070105030625/http://news.com.com/Google+exec+challenges+Berners-Lee/2100-1025_3-6095705.html",
-    "upvotes": 79,
+    "upvotes": 80,
     "author": "ColinWright",
-    "comments": 49,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=28976349"
   }
 ]
