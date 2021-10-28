@@ -1,40 +1,84 @@
 [
   {
-    "title": "Blender 3.x Roadmap",
+    "title": "Blender 3.x roadmap",
     "url": "https://code.blender.org/2021/10/blender-3-x-roadmap/",
-    "upvotes": 33,
+    "upvotes": 91,
     "author": "homarp",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29024572"
   },
   {
+    "title": "Post-SSRI Sexual Dysfunction",
+    "url": "https://rxisk.org/post-ssri-sexual-dysfunction-pssd/",
+    "upvotes": 49,
+    "author": "taxyovio",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29024808"
+  },
+  {
+    "title": "Software Architecture Patterns: 5 minute read",
+    "url": "https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2",
+    "upvotes": 20,
+    "author": "jlee11",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29024767"
+  },
+  {
+    "title": "The HTML video element needs to go back on the drawing board",
+    "url": "https://www.ctrl.blog/entry/html-responsive-video.html",
+    "upvotes": 14,
+    "author": "discreditable",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29024868"
+  },
+  {
     "title": "Autonomous Boats Seem More Solvable Than Autonomous Cars",
     "url": "https://spectrum.ieee.org/mit-robot-boats",
-    "upvotes": 28,
+    "upvotes": 45,
     "author": "DrNuke",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29024204"
   },
   {
-    "title": "Open secrets about Hacker News",
-    "url": "https://bengtan.com/blog/open-secrets-hacker-news/",
-    "upvotes": 210,
-    "author": "vincent_s",
+    "title": "First Impressions with the Raspberry Pi Zero 2 W",
+    "url": "https://blog.alexellis.io/raspberry-pi-zero-2/",
+    "upvotes": 19,
+    "author": "alexellisuk",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29024032"
+    "link": "https://news.ycombinator.com/item?id=29024702"
+  },
+  {
+    "title": "Zentail",
+    "url": "https://jobs.lever.co/zentail/342133ef-1fbd-4a49-b346-bc4710250e7c"
+  },
+  {
+    "title": "How hard can it be to design a self-driving boat for inland shipping?",
+    "url": "https://thomas.toye.io/posts/self-driving-boat/",
+    "upvotes": 12,
+    "author": "dalben",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29024748"
   },
   {
     "title": "Project Gutenberg is no longer fully blocked in Germany",
     "url": "item?id=29024039",
-    "upvotes": 80,
+    "upvotes": 119,
     "author": "Vespasian",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29024039"
   },
   {
+    "title": "Open-Source Contributors Worth Sponsoring",
+    "url": "https://astoilkov.com/open-source-contributors-worth-sponsoring",
+    "upvotes": 11,
+    "author": "astoilkov",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29024804"
+  },
+  {
     "title": "Raspberry Pi Zero 2 W",
     "url": "https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/",
-    "upvotes": 278,
+    "upvotes": 307,
     "author": "jwoglom",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29022887"
@@ -42,197 +86,153 @@
   {
     "title": "Programmer Moneyball",
     "url": "http://danluu.com/programmer-moneyball/",
-    "upvotes": 19,
+    "upvotes": 34,
     "author": "baobabKoodaa",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29010157"
   },
   {
-    "title": "MIT deploys autonomous Roboat on canals of Amsterdam",
-    "url": "https://news.mit.edu/2021/autonomous-taxi-roboats-1027",
-    "upvotes": 22,
-    "author": "geox",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29023983"
-  },
-  {
-    "title": "1.1.1.1 for Families",
-    "url": "https://blog.cloudflare.com/introducing-1-1-1-1-for-families/",
-    "upvotes": 64,
-    "author": "DeathArrow",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29024195"
-  },
-  {
-    "title": "How I made Google’s data grid scroll faster with a line of CSS",
-    "url": "https://medium.com/@johan.isaksson/how-i-made-googles-data-grid-scroll-10x-faster-with-one-line-of-css-78cb1e8d9cb1",
-    "upvotes": 406,
-    "author": "mankz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29018804"
-  },
-  {
     "title": "Byrne Hobart on the financialisation of everything",
     "url": "https://thebrowser.com/notes/byrne-hobart/",
-    "upvotes": 7,
+    "upvotes": 16,
     "author": "ubac",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29017106"
   },
   {
-    "title": "Non-Transitive Dice",
-    "url": "https://singingbanana.com/dice/article.htm",
-    "upvotes": 135,
-    "author": "anonu",
+    "title": "1.1.1.1 for Families",
+    "url": "https://blog.cloudflare.com/introducing-1-1-1-1-for-families/",
+    "upvotes": 100,
+    "author": "DeathArrow",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29021208"
+    "link": "https://news.ycombinator.com/item?id=29024195"
   },
   {
-    "title": "So you want to write a technical book",
-    "url": "http://terathon.com/blog/so-you-want-to-write-a-technical-book/",
-    "upvotes": 61,
-    "author": "breathenow",
+    "title": "MIT deploys autonomous Roboat on canals of Amsterdam",
+    "url": "https://news.mit.edu/2021/autonomous-taxi-roboats-1027",
+    "upvotes": 28,
+    "author": "geox",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29022499"
+    "link": "https://news.ycombinator.com/item?id=29023983"
+  },
+  {
+    "title": "Intel Alder Lake Mobility CPU Faster Than Apple M1 Max",
+    "url": "https://wccftech.com/intel-alder-lake-mobility-cpu-benchmarks-leaked-faster-than-the-apple-m1-max-smokes-amd-5980hx-11980hk/",
+    "upvotes": 17,
+    "author": "marcobambini",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29024871"
+  },
+  {
+    "title": "$8000 of SHIB coin is worth $5.7b",
+    "url": "https://www.financemagnates.com/cryptocurrency/news/the-greatest-trade-of-all-time/",
+    "upvotes": 9,
+    "author": "emreb",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29024311"
   },
   {
     "title": "What Is It About Peter Thiel?",
     "url": "https://www.newyorker.com/news/letter-from-silicon-valley/what-is-it-about-peter-thiel",
-    "upvotes": 10,
+    "upvotes": 23,
     "author": "pseudolus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29024427"
   },
   {
-    "title": "South America's second-largest river retreats to lowest levels in 77 years",
-    "url": "https://graphics.reuters.com/CLIMATE-UN/ARGENTINA-RIVER/zdpxoreykvx/",
-    "upvotes": 61,
-    "author": "totalZero",
+    "title": "Why do placebos work? Scientists identify key brain pathway",
+    "url": "https://www.science.org/content/article/why-do-placebos-work-scientists-identify-key-brain-pathway",
+    "upvotes": 8,
+    "author": "pseudolus",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29022212"
+    "link": "https://news.ycombinator.com/item?id=29024419"
   },
   {
-    "title": "Raycast",
-    "url": "https://www.raycast.com/jobs"
+    "title": "Reflections on Software Development from Anywhere on an iPad",
+    "url": "https://ghuntley.com/anywhere/",
+    "upvotes": 11,
+    "author": "ghuntley",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29024834"
+  },
+  {
+    "title": "How to Map a Fly Brain",
+    "url": "https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html",
+    "upvotes": 4,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29011491"
+  },
+  {
+    "title": "So you want to write a technical book",
+    "url": "http://terathon.com/blog/so-you-want-to-write-a-technical-book/",
+    "upvotes": 69,
+    "author": "breathenow",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29022499"
+  },
+  {
+    "title": "Non-Transitive Dice",
+    "url": "https://singingbanana.com/dice/article.htm",
+    "upvotes": 142,
+    "author": "anonu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29021208"
   },
   {
     "title": "Open IP over VHF/UHF Part 5",
     "url": "https://www.rowetel.com/?p=7898",
-    "upvotes": 92,
+    "upvotes": 96,
     "author": "pabs3",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29022189"
   },
   {
-    "title": "Expectations for generics in Go 1.18",
-    "url": "https://groups.google.com/g/golang-dev/c/iuB22_G9Kbo/m/7B1jd1I3BQAJ",
-    "upvotes": 233,
-    "author": "smasher164",
+    "title": "South America's second-largest river retreats to lowest levels in 77 years",
+    "url": "https://graphics.reuters.com/CLIMATE-UN/ARGENTINA-RIVER/zdpxoreykvx/",
+    "upvotes": 65,
+    "author": "totalZero",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29020695"
-  },
-  {
-    "title": "How Microsoft reduced Windows 11 update size by 40%",
-    "url": "https://techcommunity.microsoft.com/t5/windows-it-pro-blog/how-microsoft-reduced-windows-11-update-size-by-40/ba-p/2839794",
-    "upvotes": 155,
-    "author": "mips_avatar",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29022615"
+    "link": "https://news.ycombinator.com/item?id=29022212"
   },
   {
     "title": "Cheap antidepressant shows promise treating early Covid-19",
     "url": "https://apnews.com/article/coronavirus-pandemic-science-health-antidepressants-db60608bedde0149247ce9a64a394802",
-    "upvotes": 93,
+    "upvotes": 99,
     "author": "oblib",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29021196"
   },
   {
+    "title": "Expectations for generics in Go 1.18",
+    "url": "https://groups.google.com/g/golang-dev/c/iuB22_G9Kbo/m/7B1jd1I3BQAJ",
+    "upvotes": 236,
+    "author": "smasher164",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29020695"
+  },
+  {
+    "title": "Open secrets about Hacker News",
+    "url": "https://bengtan.com/blog/open-secrets-hacker-news/",
+    "upvotes": 243,
+    "author": "vincent_s",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29024032"
+  },
+  {
     "title": "A comprehensive guide to go generate",
     "url": "https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate/",
-    "upvotes": 5,
+    "upvotes": 8,
     "author": "vonadz",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29023981"
   },
   {
-    "title": "Essential calculus ideas  [video]",
-    "url": "https://www.youtube.com/watch?v=KyUPwfBLjEQ",
-    "upvotes": 57,
-    "author": "happy-go-lucky",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29011549"
-  },
-  {
     "title": "Flexible device could treat hearing loss without batteries",
     "url": "https://www.acs.org/content/acs/en/pressroom/presspacs/2021/acs-presspac-october-27-2021/flexible-device-could-treat-hearing-loss-without-batteries.html",
-    "upvotes": 52,
+    "upvotes": 56,
     "author": "clouddrover",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29021719"
-  },
-  {
-    "title": "OpenTelemetry",
-    "url": "https://opentelemetry.io/",
-    "upvotes": 151,
-    "author": "9woc",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=28997275"
-  },
-  {
-    "title": "Which stars can see Earth as a transiting exoplanet?",
-    "url": "https://academic.oup.com/mnrasl/article/499/1/L111/5931805",
-    "upvotes": 130,
-    "author": "colinprince",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29019356"
-  },
-  {
-    "title": "Astronomers witnessed the death of a star as it happened",
-    "url": "https://news.ucsc.edu/2021/10/supernova-rosetta.html",
-    "upvotes": 45,
-    "author": "benbreen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29022352"
-  },
-  {
-    "title": "A tutorial on the principles of fault tolerance",
-    "url": "https://www.ias.ac.in/article/fulltext/sadh/011/01-02/0007-0022",
-    "upvotes": 37,
-    "author": "tjalfi",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29021769"
-  },
-  {
-    "title": "New MacBook Pro has first ‘DIY-friendly’ battery replacement design since 2012",
-    "url": "https://www.ifixit.com/News/54122/macbook-pro-2021-teardown",
-    "upvotes": 640,
-    "author": "tailspin2019",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29014649"
-  },
-  {
-    "title": "Large Language Models: A New Moore's Law?",
-    "url": "https://huggingface.co/blog/large-language-models",
-    "upvotes": 47,
-    "author": "EvgeniyZh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29010663"
-  },
-  {
-    "title": "There is no bottom when it comes to Section 230 reform proposals",
-    "url": "https://blog.ericgoldman.org/archives/2021/10/there-is-no-bottom-when-it-comes-to-section-230-reform-proposals-comments-on-the-justice-against-malicious-algorithms-act.htm",
-    "upvotes": 90,
-    "author": "amadeuspagel",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29020260"
-  },
-  {
-    "title": "Paxos automatically determined safe and secure",
-    "url": "https://news.umich.edu/distributed-protocol-underpinning-cloud-computing-automatically-determined-safe-and-secure/",
-    "upvotes": 148,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29018988"
   }
 ]
