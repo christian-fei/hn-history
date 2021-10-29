@@ -2,102 +2,142 @@
   {
     "title": "Grand jury subpoena for Signal user data, Central District of California",
     "url": "https://signal.org/bigbrother/cd-california-grand-jury/",
-    "upvotes": 132,
+    "upvotes": 220,
     "author": "Sami_Lehtinen",
-    "comments": 41,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=29042603"
   },
   {
     "title": "Financial innovations brought by technology",
     "url": "https://bam.kalzumeus.com/archive/financial-innovation-is-happening/",
-    "upvotes": 174,
+    "upvotes": 183,
     "author": "clessg",
-    "comments": 114,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=29039345"
   },
   {
     "title": "Publish your PWA to the iOS App Store",
     "url": "https://blog.pwabuilder.com/posts/publish-your-pwa-to-the-ios-app-store/",
-    "upvotes": 123,
+    "upvotes": 136,
     "author": "judah",
-    "comments": 50,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=29040793"
   },
   {
     "title": "Meow Hash",
     "url": "https://mollyrocket.com/meowhash",
-    "upvotes": 301,
+    "upvotes": 304,
     "author": "DeathArrow",
-    "comments": 80,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=29038813"
-  },
-  {
-    "title": "Comparing Nginx performance in bare metal and virtual environments",
-    "url": "https://www.nginx.com/blog/comparing-nginx-performance-bare-metal-and-virtual-environments/",
-    "upvotes": 40,
-    "author": "el_duderino",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=29041782"
-  },
-  {
-    "title": "The untold story of the world’s biggest nuclear bomb",
-    "url": "https://thebulletin.org/2021/10/the-untold-story-of-the-worlds-biggest-nuclear-bomb/",
-    "upvotes": 67,
-    "author": "Amorymeltzer",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=29037556"
-  },
-  {
-    "title": "Toyota unveils its first all-electric car: the bZ4X",
-    "url": "https://electrek.co/2021/10/29/toyota-unveils-first-all-electric-car-bz4x-an-electric-suv-packed-cool-features/",
-    "upvotes": 44,
-    "author": "underscore_ku",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=29042263"
-  },
-  {
-    "title": "Retro collectors are uncovering hoards of old data",
-    "url": "https://www.wired.co.uk/article/vintage-computers-data",
-    "upvotes": 21,
-    "author": "LarryPage",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29042092"
-  },
-  {
-    "title": "DuckDB-Wasm: Efficient analytical SQL in the browser",
-    "url": "https://duckdb.org/2021/10/29/duckdb-wasm.html",
-    "upvotes": 148,
-    "author": "ankoh",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=29039235"
-  },
-  {
-    "title": "Avoiding race conditions when using errgroup contexts in Go",
-    "url": "https://www.dolthub.com/blog/2021-10-29-two-errgroup-patterns/",
-    "upvotes": 8,
-    "author": "reltuk",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29042472"
   },
   {
     "title": "An Interview with the Old Man of Floating-Point",
     "url": "https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html",
-    "upvotes": 4,
+    "upvotes": 16,
     "author": "rjeli",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29042853"
   },
   {
-    "title": "Gender in Latin and Beyond: A Philologist’s Take",
-    "url": "https://antigonejournal.com/2021/10/gender-in-latin-and-beyond/",
-    "upvotes": 43,
-    "author": "unpredict",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=29040746"
+    "title": "Comparing Nginx performance in bare metal and virtual environments",
+    "url": "https://www.nginx.com/blog/comparing-nginx-performance-bare-metal-and-virtual-environments/",
+    "upvotes": 47,
+    "author": "el_duderino",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=29041782"
+  },
+  {
+    "title": "Error handling with errgroups",
+    "url": "https://www.dolthub.com/blog/2021-10-29-two-errgroup-patterns/",
+    "upvotes": 15,
+    "author": "reltuk",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29042472"
+  },
+  {
+    "title": "Interpreting A/B test results: false positives and statistical significance",
+    "url": "https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a?gi=7da28da1b4a6",
+    "upvotes": 15,
+    "author": "ciprian_craciun",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29042562"
+  },
+  {
+    "title": "Retro collectors are uncovering hoards of old data",
+    "url": "https://www.wired.co.uk/article/vintage-computers-data",
+    "upvotes": 25,
+    "author": "LarryPage",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29042092"
+  },
+  {
+    "title": "DuckDB-Wasm: Efficient analytical SQL in the browser",
+    "url": "https://duckdb.org/2021/10/29/duckdb-wasm.html",
+    "upvotes": 155,
+    "author": "ankoh",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=29039235"
+  },
+  {
+    "title": "The untold story of the world’s biggest nuclear bomb",
+    "url": "https://thebulletin.org/2021/10/the-untold-story-of-the-worlds-biggest-nuclear-bomb/",
+    "upvotes": 74,
+    "author": "Amorymeltzer",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=29037556"
+  },
+  {
+    "title": "Helium: South Africa strikes new 'gold'",
+    "url": "https://phys.org/news/2021-10-helium-south-africa-gold.html",
+    "upvotes": 14,
+    "author": "wjSgoWPm5bWAhXB",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29024208"
   },
   {
     "title": "TrueVault",
     "url": "https://www.ycombinator.com/companies/truevault/jobs/2EUmtf8-staff-software-engineer"
+  },
+  {
+    "title": "Browser Fingerprinting Without JavaScript",
+    "url": "https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/",
+    "upvotes": 14,
+    "author": "sni",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29042791"
+  },
+  {
+    "title": "What if performance advertising isn't just an analytics scam?",
+    "url": "https://mackgrenfell.com/blog/what-if-performance-advertising-isnt-just-an-analytics-scam",
+    "upvotes": 6,
+    "author": "mkmk",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29042952"
+  },
+  {
+    "title": "MethaneSAT",
+    "url": "https://www.methanesat.org//",
+    "upvotes": 8,
+    "author": "simonebrunozzi",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29042670"
+  },
+  {
+    "title": "Sex Differences in Adolescents’ Occupational Aspirations",
+    "url": "https://psyarxiv.com/zhvre/",
+    "upvotes": 5,
+    "author": "Bostonian",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29040132"
+  },
+  {
+    "title": "Gender in Latin and Beyond: A Philologist’s Take",
+    "url": "https://antigonejournal.com/2021/10/gender-in-latin-and-beyond/",
+    "upvotes": 47,
+    "author": "unpredict",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=29040746"
   },
   {
     "title": "Launch HN: Secoda (YC S21) – Searchable Company Data",
@@ -110,79 +150,55 @@
   {
     "title": "Turning stem cells into human eggs",
     "url": "https://conception.bio/",
-    "upvotes": 54,
+    "upvotes": 60,
     "author": "apsec112",
-    "comments": 51,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=29040823"
   },
   {
     "title": "The brain as a universal learning machine",
     "url": "https://www.lesswrong.com/posts/9Yc7Pp7szcjPgPsjf/the-brain-as-a-universal-learning-machine",
-    "upvotes": 43,
+    "upvotes": 48,
     "author": "optimalsolver",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29039969"
   },
   {
-    "title": "MethaneSAT",
-    "url": "https://www.methanesat.org//",
-    "upvotes": 6,
-    "author": "simonebrunozzi",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29042670"
-  },
-  {
-    "title": "Meta",
-    "url": "https://stratechery.com/2021/meta/",
-    "upvotes": 179,
-    "author": "simonebrunozzi",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=29038022"
-  },
-  {
     "title": "Scientists recreated classic origin-of-life experiment and made a new discovery",
     "url": "https://arstechnica.com/science/2021/10/scientists-recreated-classic-origin-of-life-experiment-and-made-a-new-discovery/",
-    "upvotes": 368,
+    "upvotes": 370,
     "author": "sohkamyung",
     "comments": 176,
     "link": "https://news.ycombinator.com/item?id=29035838"
   },
   {
-    "title": "Interpreting A/B test results: false positives and statistical significance",
-    "url": "https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a?gi=7da28da1b4a6",
-    "upvotes": 4,
-    "author": "ciprian_craciun",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29042562"
-  },
-  {
-    "title": "Medieval scholars of English commenting on the drift from Anglo Saxon",
+    "title": "When did the English discover the Anglo-Saxons?",
     "url": "https://www.etymonline.com/columns/post/out-of-time",
-    "upvotes": 4,
+    "upvotes": 9,
     "author": "HeckFeck",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29042822"
-  },
-  {
-    "title": "Browser Fingerprinting Without JavaScript",
-    "url": "https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/",
-    "upvotes": 5,
-    "author": "sni",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29042791"
   },
   {
     "title": "Building an Emacs Lisp VM in Rust",
     "url": "https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/",
-    "upvotes": 80,
+    "upvotes": 85,
     "author": "lukastyrychtr",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29038140"
   },
   {
+    "title": "Grade School Math Solved by an OpenAI Algorithm",
+    "url": "https://openai.com/blog/grade-school-math/",
+    "upvotes": 10,
+    "author": "yigitdemirag",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29042256"
+  },
+  {
     "title": "OpenBSD: How it all started",
     "url": "https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/",
-    "upvotes": 178,
+    "upvotes": 179,
     "author": "janvdberg",
     "comments": 63,
     "link": "https://news.ycombinator.com/item?id=29037108"
@@ -190,49 +206,33 @@
   {
     "title": "Cognition Without Computation",
     "url": "https://spectrum.ieee.org/computational-cognitive-science",
-    "upvotes": 33,
+    "upvotes": 35,
     "author": "RageoftheRobots",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=29029064"
-  },
-  {
-    "title": "An UPDATE without a WHERE, or something close to it",
-    "url": "https://rachelbythebay.com/w/2021/10/12/break/",
-    "upvotes": 70,
-    "author": "l0b0",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=29022813"
-  },
-  {
-    "title": "The Iridium Museum",
-    "url": "https://www.iridiummuseum.com/",
-    "upvotes": 31,
-    "author": "fortran77",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=29020487"
-  },
-  {
-    "title": "The Bicycle Thief",
-    "url": "https://www.chicagomag.com/chicago-magazine/february-2019/bicycle-bank-robber-tom-justice/",
-    "upvotes": 86,
-    "author": "herbertl",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=29037860"
   },
   {
     "title": "An Annoying Problem",
     "url": "https://rjlipton.wpcomstaging.com/2021/10/22/an-annoying-problem/",
-    "upvotes": 9,
+    "upvotes": 11,
     "author": "tacon",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29028324"
   },
   {
-    "title": "Open Steno Project – Freeing stenography",
-    "url": "http://www.openstenoproject.org/",
-    "upvotes": 244,
-    "author": "pabs3",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=29035644"
+    "title": "An UPDATE without a WHERE, or something close to it",
+    "url": "https://rachelbythebay.com/w/2021/10/12/break/",
+    "upvotes": 72,
+    "author": "l0b0",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=29022813"
+  },
+  {
+    "title": "Meta",
+    "url": "https://stratechery.com/2021/meta/",
+    "upvotes": 186,
+    "author": "simonebrunozzi",
+    "comments": 164,
+    "link": "https://news.ycombinator.com/item?id=29038022"
   }
 ]
