@@ -1,67 +1,75 @@
 [
   {
-    "title": "Financial innovation is actually happening",
+    "title": "Financial innovations brought by technology",
     "url": "https://bam.kalzumeus.com/archive/financial-innovation-is-happening/",
-    "upvotes": 133,
+    "upvotes": 152,
     "author": "clessg",
-    "comments": 68,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=29039345"
   },
   {
     "title": "Meow Hash",
     "url": "https://mollyrocket.com/meowhash",
-    "upvotes": 282,
+    "upvotes": 291,
     "author": "DeathArrow",
-    "comments": 66,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=29038813"
   },
   {
     "title": "Publish your PWA to the iOS App Store",
     "url": "https://blog.pwabuilder.com/posts/publish-your-pwa-to-the-ios-app-store/",
-    "upvotes": 70,
+    "upvotes": 87,
     "author": "judah",
-    "comments": 29,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=29040793"
   },
   {
     "title": "Meta",
     "url": "https://stratechery.com/2021/meta/",
-    "upvotes": 124,
+    "upvotes": 142,
     "author": "simonebrunozzi",
-    "comments": 80,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=29038022"
   },
   {
     "title": "DuckDB-Wasm: Efficient analytical SQL in the browser",
     "url": "https://duckdb.org/2021/10/29/duckdb-wasm.html",
-    "upvotes": 131,
+    "upvotes": 138,
     "author": "ankoh",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=29039235"
-  },
-  {
-    "title": "Turning stem cells into human eggs",
-    "url": "https://conception.bio/",
-    "upvotes": 43,
-    "author": "apsec112",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=29040823"
-  },
-  {
-    "title": "The untold story of the world’s biggest nuclear bomb",
-    "url": "https://thebulletin.org/2021/10/the-untold-story-of-the-worlds-biggest-nuclear-bomb/",
-    "upvotes": 28,
-    "author": "Amorymeltzer",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29037556"
   },
   {
     "title": "Gender in Latin and Beyond: A Philologist’s Take",
     "url": "https://antigonejournal.com/2021/10/gender-in-latin-and-beyond/",
-    "upvotes": 25,
+    "upvotes": 33,
     "author": "unpredict",
-    "comments": 44,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=29040746"
+  },
+  {
+    "title": "Comparing Nginx performance in bare metal and virtual environments",
+    "url": "https://www.nginx.com/blog/comparing-nginx-performance-bare-metal-and-virtual-environments/",
+    "upvotes": 14,
+    "author": "el_duderino",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29041782"
+  },
+  {
+    "title": "The untold story of the world’s biggest nuclear bomb",
+    "url": "https://thebulletin.org/2021/10/the-untold-story-of-the-worlds-biggest-nuclear-bomb/",
+    "upvotes": 35,
+    "author": "Amorymeltzer",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=29037556"
+  },
+  {
+    "title": "The brain as a universal learning machine",
+    "url": "https://www.lesswrong.com/posts/9Yc7Pp7szcjPgPsjf/the-brain-as-a-universal-learning-machine",
+    "upvotes": 29,
+    "author": "optimalsolver",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29039969"
   },
   {
     "title": "TrueVault",
@@ -70,97 +78,73 @@
   {
     "title": "Scientists recreated classic origin-of-life experiment and made a new discovery",
     "url": "https://arstechnica.com/science/2021/10/scientists-recreated-classic-origin-of-life-experiment-and-made-a-new-discovery/",
-    "upvotes": 355,
+    "upvotes": 359,
     "author": "sohkamyung",
-    "comments": 169,
+    "comments": 173,
     "link": "https://news.ycombinator.com/item?id=29035838"
-  },
-  {
-    "title": "The brain as a universal learning machine",
-    "url": "https://www.lesswrong.com/posts/9Yc7Pp7szcjPgPsjf/the-brain-as-a-universal-learning-machine",
-    "upvotes": 21,
-    "author": "optimalsolver",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29039969"
-  },
-  {
-    "title": "Launch HN: Secoda (YC S21) – Searchable Company Data",
-    "url": "item?id=29038087",
-    "upvotes": 69,
-    "author": "Etai",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=29038087"
-  },
-  {
-    "title": "Building an Emacs Lisp VM in Rust",
-    "url": "https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/",
-    "upvotes": 62,
-    "author": "lukastyrychtr",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29038140"
-  },
-  {
-    "title": "OpenBSD: How it all started",
-    "url": "https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/",
-    "upvotes": 158,
-    "author": "janvdberg",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=29037108"
-  },
-  {
-    "title": "Architect Resigns in Protest over UCSB Mega-Dorm",
-    "url": "https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/",
-    "upvotes": 474,
-    "author": "danso",
-    "comments": 485,
-    "link": "https://news.ycombinator.com/item?id=29038356"
-  },
-  {
-    "title": "Cognition Without Computation",
-    "url": "https://spectrum.ieee.org/computational-cognitive-science",
-    "upvotes": 23,
-    "author": "RageoftheRobots",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=29029064"
-  },
-  {
-    "title": "An UPDATE without a WHERE, or something close to it",
-    "url": "https://rachelbythebay.com/w/2021/10/12/break/",
-    "upvotes": 53,
-    "author": "l0b0",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=29022813"
   },
   {
     "title": "3Y0J: The Bouvet Island Amateur Radio DXpedition",
     "url": "https://www.3y0j.no",
-    "upvotes": 11,
+    "upvotes": 20,
     "author": "wglb",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29021161"
   },
   {
-    "title": "The Milky Way according to Anton Pannekoek",
-    "url": "https://publicdomainreview.org/essay/marxist-astronomy-the-milky-way-according-to-anton-pannekoek/",
-    "upvotes": 19,
-    "author": "apollinaire",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29015823"
+    "title": "Launch HN: Secoda (YC S21) – Searchable Company Data",
+    "url": "item?id=29038087",
+    "upvotes": 71,
+    "author": "Etai",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=29038087"
   },
   {
-    "title": "Comparing Nginx Performance in Bare Metal and Virtual Environments",
-    "url": "https://www.nginx.com/blog/comparing-nginx-performance-bare-metal-and-virtual-environments/",
-    "upvotes": 4,
-    "author": "el_duderino",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29041782"
+    "title": "Building an Emacs Lisp VM in Rust",
+    "url": "https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/",
+    "upvotes": 68,
+    "author": "lukastyrychtr",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29038140"
+  },
+  {
+    "title": "OpenBSD: How it all started",
+    "url": "https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/",
+    "upvotes": 165,
+    "author": "janvdberg",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=29037108"
+  },
+  {
+    "title": "Architect Resigns in Protest over UCSB Mega-Dorm",
+    "url": "https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/",
+    "upvotes": 491,
+    "author": "danso",
+    "comments": 500,
+    "link": "https://news.ycombinator.com/item?id=29038356"
+  },
+  {
+    "title": "An UPDATE without a WHERE, or something close to it",
+    "url": "https://rachelbythebay.com/w/2021/10/12/break/",
+    "upvotes": 60,
+    "author": "l0b0",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=29022813"
+  },
+  {
+    "title": "Cognition Without Computation",
+    "url": "https://spectrum.ieee.org/computational-cognitive-science",
+    "upvotes": 27,
+    "author": "RageoftheRobots",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29029064"
   },
   {
     "title": "The Bicycle Thief",
     "url": "https://www.chicagomag.com/chicago-magazine/february-2019/bicycle-bank-robber-tom-justice/",
-    "upvotes": 73,
+    "upvotes": 76,
     "author": "herbertl",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29037860"
   },
   {
@@ -168,13 +152,29 @@
     "url": "http://www.openstenoproject.org/",
     "upvotes": 238,
     "author": "pabs3",
-    "comments": 59,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=29035644"
+  },
+  {
+    "title": "The Milky Way according to Anton Pannekoek",
+    "url": "https://publicdomainreview.org/essay/marxist-astronomy-the-milky-way-according-to-anton-pannekoek/",
+    "upvotes": 22,
+    "author": "apollinaire",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29015823"
+  },
+  {
+    "title": "The Iridium Museum",
+    "url": "https://www.iridiummuseum.com/",
+    "upvotes": 23,
+    "author": "fortran77",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=29020487"
   },
   {
     "title": "I made my own garum",
     "url": "https://twitter.com/lostsupper/status/1453003368725717000",
-    "upvotes": 204,
+    "upvotes": 210,
     "author": "Tomte",
     "comments": 96,
     "link": "https://news.ycombinator.com/item?id=29011872"
@@ -182,57 +182,57 @@
   {
     "title": "I’m putting a WiFi router into a wall charger",
     "url": "https://machinehum.medium.com/im-putting-a-wifi-router-into-a-wall-charger-part-0-2c1e1a80ccde",
-    "upvotes": 137,
+    "upvotes": 142,
     "author": "giuliomagnifico",
-    "comments": 67,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=29011327"
   },
   {
-    "title": "Cryptocurrency loan platform implodes in $130M hack",
-    "url": "https://www.vice.com/en/article/m7vjjy/cryptocurrency-loan-platform-implodes-in-dollar130-million-hack",
-    "upvotes": 200,
-    "author": "mmastrac",
-    "comments": 167,
-    "link": "https://news.ycombinator.com/item?id=29033024"
-  },
-  {
-    "title": "The Iridium Museum",
-    "url": "https://www.iridiummuseum.com/",
-    "upvotes": 17,
-    "author": "fortran77",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=29020487"
-  },
-  {
-    "title": "Effect of early treatment with fluvoxamine on risk of hospitalization for Covid",
-    "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(21)00448-4/fulltext",
-    "upvotes": 28,
-    "author": "AndrewBissell",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=29040326"
+    "title": "Oculus Quest is removing the Facebook account requirement",
+    "url": "https://gamerant.com/oculus-quest-facebook-account-requirement-removed/",
+    "upvotes": 336,
+    "author": "simonjgreen",
+    "comments": 202,
+    "link": "https://news.ycombinator.com/item?id=29036327"
   },
   {
     "title": "For a legally blind player, Far Cry 6’s accessibility options are empowering",
     "url": "https://www.polygon.com/22748526/far-cry-6-accessibility-pc-xbox-one-series-x-ps5-ps4",
-    "upvotes": 121,
+    "upvotes": 126,
     "author": "adrian_mrd",
-    "comments": 60,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=29037180"
   },
   {
     "title": "Julian Assange Extradition Appeal: Day 2",
     "url": "https://assangedefense.org/hearing-coverage/julian-assange-extradition-appeal-day-2/",
-    "upvotes": 301,
+    "upvotes": 309,
     "author": "dane-pgp",
-    "comments": 196,
+    "comments": 205,
     "link": "https://news.ycombinator.com/item?id=29037341"
   },
   {
-    "title": "Oculus Quest is removing the Facebook account requirement",
-    "url": "https://gamerant.com/oculus-quest-facebook-account-requirement-removed/",
-    "upvotes": 327,
-    "author": "simonjgreen",
-    "comments": 200,
-    "link": "https://news.ycombinator.com/item?id=29036327"
+    "title": "Cryptocurrency loan platform implodes in $130M hack",
+    "url": "https://www.vice.com/en/article/m7vjjy/cryptocurrency-loan-platform-implodes-in-dollar130-million-hack",
+    "upvotes": 206,
+    "author": "mmastrac",
+    "comments": 178,
+    "link": "https://news.ycombinator.com/item?id=29033024"
+  },
+  {
+    "title": "Rich Salz to OpenSSL: Please change your mind",
+    "url": "https://mta.openssl.org/pipermail/openssl-project/2021-October/002777.html",
+    "upvotes": 21,
+    "author": "dogecoinbase",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29040229"
+  },
+  {
+    "title": "Turning stem cells into human eggs",
+    "url": "https://conception.bio/",
+    "upvotes": 46,
+    "author": "apsec112",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=29040823"
   }
 ]
