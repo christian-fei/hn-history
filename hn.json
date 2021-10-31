@@ -2,74 +2,82 @@
   {
     "title": "Fastmail Seems to Be Down",
     "url": "https://status.fastmail.com/",
-    "upvotes": 37,
+    "upvotes": 82,
     "author": "katsura",
-    "comments": 11,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=29059006"
   },
   {
     "title": "Bash functions are better than I thought",
     "url": "https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/",
-    "upvotes": 126,
+    "upvotes": 146,
     "author": "todsacerdoti",
-    "comments": 70,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=29058140"
   },
   {
     "title": "CT Scan of a Pumpkin",
     "url": "http://randomfootage.homestead.com/pumpkinctscan.html",
-    "upvotes": 237,
+    "upvotes": 250,
     "author": "zdw",
-    "comments": 44,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=29057361"
   },
   {
     "title": "Repeat Yourself, a Lot",
     "url": "https://tomtunguz.com/why-you-should-repeat-yourself/",
-    "upvotes": 53,
+    "upvotes": 72,
     "author": "kiyanwang",
-    "comments": 14,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29058750"
   },
   {
     "title": "Mind Grenade",
     "url": "http://www.fourmilab.ch/webtools/MindGrenade/",
-    "upvotes": 11,
+    "upvotes": 23,
     "author": "ggoo",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29059195"
+  },
+  {
+    "title": "Oracle's JDK 17 – Free Again for Commercial Use",
+    "url": "https://www.infoq.com/news/2021/10/oracle-jdk-free-again/",
+    "upvotes": 33,
+    "author": "sharjeelsayed",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=29058831"
   },
   {
     "title": "A completely-from-scratch hobby operating system",
     "url": "https://github.com/klange/toaruos",
-    "upvotes": 149,
+    "upvotes": 163,
     "author": "tirrex",
-    "comments": 38,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=29057055"
   },
   {
-    "title": "Declarative, non-intrusive, compile-time C++ reflection for audio plug-ins",
-    "url": "https://github.com/celtera/avendish",
-    "upvotes": 24,
-    "author": "jcelerier",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29058449"
-  },
-  {
-    "title": "Encrypting Postgres Data at Rest in Kubernetes",
-    "url": "https://blog.crunchydata.com/blog/encrypting-postgres-data-at-rest-in-kubernetes",
-    "upvotes": 63,
-    "author": "plaur782",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=29057505"
+    "title": "Hegel Today",
+    "url": "https://aeon.co/essays/how-the-anglophone-world-is-rediscovering-hegels-philosophy",
+    "upvotes": 27,
+    "author": "hooboy",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29043274"
   },
   {
     "title": "Roblox has been down for days and it’s not because of Chipotle",
     "url": "https://www.theverge.com/2021/10/30/22754107/roblox-down-outage-chipotle-server-issues-status",
-    "upvotes": 98,
+    "upvotes": 119,
     "author": "Terretta",
-    "comments": 25,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=29058573"
+  },
+  {
+    "title": "Encrypting Postgres Data at Rest in Kubernetes",
+    "url": "https://blog.crunchydata.com/blog/encrypting-postgres-data-at-rest-in-kubernetes",
+    "upvotes": 67,
+    "author": "plaur782",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=29057505"
   },
   {
     "title": "MindsDB",
@@ -78,135 +86,143 @@
   {
     "title": "A developer's guide to programatically overcome fear of failure",
     "url": "https://www.pagerduty.com/blog/engineers-guide-on-the-importance-of-failure/",
-    "upvotes": 206,
+    "upvotes": 209,
     "author": "kiyanwang",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=29056215"
   },
   {
-    "title": "Hegel Today",
-    "url": "https://aeon.co/essays/how-the-anglophone-world-is-rediscovering-hegels-philosophy",
-    "upvotes": 22,
-    "author": "hooboy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29043274"
-  },
-  {
-    "title": "Oracle's JDK 17 – Free Again for Commercial Use",
-    "url": "https://www.infoq.com/news/2021/10/oracle-jdk-free-again/",
-    "upvotes": 12,
-    "author": "sharjeelsayed",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29058831"
-  },
-  {
-    "title": "Sustainable Energy without the Hot Air",
-    "url": "https://climate.lifeitself.us/without-hot-air/",
-    "upvotes": 114,
-    "author": "rufuspollock",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=29056343"
+    "title": "Declarative, non-intrusive, compile-time C++ reflection for audio plug-ins",
+    "url": "https://github.com/celtera/avendish",
+    "upvotes": 27,
+    "author": "jcelerier",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29058449"
   },
   {
     "title": "Pentium on a 386 Motherboard",
     "url": "https://dependency-injection.com/pentium-on-a-386-motherboard/",
-    "upvotes": 28,
+    "upvotes": 38,
     "author": "userbinator",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29046117"
+  },
+  {
+    "title": "Sustainable Energy without the Hot Air",
+    "url": "https://climate.lifeitself.us/without-hot-air/",
+    "upvotes": 117,
+    "author": "rufuspollock",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=29056343"
   },
   {
     "title": "Wacom drawing tablets track the name of every application that you open",
     "url": "https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/",
-    "upvotes": 374,
+    "upvotes": 388,
     "author": "marginalia_nu",
-    "comments": 121,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=29056847"
+  },
+  {
+    "title": "Show HN: Use your iPhone's camera to see any photo on your wall",
+    "url": "https://apps.apple.com/us/app/canvify/id1591755222",
+    "upvotes": 3,
+    "author": "hitmyapi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29059454"
   },
   {
     "title": "Covid-19 Mortality Risk Correlates Inversely with Vitamin D3 Status",
     "url": "https://pubmed.ncbi.nlm.nih.gov/34684596/",
-    "upvotes": 74,
+    "upvotes": 94,
     "author": "Ambolia",
-    "comments": 44,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=29058653"
   },
   {
     "title": "Ask HN: Will there ever be a vendor agnostic GPU interface?",
     "url": "item?id=29058681",
-    "upvotes": 20,
+    "upvotes": 25,
     "author": "slmjkdbtl",
-    "comments": 20,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=29058681"
   },
   {
     "title": "Truths about video game stories",
     "url": "https://bottomfeeder.substack.com/p/six-truths-about-video-game-stories",
-    "upvotes": 188,
+    "upvotes": 193,
     "author": "Tomte",
-    "comments": 252,
+    "comments": 257,
     "link": "https://news.ycombinator.com/item?id=29055167"
   },
   {
     "title": "Open Cobalt: open-source virtual world browser and toolkit",
     "url": "https://web.archive.org/web/20200530215533/http://www.opencobalt.net/home",
-    "upvotes": 26,
+    "upvotes": 29,
     "author": "chriswarbo",
-    "comments": 6,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=29047638"
   },
   {
     "title": "Apple’s Privacy Changes Hurt Snap and Facebook but Benefited Google",
     "url": "https://www.wsj.com/articles/why-apples-privacy-changes-hurt-snap-and-facebook-but-benefitted-google-11635375190",
-    "upvotes": 119,
+    "upvotes": 121,
     "author": "prostoalex",
-    "comments": 85,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=29034597"
   },
   {
     "title": "Chan Zuckerberg Initiative sunsetting science research platform meta.org",
     "url": "https://cziscience.medium.com/meta-transition-5f66b1fae475",
-    "upvotes": 153,
+    "upvotes": 155,
     "author": "nefitty",
     "comments": 94,
     "link": "https://news.ycombinator.com/item?id=29054675"
   },
   {
-    "title": "Get started making music",
-    "url": "https://learningmusic.ableton.com/",
-    "upvotes": 361,
-    "author": "RageoftheRobots",
-    "comments": 117,
-    "link": "https://news.ycombinator.com/item?id=29055433"
-  },
-  {
     "title": "Paranormal Politics: A poltergeist sowed division in 18th-century England",
     "url": "https://www.historytoday.com/archive/feature/paranormal-politics",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "Petiver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29045426"
   },
   {
+    "title": "Get started making music",
+    "url": "https://learningmusic.ableton.com/",
+    "upvotes": 366,
+    "author": "RageoftheRobots",
+    "comments": 119,
+    "link": "https://news.ycombinator.com/item?id=29055433"
+  },
+  {
+    "title": "The Views That Made Me Persona Non Grata at MIT",
+    "url": "https://www.wsj.com/articles/cancel-culture-college-mit-dorian-abbot-university-chicago-representation-equity-equality-11635516316",
+    "upvotes": 17,
+    "author": "bryan0",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=29058965"
+  },
+  {
     "title": "Why and how to use service injection in Node.js",
     "url": "https://vramework.io/blog/20211030-service-injection/",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "yasserf",
-    "comments": 31,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=29047685"
   },
   {
     "title": "Unusual Locomotives",
     "url": "http://www.douglas-self.com/MUSEUM/LOCOLOCO/locoloco.htm",
-    "upvotes": 87,
+    "upvotes": 95,
     "author": "ggoo",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29041729"
   },
   {
     "title": "colorForth",
     "url": "https://colorforth.github.io/cf.htm",
-    "upvotes": 95,
+    "upvotes": 97,
     "author": "susam",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=29037321"
@@ -214,25 +230,9 @@
   {
     "title": "Ad Astra: The coming battle over space",
     "url": "https://harpers.org/archive/2021/11/ad-astra-the-coming-battle-over-space/",
-    "upvotes": 91,
+    "upvotes": 92,
     "author": "Hooke",
-    "comments": 75,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=29045286"
-  },
-  {
-    "title": "Substantially more monarch butterflies have arrived in California to overwinter",
-    "url": "https://www.goodnewsnetwork.org/far-more-monarch-butterflies-in-ca-this-year/",
-    "upvotes": 299,
-    "author": "RickJWagner",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=29054058"
-  },
-  {
-    "title": "The economics of pumpkin patches",
-    "url": "https://thehustle.co/the-economics-of-pumpkin-patches/",
-    "upvotes": 63,
-    "author": "Anon84",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=29056383"
   }
 ]
