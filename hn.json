@@ -1,48 +1,84 @@
 [
   {
+    "title": "Facebook Stole Our Name and Livelihood",
+    "url": "https://meta.company/",
+    "upvotes": 44,
+    "author": "TheloniousPunk",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29074406"
+  },
+  {
     "title": "Report on Stablecoins [pdf]",
     "url": "https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf",
-    "upvotes": 291,
+    "upvotes": 326,
     "author": "TheAlchemist",
-    "comments": 203,
+    "comments": 252,
     "link": "https://news.ycombinator.com/item?id=29071895"
   },
   {
     "title": "MangoDB: An open-source MongoDB alternative",
     "url": "https://www.mangodb.io/",
-    "upvotes": 135,
+    "upvotes": 160,
     "author": "folex",
-    "comments": 93,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=29071623"
   },
   {
     "title": "C³: A \"cool\" route to the Higgs boson and beyond",
     "url": "https://arxiv.org/abs/2110.15800",
-    "upvotes": 39,
+    "upvotes": 47,
     "author": "noslenwerdna",
-    "comments": 7,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29072800"
+  },
+  {
+    "title": "The high cost of software in the 1980s",
+    "url": "https://robservatory.com/the-high-cost-of-software-in-the-1980s/",
+    "upvotes": 15,
+    "author": "zdw",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29073873"
+  },
+  {
+    "title": "Townscaper’s Rendering Style in WebGL",
+    "url": "https://reindernijhoff.net/2021/11/townscapers-rendering-style-in-webgl/",
+    "upvotes": 19,
+    "author": "winkywooster",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29074015"
   },
   {
     "title": "Show HN: Sending and Receiving SMS via APRS",
     "url": "https://smsgte.org/ug-sending-messages/",
-    "upvotes": 37,
+    "upvotes": 47,
     "author": "jlturner",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29060280"
+  },
+  {
+    "title": "Web developer tool secrets that shouldn’t be secrets",
+    "url": "https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/",
+    "upvotes": 11,
+    "author": "tybulewicz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29071700"
+  },
+  {
+    "title": "Modern Treasury",
+    "url": "https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd"
   },
   {
     "title": "Ask HN: Who is hiring?",
     "url": "item?id=29067493",
-    "upvotes": 294,
+    "upvotes": 299,
     "author": "whoishiring",
-    "comments": 670,
+    "comments": 681,
     "link": "https://news.ycombinator.com/item?id=29067493"
   },
   {
     "title": "Famicom Party: Making NES Games in Assembly",
     "url": "https://famicom.party/book/",
-    "upvotes": 120,
+    "upvotes": 127,
     "author": "mariuz",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=29069095"
@@ -50,189 +86,153 @@
   {
     "title": "Introducing the layer based SVG engine",
     "url": "https://blogs.igalia.com/nzimmermann/posts/2021-10-29-layer-based-svg-engine/",
-    "upvotes": 223,
+    "upvotes": 226,
     "author": "bpierre",
-    "comments": 82,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=29067036"
   },
   {
-    "title": "Modern Treasury",
-    "url": "https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd"
+    "title": "U.S. telecoms are going to start physically removing Huawei gear",
+    "url": "https://www.bloomberg.com/news/newsletters/2021-11-01/u-s-telecoms-are-going-to-start-physically-removing-huawei-gear",
+    "upvotes": 235,
+    "author": "CapitalistCartr",
+    "comments": 159,
+    "link": "https://news.ycombinator.com/item?id=29066579"
   },
   {
     "title": "Launch HN: Promoted (YC W21) - Search and feed ranking for marketplaces",
     "url": "item?id=29071609",
-    "upvotes": 42,
+    "upvotes": 46,
     "author": "andrewyates2020",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29071609"
   },
   {
-    "title": "The high cost of software in the 1980s",
-    "url": "https://robservatory.com/the-high-cost-of-software-in-the-1980s/",
-    "upvotes": 5,
-    "author": "zdw",
+    "title": "Faster Mac dev tools with custom allocators",
+    "url": "https://eisel.me/devtool-allocators",
+    "upvotes": 7,
+    "author": "meisel",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29073873"
-  },
-  {
-    "title": "The Great Tree-List Recursion Problem",
-    "url": "http://cslibrary.stanford.edu/109/TreeListRecursion.html",
-    "upvotes": 35,
-    "author": "nickdrozd",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29067098"
-  },
-  {
-    "title": "First confirmed hatchings of two California condor chicks from unfertilized eggs",
-    "url": "https://stories.sandiegozoo.org/2021/10/28/san-diego-zoo-wildlife-alliance-conservation-scientists-report-first-confirmed-hatchings-of-two-california-condor-chicks-from-unfertilized-eggs/",
-    "upvotes": 156,
-    "author": "dsr12",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=29046808"
-  },
-  {
-    "title": "EU Chatcontrol 2.0 [video]",
-    "url": "https://peertube.european-pirates.eu/videos/watch/d64e6e10-0ad0-4b37-8813-3f5bc329f03b",
-    "upvotes": 362,
-    "author": "nix23",
-    "comments": 162,
-    "link": "https://news.ycombinator.com/item?id=29066894"
-  },
-  {
-    "title": "Two stories about tacit knowledge",
-    "url": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
-    "upvotes": 57,
-    "author": "Wildgoose",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=29069928"
-  },
-  {
-    "title": "Intel Extension for Scikit-Learn",
-    "url": "https://intel.github.io/scikit-learn-intelex/",
-    "upvotes": 152,
-    "author": "privong",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=29066712"
-  },
-  {
-    "title": "The Rise of Nintendo: A Story in 8 Bits",
-    "url": "https://grantland.com/features/the-rise-of-nintendo-video-games-history/",
-    "upvotes": 64,
-    "author": "blkjam",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=29055544"
-  },
-  {
-    "title": "Early Evaluator, Late Adopter",
-    "url": "https://markheath.net/post/early-evaluator-late-adopter",
-    "upvotes": 32,
-    "author": "kiyanwang",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29058840"
-  },
-  {
-    "title": "Improving first impressions on Signal",
-    "url": "https://signal.org/blog/keeping-spam-off-signal/",
-    "upvotes": 72,
-    "author": "feross",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=29072031"
+    "link": "https://news.ycombinator.com/item?id=29068828"
   },
   {
     "title": "The Yggdrasil Screen Reader Project",
     "url": "https://yggdrasil-sr.github.io/",
-    "upvotes": 6,
+    "upvotes": 15,
     "author": "Vinnl",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29056168"
   },
   {
+    "title": "The Great Tree-List Recursion Problem",
+    "url": "http://cslibrary.stanford.edu/109/TreeListRecursion.html",
+    "upvotes": 38,
+    "author": "nickdrozd",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=29067098"
+  },
+  {
+    "title": "First confirmed hatchings of two California condor chicks from unfertilized eggs",
+    "url": "https://stories.sandiegozoo.org/2021/10/28/san-diego-zoo-wildlife-alliance-conservation-scientists-report-first-confirmed-hatchings-of-two-california-condor-chicks-from-unfertilized-eggs/",
+    "upvotes": 162,
+    "author": "dsr12",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=29046808"
+  },
+  {
+    "title": "Two stories about tacit knowledge",
+    "url": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
+    "upvotes": 67,
+    "author": "Wildgoose",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=29069928"
+  },
+  {
+    "title": "EU Chatcontrol 2.0 [video]",
+    "url": "https://peertube.european-pirates.eu/videos/watch/d64e6e10-0ad0-4b37-8813-3f5bc329f03b",
+    "upvotes": 367,
+    "author": "nix23",
+    "comments": 165,
+    "link": "https://news.ycombinator.com/item?id=29066894"
+  },
+  {
+    "title": "Ask HN: What you up to?",
+    "url": "item?id=29073996",
+    "upvotes": 20,
+    "author": "capableweb",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=29073996"
+  },
+  {
+    "title": "Intel Extension for Scikit-Learn",
+    "url": "https://intel.github.io/scikit-learn-intelex/",
+    "upvotes": 157,
+    "author": "privong",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=29066712"
+  },
+  {
+    "title": "The Rise of Nintendo: A Story in 8 Bits",
+    "url": "https://grantland.com/features/the-rise-of-nintendo-video-games-history/",
+    "upvotes": 67,
+    "author": "blkjam",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=29055544"
+  },
+  {
     "title": "Ask HN: Who wants to be hired?",
     "url": "item?id=29067491",
-    "upvotes": 97,
+    "upvotes": 102,
     "author": "whoishiring",
-    "comments": 151,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=29067491"
   },
   {
     "title": "Dummy display for Apple Silicon Macs to achieve custom resolutions",
     "url": "https://github.com/waydabber/BetterDummy",
-    "upvotes": 303,
+    "upvotes": 306,
     "author": "PikachuEXE",
-    "comments": 177,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=29064234"
   },
   {
-    "title": "Jsquery: A PostgreSQL extension for searching nested jsonb objects and arrays",
-    "url": "https://github.com/postgrespro/jsquery",
-    "upvotes": 55,
-    "author": "eatonphil",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29069777"
-  },
-  {
-    "title": "Containers vs. pods – taking a deeper look",
-    "url": "https://iximiuz.com/en/posts/containers-vs-pods/",
-    "upvotes": 110,
-    "author": "alexellisuk",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=29055715"
-  },
-  {
-    "title": "Tell HN: Tesla rear-ended me on autopilot, no one will investigate",
-    "url": "item?id=29072408",
-    "upvotes": 257,
-    "author": "raylad",
-    "comments": 218,
-    "link": "https://news.ycombinator.com/item?id=29072408"
+    "title": "Improving first impressions on Signal",
+    "url": "https://signal.org/blog/keeping-spam-off-signal/",
+    "upvotes": 76,
+    "author": "feross",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=29072031"
   },
   {
     "title": "Linux 5.15",
     "url": "https://lkml.org/lkml/2021/10/31/203",
-    "upvotes": 4,
+    "upvotes": 25,
     "author": "belter",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29073469"
   },
   {
-    "title": "Man left shocked as his house is 'stolen'",
-    "url": "https://www.bbc.co.uk/news/uk-england-essex-59069662",
-    "upvotes": 253,
-    "author": "lbriner",
-    "comments": 253,
-    "link": "https://news.ycombinator.com/item?id=29068001"
+    "title": "Jsquery: A PostgreSQL extension for searching nested jsonb objects and arrays",
+    "url": "https://github.com/postgrespro/jsquery",
+    "upvotes": 60,
+    "author": "eatonphil",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29069777"
   },
   {
-    "title": "The Reading Obsession",
-    "url": "https://neckar.substack.com/p/the-reading-obsession",
-    "upvotes": 91,
-    "author": "_ttg",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=29067001"
+    "title": "Early Evaluator, Late Adopter",
+    "url": "https://markheath.net/post/early-evaluator-late-adopter",
+    "upvotes": 38,
+    "author": "kiyanwang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29058840"
   },
   {
-    "title": "Engelbart's Violin",
-    "url": "http://www.loper-os.org/?p=861",
-    "upvotes": 22,
-    "author": "tosh",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29070851"
-  },
-  {
-    "title": "Why pine nuts are expensive [video]",
-    "url": "https://www.youtube.com/watch?v=k88Cu5SoABg",
-    "upvotes": 112,
-    "author": "DocFeind",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=29066755"
-  },
-  {
-    "title": "Ask HN: Freelancer? Seeking freelancer?",
-    "url": "item?id=29067492",
-    "upvotes": 59,
-    "author": "whoishiring",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=29067492"
+    "title": "Inflationary Hikes",
+    "url": "https://fedguy.com/inflationary-hikes/",
+    "upvotes": 4,
+    "author": "otoburb",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29072391"
   }
 ]
