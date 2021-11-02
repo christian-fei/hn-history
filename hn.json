@@ -1,32 +1,24 @@
 [
   {
-    "title": "Culture shock",
-    "url": "https://siddhesh.substack.com/p/culture-shock",
-    "upvotes": 86,
-    "author": "bkudria",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=29073899"
-  },
-  {
     "title": "Report on Stablecoins [pdf]",
     "url": "https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf",
-    "upvotes": 445,
+    "upvotes": 459,
     "author": "TheAlchemist",
-    "comments": 401,
+    "comments": 415,
     "link": "https://news.ycombinator.com/item?id=29071895"
   },
   {
     "title": "MangoDB: An open-source MongoDB alternative",
     "url": "https://www.mangodb.io/",
-    "upvotes": 253,
+    "upvotes": 262,
     "author": "folex",
-    "comments": 133,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=29071623"
   },
   {
     "title": "Bringing back Cartoon Modern, a rare animation artbook",
     "url": "https://animationobsessive.substack.com/p/our-treat-to-you",
-    "upvotes": 22,
+    "upvotes": 29,
     "author": "ani_obsessive",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29075386"
@@ -34,7 +26,7 @@
   {
     "title": "The simplest of slumbers",
     "url": "https://www.science.org/content/article/if-alive-sleeps-brainless-creatures-shed-light-why-we-slumber",
-    "upvotes": 52,
+    "upvotes": 57,
     "author": "_Microft",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29072696"
@@ -42,15 +34,15 @@
   {
     "title": "Ask HN: What you up to?",
     "url": "item?id=29073996",
-    "upvotes": 153,
+    "upvotes": 176,
     "author": "capableweb",
-    "comments": 201,
+    "comments": 240,
     "link": "https://news.ycombinator.com/item?id=29073996"
   },
   {
     "title": "Townscaper’s Rendering Style in WebGL",
     "url": "https://reindernijhoff.net/2021/11/townscapers-rendering-style-in-webgl/",
-    "upvotes": 60,
+    "upvotes": 69,
     "author": "winkywooster",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=29074015"
@@ -58,35 +50,43 @@
   {
     "title": "U.S. telecoms are going to start physically removing Huawei gear",
     "url": "https://www.bloomberg.com/news/newsletters/2021-11-01/u-s-telecoms-are-going-to-start-physically-removing-huawei-gear",
-    "upvotes": 304,
+    "upvotes": 313,
     "author": "CapitalistCartr",
-    "comments": 209,
+    "comments": 214,
     "link": "https://news.ycombinator.com/item?id=29066579"
+  },
+  {
+    "title": "Culture shock",
+    "url": "https://siddhesh.substack.com/p/culture-shock",
+    "upvotes": 104,
+    "author": "bkudria",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=29073899"
+  },
+  {
+    "title": "Show HN: Sending and Receiving SMS via APRS",
+    "url": "https://smsgte.org/ug-sending-messages/",
+    "upvotes": 80,
+    "author": "jlturner",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=29060280"
   },
   {
     "title": "Finley",
     "url": "https://www.finleycms.com/careers/"
   },
   {
-    "title": "Show HN: Sending and Receiving SMS via APRS",
-    "url": "https://smsgte.org/ug-sending-messages/",
-    "upvotes": 76,
-    "author": "jlturner",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=29060280"
-  },
-  {
     "title": "Ask HN: Who is hiring?",
     "url": "item?id=29067493",
-    "upvotes": 326,
+    "upvotes": 329,
     "author": "whoishiring",
-    "comments": 737,
+    "comments": 738,
     "link": "https://news.ycombinator.com/item?id=29067493"
   },
   {
     "title": "C³: A \"cool\" route to the Higgs boson and beyond",
     "url": "https://arxiv.org/abs/2110.15800",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "noslenwerdna",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=29072800"
@@ -94,15 +94,15 @@
   {
     "title": "Faster Mac dev tools with custom allocators",
     "url": "https://eisel.me/devtool-allocators",
-    "upvotes": 44,
+    "upvotes": 45,
     "author": "meisel",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29068828"
   },
   {
     "title": "Introducing the layer based SVG engine",
     "url": "https://blogs.igalia.com/nzimmermann/posts/2021-10-29-layer-based-svg-engine/",
-    "upvotes": 247,
+    "upvotes": 250,
     "author": "bpierre",
     "comments": 87,
     "link": "https://news.ycombinator.com/item?id=29067036"
@@ -110,7 +110,7 @@
   {
     "title": "Famicom Party: Making NES Games in Assembly",
     "url": "https://famicom.party/book/",
-    "upvotes": 149,
+    "upvotes": 151,
     "author": "mariuz",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=29069095"
@@ -118,10 +118,18 @@
   {
     "title": "Web developer tool secrets that shouldn’t be secrets",
     "url": "https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/",
-    "upvotes": 158,
+    "upvotes": 164,
     "author": "tybulewicz",
-    "comments": 42,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=29071700"
+  },
+  {
+    "title": "Show HN: Privacy-first, minimal, fast blogging/newsletter platform",
+    "url": "https://papyrus.so/",
+    "upvotes": 3,
+    "author": "colinarms",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29076187"
   },
   {
     "title": "Launch HN: Promoted (YC W21) - Search and feed ranking for marketplaces",
@@ -132,28 +140,52 @@
     "link": "https://news.ycombinator.com/item?id=29071609"
   },
   {
+    "title": "Etaoin Shrdlu",
+    "url": "https://en.wikipedia.org/wiki/Etaoin_shrdlu",
+    "upvotes": 40,
+    "author": "tosh",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29071164"
+  },
+  {
+    "title": "The Benefits of Iframe Based Development",
+    "url": "https://stakedy.com/long/the-hidden-benefits-of-iframe-based-development.html",
+    "upvotes": 7,
+    "author": "toricalea",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29058248"
+  },
+  {
     "title": "Inflationary Hikes",
     "url": "https://fedguy.com/inflationary-hikes/",
-    "upvotes": 34,
+    "upvotes": 37,
     "author": "otoburb",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29072391"
   },
   {
     "title": "First confirmed hatchings of two California condor chicks from unfertilized eggs",
     "url": "https://stories.sandiegozoo.org/2021/10/28/san-diego-zoo-wildlife-alliance-conservation-scientists-report-first-confirmed-hatchings-of-two-california-condor-chicks-from-unfertilized-eggs/",
-    "upvotes": 174,
+    "upvotes": 176,
     "author": "dsr12",
     "comments": 92,
     "link": "https://news.ycombinator.com/item?id=29046808"
   },
   {
-    "title": "Etaoin Shrdlu",
-    "url": "https://en.wikipedia.org/wiki/Etaoin_shrdlu",
-    "upvotes": 36,
-    "author": "tosh",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29071164"
+    "title": "EU Chatcontrol 2.0 [video]",
+    "url": "https://peertube.european-pirates.eu/videos/watch/d64e6e10-0ad0-4b37-8813-3f5bc329f03b",
+    "upvotes": 382,
+    "author": "nix23",
+    "comments": 173,
+    "link": "https://news.ycombinator.com/item?id=29066894"
+  },
+  {
+    "title": "Western Digital to Ship 20TB OptiNAND HDDs in November",
+    "url": "https://www.tomshardware.com/news/wdc-to-start-shipments-of-20tb-hdd-in-november",
+    "upvotes": 26,
+    "author": "elorant",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29067793"
   },
   {
     "title": "Experts on the Future of Expertise",
@@ -164,41 +196,33 @@
     "link": "https://news.ycombinator.com/item?id=29056120"
   },
   {
-    "title": "EU Chatcontrol 2.0 [video]",
-    "url": "https://peertube.european-pirates.eu/videos/watch/d64e6e10-0ad0-4b37-8813-3f5bc329f03b",
-    "upvotes": 381,
-    "author": "nix23",
-    "comments": 173,
-    "link": "https://news.ycombinator.com/item?id=29066894"
-  },
-  {
     "title": "The Yggdrasil Screen Reader Project",
     "url": "https://yggdrasil-sr.github.io/",
-    "upvotes": 30,
+    "upvotes": 31,
     "author": "Vinnl",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29056168"
-  },
-  {
-    "title": "The Great Tree-List Recursion Problem",
-    "url": "http://cslibrary.stanford.edu/109/TreeListRecursion.html",
-    "upvotes": 54,
-    "author": "nickdrozd",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=29067098"
   },
   {
     "title": "Two stories about tacit knowledge",
     "url": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
-    "upvotes": 89,
+    "upvotes": 90,
     "author": "Wildgoose",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=29069928"
   },
   {
+    "title": "The Great Tree-List Recursion Problem",
+    "url": "http://cslibrary.stanford.edu/109/TreeListRecursion.html",
+    "upvotes": 55,
+    "author": "nickdrozd",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=29067098"
+  },
+  {
     "title": "Intel Extension for Scikit-Learn",
     "url": "https://intel.github.io/scikit-learn-intelex/",
-    "upvotes": 168,
+    "upvotes": 169,
     "author": "privong",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=29066712"
@@ -206,33 +230,9 @@
   {
     "title": "Ask HN: Who wants to be hired?",
     "url": "item?id=29067491",
-    "upvotes": 120,
+    "upvotes": 121,
     "author": "whoishiring",
-    "comments": 188,
+    "comments": 189,
     "link": "https://news.ycombinator.com/item?id=29067491"
-  },
-  {
-    "title": "The Rise of Nintendo: A Story in 8 Bits",
-    "url": "https://grantland.com/features/the-rise-of-nintendo-video-games-history/",
-    "upvotes": 83,
-    "author": "blkjam",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=29055544"
-  },
-  {
-    "title": "Western Digital to Ship 20TB OptiNAND HDDs in November",
-    "url": "https://www.tomshardware.com/news/wdc-to-start-shipments-of-20tb-hdd-in-november",
-    "upvotes": 20,
-    "author": "elorant",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29067793"
-  },
-  {
-    "title": "Containers vs. pods – taking a deeper look",
-    "url": "https://iximiuz.com/en/posts/containers-vs-pods/",
-    "upvotes": 127,
-    "author": "alexellisuk",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=29055715"
   }
 ]
