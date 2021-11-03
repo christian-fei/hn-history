@@ -2,70 +2,78 @@
   {
     "title": "How X Window Managers Work, and How to Write One",
     "url": "https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/",
-    "upvotes": 87,
+    "upvotes": 103,
     "author": "firefly284",
-    "comments": 6,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=29091070"
   },
   {
     "title": "Backblaze IPO",
     "url": "https://www.sec.gov/Archives/edgar/data/0001462056/000119312521316078/d62601ds1a.htm",
-    "upvotes": 330,
+    "upvotes": 339,
     "author": "hippich",
-    "comments": 178,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=29087416"
   },
   {
     "title": "An opinionated guide on how to reverse engineer software",
     "url": "https://margin.re/media/an-opinionated-guide-on-how-to-reverse-engineer-software-part-1.aspx",
-    "upvotes": 82,
+    "upvotes": 99,
     "author": "withzombies",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29084716"
   },
   {
     "title": "Curves and Surfaces",
     "url": "https://ciechanow.ski/curves-and-surfaces/",
-    "upvotes": 700,
+    "upvotes": 713,
     "author": "todsacerdoti",
-    "comments": 52,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=29083349"
   },
   {
     "title": "Do-nothing scripting: the key to gradual automation",
     "url": "https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/",
-    "upvotes": 634,
+    "upvotes": 642,
     "author": "jabo",
-    "comments": 168,
+    "comments": 170,
     "link": "https://news.ycombinator.com/item?id=29083367"
+  },
+  {
+    "title": "Pyheatmagic: Profile and view your Python code as a heat map",
+    "url": "https://github.com/csurfer/pyheatmagic",
+    "upvotes": 30,
+    "author": "jonbaer",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29091062"
   },
   {
     "title": "Standard",
     "url": "https://careers.standard.ai/"
   },
   {
-    "title": "Pyheatmagic: Profile and view your Python code as a heat map",
-    "url": "https://github.com/csurfer/pyheatmagic",
-    "upvotes": 28,
-    "author": "jonbaer",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29091062"
-  },
-  {
     "title": "How learned helplessness happens in engineering teams",
     "url": "https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams",
-    "upvotes": 330,
+    "upvotes": 334,
     "author": "tomasrb",
-    "comments": 143,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=29060693"
   },
   {
-    "title": "We All Live on Permafrost",
-    "url": "https://www.sapiens.org/culture/climate-change-siberia/",
-    "upvotes": 24,
-    "author": "CapitalistCartr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29079796"
+    "title": "IPv4 addresses are silly, inet_aton",
+    "url": "https://www.netmeister.org/blog/inet_aton.html",
+    "upvotes": 23,
+    "author": "vonadz",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29079245"
+  },
+  {
+    "title": "What I learned from a year on Substack",
+    "url": "https://www.niemanlab.org/2021/09/what-i-learned-from-a-year-on-substack/",
+    "upvotes": 51,
+    "author": "wyclif",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=29090448"
   },
   {
     "title": "Elements may have been forged on Earth, as well as in space",
@@ -76,123 +84,123 @@
     "link": "https://news.ycombinator.com/item?id=29090222"
   },
   {
-    "title": "What I learned from a year on Substack",
-    "url": "https://www.niemanlab.org/2021/09/what-i-learned-from-a-year-on-substack/",
-    "upvotes": 48,
-    "author": "wyclif",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=29090448"
-  },
-  {
-    "title": "IPv4 addresses are silly, inet_aton",
-    "url": "https://www.netmeister.org/blog/inet_aton.html",
-    "upvotes": 18,
-    "author": "vonadz",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29079245"
-  },
-  {
-    "title": "ct.css – Take a look inside your <head>",
-    "url": "https://github.com/csswizardry/ct",
-    "upvotes": 134,
-    "author": "valgaze",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=29087538"
-  },
-  {
     "title": "What could Go wrong with a mutex",
     "url": "https://evilmartians.com/chronicles/what-could-go-wrong-with-a-mutex-or-the-go-profiling-story",
-    "upvotes": 4,
+    "upvotes": 8,
     "author": "feross",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29084288"
   },
   {
+    "title": "ct.css – Take a look inside your <head>",
+    "url": "https://github.com/csswizardry/ct",
+    "upvotes": 136,
+    "author": "valgaze",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29087538"
+  },
+  {
+    "title": "We All Live on Permafrost",
+    "url": "https://www.sapiens.org/culture/climate-change-siberia/",
+    "upvotes": 26,
+    "author": "CapitalistCartr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29079796"
+  },
+  {
     "title": "Differences with other Lisps",
     "url": "https://clojure.org/reference/lisps",
-    "upvotes": 101,
+    "upvotes": 104,
     "author": "susam",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=29064942"
-  },
-  {
-    "title": "Suspected head of $21B crime syndicate may be world’s most innovative drug lord",
-    "url": "https://torontolife.com/city/this-man-is-the-jeff-bezos-of-the-international-drug-trade/",
-    "upvotes": 279,
-    "author": "Geekette",
-    "comments": 180,
-    "link": "https://news.ycombinator.com/item?id=29087057"
-  },
-  {
-    "title": "The Architecture of Open Source Applications: Nginx",
-    "url": "https://aosabook.org/en/nginx.html",
-    "upvotes": 85,
-    "author": "kristianpaul",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=29088134"
-  },
-  {
-    "title": "Toxiproxy is a framework for simulating network conditions",
-    "url": "https://github.com/Shopify/toxiproxy",
-    "upvotes": 173,
-    "author": "taf2",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=29084277"
   },
   {
     "title": "The history of Unix's confusing set of low-level ways to allocate memory",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SbrkVersusMmap",
-    "upvotes": 69,
+    "upvotes": 72,
     "author": "jaytaylor",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=29087309"
   },
   {
+    "title": "Toxiproxy is a framework for simulating network conditions",
+    "url": "https://github.com/Shopify/toxiproxy",
+    "upvotes": 175,
+    "author": "taf2",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=29084277"
+  },
+  {
+    "title": "The Architecture of Open Source Applications: Nginx",
+    "url": "https://aosabook.org/en/nginx.html",
+    "upvotes": 88,
+    "author": "kristianpaul",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=29088134"
+  },
+  {
+    "title": "Suspected head of $21B crime syndicate may be world’s most innovative drug lord",
+    "url": "https://torontolife.com/city/this-man-is-the-jeff-bezos-of-the-international-drug-trade/",
+    "upvotes": 284,
+    "author": "Geekette",
+    "comments": 181,
+    "link": "https://news.ycombinator.com/item?id=29087057"
+  },
+  {
     "title": "TLSNotary – Prove you received a webpage from a server with TLS signatures",
     "url": "https://tlsnotary.org",
-    "upvotes": 19,
+    "upvotes": 22,
     "author": "crazypython",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29090604"
   },
   {
     "title": "The metaverse is already here – it's Minecraft",
     "url": "https://clivethompson.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2",
-    "upvotes": 432,
+    "upvotes": 436,
     "author": "Tomte",
-    "comments": 263,
+    "comments": 271,
     "link": "https://news.ycombinator.com/item?id=29083271"
   },
   {
     "title": "Zillow to stop flipping homes, loses more than $550M, lays off 25% of staff",
     "url": "https://www.marketwatch.com/story/zillow-to-stop-flipping-homes-for-good-as-it-stands-to-lose-more-than-550-million-will-lay-off-a-quarter-of-staff-11635885027",
-    "upvotes": 490,
+    "upvotes": 499,
     "author": "swatkat",
-    "comments": 346,
+    "comments": 355,
     "link": "https://news.ycombinator.com/item?id=29087479"
+  },
+  {
+    "title": "Show HN: AWS credentials management CLI tool",
+    "url": "https://github.com/iamarkadyt/aws-auth",
+    "upvotes": 12,
+    "author": "EnlightenedBro",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29090858"
   },
   {
     "title": "The Common Desktop Environment",
     "url": "https://raymii.org/s/blog/The_Common_Desktop_Environment_CDE_is_still_developed_in_2021.html",
-    "upvotes": 98,
+    "upvotes": 99,
     "author": "indigodaddy",
     "comments": 114,
     "link": "https://news.ycombinator.com/item?id=29084122"
   },
   {
-    "title": "Show HN: AWS credentials management CLI tool",
-    "url": "https://github.com/iamarkadyt/aws-auth",
-    "upvotes": 9,
-    "author": "EnlightenedBro",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29090858"
+    "title": "The growing complexity of modern software systems",
+    "url": "https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html",
+    "upvotes": 92,
+    "author": "tut-urut-utut",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=29083557"
   },
   {
     "title": "The story behind Flexport founder's supply chain tweets",
     "url": "https://finance.yahoo.com/news/real-story-behind-tech-founders-225037288.html",
     "upvotes": 130,
     "author": "robbybaron",
-    "comments": 147,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=29083543"
   },
   {
@@ -204,35 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=29086249"
   },
   {
-    "title": "The growing complexity of modern software systems",
-    "url": "https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html",
-    "upvotes": 87,
-    "author": "tut-urut-utut",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=29083557"
+    "title": "Diffractive optical networks reconstruct holograms without a digital computer",
+    "url": "https://phys.org/news/2021-11-diffractive-optical-networks-reconstruct-holograms.html",
+    "upvotes": 7,
+    "author": "geox",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29080171"
+  },
+  {
+    "title": "William Morris and wallpaper design",
+    "url": "https://www.vam.ac.uk/articles/william-morris-and-wallpaper-design",
+    "upvotes": 47,
+    "author": "severine",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=29083060"
   },
   {
     "title": "Zepto",
     "url": "https://techcrunch.com/2021/10/31/indias-zepto-a-10-minute-grocery-delivery-app-founded-by-two-19-year-old-stanford-dropouts-raises-60-million/",
     "upvotes": 30,
     "author": "gofiggy",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29085148"
-  },
-  {
-    "title": "William Morris and wallpaper design",
-    "url": "https://www.vam.ac.uk/articles/william-morris-and-wallpaper-design",
-    "upvotes": 46,
-    "author": "severine",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=29083060"
-  },
-  {
-    "title": "People who have unusual, or non-existent, inner voices",
-    "url": "https://www.theguardian.com/science/2021/oct/25/the-last-great-mystery-of-the-mind-meet-the-people-who-have-unusual-or-non-existent-inner-voices",
-    "upvotes": 71,
-    "author": "prostoalex",
-    "comments": 142,
-    "link": "https://news.ycombinator.com/item?id=29068561"
   }
 ]
