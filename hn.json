@@ -1,80 +1,96 @@
 [
   {
+    "title": "Why SQLite Does Not Use Git",
+    "url": "https://sqlite.org/whynotgit.html",
+    "upvotes": 72,
+    "author": "pezzana",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=29125934"
+  },
+  {
     "title": "Show HN: My wife is pregnant; naturally I made a baby-name app to prepare",
     "url": "https://nomdebebe.app/",
-    "upvotes": 727,
+    "upvotes": 746,
     "author": "hamaluik",
-    "comments": 286,
+    "comments": 297,
     "link": "https://news.ycombinator.com/item?id=29118785"
-  },
-  {
-    "title": "Helion",
-    "url": "https://blog.samaltman.com/helion",
-    "upvotes": 379,
-    "author": "sixhobbits",
-    "comments": 179,
-    "link": "https://news.ycombinator.com/item?id=29119180"
-  },
-  {
-    "title": "How credit cards make money",
-    "url": "https://bam.kalzumeus.com/archive/how-credit-cards-make-money/",
-    "upvotes": 244,
-    "author": "grn",
-    "comments": 191,
-    "link": "https://news.ycombinator.com/item?id=29121353"
-  },
-  {
-    "title": "Orca – esoteric programming language, designed to create procedural sequencers",
-    "url": "http://100r.co/site/orca.html",
-    "upvotes": 153,
-    "author": "qnsi",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=29122218"
   },
   {
     "title": "Pdfsandwich",
     "url": "http://www.tobias-elze.de/pdfsandwich/",
-    "upvotes": 24,
+    "upvotes": 47,
     "author": "blacksqr",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29124994"
   },
   {
-    "title": "The Biodegradable Battery",
-    "url": "https://www.empa.ch/web/s604/papierbatterie",
-    "upvotes": 27,
-    "author": "Aaronmacaron",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29124871"
+    "title": "How credit cards make money",
+    "url": "https://bam.kalzumeus.com/archive/how-credit-cards-make-money/",
+    "upvotes": 278,
+    "author": "grn",
+    "comments": 209,
+    "link": "https://news.ycombinator.com/item?id=29121353"
+  },
+  {
+    "title": "Helion",
+    "url": "https://blog.samaltman.com/helion",
+    "upvotes": 392,
+    "author": "sixhobbits",
+    "comments": 183,
+    "link": "https://news.ycombinator.com/item?id=29119180"
+  },
+  {
+    "title": "Orca – esoteric programming language, designed to create procedural sequencers",
+    "url": "http://100r.co/site/orca.html",
+    "upvotes": 165,
+    "author": "qnsi",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=29122218"
   },
   {
     "title": "How to learn compilers: LLVM Edition",
     "url": "https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/",
-    "upvotes": 73,
+    "upvotes": 88,
     "author": "AlexDenisov",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29112482"
   },
   {
     "title": "Never update anything",
     "url": "https://blog.kronis.dev/articles/never-update-anything",
-    "upvotes": 96,
+    "upvotes": 123,
     "author": "cesarb",
-    "comments": 47,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=29106159"
+  },
+  {
+    "title": "The Biodegradable Battery",
+    "url": "https://www.empa.ch/web/s604/papierbatterie",
+    "upvotes": 30,
+    "author": "Aaronmacaron",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29124871"
+  },
+  {
+    "title": "In C, how do you know if the dynamic allocation succeeded?",
+    "url": "https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/",
+    "upvotes": 54,
+    "author": "ibobev",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=29123678"
   },
   {
     "title": "Embedded malware in RC",
     "url": "https://github.com/advisories/GHSA-g2q5-5433-rhrf",
-    "upvotes": 100,
+    "upvotes": 102,
     "author": "hjek",
-    "comments": 74,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=29122098"
   },
   {
     "title": "Show HN: WebFrame: F# framework for rapid prototyping with ASP.NET Core",
     "url": "https://github.com/RussBaz/WebFrame",
-    "upvotes": 127,
+    "upvotes": 131,
     "author": "RussBaz",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=29121612"
@@ -84,129 +100,129 @@
     "url": "item?id=29124696"
   },
   {
-    "title": "RFC: Make NPM install scripts opt-in",
-    "url": "https://github.com/npm/rfcs/pull/488",
-    "upvotes": 76,
-    "author": "tolmasky",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=29122473"
-  },
-  {
     "title": "Pfizer's oral Covid-19 antiviral cuts hospitalization, death by 85%",
     "url": "https://www.fiercebiotech.com/biotech/pfizer-s-oral-covid-19-antiviral-cuts-hospitalization-death-by-85-sending-team-barreling-to",
-    "upvotes": 718,
+    "upvotes": 733,
     "author": "jeremylevy",
-    "comments": 913,
+    "comments": 944,
     "link": "https://news.ycombinator.com/item?id=29118534"
   },
   {
-    "title": "In C, how do you know if the dynamic allocation succeeded?",
-    "url": "https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/",
-    "upvotes": 42,
-    "author": "ibobev",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=29123678"
+    "title": "RFC: Make NPM install scripts opt-in",
+    "url": "https://github.com/npm/rfcs/pull/488",
+    "upvotes": 80,
+    "author": "tolmasky",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=29122473"
   },
   {
     "title": "The secret lives of cells – as never seen before",
     "url": "https://www.nature.com/articles/d41586-021-02904-w",
-    "upvotes": 28,
+    "upvotes": 38,
     "author": "panabee",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29123843"
-  },
-  {
-    "title": "LXQt 1.0.0",
-    "url": "https://github.com/lxqt/lxqt/releases/tag/1.0.0",
-    "upvotes": 158,
-    "author": "jlpcsl",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=29118348"
   },
   {
     "title": "Scrape like the big boys",
     "url": "https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/",
-    "upvotes": 292,
+    "upvotes": 301,
     "author": "incolumitas",
-    "comments": 124,
+    "comments": 134,
     "link": "https://news.ycombinator.com/item?id=29117022"
   },
   {
-    "title": "The promise and paradox of decentralization",
-    "url": "https://www.thediff.co/p/the-promise-and-paradox-of-decentralization",
-    "upvotes": 96,
-    "author": "yosoyubik",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=29121438"
-  },
-  {
-    "title": "Does having prime neighbors make you more composite?",
-    "url": "http://bit-player.org/2021/does-having-prime-neighbors-make-you-more-composite",
-    "upvotes": 103,
-    "author": "another",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=29120073"
-  },
-  {
-    "title": "Towards an animation smoothness metric",
-    "url": "https://web.dev/smoothness/",
-    "upvotes": 11,
-    "author": "tantalor",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29108119"
+    "title": "LXQt 1.0.0",
+    "url": "https://github.com/lxqt/lxqt/releases/tag/1.0.0",
+    "upvotes": 162,
+    "author": "jlpcsl",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=29118348"
   },
   {
     "title": "Lessons Learned: A severe vulnerability in the OWASP ModSecurity Core Rule Set",
     "url": "https://portswigger.net/daily-swig/lessons-learned-how-a-severe-vulnerability-in-the-owasp-modsecurity-core-rule-set-sparked-much-needed-change",
-    "upvotes": 9,
+    "upvotes": 14,
     "author": "feross",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29121153"
   },
   {
-    "title": "Contract for Sale of Soul",
-    "url": "https://liminalwarmth.com/contract-for-sale-of-soul/",
-    "upvotes": 19,
-    "author": "abecedarius",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=29124259"
+    "title": "Does having prime neighbors make you more composite?",
+    "url": "http://bit-player.org/2021/does-having-prime-neighbors-make-you-more-composite",
+    "upvotes": 111,
+    "author": "another",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=29120073"
+  },
+  {
+    "title": "The promise and paradox of decentralization",
+    "url": "https://www.thediff.co/p/the-promise-and-paradox-of-decentralization",
+    "upvotes": 99,
+    "author": "yosoyubik",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=29121438"
+  },
+  {
+    "title": "Towards an animation smoothness metric",
+    "url": "https://web.dev/smoothness/",
+    "upvotes": 14,
+    "author": "tantalor",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29108119"
   },
   {
     "title": "Why Co–Star Uses Haskell",
     "url": "https://www.costarastrology.com/why-haskell",
-    "upvotes": 104,
+    "upvotes": 109,
     "author": "_query",
-    "comments": 178,
+    "comments": 186,
     "link": "https://news.ycombinator.com/item?id=29119787"
+  },
+  {
+    "title": "Nuclear Power Is the Best Climate-Change Solution by Far",
+    "url": "https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581",
+    "upvotes": 40,
+    "author": "erentz",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29125576"
   },
   {
     "title": "An Incremental Approach to Compiler Construction",
     "url": "http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf",
-    "upvotes": 28,
+    "upvotes": 32,
     "author": "ingve",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29123715"
   },
   {
-    "title": "IAB Europe cookie consent pop-ups to be found in breach of GDPR",
-    "url": "https://techcrunch.com/2021/11/05/iab-europe-tcf-gdpr-breach-belgium/",
-    "upvotes": 225,
-    "author": "youngtaff",
-    "comments": 224,
-    "link": "https://news.ycombinator.com/item?id=29121848"
-  },
-  {
     "title": "Designing a MIPS CPU in Hardcaml",
     "url": "https://ceramichacker.com/blog/1-1x-hardcaml-mips-intro-what-and-why",
-    "upvotes": 44,
+    "upvotes": 48,
     "author": "tosh",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29105348"
   },
   {
+    "title": "Contract for Sale of Soul",
+    "url": "https://liminalwarmth.com/contract-for-sale-of-soul/",
+    "upvotes": 25,
+    "author": "abecedarius",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=29124259"
+  },
+  {
+    "title": "IAB Europe cookie consent pop-ups to be found in breach of GDPR",
+    "url": "https://techcrunch.com/2021/11/05/iab-europe-tcf-gdpr-breach-belgium/",
+    "upvotes": 229,
+    "author": "youngtaff",
+    "comments": 230,
+    "link": "https://news.ycombinator.com/item?id=29121848"
+  },
+  {
     "title": "Designs from Kimono Pattern Books",
     "url": "https://publicdomainreview.org/collection/unkindo-kimono-designs/",
-    "upvotes": 61,
+    "upvotes": 64,
     "author": "prismatic",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29104179"
@@ -214,25 +230,9 @@
   {
     "title": "Launch HN: Terra",
     "url": "https://tryterra.co",
-    "upvotes": 66,
+    "upvotes": 68,
     "author": "kyriakosel",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=29118517"
-  },
-  {
-    "title": "University of Florida reverses course, allows professors to testify",
-    "url": "https://www.wuft.org/news/2021/11/05/university-of-florida-reverses-course-allows-professors-to-testify-regardless-of-compensation/",
-    "upvotes": 176,
-    "author": "burkaman",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=29122978"
-  },
-  {
-    "title": "The Astronaut Alone",
-    "url": "https://solitudes.qmul.ac.uk/blog/the-astronaut-alone/",
-    "upvotes": 16,
-    "author": "Hooke",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29110462"
   }
 ]
