@@ -1,56 +1,68 @@
 [
   {
-    "title": "Why SQLite Does Not Use Git",
-    "url": "https://sqlite.org/whynotgit.html",
-    "upvotes": 72,
-    "author": "pezzana",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=29125934"
-  },
-  {
     "title": "Show HN: My wife is pregnant; naturally I made a baby-name app to prepare",
     "url": "https://nomdebebe.app/",
-    "upvotes": 746,
+    "upvotes": 767,
     "author": "hamaluik",
-    "comments": 297,
+    "comments": 301,
     "link": "https://news.ycombinator.com/item?id=29118785"
   },
   {
     "title": "Pdfsandwich",
     "url": "http://www.tobias-elze.de/pdfsandwich/",
-    "upvotes": 47,
+    "upvotes": 63,
     "author": "blacksqr",
-    "comments": 4,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29124994"
   },
   {
     "title": "How credit cards make money",
     "url": "https://bam.kalzumeus.com/archive/how-credit-cards-make-money/",
-    "upvotes": 278,
+    "upvotes": 318,
     "author": "grn",
-    "comments": 209,
+    "comments": 238,
     "link": "https://news.ycombinator.com/item?id=29121353"
   },
   {
     "title": "Helion",
     "url": "https://blog.samaltman.com/helion",
-    "upvotes": 392,
+    "upvotes": 405,
     "author": "sixhobbits",
-    "comments": 183,
+    "comments": 193,
     "link": "https://news.ycombinator.com/item?id=29119180"
   },
   {
     "title": "Orca – esoteric programming language, designed to create procedural sequencers",
     "url": "http://100r.co/site/orca.html",
-    "upvotes": 165,
+    "upvotes": 178,
     "author": "qnsi",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29122218"
+  },
+  {
+    "title": "Four Oxford women transformed philosophy",
+    "url": "https://www.prospectmagazine.co.uk/philosophy/boo-to-the-boo-hurrahs-how-four-oxford-women-transformed-philosophy",
+    "upvotes": 18,
+    "author": "apollinaire",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29115317"
+  },
+  {
+    "title": "Nuclear Power Is the Best Climate-Change Solution by Far",
+    "url": "https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581",
+    "upvotes": 112,
+    "author": "erentz",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=29125576"
+  },
+  {
+    "title": "Sirum hiring Chief of Staff to help make medicine affordable",
+    "url": "https://boards.greenhouse.io/sirum?iframe=true&nonce=2021-11-01T17:50:53.991Z"
   },
   {
     "title": "How to learn compilers: LLVM Edition",
     "url": "https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/",
-    "upvotes": 88,
+    "upvotes": 96,
     "author": "AlexDenisov",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29112482"
@@ -58,181 +70,169 @@
   {
     "title": "Never update anything",
     "url": "https://blog.kronis.dev/articles/never-update-anything",
-    "upvotes": 123,
+    "upvotes": 142,
     "author": "cesarb",
-    "comments": 69,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=29106159"
   },
   {
-    "title": "The Biodegradable Battery",
-    "url": "https://www.empa.ch/web/s604/papierbatterie",
-    "upvotes": 30,
-    "author": "Aaronmacaron",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29124871"
+    "title": "Pfizer's oral Covid-19 antiviral cuts hospitalization, death by 85%",
+    "url": "https://www.fiercebiotech.com/biotech/pfizer-s-oral-covid-19-antiviral-cuts-hospitalization-death-by-85-sending-team-barreling-to",
+    "upvotes": 754,
+    "author": "jeremylevy",
+    "comments": 971,
+    "link": "https://news.ycombinator.com/item?id=29118534"
   },
   {
-    "title": "In C, how do you know if the dynamic allocation succeeded?",
-    "url": "https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/",
-    "upvotes": 54,
-    "author": "ibobev",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=29123678"
+    "title": "RFC: Make NPM install scripts opt-in",
+    "url": "https://github.com/npm/rfcs/pull/488",
+    "upvotes": 90,
+    "author": "tolmasky",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=29122473"
   },
   {
     "title": "Embedded malware in RC",
     "url": "https://github.com/advisories/GHSA-g2q5-5433-rhrf",
     "upvotes": 102,
     "author": "hjek",
-    "comments": 77,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=29122098"
+  },
+  {
+    "title": "In C, how do you know if the dynamic allocation succeeded?",
+    "url": "https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/",
+    "upvotes": 57,
+    "author": "ibobev",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=29123678"
   },
   {
     "title": "Show HN: WebFrame: F# framework for rapid prototyping with ASP.NET Core",
     "url": "https://github.com/RussBaz/WebFrame",
     "upvotes": 131,
     "author": "RussBaz",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29121612"
   },
   {
-    "title": "ZeroCater (YC W11) Is Hiring Python Engineers",
-    "url": "item?id=29124696"
-  },
-  {
-    "title": "Pfizer's oral Covid-19 antiviral cuts hospitalization, death by 85%",
-    "url": "https://www.fiercebiotech.com/biotech/pfizer-s-oral-covid-19-antiviral-cuts-hospitalization-death-by-85-sending-team-barreling-to",
-    "upvotes": 733,
-    "author": "jeremylevy",
-    "comments": 944,
-    "link": "https://news.ycombinator.com/item?id=29118534"
-  },
-  {
-    "title": "RFC: Make NPM install scripts opt-in",
-    "url": "https://github.com/npm/rfcs/pull/488",
-    "upvotes": 80,
-    "author": "tolmasky",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=29122473"
+    "title": "The Biodegradable Battery",
+    "url": "https://www.empa.ch/web/s604/papierbatterie",
+    "upvotes": 33,
+    "author": "Aaronmacaron",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=29124871"
   },
   {
     "title": "The secret lives of cells – as never seen before",
     "url": "https://www.nature.com/articles/d41586-021-02904-w",
-    "upvotes": 38,
+    "upvotes": 46,
     "author": "panabee",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=29123843"
   },
   {
-    "title": "Scrape like the big boys",
-    "url": "https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/",
-    "upvotes": 301,
-    "author": "incolumitas",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=29117022"
+    "title": "Slime molds’ complex ability to detect mass from a distance",
+    "url": "https://www.harvardmagazine.com/2021/11/right-now-can-slime-molds-think",
+    "upvotes": 19,
+    "author": "bangonkeyboard",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29114686"
   },
   {
-    "title": "LXQt 1.0.0",
-    "url": "https://github.com/lxqt/lxqt/releases/tag/1.0.0",
-    "upvotes": 162,
-    "author": "jlpcsl",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=29118348"
+    "title": "Why SQLite does not use Git",
+    "url": "https://sqlite.org/whynotgit.html",
+    "upvotes": 146,
+    "author": "pezzana",
+    "comments": 188,
+    "link": "https://news.ycombinator.com/item?id=29125934"
   },
   {
-    "title": "Lessons Learned: A severe vulnerability in the OWASP ModSecurity Core Rule Set",
-    "url": "https://portswigger.net/daily-swig/lessons-learned-how-a-severe-vulnerability-in-the-owasp-modsecurity-core-rule-set-sparked-much-needed-change",
-    "upvotes": 14,
-    "author": "feross",
+    "title": "The road of Barbados becoming a republic",
+    "url": "https://constitutionnet.org/news/barbadoss-long-drawn-out-promise-republic",
+    "upvotes": 5,
+    "author": "Archelaos",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29121153"
+    "link": "https://news.ycombinator.com/item?id=29126390"
   },
   {
     "title": "Does having prime neighbors make you more composite?",
     "url": "http://bit-player.org/2021/does-having-prime-neighbors-make-you-more-composite",
-    "upvotes": 111,
+    "upvotes": 120,
     "author": "another",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=29120073"
   },
   {
-    "title": "The promise and paradox of decentralization",
-    "url": "https://www.thediff.co/p/the-promise-and-paradox-of-decentralization",
-    "upvotes": 99,
-    "author": "yosoyubik",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=29121438"
-  },
-  {
-    "title": "Towards an animation smoothness metric",
-    "url": "https://web.dev/smoothness/",
-    "upvotes": 14,
-    "author": "tantalor",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29108119"
+    "title": "LXQt 1.0.0",
+    "url": "https://github.com/lxqt/lxqt/releases/tag/1.0.0",
+    "upvotes": 165,
+    "author": "jlpcsl",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=29118348"
   },
   {
     "title": "Why Co–Star Uses Haskell",
     "url": "https://www.costarastrology.com/why-haskell",
-    "upvotes": 109,
+    "upvotes": 117,
     "author": "_query",
-    "comments": 186,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=29119787"
   },
   {
-    "title": "Nuclear Power Is the Best Climate-Change Solution by Far",
-    "url": "https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581",
-    "upvotes": 40,
-    "author": "erentz",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29125576"
+    "title": "The promise and paradox of decentralization",
+    "url": "https://www.thediff.co/p/the-promise-and-paradox-of-decentralization",
+    "upvotes": 102,
+    "author": "yosoyubik",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=29121438"
+  },
+  {
+    "title": "Lessons Learned: A severe vulnerability in the OWASP ModSecurity Core Rule Set",
+    "url": "https://portswigger.net/daily-swig/lessons-learned-how-a-severe-vulnerability-in-the-owasp-modsecurity-core-rule-set-sparked-much-needed-change",
+    "upvotes": 15,
+    "author": "feross",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29121153"
+  },
+  {
+    "title": "Towards an animation smoothness metric",
+    "url": "https://web.dev/smoothness/",
+    "upvotes": 16,
+    "author": "tantalor",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29108119"
   },
   {
     "title": "An Incremental Approach to Compiler Construction",
     "url": "http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "ingve",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29123715"
   },
   {
+    "title": "Designs from Kimono Pattern Books",
+    "url": "https://publicdomainreview.org/collection/unkindo-kimono-designs/",
+    "upvotes": 68,
+    "author": "prismatic",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29104179"
+  },
+  {
     "title": "Designing a MIPS CPU in Hardcaml",
     "url": "https://ceramichacker.com/blog/1-1x-hardcaml-mips-intro-what-and-why",
-    "upvotes": 48,
+    "upvotes": 49,
     "author": "tosh",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29105348"
   },
   {
-    "title": "Contract for Sale of Soul",
-    "url": "https://liminalwarmth.com/contract-for-sale-of-soul/",
-    "upvotes": 25,
-    "author": "abecedarius",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=29124259"
-  },
-  {
-    "title": "IAB Europe cookie consent pop-ups to be found in breach of GDPR",
-    "url": "https://techcrunch.com/2021/11/05/iab-europe-tcf-gdpr-breach-belgium/",
-    "upvotes": 229,
-    "author": "youngtaff",
-    "comments": 230,
-    "link": "https://news.ycombinator.com/item?id=29121848"
-  },
-  {
-    "title": "Designs from Kimono Pattern Books",
-    "url": "https://publicdomainreview.org/collection/unkindo-kimono-designs/",
-    "upvotes": 64,
-    "author": "prismatic",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29104179"
-  },
-  {
     "title": "Launch HN: Terra",
     "url": "https://tryterra.co",
-    "upvotes": 68,
+    "upvotes": 69,
     "author": "kyriakosel",
-    "comments": 58,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=29118517"
   }
 ]
