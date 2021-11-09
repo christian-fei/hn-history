@@ -1,48 +1,56 @@
 [
   {
+    "title": "NFT's Aren't the Answer to the IRL Problems of Digital Art",
+    "url": "https://www.jacquescorbytuech.com/writing/irl-problem-digital-art-nft",
+    "upvotes": 70,
+    "author": "iamacyborg",
+    "comments": 206,
+    "link": "https://news.ycombinator.com/item?id=29159693"
+  },
+  {
+    "title": "Pyjion – A Python JIT Compiler",
+    "url": "https://www.trypyjion.com/",
+    "upvotes": 99,
+    "author": "BerislavLopac",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=29159545"
+  },
+  {
     "title": "WSL2 can now mount Linux ext4 disks directly",
     "url": "https://www.hanselman.com/blog/wsl2-can-now-mount-linux-ext4-disks-directly",
-    "upvotes": 84,
+    "upvotes": 103,
     "author": "ingve",
-    "comments": 55,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=29159990"
   },
   {
     "title": "Google’s New Business Profile: When Search Becomes a Political Tool",
     "url": "https://www.nearmedia.co/does-the-gmb-rebranding-mean-more-or-less-than-google-say/",
-    "upvotes": 42,
+    "upvotes": 51,
     "author": "1cvmask",
-    "comments": 14,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29160156"
-  },
-  {
-    "title": "Pyjion – A Python JIT Compiler",
-    "url": "https://www.trypyjion.com/",
-    "upvotes": 91,
-    "author": "BerislavLopac",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=29159545"
-  },
-  {
-    "title": "NFT's Aren't the Answer to the IRL Problems of Digital Art",
-    "url": "https://www.jacquescorbytuech.com/writing/irl-problem-digital-art-nft",
-    "upvotes": 58,
-    "author": "iamacyborg",
-    "comments": 184,
-    "link": "https://news.ycombinator.com/item?id=29159693"
   },
   {
     "title": "The machine that saved Moore's Law",
     "url": "https://web.archive.org/web/20211102230038/https://www.technologyreview.com/2021/10/27/1037118/moores-law-computer-chips/",
-    "upvotes": 24,
+    "upvotes": 31,
     "author": "mikro2nd",
-    "comments": 12,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=29160063"
+  },
+  {
+    "title": "$ sudo rm -rf / === NPM install",
+    "url": "https://ghuntley.com/sudo-rm-rf/",
+    "upvotes": 29,
+    "author": "ghuntley",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29160672"
   },
   {
     "title": "My Emacs Lisp book is finished",
     "url": "http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished",
-    "upvotes": 243,
+    "upvotes": 250,
     "author": "greenSunglass",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=29157859"
@@ -50,7 +58,7 @@
   {
     "title": "Modern, functional Common Lisp: myths and tips",
     "url": "https://ambrevar.xyz/modern-common-lisp/",
-    "upvotes": 34,
+    "upvotes": 37,
     "author": "dunefox",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29153440"
@@ -62,23 +70,23 @@
   {
     "title": "liblinux: Architecture-independent access to Linux system calls",
     "url": "https://github.com/matheusmoreira/liblinux",
-    "upvotes": 94,
+    "upvotes": 97,
     "author": "guerrilla",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=29158425"
   },
   {
     "title": "Use forums rather than Slack/Discord to support developer community",
     "url": "https://www.mooreds.com/wordpress/archives/3451",
-    "upvotes": 1395,
+    "upvotes": 1407,
     "author": "gk1",
-    "comments": 590,
+    "comments": 595,
     "link": "https://news.ycombinator.com/item?id=29154216"
   },
   {
     "title": "Ruby 3.1.0 Preview 1",
     "url": "https://www.ruby-lang.org/en/news/2021/11/09/ruby-3-1-0-preview1-released/",
-    "upvotes": 53,
+    "upvotes": 67,
     "author": "riffraff",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29159842"
@@ -86,23 +94,23 @@
   {
     "title": "AWS Global Accelerator is really fast and good",
     "url": "https://www.lifeofguenter.de/2021/11/fasters-dereferer-service-with-aws-global-accelerator.html",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "lifeofguenter",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=29158742"
   },
   {
     "title": "Making an old USB printer support Apple AirPrint using a Raspberry Pi",
     "url": "https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html",
-    "upvotes": 194,
+    "upvotes": 197,
     "author": "zdw",
-    "comments": 78,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=29156529"
   },
   {
     "title": "Legacy Train Control System Stabilisation",
     "url": "https://webinfo.uk/webdocssl/irse-kbase/ref-viewer.aspx?refno=1559669757&document=2.10%20strangaric%20-%20legacy%20train%20control%20system%20stabilisation.pdf",
-    "upvotes": 120,
+    "upvotes": 121,
     "author": "sohkamyung",
     "comments": 86,
     "link": "https://news.ycombinator.com/item?id=29157259"
@@ -110,87 +118,71 @@
   {
     "title": "REvil Ransom Arrest, $6M Seizure, and $10M Reward",
     "url": "https://krebsonsecurity.com/2021/11/revil-ransom-arrest-6m-seizure-and-10m-reward/",
-    "upvotes": 135,
+    "upvotes": 142,
     "author": "todsacerdoti",
-    "comments": 114,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=29156949"
-  },
-  {
-    "title": "Computer users fight 'bloatware'",
-    "url": "http://www.cnn.com/TECH/computing/9808/12/bloatware.idg/",
-    "upvotes": 46,
-    "author": "ggoo",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=29134313"
   },
   {
     "title": "The brain can recall and reawaken past immune responses",
     "url": "https://www.quantamagazine.org/new-science-shows-immune-memory-in-the-brain-20211108/",
-    "upvotes": 138,
+    "upvotes": 142,
     "author": "panabee",
-    "comments": 48,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=29155637"
   },
   {
-    "title": "Jog: Print the last 10 commands you ran in the current directory",
-    "url": "https://github.com/natethinks/jog",
-    "upvotes": 223,
-    "author": "ngngngng",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=29154942"
+    "title": "Frequent Gunfire: What Was It Like to Be Ernest Hemingway?",
+    "url": "https://www.thenation.com/article/archive/what-was-it-like-to-be-ernest-hemingway/",
+    "upvotes": 4,
+    "author": "silt",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29151474"
   },
   {
     "title": "Culturally transmitted skills and values",
     "url": "https://danluu.com/culture/",
     "upvotes": 179,
     "author": "ramimac",
-    "comments": 64,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=29155502"
-  },
-  {
-    "title": "Frequent Gunfire: What Was It Like to Be Ernest Hemingway?",
-    "url": "https://www.thenation.com/article/archive/what-was-it-like-to-be-ernest-hemingway/",
-    "upvotes": 3,
-    "author": "silt",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29151474"
   },
   {
     "title": "When is the revolution in architecture coming?",
     "url": "https://www.currentaffairs.org/2021/04/when-is-the-revolution-in-architecture-coming",
-    "upvotes": 142,
+    "upvotes": 153,
     "author": "Ftuuky",
-    "comments": 107,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=29155987"
   },
   {
     "title": "Show HN: Hamilton, a Microframework for Creating Dataframes",
     "url": "https://github.com/stitchfix/hamilton",
-    "upvotes": 40,
+    "upvotes": 41,
     "author": "krawczstef",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=29158021"
   },
   {
     "title": "Simula One – office-focused, standalone VR headset based on the Linux Desktop",
     "url": "https://www.simulavr.com/",
-    "upvotes": 43,
+    "upvotes": 47,
     "author": "pabs3",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29157574"
   },
   {
     "title": "JSONiq: The JSON Query Language",
     "url": "https://www.jsoniq.org/",
-    "upvotes": 52,
+    "upvotes": 56,
     "author": "oever",
-    "comments": 50,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=29159343"
   },
   {
     "title": "Shooting an Elephant",
     "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/shooting-an-elephant/",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "rsj_hn",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=29156361"
@@ -198,15 +190,23 @@
   {
     "title": "It’s mostly a demand shock, not a supply shock, and it’s everywhere",
     "url": "https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere",
-    "upvotes": 301,
+    "upvotes": 307,
     "author": "knasmai",
-    "comments": 327,
+    "comments": 336,
     "link": "https://news.ycombinator.com/item?id=29156574"
+  },
+  {
+    "title": "What the Hell Is ‘Right-Clicker Mentality’?",
+    "url": "https://www.vice.com/en/article/5dgzed/what-the-hell-is-right-clicker-mentality",
+    "upvotes": 4,
+    "author": "nickcotter",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29161139"
   },
   {
     "title": "Signatures: Modern End-to-End Encryption",
     "url": "https://kerkour.com/blog/signatures-modern-end-to-end-encryption/",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "signa11",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=29116408"
@@ -216,13 +216,13 @@
     "url": "https://wiki.tcl-lang.org/page/Why+is+TCL+syntax+so+weird",
     "upvotes": 130,
     "author": "blacksqr",
-    "comments": 89,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=29143346"
   },
   {
     "title": "The last of the Marsh Arabs",
     "url": "https://www.noemamag.com/the-last-of-the-marsh-arabs/",
-    "upvotes": 52,
+    "upvotes": 53,
     "author": "occurrence",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=29154140"
@@ -230,9 +230,9 @@
   {
     "title": "Love seems like a high priority",
     "url": "https://forum.effectivealtruism.org/posts/qar8rGhomyNsQC85z/love-seems-like-a-high-priority",
-    "upvotes": 139,
+    "upvotes": 144,
     "author": "apsec112",
-    "comments": 89,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=29136417"
   }
 ]
