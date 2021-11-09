@@ -2,63 +2,87 @@
   {
     "title": "Pyjion – A Python JIT Compiler",
     "url": "https://www.trypyjion.com/",
-    "upvotes": 42,
+    "upvotes": 54,
     "author": "BerislavLopac",
-    "comments": 8,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29159545"
   },
   {
     "title": "Use forums rather than Slack/Discord to support developer community",
     "url": "https://www.mooreds.com/wordpress/archives/3451",
-    "upvotes": 1327,
+    "upvotes": 1344,
     "author": "gk1",
-    "comments": 571,
+    "comments": 576,
     "link": "https://news.ycombinator.com/item?id=29154216"
+  },
+  {
+    "title": "Google’s New Business Profile: When Search Becomes a Political Tool",
+    "url": "https://www.nearmedia.co/does-the-gmb-rebranding-mean-more-or-less-than-google-say/",
+    "upvotes": 8,
+    "author": "1cvmask",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29160156"
   },
   {
     "title": "My Emacs Lisp book is finished",
     "url": "http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished",
-    "upvotes": 199,
+    "upvotes": 213,
     "author": "greenSunglass",
-    "comments": 19,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29157859"
+  },
+  {
+    "title": "NFT's Aren't the Answer to the IRL Problems of Digital Art",
+    "url": "https://www.jacquescorbytuech.com/writing/irl-problem-digital-art-nft",
+    "upvotes": 19,
+    "author": "iamacyborg",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=29159693"
   },
   {
     "title": "JSONiq: The JSON Query Language",
     "url": "https://www.jsoniq.org/",
-    "upvotes": 28,
+    "upvotes": 37,
     "author": "oever",
-    "comments": 31,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=29159343"
   },
   {
     "title": "liblinux: Architecture-independent access to Linux system calls",
     "url": "https://github.com/matheusmoreira/liblinux",
-    "upvotes": 84,
+    "upvotes": 86,
     "author": "guerrilla",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29158425"
   },
   {
     "title": "AWS Global Accelerator is really fast and good",
     "url": "https://www.lifeofguenter.de/2021/11/fasters-dereferer-service-with-aws-global-accelerator.html",
-    "upvotes": 52,
+    "upvotes": 57,
     "author": "lifeofguenter",
-    "comments": 28,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=29158742"
+  },
+  {
+    "title": "Modern, functional Common Lisp: myths and tips",
+    "url": "https://ambrevar.xyz/modern-common-lisp/",
+    "upvotes": 16,
+    "author": "dunefox",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29153440"
   },
   {
     "title": "Making an old USB printer support Apple AirPrint using a Raspberry Pi",
     "url": "https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html",
-    "upvotes": 177,
+    "upvotes": 182,
     "author": "zdw",
-    "comments": 62,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=29156529"
   },
   {
     "title": "Legacy Train Control System Stabilisation",
     "url": "https://webinfo.uk/webdocssl/irse-kbase/ref-viewer.aspx?refno=1559669757&document=2.10%20strangaric%20-%20legacy%20train%20control%20system%20stabilisation.pdf",
-    "upvotes": 116,
+    "upvotes": 117,
     "author": "sohkamyung",
     "comments": 81,
     "link": "https://news.ycombinator.com/item?id=29157259"
@@ -66,23 +90,31 @@
   {
     "title": "REvil Ransom Arrest, $6M Seizure, and $10M Reward",
     "url": "https://krebsonsecurity.com/2021/11/revil-ransom-arrest-6m-seizure-and-10m-reward/",
-    "upvotes": 129,
+    "upvotes": 130,
     "author": "todsacerdoti",
-    "comments": 94,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=29156949"
+  },
+  {
+    "title": "Ask HN: Why aren't there other biographies of Steve Jobs?",
+    "url": "item?id=29160093",
+    "upvotes": 8,
+    "author": "fdeage",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29160093"
   },
   {
     "title": "Computer users fight 'bloatware'",
     "url": "http://www.cnn.com/TECH/computing/9808/12/bloatware.idg/",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "ggoo",
-    "comments": 19,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=29134313"
   },
   {
     "title": "The brain can recall and reawaken past immune responses",
     "url": "https://www.quantamagazine.org/new-science-shows-immune-memory-in-the-brain-20211108/",
-    "upvotes": 121,
+    "upvotes": 123,
     "author": "panabee",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=29155637"
@@ -90,7 +122,7 @@
   {
     "title": "Jog: Print the last 10 commands you ran in the current directory",
     "url": "https://github.com/natethinks/jog",
-    "upvotes": 212,
+    "upvotes": 213,
     "author": "ngngngng",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=29154942"
@@ -98,7 +130,7 @@
   {
     "title": "Culturally transmitted skills and values",
     "url": "https://danluu.com/culture/",
-    "upvotes": 162,
+    "upvotes": 165,
     "author": "ramimac",
     "comments": 61,
     "link": "https://news.ycombinator.com/item?id=29155502"
@@ -106,31 +138,23 @@
   {
     "title": "Show HN: Hamilton, a Microframework for Creating Dataframes",
     "url": "https://github.com/stitchfix/hamilton",
-    "upvotes": 32,
+    "upvotes": 33,
     "author": "krawczstef",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=29158021"
   },
   {
-    "title": "Modern, functional Common Lisp: myths and tips",
-    "url": "https://ambrevar.xyz/modern-common-lisp/",
-    "upvotes": 7,
-    "author": "dunefox",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29153440"
-  },
-  {
-    "title": "A beginner’s guide to game hacking techniques [pdf]",
-    "url": "https://gamehacking.academy/GameHackingAcademy.pdf",
-    "upvotes": 248,
-    "author": "eatonphil",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=29153564"
+    "title": "When is the revolution in architecture coming?",
+    "url": "https://www.currentaffairs.org/2021/04/when-is-the-revolution-in-architecture-coming",
+    "upvotes": 121,
+    "author": "Ftuuky",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=29155987"
   },
   {
     "title": "DBCore",
     "url": "https://www.dbcore.org/",
-    "upvotes": 192,
+    "upvotes": 194,
     "author": "omarfarooq",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=29154461"
@@ -138,37 +162,69 @@
   {
     "title": "It’s mostly a demand shock, not a supply shock, and it’s everywhere",
     "url": "https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere",
-    "upvotes": 287,
+    "upvotes": 290,
     "author": "knasmai",
-    "comments": 300,
+    "comments": 304,
     "link": "https://news.ycombinator.com/item?id=29156574"
   },
   {
-    "title": "Signatures: Modern End-to-End Encryption",
-    "url": "https://kerkour.com/blog/signatures-modern-end-to-end-encryption/",
-    "upvotes": 24,
-    "author": "signa11",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=29116408"
-  },
-  {
-    "title": "On the fractal nature of effort estimates",
-    "url": "https://realfiction.net/2016/02/28/on-the-fractal-nature-of-effort-estimates/",
-    "upvotes": 21,
-    "author": "adamkl",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29149720"
+    "title": "Love seems like a high priority",
+    "url": "https://forum.effectivealtruism.org/posts/qar8rGhomyNsQC85z/love-seems-like-a-high-priority",
+    "upvotes": 124,
+    "author": "apsec112",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=29136417"
   },
   {
     "title": "Etleap",
     "url": "https://www.ycombinator.com/companies/etleap/jobs/UQuf3oX-etleap-is-hiring-software-engineer-integrations"
   },
   {
+    "title": "Shooting an Elephant",
+    "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/shooting-an-elephant/",
+    "upvotes": 72,
+    "author": "rsj_hn",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=29156361"
+  },
+  {
+    "title": "Ruby 3.1.0 Preview 1",
+    "url": "https://www.ruby-lang.org/en/news/2021/11/09/ruby-3-1-0-preview1-released/",
+    "upvotes": 11,
+    "author": "riffraff",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29159842"
+  },
+  {
+    "title": "Signatures: Modern End-to-End Encryption",
+    "url": "https://kerkour.com/blog/signatures-modern-end-to-end-encryption/",
+    "upvotes": 24,
+    "author": "signa11",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=29116408"
+  },
+  {
+    "title": "On the fractal nature of effort estimates",
+    "url": "https://realfiction.net/2016/02/28/on-the-fractal-nature-of-effort-estimates/",
+    "upvotes": 22,
+    "author": "adamkl",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29149720"
+  },
+  {
+    "title": "Why is Tcl syntax so weird",
+    "url": "https://wiki.tcl-lang.org/page/Why+is+TCL+syntax+so+weird",
+    "upvotes": 125,
+    "author": "blacksqr",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=29143346"
+  },
+  {
     "title": "Simula One – office-focused, standalone VR headset based on the Linux Desktop",
     "url": "https://www.simulavr.com/",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "pabs3",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29157574"
   },
   {
@@ -178,61 +234,5 @@
     "author": "occurrence",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29154140"
-  },
-  {
-    "title": "Why is Tcl syntax so weird",
-    "url": "https://wiki.tcl-lang.org/page/Why+is+TCL+syntax+so+weird",
-    "upvotes": 123,
-    "author": "blacksqr",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=29143346"
-  },
-  {
-    "title": "Ruby 3.1.0 Preview 1 released with new experimental JIT",
-    "url": "https://www.ruby-lang.org/en/news/2021/11/09/ruby-3-1-0-preview1-released/",
-    "upvotes": 4,
-    "author": "riffraff",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29159842"
-  },
-  {
-    "title": "The Magnificent Bribe",
-    "url": "https://reallifemag.com/the-magnificent-bribe/",
-    "upvotes": 53,
-    "author": "unclefuzzy",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29154178"
-  },
-  {
-    "title": "Love seems like a high priority",
-    "url": "https://forum.effectivealtruism.org/posts/qar8rGhomyNsQC85z/love-seems-like-a-high-priority",
-    "upvotes": 124,
-    "author": "apsec112",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=29136417"
-  },
-  {
-    "title": "An Ambitious Diary",
-    "url": "https://www.newyorker.com/magazine/2021/11/08/the-most-ambitious-diary-in-history-claude-fredericks",
-    "upvotes": 19,
-    "author": "laurex",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29153909"
-  },
-  {
-    "title": "Teen rescued after showing domestic violence hand signal known on TikTok",
-    "url": "https://www.theguardian.com/us-news/2021/nov/08/teenager-rescued-after-showing-domestic-violence-hand-signal-to-passing-motorist-police-say",
-    "upvotes": 214,
-    "author": "laurex",
-    "comments": 117,
-    "link": "https://news.ycombinator.com/item?id=29153740"
-  },
-  {
-    "title": "Shooting an Elephant",
-    "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/shooting-an-elephant/",
-    "upvotes": 72,
-    "author": "rsj_hn",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=29156361"
   }
 ]
