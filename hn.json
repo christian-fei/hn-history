@@ -1,64 +1,72 @@
 [
   {
+    "title": "It's Now Possible to Sign Arbitrary Data with Your SSH Keys",
+    "url": "https://www.agwa.name/blog/post/ssh_signatures",
+    "upvotes": 18,
+    "author": "h1x",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29208518"
+  },
+  {
     "title": "Why asynchronous Rust doesn't work",
     "url": "https://eta.st/2021/03/08/async-rust-2.html",
-    "upvotes": 21,
+    "upvotes": 41,
     "author": "tannhaeuser",
-    "comments": 6,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=29208196"
   },
   {
     "title": "Higher Math for Beginners",
     "url": "https://archive.org/details/ZeldovichYaglomHigherMathematics",
-    "upvotes": 115,
+    "upvotes": 125,
     "author": "mindcrime",
-    "comments": 14,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=29207021"
-  },
-  {
-    "title": "Email from FBI Looks Odd -- Is FBI Hacked?",
-    "url": "https://old.reddit.com/r/sysadmin/comments/qsun7o/email_from_fbi_looks_odd/",
-    "upvotes": 34,
-    "author": "jacksoncloud",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29208276"
-  },
-  {
-    "title": "Know how the Beatles ended? Peter Jackson may change your mind",
-    "url": "https://www.nytimes.com/2021/11/11/arts/music/beatles-get-back-peter-jackson.html",
-    "upvotes": 83,
-    "author": "tintinnabula",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=29195049"
-  },
-  {
-    "title": "SpinLaunch completes first test flight with rocket-flinging launch system",
-    "url": "https://www.space.com/spinlaunch-first-test-flight-success",
-    "upvotes": 187,
-    "author": "makaimc",
-    "comments": 146,
-    "link": "https://news.ycombinator.com/item?id=29198589"
-  },
-  {
-    "title": "Fantasy Map Generator",
-    "url": "https://azgaar.github.io/Fantasy-Map-Generator/",
-    "upvotes": 120,
-    "author": "cjlm",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=29205001"
   },
   {
     "title": "The Design of the Connection Machine",
     "url": "https://tamikothiel.com/theory/cm_txts/",
-    "upvotes": 3,
+    "upvotes": 11,
     "author": "boulos",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29201810"
   },
   {
+    "title": "Email from FBI Looks Odd",
+    "url": "https://old.reddit.com/r/sysadmin/comments/qsun7o/email_from_fbi_looks_odd/",
+    "upvotes": 62,
+    "author": "jacksoncloud",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=29208276"
+  },
+  {
+    "title": "Know how the Beatles ended? Peter Jackson may change your mind",
+    "url": "https://www.nytimes.com/2021/11/11/arts/music/beatles-get-back-peter-jackson.html",
+    "upvotes": 86,
+    "author": "tintinnabula",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=29195049"
+  },
+  {
+    "title": "SpinLaunch completes first test flight with rocket-flinging launch system",
+    "url": "https://www.space.com/spinlaunch-first-test-flight-success",
+    "upvotes": 192,
+    "author": "makaimc",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=29198589"
+  },
+  {
+    "title": "Fantasy Map Generator",
+    "url": "https://azgaar.github.io/Fantasy-Map-Generator/",
+    "upvotes": 125,
+    "author": "cjlm",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=29205001"
+  },
+  {
     "title": "Nuclear radiation used to transmit digital data wirelessly",
     "url": "https://www.lancaster.ac.uk/news/nuclear-radiation-used-to-transmit-digital-data-wirelessly",
-    "upvotes": 176,
+    "upvotes": 178,
     "author": "sizzle",
     "comments": 129,
     "link": "https://news.ycombinator.com/item?id=29202887"
@@ -66,9 +74,9 @@
   {
     "title": "Deldo is a sex toy control and teledildonics mode for Emacs",
     "url": "https://github.com/qdot/deldo",
-    "upvotes": 94,
+    "upvotes": 101,
     "author": "sillysaurusx",
-    "comments": 47,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=29207607"
   },
   {
@@ -80,23 +88,31 @@
     "url": "item?id=29200687",
     "upvotes": 210,
     "author": "proberts",
-    "comments": 301,
+    "comments": 302,
     "link": "https://news.ycombinator.com/item?id=29200687"
   },
   {
     "title": "Show HN: Long Range E-Bike",
     "url": "https://jacquesmattheij.com/long-range-ebike/",
-    "upvotes": 755,
+    "upvotes": 756,
     "author": "jacquesm",
-    "comments": 518,
+    "comments": 519,
     "link": "https://news.ycombinator.com/item?id=29198205"
+  },
+  {
+    "title": "Container Logistics",
+    "url": "https://www.lesswrong.com/posts/PHmYhE4sKnwzYgvkh/a-brief-introduction-to-container-logistics",
+    "upvotes": 30,
+    "author": "secondary",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29205160"
   },
   {
     "title": "Scalable PostgreSQL Connection Pooler",
     "url": "https://github.com/yandex/odyssey",
-    "upvotes": 205,
+    "upvotes": 207,
     "author": "sbuttgereit",
-    "comments": 73,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=29201000"
   },
   {
@@ -104,45 +120,29 @@
     "url": "https://ai.googleblog.com/2021/11/an-open-source-vibrotactile-haptics.html",
     "upvotes": 63,
     "author": "shard",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=29204807"
-  },
-  {
-    "title": "Container Logistics",
-    "url": "https://www.lesswrong.com/posts/PHmYhE4sKnwzYgvkh/a-brief-introduction-to-container-logistics",
-    "upvotes": 20,
-    "author": "secondary",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29205160"
   },
   {
     "title": "The good things in the current age in tech",
     "url": "https://blog.kronis.dev/articles/the-good-things-in-the-current-age-in-tech",
-    "upvotes": 129,
+    "upvotes": 131,
     "author": "Matrixik",
-    "comments": 55,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=29185971"
   },
   {
     "title": "Debit cards are hidden financial infrastructure",
     "url": "https://bam.kalzumeus.com/archive/debit-cards-are-hidden-financial-infrastructure/",
-    "upvotes": 158,
+    "upvotes": 164,
     "author": "smitop",
-    "comments": 182,
+    "comments": 188,
     "link": "https://news.ycombinator.com/item?id=29206462"
-  },
-  {
-    "title": "Beware of fast-math",
-    "url": "https://simonbyrne.github.io/notes/fastmath/",
-    "upvotes": 156,
-    "author": "simonbyrne",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=29201473"
   },
   {
     "title": "The Greatest Unsolved Heist in Irish History",
     "url": "https://www.atlasobscura.com/articles/irish-crown-jewels-theft",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "Amorymeltzer",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29204055"
@@ -160,79 +160,79 @@
     "url": "https://iterative-refinement.github.io/",
     "upvotes": 70,
     "author": "floxy",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29202899"
-  },
-  {
-    "title": "Substack Is Now a Playground for the Deplatformed",
-    "url": "https://www.wired.co.uk/article/substack-future-chris-best",
-    "upvotes": 6,
-    "author": "marban",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29208331"
   },
   {
     "title": "Cohort Profile: The Helsinki Businessmen Study",
     "url": "https://academic.oup.com/ije/article/45/4/1074/2951626",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "SQL2219",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29186822"
   },
   {
+    "title": "Beware of fast-math",
+    "url": "https://simonbyrne.github.io/notes/fastmath/",
+    "upvotes": 157,
+    "author": "simonbyrne",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=29201473"
+  },
+  {
     "title": "Chinese embassy lobbies U.S. business to oppose China bills",
     "url": "https://www.reuters.com/business/exclusive-chinese-embassy-lobbies-us-business-oppose-china-bills-sources-2021-11-12/",
-    "upvotes": 107,
+    "upvotes": 113,
     "author": "baylearn",
-    "comments": 53,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=29206539"
-  },
-  {
-    "title": "Increase Your Consulting Rates",
-    "url": "https://freelancetransformation.com/blog/increase-your-consulting-rates-with-patrick-mckenzie",
-    "upvotes": 22,
-    "author": "gk1",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29198925"
-  },
-  {
-    "title": "Have you considered hiring a head of growth?",
-    "url": "https://draft.dev/learn/what-is-a-head-of-growth",
-    "upvotes": 6,
-    "author": "tattered_dream",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29207503"
   },
   {
     "title": "Portugal bans bosses texting staff after-hours",
     "url": "https://www.bbc.co.uk/news/business-59263300",
-    "upvotes": 317,
+    "upvotes": 318,
     "author": "buro9",
-    "comments": 192,
+    "comments": 200,
     "link": "https://news.ycombinator.com/item?id=29201307"
   },
   {
     "title": "Why Lisp?",
     "url": "https://atlas.engineer/technical-article/why-lisp.org",
-    "upvotes": 230,
+    "upvotes": 233,
     "author": "susam",
-    "comments": 209,
+    "comments": 211,
     "link": "https://news.ycombinator.com/item?id=29202021"
   },
   {
-    "title": "Show HN: Lifeee – Conway’s Game of Life with an infinite zoomable grid",
-    "url": "https://lifeee.netlify.app/",
-    "upvotes": 61,
-    "author": "scastiel",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=29203502"
+    "title": "Increase Your Consulting Rates",
+    "url": "https://freelancetransformation.com/blog/increase-your-consulting-rates-with-patrick-mckenzie",
+    "upvotes": 24,
+    "author": "gk1",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29198925"
   },
   {
-    "title": "How to get users to talk to you",
-    "url": "https://www.tella.tv/blog/how-to-talk-to-users",
-    "upvotes": 49,
-    "author": "9ranty",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=29172954"
+    "title": "A Donkey’s Day in Court",
+    "url": "https://www.historytoday.com/archive/natural-histories/donkeys-day-court",
+    "upvotes": 5,
+    "author": "samclemens",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29197053"
+  },
+  {
+    "title": "Have you considered hiring a head of growth?",
+    "url": "https://draft.dev/learn/what-is-a-head-of-growth",
+    "upvotes": 7,
+    "author": "tattered_dream",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29207503"
+  },
+  {
+    "title": "Substack Is Now a Playground for the Deplatformed",
+    "url": "https://www.wired.co.uk/article/substack-future-chris-best",
+    "upvotes": 10,
+    "author": "marban",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29208331"
   }
 ]
