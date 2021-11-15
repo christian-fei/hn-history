@@ -2,39 +2,47 @@
   {
     "title": "Blacksmith – Rowhammer bit flips on all DRAM devices today despite mitigations",
     "url": "https://comsec.ethz.ch/research/dram/blacksmith/",
-    "upvotes": 420,
+    "upvotes": 449,
     "author": "buran77",
-    "comments": 199,
+    "comments": 204,
     "link": "https://news.ycombinator.com/item?id=29229200"
   },
   {
     "title": "Databricks response to Snowflake's accusation of lacking integrity",
     "url": "https://databricks.com/blog/2021/11/15/snowflake-claims-similar-price-performance-to-databricks-but-not-so-fast.html",
-    "upvotes": 60,
+    "upvotes": 102,
     "author": "rxin",
-    "comments": 9,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=29232346"
   },
   {
-    "title": "YouTube Takes Down Independent Court Livestreams",
-    "url": "https://twitter.com/ReturnOfTheFleX/status/1460295030187438088",
-    "upvotes": 153,
-    "author": "crocodiletears",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=29231775"
+    "title": "Stop Letting OKRs Masquerade as Strategy",
+    "url": "https://rogermartin.medium.com/stop-letting-okrs-masquerade-as-strategy-a57fc2cea915",
+    "upvotes": 39,
+    "author": "asplake",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=29231936"
   },
   {
     "title": "The AMD “Aldebaran” GPU That Won Exascale",
     "url": "https://www.nextplatform.com/2021/11/09/the-aldebaran-amd-gpu-that-won-exascale/",
-    "upvotes": 17,
+    "upvotes": 34,
     "author": "jonbaer",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29231543"
+  },
+  {
+    "title": "YouTube Takes Down Independent Court Livestreams",
+    "url": "https://twitter.com/ReturnOfTheFleX/status/1460295030187438088",
+    "upvotes": 212,
+    "author": "crocodiletears",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=29231775"
   },
   {
     "title": "Open access book on scientific visualization using Python and matplotlib",
     "url": "https://github.com/rougier/scientific-visualization-book",
-    "upvotes": 134,
+    "upvotes": 148,
     "author": "sebg",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29229103"
@@ -44,129 +52,137 @@
     "url": "https://usepath.com"
   },
   {
-    "title": "Stop Letting OKRs Masquerade as Strategy",
-    "url": "https://rogermartin.medium.com/stop-letting-okrs-masquerade-as-strategy-a57fc2cea915",
-    "upvotes": 15,
-    "author": "asplake",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29231936"
-  },
-  {
     "title": "How to Scrape and Extract Hyperlink Networks with BeautifulSoup and NetworkX",
     "url": "https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-networks-with-beautifulsoup-and-networkx/",
-    "upvotes": 29,
+    "upvotes": 35,
     "author": "spacejunkjim",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29231378"
   },
   {
-    "title": "Bar-tailed Godwits regularly travel more than 7,000 miles non-stop",
-    "url": "https://www.audubon.org/news/these-mighty-shorebirds-keep-breaking-flight-records-and-you-can-follow-along",
-    "upvotes": 418,
-    "author": "mcenedella",
-    "comments": 184,
-    "link": "https://news.ycombinator.com/item?id=29225729"
-  },
-  {
-    "title": "Underdog no more, a deaf football team takes California by storm",
-    "url": "https://www.nytimes.com/2021/11/15/us/riverside-california-deaf-football-team.html",
-    "upvotes": 135,
-    "author": "danso",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=29228265"
-  },
-  {
-    "title": "Briar 1.4 – Offline sharing, message transfer via SD cards and USB sticks",
-    "url": "https://briarproject.org/news/2021-briar-1.4-released/",
-    "upvotes": 164,
-    "author": "Sami_Lehtinen",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=29227754"
-  },
-  {
     "title": "A rough proposal for sum types in Go, from a Rust compiler engineer",
     "url": "https://manishearth.github.io/blog/2018/02/01/a-rough-proposal-for-sum-types-in-go/",
-    "upvotes": 28,
+    "upvotes": 38,
     "author": "isaacimagine",
-    "comments": 6,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29230537"
+  },
+  {
+    "title": "Semantics and the Web: An Awkward History",
+    "url": "http://lists.xml.org/archives/xml-dev/202109/threads.html",
+    "upvotes": 5,
+    "author": "tannhaeuser",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29232814"
+  },
+  {
+    "title": "Bar-tailed Godwits regularly travel more than 7,000 miles non-stop",
+    "url": "https://www.audubon.org/news/these-mighty-shorebirds-keep-breaking-flight-records-and-you-can-follow-along",
+    "upvotes": 420,
+    "author": "mcenedella",
+    "comments": 185,
+    "link": "https://news.ycombinator.com/item?id=29225729"
   },
   {
     "title": "Handling five billion sessions a day in real time",
     "url": "https://blog.twitter.com/engineering/en_us/a/2015/handling-five-billion-sessions-a-day-in-real-time",
-    "upvotes": 11,
+    "upvotes": 17,
     "author": "tansionline",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29231932"
+  },
+  {
+    "title": "Underdog no more, a deaf football team takes California by storm",
+    "url": "https://www.nytimes.com/2021/11/15/us/riverside-california-deaf-football-team.html",
+    "upvotes": 141,
+    "author": "danso",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=29228265"
+  },
+  {
+    "title": "I ended liking GNOME with the loss of one hand",
+    "url": "https://dataswamp.org/~solene/2021-11-10-how-I-ended-liking-gnome.html",
+    "upvotes": 38,
+    "author": "zdw",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=29215270"
+  },
+  {
+    "title": "Briar 1.4 – Offline sharing, message transfer via SD cards and USB sticks",
+    "url": "https://briarproject.org/news/2021-briar-1.4-released/",
+    "upvotes": 166,
+    "author": "Sami_Lehtinen",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=29227754"
+  },
+  {
+    "title": "Show HN: My proposal for a new keyboard layout",
+    "url": "https://github.com/qwerty-fr/qwerty-fr",
+    "upvotes": 67,
+    "author": "noname120",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=29229583"
+  },
+  {
+    "title": "macOS Monterey's new network quality tool is surprisingly good",
+    "url": "https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html",
+    "upvotes": 381,
+    "author": "danpetrov",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=29225308"
   },
   {
     "title": "Launch HN: Metaplane (YC W20) – Datadog for Data",
     "url": "item?id=29226864",
     "upvotes": 113,
     "author": "kzh_",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=29226864"
-  },
-  {
-    "title": "I ended liking GNOME with the loss of one hand",
-    "url": "https://dataswamp.org/~solene/2021-11-10-how-I-ended-liking-gnome.html",
-    "upvotes": 31,
-    "author": "zdw",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=29215270"
-  },
-  {
-    "title": "macOS Monterey's new network quality tool is surprisingly good",
-    "url": "https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html",
-    "upvotes": 373,
-    "author": "danpetrov",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=29225308"
-  },
-  {
-    "title": "Updates to the Twitter developer platform",
-    "url": "https://blog.twitter.com/developer/en_us/topics/tools/2021/build-whats-next-with-the-new-twitter-developer-platform",
-    "upvotes": 28,
-    "author": "coloneltcb",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=29231262"
   },
   {
     "title": "If Apple keeps letting its software slip, the next big thing won’t matter",
     "url": "https://www.macworld.com/article/551393/apple-software-problems-regions-memories-bugs.html",
-    "upvotes": 158,
+    "upvotes": 174,
     "author": "RageoftheRobots",
-    "comments": 249,
+    "comments": 263,
     "link": "https://news.ycombinator.com/item?id=29229881"
   },
   {
     "title": "Highlights from Git 2.34",
     "url": "https://github.blog/2021-11-15-highlights-from-git-2-34/",
-    "upvotes": 100,
+    "upvotes": 108,
     "author": "todsacerdoti",
-    "comments": 42,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=29230100"
   },
   {
-    "title": "Show HN: My proposal for a new keyboard layout",
-    "url": "https://github.com/qwerty-fr/qwerty-fr",
-    "upvotes": 58,
-    "author": "noname120",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=29229583"
+    "title": "Ask HN: Messed up my education, now 30 and regretting it. What to do?",
+    "url": "item?id=29232213",
+    "upvotes": 22,
+    "author": "throwaway_pKmOh",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29232213"
   },
   {
     "title": "Togo made  a digital government stimulus system in two weeks",
     "url": "https://www.bloomberg.com/news/features/2021-11-08/how-togo-made-all-digital-government-stimulus-system-in-two-weeks",
-    "upvotes": 90,
+    "upvotes": 91,
     "author": "1cvmask",
-    "comments": 86,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=29216785"
+  },
+  {
+    "title": "Without parental leave I might be dead",
+    "url": "https://www.nytimes.com/2021/11/14/opinion/paid-family-leave-biden.html",
+    "upvotes": 176,
+    "author": "mooreds",
+    "comments": 397,
+    "link": "https://news.ycombinator.com/item?id=29226577"
   },
   {
     "title": "Teliva – an environment for end-user programming",
     "url": "https://github.com/akkartik/teliva",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "escot",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29231563"
@@ -174,65 +190,49 @@
   {
     "title": "Taproot, Bitcoin’s long-anticipated upgrade, has activated",
     "url": "https://www.coindesk.com/tech/2021/11/13/taproot-bitcoins-long-anticipated-upgrade-activates-this-weekend/",
-    "upvotes": 93,
+    "upvotes": 100,
     "author": "G3rn0ti",
-    "comments": 70,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=29225726"
+  },
+  {
+    "title": "Why not to whitelist operating system user agents",
+    "url": "https://www.neelc.org/posts/chase-how-not-to-design-a-website/",
+    "upvotes": 134,
+    "author": "neelc",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=29224182"
   },
   {
     "title": "Is there such a thing as good taste?",
     "url": "http://paulgraham.com/goodtaste.html",
     "upvotes": 187,
     "author": "tosh",
-    "comments": 358,
+    "comments": 366,
     "link": "https://news.ycombinator.com/item?id=29226554"
-  },
-  {
-    "title": "Without parental leave I might be dead",
-    "url": "https://www.nytimes.com/2021/11/14/opinion/paid-family-leave-biden.html",
-    "upvotes": 168,
-    "author": "mooreds",
-    "comments": 382,
-    "link": "https://news.ycombinator.com/item?id=29226577"
-  },
-  {
-    "title": "Why not to whitelist operating system user agents",
-    "url": "https://www.neelc.org/posts/chase-how-not-to-design-a-website/",
-    "upvotes": 132,
-    "author": "neelc",
-    "comments": 107,
-    "link": "https://news.ycombinator.com/item?id=29224182"
-  },
-  {
-    "title": "Sorry Safari Team",
-    "url": "https://paul.kinlan.me/sorry-safari-team/",
-    "upvotes": 174,
-    "author": "tosh",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=29226328"
   },
   {
     "title": "Portugal proposed law tries to sneak in biometric mass surveillance",
     "url": "https://reclaimyourface.eu/portugal-proposed-law-tries-to-sneak-in-biometric-mass-surveillance/",
-    "upvotes": 116,
+    "upvotes": 125,
     "author": "giuliomagnifico",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29229931"
+  },
+  {
+    "title": "Sorry Safari Team",
+    "url": "https://paul.kinlan.me/sorry-safari-team/",
+    "upvotes": 176,
+    "author": "tosh",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=29226328"
   },
   {
     "title": "Why and how COBOL is still used",
     "url": "https://medium.com/@jankammerath/why-and-how-cobol-is-still-used-1c0a0cc7ce74",
-    "upvotes": 93,
+    "upvotes": 97,
     "author": "rbanffy",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=29221877"
-  },
-  {
-    "title": "OAuth with Cloudflare workers on a statically generated site",
-    "url": "https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site/",
-    "upvotes": 163,
-    "author": "vonadz",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=29225950"
   }
 ]
