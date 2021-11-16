@@ -2,73 +2,73 @@
   {
     "title": "Individuals Matter",
     "url": "https://danluu.com/people-matter/",
-    "upvotes": 158,
+    "upvotes": 181,
     "author": "benfrederickson",
-    "comments": 43,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=29235257"
   },
   {
     "title": "Air cargo is suddenly affordable relative to ocean shipping",
     "url": "https://www.freightwaves.com/news/why-is-air-cargo-suddenly-more-affordable-compared-to-ocean-shipping",
-    "upvotes": 178,
+    "upvotes": 190,
     "author": "cwwc",
-    "comments": 140,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=29233852"
   },
   {
     "title": "Space debris forces astronauts on space station to take shelter in return ships",
     "url": "https://www.space.com/space-debris-astronauts-shelter-november-2021",
-    "upvotes": 198,
+    "upvotes": 214,
     "author": "tosh",
-    "comments": 159,
+    "comments": 171,
     "link": "https://news.ycombinator.com/item?id=29233488"
-  },
-  {
-    "title": "Firefox 94 has No Visible Border on unfocused tabs",
-    "url": "https://octodon.social/@joeyh/107283148035893045",
-    "upvotes": 135,
-    "author": "dredmorbius",
-    "comments": 166,
-    "link": "https://news.ycombinator.com/item?id=29234913"
   },
   {
     "title": "Blender 3.0 takes support for AMD GPUs to the next level",
     "url": "https://gpuopen.com/blender-cycles-amd-gpu/",
-    "upvotes": 77,
+    "upvotes": 84,
     "author": "WithinReason",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=29234671"
   },
   {
     "title": "Blacksmith – Rowhammer bit flips on all DRAM devices today despite mitigations",
     "url": "https://comsec.ethz.ch/research/dram/blacksmith/",
-    "upvotes": 557,
+    "upvotes": 558,
     "author": "buran77",
-    "comments": 248,
+    "comments": 250,
     "link": "https://news.ycombinator.com/item?id=29229200"
+  },
+  {
+    "title": "Electric vehicles could fully recharge in 5 minutes with new cable design",
+    "url": "https://www.purdue.edu/newsroom/releases/2021/Q4/electric-vehicles-could-fully-recharge-in-under-5-minutes-with-new-charging-station-cable-design.html",
+    "upvotes": 10,
+    "author": "gabea",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29236095"
   },
   {
     "title": "OKRs masquerade as strategy",
     "url": "https://rogermartin.medium.com/stop-letting-okrs-masquerade-as-strategy-a57fc2cea915",
-    "upvotes": 186,
+    "upvotes": 190,
     "author": "asplake",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=29231936"
   },
   {
     "title": "Processing billions of events in real time",
     "url": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-",
-    "upvotes": 101,
+    "upvotes": 108,
     "author": "1cvmask",
-    "comments": 51,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=29233463"
   },
   {
     "title": "C# 10 new feature CallerArgumentExpression",
     "url": "https://weblogs.asp.net/dixin/csharp-10-new-feature-callerargumentexpression-argument-check-and-more",
-    "upvotes": 75,
+    "upvotes": 77,
     "author": "soheilpro",
-    "comments": 45,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=29221753"
   },
   {
@@ -76,25 +76,25 @@
     "url": "https://etleap.com/jobs/#software-engineer-integrations"
   },
   {
-    "title": "Prevent Zoom from consuming all your CPU on Linux",
-    "url": "https://gist.github.com/abraithwaite/1d78a946f90be478faedb5ca4db6d62e",
-    "upvotes": 44,
-    "author": "nixcraft",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=29234217"
+    "title": "Indian Railways Works Manual",
+    "url": "https://www.iricen.gov.in/iricen/Works_Manuals/IRWM%20CS%20UPTO%2010.pdf",
+    "upvotes": 26,
+    "author": "rustoo",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=29221595"
   },
   {
-    "title": "Indian Railways Works Manual [pdf]",
-    "url": "https://www.iricen.gov.in/iricen/Works_Manuals/IRWM%20CS%20UPTO%2010.pdf",
-    "upvotes": 24,
-    "author": "rustoo",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=29221595"
+    "title": "Show HN: I made a no-code tool to create animated technical papers",
+    "url": "https://textframe.app/examples/bitcoin",
+    "upvotes": 39,
+    "author": "Outofthebot",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=29234636"
   },
   {
     "title": "The AMD “Aldebaran” GPU that won exascale",
     "url": "https://www.nextplatform.com/2021/11/09/the-aldebaran-amd-gpu-that-won-exascale/",
-    "upvotes": 86,
+    "upvotes": 88,
     "author": "jonbaer",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=29231543"
@@ -102,79 +102,95 @@
   {
     "title": "An open access book on scientific visualization using Python and Matplotlib",
     "url": "https://github.com/rougier/scientific-visualization-book",
-    "upvotes": 228,
+    "upvotes": 231,
     "author": "sebg",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29229103"
+  },
+  {
+    "title": "Appflowy – open-source Notion Alternative",
+    "url": "https://www.appflowy.io",
+    "upvotes": 19,
+    "author": "lab",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29234805"
   },
   {
     "title": "I ended up liking GNOME with the loss of one hand",
     "url": "https://dataswamp.org/~solene/2021-11-10-how-I-ended-liking-gnome.html",
-    "upvotes": 102,
+    "upvotes": 103,
     "author": "zdw",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=29215270"
   },
   {
-    "title": "PyTorch Fortran Bindings",
-    "url": "https://github.com/alexeedm/pytorch-fortran",
-    "upvotes": 8,
-    "author": "Bostonian",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29216907"
-  },
-  {
-    "title": "Show HN: Grapic – Real whiteboards online using AR",
-    "url": "https://www.grapic.co/",
-    "upvotes": 41,
-    "author": "nikonp",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=29225588"
+    "title": "Show HN: Mako – a full Bitcoin implementation in C",
+    "url": "https://github.com/chjj/mako",
+    "upvotes": 142,
+    "author": "chjj",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=29230068"
   },
   {
     "title": "Ergonomics of the Symbolics Lisp Machine – Reflections on Developer Productivity",
     "url": "http://lispm.de/symbolics-lisp-machine-ergonomics",
-    "upvotes": 20,
+    "upvotes": 23,
     "author": "gjvc",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29234170"
   },
   {
-    "title": "Show HN: Mako – a full Bitcoin implementation in C",
-    "url": "https://github.com/chjj/mako",
-    "upvotes": 134,
-    "author": "chjj",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=29230068"
+    "title": "Show HN: Grapic – Real whiteboards online using AR",
+    "url": "https://www.grapic.co/",
+    "upvotes": 42,
+    "author": "nikonp",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=29225588"
   },
   {
-    "title": "Show HN: I made a no-code tool to create animated technical papers",
-    "url": "https://textframe.app/examples/bitcoin",
-    "upvotes": 32,
-    "author": "Outofthebot",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=29234636"
+    "title": "Amazon to pay California $500k for ‘concealing’ Covid cases among workers",
+    "url": "https://www.latimes.com/business/story/2021-11-15/amazon-covid-outbreak-workplace-safety-right-to-know-penalty",
+    "upvotes": 33,
+    "author": "1cvmask",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29235053"
+  },
+  {
+    "title": "Griswold Cast Iron – Histroy, Value, Identify Guide in 2021",
+    "url": "https://thepan-handler.com/griswold-cast-iron/",
+    "upvotes": 4,
+    "author": "axiomdata316",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29223236"
   },
   {
     "title": "Semantics and the Web: An Awkward History",
     "url": "http://lists.xml.org/archives/xml-dev/202109/threads.html",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "tannhaeuser",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29232814"
   },
   {
     "title": "A rough proposal for sum types in Go",
     "url": "https://manishearth.github.io/blog/2018/02/01/a-rough-proposal-for-sum-types-in-go/",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "isaacimagine",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=29230537"
+  },
+  {
+    "title": "PyTorch Fortran Bindings",
+    "url": "https://github.com/alexeedm/pytorch-fortran",
+    "upvotes": 9,
+    "author": "Bostonian",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29216907"
   },
   {
     "title": "Launch HN: Metaplane (YC W20) – Datadog for Data",
     "url": "item?id=29226864",
-    "upvotes": 132,
+    "upvotes": 133,
     "author": "kzh_",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=29226864"
@@ -182,15 +198,23 @@
   {
     "title": "YouTube takes down independent court livestreams",
     "url": "https://twitter.com/ReturnOfTheFleX/status/1460295030187438088",
-    "upvotes": 490,
+    "upvotes": 503,
     "author": "crocodiletears",
-    "comments": 416,
+    "comments": 431,
     "link": "https://news.ycombinator.com/item?id=29231775"
+  },
+  {
+    "title": "Is there such a thing as good taste?",
+    "url": "http://paulgraham.com/goodtaste.html",
+    "upvotes": 227,
+    "author": "tosh",
+    "comments": 432,
+    "link": "https://news.ycombinator.com/item?id=29226554"
   },
   {
     "title": "Underdog no more, a deaf football team takes California by storm",
     "url": "https://www.nytimes.com/2021/11/15/us/riverside-california-deaf-football-team.html",
-    "upvotes": 162,
+    "upvotes": 163,
     "author": "danso",
     "comments": 79,
     "link": "https://news.ycombinator.com/item?id=29228265"
@@ -198,41 +222,17 @@
   {
     "title": "Show HN: My proposal for a new keyboard layout",
     "url": "https://github.com/qwerty-fr/qwerty-fr",
-    "upvotes": 120,
+    "upvotes": 122,
     "author": "noname120",
     "comments": 101,
     "link": "https://news.ycombinator.com/item?id=29229583"
   },
   {
-    "title": "Is there such a thing as good taste?",
-    "url": "http://paulgraham.com/goodtaste.html",
-    "upvotes": 223,
-    "author": "tosh",
-    "comments": 431,
-    "link": "https://news.ycombinator.com/item?id=29226554"
-  },
-  {
     "title": "Briar 1.4 – Offline sharing, message transfer via SD cards and USB sticks",
     "url": "https://briarproject.org/news/2021-briar-1.4-released/",
-    "upvotes": 195,
+    "upvotes": 196,
     "author": "Sami_Lehtinen",
     "comments": 93,
     "link": "https://news.ycombinator.com/item?id=29227754"
-  },
-  {
-    "title": "Teliva – an environment for end-user programming",
-    "url": "https://github.com/akkartik/teliva",
-    "upvotes": 48,
-    "author": "escot",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=29231563"
-  },
-  {
-    "title": "Amazon to pay California $500k for ‘concealing’ Covid cases among workers",
-    "url": "https://www.latimes.com/business/story/2021-11-15/amazon-covid-outbreak-workplace-safety-right-to-know-penalty",
-    "upvotes": 21,
-    "author": "1cvmask",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29235053"
   }
 ]
