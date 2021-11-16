@@ -2,55 +2,79 @@
   {
     "title": "Decentralized Woo Hoo",
     "url": "https://www.stephendiehl.com/blog/decentralized-woo.html",
-    "upvotes": 79,
+    "upvotes": 138,
     "author": "amin",
-    "comments": 45,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=29240785"
   },
   {
     "title": "Goodbye, Clean Code",
     "url": "https://overreacted.io/goodbye-clean-code/",
-    "upvotes": 109,
+    "upvotes": 144,
     "author": "DeathArrow",
-    "comments": 81,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=29239861"
   },
   {
     "title": "PlanetScale is now generally available",
     "url": "https://planetscale.com/blog/ga",
-    "upvotes": 62,
+    "upvotes": 85,
     "author": "petercooper",
-    "comments": 28,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=29240829"
   },
   {
     "title": "Sign in with Matrix",
     "url": "https://github.com/mishushakov/signin-with-matrix",
-    "upvotes": 70,
+    "upvotes": 84,
     "author": "ushakov",
-    "comments": 38,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=29240154"
   },
   {
-    "title": "YouTube Dislikes Viewer",
-    "url": "https://github.com/pgamerx/yt-dislikes-viewer",
-    "upvotes": 17,
-    "author": "tfsh",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29241027"
+    "title": "About the Urgency of Building Web3",
+    "url": "https://timdaub.github.io/2021/11/16/the-urgency-of-building-web3/",
+    "upvotes": 10,
+    "author": "timdaub",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29241963"
+  },
+  {
+    "title": "How I helped build a profitable MVP over a weekend",
+    "url": "https://mzrn.sh/2021/11/14/how-i-helped-build-a-profitable-mvp-over-a-weekend",
+    "upvotes": 45,
+    "author": "jeremylevy",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29230511"
+  },
+  {
+    "title": "Scrcpy v1.20",
+    "url": "https://github.com/Genymobile/scrcpy/releases/tag/v1.20",
+    "upvotes": 33,
+    "author": "marcodiego",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29241243"
   },
   {
     "title": "When Did Computer Science Theory Get So Hard?",
     "url": "http://blog.computationalcomplexity.org/2021/11/when-did-computer-science-theory-get-so.html",
-    "upvotes": 97,
+    "upvotes": 119,
     "author": "furcyd",
-    "comments": 54,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=29223934"
+  },
+  {
+    "title": "Teapot: Type-Safe 3D Spreadsheet",
+    "url": "https://www.syntax-k.de/projekte/teapot/",
+    "upvotes": 22,
+    "author": "snazz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29241136"
   },
   {
     "title": "ZX Spectrum developer Bernie Drummond has died",
     "url": "https://www.gamedeveloper.com/design/obituary-zx-spectrum-developer-Bernie-Drummond-has-died",
-    "upvotes": 127,
+    "upvotes": 138,
     "author": "grunthos",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29239019"
@@ -58,181 +82,157 @@
   {
     "title": "Show HN: Caffeine, minimum viable back end for prototyping",
     "url": "https://github.com/rehacktive/caffeine",
-    "upvotes": 156,
+    "upvotes": 164,
     "author": "aw4y",
-    "comments": 54,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=29238563"
   },
   {
     "title": "Letting users tick",
     "url": "https://designnotes.blog.gov.uk/2021/11/15/letting-users-tick-a-none-checkbox/",
-    "upvotes": 185,
+    "upvotes": 209,
     "author": "open-source-ux",
-    "comments": 49,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=29238159"
   },
   {
     "title": "Individuals Matter",
     "url": "https://danluu.com/people-matter/",
-    "upvotes": 637,
+    "upvotes": 648,
     "author": "benfrederickson",
-    "comments": 325,
+    "comments": 329,
     "link": "https://news.ycombinator.com/item?id=29235257"
-  },
-  {
-    "title": "OpenGL Machine Learning on Low-End Hardware",
-    "url": "https://hackaday.com/2021/11/13/opengl-machine-learning-runs-on-low-end-hardware/",
-    "upvotes": 45,
-    "author": "rcarmo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29216317"
-  },
-  {
-    "title": "What’s holding open banking back?",
-    "url": "https://sifted.eu/articles/open-banking-back-nordigen-api/",
-    "upvotes": 22,
-    "author": "JJKK1998",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=29240352"
   },
   {
     "title": "Hera",
     "url": "https://www.ycombinator.com/companies/hera/jobs/tyUzKGd-frontend-engineer"
   },
   {
+    "title": "Lttng: An open-source alternative to eBPF",
+    "url": "https://lttng.org/",
+    "upvotes": 18,
+    "author": "ignoramous",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29241048"
+  },
+  {
+    "title": "What’s holding open banking back?",
+    "url": "https://sifted.eu/articles/open-banking-back-nordigen-api/",
+    "upvotes": 31,
+    "author": "JJKK1998",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=29240352"
+  },
+  {
+    "title": "OpenGL Machine Learning on Low-End Hardware",
+    "url": "https://hackaday.com/2021/11/13/opengl-machine-learning-runs-on-low-end-hardware/",
+    "upvotes": 52,
+    "author": "rcarmo",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29216317"
+  },
+  {
     "title": "Some notes on using esbuild",
     "url": "https://jvns.ca/blog/2021/11/15/esbuild-vue/",
-    "upvotes": 170,
+    "upvotes": 179,
     "author": "ingve",
-    "comments": 133,
+    "comments": 141,
     "link": "https://news.ycombinator.com/item?id=29237987"
   },
   {
     "title": "Hackerrank DMCA Notice",
     "url": "https://github.com/github/dmca/blob/master/2021/11/2021-11-12-hackerrank.md",
-    "upvotes": 247,
+    "upvotes": 256,
     "author": "captn3m0",
-    "comments": 121,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=29239594"
-  },
-  {
-    "title": "Scrcpy v1.20",
-    "url": "https://github.com/Genymobile/scrcpy/releases/tag/v1.20",
-    "upvotes": 10,
-    "author": "marcodiego",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29241243"
-  },
-  {
-    "title": "How I helped build a profitable MVP over a weekend",
-    "url": "https://mzrn.sh/2021/11/14/how-i-helped-build-a-profitable-mvp-over-a-weekend",
-    "upvotes": 9,
-    "author": "jeremylevy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29230511"
-  },
-  {
-    "title": "Teapot: Type-Safe 3D Spreadsheet",
-    "url": "https://www.syntax-k.de/projekte/teapot/",
-    "upvotes": 8,
-    "author": "snazz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29241136"
   },
   {
     "title": "Chrome may start restricting requests to private networks",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/web/ChromePrivateNetBlocks",
-    "upvotes": 201,
+    "upvotes": 209,
     "author": "zdw",
     "comments": 184,
     "link": "https://news.ycombinator.com/item?id=29236989"
   },
   {
-    "title": "Office 2000 is Good to Go",
-    "url": "https://hardcoresoftware.learningbyshipping.com/p/055-office-2000-is-good-to-go",
-    "upvotes": 14,
-    "author": "tosh",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=29222297"
-  },
-  {
-    "title": "1632 by Eric Flint",
-    "url": "http://www.baen.com/chapters/0671578499/0671578499.htm",
-    "upvotes": 44,
-    "author": "mikewarot",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=29238719"
-  },
-  {
-    "title": "Lttng: An open-source alternative to eBPF",
-    "url": "https://lttng.org/",
-    "upvotes": 7,
-    "author": "ignoramous",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29241048"
-  },
-  {
-    "title": "Interactive Gradient Descent Demo",
-    "url": "https://blog.skz.dev/gradient-descent",
-    "upvotes": 47,
-    "author": "skzv",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29230252"
-  },
-  {
     "title": "Greenfield – The In-Browser Wayland Compositor",
     "url": "https://github.com/udevbe/greenfield",
-    "upvotes": 16,
+    "upvotes": 26,
     "author": "cunidev",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29239781"
   },
   {
-    "title": "Fannie Mae, Freddie Mac to Back Home Loans of Nearly $1M as Prices Soar",
-    "url": "https://www.wsj.com/articles/fannie-mae-freddie-mac-to-back-home-loans-of-nearly-1-million-as-prices-soar-11637071380",
-    "upvotes": 30,
-    "author": "ra7",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=29240677"
-  },
-  {
-    "title": "The Steele Dossier Indicted the Media",
-    "url": "https://www.nytimes.com/2021/11/15/opinion/steele-dossier.html",
-    "upvotes": 22,
-    "author": "missinfo",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29241218"
-  },
-  {
-    "title": "Multicore OCaml: October 2021",
-    "url": "https://discuss.ocaml.org/t/multicore-ocaml-october-2021/8822",
-    "upvotes": 81,
-    "author": "d3nj4l",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29238972"
-  },
-  {
-    "title": "It's Not All In Your Head",
-    "url": "https://www.firstthings.com/article/2021/12/its-not-all-in-your-head",
-    "upvotes": 88,
-    "author": "notagain",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=29236687"
+    "title": "Office 2000 is Good to Go",
+    "url": "https://hardcoresoftware.learningbyshipping.com/p/055-office-2000-is-good-to-go",
+    "upvotes": 23,
+    "author": "tosh",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=29222297"
   },
   {
     "title": "Open Collective Plans ‘Exit to Community’",
     "url": "https://blog.opencollective.com/exit-to-community/",
-    "upvotes": 6,
+    "upvotes": 20,
     "author": "brightly-salty",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29239910"
   },
   {
-    "title": "Electric vehicles could fully recharge in 5 minutes with new cable design",
-    "url": "https://www.purdue.edu/newsroom/releases/2021/Q4/electric-vehicles-could-fully-recharge-in-under-5-minutes-with-new-charging-station-cable-design.html",
-    "upvotes": 124,
-    "author": "gabea",
-    "comments": 204,
-    "link": "https://news.ycombinator.com/item?id=29236095"
+    "title": "YouTube Dislikes Viewer",
+    "url": "https://github.com/pgamerx/yt-dislikes-viewer",
+    "upvotes": 46,
+    "author": "tfsh",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=29241027"
+  },
+  {
+    "title": "NPM – \"is-even\", 160k weekly downloads",
+    "url": "https://www.npmjs.com/package/is-even",
+    "upvotes": 14,
+    "author": "st_goliath",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=29241943"
+  },
+  {
+    "title": "1632 by Eric Flint",
+    "url": "http://www.baen.com/chapters/0671578499/0671578499.htm",
+    "upvotes": 48,
+    "author": "mikewarot",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=29238719"
+  },
+  {
+    "title": "Interactive Gradient Descent Demo",
+    "url": "https://blog.skz.dev/gradient-descent",
+    "upvotes": 51,
+    "author": "skzv",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29230252"
+  },
+  {
+    "title": "Cloudflare launches a low-cost domain registrar",
+    "url": "https://techcrunch.com/2018/09/27/cloudflare-launches-a-low-cost-domain-registrar/",
+    "upvotes": 14,
+    "author": "1cvmask",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29241793"
+  },
+  {
+    "title": "Video game play is positively correlated with well-being",
+    "url": "https://psyarxiv.com/qrjza/",
+    "upvotes": 3,
+    "author": "wallflower",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29241293"
+  },
+  {
+    "title": "It's Not All In Your Head",
+    "url": "https://www.firstthings.com/article/2021/12/its-not-all-in-your-head",
+    "upvotes": 93,
+    "author": "notagain",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=29236687"
   }
 ]
