@@ -1,140 +1,148 @@
 [
   {
+    "title": ".plan",
+    "url": "https://plan.cat",
+    "upvotes": 33,
+    "author": "niedzielski",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29248368"
+  },
+  {
     "title": "Security issue related to the NPM registry",
     "url": "https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/#security-issues-related-to-the-npm-registry",
-    "upvotes": 393,
+    "upvotes": 411,
     "author": "ManuelKiessling",
-    "comments": 139,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=29245080"
   },
   {
     "title": "Weekly Top 10 lists of the most-watched TV and films",
     "url": "https://top10.netflix.com/?",
-    "upvotes": 167,
+    "upvotes": 174,
     "author": "Aissen",
-    "comments": 77,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=29246485"
   },
   {
     "title": "A 1980s space telescope may have seen planet nine",
     "url": "https://gizmodo.com/a-1980s-space-telescope-may-have-seen-planet-nine-1848066820",
-    "upvotes": 101,
+    "upvotes": 103,
     "author": "starwind",
-    "comments": 81,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=29246211"
   },
   {
     "title": "List of 8000 security vulnerabilities in 1200 Wi-Fi routers",
     "url": "https://modemly.com/m1/pulse",
-    "upvotes": 194,
+    "upvotes": 202,
     "author": "ndata",
-    "comments": 75,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=29244508"
+  },
+  {
+    "title": "What really happened at the Millennium Tower?",
+    "url": "https://practical.engineering/blog/2021/11/10/what-really-happened-at-the-millennium-tower",
+    "upvotes": 94,
+    "author": "chmaynard",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=29246128"
   },
   {
     "title": "What elements does a plant need to grow?",
     "url": "https://github.com/hydromisc/hydromisc/blob/master/doc/nutrient-design.md",
-    "upvotes": 237,
+    "upvotes": 243,
     "author": "lathyrus_long",
     "comments": 83,
     "link": "https://news.ycombinator.com/item?id=29242215"
   },
   {
-    "title": "What really happened at the Millennium Tower?",
-    "url": "https://practical.engineering/blog/2021/11/10/what-really-happened-at-the-millennium-tower",
-    "upvotes": 71,
-    "author": "chmaynard",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=29246128"
-  },
-  {
     "title": "I hate password rules",
     "url": "https://www.schneier.com/blog/archives/2021/11/why-i-hate-password-rules.html",
-    "upvotes": 425,
+    "upvotes": 442,
     "author": "CapitalistCartr",
-    "comments": 348,
+    "comments": 358,
     "link": "https://news.ycombinator.com/item?id=29239587"
   },
   {
     "title": "IoT Nixie Tubes",
     "url": "https://bert.org/2021/11/16/iot-nixie-tubes/",
-    "upvotes": 115,
+    "upvotes": 118,
     "author": "todsacerdoti",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=29244225"
   },
   {
-    "title": "Etsy’s Journey to TypeScript",
-    "url": "https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/",
-    "upvotes": 81,
-    "author": "elorant",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=29240789"
-  },
-  {
     "title": "How I helped build a profitable MVP over a weekend",
     "url": "https://mzrn.sh/2021/11/14/how-i-helped-build-a-profitable-mvp-over-a-weekend",
-    "upvotes": 323,
+    "upvotes": 331,
     "author": "jeremylevy",
     "comments": 68,
     "link": "https://news.ycombinator.com/item?id=29230511"
   },
   {
+    "title": "Etsy’s Journey to TypeScript",
+    "url": "https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/",
+    "upvotes": 86,
+    "author": "elorant",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=29240789"
+  },
+  {
     "title": "Show HN: Budibase – An open-source low code platform",
     "url": "https://budibase.com/",
-    "upvotes": 188,
+    "upvotes": 190,
     "author": "foxbee",
     "comments": 80,
     "link": "https://news.ycombinator.com/item?id=29242466"
   },
   {
+    "title": "Hopepunk, optimism, purity, and futures of hard work",
+    "url": "https://beforewegoblog.com/purity-and-futures-of-hard-work-by-ada-palmer/",
+    "upvotes": 12,
+    "author": "homarp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29246112"
+  },
+  {
     "title": "Skittish: A playful space for online events",
     "url": "https://skittish.com/",
-    "upvotes": 56,
+    "upvotes": 62,
     "author": "sillybilly",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=29246232"
   },
   {
-    "title": ".plan",
-    "url": "https://plan.cat",
-    "upvotes": 4,
-    "author": "niedzielski",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29248368"
+    "title": "How to Write a Computer Emulator",
+    "url": "https://fms.komkon.org/EMUL8/HOWTO.html",
+    "upvotes": 17,
+    "author": "marcodiego",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29237372"
   },
   {
     "title": "Why philosophers should care about computational complexity",
     "url": "https://arxiv.org/abs/1108.1791",
-    "upvotes": 125,
+    "upvotes": 129,
     "author": "lordleft",
-    "comments": 98,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=29242498"
-  },
-  {
-    "title": "Cache of documents declassified by the NRO for its 60th anniversary",
-    "url": "https://www.nro.gov/FOIA/Major-NRO-Programs-and-Projects/EOI-Documents/",
-    "upvotes": 80,
-    "author": "starwind",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=29244783"
   },
   {
     "title": "Modern Treasury",
     "url": "https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd"
   },
   {
-    "title": "How to Write a Computer Emulator",
-    "url": "https://fms.komkon.org/EMUL8/HOWTO.html",
-    "upvotes": 12,
-    "author": "marcodiego",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29237372"
+    "title": "Cache of documents declassified by the NRO for its 60th anniversary",
+    "url": "https://www.nro.gov/FOIA/Major-NRO-Programs-and-Projects/EOI-Documents/",
+    "upvotes": 83,
+    "author": "starwind",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=29244783"
   },
   {
     "title": "Types of Parser Combinators",
     "url": "https://sgt.hootr.club/molten-matter/types-of-parser-combinators/",
-    "upvotes": 43,
+    "upvotes": 46,
     "author": "todsacerdoti",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29246227"
@@ -142,10 +150,42 @@
   {
     "title": "There is currently no way to drive between Vancouver and the rest of Canada",
     "url": "https://www.kelownanow.com/watercooler/news/news/Provincial/Vancouver_is_now_completely_cut_off_to_the_rest_of_Canada_by_road/",
-    "upvotes": 537,
+    "upvotes": 545,
     "author": "actually_a_dog",
-    "comments": 369,
+    "comments": 371,
     "link": "https://news.ycombinator.com/item?id=29243059"
+  },
+  {
+    "title": "Video game play is positively correlated with well-being",
+    "url": "https://psyarxiv.com/qrjza/",
+    "upvotes": 164,
+    "author": "wallflower",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=29241293"
+  },
+  {
+    "title": "PlanetScale is now generally available",
+    "url": "https://planetscale.com/blog/ga",
+    "upvotes": 226,
+    "author": "petercooper",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=29240829"
+  },
+  {
+    "title": "Porting Doom to a USB Bluetooth Dongle",
+    "url": "https://next-hack.com/index.php/2021/11/13/porting-doom-to-an-nrf52840-based-usb-bluetooth-le-dongle/",
+    "upvotes": 131,
+    "author": "smirutrandola",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=29225855"
+  },
+  {
+    "title": "IBM unveils 127-qubit quantum processor",
+    "url": "https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor",
+    "upvotes": 276,
+    "author": "ag8",
+    "comments": 247,
+    "link": "https://news.ycombinator.com/item?id=29244732"
   },
   {
     "title": "The California Life of Czesław Miłosz",
@@ -156,83 +196,43 @@
     "link": "https://news.ycombinator.com/item?id=29246984"
   },
   {
-    "title": "Video game play is positively correlated with well-being",
-    "url": "https://psyarxiv.com/qrjza/",
-    "upvotes": 160,
-    "author": "wallflower",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=29241293"
-  },
-  {
-    "title": "Porting Doom to a USB Bluetooth Dongle",
-    "url": "https://next-hack.com/index.php/2021/11/13/porting-doom-to-an-nrf52840-based-usb-bluetooth-le-dongle/",
-    "upvotes": 129,
-    "author": "smirutrandola",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=29225855"
-  },
-  {
-    "title": "IBM unveils 127-qubit quantum processor",
-    "url": "https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor",
-    "upvotes": 271,
-    "author": "ag8",
-    "comments": 242,
-    "link": "https://news.ycombinator.com/item?id=29244732"
-  },
-  {
-    "title": "PlanetScale is now generally available",
-    "url": "https://planetscale.com/blog/ga",
-    "upvotes": 222,
-    "author": "petercooper",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=29240829"
-  },
-  {
-    "title": "A hash function using only add, sub, ror, and xor",
-    "url": "https://github.com/Keith-Cancel/k-hash",
-    "upvotes": 39,
-    "author": "anfilt",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=29226612"
-  },
-  {
-    "title": "Considering a Sphere",
-    "url": "https://www.solipsys.co.uk/new/ConsideringASphere.html?UK16HN",
-    "upvotes": 11,
-    "author": "ColinWright",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29247547"
-  },
-  {
     "title": "The benefits of not belonging",
     "url": "https://hardfork.substack.com/p/the-perpetual-outsider-the-big-benefits",
-    "upvotes": 73,
+    "upvotes": 77,
     "author": "imartin2k",
-    "comments": 78,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=29225728"
   },
   {
     "title": "Automatically generating types for Cloudflare Workers",
     "url": "https://blog.cloudflare.com/automatically-generated-types/",
-    "upvotes": 42,
+    "upvotes": 46,
     "author": "tekkertje",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=29246126"
   },
   {
+    "title": "A hash function using only add, sub, ror, and xor",
+    "url": "https://github.com/Keith-Cancel/k-hash",
+    "upvotes": 41,
+    "author": "anfilt",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=29226612"
+  },
+  {
     "title": "Office 2000 is good to go",
     "url": "https://hardcoresoftware.learningbyshipping.com/p/055-office-2000-is-good-to-go",
-    "upvotes": 80,
+    "upvotes": 83,
     "author": "tosh",
-    "comments": 115,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=29222297"
   },
   {
     "title": "When did computer science theory get so hard?",
     "url": "http://blog.computationalcomplexity.org/2021/11/when-did-computer-science-theory-get-so.html",
-    "upvotes": 199,
+    "upvotes": 200,
     "author": "furcyd",
-    "comments": 163,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=29223934"
   }
 ]
