@@ -2,58 +2,74 @@
   {
     "title": "The Spiral Staircase Myth",
     "url": "https://triskeleheritage.triskelepublishing.com/mediaeval-mythbusting-blog-2-the-man-who-invented-the-spiral-staircase-myth/",
-    "upvotes": 69,
+    "upvotes": 75,
     "author": "dgellow",
-    "comments": 62,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=29274875"
   },
   {
     "title": "80386DX ISA single board microcomputer",
     "url": "https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html",
-    "upvotes": 180,
+    "upvotes": 192,
     "author": "gigel82",
-    "comments": 61,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=29273829"
   },
   {
     "title": "SerenityOS demo at Handmade Seattle 2021 [video]",
     "url": "https://media.handmade-seattle.com/serenityos/",
-    "upvotes": 616,
+    "upvotes": 626,
     "author": "akling",
-    "comments": 130,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=29270776"
+  },
+  {
+    "title": "Tasking developers with creating detailed estimates is a waste of time",
+    "url": "https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42",
+    "upvotes": 15,
+    "author": "lauriswtf",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=29275659"
   },
   {
     "title": "Ask HN: Why is there no good open-source LMS?",
     "url": "item?id=29275470",
-    "upvotes": 47,
+    "upvotes": 58,
     "author": "seestraw",
-    "comments": 30,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=29275470"
   },
   {
     "title": "Cracking the Adventure Time Cipher",
     "url": "https://aaronrandall.com/blog/cracking-the-adventure-time-cipher/",
-    "upvotes": 116,
+    "upvotes": 122,
     "author": "todsacerdoti",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29238979"
   },
   {
     "title": "Google Play permitting alternative billing systems for users in South Korea",
     "url": "https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-en.html",
-    "upvotes": 141,
+    "upvotes": 148,
     "author": "cmdr2",
-    "comments": 62,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=29272923"
   },
   {
-    "title": "Andrew Hunter Murray on dystopias",
-    "url": "https://thebrowser.com/notes/andrew-hunter-murray/",
-    "upvotes": 19,
-    "author": "dance-me",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29258684"
+    "title": "New and improved Linux Random Number Generator ready for testing",
+    "url": "https://portswigger.net/daily-swig/secure-development-new-and-improved-linux-random-number-generator-ready-for-testing",
+    "upvotes": 10,
+    "author": "feross",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29256482"
+  },
+  {
+    "title": "Harps: A new general purpose language",
+    "url": "https://harpslang.github.io/harps-lang/",
+    "upvotes": 5,
+    "author": "UglyToad",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29275867"
   },
   {
     "title": "Fragment of lost 12th-century epic poem found in another book’s binding",
@@ -64,120 +80,128 @@
     "link": "https://news.ycombinator.com/item?id=29274241"
   },
   {
+    "title": "Andrew Hunter Murray on dystopias",
+    "url": "https://thebrowser.com/notes/andrew-hunter-murray/",
+    "upvotes": 18,
+    "author": "dance-me",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29258684"
+  },
+  {
     "title": "Acquisition of chess knowledge in AlphaZero",
     "url": "https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero",
-    "upvotes": 173,
+    "upvotes": 175,
     "author": "Bostonian",
-    "comments": 63,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=29272000"
   },
   {
     "title": "Where is Ruby Headed in 2021?",
     "url": "https://bignerdranch.com/blog/where-is-ruby-headed-in-2021/",
-    "upvotes": 198,
+    "upvotes": 205,
     "author": "thunderbong",
-    "comments": 166,
+    "comments": 176,
     "link": "https://news.ycombinator.com/item?id=29272682"
-  },
-  {
-    "title": "New and improved Linux Random Number Generator ready for testing",
-    "url": "https://portswigger.net/daily-swig/secure-development-new-and-improved-linux-random-number-generator-ready-for-testing",
-    "upvotes": 5,
-    "author": "feross",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29256482"
   },
   {
     "title": "UK to ban all in-hand mobile phone use while driving in 2022",
     "url": "https://www.theguardian.com/world/2021/nov/19/uk-drivers-face-200-fines-in-mobile-phone-clampdown",
-    "upvotes": 14,
+    "upvotes": 20,
     "author": "pharmakom",
-    "comments": 15,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=29275653"
-  },
-  {
-    "title": "Google SAPI: Generate sandboxes for C/C++ libraries automatically",
-    "url": "https://github.com/google/sandboxed-api",
-    "upvotes": 51,
-    "author": "harporoeder",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=29273530"
   },
   {
     "title": "Stacker",
     "url": "https://www.stackerhq.com/careers#job-listing"
   },
   {
-    "title": "Tasking developers with creating detailed estimates is a waste of time",
-    "url": "https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42",
-    "upvotes": 5,
-    "author": "lauriswtf",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29275659"
+    "title": "Google SAPI: Generate sandboxes for C/C++ libraries automatically",
+    "url": "https://github.com/google/sandboxed-api",
+    "upvotes": 52,
+    "author": "harporoeder",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=29273530"
   },
   {
     "title": "Open-Source Plastic Scanner",
     "url": "https://plasticscanner.com/",
-    "upvotes": 190,
+    "upvotes": 192,
     "author": "giuliomagnifico",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=29269584"
   },
   {
     "title": "HomeBrew Computers Web-Ring",
     "url": "https://www.homebrewcpuring.org/",
-    "upvotes": 87,
+    "upvotes": 90,
     "author": "rolph",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29272595"
   },
   {
     "title": "Duff’s Device in 2021",
     "url": "https://belaycpp.com/2021/11/18/duffs-device-in-2021/",
-    "upvotes": 66,
+    "upvotes": 68,
     "author": "signa11",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=29272953"
   },
   {
     "title": "Solar-driven water splitting at 13.8% solar-to-hydrogen efficiency",
     "url": "https://pubs.acs.org/doi/10.1021/acssuschemeng.1c03565",
-    "upvotes": 226,
+    "upvotes": 229,
     "author": "Breadmaker",
-    "comments": 238,
+    "comments": 241,
     "link": "https://news.ycombinator.com/item?id=29269596"
   },
   {
     "title": "Elicit",
     "url": "https://elicit.org",
-    "upvotes": 86,
+    "upvotes": 87,
     "author": "apsec112",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=29262357"
   },
   {
-    "title": "A concept that took hold in the ’70s haunted everything from seat belts to masks",
-    "url": "https://slate.com/technology/2021/11/risk-compensation-debunked-masks-rapid-tests-vaccines-safety.html",
-    "upvotes": 194,
-    "author": "imartin2k",
-    "comments": 217,
-    "link": "https://news.ycombinator.com/item?id=29238655"
+    "title": "Spy camera detection using smartphone time-of-flight sensors",
+    "url": "https://dl.acm.org/doi/10.1145/3485730.3485941",
+    "upvotes": 666,
+    "author": "Nirali_Feige",
+    "comments": 194,
+    "link": "https://news.ycombinator.com/item?id=29267168"
   },
   {
     "title": "Show HN: I made a drag and drop website builder that works on mobile",
     "url": "https://straw.page",
-    "upvotes": 113,
+    "upvotes": 114,
     "author": "okozzie",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=29270909"
   },
   {
-    "title": "Spy camera detection using smartphone time-of-flight sensors",
-    "url": "https://dl.acm.org/doi/10.1145/3485730.3485941",
-    "upvotes": 659,
-    "author": "Nirali_Feige",
-    "comments": 194,
-    "link": "https://news.ycombinator.com/item?id=29267168"
+    "title": "A concept that took hold in the ’70s haunted everything from seat belts to masks",
+    "url": "https://slate.com/technology/2021/11/risk-compensation-debunked-masks-rapid-tests-vaccines-safety.html",
+    "upvotes": 198,
+    "author": "imartin2k",
+    "comments": 224,
+    "link": "https://news.ycombinator.com/item?id=29238655"
+  },
+  {
+    "title": "Debugging a weird 'file not found' error",
+    "url": "https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/",
+    "upvotes": 118,
+    "author": "ingve",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=29258967"
+  },
+  {
+    "title": "I analyzed SaaS billing dark patterns",
+    "url": "https://quolum.com/blog/saas/i-analyzed-saas-billing-dark-patterns/",
+    "upvotes": 180,
+    "author": "indus",
+    "comments": 147,
+    "link": "https://news.ycombinator.com/item?id=29255445"
   },
   {
     "title": "New Ransomware Reporting Rules for US Financial Institutions",
@@ -188,51 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=29274934"
   },
   {
-    "title": "Debugging a weird 'file not found' error",
-    "url": "https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/",
-    "upvotes": 113,
-    "author": "ingve",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=29258967"
-  },
-  {
-    "title": "I analyzed SaaS billing dark patterns",
-    "url": "https://quolum.com/blog/saas/i-analyzed-saas-billing-dark-patterns/",
-    "upvotes": 175,
-    "author": "indus",
-    "comments": 146,
-    "link": "https://news.ycombinator.com/item?id=29255445"
-  },
-  {
     "title": "TensorFlow Graph Neural Networks",
     "url": "https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html",
-    "upvotes": 144,
+    "upvotes": 146,
     "author": "0xedb",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29268780"
-  },
-  {
-    "title": "Notes on Web3",
-    "url": "https://society.robinsloan.com/archive/notes-on-web3/",
-    "upvotes": 287,
-    "author": "tbolt",
-    "comments": 337,
-    "link": "https://news.ycombinator.com/item?id=29270718"
-  },
-  {
-    "title": "Intrepid robot is the Wall-E of the deep sea",
-    "url": "https://www.wired.com/story/this-intrepid-robot-is-the-wall-e-of-the-deep-sea/",
-    "upvotes": 20,
-    "author": "rbanffy",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29240108"
   },
   {
     "title": "My Sammelband has Frisket-Bite",
     "url": "https://blprnt.medium.com/my-sammelband-has-frisket-bite-a-short-glossary-of-delightful-library-terms-ca3f1848995f",
-    "upvotes": 6,
+    "upvotes": 7,
     "author": "mighty-fine",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29260192"
+  },
+  {
+    "title": "Intrepid robot is the Wall-E of the deep sea",
+    "url": "https://www.wired.com/story/this-intrepid-robot-is-the-wall-e-of-the-deep-sea/",
+    "upvotes": 22,
+    "author": "rbanffy",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29240108"
   }
 ]
