@@ -1,32 +1,64 @@
 [
   {
+    "title": "QOI: Lossless Image Compression in O",
+    "url": "https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression",
+    "upvotes": 26,
+    "author": "Ragnarork",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29328750"
+  },
+  {
     "title": "Tree Sitter and the Complications of Parsing Languages",
     "url": "https://www.masteringemacs.org/article/tree-sitter-complications-of-parsing-languages",
-    "upvotes": 123,
+    "upvotes": 128,
     "author": "podiki",
-    "comments": 65,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=29327424"
   },
   {
-    "title": "Apple sues NSO Group to curb the abuse of state-sponsored spyware",
-    "url": "https://www.apple.com/newsroom/2021/11/apple-sues-nso-group-to-curb-the-abuse-of-state-sponsored-spyware/",
-    "upvotes": 991,
-    "author": "todsacerdoti",
-    "comments": 384,
-    "link": "https://news.ycombinator.com/item?id=29320986"
+    "title": "Please Stop “Fixing” Font Smoothing",
+    "url": "https://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/",
+    "upvotes": 10,
+    "author": "damir",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29328838"
+  },
+  {
+    "title": "Overengineering can kill your product",
+    "url": "https://www.mindtheproduct.com/overengineering-can-kill-your-product/",
+    "upvotes": 9,
+    "author": "iota8",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29328761"
+  },
+  {
+    "title": "Parrots Will Share Currency to Help Their Pals Purchase Food",
+    "url": "https://www.smithsonianmag.com/science-nature/parrots-share-currency-help-their-pals-purchase-food-180973917/",
+    "upvotes": 6,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29328865"
+  },
+  {
+    "title": "J2ObjC is a command-line tool that translates Java to Objective-C",
+    "url": "https://developers.google.com/j2objc",
+    "upvotes": 6,
+    "author": "SerCe",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29328678"
   },
   {
     "title": "I wish systemd logged information about the source of “transactions”",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdTransactionSourceWish",
-    "upvotes": 64,
+    "upvotes": 67,
     "author": "zdw",
-    "comments": 33,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=29327240"
   },
   {
     "title": "Wander",
     "url": "https://ahopeful.wordpress.com/2015/04/22/wander-1974-a-lost-mainframe-game-is-found/",
-    "upvotes": 52,
+    "upvotes": 55,
     "author": "bpierre",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29294103"
@@ -34,107 +66,91 @@
   {
     "title": "IPv6-only subnets and EC2 instances",
     "url": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-ipv6-only-subnets-and-ec2-instances/",
-    "upvotes": 76,
+    "upvotes": 81,
     "author": "miyuru",
-    "comments": 39,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=29327190"
   },
   {
     "title": "Processing and P5 got newbies into coding",
     "url": "https://clivethompson.medium.com/how-processing-and-p5-got-newbies-into-coding-dd3853a7adb",
-    "upvotes": 120,
+    "upvotes": 121,
     "author": "winkywooster",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=29326102"
-  },
-  {
-    "title": "Things I learned from building a production database",
-    "url": "https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html",
-    "upvotes": 399,
-    "author": "dangoldin",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=29322515"
-  },
-  {
-    "title": "How the Rosetta Stone yielded its secrets",
-    "url": "https://www.newyorker.com/magazine/2021/11/29/how-the-rosetta-stone-yielded-up-its-secrets-edward-dolnick-the-writing-of-the-gods",
-    "upvotes": 89,
-    "author": "fortran77",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=29326287"
-  },
-  {
-    "title": "The Max Headroom Incident",
-    "url": "https://allthatsinteresting.com/max-headroom-hack",
-    "upvotes": 341,
-    "author": "sec400",
-    "comments": 186,
-    "link": "https://news.ycombinator.com/item?id=29319651"
-  },
-  {
-    "title": "The Catherine Project: A new experiment in liberal education",
-    "url": "https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis",
-    "upvotes": 176,
-    "author": "besmirch",
-    "comments": 157,
-    "link": "https://news.ycombinator.com/item?id=29323260"
-  },
-  {
-    "title": "What's the Future of IDEs?",
-    "url": "https://giansegato.com/essays/what-future-ides/",
-    "upvotes": 48,
-    "author": "giansegato",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=29304667"
   },
   {
     "title": "Vestaboard – A Smart Display to Connect and Inspire",
     "url": "https://www.vestaboard.com",
-    "upvotes": 11,
+    "upvotes": 15,
     "author": "duck",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29327147"
+  },
+  {
+    "title": "Apple sues NSO Group to curb the abuse of state-sponsored spyware",
+    "url": "https://www.apple.com/newsroom/2021/11/apple-sues-nso-group-to-curb-the-abuse-of-state-sponsored-spyware/",
+    "upvotes": 1003,
+    "author": "todsacerdoti",
+    "comments": 385,
+    "link": "https://news.ycombinator.com/item?id=29320986"
+  },
+  {
+    "title": "How the Rosetta Stone yielded its secrets",
+    "url": "https://www.newyorker.com/magazine/2021/11/29/how-the-rosetta-stone-yielded-up-its-secrets-edward-dolnick-the-writing-of-the-gods",
+    "upvotes": 92,
+    "author": "fortran77",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=29326287"
+  },
+  {
+    "title": "The Catherine Project: A new experiment in liberal education",
+    "url": "https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis",
+    "upvotes": 178,
+    "author": "besmirch",
+    "comments": 157,
+    "link": "https://news.ycombinator.com/item?id=29323260"
   },
   {
     "title": "Standard",
     "url": "https://careers.standard.ai/"
   },
   {
-    "title": "Blueboat, an open-source alternative to Cloudflare Workers",
-    "url": "https://github.com/losfair/blueboat",
-    "upvotes": 206,
-    "author": "ushakov",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=29321442"
-  },
-  {
     "title": "The curious tale of a Nintendo UK Hotliner during the console war era",
     "url": "https://www.nintendolife.com/features/nintendo-hotliner-life-1990n93-manning-the-phones-during-the-console-wars",
-    "upvotes": 112,
+    "upvotes": 115,
     "author": "adrian_mrd",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29295522"
+  },
+  {
+    "title": "What's the Future of IDEs?",
+    "url": "https://giansegato.com/essays/what-future-ides/",
+    "upvotes": 50,
+    "author": "giansegato",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=29304667"
   },
   {
     "title": "New emails released in the McDonald’s ice cream machine lawsuit",
     "url": "https://www.wired.com/story/mcdonalds-ice-cream-machine-hacking-kytch-taylor-internal-emails/",
-    "upvotes": 173,
+    "upvotes": 176,
     "author": "notacoward",
-    "comments": 86,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=29325507"
   },
   {
     "title": "My Favorite Math Problem",
     "url": "https://mapehe.github.io/math-problem/index.html",
-    "upvotes": 97,
+    "upvotes": 99,
     "author": "gridentio",
-    "comments": 51,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=29300324"
   },
   {
     "title": "The Pigeon Puzzle",
     "url": "https://thewalrus.ca/the-pigeon-puzzle-how-do-they-figure-out-their-impossibly-long-routes-home/",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "pseudolus",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29286958"
@@ -142,55 +158,47 @@
   {
     "title": "An engineer's observations on Web3 and its possibilities",
     "url": "https://www.psl.com/feed-posts/web3-engineer-take",
-    "upvotes": 264,
+    "upvotes": 268,
     "author": "treblig",
-    "comments": 222,
+    "comments": 224,
     "link": "https://news.ycombinator.com/item?id=29321987"
   },
   {
-    "title": "Bash patterns I use weekly",
-    "url": "https://will-keleher.com/posts/5-Useful-Bash-Patterns.html",
-    "upvotes": 250,
-    "author": "gcmeplz",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=29318751"
-  },
-  {
-    "title": "The Perfect System Doesn't Exist",
-    "url": "https://alexkondov.com/the-perfect-system-doesnt-exist/",
-    "upvotes": 53,
-    "author": "kondov",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=29305984"
-  },
-  {
-    "title": "C64",
-    "url": "https://replit.com/@mattiselin/C64?v=1",
-    "upvotes": 170,
-    "author": "amasad",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=29321637"
+    "title": "Things I learned from building a production database",
+    "url": "https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html",
+    "upvotes": 411,
+    "author": "dangoldin",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=29322515"
   },
   {
     "title": "Neuro Evolution of Augmented Topologies",
     "url": "https://fev.al/posts/neat/",
-    "upvotes": 72,
+    "upvotes": 73,
     "author": "charlieirish",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29296158"
   },
   {
-    "title": "I’m leaving London for NYC and taking my tech startup",
-    "url": "https://sifted.eu/articles/brexit-london-new-york-leaving/",
-    "upvotes": 131,
-    "author": "cesarosum",
-    "comments": 191,
-    "link": "https://news.ycombinator.com/item?id=29316357"
+    "title": "C64",
+    "url": "https://replit.com/@mattiselin/C64?v=1",
+    "upvotes": 171,
+    "author": "amasad",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=29321637"
+  },
+  {
+    "title": "The Perfect System Doesn't Exist",
+    "url": "https://alexkondov.com/the-perfect-system-doesnt-exist/",
+    "upvotes": 54,
+    "author": "kondov",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=29305984"
   },
   {
     "title": "German car that was super-aerodynamic but impractical",
     "url": "https://rarehistoricalphotos.com/schlorwagen-photographs-1939/",
-    "upvotes": 129,
+    "upvotes": 132,
     "author": "davesailer",
     "comments": 94,
     "link": "https://news.ycombinator.com/item?id=29321519"
@@ -198,41 +206,33 @@
   {
     "title": "Sonic: A fast JSON serializing and deserializing library",
     "url": "https://github.com/bytedance/sonic",
-    "upvotes": 86,
+    "upvotes": 87,
     "author": "ngaut",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=29296601"
-  },
-  {
-    "title": "Ask HN: Is back end dev generally easier than front end?",
-    "url": "item?id=29328111",
-    "upvotes": 69,
-    "author": "mouzogu",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=29328111"
-  },
-  {
-    "title": "Boards are dangerous to founder/CEOs",
-    "url": "https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html",
-    "upvotes": 645,
-    "author": "tosh",
-    "comments": 276,
-    "link": "https://news.ycombinator.com/item?id=29320078"
   },
   {
     "title": "California moves to recommend delaying algebra to 9th grade statewide",
     "url": "https://sfstandard.com/controversy-rages-as-california-follows-sfs-lead-with-new-approach-to-teaching-math/",
-    "upvotes": 242,
+    "upvotes": 247,
     "author": "moultano",
-    "comments": 487,
+    "comments": 492,
     "link": "https://news.ycombinator.com/item?id=29324551"
+  },
+  {
+    "title": "Ask HN: Is back end dev generally easier than front end?",
+    "url": "item?id=29328111",
+    "upvotes": 73,
+    "author": "mouzogu",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=29328111"
   },
   {
     "title": "How We Turn Authorization Logic into SQL",
     "url": "https://www.osohq.com/post/logic-into-sql",
-    "upvotes": 134,
+    "upvotes": 135,
     "author": "gneray",
-    "comments": 57,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=29321504"
   }
 ]
