@@ -1,51 +1,59 @@
 [
   {
+    "title": "Hubris – An OS from Oxide Computer",
+    "url": "https://hubris.oxide.computer/",
+    "upvotes": 71,
+    "author": "jacobwg",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=29390751"
+  },
+  {
     "title": "Event Sourcing Is Hard",
     "url": "https://chriskiehl.com/article/event-sourcing-is-hard",
-    "upvotes": 90,
+    "upvotes": 105,
     "author": "swyx",
-    "comments": 31,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=29390483"
   },
   {
     "title": "Release Candidate of PeerTube V4 is out",
     "url": "https://framablog.org/2021/11/30/peertube-v4-more-power-to-help-you-present-your-videos/",
-    "upvotes": 78,
+    "upvotes": 95,
     "author": "booteille",
-    "comments": 26,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29390312"
-  },
-  {
-    "title": "Hubris – An OS from Oxide Computer",
-    "url": "https://hubris.oxide.computer/",
-    "upvotes": 38,
-    "author": "jacobwg",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29390751"
-  },
-  {
-    "title": "4x Smaller, 50x Faster",
-    "url": "https://blog.asciinema.org/post/smaller-faster/",
-    "upvotes": 553,
-    "author": "pama",
-    "comments": 122,
-    "link": "https://news.ycombinator.com/item?id=29387761"
   },
   {
     "title": "Haiku Now Has Experimental 3D Acceleration",
     "url": "https://discuss.haiku-os.org/t/vulkan-lavapipe-software-rendering-is-working-on-haiku/11363?page=13",
-    "upvotes": 30,
+    "upvotes": 44,
     "author": "DeathArrow",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29390689"
+  },
+  {
+    "title": "4x Smaller, 50x Faster",
+    "url": "https://blog.asciinema.org/post/smaller-faster/",
+    "upvotes": 571,
+    "author": "pama",
+    "comments": 127,
+    "link": "https://news.ycombinator.com/item?id=29387761"
   },
   {
     "title": "PostgREST v9.0.0",
     "url": "https://postgrest.org/en/v9.0/releases/v9.0.0.html",
-    "upvotes": 151,
+    "upvotes": 159,
     "author": "kiwicopple",
-    "comments": 42,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=29389576"
+  },
+  {
+    "title": "Transcrypt – Python in the Browser",
+    "url": "https://www.transcrypt.org/",
+    "upvotes": 19,
+    "author": "EntICOnc",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29348411"
   },
   {
     "title": "Curri",
@@ -54,87 +62,95 @@
   {
     "title": "Accepted and ghosted: interviewing for a leadership position at Stripe",
     "url": "item?id=29387264",
-    "upvotes": 1143,
+    "upvotes": 1196,
     "author": "danrocks",
-    "comments": 470,
+    "comments": 489,
     "link": "https://news.ycombinator.com/item?id=29387264"
-  },
-  {
-    "title": "Transcrypt – Python in the Browser",
-    "url": "https://www.transcrypt.org/",
-    "upvotes": 12,
-    "author": "EntICOnc",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29348411"
   },
   {
     "title": "Disney Combines CGI with Neural Rendering to Tackle the ‘Uncanny Valley’",
     "url": "https://www.unite.ai/disney-combines-cgi-with-neural-rendering-to-tackle-the-uncanny-valley/",
-    "upvotes": 52,
+    "upvotes": 57,
     "author": "Hard_Space",
-    "comments": 39,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=29390099"
+  },
+  {
+    "title": "Workers quit jobs in droves to become their own bosses",
+    "url": "https://www.wsj.com/articles/workers-quit-jobs-in-droves-to-become-their-own-bosses-11638199199",
+    "upvotes": 334,
+    "author": "prostoalex",
+    "comments": 322,
+    "link": "https://news.ycombinator.com/item?id=29387262"
   },
   {
     "title": "Solidjs – JavaScript UI Library",
     "url": "https://www.solidjs.com/",
-    "upvotes": 224,
+    "upvotes": 234,
     "author": "elias94",
-    "comments": 43,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=29388296"
+  },
+  {
+    "title": "Why Decentralization Matters",
+    "url": "https://cdixon.org/2018/02/18/why-decentralization-matters/",
+    "upvotes": 26,
+    "author": "enigmatic02",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=29390516"
+  },
+  {
+    "title": "Show HN: Improve your Python regex skills with 75 interactive exercises",
+    "url": "https://github.com/learnbyexample/py_regular_expressions/tree/master/interactive_exercises",
+    "upvotes": 6,
+    "author": "asicsp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29391107"
   },
   {
     "title": "Open source RISC-V GPGPU",
     "url": "https://github.com/vortexgpgpu/vortex",
-    "upvotes": 160,
+    "upvotes": 164,
     "author": "1ntEgr8",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=29388213"
   },
   {
-    "title": "Sorry, but you're already living in the “Squid Game”",
-    "url": "https://www.welcometothejungle.com/en/articles/why-squid-games-is-not-just-dystopian-fiction",
-    "upvotes": 38,
-    "author": "one2three4",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=29390592"
-  },
-  {
-    "title": "Why Decentralization Matters",
-    "url": "https://cdixon.org/2018/02/18/why-decentralization-matters/",
-    "upvotes": 19,
-    "author": "enigmatic02",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=29390516"
-  },
-  {
     "title": "Will Nix Overtake Docker",
     "url": "https://blog.replit.com/nix-vs-docker",
-    "upvotes": 239,
+    "upvotes": 246,
     "author": "Codemonkey51",
-    "comments": 161,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=29387137"
+  },
+  {
+    "title": "Atari took on Apple with the Atari 400 and Atari 800 PCs",
+    "url": "https://www.fastcompany.com/90432140/how-atari-took-on-apple-in-the-1980s-home-pc-wars",
+    "upvotes": 19,
+    "author": "rbanffy",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=29349915"
   },
   {
     "title": "I became the internet’s most notorious bike thief",
     "url": "https://cyclingtips.com/2021/11/how-i-became-the-internets-most-notorious-bike-thief/",
-    "upvotes": 129,
+    "upvotes": 136,
     "author": "giuliomagnifico",
-    "comments": 60,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=29349356"
   },
   {
-    "title": "Workers quit jobs in droves to become their own bosses",
-    "url": "https://www.wsj.com/articles/workers-quit-jobs-in-droves-to-become-their-own-bosses-11638199199",
-    "upvotes": 325,
-    "author": "prostoalex",
-    "comments": 313,
-    "link": "https://news.ycombinator.com/item?id=29387262"
+    "title": "Xenobots: replicating living robots made from frog cells",
+    "url": "https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce",
+    "upvotes": 34,
+    "author": "giuliomagnifico",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29389871"
   },
   {
     "title": "Architecture in Music: looking inside musical instruments",
     "url": "https://www.charlesbrooks.info/architecture-in-music",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "sohkamyung",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29389442"
@@ -142,31 +158,15 @@
   {
     "title": "Managing Risks in Research",
     "url": "https://alastairreid.github.io/research-risks/",
-    "upvotes": 14,
+    "upvotes": 20,
     "author": "Kinrany",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29390388"
   },
   {
-    "title": "Atari took on Apple with the Atari 400 and Atari 800 PCs",
-    "url": "https://www.fastcompany.com/90432140/how-atari-took-on-apple-in-the-1980s-home-pc-wars",
-    "upvotes": 12,
-    "author": "rbanffy",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=29349915"
-  },
-  {
-    "title": "Xenobots: replicating living robots made from frog cells",
-    "url": "https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce",
-    "upvotes": 29,
-    "author": "giuliomagnifico",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29389871"
-  },
-  {
     "title": "Emacs Docs The modern documentation website Emacs deserves",
     "url": "https://www.emacsdocs.org/",
-    "upvotes": 142,
+    "upvotes": 145,
     "author": "ageofwant",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=29387391"
@@ -174,65 +174,65 @@
   {
     "title": "I resigned from Twitter",
     "url": "https://twitter.com/jack/status/1465347002426867720",
-    "upvotes": 1600,
+    "upvotes": 1608,
     "author": "ryzvonusef",
-    "comments": 1005,
+    "comments": 1006,
     "link": "https://news.ycombinator.com/item?id=29380171"
   },
   {
     "title": "Crystal Detector",
     "url": "https://en.wikipedia.org/wiki/Crystal_detector",
-    "upvotes": 15,
+    "upvotes": 17,
     "author": "ofou",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29348950"
-  },
-  {
-    "title": "Cache warming at Netflix: Leveraging EBS for moving petabytes of data",
-    "url": "https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3",
-    "upvotes": 71,
-    "author": "hexdeadbeef",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=29388588"
-  },
-  {
-    "title": "Long View: Is the World Deglobalising?",
-    "url": "https://www.realchinacharts.com/p/8-long-view-is-the-world-deglobalising",
-    "upvotes": 122,
-    "author": "gscott",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=29387292"
-  },
-  {
-    "title": "The Essence operating system at Handmade Seattle 2021 [video]",
-    "url": "https://media.handmade-seattle.com/essence/",
-    "upvotes": 108,
-    "author": "abnercoimbre",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=29386605"
   },
   {
     "title": "The History of WD-40",
     "url": "https://tedium.co/2021/11/26/wd-40-chemical-history/",
-    "upvotes": 44,
+    "upvotes": 47,
     "author": "ecliptik",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=29359948"
   },
   {
-    "title": "CD box sets are wonderful",
-    "url": "https://smackeyacky.blogspot.com/2021/11/cd-box-sets-are-wonderful.html",
-    "upvotes": 44,
-    "author": "smackeyacky",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=29388002"
+    "title": "Cache warming at Netflix: Leveraging EBS for moving petabytes of data",
+    "url": "https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3",
+    "upvotes": 73,
+    "author": "hexdeadbeef",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=29388588"
+  },
+  {
+    "title": "Is The World Deglobalising?",
+    "url": "https://www.realchinacharts.com/p/8-long-view-is-the-world-deglobalising",
+    "upvotes": 125,
+    "author": "gscott",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=29387292"
+  },
+  {
+    "title": "The Essence operating system at Handmade Seattle 2021 [video]",
+    "url": "https://media.handmade-seattle.com/essence/",
+    "upvotes": 111,
+    "author": "abnercoimbre",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=29386605"
   },
   {
     "title": "Making Sense of Recipes for Amulets and Natural Magic, Kabbalistic Style",
     "url": "https://recipes.hypotheses.org/18113",
-    "upvotes": 22,
+    "upvotes": 23,
     "author": "drdee",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29376855"
+  },
+  {
+    "title": "CD box sets are wonderful",
+    "url": "https://smackeyacky.blogspot.com/2021/11/cd-box-sets-are-wonderful.html",
+    "upvotes": 46,
+    "author": "smackeyacky",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=29388002"
   }
 ]
