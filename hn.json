@@ -1,82 +1,98 @@
 [
   {
+    "title": "The American Prison System’s War on Reading",
+    "url": "https://proteanmag.com/2021/11/29/the-american-prison-systems-war-on-reading/",
+    "upvotes": 70,
+    "author": "misiti3780",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=29398891"
+  },
+  {
     "title": "DESQview/X: Forgotten mid-1990s OS from the future",
     "url": "https://lunduke.substack.com/p/desqviewx-the-forgotten-mid-1990s",
-    "upvotes": 234,
+    "upvotes": 281,
     "author": "WoodenChair",
-    "comments": 84,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=29396561"
   },
   {
     "title": "FBI's ability to legally access secure messaging app content and metadata [pdf]",
     "url": "https://propertyofthepeople.org/document-detail/?doc-id=21114562",
-    "upvotes": 235,
+    "upvotes": 270,
     "author": "sega_sai",
-    "comments": 193,
+    "comments": 235,
     "link": "https://news.ycombinator.com/item?id=29396643"
-  },
-  {
-    "title": "Elizabeth Holmes' Daily Schedule",
-    "url": "https://twitter.com/TechEmails/status/1465802215927558154",
-    "upvotes": 20,
-    "author": "Hrundi",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29398673"
   },
   {
     "title": "New cancer therapy holds potential to switch off major cancer types",
     "url": "https://www.princeton.edu/news/2021/11/29/new-cancer-therapy-yibin-kangs-lab-holds-potential-switch-major-cancer-types",
-    "upvotes": 56,
+    "upvotes": 100,
     "author": "MKais",
-    "comments": 5,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=29398187"
+  },
+  {
+    "title": "Synthetic tissue can repair hearts, muscles, and vocal cords",
+    "url": "https://www.mcgill.ca/newsroom/channels/news/synthetic-tissue-can-repair-hearts-muscles-and-vocal-cords-335206",
+    "upvotes": 18,
+    "author": "geox",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29399026"
+  },
+  {
+    "title": "German Court Rules Against Internet Security Non-Profit Quad9",
+    "url": "https://www.quad9.net/news/press/german-court-rules-against/",
+    "upvotes": 56,
+    "author": "pgl",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29398455"
   },
   {
     "title": "An Illustrated Guide to Elliptic Curve Cryptography Validation",
     "url": "https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/",
-    "upvotes": 77,
+    "upvotes": 90,
     "author": "alanfranz",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29397243"
   },
   {
     "title": "Lazygit: A simple terminal UI for Git commands",
     "url": "https://github.com/jesseduffield/lazygit",
-    "upvotes": 194,
+    "upvotes": 206,
     "author": "tnorthcutt",
-    "comments": 76,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=29394162"
   },
   {
     "title": "AWS Private 5G",
     "url": "https://aws.amazon.com/private5g/",
-    "upvotes": 446,
+    "upvotes": 463,
     "author": "Trisell",
-    "comments": 272,
+    "comments": 276,
     "link": "https://news.ycombinator.com/item?id=29394605"
   },
   {
     "title": "Hubris – A small operating system for deeply-embedded computer systems",
     "url": "https://oxide.computer/blog/hubris-and-humility",
-    "upvotes": 480,
+    "upvotes": 496,
     "author": "jacobwg",
-    "comments": 193,
+    "comments": 198,
     "link": "https://news.ycombinator.com/item?id=29390751"
   },
   {
-    "title": "Design Issues for Foreign Function Interfaces",
-    "url": "http://web.archive.org/web/20170315194527/http://autocad.xarch.at/lisp/ffis.html",
-    "upvotes": 34,
-    "author": "metagame",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29389241"
+    "title": "Silbo Gomero: ‘Special and Beautiful’ Whistled Language",
+    "url": "https://www.nytimes.com/2021/02/18/world/europe/silbo-gomero-canary-islands.html",
+    "upvotes": 13,
+    "author": "kwindla",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29396147"
   },
   {
     "title": "Scaling Kafka at Honeycomb",
     "url": "https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/",
-    "upvotes": 81,
+    "upvotes": 94,
     "author": "i0exception",
-    "comments": 17,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=29396319"
   },
   {
@@ -84,155 +100,139 @@
     "url": "item?id=29397383"
   },
   {
-    "title": "Reducing an LTO Linux kernel bug with cvise",
-    "url": "https://nathanchance.dev/posts/cvise-lto-kernel-bug/",
-    "upvotes": 15,
-    "author": "ndesaulniers",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29395590"
-  },
-  {
-    "title": "AWS Nitro SSD – High Performance Storage for Your I/O-Intensive Applications",
-    "url": "https://aws.amazon.com/blogs/aws/aws-nitro-ssd-high-performance-storage-for-your-i-o-intensive-applications/",
-    "upvotes": 53,
-    "author": "Trisell",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=29396198"
-  },
-  {
     "title": "Overdue library book returned more than 110 years later",
     "url": "https://www.nbcnews.com/news/us-news/overdue-book-returned-anonymously-idaho-library-111-years-later-rcna6856",
-    "upvotes": 84,
+    "upvotes": 98,
     "author": "MilnerRoute",
-    "comments": 17,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=29375287"
   },
   {
     "title": "Every pricing page should have GIFs",
     "url": "https://tdinh.notion.site/Every-pricing-page-should-have-GIFs-e74d6d363d4c4d33b5ff754452f7ab96",
-    "upvotes": 326,
+    "upvotes": 336,
     "author": "trungdq88",
-    "comments": 183,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=29348328"
+  },
+  {
+    "title": "AWS Nitro SSD – High Performance Storage for Your I/O-Intensive Applications",
+    "url": "https://aws.amazon.com/blogs/aws/aws-nitro-ssd-high-performance-storage-for-your-i-o-intensive-applications/",
+    "upvotes": 57,
+    "author": "Trisell",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=29396198"
   },
   {
     "title": "What impossible meant to Richard Feynman",
     "url": "https://nautil.us/issue/108/change/what-impossible-meant-to-richard-feynman",
-    "upvotes": 244,
+    "upvotes": 254,
     "author": "dnetesn",
-    "comments": 97,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=29392021"
   },
   {
-    "title": "New research links potentially toxic fat-protein complexes to Alzheimer's",
-    "url": "https://www.medicalnewstoday.com/articles/likely-cause-of-alzheimers-identified-in-new-study",
-    "upvotes": 100,
-    "author": "echelon",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=29393937"
+    "title": "Design Issues for Foreign Function Interfaces",
+    "url": "http://web.archive.org/web/20170315194527/http://autocad.xarch.at/lisp/ffis.html",
+    "upvotes": 36,
+    "author": "metagame",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29389241"
+  },
+  {
+    "title": "Reducing an LTO Linux kernel bug with cvise",
+    "url": "https://nathanchance.dev/posts/cvise-lto-kernel-bug/",
+    "upvotes": 18,
+    "author": "ndesaulniers",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29395590"
   },
   {
     "title": "A Case for Asynchronous Computer Architecture",
     "url": "http://avlsi.csl.yale.edu/~rajit/abstracts/async-case.html",
-    "upvotes": 35,
+    "upvotes": 40,
     "author": "mahami",
-    "comments": 25,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=29366614"
   },
   {
     "title": "Expanding our private information policy to include media",
     "url": "https://blog.twitter.com/en_us/topics/company/2021/private-information-policy-update",
-    "upvotes": 57,
+    "upvotes": 63,
     "author": "ibejoeb",
-    "comments": 62,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=29392314"
   },
   {
     "title": "Twitter has a new CEO – what about a new business model?",
     "url": "https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/",
-    "upvotes": 150,
+    "upvotes": 156,
     "author": "oedmarap",
-    "comments": 201,
+    "comments": 208,
     "link": "https://news.ycombinator.com/item?id=29391876"
+  },
+  {
+    "title": "AWS Outposts",
+    "url": "https://aws.amazon.com/blogs/aws/new-aws-outposts-servers-in-two-form-factors/",
+    "upvotes": 29,
+    "author": "psim1",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=29397235"
   },
   {
     "title": "The Fibonacci Sequence as a Functor",
     "url": "https://www.math3ma.com/blog/fibonacci-sequence",
-    "upvotes": 37,
+    "upvotes": 41,
     "author": "poetically",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29366522"
+  },
+  {
+    "title": "New research links potentially toxic fat-protein complexes to Alzheimer's",
+    "url": "https://www.medicalnewstoday.com/articles/likely-cause-of-alzheimers-identified-in-new-study",
+    "upvotes": 115,
+    "author": "echelon",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=29393937"
   },
   {
     "title": "Moving Castles: Modular and Portable Multiplayer Miniverses",
     "url": "https://trust.support/feed/moving-castles",
-    "upvotes": 29,
+    "upvotes": 33,
     "author": "Kinrany",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29396749"
   },
   {
-    "title": "AWS Outposts",
-    "url": "https://aws.amazon.com/blogs/aws/new-aws-outposts-servers-in-two-form-factors/",
-    "upvotes": 22,
-    "author": "psim1",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29397235"
-  },
-  {
-    "title": "Searchable flight logs from Jeffrey Epstein’s plane",
-    "url": "https://epstein.flights/",
-    "upvotes": 121,
-    "author": "bananapear",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=29398396"
-  },
-  {
     "title": "The US C-Band Spectrum Saga, Explained",
     "url": "https://payloadspace.com/the-us-c-band-spectrum-saga-explained/",
-    "upvotes": 29,
+    "upvotes": 32,
     "author": "aml183",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29396376"
   },
   {
     "title": "Event Sourcing Is Hard",
     "url": "https://chriskiehl.com/article/event-sourcing-is-hard",
-    "upvotes": 260,
+    "upvotes": 265,
     "author": "swyx",
-    "comments": 105,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=29390483"
-  },
-  {
-    "title": "Ask HN: Integrate Software Solution with Competitor's?",
-    "url": "item?id=29367281",
-    "upvotes": 26,
-    "author": "temp088773",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=29367281"
   },
   {
     "title": "U.K. regulators order Meta to sell Giphy",
     "url": "https://www.axios.com/uk-regulators-order-facebook-meta-giphy-sale-457ccd20-f28e-4631-a508-a88639b1b121.html",
-    "upvotes": 362,
+    "upvotes": 367,
     "author": "jeremylevy",
-    "comments": 360,
+    "comments": 366,
     "link": "https://news.ycombinator.com/item?id=29391726"
   },
   {
-    "title": "The Party Math Trick",
-    "url": "https://sambernheim.com/blog/the-party-math-trick",
-    "upvotes": 40,
-    "author": "bern4444",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=29366687"
-  },
-  {
-    "title": "PeerTube 4 RC",
-    "url": "https://framablog.org/2021/11/30/peertube-v4-more-power-to-help-you-present-your-videos/",
-    "upvotes": 252,
-    "author": "booteille",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=29390312"
+    "title": "Ask HN: Integrate Software Solution with Competitor's?",
+    "url": "item?id=29367281",
+    "upvotes": 28,
+    "author": "temp088773",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=29367281"
   }
 ]
