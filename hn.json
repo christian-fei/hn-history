@@ -1,51 +1,59 @@
 [
   {
-    "title": "Magnus Carlsen wins longest world chess championship game of all time",
-    "url": "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-6",
-    "upvotes": 148,
-    "author": "Moodles",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=29434818"
-  },
-  {
     "title": "U.S. State Department phones hacked with Israeli company spyware",
     "url": "https://www.reuters.com/technology/exclusive-us-state-department-phones-hacked-with-israeli-company-spyware-sources-2021-12-03/",
-    "upvotes": 581,
+    "upvotes": 615,
     "author": "amadeuspagel",
-    "comments": 243,
+    "comments": 261,
     "link": "https://news.ycombinator.com/item?id=29432276"
   },
   {
     "title": "Germany: New government plans 'right to encryption'",
     "url": "https://tutanota.com/blog/posts/germany-right-to-encryption/",
-    "upvotes": 310,
+    "upvotes": 360,
     "author": "Audiophilip",
-    "comments": 90,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=29433262"
+  },
+  {
+    "title": "Rclone: Rsync for cloud storage – CLI to sync between cloud storage providers",
+    "url": "https://github.com/rclone/rclone",
+    "upvotes": 35,
+    "author": "gilad",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29435760"
+  },
+  {
+    "title": "The U.S. productivity slowdown: an economy-wide and industry-level analysis",
+    "url": "https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm",
+    "upvotes": 53,
+    "author": "rsj_hn",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=29434150"
   },
   {
     "title": "Lego has designed a set that can't be taken apart",
     "url": "https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart",
-    "upvotes": 482,
+    "upvotes": 499,
     "author": "brycehalley",
-    "comments": 309,
+    "comments": 314,
     "link": "https://news.ycombinator.com/item?id=29429964"
   },
   {
     "title": "Blender 3.0",
     "url": "https://www.blender.org/download/releases/3-0/",
-    "upvotes": 371,
+    "upvotes": 403,
     "author": "marcodiego",
-    "comments": 131,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=29430498"
   },
   {
-    "title": "The U.S. productivity slowdown: an economy-wide and industry-level analysis",
-    "url": "https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm",
-    "upvotes": 34,
-    "author": "rsj_hn",
+    "title": "AWS Amplify Studio: Figma design to full-stack apps",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/",
+    "upvotes": 38,
+    "author": "revskill",
     "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29434150"
+    "link": "https://news.ycombinator.com/item?id=29427883"
   },
   {
     "title": "BuildZoom",
@@ -54,185 +62,177 @@
   {
     "title": "Where is the CRDT for syntax trees",
     "url": "https://writer.zohopublic.com/writer/published/grcwy5c699d67b9c444219b60cdb90ccbabc7",
-    "upvotes": 53,
+    "upvotes": 64,
     "author": "lewisjoe",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=29433896"
-  },
-  {
-    "title": "William Cook has died",
-    "url": "https://mjtsai.com/blog/2021/12/02/william-cook-rip/",
-    "upvotes": 56,
-    "author": "ksec",
     "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=29433833"
+    "link": "https://news.ycombinator.com/item?id=29433896"
   },
   {
     "title": "Pg_GraphQL: A GraphQL Extension for PostgreSQL",
     "url": "https://supabase.com/blog/2021/12/03/pg-graphql",
-    "upvotes": 296,
+    "upvotes": 310,
     "author": "samwillis",
     "comments": 81,
     "link": "https://news.ycombinator.com/item?id=29430720"
   },
   {
-    "title": "Privacy.com Reissuing All Cards",
-    "url": "https://support.privacy.com/hc/en-us/categories/4414487825559-Privacy-Cards-Update-12-2021",
-    "upvotes": 88,
-    "author": "AdamJacobMuller",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=29432683"
+    "title": "William Cook has died",
+    "url": "https://mjtsai.com/blog/2021/12/02/william-cook-rip/",
+    "upvotes": 60,
+    "author": "ksec",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=29433833"
   },
   {
-    "title": "Never Use Black",
-    "url": "https://ianstormtaylor.com/design-tip-never-use-black/",
-    "upvotes": 213,
-    "author": "josephwegner",
-    "comments": 146,
-    "link": "https://news.ycombinator.com/item?id=29430288"
+    "title": "Privacy.com Reissuing All Cards",
+    "url": "https://support.privacy.com/hc/en-us/categories/4414487825559-Privacy-Cards-Update-12-2021",
+    "upvotes": 97,
+    "author": "AdamJacobMuller",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=29432683"
   },
   {
     "title": "Common Infrastructure Errors I've Made",
     "url": "https://matduggan.com/mistakes/",
-    "upvotes": 20,
+    "upvotes": 32,
     "author": "eandre",
-    "comments": 7,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=29434740"
-  },
-  {
-    "title": "YouTube deleting comments who criticize their hiding of the dislike count",
-    "url": "https://www.youtube.com/watch?v=43wp_EUk2ho",
-    "upvotes": 127,
-    "author": "jafitc",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=29434344"
-  },
-  {
-    "title": "Reality has a surprising amount of detail",
-    "url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-    "upvotes": 216,
-    "author": "jger15",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=29429385"
-  },
-  {
-    "title": "Writing maintainable code is a communication skill",
-    "url": "https://max.engineer/maintainable-code",
-    "upvotes": 184,
-    "author": "hakunin",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=29396515"
   },
   {
     "title": "Zinc Search engine. A lightweight alternative to Elasticsearch written in Go",
     "url": "https://github.com/prabhatsharma/zinc",
-    "upvotes": 19,
+    "upvotes": 34,
     "author": "techplex",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29434097"
+  },
+  {
+    "title": "YouTube deleting comments who criticize their hiding of the dislike count",
+    "url": "https://www.youtube.com/watch?v=43wp_EUk2ho",
+    "upvotes": 195,
+    "author": "jafitc",
+    "comments": 130,
+    "link": "https://news.ycombinator.com/item?id=29434344"
+  },
+  {
+    "title": "Never Use Black",
+    "url": "https://ianstormtaylor.com/design-tip-never-use-black/",
+    "upvotes": 222,
+    "author": "josephwegner",
+    "comments": 153,
+    "link": "https://news.ycombinator.com/item?id=29430288"
+  },
+  {
+    "title": "Magnus Carlsen wins longest world chess championship game of all time",
+    "url": "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-6",
+    "upvotes": 186,
+    "author": "Moodles",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=29434818"
+  },
+  {
+    "title": "Reality has a surprising amount of detail",
+    "url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+    "upvotes": 218,
+    "author": "jger15",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=29429385"
   },
   {
     "title": "There oughta be a Blender plugin to animate growth",
     "url": "https://there.oughta.be/a/blender-plugin-to-animate-growth",
-    "upvotes": 69,
+    "upvotes": 80,
     "author": "zdw",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29396073"
   },
   {
-    "title": "Game “While true: learn",
-    "url": "https://www.epicgames.com/store/en-US/p/while-true-learn",
-    "upvotes": 31,
-    "author": "freemint",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=29433797"
+    "title": "Writing maintainable code is a communication skill",
+    "url": "https://max.engineer/maintainable-code",
+    "upvotes": 194,
+    "author": "hakunin",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=29396515"
   },
   {
     "title": "Rusty Typestates – Starting Out",
     "url": "https://rustype.github.io/notes/notes/rust-typestate-series/rust-typestate-part-1.html",
-    "upvotes": 24,
+    "upvotes": 29,
     "author": "42jd",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29433957"
-  },
-  {
-    "title": "AWS Amplify Studio: Figma design to full-stack apps",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/",
-    "upvotes": 7,
-    "author": "revskill",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29427883"
-  },
-  {
-    "title": "The Deadlock Empire",
-    "url": "https://deadlockempire.github.io/",
-    "upvotes": 68,
-    "author": "jasonpeacock",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29431308"
-  },
-  {
-    "title": "DuckDB quacks Arrow: A zero-copy data integration between Arrow and DuckDB",
-    "url": "https://duckdb.org/2021/12/03/duck-arrow.html",
-    "upvotes": 37,
-    "author": "hfmuehleisen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29433941"
   },
   {
     "title": "The Surprising Cost of Protocol Conformances in Swift",
     "url": "https://www.emergetools.com/blog/posts/SwiftProtocolConformance",
-    "upvotes": 13,
+    "upvotes": 18,
     "author": "sond813",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29419349"
   },
   {
+    "title": "DuckDB quacks Arrow: A zero-copy data integration between Arrow and DuckDB",
+    "url": "https://duckdb.org/2021/12/03/duck-arrow.html",
+    "upvotes": 43,
+    "author": "hfmuehleisen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29433941"
+  },
+  {
+    "title": "The Deadlock Empire",
+    "url": "https://deadlockempire.github.io/",
+    "upvotes": 69,
+    "author": "jasonpeacock",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=29431308"
+  },
+  {
     "title": "Show HN: I had some time yesterday so I made a GPT3 podcast to help you sleep",
     "url": "https://anchor.fm/deepdreams",
-    "upvotes": 178,
+    "upvotes": 184,
     "author": "stavros",
-    "comments": 123,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=29428910"
+  },
+  {
+    "title": "Metaphors we learn to program by",
+    "url": "http://evanlh.com/posts/metaphors/",
+    "upvotes": 27,
+    "author": "evanlh",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29406615"
   },
   {
     "title": "GraphpostgresQL: A GraphQL Extension for PostgreSQL",
     "url": "https://github.com/solidsnack/GraphpostgresQL",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "laurenceisla",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29432136"
   },
   {
-    "title": "Metaphors we learn to program by",
-    "url": "http://evanlh.com/posts/metaphors/",
-    "upvotes": 24,
-    "author": "evanlh",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29406615"
+    "title": "Drinking year-old eggnog to put science to the test",
+    "url": "https://chicagoreader.com/blogs/drinking-year-old-eggnog-to-put-science-to-the-test/",
+    "upvotes": 33,
+    "author": "nielsbot",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=29432257"
   },
   {
     "title": "Show HN: A tool to build real websites built exclusively in SVG",
     "url": "https://svija.love",
-    "upvotes": 128,
+    "upvotes": 134,
     "author": "AndrewSwift",
-    "comments": 125,
+    "comments": 129,
     "link": "https://news.ycombinator.com/item?id=29430368"
   },
   {
-    "title": "Drinking year-old eggnog to put science to the test",
-    "url": "https://chicagoreader.com/blogs/drinking-year-old-eggnog-to-put-science-to-the-test/",
-    "upvotes": 28,
-    "author": "nielsbot",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=29432257"
-  },
-  {
-    "title": "An alarming trend in K-12 math education: a guest post and an open letter",
-    "url": "https://scottaaronson.blog/?p=6146",
-    "upvotes": 204,
-    "author": "feross",
-    "comments": 339,
-    "link": "https://news.ycombinator.com/item?id=29432816"
+    "title": "How to rest well",
+    "url": "https://psyche.co/guides/how-to-rest-well-and-enjoy-a-more-creative-sustainable-life",
+    "upvotes": 286,
+    "author": "rognjen",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=29413754"
   }
 ]
