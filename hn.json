@@ -2,182 +2,230 @@
   {
     "title": "Apache Guacamole",
     "url": "https://guacamole.apache.org/",
-    "upvotes": 196,
+    "upvotes": 226,
     "author": "WallyFunk",
-    "comments": 52,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=29442643"
   },
   {
     "title": "The ruby HTML Element",
     "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby",
-    "upvotes": 61,
+    "upvotes": 73,
     "author": "alin23",
-    "comments": 18,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=29441857"
+  },
+  {
+    "title": "ZSH Completions How To",
+    "url": "https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org",
+    "upvotes": 33,
+    "author": "ossusermivami",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29443334"
   },
   {
     "title": "ADSL works over wet string",
     "url": "https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html",
-    "upvotes": 284,
+    "upvotes": 294,
     "author": "mgliwka",
-    "comments": 88,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=29440681"
   },
   {
     "title": "How to Use Dig",
     "url": "https://jvns.ca/blog/2021/12/04/how-to-use-dig/",
-    "upvotes": 174,
+    "upvotes": 183,
     "author": "mfrw",
-    "comments": 56,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=29441333"
-  },
-  {
-    "title": "ZSH Completions How To",
-    "url": "https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org",
-    "upvotes": 24,
-    "author": "ossusermivami",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29443334"
   },
   {
     "title": "Cool URIs Don't Change",
     "url": "https://www.w3.org/Provider/Style/URI",
-    "upvotes": 31,
+    "upvotes": 44,
     "author": "bpierre",
-    "comments": 7,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=29442818"
+  },
+  {
+    "title": "“coding is basically just ifs and for loops.”",
+    "url": "https://twitter.com/ID_AA_Carmack/status/1466934223831506951",
+    "upvotes": 138,
+    "author": "x43b",
+    "comments": 136,
+    "link": "https://news.ycombinator.com/item?id=29442307"
   },
   {
     "title": "The Field of Longevity Biotech Is a Mess",
     "url": "https://psblab.org/?p=697",
-    "upvotes": 104,
+    "upvotes": 114,
     "author": "deegles",
-    "comments": 61,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=29441252"
   },
   {
     "title": "Three Ways to Debug Code in Elixir",
     "url": "https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html",
-    "upvotes": 81,
+    "upvotes": 86,
     "author": "clessg",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29441653"
-  },
-  {
-    "title": "“coding is basically just ifs and for loops.”",
-    "url": "https://twitter.com/ID_AA_Carmack/status/1466934223831506951",
-    "upvotes": 116,
-    "author": "x43b",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=29442307"
   },
   {
     "title": "Is the big tech era ending?",
     "url": "https://wyclif.substack.com/p/is-the-big-tech-era-ending",
-    "upvotes": 178,
+    "upvotes": 181,
     "author": "dash2",
-    "comments": 229,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=29440394"
   },
   {
     "title": "On Hubris and Humility: developing an OS for robustness in Rust [video]",
     "url": "https://talks.osfc.io/osfc2021/talk/JTWYEH/",
-    "upvotes": 27,
+    "upvotes": 31,
     "author": "dralley",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29442626"
+  },
+  {
+    "title": "LLVM internals, part 4: attributes and attribute groups",
+    "url": "https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attribute-groups",
+    "upvotes": 82,
+    "author": "lukastyrychtr",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29441392"
   },
   {
     "title": "Meticulous (YC S21) Is Hiring #2 Founding Engineer in London",
     "url": "item?id=29442154"
   },
   {
-    "title": "LLVM internals, part 4: attributes and attribute groups",
-    "url": "https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attribute-groups",
-    "upvotes": 78,
-    "author": "lukastyrychtr",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29441392"
-  },
-  {
-    "title": "Show HN: I wrote a book about using Lambda with Go",
-    "url": "item?id=29441272",
-    "upvotes": 68,
-    "author": "kevinmcconnell",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=29441272"
-  },
-  {
     "title": "Writing and publishing a Python module in Rust",
     "url": "https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust",
-    "upvotes": 46,
+    "upvotes": 51,
     "author": "pcr910303",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29441840"
   },
   {
-    "title": "Super Pyxelate converts images to 8-bit pixel art",
-    "url": "https://github.com/sedthh/pyxelate",
-    "upvotes": 6,
-    "author": "minimaxir",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29443721"
+    "title": "Show HN: I wrote a book about using Lambda with Go",
+    "url": "item?id=29441272",
+    "upvotes": 72,
+    "author": "kevinmcconnell",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=29441272"
   },
   {
     "title": "Knowledge Representation in Sanskrit and Artificial Intelligence",
     "url": "https://ojs.aaai.org//index.php/aimagazine/article/view/466",
-    "upvotes": 28,
+    "upvotes": 32,
     "author": "hedgehog0",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=29442582"
   },
   {
+    "title": "Super Pyxelate converts images to 8-bit pixel art",
+    "url": "https://github.com/sedthh/pyxelate",
+    "upvotes": 10,
+    "author": "minimaxir",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29443721"
+  },
+  {
     "title": "FirefoxPWA: Progressive Web Apps for Firefox",
     "url": "https://github.com/filips123/FirefoxPWA",
-    "upvotes": 179,
+    "upvotes": 181,
     "author": "1_player",
-    "comments": 84,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=29440225"
   },
   {
     "title": "Clavis Artis by “Zoroaster”",
     "url": "https://publicdomainreview.org/collection/clavis-artis/",
-    "upvotes": 12,
+    "upvotes": 14,
     "author": "prismatic",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29413090"
   },
   {
-    "title": "Bosch gives go-ahead for volume production of silicon carbide chips",
-    "url": "https://www.bosch-presse.de/pressportal/de/en/longer-range-as-standard-bosch-gives-go-ahead-for-volume-production-of-silicon-carbide-chips-235722.html",
-    "upvotes": 212,
-    "author": "Tomte",
-    "comments": 211,
-    "link": "https://news.ycombinator.com/item?id=29415518"
-  },
-  {
     "title": "Show HN: Unikraft Cloud Platform: Unikernels-as-a-Service",
     "url": "https://unikraft.io/",
-    "upvotes": 8,
+    "upvotes": 11,
     "author": "nderjung",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29428208"
   },
   {
+    "title": "Bosch gives go-ahead for volume production of silicon carbide chips",
+    "url": "https://www.bosch-presse.de/pressportal/de/en/longer-range-as-standard-bosch-gives-go-ahead-for-volume-production-of-silicon-carbide-chips-235722.html",
+    "upvotes": 213,
+    "author": "Tomte",
+    "comments": 213,
+    "link": "https://news.ycombinator.com/item?id=29415518"
+  },
+  {
     "title": "Do we really need undefined behavior?",
     "url": "https://www.ralfj.de/blog/2021/11/24/ub-necessary.html",
-    "upvotes": 32,
+    "upvotes": 39,
     "author": "ibraheemdev",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29435263"
+  },
+  {
+    "title": "Black couple ‘erases themselves’ from their home, its value goes up by $500k",
+    "url": "https://www.sfchronicle.com/bayarea/article/Black-Marin-City-couple-sues-appraiser-for-16672840.php",
+    "upvotes": 68,
+    "author": "enraged_camel",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=29443430"
   },
   {
     "title": "Who is the most accurate world chess champion?",
     "url": "https://lichess.org/blog/YafSBxEAACIAr0ZA/exact-exacting-who-is-the-most-accurate-world-champion",
-    "upvotes": 137,
+    "upvotes": 139,
     "author": "piotrgrudzien",
-    "comments": 44,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=29414065"
+  },
+  {
+    "title": "The FAANG Market Is Fading",
+    "url": "https://www.morningstar.com/articles/1070180/the-faang-market-is-fading",
+    "upvotes": 62,
+    "author": "woldemariam",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=29441866"
+  },
+  {
+    "title": "‘So Long’ from King Naimbanna II – Manuscripts from an 18th Century African King",
+    "url": "https://blogs.bl.uk/untoldlives/2021/11/so-long-from-king-naimbanna-ii-manuscripts-from-an-18th-century-african-king.html",
+    "upvotes": 15,
+    "author": "diodorus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29426673"
+  },
+  {
+    "title": "It's December and it hasn't snowed in Denver yet. That's never been recorded",
+    "url": "https://lite.cnn.com/en/article/h_7f69495d740ab8ce6728ce5646752faa",
+    "upvotes": 43,
+    "author": "LinuxBender",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=29443103"
+  },
+  {
+    "title": "Ask HN: Dependency Graphs for Cloud Services?",
+    "url": "item?id=29443137",
+    "upvotes": 20,
+    "author": "machinerychorus",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29443137"
+  },
+  {
+    "title": "Web Workers API",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API",
+    "upvotes": 81,
+    "author": "KubikPixel",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=29427959"
   },
   {
     "title": "A no-reload HTML/CSS/JS playground with instant editor / output sync",
@@ -186,53 +234,5 @@
     "author": "cetinsert",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29441265"
-  },
-  {
-    "title": "The FAANG Market Is Fading",
-    "url": "https://www.morningstar.com/articles/1070180/the-faang-market-is-fading",
-    "upvotes": 56,
-    "author": "woldemariam",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=29441866"
-  },
-  {
-    "title": "Ask HN: Dependency Graphs for Cloud Services?",
-    "url": "item?id=29443137",
-    "upvotes": 18,
-    "author": "machinerychorus",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29443137"
-  },
-  {
-    "title": "It's December and it hasn't snowed in Denver yet. That's never been recorded",
-    "url": "https://lite.cnn.com/en/article/h_7f69495d740ab8ce6728ce5646752faa",
-    "upvotes": 35,
-    "author": "LinuxBender",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29443103"
-  },
-  {
-    "title": "‘So Long’ from King Naimbanna II – Manuscripts from an 18th Century African King",
-    "url": "https://blogs.bl.uk/untoldlives/2021/11/so-long-from-king-naimbanna-ii-manuscripts-from-an-18th-century-african-king.html",
-    "upvotes": 13,
-    "author": "diodorus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29426673"
-  },
-  {
-    "title": "Web Workers API",
-    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API",
-    "upvotes": 79,
-    "author": "KubikPixel",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=29427959"
-  },
-  {
-    "title": "Tempera’s pleasing properties is how egg yolk interacts with pigment",
-    "url": "https://arstechnica.com/science/2021/12/recreating-15th-century-tempera-recipes-tells-us-more-about-their-molecular-chemistry/",
-    "upvotes": 16,
-    "author": "vo2maxer",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29428829"
   }
 ]
