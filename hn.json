@@ -1,32 +1,56 @@
 [
   {
+    "title": "All Horses Are the Same Color",
+    "url": "https://jeremykun.com/2011/07/16/false-proof-all-horses-are-the-same-color/",
+    "upvotes": 19,
+    "author": "poetically",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29445013"
+  },
+  {
     "title": "In 1930 the Indiana Bell building was rotated 90°",
     "url": "https://twitter.com/splattne/status/1373698826880614402",
-    "upvotes": 37,
+    "upvotes": 53,
     "author": "weinzierl",
-    "comments": 7,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=29441670"
+  },
+  {
+    "title": "Graviton2 and Graviton3",
+    "url": "http://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html",
+    "upvotes": 18,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29444746"
+  },
+  {
+    "title": "Threepp: A C++17 Port of Three.js",
+    "url": "https://github.com/markaren/threepp",
+    "upvotes": 10,
+    "author": "10000truths",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29445068"
   },
   {
     "title": "The ruby HTML Element",
     "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby",
-    "upvotes": 111,
+    "upvotes": 118,
     "author": "alin23",
-    "comments": 34,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=29441857"
   },
   {
     "title": "ZSH Completions How To",
     "url": "https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org",
-    "upvotes": 69,
+    "upvotes": 72,
     "author": "ossusermivami",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=29443334"
   },
   {
     "title": "ADSL works over wet string",
     "url": "https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html",
-    "upvotes": 332,
+    "upvotes": 337,
     "author": "mgliwka",
     "comments": 110,
     "link": "https://news.ycombinator.com/item?id=29440681"
@@ -34,41 +58,25 @@
   {
     "title": "The team that powers VLC",
     "url": "https://increment.com/teams/the-team-that-powers-vlc/",
-    "upvotes": 61,
+    "upvotes": 69,
     "author": "feross",
-    "comments": 19,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=29443411"
-  },
-  {
-    "title": "Vegetable Oil for Lubricating Chainsaws",
-    "url": "https://www.fs.fed.us/eng/pubs/html/98511316/98511316.html",
-    "upvotes": 32,
-    "author": "meristohm",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=29444485"
   },
   {
     "title": "How to Use Dig",
     "url": "https://jvns.ca/blog/2021/12/04/how-to-use-dig/",
-    "upvotes": 217,
+    "upvotes": 220,
     "author": "mfrw",
-    "comments": 63,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=29441333"
-  },
-  {
-    "title": "Cool URIs Don't Change",
-    "url": "https://www.w3.org/Provider/Style/URI",
-    "upvotes": 93,
-    "author": "bpierre",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=29442818"
   },
   {
     "title": "Super Pyxelate converts images to 8-bit pixel art",
     "url": "https://github.com/sedthh/pyxelate",
-    "upvotes": 49,
+    "upvotes": 52,
     "author": "minimaxir",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=29443721"
   },
   {
@@ -76,163 +84,155 @@
     "url": "https://onesignal.com/careers"
   },
   {
-    "title": "Why punish a scientist for defending science?",
-    "url": "https://www.spectator.co.uk/article/why-punish-a-scientist-for-defending-science-",
-    "upvotes": 17,
-    "author": "EvgeniyZh",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=29441050"
-  },
-  {
-    "title": "On Hubris and Humility: developing an OS for robustness in Rust [video]",
-    "url": "https://talks.osfc.io/osfc2021/talk/JTWYEH/",
-    "upvotes": 66,
-    "author": "dralley",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=29442626"
+    "title": "Cool URIs Don't Change",
+    "url": "https://www.w3.org/Provider/Style/URI",
+    "upvotes": 100,
+    "author": "bpierre",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=29442818"
   },
   {
     "title": "“Coding is basically just ifs and for loops.”",
     "url": "https://twitter.com/ID_AA_Carmack/status/1466934223831506951",
-    "upvotes": 278,
+    "upvotes": 290,
     "author": "x43b",
-    "comments": 236,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=29442307"
+  },
+  {
+    "title": "On Hubris and Humility: developing an OS for robustness in Rust [video]",
+    "url": "https://talks.osfc.io/osfc2021/talk/JTWYEH/",
+    "upvotes": 70,
+    "author": "dralley",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=29442626"
   },
   {
     "title": "Apache Guacamole",
     "url": "https://guacamole.apache.org/",
-    "upvotes": 385,
+    "upvotes": 392,
     "author": "WallyFunk",
-    "comments": 85,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=29442643"
-  },
-  {
-    "title": "My Path to Magma",
-    "url": "https://blainehansen.me/post/my-path-to-magma/",
-    "upvotes": 12,
-    "author": "lukastyrychtr",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29444393"
-  },
-  {
-    "title": "All Horses Are the Same Color",
-    "url": "https://jeremykun.com/2011/07/16/false-proof-all-horses-are-the-same-color/",
-    "upvotes": 4,
-    "author": "poetically",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29445013"
   },
   {
     "title": "The Field of Longevity Biotech Is a Mess",
     "url": "https://psblab.org/?p=697",
-    "upvotes": 140,
+    "upvotes": 142,
     "author": "deegles",
-    "comments": 97,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=29441252"
-  },
-  {
-    "title": "Forced to settle for a nonideal job? Here’s how to make the most of it",
-    "url": "https://www.science.org/content/article/forced-settle-nonideal-job-here-s-how-make-most-it",
-    "upvotes": 19,
-    "author": "Lwepz",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29444070"
   },
   {
     "title": "Is the big tech era ending?",
     "url": "https://wyclif.substack.com/p/is-the-big-tech-era-ending",
     "upvotes": 209,
     "author": "dash2",
-    "comments": 279,
+    "comments": 284,
     "link": "https://news.ycombinator.com/item?id=29440394"
+  },
+  {
+    "title": "Forced to settle for a nonideal job? Here’s how to make the most of it",
+    "url": "https://www.science.org/content/article/forced-settle-nonideal-job-here-s-how-make-most-it",
+    "upvotes": 20,
+    "author": "Lwepz",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29444070"
+  },
+  {
+    "title": "My Path to Magma",
+    "url": "https://blainehansen.me/post/my-path-to-magma/",
+    "upvotes": 13,
+    "author": "lukastyrychtr",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29444393"
   },
   {
     "title": "Three Ways to Debug Code in Elixir",
     "url": "https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html",
     "upvotes": 104,
     "author": "clessg",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29441653"
   },
   {
     "title": "Writing and publishing a Python module in Rust",
     "url": "https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust",
-    "upvotes": 79,
+    "upvotes": 80,
     "author": "pcr910303",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29441840"
   },
   {
-    "title": "Tshwane District Omicron Variant Patient Profile – Early Features",
-    "url": "https://www.samrc.ac.za/news/tshwane-district-omicron-variant-patient-profile-early-features",
-    "upvotes": 64,
-    "author": "pama",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=29441651"
-  },
-  {
     "title": "Don't Make My Mistakes: Common Infrastructure Errors I've Made",
     "url": "https://matduggan.com/mistakes/",
-    "upvotes": 14,
+    "upvotes": 17,
     "author": "todsacerdoti",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29429047"
   },
   {
+    "title": "Tshwane District Omicron Variant Patient Profile – Early Features",
+    "url": "https://www.samrc.ac.za/news/tshwane-district-omicron-variant-patient-profile-early-features",
+    "upvotes": 65,
+    "author": "pama",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=29441651"
+  },
+  {
+    "title": "England mortality data suggest systematic mis-categorisation of vaccine status",
+    "url": "https://www.researchgate.net/publication/356756711_Latest_statistics_on_England_mortality_data_suggest_systematic_mis-categorisation_of_vaccine_status_and_uncertain_effectiveness_of_Covid-19_vaccination",
+    "upvotes": 10,
+    "author": "walterbell",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29445128"
+  },
+  {
     "title": "LLVM internals, part 4: attributes and attribute groups",
     "url": "https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attribute-groups",
-    "upvotes": 92,
+    "upvotes": 94,
     "author": "lukastyrychtr",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29441392"
   },
   {
-    "title": "FirefoxPWA: Progressive Web Apps for Firefox",
-    "url": "https://github.com/filips123/FirefoxPWA",
-    "upvotes": 201,
-    "author": "1_player",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=29440225"
-  },
-  {
-    "title": "Phone Utility on VAX/VMS",
-    "url": "https://marc.vos.net/books/vms/help/phone/",
-    "upvotes": 15,
-    "author": "aleks224",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29415213"
+    "title": "Vegetable Oil for Lubricating Chainsaws",
+    "url": "https://www.fs.fed.us/eng/pubs/html/98511316/98511316.html",
+    "upvotes": 34,
+    "author": "meristohm",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=29444485"
   },
   {
     "title": "Don't send your Google phone in for warranty repair/replacement",
     "url": "https://twitter.com/avantgame/status/1467192779973398531",
-    "upvotes": 132,
+    "upvotes": 149,
     "author": "powera",
-    "comments": 48,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=29443645"
   },
   {
-    "title": "Graviton2 and Graviton3",
-    "url": "http://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html",
-    "upvotes": 4,
-    "author": "ingve",
+    "title": "Believability in Practice",
+    "url": "https://commoncog.com/blog/believability-in-practice/",
+    "upvotes": 5,
+    "author": "jger15",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29444746"
+    "link": "https://news.ycombinator.com/item?id=29429213"
+  },
+  {
+    "title": "FirefoxPWA: Progressive Web Apps for Firefox",
+    "url": "https://github.com/filips123/FirefoxPWA",
+    "upvotes": 202,
+    "author": "1_player",
+    "comments": 112,
+    "link": "https://news.ycombinator.com/item?id=29440225"
   },
   {
     "title": "Show HN: I wrote a book about using Lambda with Go",
     "url": "item?id=29441272",
-    "upvotes": 82,
+    "upvotes": 83,
     "author": "kevinmcconnell",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=29441272"
-  },
-  {
-    "title": "Show HN: Unikraft Cloud Platform: Unikernels-as-a-Service",
-    "url": "https://unikraft.io/",
-    "upvotes": 22,
-    "author": "nderjung",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29428208"
   }
 ]
