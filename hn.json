@@ -2,39 +2,39 @@
   {
     "title": "You click a link to a news site, to read an article that seems interesting",
     "url": "https://mastodon.technology/@rysiek/107390725207653910",
-    "upvotes": 121,
+    "upvotes": 141,
     "author": "dredmorbius",
-    "comments": 105,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=29454289"
   },
   {
     "title": "Crohn’s Disease: Is the Cold Chain Hypothesis Still Hot?",
     "url": "https://academic.oup.com/ecco-jcc/article/15/4/678/5908865",
-    "upvotes": 177,
+    "upvotes": 182,
     "author": "fnord77",
-    "comments": 167,
+    "comments": 178,
     "link": "https://news.ycombinator.com/item?id=29453808"
   },
   {
     "title": "Amazon is bypassing supply chain chaos with chartered ships and long-haul planes",
     "url": "https://www.cnbc.com/2021/12/04/how-amazon-beats-supply-chain-chaos-with-ships-and-long-haul-planes.html",
-    "upvotes": 367,
+    "upvotes": 376,
     "author": "thunderbong",
-    "comments": 324,
+    "comments": 328,
     "link": "https://news.ycombinator.com/item?id=29450420"
   },
   {
     "title": "Analog Devices Expands over 1000 Linux Device Drivers to Support Development",
     "url": "https://www.analog.com/en/about-adi/news-room/press-releases/2021/11-30-2021-analog-devices-expands-linux-distribution.html",
-    "upvotes": 65,
+    "upvotes": 70,
     "author": "teleforce",
-    "comments": 25,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29454227"
   },
   {
     "title": "WhatsApp has removed answer to “how do I choose not to share data with FB”",
     "url": "https://faq.whatsapp.com/general/26000016",
-    "upvotes": 183,
+    "upvotes": 206,
     "author": "behnamoh",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=29454893"
@@ -42,7 +42,7 @@
   {
     "title": "Zrythm: A highly automated and intuitive digital audio workstation",
     "url": "https://www.zrythm.org/en/index.html",
-    "upvotes": 329,
+    "upvotes": 332,
     "author": "Tomte",
     "comments": 105,
     "link": "https://news.ycombinator.com/item?id=29450212"
@@ -50,59 +50,67 @@
   {
     "title": "Tips on adding JSON output to your CLI app",
     "url": "https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/",
-    "upvotes": 101,
+    "upvotes": 105,
     "author": "kbrazil",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=29435786"
   },
   {
-    "title": "Supercharged high-resolution ocean simulation with Jax",
-    "url": "https://dionhaefner.github.io/2021/12/supercharged-high-resolution-ocean-simulation-with-jax/",
-    "upvotes": 38,
-    "author": "dionhaefner",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29429451"
+    "title": "GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling",
+    "url": "https://dl.acm.org/doi/10.1145/3477132.3483542",
+    "upvotes": 12,
+    "author": "mlerner",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29455184"
+  },
+  {
+    "title": "C++ Compile Time Parser Generator",
+    "url": "https://github.com/peter-winter/ctpg",
+    "upvotes": 29,
+    "author": "ingve",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29454342"
   },
   {
     "title": "Generally Intelligent Is Hiring Machine Learning Research Engineers",
     "url": "item?id=29455025"
   },
   {
+    "title": "Supercharged high-resolution ocean simulation with Jax",
+    "url": "https://dionhaefner.github.io/2021/12/supercharged-high-resolution-ocean-simulation-with-jax/",
+    "upvotes": 40,
+    "author": "dionhaefner",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29429451"
+  },
+  {
     "title": "How to make any immutable data structure distributed",
     "url": "https://www.unison-lang.org/articles/distributed-datasets/core-idea/",
-    "upvotes": 99,
+    "upvotes": 104,
     "author": "pierremenard",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=29452424"
-  },
-  {
-    "title": "C++ Compile Time Parser Generator",
-    "url": "https://github.com/peter-winter/ctpg",
-    "upvotes": 25,
-    "author": "ingve",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29454342"
-  },
-  {
-    "title": "All Placebos are not created equal",
-    "url": "https://atis.substack.com/p/all-placebos-are-not-created-equal",
-    "upvotes": 38,
-    "author": "hirundo",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=29453848"
   },
   {
     "title": "What Whale Barnacles Know",
     "url": "https://hakaimagazine.com/features/what-whale-barnacles-know/",
-    "upvotes": 7,
+    "upvotes": 9,
     "author": "Thevet",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29426734"
   },
   {
+    "title": "All Placebos are not created equal",
+    "url": "https://atis.substack.com/p/all-placebos-are-not-created-equal",
+    "upvotes": 40,
+    "author": "hirundo",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=29453848"
+  },
+  {
     "title": "Simple Raspberry Pi Powered SMS Gateway",
     "url": "https://blog.haschek.at/2021/raspberry-pi-sms-gateway.html",
-    "upvotes": 192,
+    "upvotes": 196,
     "author": "DeathArrow",
     "comments": 62,
     "link": "https://news.ycombinator.com/item?id=29449974"
@@ -110,71 +118,79 @@
   {
     "title": "Show HN: Code Hike – More than syntax highlighting",
     "url": "https://codehike.org/",
-    "upvotes": 53,
+    "upvotes": 56,
     "author": "pomber",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=29440489"
   },
   {
     "title": "Dumping the NEC PC Engine YUV Table",
     "url": "http://furrtek.free.fr/?a=pceyuv",
-    "upvotes": 34,
+    "upvotes": 37,
     "author": "zdw",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29400776"
   },
   {
+    "title": "The Principia Rewrite: Whitehead and Russell’s Principia Rewritten in Coq",
+    "url": "https://www.principiarewrite.com/",
+    "upvotes": 3,
+    "author": "zdw",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29455527"
+  },
+  {
+    "title": "LineFS: SmartNIC Offload of a Distributed File System with Pipeline Parallelism",
+    "url": "https://dl.acm.org/doi/10.1145/3477132.3483565",
+    "upvotes": 6,
+    "author": "mlerner",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29455183"
+  },
+  {
     "title": "Widdler is a single binary that serves up TiddlyWikis",
     "url": "https://github.com/qbit/widdler",
-    "upvotes": 175,
+    "upvotes": 176,
     "author": "Tomte",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=29449283"
   },
   {
-    "title": "GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling",
-    "url": "https://dl.acm.org/doi/10.1145/3477132.3483542",
-    "upvotes": 7,
-    "author": "mlerner",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29455184"
-  },
-  {
     "title": "Electrodynamic Tether",
     "url": "https://en.wikipedia.org/wiki/Electrodynamic_tether",
-    "upvotes": 65,
+    "upvotes": 67,
     "author": "Amorymeltzer",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29440193"
-  },
-  {
-    "title": "Stephen Wolfram – re:Clojure Keynote [video]",
-    "url": "https://www.youtube.com/watch?v=3C1QQXEg_F8&t=34811s",
-    "upvotes": 65,
-    "author": "tosh",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=29448463"
-  },
-  {
-    "title": "2049 and the dreams of Philip K. Dick",
-    "url": "http://strangehorizons.com/non-fiction/articles/it-will-prove-invincible-blade-runner-2049-and-the-dreams-of-philip-k-dick/",
-    "upvotes": 89,
-    "author": "xk3",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=29450758"
   },
   {
     "title": "Tracing Octavia Butler’s footsteps",
     "url": "https://lareviewofbooks.org/article/tracing-octavia-butlers-footsteps-interview-rochell-d-thomas/",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "bryanrasmussen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29439011"
   },
   {
+    "title": "2049 and the dreams of Philip K. Dick",
+    "url": "http://strangehorizons.com/non-fiction/articles/it-will-prove-invincible-blade-runner-2049-and-the-dreams-of-philip-k-dick/",
+    "upvotes": 90,
+    "author": "xk3",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=29450758"
+  },
+  {
+    "title": "Stephen Wolfram – re:Clojure Keynote [video]",
+    "url": "https://www.youtube.com/watch?v=3C1QQXEg_F8&t=34811s",
+    "upvotes": 68,
+    "author": "tosh",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=29448463"
+  },
+  {
     "title": "Hacking the planet with Notcurses: a guide to TUIs",
     "url": "https://nick-black.com/htp-notcurses.pdf",
-    "upvotes": 102,
+    "upvotes": 103,
     "author": "Tomte",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=29450900"
@@ -182,57 +198,41 @@
   {
     "title": "Snake in a block – how I ran snake on Ethereum",
     "url": "https://medium.com/@inner.space/snake-in-a-block-how-i-ran-snake-on-ethereum-f46f9812abb1",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "sirnicolaz",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29453654"
   },
   {
     "title": "The sea people: Alexander the Great trod in the footsteps of forgotten Greeks",
     "url": "https://nemets.substack.com/p/the-sea-people",
-    "upvotes": 137,
+    "upvotes": 138,
     "author": "rsj_hn",
     "comments": 123,
     "link": "https://news.ycombinator.com/item?id=29449160"
   },
   {
+    "title": "Fakelish – Fake English word generator",
+    "url": "https://fakelish.nwtgck.org/",
+    "upvotes": 85,
+    "author": "lioeters",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=29450793"
+  },
+  {
     "title": "Library for creating terminal applications with text-based widgets",
     "url": "https://github.com/gansm/finalcut",
-    "upvotes": 42,
+    "upvotes": 43,
     "author": "marcodiego",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29452589"
   },
   {
-    "title": "Fakelish – Fake English word generator",
-    "url": "https://fakelish.nwtgck.org/",
-    "upvotes": 82,
-    "author": "lioeters",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=29450793"
-  },
-  {
     "title": "NoiseCraft: Browser-Based Visual Programming Language for Sound and Music",
     "url": "https://pointersgonewild.com/2021/12/05/noisecraft-a-browser-based-visual-programming-language-for-sound-music/",
-    "upvotes": 95,
+    "upvotes": 96,
     "author": "ingve",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29450415"
-  },
-  {
-    "title": "Watch Your Step",
-    "url": "https://grsecurity.net/watch_your_stepping_atoms_breaking_apart",
-    "upvotes": 12,
-    "author": "ruik",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29431329"
-  },
-  {
-    "title": "LineFS: SmartNIC Offload of a Distributed File System with Pipeline Parallelism",
-    "url": "https://dl.acm.org/doi/10.1145/3477132.3483565",
-    "upvotes": 3,
-    "author": "mlerner",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29455183"
   }
 ]
