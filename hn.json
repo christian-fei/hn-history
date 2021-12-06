@@ -2,74 +2,82 @@
   {
     "title": "You click a link to a news site, to read an article that seems interesting",
     "url": "https://mastodon.technology/@rysiek/107390725207653910",
-    "upvotes": 159,
+    "upvotes": 179,
     "author": "dredmorbius",
-    "comments": 125,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=29454289"
+  },
+  {
+    "title": "The Principia Rewrite: Whitehead and Russell’s Principia Rewritten in Coq",
+    "url": "https://www.principiarewrite.com/",
+    "upvotes": 27,
+    "author": "zdw",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29455527"
+  },
+  {
+    "title": "Ubiquiti Developer Charged with Extortion, Causing 2020 “Breach”",
+    "url": "https://krebsonsecurity.com/2021/12/ubiquiti-developer-charged-with-extortion-causing-2020-breach/",
+    "upvotes": 19,
+    "author": "niros_valtos",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29455730"
   },
   {
     "title": "Crohn’s Disease: Is the Cold Chain Hypothesis Still Hot?",
     "url": "https://academic.oup.com/ecco-jcc/article/15/4/678/5908865",
-    "upvotes": 183,
+    "upvotes": 190,
     "author": "fnord77",
-    "comments": 182,
+    "comments": 187,
     "link": "https://news.ycombinator.com/item?id=29453808"
   },
   {
     "title": "Amazon is bypassing supply chain chaos with chartered ships and long-haul planes",
     "url": "https://www.cnbc.com/2021/12/04/how-amazon-beats-supply-chain-chaos-with-ships-and-long-haul-planes.html",
-    "upvotes": 379,
+    "upvotes": 389,
     "author": "thunderbong",
-    "comments": 331,
+    "comments": 339,
     "link": "https://news.ycombinator.com/item?id=29450420"
+  },
+  {
+    "title": "You shouldn’t use Google Chrome",
+    "url": "https://zapek.com/blog/why-you-shouldnt-use-google-chrome/",
+    "upvotes": 19,
+    "author": "dmitryminkovsky",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29455487"
   },
   {
     "title": "Analog Devices Expands over 1000 Linux Device Drivers to Support Development",
     "url": "https://www.analog.com/en/about-adi/news-room/press-releases/2021/11-30-2021-analog-devices-expands-linux-distribution.html",
-    "upvotes": 72,
+    "upvotes": 76,
     "author": "teleforce",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=29454227"
   },
   {
-    "title": "The Principia Rewrite: Whitehead and Russell’s Principia Rewritten in Coq",
-    "url": "https://www.principiarewrite.com/",
-    "upvotes": 8,
-    "author": "zdw",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29455527"
-  },
-  {
     "title": "WhatsApp has removed answer to “how do I choose not to share data with FB”",
     "url": "https://faq.whatsapp.com/general/26000016",
-    "upvotes": 219,
+    "upvotes": 240,
     "author": "behnamoh",
-    "comments": 50,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=29454893"
   },
   {
     "title": "Zrythm: A highly automated and intuitive digital audio workstation",
     "url": "https://www.zrythm.org/en/index.html",
-    "upvotes": 336,
+    "upvotes": 341,
     "author": "Tomte",
     "comments": 105,
     "link": "https://news.ycombinator.com/item?id=29450212"
   },
   {
-    "title": "GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling",
-    "url": "https://dl.acm.org/doi/10.1145/3477132.3483542",
-    "upvotes": 13,
-    "author": "mlerner",
+    "title": "Color Vision Simulation",
+    "url": "https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector/Simulation",
+    "upvotes": 7,
+    "author": "sohkamyung",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29455184"
-  },
-  {
-    "title": "C++ Compile Time Parser Generator",
-    "url": "https://github.com/peter-winter/ctpg",
-    "upvotes": 31,
-    "author": "ingve",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=29454342"
+    "link": "https://news.ycombinator.com/item?id=29455628"
   },
   {
     "title": "Generally Intelligent Is Hiring Machine Learning Research Engineers",
@@ -78,127 +86,143 @@
   {
     "title": "Tips on adding JSON output to your CLI app",
     "url": "https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/",
-    "upvotes": 105,
+    "upvotes": 115,
     "author": "kbrazil",
-    "comments": 43,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=29435786"
   },
   {
-    "title": "Supercharged high-resolution ocean simulation with Jax",
-    "url": "https://dionhaefner.github.io/2021/12/supercharged-high-resolution-ocean-simulation-with-jax/",
-    "upvotes": 41,
-    "author": "dionhaefner",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29429451"
+    "title": "C++ Compile Time Parser Generator",
+    "url": "https://github.com/peter-winter/ctpg",
+    "upvotes": 35,
+    "author": "ingve",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=29454342"
+  },
+  {
+    "title": "GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling",
+    "url": "https://dl.acm.org/doi/10.1145/3477132.3483542",
+    "upvotes": 16,
+    "author": "mlerner",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29455184"
   },
   {
     "title": "What Whale Barnacles Know",
     "url": "https://hakaimagazine.com/features/what-whale-barnacles-know/",
-    "upvotes": 11,
+    "upvotes": 16,
     "author": "Thevet",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29426734"
   },
   {
     "title": "How to make any immutable data structure distributed",
     "url": "https://www.unison-lang.org/articles/distributed-datasets/core-idea/",
-    "upvotes": 106,
+    "upvotes": 110,
     "author": "pierremenard",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=29452424"
   },
   {
+    "title": "Supercharged high-resolution ocean simulation with Jax",
+    "url": "https://dionhaefner.github.io/2021/12/supercharged-high-resolution-ocean-simulation-with-jax/",
+    "upvotes": 43,
+    "author": "dionhaefner",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29429451"
+  },
+  {
     "title": "LineFS: SmartNIC Offload of a Distributed File System with Pipeline Parallelism",
     "url": "https://dl.acm.org/doi/10.1145/3477132.3483565",
-    "upvotes": 9,
+    "upvotes": 13,
     "author": "mlerner",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29455183"
   },
   {
-    "title": "All Placebos are not created equal",
-    "url": "https://atis.substack.com/p/all-placebos-are-not-created-equal",
-    "upvotes": 42,
-    "author": "hirundo",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=29453848"
-  },
-  {
     "title": "Simple Raspberry Pi Powered SMS Gateway",
     "url": "https://blog.haschek.at/2021/raspberry-pi-sms-gateway.html",
-    "upvotes": 198,
+    "upvotes": 206,
     "author": "DeathArrow",
-    "comments": 62,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=29449974"
   },
   {
-    "title": "Show HN: Code Hike – More than syntax highlighting",
-    "url": "https://codehike.org/",
-    "upvotes": 56,
-    "author": "pomber",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=29440489"
+    "title": "All Placebos are not created equal",
+    "url": "https://atis.substack.com/p/all-placebos-are-not-created-equal",
+    "upvotes": 44,
+    "author": "hirundo",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=29453848"
+  },
+  {
+    "title": "What is Mushroom Leather and How is it Made?",
+    "url": "https://www.watsonwolfe.com/2020/02/08/what-is-mushroom-leather/",
+    "upvotes": 20,
+    "author": "_Microft",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=29429504"
   },
   {
     "title": "Dumping the NEC PC Engine YUV Table",
     "url": "http://furrtek.free.fr/?a=pceyuv",
-    "upvotes": 38,
+    "upvotes": 41,
     "author": "zdw",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29400776"
   },
   {
-    "title": "What is Mushroom Leather and How is it Made?",
-    "url": "https://www.watsonwolfe.com/2020/02/08/what-is-mushroom-leather/",
-    "upvotes": 15,
-    "author": "_Microft",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=29429504"
+    "title": "Faster and Cheaper Serverless Computing on Harvested Resources",
+    "url": "https://www.micahlerner.com/2021/11/30/faster-and-cheaper-serverless-computing-on-harvested-resources.html",
+    "upvotes": 4,
+    "author": "mlerner",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29455701"
+  },
+  {
+    "title": "Show HN: Code Hike – More than syntax highlighting",
+    "url": "https://codehike.org/",
+    "upvotes": 61,
+    "author": "pomber",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=29440489"
   },
   {
     "title": "Widdler is a single binary that serves up TiddlyWikis",
     "url": "https://github.com/qbit/widdler",
-    "upvotes": 176,
+    "upvotes": 177,
     "author": "Tomte",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=29449283"
   },
   {
     "title": "Electrodynamic Tether",
     "url": "https://en.wikipedia.org/wiki/Electrodynamic_tether",
-    "upvotes": 67,
+    "upvotes": 68,
     "author": "Amorymeltzer",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29440193"
+  },
+  {
+    "title": "2049 and the dreams of Philip K. Dick",
+    "url": "http://strangehorizons.com/non-fiction/articles/it-will-prove-invincible-blade-runner-2049-and-the-dreams-of-philip-k-dick/",
+    "upvotes": 96,
+    "author": "xk3",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=29450758"
   },
   {
     "title": "Tracing Octavia Butler’s footsteps",
     "url": "https://lareviewofbooks.org/article/tracing-octavia-butlers-footsteps-interview-rochell-d-thomas/",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "bryanrasmussen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29439011"
   },
   {
-    "title": "2049 and the dreams of Philip K. Dick",
-    "url": "http://strangehorizons.com/non-fiction/articles/it-will-prove-invincible-blade-runner-2049-and-the-dreams-of-philip-k-dick/",
-    "upvotes": 91,
-    "author": "xk3",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=29450758"
-  },
-  {
-    "title": "Stephen Wolfram – re:Clojure Keynote [video]",
-    "url": "https://www.youtube.com/watch?v=3C1QQXEg_F8&t=34811s",
-    "upvotes": 68,
-    "author": "tosh",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=29448463"
-  },
-  {
     "title": "Hacking the planet with Notcurses: a guide to TUIs",
     "url": "https://nick-black.com/htp-notcurses.pdf",
-    "upvotes": 105,
+    "upvotes": 112,
     "author": "Tomte",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29450900"
@@ -206,33 +230,9 @@
   {
     "title": "The sea people: Alexander the Great trod in the footsteps of forgotten Greeks",
     "url": "https://nemets.substack.com/p/the-sea-people",
-    "upvotes": 139,
+    "upvotes": 141,
     "author": "rsj_hn",
-    "comments": 124,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=29449160"
-  },
-  {
-    "title": "Fakelish – Fake English word generator",
-    "url": "https://fakelish.nwtgck.org/",
-    "upvotes": 88,
-    "author": "lioeters",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=29450793"
-  },
-  {
-    "title": "NoiseCraft: Browser-Based Visual Programming Language for Sound and Music",
-    "url": "https://pointersgonewild.com/2021/12/05/noisecraft-a-browser-based-visual-programming-language-for-sound-music/",
-    "upvotes": 99,
-    "author": "ingve",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=29450415"
-  },
-  {
-    "title": "Library for creating terminal applications with text-based widgets",
-    "url": "https://github.com/gansm/finalcut",
-    "upvotes": 43,
-    "author": "marcodiego",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29452589"
   }
 ]
