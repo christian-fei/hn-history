@@ -1,32 +1,48 @@
 [
   {
+    "title": "We only talk about the third attack on Pearl Harbor",
+    "url": "https://newsletter.butwhatfor.com/p/an-attack-on-pearl-harbor",
+    "upvotes": 51,
+    "author": "stanrivers",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=29472314"
+  },
+  {
     "title": "Regularized Newton Method with Global $O",
     "url": "https://arxiv.org/abs/2112.02089",
-    "upvotes": 40,
+    "upvotes": 66,
     "author": "ColinWright",
-    "comments": null,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=29472189"
   },
   {
-    "title": "We only talk about the third attack on Pearl Harbor",
-    "url": "https://newsletter.butwhatfor.com/p/an-attack-on-pearl-harbor",
-    "upvotes": 18,
-    "author": "stanrivers",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29472314"
+    "title": "Hetzner now provides IPv6 only dedicated servers",
+    "url": "https://www.hetzner.com/news/12-21-ipv6-only/",
+    "upvotes": 42,
+    "author": "miyuru",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29471986"
+  },
+  {
+    "title": "Compiling Code into Silicon",
+    "url": "https://www.siliconcompiler.com",
+    "upvotes": 17,
+    "author": "adapteva",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29472406"
   },
   {
     "title": "FAQs: Why we don’t have them",
     "url": "https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/",
-    "upvotes": 170,
+    "upvotes": 174,
     "author": "open-source-ux",
-    "comments": 116,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=29470016"
   },
   {
     "title": "Image Kernels Explained Visually",
     "url": "https://setosa.io/ev/image-kernels/",
-    "upvotes": 41,
+    "upvotes": 60,
     "author": "jarek-foksa",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29470826"
@@ -34,131 +50,163 @@
   {
     "title": "Numerics applied to Casimir geometry generates intersection with Alcubierre warp",
     "url": "https://epjc.epj.org/articles/epjc/abs/2021/07/10052_2021_Article_9484/10052_2021_Article_9484.html",
-    "upvotes": 243,
+    "upvotes": 250,
     "author": "kposehn",
-    "comments": 156,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=29468762"
+  },
+  {
+    "title": "Google Webfonts Helper – Hassle-Free Way to Self-Host Google Fonts",
+    "url": "https://google-webfonts-helper.herokuapp.com/",
+    "upvotes": 6,
+    "author": "vmoore",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29472722"
   },
   {
     "title": "Django 4.0",
     "url": "https://www.djangoproject.com/weblog/2021/dec/07/django-40-released/",
-    "upvotes": 152,
+    "upvotes": 185,
     "author": "Spiritus",
-    "comments": 46,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=29470729"
   },
   {
-    "title": "Tildeverse.org: A loose association of like-minded tilde communities",
-    "url": "https://tildeverse.org/",
-    "upvotes": 69,
-    "author": "hillcrestenigma",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=29449238"
-  },
-  {
-    "title": "Miniature 3456 LED Cube",
-    "url": "https://willempennings.nl/miniature-3456-led-cube/",
-    "upvotes": 203,
-    "author": "picture",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=29468919"
-  },
-  {
-    "title": "A neat approximation algorithm",
-    "url": "https://mht.wtf/post/min-deg-st/",
-    "upvotes": 42,
-    "author": "martinhath",
+    "title": "Fighting TLS Fingerprinting with Node.js",
+    "url": "https://httptoolkit.tech/blog/tls-fingerprinting-node-js/",
+    "upvotes": 9,
+    "author": "pimterry",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29461524"
+    "link": "https://news.ycombinator.com/item?id=29472624"
   },
   {
     "title": "Flexport is hiring operations research leaders to design global trade networks",
     "url": "https://www.flexport.com/careers"
   },
   {
+    "title": "Bpytop: Linux/macOS/FreeBSD resource monitor",
+    "url": "https://github.com/aristocratos/bpytop",
+    "upvotes": 37,
+    "author": "pantalaimon",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29449948"
+  },
+  {
+    "title": "Tildeverse.org: A loose association of like-minded tilde communities",
+    "url": "https://tildeverse.org/",
+    "upvotes": 74,
+    "author": "hillcrestenigma",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=29449238"
+  },
+  {
+    "title": "The Fable of the Dragon-Tyrant",
+    "url": "https://www.nickbostrom.com/fable/dragon.html",
+    "upvotes": 10,
+    "author": "bobbiechen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29445605"
+  },
+  {
+    "title": "Miniature 3456 LED Cube",
+    "url": "https://willempennings.nl/miniature-3456-led-cube/",
+    "upvotes": 209,
+    "author": "picture",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=29468919"
+  },
+  {
+    "title": "A neat approximation algorithm",
+    "url": "https://mht.wtf/post/min-deg-st/",
+    "upvotes": 45,
+    "author": "martinhath",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29461524"
+  },
+  {
     "title": "Common shell script mistakes",
     "url": "http://www.pixelbeat.org/programming/shell_script_mistakes.html",
-    "upvotes": 35,
+    "upvotes": 38,
     "author": "gautamsomani",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=29470863"
   },
   {
-    "title": "Bpytop: Linux/macOS/FreeBSD resource monitor",
-    "url": "https://github.com/aristocratos/bpytop",
-    "upvotes": 22,
-    "author": "pantalaimon",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29449948"
+    "title": "Unbundling Work from Employment",
+    "url": "https://www.atelierventures.co/content/unbundling-work-from-employment",
+    "upvotes": 24,
+    "author": "akshaybhalotia",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=29470951"
   },
   {
     "title": "Fact-Checking CSIRO’s Communications about the Trustworthy Systems Group",
     "url": "https://microkerneldude.org/2021/11/17/dishonest-and-contradictory-fact-checking-csiros-communications-about-the-trustworthy-systems-group/",
-    "upvotes": 67,
+    "upvotes": 69,
     "author": "todsacerdoti",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29469665"
   },
   {
-    "title": "Unbundling Work from Employment",
-    "url": "https://www.atelierventures.co/content/unbundling-work-from-employment",
-    "upvotes": 20,
-    "author": "akshaybhalotia",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=29470951"
+    "title": "New Brain Maps Can Predict Behaviors",
+    "url": "https://www.quantamagazine.org/new-brain-maps-can-predict-behaviors-20211206/",
+    "upvotes": 5,
+    "author": "theafh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29472506"
   },
   {
     "title": "Windows 10 RCE: The exploit is in the link",
     "url": "https://positive.security/blog/ms-officecmd-rce",
-    "upvotes": 73,
+    "upvotes": 88,
     "author": "kerm1t",
-    "comments": 17,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29471587"
   },
   {
     "title": "CT scans of AirPods evolution",
     "url": "https://scanofthemonth.com/",
-    "upvotes": 956,
+    "upvotes": 963,
     "author": "vitruvius",
-    "comments": 272,
+    "comments": 274,
     "link": "https://news.ycombinator.com/item?id=29465668"
   },
   {
     "title": "Advent of Code 2021 with PostgreSQL",
     "url": "https://github.com/mitchellh/advent-2021-sql",
-    "upvotes": 170,
+    "upvotes": 179,
     "author": "craigkerstiens",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=29467671"
   },
   {
-    "title": "Cloud infrastructure should be immutable",
-    "url": "https://stroobants.dev/make-your-infrastructure-immutable.html",
-    "upvotes": 27,
-    "author": "878654Tom",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=29464166"
-  },
-  {
     "title": "Turandot and the Deep Indo-European Roots of “Daughter”",
     "url": "https://languagelog.ldc.upenn.edu/nll/?p=46417",
-    "upvotes": 46,
+    "upvotes": 48,
     "author": "diodorus",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=29450507"
+  },
+  {
+    "title": "Cloud infrastructure should be immutable",
+    "url": "https://stroobants.dev/make-your-infrastructure-immutable.html",
+    "upvotes": 30,
+    "author": "878654Tom",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=29464166"
   },
   {
     "title": "Tell me an engineering murderboard story",
     "url": "https://pluspora.com/posts/3a2965203d4f01377c37005056264835",
-    "upvotes": 33,
+    "upvotes": 35,
     "author": "dredmorbius",
-    "comments": 18,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=29440460"
   },
   {
     "title": "On Hubris and Humility",
     "url": "https://cliffle.com/blog/on-hubris-and-humility/",
-    "upvotes": 79,
+    "upvotes": 82,
     "author": "steveklabnik",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=29468969"
@@ -166,73 +214,25 @@
   {
     "title": "C++ in the Linux Kernel",
     "url": "https://www.threatstack.com/blog/c-in-the-linux-kernel",
-    "upvotes": 94,
+    "upvotes": 99,
     "author": "davikrr",
-    "comments": 77,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=29468623"
   },
   {
     "title": "PCB Business Card",
     "url": "https://github.com/Hanqaqa/PCB_Business_Card",
-    "upvotes": 99,
+    "upvotes": 101,
     "author": "app4soft",
-    "comments": 49,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=29467494"
-  },
-  {
-    "title": "I thought I was a free man: the engineer fighting Texas’s ban on Israel boycotts",
-    "url": "https://www.theguardian.com/us-news/2021/dec/07/texas-ban-boycotting-israel",
-    "upvotes": 197,
-    "author": "sofixa",
-    "comments": 159,
-    "link": "https://news.ycombinator.com/item?id=29471320"
   },
   {
     "title": "Ask HN: How to be my own genetic disease researcher for my partner?",
     "url": "item?id=29468831",
-    "upvotes": 185,
+    "upvotes": 199,
     "author": "thetwentyone",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=29468831"
-  },
-  {
-    "title": "Hacked Cryptocurrency Platform Begs Hacker to Please Return $119M",
-    "url": "https://www.vice.com/en/article/v7dv4a/hacked-cryptocurrency-platform-begs-hacker-to-please-return-dollar119-million",
-    "upvotes": 31,
-    "author": "pseudolus",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=29471309"
-  },
-  {
-    "title": "Debunking Cloudflare’s recent performance tests",
-    "url": "https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests",
-    "upvotes": 500,
-    "author": "mcone",
-    "comments": 259,
-    "link": "https://news.ycombinator.com/item?id=29465729"
-  },
-  {
-    "title": "Are 14 people really looking at that product?",
-    "url": "https://blog.devgenius.io/are-14-people-currently-looking-at-this-product-e7fe8412f16b?gi=e7a96dc956cf",
-    "upvotes": 147,
-    "author": "awesometechguy",
-    "comments": 123,
-    "link": "https://news.ycombinator.com/item?id=29470047"
-  },
-  {
-    "title": "Show HN: I made a modern web UI for Wikipedia",
-    "url": "https://www.modernwiki.app/",
-    "upvotes": 916,
-    "author": "sjdz",
-    "comments": 381,
-    "link": "https://news.ycombinator.com/item?id=29461735"
-  },
-  {
-    "title": "Libcontainer: Insecure handling of bind mount sources",
-    "url": "https://bugs.chromium.org/p/project-zero/issues/detail?id=2241",
-    "upvotes": 47,
-    "author": "arkadiyt",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29468552"
   }
 ]
