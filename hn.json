@@ -1,204 +1,228 @@
 [
   {
-    "title": "Pfizer and Biontech provide update on Omicron variant",
-    "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-provide-update-omicron-variant",
-    "upvotes": 95,
-    "author": "amichail",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=29484469"
+    "title": "Rust Support in the Linux Kernel",
+    "url": "https://lkml.org/lkml/2021/12/6/461",
+    "upvotes": 14,
+    "author": "SEJeff",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29485465"
+  },
+  {
+    "title": "Queue Despair: Ordering and Poison Messages",
+    "url": "https://www.openmymind.net/Queue-Despair-Ordering-And-Poison-Messages/",
+    "upvotes": 13,
+    "author": "tbonesteaks",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=29484998"
+  },
+  {
+    "title": "PowerShell Inventor Jeffrey Snover Interview",
+    "url": "https://evrone.com/jeffrey-snover-interview",
+    "upvotes": 8,
+    "author": "elizabethdevoir",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29485479"
   },
   {
     "title": "Player of Games",
     "url": "https://arxiv.org/abs/2112.03178",
-    "upvotes": 232,
+    "upvotes": 253,
     "author": "vatueil",
-    "comments": 125,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=29481665"
-  },
-  {
-    "title": "MicroStudio now supports microScript, Python, JavaScript and Lua",
-    "url": "https://microstudio.dev/community/news/microstudio-now-supports-4-programming-languages-microscript-python-javascript-and-lua/254/",
-    "upvotes": 126,
-    "author": "seyhajin",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=29482163"
   },
   {
     "title": "Web-Based Vulkan GLSL Ray Tracing Emulator",
     "url": "https://www.gsn-lib.org/apps/raytracing/index.php",
-    "upvotes": 18,
+    "upvotes": 26,
     "author": "yyycomposer",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29484250"
+  },
+  {
+    "title": "MicroStudio now supports microScript, Python, JavaScript and Lua",
+    "url": "https://microstudio.dev/community/news/microstudio-now-supports-4-programming-languages-microscript-python-javascript-and-lua/254/",
+    "upvotes": 147,
+    "author": "seyhajin",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=29482163"
+  },
+  {
+    "title": "Pfizer and Biontech provide update on Omicron variant",
+    "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-provide-update-omicron-variant",
+    "upvotes": 154,
+    "author": "amichail",
+    "comments": 223,
+    "link": "https://news.ycombinator.com/item?id=29484469"
   },
   {
     "title": "FerretDB: A truly open-source MongoDB alternative",
     "url": "https://github.com/FerretDB/FerretDB",
-    "upvotes": 69,
+    "upvotes": 76,
     "author": "kiyanwang",
-    "comments": 39,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=29448906"
   },
   {
-    "title": "Colour-changing magnifying glass gives clear view of infrared light",
-    "url": "https://www.cam.ac.uk/research/news/colour-changing-magnifying-glass-gives-clear-view-of-infrared-light",
-    "upvotes": 107,
-    "author": "rustoo",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=29447779"
+    "title": "Algorithms for division: Using Newton's method",
+    "url": "https://blog.segger.com/algorithms-for-division-part-4-using-newtons-method/",
+    "upvotes": 12,
+    "author": "picture",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29469186"
   },
   {
     "title": "Show HN: SyncedStore CRDT – build multiplayer collaborative apps for React / Vue",
     "url": "https://syncedstore.org/docs/",
-    "upvotes": 21,
+    "upvotes": 31,
     "author": "YousefED",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=29483913"
   },
   {
-    "title": "Essential security for Linux servers",
-    "url": "https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/",
-    "upvotes": 142,
-    "author": "jcgoette",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=29481153"
-  },
-  {
-    "title": "Lack of sunlight makes our cells store more fat",
-    "url": "https://www.ualberta.ca/folio/2018/01/reduced-sunlight-may-contribute-to-winter-weight-gain.html",
-    "upvotes": 133,
-    "author": "giuliomagnifico",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=29483814"
-  },
-  {
-    "title": "Fedora 36 Planning to Run Wayland by Default with Nvidia's Proprietary Driver",
-    "url": "https://www.phoronix.com/scan.php?page=news_item&px=Fedora-36-NVIDIA-Wayland",
-    "upvotes": 43,
-    "author": "rbanffy",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=29484010"
+    "title": "Colour-changing magnifying glass gives clear view of infrared light",
+    "url": "https://www.cam.ac.uk/research/news/colour-changing-magnifying-glass-gives-clear-view-of-infrared-light",
+    "upvotes": 111,
+    "author": "rustoo",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=29447779"
   },
   {
     "title": "Release",
     "url": "https://www.ycombinator.com/companies/release/jobs/Co0LgYqSQ-senior-fullstack-engineer-backend-focus-rails-react-aws-k8s"
   },
   {
-    "title": "Telegram Introduces DRM",
-    "url": "https://telegram.org/blog/protected-content-delete-by-date-and-more",
-    "upvotes": 144,
-    "author": "yannoninator",
-    "comments": 210,
-    "link": "https://news.ycombinator.com/item?id=29482918"
-  },
-  {
-    "title": "The Serverless Shell",
-    "url": "https://github.com/crucial-project/serverless-shell",
-    "upvotes": 36,
-    "author": "otrack",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29482788"
+    "title": "Essential security for Linux servers",
+    "url": "https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/",
+    "upvotes": 146,
+    "author": "jcgoette",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=29481153"
   },
   {
     "title": "Amazon’s search results are full of ads ‘unlawfully deceiving’ consumers",
     "url": "https://www.washingtonpost.com/technology/2021/12/08/amazon-search-results-ftc-complaint/",
-    "upvotes": 66,
+    "upvotes": 103,
     "author": "nocommandline",
-    "comments": 19,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=29484317"
+  },
+  {
+    "title": "The Serverless Shell",
+    "url": "https://github.com/crucial-project/serverless-shell",
+    "upvotes": 39,
+    "author": "otrack",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29482788"
+  },
+  {
+    "title": "Telegram Introduces DRM",
+    "url": "https://telegram.org/blog/protected-content-delete-by-date-and-more",
+    "upvotes": 164,
+    "author": "yannoninator",
+    "comments": 227,
+    "link": "https://news.ycombinator.com/item?id=29482918"
   },
   {
     "title": "Controlled indoor cultivation of black morel",
     "url": "https://thedanishmorelproject.com/",
-    "upvotes": 152,
+    "upvotes": 156,
     "author": "wy35",
-    "comments": 66,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=29480357"
   },
   {
-    "title": "Ask HN: Anyone else getting a 500 on their Google Calendars?",
-    "url": "item?id=29482573",
-    "upvotes": 133,
-    "author": "CodinM",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=29482573"
+    "title": "Lack of sunlight makes our cells store more fat",
+    "url": "https://www.ualberta.ca/folio/2018/01/reduced-sunlight-may-contribute-to-winter-weight-gain.html",
+    "upvotes": 149,
+    "author": "giuliomagnifico",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=29483814"
   },
   {
-    "title": "Algorithms for division: Using Newton's method",
-    "url": "https://blog.segger.com/algorithms-for-division-part-4-using-newtons-method/",
-    "upvotes": 5,
-    "author": "picture",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29469186"
+    "title": "Fedora 36 Planning to Run Wayland by Default with Nvidia's Proprietary Driver",
+    "url": "https://www.phoronix.com/scan.php?page=news_item&px=Fedora-36-NVIDIA-Wayland",
+    "upvotes": 49,
+    "author": "rbanffy",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=29484010"
   },
   {
     "title": "Creating and morphing Lego faces with neural networks",
     "url": "https://www.echevarria.io/blog/lego-face-vae/index.html",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "ivanech",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29473192"
   },
   {
-    "title": "Portable and Interoperable Async Rust",
-    "url": "https://www.ncameron.org/blog/portable-and-interoperable-async-rust/",
-    "upvotes": 75,
-    "author": "bsiemon",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=29481155"
-  },
-  {
-    "title": "Stacking Up AMD MI200 versus Nvidia A100 Compute Engines",
-    "url": "https://www.nextplatform.com/2021/12/06/stacking-up-amd-mi200-versus-nvidia-a100-compute-engines/",
-    "upvotes": 70,
-    "author": "rbanffy",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=29472124"
+    "title": "Ask HN: Anyone else getting a 500 on their Google Calendars?",
+    "url": "item?id=29482573",
+    "upvotes": 136,
+    "author": "CodinM",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=29482573"
   },
   {
     "title": "Twitter suspends account tracking Maxwell trial without explanation",
     "url": "https://twitter.com/TrackerTrial",
-    "upvotes": 19,
+    "upvotes": 59,
     "author": "Jimmc414",
-    "comments": 5,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=29484545"
   },
   {
     "title": "Young's Lattice",
     "url": "https://en.wikipedia.org/wiki/Young%27s_lattice",
-    "upvotes": 21,
+    "upvotes": 25,
     "author": "agumonkey",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29471575"
+  },
+  {
+    "title": "Portable and Interoperable Async Rust",
+    "url": "https://www.ncameron.org/blog/portable-and-interoperable-async-rust/",
+    "upvotes": 77,
+    "author": "bsiemon",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=29481155"
+  },
+  {
+    "title": "Stacking Up AMD MI200 versus Nvidia A100 Compute Engines",
+    "url": "https://www.nextplatform.com/2021/12/06/stacking-up-amd-mi200-versus-nvidia-a100-compute-engines/",
+    "upvotes": 73,
+    "author": "rbanffy",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=29472124"
+  },
+  {
+    "title": "Intel updates mysterious ‘software-defined silicon’ code in the Linux kernel",
+    "url": "https://www.theregister.com/2021/12/08/intel_software_defined_silicon_update/",
+    "upvotes": 47,
+    "author": "flipbrad",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29483655"
   },
   {
     "title": "The RNA World Hypothesis",
     "url": "https://www.ncbi.nlm.nih.gov/books/NBK26876/",
-    "upvotes": 115,
+    "upvotes": 120,
     "author": "PaulHoule",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=29480428"
   },
   {
     "title": "Amazon packages pile up after AWS outage spawns delivery havoc",
     "url": "https://www.detroitnews.com/story/business/2021/12/07/amazon-aws-cloud-users-report-issues-accessing-websites/6419088001/",
-    "upvotes": 382,
+    "upvotes": 390,
     "author": "HiroProtagonist",
-    "comments": 174,
+    "comments": 177,
     "link": "https://news.ycombinator.com/item?id=29480392"
-  },
-  {
-    "title": "A Spouse Divided: Two new Dostoevsky biographies",
-    "url": "https://www.bookforum.com/print/2804/two-new-biographies-delve-into-dostoyevsky-s-relationship-with-his-long-suffering-wife-24717",
-    "upvotes": 29,
-    "author": "lermontov",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29469337"
   },
   {
     "title": "Digging into Linux namespaces – part 1",
     "url": "https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html",
-    "upvotes": 125,
+    "upvotes": 131,
     "author": "pcw888",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29457005"
@@ -206,33 +230,9 @@
   {
     "title": "Psychedelics alter metaphysical beliefs",
     "url": "https://www.nature.com/articles/s41598-021-01209-2",
-    "upvotes": 95,
+    "upvotes": 102,
     "author": "monktastic1",
-    "comments": 139,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=29480602"
-  },
-  {
-    "title": "Show HN: P2P remote desktop – an alternative to TeamViewer / AnyDesk",
-    "url": "https://github.com/miroslavpejic85/p2p",
-    "upvotes": 123,
-    "author": "mp85",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=29479503"
-  },
-  {
-    "title": "Internet addiction: The emergence of a new clinical disorder",
-    "url": "https://www.netaddiction.com/articles/newdisorder.pdf",
-    "upvotes": 59,
-    "author": "flannery",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=29469187"
-  },
-  {
-    "title": "Intel updates mysterious ‘software-defined silicon’ code in the Linux kernel",
-    "url": "https://www.theregister.com/2021/12/08/intel_software_defined_silicon_update/",
-    "upvotes": 26,
-    "author": "flipbrad",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29483655"
   }
 ]
