@@ -2,73 +2,81 @@
   {
     "title": "We will be retiring Alexa.com",
     "url": "https://support.alexa.com/hc/en-us/articles/4410503838999",
-    "upvotes": 342,
+    "upvotes": 356,
     "author": "dlackty",
-    "comments": 130,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=29488522"
   },
   {
     "title": "Apple CEO Tim Cook 'secretly' signed $275B deal with China in 2016",
     "url": "https://www.macrumors.com/2021/12/07/apple-ceo-tim-cook-secret-deal-with-china/",
-    "upvotes": 395,
+    "upvotes": 445,
     "author": "baybal2",
-    "comments": 210,
+    "comments": 258,
     "link": "https://news.ycombinator.com/item?id=29482351"
   },
   {
     "title": "The $11B Webb telescope aims to probe the early universe",
     "url": "https://www.nature.com/articles/d41586-021-03620-1",
-    "upvotes": 205,
+    "upvotes": 214,
     "author": "infodocket",
-    "comments": 162,
+    "comments": 175,
     "link": "https://news.ycombinator.com/item?id=29488487"
+  },
+  {
+    "title": "How to write idempotent Bash scripts",
+    "url": "https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/",
+    "upvotes": 82,
+    "author": "gautamsomani",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=29483070"
   },
   {
     "title": "Improving GitHub Code Search",
     "url": "https://github.blog/2021-12-08-improving-github-code-search/",
-    "upvotes": 329,
+    "upvotes": 335,
     "author": "todsacerdoti",
-    "comments": 145,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=29487237"
   },
   {
     "title": "Groups never admit failure",
     "url": "https://nav.al/failure",
-    "upvotes": 136,
+    "upvotes": 146,
     "author": "todsacerdoti",
-    "comments": 140,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=29488641"
-  },
-  {
-    "title": "How to write idempotent Bash scripts",
-    "url": "https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/",
-    "upvotes": 53,
-    "author": "gautamsomani",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=29483070"
   },
   {
     "title": "Building a PS1 style retro 3D renderer",
     "url": "https://www.david-colson.com/2021/11/30/ps1-style-renderer.html",
-    "upvotes": 254,
+    "upvotes": 263,
     "author": "bwidlar",
-    "comments": 56,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=29486066"
   },
   {
     "title": "Show HN: I rebuilt the Flash app “Scale of the Universe” in WebGL",
     "url": "https://htwins.net/scale2/",
-    "upvotes": 116,
+    "upvotes": 127,
     "author": "mattmar96",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=29488511"
   },
   {
+    "title": "Why ISO Was Retired",
+    "url": "https://bkhome.org/news/202112/why-iso-was-retired.html",
+    "upvotes": 34,
+    "author": "gbrown_",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29490679"
+  },
+  {
     "title": "Latest Earthquakes",
     "url": "https://earthquake.usgs.gov/earthquakes/map/?extent=36.72127,-143.37158&extent=50.94458,-108.21533&sort=largest&listOnlyShown=true",
-    "upvotes": 39,
+    "upvotes": 43,
     "author": "DyslexicAtheist",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=29489963"
   },
   {
@@ -76,33 +84,25 @@
     "url": "https://grnh.se/ad461ea33us"
   },
   {
-    "title": "Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation",
-    "url": "https://arxiv.org/abs/2109.01950",
-    "upvotes": 56,
-    "author": "leephillips",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=29489628"
-  },
-  {
-    "title": "Why ISO Was Retired",
-    "url": "https://bkhome.org/news/202112/why-iso-was-retired.html",
-    "upvotes": 21,
-    "author": "gbrown_",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29490679"
-  },
-  {
     "title": "Why do antibiotics exist?",
     "url": "https://journals.asm.org/doi/10.1128/mBio.01966-21",
-    "upvotes": 58,
+    "upvotes": 67,
     "author": "maxerickson",
-    "comments": 57,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=29489010"
+  },
+  {
+    "title": "Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation",
+    "url": "https://arxiv.org/abs/2109.01950",
+    "upvotes": 59,
+    "author": "leephillips",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=29489628"
   },
   {
     "title": "LLDB FreeBSD kernel core dump support",
     "url": "https://www.moritz.systems/blog/lldb-freebsd-kernel-core-dump-support/",
-    "upvotes": 30,
+    "upvotes": 33,
     "author": "fcambus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29489464"
@@ -110,129 +110,129 @@
   {
     "title": "Faster remainders when divisor is a constant: beating compilers and libdivide",
     "url": "https://lemire.me/blog/2019/02/08/faster-remainders-when-the-divisor-is-a-constant-beating-compilers-and-libdivide/",
-    "upvotes": 34,
+    "upvotes": 40,
     "author": "marcodiego",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29487605"
   },
   {
-    "title": "Hacking the Go compiler to add a new keyword",
-    "url": "https://avi.im/blag/2021/rc-day-24/",
-    "upvotes": 100,
-    "author": "todsacerdoti",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=29487244"
-  },
-  {
-    "title": "Why U.S. Infrastructure Costs So Much",
-    "url": "https://www.bloomberg.com/news/articles/2021-12-08/why-building-roads-and-transit-costs-more-in-the-u-s",
-    "upvotes": 103,
-    "author": "jseliger",
-    "comments": 137,
-    "link": "https://news.ycombinator.com/item?id=29489616"
+    "title": "An update on 0day CVE-2021-43798: Grafana directory traversal",
+    "url": "https://grafana.com/blog/2021/12/08/an-update-on-0day-cve-2021-43798-grafana-directory-traversal/",
+    "upvotes": 5,
+    "author": "ep_jhu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29491900"
   },
   {
     "title": "Gopher – A 280B parameter language model",
     "url": "https://deepmind.com/blog/article/language-modelling-at-scale",
-    "upvotes": 119,
+    "upvotes": 128,
     "author": "kevin_hu",
-    "comments": 77,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=29486607"
+  },
+  {
+    "title": "Hacking the Go compiler to add a new keyword",
+    "url": "https://avi.im/blag/2021/rc-day-24/",
+    "upvotes": 102,
+    "author": "todsacerdoti",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=29487244"
   },
   {
     "title": "Fibers under the magnifying glass [pdf]",
     "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1364r0.pdf",
-    "upvotes": 12,
+    "upvotes": 15,
     "author": "karsinkk",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29484138"
   },
   {
     "title": "AI training is outpacing Moore’s Law",
     "url": "https://spectrum.ieee.org/ai-training-mlperf",
-    "upvotes": 62,
+    "upvotes": 66,
     "author": "pseudolus",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29448710"
   },
   {
     "title": "Mu: A Human-Scale Computer",
     "url": "https://github.com/akkartik/mu",
-    "upvotes": 104,
+    "upvotes": 108,
     "author": "finite_jest",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=29485624"
-  },
-  {
-    "title": "Ensmallen: A C++ Library For Efficient Numerical Optimization",
-    "url": "http://ensmallen.org/docs.html",
-    "upvotes": 27,
-    "author": "optimalsolver",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=29489613"
   },
   {
     "title": "Intel updates mysterious ‘software-defined silicon’ code in the Linux kernel",
     "url": "https://www.theregister.com/2021/12/08/intel_software_defined_silicon_update/",
-    "upvotes": 124,
+    "upvotes": 135,
     "author": "flipbrad",
-    "comments": 104,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=29483655"
+  },
+  {
+    "title": "Synthetic Cartilage",
+    "url": "https://today.duke.edu/2020/06/lab-first-cartilage-mimicking-gel-strong-enough-knees",
+    "upvotes": 7,
+    "author": "tangjurine",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29470784"
+  },
+  {
+    "title": "The Futurama Theorem",
+    "url": "https://theinfosphere.org/Futurama_theorem",
+    "upvotes": 81,
+    "author": "de_keyboard",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=29470721"
   },
   {
     "title": "Joel Yliluoma's arbitrary-palette positional dithering algorithm",
     "url": "https://bisqwit.iki.fi/story/howto/dither/jy/",
-    "upvotes": 54,
+    "upvotes": 59,
     "author": "homarp",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29447302"
   },
   {
-    "title": "Rust support in the Linux kernel",
-    "url": "https://lkml.org/lkml/2021/12/6/461",
-    "upvotes": 471,
-    "author": "SEJeff",
-    "comments": 302,
-    "link": "https://news.ycombinator.com/item?id=29485465"
-  },
-  {
     "title": "Gravitational waves should permanently distort space-time",
     "url": "https://www.quantamagazine.org/gravitational-waves-should-permanently-distort-space-time-20211208/",
-    "upvotes": 106,
+    "upvotes": 112,
     "author": "theafh",
-    "comments": 78,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=29485803"
   },
   {
-    "title": "The Futurama Theorem",
-    "url": "https://theinfosphere.org/Futurama_theorem",
-    "upvotes": 68,
-    "author": "de_keyboard",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=29470721"
+    "title": "Rust support in the Linux kernel",
+    "url": "https://lkml.org/lkml/2021/12/6/461",
+    "upvotes": 474,
+    "author": "SEJeff",
+    "comments": 306,
+    "link": "https://news.ycombinator.com/item?id=29485465"
   },
   {
-    "title": "Reduce your website’s environmental impact with a carbon budget",
-    "url": "https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/",
-    "upvotes": 41,
-    "author": "stareatgoats",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=29488456"
+    "title": "Ensmallen: A C++ Library For Efficient Numerical Optimization",
+    "url": "http://ensmallen.org/docs.html",
+    "upvotes": 29,
+    "author": "optimalsolver",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=29489613"
+  },
+  {
+    "title": "Why U.S. Infrastructure Costs So Much",
+    "url": "https://www.bloomberg.com/news/articles/2021-12-08/why-building-roads-and-transit-costs-more-in-the-u-s",
+    "upvotes": 114,
+    "author": "jseliger",
+    "comments": 163,
+    "link": "https://news.ycombinator.com/item?id=29489616"
   },
   {
     "title": "An Incan nobleman contested Spanish history",
     "url": "https://daily.jstor.org/how-an-incan-nobleman-contested-spanish-history/",
-    "upvotes": 36,
+    "upvotes": 39,
     "author": "Thevet",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=29487742"
-  },
-  {
-    "title": "Renault Zoe NCAP crash rating: zero stars [pdf]",
-    "url": "https://cdn.euroncap.com/media/66976/euroncap-2021-renault-zoe-datasheet.pdf",
-    "upvotes": 44,
-    "author": "Tomte",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=29486093"
   }
 ]
