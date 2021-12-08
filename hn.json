@@ -2,31 +2,55 @@
   {
     "title": "Rust Support in the Linux Kernel",
     "url": "https://lkml.org/lkml/2021/12/6/461",
-    "upvotes": 92,
+    "upvotes": 157,
     "author": "SEJeff",
-    "comments": 36,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=29485465"
   },
   {
     "title": "PowerShell Inventor Jeffrey Snover Interview",
     "url": "https://evrone.com/jeffrey-snover-interview",
-    "upvotes": 30,
+    "upvotes": 47,
     "author": "elizabethdevoir",
-    "comments": 9,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29485479"
+  },
+  {
+    "title": "Mu: A Human-Scale Computer",
+    "url": "https://github.com/akkartik/mu",
+    "upvotes": 13,
+    "author": "finite_jest",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29485624"
   },
   {
     "title": "Queue Despair: Ordering and Poison Messages",
     "url": "https://www.openmymind.net/Queue-Despair-Ordering-And-Poison-Messages/",
-    "upvotes": 19,
+    "upvotes": 25,
     "author": "tbonesteaks",
-    "comments": 12,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=29484998"
+  },
+  {
+    "title": "Do you ever avoid submitting something on HN so devs won't ruin it?",
+    "url": "item?id=29485904",
+    "upvotes": 64,
+    "author": "behnamoh",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=29485904"
+  },
+  {
+    "title": "Renault Zoe NCAP crash rating: zero stars [pdf]",
+    "url": "https://cdn.euroncap.com/media/66976/euroncap-2021-renault-zoe-datasheet.pdf",
+    "upvotes": 8,
+    "author": "Tomte",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29486093"
   },
   {
     "title": "Web-Based Vulkan GLSL Ray Tracing Emulator",
     "url": "https://www.gsn-lib.org/apps/raytracing/index.php",
-    "upvotes": 36,
+    "upvotes": 44,
     "author": "yyycomposer",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29484250"
@@ -34,205 +58,181 @@
   {
     "title": "Player of Games",
     "url": "https://arxiv.org/abs/2112.03178",
-    "upvotes": 268,
+    "upvotes": 280,
     "author": "vatueil",
-    "comments": 144,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=29481665"
+  },
+  {
+    "title": "Show HN: SyncedStore CRDT – build multiplayer collaborative apps for React / Vue",
+    "url": "https://syncedstore.org/docs/",
+    "upvotes": 62,
+    "author": "YousefED",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=29483913"
   },
   {
     "title": "MicroStudio now supports microScript, Python, JavaScript and Lua",
     "url": "https://microstudio.dev/community/news/microstudio-now-supports-4-programming-languages-microscript-python-javascript-and-lua/254/",
-    "upvotes": 157,
+    "upvotes": 167,
     "author": "seyhajin",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=29482163"
   },
   {
+    "title": "The Microsoft paradox: Contributing to cyber threats and monetizing the cure",
+    "url": "https://fortune.com/2021/12/06/microsoft-paradox-cybersecurity-solarwinds-exchange-national/",
+    "upvotes": 4,
+    "author": "wglb",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29486276"
+  },
+  {
+    "title": "Detailed Report on Local Privilege Escalation in Ubuntu Desktop",
+    "url": "https://flatt.tech/reports/210401_pwn2own/",
+    "upvotes": 10,
+    "author": "y0n3uchy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29485530"
+  },
+  {
     "title": "Pfizer and Biontech provide update on Omicron variant",
     "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-provide-update-omicron-variant",
-    "upvotes": 182,
+    "upvotes": 213,
     "author": "amichail",
-    "comments": 275,
+    "comments": 328,
     "link": "https://news.ycombinator.com/item?id=29484469"
-  },
-  {
-    "title": "Show HN: SyncedStore CRDT – build multiplayer collaborative apps for React / Vue",
-    "url": "https://syncedstore.org/docs/",
-    "upvotes": 43,
-    "author": "YousefED",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=29483913"
-  },
-  {
-    "title": "Mu: A Human-Scale Computer",
-    "url": "https://github.com/akkartik/mu",
-    "upvotes": 4,
-    "author": "finite_jest",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29485624"
-  },
-  {
-    "title": "FerretDB: A truly open-source MongoDB alternative",
-    "url": "https://github.com/FerretDB/FerretDB",
-    "upvotes": 87,
-    "author": "kiyanwang",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=29448906"
-  },
-  {
-    "title": "Reverse Engineering Roman Cavalry",
-    "url": "http://structuralarchaeology.blogspot.com/2021/02/reverse-engineering-roman-cavalry.html",
-    "upvotes": 8,
-    "author": "diodorus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29456198"
-  },
-  {
-    "title": "Microsoft’s Halo Infinite Went from Disaster to Triumph",
-    "url": "https://www.bloomberg.com/news/articles/2021-12-08/how-microsoft-s-halo-infinite-went-from-disaster-to-triumph",
-    "upvotes": 6,
-    "author": "danso",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29485399"
   },
   {
     "title": "Release",
     "url": "https://www.ycombinator.com/companies/release/jobs/Co0LgYqSQ-senior-fullstack-engineer-backend-focus-rails-react-aws-k8s"
   },
   {
+    "title": "FerretDB: A truly open-source MongoDB alternative",
+    "url": "https://github.com/FerretDB/FerretDB",
+    "upvotes": 95,
+    "author": "kiyanwang",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=29448906"
+  },
+  {
+    "title": "Twitter suspends account tracking Maxwell trial without explanation",
+    "url": "https://twitter.com/TrackerTrial",
+    "upvotes": 159,
+    "author": "Jimmc414",
+    "comments": 127,
+    "link": "https://news.ycombinator.com/item?id=29484545"
+  },
+  {
+    "title": "Reverse Engineering Roman Cavalry",
+    "url": "http://structuralarchaeology.blogspot.com/2021/02/reverse-engineering-roman-cavalry.html",
+    "upvotes": 11,
+    "author": "diodorus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29456198"
+  },
+  {
     "title": "Algorithms for division: Using Newton's method",
     "url": "https://blog.segger.com/algorithms-for-division-part-4-using-newtons-method/",
-    "upvotes": 15,
+    "upvotes": 19,
     "author": "picture",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29469186"
   },
   {
     "title": "Colour-changing magnifying glass gives clear view of infrared light",
     "url": "https://www.cam.ac.uk/research/news/colour-changing-magnifying-glass-gives-clear-view-of-infrared-light",
-    "upvotes": 118,
+    "upvotes": 124,
     "author": "rustoo",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=29447779"
   },
   {
     "title": "Amazon’s search results are full of ads ‘unlawfully deceiving’ consumers",
     "url": "https://www.washingtonpost.com/technology/2021/12/08/amazon-search-results-ftc-complaint/",
-    "upvotes": 143,
+    "upvotes": 173,
     "author": "nocommandline",
-    "comments": 65,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=29484317"
   },
   {
     "title": "Essential security for Linux servers",
     "url": "https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/",
-    "upvotes": 152,
+    "upvotes": 159,
     "author": "jcgoette",
-    "comments": 105,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=29481153"
-  },
-  {
-    "title": "Detailed Report on Local Privilege Escalation in Ubuntu Desktop",
-    "url": "https://flatt.tech/reports/210401_pwn2own/",
-    "upvotes": 5,
-    "author": "y0n3uchy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29485530"
-  },
-  {
-    "title": "Do you ever avoid submitting something on HN so devs won't ruin it?",
-    "url": "item?id=29485904",
-    "upvotes": 8,
-    "author": "behnamoh",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29485904"
-  },
-  {
-    "title": "Twitter suspends account tracking Maxwell trial without explanation",
-    "url": "https://twitter.com/TrackerTrial",
-    "upvotes": 100,
-    "author": "Jimmc414",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=29484545"
   },
   {
     "title": "The Serverless Shell",
     "url": "https://github.com/crucial-project/serverless-shell",
-    "upvotes": 42,
+    "upvotes": 45,
     "author": "otrack",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29482788"
   },
   {
     "title": "Controlled indoor cultivation of black morel",
     "url": "https://thedanishmorelproject.com/",
-    "upvotes": 158,
+    "upvotes": 160,
     "author": "wy35",
-    "comments": 72,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=29480357"
   },
   {
     "title": "Fedora 36 Planning to Run Wayland by Default with Nvidia's Proprietary Driver",
     "url": "https://www.phoronix.com/scan.php?page=news_item&px=Fedora-36-NVIDIA-Wayland",
-    "upvotes": 56,
+    "upvotes": 62,
     "author": "rbanffy",
-    "comments": 34,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=29484010"
   },
   {
     "title": "Telegram Introduces DRM",
     "url": "https://telegram.org/blog/protected-content-delete-by-date-and-more",
-    "upvotes": 173,
+    "upvotes": 186,
     "author": "yannoninator",
-    "comments": 246,
+    "comments": 265,
     "link": "https://news.ycombinator.com/item?id=29482918"
   },
   {
     "title": "Lack of sunlight makes our cells store more fat",
     "url": "https://www.ualberta.ca/folio/2018/01/reduced-sunlight-may-contribute-to-winter-weight-gain.html",
-    "upvotes": 158,
+    "upvotes": 168,
     "author": "giuliomagnifico",
-    "comments": 90,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=29483814"
-  },
-  {
-    "title": "Intel updates mysterious ‘software-defined silicon’ code in the Linux kernel",
-    "url": "https://www.theregister.com/2021/12/08/intel_software_defined_silicon_update/",
-    "upvotes": 61,
-    "author": "flipbrad",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=29483655"
-  },
-  {
-    "title": "Show HN: Play Zork, with your friends",
-    "url": "https://sayitwith.ink/boyd.html",
-    "upvotes": 12,
-    "author": "pheasantquiff",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29483736"
   },
   {
     "title": "Creating and morphing Lego faces with neural networks",
     "url": "https://www.echevarria.io/blog/lego-face-vae/index.html",
-    "upvotes": 15,
+    "upvotes": 18,
     "author": "ivanech",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29473192"
   },
   {
+    "title": "Intel updates mysterious ‘software-defined silicon’ code in the Linux kernel",
+    "url": "https://www.theregister.com/2021/12/08/intel_software_defined_silicon_update/",
+    "upvotes": 77,
+    "author": "flipbrad",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=29483655"
+  },
+  {
     "title": "Portable and Interoperable Async Rust",
     "url": "https://www.ncameron.org/blog/portable-and-interoperable-async-rust/",
-    "upvotes": 78,
+    "upvotes": 84,
     "author": "bsiemon",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=29481155"
   },
   {
-    "title": "Young's Lattice",
-    "url": "https://en.wikipedia.org/wiki/Young%27s_lattice",
-    "upvotes": 27,
-    "author": "agumonkey",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=29471575"
+    "title": "Show HN: Play Zork, with your friends",
+    "url": "https://sayitwith.ink/boyd.html",
+    "upvotes": 14,
+    "author": "pheasantquiff",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29483736"
   }
 ]
