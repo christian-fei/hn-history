@@ -2,39 +2,39 @@
   {
     "title": "Rust Support in the Linux Kernel",
     "url": "https://lkml.org/lkml/2021/12/6/461",
-    "upvotes": 293,
+    "upvotes": 341,
     "author": "SEJeff",
-    "comments": 155,
+    "comments": 174,
     "link": "https://news.ycombinator.com/item?id=29485465"
   },
   {
     "title": "Bjarne Stroustrup: “I Did It for You All ”",
     "url": "http://harmful.cat-v.org/software/c++/I_did_it_for_you_all",
-    "upvotes": 91,
+    "upvotes": 119,
     "author": "sbt567",
-    "comments": 25,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=29486902"
-  },
-  {
-    "title": "Building a PS1 style retro 3D renderer",
-    "url": "https://www.david-colson.com/2021/11/30/ps1-style-renderer.html",
-    "upvotes": 62,
-    "author": "bwidlar",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=29486066"
   },
   {
     "title": "Improving GitHub Code Search",
     "url": "https://github.blog/2021-12-08-improving-github-code-search/",
-    "upvotes": 40,
+    "upvotes": 80,
     "author": "todsacerdoti",
-    "comments": 8,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29487237"
+  },
+  {
+    "title": "Building a PS1 style retro 3D renderer",
+    "url": "https://www.david-colson.com/2021/11/30/ps1-style-renderer.html",
+    "upvotes": 86,
+    "author": "bwidlar",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=29486066"
   },
   {
     "title": "Hacking Go compiler to add a new keyword",
     "url": "https://avi.im/blag/2021/rc-day-24/",
-    "upvotes": 28,
+    "upvotes": 41,
     "author": "todsacerdoti",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29487244"
@@ -42,83 +42,91 @@
   {
     "title": "Gopher – A 280B parameter language model",
     "url": "https://deepmind.com/blog/article/language-modelling-at-scale",
-    "upvotes": 44,
+    "upvotes": 54,
     "author": "kevin_hu",
-    "comments": 17,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=29486607"
+  },
+  {
+    "title": "The Microsoft paradox: Contributing to cyber threats and monetizing the cure",
+    "url": "https://fortune.com/2021/12/06/microsoft-paradox-cybersecurity-solarwinds-exchange-national/",
+    "upvotes": 58,
+    "author": "wglb",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=29486276"
   },
   {
     "title": "Banner",
     "url": "https://www.ycombinator.com/companies/banner/jobs/smO6Mdo-full-stack-engineer"
   },
   {
-    "title": "The Microsoft paradox: Contributing to cyber threats and monetizing the cure",
-    "url": "https://fortune.com/2021/12/06/microsoft-paradox-cybersecurity-solarwinds-exchange-national/",
-    "upvotes": 48,
-    "author": "wglb",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=29486276"
-  },
-  {
     "title": "Mu: A Human-Scale Computer",
     "url": "https://github.com/akkartik/mu",
-    "upvotes": 47,
+    "upvotes": 51,
     "author": "finite_jest",
-    "comments": 17,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29485624"
   },
   {
     "title": "Gravitational Waves Should Permanently Distort Space-Time",
     "url": "https://www.quantamagazine.org/gravitational-waves-should-permanently-distort-space-time-20211208/",
-    "upvotes": 35,
+    "upvotes": 43,
     "author": "theafh",
-    "comments": 12,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29485803"
   },
   {
-    "title": "Ubisoft’s first NFT plans make no sense",
-    "url": "https://arstechnica.com/gaming/2021/12/ubisofts-first-nft-plans-make-no-sense/",
-    "upvotes": 58,
-    "author": "AlexandrB",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=29486297"
-  },
-  {
-    "title": "Queue Despair: Ordering and Poison Messages",
-    "url": "https://www.openmymind.net/Queue-Despair-Ordering-And-Poison-Messages/",
-    "upvotes": 40,
-    "author": "tbonesteaks",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=29484998"
+    "title": "‘We’re losing IQ points’: the lead poisoning crisis unfolding among US children",
+    "url": "https://www.theguardian.com/us-news/2021/dec/08/lead-poisoning-crisis-us-children",
+    "upvotes": 87,
+    "author": "CRConrad",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=29486964"
   },
   {
     "title": "Mechanical Computer – Basic Mechanisms in Fire Control Computers",
     "url": "https://www.youtube.com/watch?v=s1i-dnAH9Y4",
-    "upvotes": 10,
+    "upvotes": 16,
     "author": "xept",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29471331"
   },
   {
+    "title": "Queue Despair: Ordering and Poison Messages",
+    "url": "https://www.openmymind.net/Queue-Despair-Ordering-And-Poison-Messages/",
+    "upvotes": 41,
+    "author": "tbonesteaks",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=29484998"
+  },
+  {
+    "title": "Do you ever avoid submitting something on HN so devs won't ruin it?",
+    "url": "item?id=29485904",
+    "upvotes": 186,
+    "author": "behnamoh",
+    "comments": 190,
+    "link": "https://news.ycombinator.com/item?id=29485904"
+  },
+  {
     "title": "Player of Games",
     "url": "https://arxiv.org/abs/2112.03178",
-    "upvotes": 298,
+    "upvotes": 302,
     "author": "vatueil",
-    "comments": 162,
+    "comments": 171,
     "link": "https://news.ycombinator.com/item?id=29481665"
   },
   {
-    "title": "‘We’re losing IQ points’: the lead poisoning crisis unfolding among US children",
-    "url": "https://www.theguardian.com/us-news/2021/dec/08/lead-poisoning-crisis-us-children",
-    "upvotes": 55,
-    "author": "CRConrad",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=29486964"
+    "title": "Show HN: SyncedStore CRDT – build multiplayer collaborative apps for React / Vue",
+    "url": "https://syncedstore.org/docs/",
+    "upvotes": 90,
+    "author": "YousefED",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29483913"
   },
   {
     "title": "Detailed Report on Local Privilege Escalation in Ubuntu Desktop",
     "url": "https://flatt.tech/reports/210401_pwn2own/",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "y0n3uchy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29485530"
@@ -126,39 +134,15 @@
   {
     "title": "Web-Based Vulkan GLSL Ray Tracing Emulator",
     "url": "https://www.gsn-lib.org/apps/raytracing/index.php",
-    "upvotes": 54,
+    "upvotes": 59,
     "author": "yyycomposer",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29484250"
   },
   {
-    "title": "Show HN: SyncedStore CRDT – build multiplayer collaborative apps for React / Vue",
-    "url": "https://syncedstore.org/docs/",
-    "upvotes": 84,
-    "author": "YousefED",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=29483913"
-  },
-  {
-    "title": "MicroStudio now supports microScript, Python, JavaScript and Lua",
-    "url": "https://microstudio.dev/community/news/microstudio-now-supports-4-programming-languages-microscript-python-javascript-and-lua/254/",
-    "upvotes": 180,
-    "author": "seyhajin",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=29482163"
-  },
-  {
-    "title": "Do you ever avoid submitting something on HN so devs won't ruin it?",
-    "url": "item?id=29485904",
-    "upvotes": 160,
-    "author": "behnamoh",
-    "comments": 172,
-    "link": "https://news.ycombinator.com/item?id=29485904"
-  },
-  {
     "title": "Human Image Synthesis from Reflected Radio Waves",
     "url": "https://www.unite.ai/human-image-synthesis-from-reflected-radio-waves/",
-    "upvotes": 6,
+    "upvotes": 11,
     "author": "Hard_Space",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29487009"
@@ -166,73 +150,89 @@
   {
     "title": "PowerShell Inventor Jeffrey Snover Interview",
     "url": "https://evrone.com/jeffrey-snover-interview",
-    "upvotes": 69,
+    "upvotes": 78,
     "author": "elizabethdevoir",
-    "comments": 82,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=29485479"
+  },
+  {
+    "title": "MicroStudio now supports microScript, Python, JavaScript and Lua",
+    "url": "https://microstudio.dev/community/news/microstudio-now-supports-4-programming-languages-microscript-python-javascript-and-lua/254/",
+    "upvotes": 184,
+    "author": "seyhajin",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=29482163"
+  },
+  {
+    "title": "Why Aren't Thousands of Gigabytes of Abusive Images Removed from the Web?",
+    "url": "https://www.spiegel.de/international/world/sexual-violence-against-children-why-aren-t-thousands-of-gigabytes-of-abusive-images-removed-from-the-web-a-99f36312-8054-479b-8d7c-ff86679daa45",
+    "upvotes": 13,
+    "author": "Tomte",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=29486484"
+  },
+  {
+    "title": "Facebook and Snapchat iOS Apps Still Tracking Users Despite Opt-Out",
+    "url": "https://www.macrumors.com/2021/12/08/users-continue-to-be-tracked-by-facebook/",
+    "upvotes": 74,
+    "author": "tanelpoder",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=29486375"
+  },
+  {
+    "title": "Ubisoft’s first NFT plans make no sense",
+    "url": "https://arstechnica.com/gaming/2021/12/ubisofts-first-nft-plans-make-no-sense/",
+    "upvotes": 69,
+    "author": "AlexandrB",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=29486297"
   },
   {
     "title": "Reverse Engineering Roman Cavalry",
     "url": "http://structuralarchaeology.blogspot.com/2021/02/reverse-engineering-roman-cavalry.html",
-    "upvotes": 24,
+    "upvotes": 29,
     "author": "diodorus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29456198"
   },
   {
-    "title": "Facebook and Snapchat iOS Apps Still Tracking Users Despite Opt-Out",
-    "url": "https://www.macrumors.com/2021/12/08/users-continue-to-be-tracked-by-facebook/",
-    "upvotes": 49,
-    "author": "tanelpoder",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=29486375"
-  },
-  {
     "title": "Algorithms for division: Using Newton's method",
     "url": "https://blog.segger.com/algorithms-for-division-part-4-using-newtons-method/",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "picture",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29469186"
   },
   {
     "title": "FerretDB: A truly open-source MongoDB alternative",
     "url": "https://github.com/FerretDB/FerretDB",
-    "upvotes": 112,
+    "upvotes": 115,
     "author": "kiyanwang",
-    "comments": 84,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=29448906"
   },
   {
     "title": "Twitter suspends account tracking Maxwell trial without explanation",
     "url": "https://twitter.com/TrackerTrial",
-    "upvotes": 284,
+    "upvotes": 312,
     "author": "Jimmc414",
-    "comments": 214,
+    "comments": 235,
     "link": "https://news.ycombinator.com/item?id=29484545"
   },
   {
-    "title": "Pfizer and Biontech provide update on Omicron variant",
-    "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-provide-update-omicron-variant",
-    "upvotes": 270,
-    "author": "amichail",
-    "comments": 448,
-    "link": "https://news.ycombinator.com/item?id=29484469"
+    "title": "An Incan Nobleman Contested Spanish History",
+    "url": "https://daily.jstor.org/how-an-incan-nobleman-contested-spanish-history/",
+    "upvotes": 3,
+    "author": "Thevet",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29487742"
   },
   {
     "title": "Generating 360° Video Game Panoramas",
     "url": "https://jahed.dev/2021/12/05/generating-video-game-panoramas/",
-    "upvotes": 11,
+    "upvotes": 15,
     "author": "ignitionmonkey",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29465709"
-  },
-  {
-    "title": "Colour-changing magnifying glass gives clear view of infrared light",
-    "url": "https://www.cam.ac.uk/research/news/colour-changing-magnifying-glass-gives-clear-view-of-infrared-light",
-    "upvotes": 136,
-    "author": "rustoo",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=29447779"
   }
 ]
