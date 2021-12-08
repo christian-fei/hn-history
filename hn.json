@@ -2,115 +2,131 @@
   {
     "title": "We will be retiring Alexa.com",
     "url": "https://support.alexa.com/hc/en-us/articles/4410503838999",
-    "upvotes": 178,
+    "upvotes": 225,
     "author": "dlackty",
-    "comments": 82,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=29488522"
   },
   {
     "title": "The $11B Webb telescope aims to probe the early universe",
     "url": "https://www.nature.com/articles/d41586-021-03620-1",
-    "upvotes": 157,
+    "upvotes": 173,
     "author": "infodocket",
-    "comments": 117,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=29488487"
   },
   {
     "title": "Improving GitHub Code Search",
     "url": "https://github.blog/2021-12-08-improving-github-code-search/",
-    "upvotes": 259,
+    "upvotes": 283,
     "author": "todsacerdoti",
-    "comments": 120,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=29487237"
   },
   {
     "title": "Why U.S. Infrastructure Costs So Much",
     "url": "https://www.bloomberg.com/news/articles/2021-12-08/why-building-roads-and-transit-costs-more-in-the-u-s",
-    "upvotes": 36,
+    "upvotes": 57,
     "author": "jseliger",
-    "comments": 23,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=29489616"
+  },
+  {
+    "title": "Apple CEO Tim Cook 'secretly' signed $275B deal with China in 2016",
+    "url": "https://www.macrumors.com/2021/12/07/apple-ceo-tim-cook-secret-deal-with-china/",
+    "upvotes": 253,
+    "author": "baybal2",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=29482351"
+  },
+  {
+    "title": "Building a PS1 style retro 3D renderer",
+    "url": "https://www.david-colson.com/2021/11/30/ps1-style-renderer.html",
+    "upvotes": 220,
+    "author": "bwidlar",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=29486066"
   },
   {
     "title": "CareRev",
     "url": "https://grnh.se/ad461ea33us"
   },
   {
-    "title": "Apple CEO Tim Cook 'secretly' signed $275B deal with China in 2016",
-    "url": "https://www.macrumors.com/2021/12/07/apple-ceo-tim-cook-secret-deal-with-china/",
-    "upvotes": 191,
-    "author": "baybal2",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=29482351"
-  },
-  {
-    "title": "Building a PS1 style retro 3D renderer",
-    "url": "https://www.david-colson.com/2021/11/30/ps1-style-renderer.html",
-    "upvotes": 207,
-    "author": "bwidlar",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=29486066"
+    "title": "Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation",
+    "url": "https://arxiv.org/abs/2109.01950",
+    "upvotes": 39,
+    "author": "leephillips",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29489628"
   },
   {
     "title": "Show HN: I rebuilt the Flash app “Scale of the Universe” in WebGL",
     "url": "https://htwins.net/scale2/",
-    "upvotes": 65,
+    "upvotes": 81,
     "author": "mattmar96",
-    "comments": 24,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29488511"
-  },
-  {
-    "title": "Why do antibiotics exist?",
-    "url": "https://journals.asm.org/doi/10.1128/mBio.01966-21",
-    "upvotes": 36,
-    "author": "maxerickson",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=29489010"
-  },
-  {
-    "title": "Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation",
-    "url": "https://arxiv.org/abs/2109.01950",
-    "upvotes": 24,
-    "author": "leephillips",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29489628"
-  },
-  {
-    "title": "Groups never admit failure",
-    "url": "https://nav.al/failure",
-    "upvotes": 67,
-    "author": "todsacerdoti",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=29488641"
   },
   {
     "title": "Hacking the Go compiler to add a new keyword",
     "url": "https://avi.im/blag/2021/rc-day-24/",
-    "upvotes": 89,
+    "upvotes": 91,
     "author": "todsacerdoti",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=29487244"
   },
   {
+    "title": "Latest Earthquakes",
+    "url": "https://earthquake.usgs.gov/earthquakes/map/?extent=36.72127,-143.37158&extent=50.94458,-108.21533&sort=largest&listOnlyShown=true",
+    "upvotes": 16,
+    "author": "DyslexicAtheist",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=29489963"
+  },
+  {
+    "title": "LLDB FreeBSD kernel core dump support",
+    "url": "https://www.moritz.systems/blog/lldb-freebsd-kernel-core-dump-support/",
+    "upvotes": 14,
+    "author": "fcambus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29489464"
+  },
+  {
     "title": "Gopher – A 280B parameter language model",
     "url": "https://deepmind.com/blog/article/language-modelling-at-scale",
-    "upvotes": 102,
+    "upvotes": 107,
     "author": "kevin_hu",
     "comments": 65,
     "link": "https://news.ycombinator.com/item?id=29486607"
   },
   {
-    "title": "Latest Earthquakes",
-    "url": "https://earthquake.usgs.gov/earthquakes/map/?extent=36.72127,-143.37158&extent=50.94458,-108.21533&sort=largest&listOnlyShown=true",
-    "upvotes": 11,
-    "author": "DyslexicAtheist",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29489963"
+    "title": "Groups never admit failure",
+    "url": "https://nav.al/failure",
+    "upvotes": 82,
+    "author": "todsacerdoti",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=29488641"
+  },
+  {
+    "title": "Why do antibiotics exist?",
+    "url": "https://journals.asm.org/doi/10.1128/mBio.01966-21",
+    "upvotes": 41,
+    "author": "maxerickson",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=29489010"
+  },
+  {
+    "title": "AI training is outpacing Moore’s Law",
+    "url": "https://spectrum.ieee.org/ai-training-mlperf",
+    "upvotes": 43,
+    "author": "pseudolus",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=29448710"
   },
   {
     "title": "Mu: A Human-Scale Computer",
     "url": "https://github.com/akkartik/mu",
-    "upvotes": 89,
+    "upvotes": 92,
     "author": "finite_jest",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=29485624"
@@ -118,121 +134,105 @@
   {
     "title": "Rust support in the Linux kernel",
     "url": "https://lkml.org/lkml/2021/12/6/461",
-    "upvotes": 447,
+    "upvotes": 453,
     "author": "SEJeff",
-    "comments": 273,
+    "comments": 285,
     "link": "https://news.ycombinator.com/item?id=29485465"
   },
   {
     "title": "Gravitational waves should permanently distort space-time",
     "url": "https://www.quantamagazine.org/gravitational-waves-should-permanently-distort-space-time-20211208/",
-    "upvotes": 88,
+    "upvotes": 92,
     "author": "theafh",
-    "comments": 63,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=29485803"
-  },
-  {
-    "title": "AI training is outpacing Moore’s Law",
-    "url": "https://spectrum.ieee.org/ai-training-mlperf",
-    "upvotes": 34,
-    "author": "pseudolus",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=29448710"
   },
   {
     "title": "Ensmallen: A C++ Library For Efficient Numerical Optimization",
     "url": "http://ensmallen.org/docs.html",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "optimalsolver",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29489613"
   },
   {
     "title": "Intel updates mysterious ‘software-defined silicon’ code in the Linux kernel",
     "url": "https://www.theregister.com/2021/12/08/intel_software_defined_silicon_update/",
-    "upvotes": 99,
+    "upvotes": 106,
     "author": "flipbrad",
-    "comments": 53,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=29483655"
   },
   {
-    "title": "LLDB FreeBSD kernel core dump support",
-    "url": "https://www.moritz.systems/blog/lldb-freebsd-kernel-core-dump-support/",
-    "upvotes": 7,
-    "author": "fcambus",
+    "title": "The Futurama Theorem",
+    "url": "https://theinfosphere.org/Futurama_theorem",
+    "upvotes": 10,
+    "author": "de_keyboard",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29489464"
-  },
-  {
-    "title": "An Incan nobleman contested Spanish history",
-    "url": "https://daily.jstor.org/how-an-incan-nobleman-contested-spanish-history/",
-    "upvotes": 27,
-    "author": "Thevet",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=29487742"
-  },
-  {
-    "title": "Web Push Notifications in WebKit",
-    "url": "https://bugs.webkit.org/show_bug.cgi?id=182566",
-    "upvotes": 38,
-    "author": "maxwell",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=29489523"
+    "link": "https://news.ycombinator.com/item?id=29470721"
   },
   {
     "title": "Joel Yliluoma's arbitrary-palette positional dithering algorithm",
     "url": "https://bisqwit.iki.fi/story/howto/dither/jy/",
-    "upvotes": 34,
+    "upvotes": 41,
     "author": "homarp",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29447302"
   },
   {
-    "title": "Reduce your website’s environmental impact with a carbon budget",
-    "url": "https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/",
+    "title": "An Incan nobleman contested Spanish history",
+    "url": "https://daily.jstor.org/how-an-incan-nobleman-contested-spanish-history/",
     "upvotes": 28,
-    "author": "stareatgoats",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=29488456"
+    "author": "Thevet",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=29487742"
+  },
+  {
+    "title": "Faster remainders when divisor is a constant: beating compilers and libdivide",
+    "url": "https://lemire.me/blog/2019/02/08/faster-remainders-when-the-divisor-is-a-constant-beating-compilers-and-libdivide/",
+    "upvotes": 13,
+    "author": "marcodiego",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29487605"
   },
   {
     "title": "Renault Zoe NCAP crash rating: zero stars [pdf]",
     "url": "https://cdn.euroncap.com/media/66976/euroncap-2021-renault-zoe-datasheet.pdf",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "Tomte",
-    "comments": 53,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=29486093"
   },
   {
     "title": "Protected Content, Delete by Date, Device Management and more",
     "url": "https://telegram.org/blog/protected-content-delete-by-date-and-more",
-    "upvotes": 208,
+    "upvotes": 209,
     "author": "yannoninator",
-    "comments": 299,
+    "comments": 304,
     "link": "https://news.ycombinator.com/item?id=29482918"
+  },
+  {
+    "title": "Web Push Notifications in WebKit",
+    "url": "https://bugs.webkit.org/show_bug.cgi?id=182566",
+    "upvotes": 41,
+    "author": "maxwell",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=29489523"
+  },
+  {
+    "title": "Reduce your website’s environmental impact with a carbon budget",
+    "url": "https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/",
+    "upvotes": 30,
+    "author": "stareatgoats",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29488456"
   },
   {
     "title": "Mechanical Computer – Basic Mechanisms in Fire Control Computers",
     "url": "https://www.youtube.com/watch?v=s1i-dnAH9Y4",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "xept",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29471331"
-  },
-  {
-    "title": "Player of Games",
-    "url": "https://arxiv.org/abs/2112.03178",
-    "upvotes": 336,
-    "author": "vatueil",
-    "comments": 193,
-    "link": "https://news.ycombinator.com/item?id=29481665"
-  },
-  {
-    "title": "Lead poisoning among US children",
-    "url": "https://www.theguardian.com/us-news/2021/dec/08/lead-poisoning-crisis-us-children",
-    "upvotes": 202,
-    "author": "CRConrad",
-    "comments": 183,
-    "link": "https://news.ycombinator.com/item?id=29486964"
   }
 ]
