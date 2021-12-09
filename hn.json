@@ -1,83 +1,91 @@
 [
   {
+    "title": "Tailwind CSS v3.0",
+    "url": "https://tailwindcss.com/blog/tailwindcss-v3",
+    "upvotes": 133,
+    "author": "pspeter3",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=29501110"
+  },
+  {
     "title": "Stack Graphs",
     "url": "https://github.blog/2021-12-09-introducing-stack-graphs/",
-    "upvotes": 95,
+    "upvotes": 135,
     "author": "todsacerdoti",
-    "comments": 23,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=29500602"
   },
   {
     "title": "Masayuki Uemura has died",
     "url": "https://www.thegamer.com/masayuki-uemura-creator-nes-snes-dies/",
-    "upvotes": 277,
+    "upvotes": 291,
     "author": "the-dude",
-    "comments": 93,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=29497646"
   },
   {
-    "title": "Tailwind CSS v3.0",
-    "url": "https://tailwindcss.com/blog/tailwindcss-v3",
-    "upvotes": 41,
-    "author": "pspeter3",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=29501110"
+    "title": "HashiCorp IPO today",
+    "url": "https://www.hashicorp.com/blog/a-new-chapter-for-hashicorp",
+    "upvotes": 52,
+    "author": "colemorrison",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=29500645"
   },
   {
     "title": "“Free PACER” bill advances through Senate judiciary unanimously",
     "url": "https://fixthecourt.com/2021/12/free-pacer-bill-advances-senate-judiciary-unanimously/",
-    "upvotes": 237,
+    "upvotes": 266,
     "author": "walterbell",
-    "comments": 39,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=29499809"
   },
   {
     "title": "Haystack 1.0 – open-source NLP framework to build NLProc back end applications",
     "url": "https://github.com/deepset-ai/haystack",
-    "upvotes": 45,
+    "upvotes": 51,
     "author": "antti909",
-    "comments": 6,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29501045"
-  },
-  {
-    "title": "Cat meow sounds visualized with Auto-Correlation Function",
-    "url": "https://soundshader.github.io/cats.html",
-    "upvotes": 15,
-    "author": "gbh444g",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29501359"
   },
   {
     "title": "Mathematicians Transcend Geometric Theory of Motion",
     "url": "https://www.quantamagazine.org/mathematicians-transcend-geometric-theory-of-motion-20211209/",
-    "upvotes": 69,
+    "upvotes": 75,
     "author": "theafh",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=29498417"
   },
   {
     "title": "eBPF will help solve service mesh by getting rid of sidecars",
     "url": "https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh",
-    "upvotes": 163,
+    "upvotes": 174,
     "author": "tgraf",
-    "comments": 64,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=29496870"
   },
   {
     "title": "The CIA and the Media",
     "url": "http://www.carlbernstein.com/magazine_cia_and_media.php",
-    "upvotes": 190,
+    "upvotes": 196,
     "author": "1cvmask",
-    "comments": 98,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=29497669"
   },
   {
-    "title": "Tile buyer Life360 reportedly sells precise user location data to nearly anyone",
-    "url": "https://appleinsider.com/articles/21/12/06/tile-buyer-life360-reportedly-sells-precise-user-location-data-to-nearly-anyone",
-    "upvotes": 39,
-    "author": "dmitrygr",
+    "title": "Using deep learning to predict the olfactory properties of molecules",
+    "url": "https://ai.googleblog.com/2019/10/learning-to-smell-using-deep-learning.html",
+    "upvotes": 9,
+    "author": "sebg",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29501728"
+  },
+  {
+    "title": "The Economics of Pinball",
+    "url": "https://cheaptalk.org/2009/11/17/the-economics-of-pinball/",
+    "upvotes": 21,
+    "author": "saadalem",
     "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29501406"
+    "link": "https://news.ycombinator.com/item?id=29484459"
   },
   {
     "title": "Synapticure (YC S20) Is Hiring an Engineering Manager for ALS Telehealth",
@@ -86,7 +94,7 @@
   {
     "title": "Parallel Logic Programming: A Sequel",
     "url": "https://arxiv.org/abs/2111.11218",
-    "upvotes": 35,
+    "upvotes": 37,
     "author": "matt_d",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29499055"
@@ -94,145 +102,137 @@
   {
     "title": "The business of extracting knowledge from academic publications",
     "url": "https://markusstrasser.org/extracting-knowledge-from-literature/",
-    "upvotes": 211,
+    "upvotes": 217,
     "author": "kevin_hu",
-    "comments": 84,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=29481061"
   },
   {
     "title": "Apple Neural Engine Internal: From ML Algorithm to HW Registers",
     "url": "https://www.blackhat.com/asia-21/briefings/schedule/index.html#apple-neural-engine-internal-from-ml-algorithm-to-hw-registers-22039",
-    "upvotes": 57,
+    "upvotes": 61,
     "author": "blopeur",
-    "comments": 20,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29483347"
   },
   {
     "title": "Show HN: Minimalist offline journal app with a chat interface",
     "url": "https://thezenjournal.com",
-    "upvotes": 42,
+    "upvotes": 51,
     "author": "randomor",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29498336"
   },
   {
-    "title": "A New Chapter for HashiCorp",
-    "url": "https://www.hashicorp.com/blog/a-new-chapter-for-hashicorp",
-    "upvotes": 11,
-    "author": "colemorrison",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29500645"
-  },
-  {
-    "title": "Two lines of CSS that will improve HN on mobile",
-    "url": "https://tdinh.notion.site/The-2-lines-of-CSS-that-will-improve-HN-on-mobile-cc7521e476ae487180e94e8dd4275c80",
-    "upvotes": 232,
-    "author": "trungdq88",
-    "comments": 144,
-    "link": "https://news.ycombinator.com/item?id=29494475"
-  },
-  {
-    "title": "Tell HN: You can't add “no ads” in your Play Store app's title",
-    "url": "item?id=29497680",
-    "upvotes": 266,
-    "author": "TrianguloY",
-    "comments": 124,
-    "link": "https://news.ycombinator.com/item?id=29497680"
+    "title": "Toxicity Dataset",
+    "url": "https://github.com/surge-ai/toxicity",
+    "upvotes": 18,
+    "author": "CarrieLab",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=29501861"
   },
   {
     "title": "Creating personalised data stories with GPT-3",
     "url": "https://blog.scottlogic.com/2021/12/08/narrative-dashboard.html",
-    "upvotes": 7,
+    "upvotes": 11,
     "author": "ColinEberhardt",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29482569"
-  },
-  {
-    "title": "Jam – Self-Hosted Clubhouse",
-    "url": "https://github.com/jam-systems/jam",
-    "upvotes": 200,
-    "author": "synergy20",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=29493894"
   },
   {
     "title": "Understanding Fast-Math",
     "url": "https://pspdfkit.com/blog/2021/understanding-fast-math/",
-    "upvotes": 44,
+    "upvotes": 51,
     "author": "ingve",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29482350"
+  },
+  {
+    "title": "Tell HN: You can't add “no ads” in your Play Store app's title",
+    "url": "item?id=29497680",
+    "upvotes": 280,
+    "author": "TrianguloY",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=29497680"
   },
   {
     "title": "Artificial Intelligence in the Cockpit",
     "url": "https://daedalean.ai/tpost/edft5l2a31-artificial-intelligence-in-the-cockpit-s",
-    "upvotes": 71,
+    "upvotes": 73,
     "author": "ur-whale",
-    "comments": 74,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=29495810"
+  },
+  {
+    "title": "Show HN: Wayremap is a Dynamic key remapper for Wayland desktop environment",
+    "url": "https://github.com/acro5piano/wayremap",
+    "upvotes": 7,
+    "author": "acro5piano",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29501022"
   },
   {
     "title": "How I spend less time on YouTube",
     "url": "https://pawelurbanek.com/youtube-addiction-selfcontrol",
-    "upvotes": 128,
+    "upvotes": 134,
     "author": "pawurb",
-    "comments": 142,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=29485064"
-  },
-  {
-    "title": "Ask HN: I'm looking for a good book on the fundamentals of CS",
-    "url": "item?id=29498220",
-    "upvotes": 157,
-    "author": "Karsteski",
-    "comments": 142,
-    "link": "https://news.ycombinator.com/item?id=29498220"
-  },
-  {
-    "title": "America is running on fumes",
-    "url": "https://www.theatlantic.com/ideas/archive/2021/12/america-innovation-film-science-business/620858/",
-    "upvotes": 167,
-    "author": "paulpauper",
-    "comments": 224,
-    "link": "https://news.ycombinator.com/item?id=29499352"
   },
   {
     "title": "Dracula Theme – A dark theme for many different apps",
     "url": "https://draculatheme.com",
-    "upvotes": 427,
+    "upvotes": 438,
     "author": "vmbrasseur",
-    "comments": 200,
+    "comments": 202,
     "link": "https://news.ycombinator.com/item?id=29494189"
+  },
+  {
+    "title": "Ask HN: I'm looking for a good book on the fundamentals of CS",
+    "url": "item?id=29498220",
+    "upvotes": 165,
+    "author": "Karsteski",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=29498220"
   },
   {
     "title": "Expanding Sourcegraph from an on-premise product into a cloud offering",
     "url": "https://about.sourcegraph.com/blog/expanding-sourcegraph-from-on-premise-to-saas/",
-    "upvotes": 33,
+    "upvotes": 35,
     "author": "iskyOS",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29500448"
   },
   {
-    "title": "How songwriters felt watching the new Beatles documentary",
-    "url": "https://www.washingtonpost.com/arts-entertainment/2021/12/06/beatles-get-back-documentary-songwriters/",
-    "upvotes": 107,
-    "author": "tintinnabula",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=29480027"
-  },
-  {
     "title": "Number of journalists in jail reaches global high",
     "url": "https://cpj.org/reports/2021/12/number-of-journalists-behind-bars-reaches-global-high/",
-    "upvotes": 278,
+    "upvotes": 282,
     "author": "samizdis",
-    "comments": 106,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=29495145"
+  },
+  {
+    "title": "Louis Armstrong shaped the sound of Ghana",
+    "url": "https://www.atlasobscura.com/articles/louis-armstrong-jazz-highlife-ghana",
+    "upvotes": 29,
+    "author": "CapitalistCartr",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=29483830"
   },
   {
     "title": "World Login Errors and Resolutions",
     "url": "https://na.finalfantasyxiv.com/lodestone/news/detail/4269a50a754b4f83a99b49341324153ef4405c13",
     "upvotes": 36,
     "author": "wallflower",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29479969"
+  },
+  {
+    "title": "How to run a small social network site for your friends",
+    "url": "https://runyourown.social/",
+    "upvotes": 316,
+    "author": "quaintdev",
+    "comments": 178,
+    "link": "https://news.ycombinator.com/item?id=29470565"
   }
 ]
