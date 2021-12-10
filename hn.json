@@ -1,72 +1,88 @@
 [
   {
+    "title": "More than half of high-impact cancer lab studies could not be replicated",
+    "url": "https://www.science.org/content/article/more-half-high-impact-cancer-lab-studies-could-not-be-replicated-controversial-analysis",
+    "upvotes": 53,
+    "author": "kevin_hu",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29506211"
+  },
+  {
     "title": "Log4j RCE Found",
     "url": "https://www.lunasec.io/docs/blog/log4j-zero-day/",
-    "upvotes": 257,
+    "upvotes": 295,
     "author": "usmannk",
-    "comments": 81,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=29504755"
   },
   {
     "title": "Tailwind CSS v3.0",
     "url": "https://tailwindcss.com/blog/tailwindcss-v3",
-    "upvotes": 567,
+    "upvotes": 578,
     "author": "pspeter3",
-    "comments": 297,
+    "comments": 302,
     "link": "https://news.ycombinator.com/item?id=29501110"
-  },
-  {
-    "title": "How do you fix a stroad?",
-    "url": "https://www.strongtowns.org/journal/2021/12/2/how-do-you-actually-fix-a-stroad",
-    "upvotes": 143,
-    "author": "milkytron",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=29504521"
   },
   {
     "title": "Scala at scale at Databricks",
     "url": "https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html",
-    "upvotes": 47,
+    "upvotes": 59,
     "author": "lihaoyi",
-    "comments": 6,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29505512"
-  },
-  {
-    "title": "HashiCorp IPO today",
-    "url": "https://www.hashicorp.com/blog/a-new-chapter-for-hashicorp",
-    "upvotes": 348,
-    "author": "colemorrison",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=29500645"
   },
   {
     "title": "Defensive CSS",
     "url": "https://ishadeed.com/article/defensive-css/",
-    "upvotes": 84,
+    "upvotes": 100,
     "author": "kevin_hu",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29504784"
   },
   {
-    "title": "Stack Graphs",
-    "url": "https://github.blog/2021-12-09-introducing-stack-graphs/",
-    "upvotes": 287,
-    "author": "todsacerdoti",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=29500602"
+    "title": "HashiCorp IPO today",
+    "url": "https://www.hashicorp.com/blog/a-new-chapter-for-hashicorp",
+    "upvotes": 361,
+    "author": "colemorrison",
+    "comments": 143,
+    "link": "https://news.ycombinator.com/item?id=29500645"
+  },
+  {
+    "title": "How do you fix a stroad?",
+    "url": "https://www.strongtowns.org/journal/2021/12/2/how-do-you-actually-fix-a-stroad",
+    "upvotes": 157,
+    "author": "milkytron",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=29504521"
   },
   {
     "title": "Masayuki Uemura has died",
     "url": "https://www.thegamer.com/masayuki-uemura-creator-nes-snes-dies/",
-    "upvotes": 398,
+    "upvotes": 405,
     "author": "the-dude",
-    "comments": 113,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=29497646"
+  },
+  {
+    "title": "Stack Graphs",
+    "url": "https://github.blog/2021-12-09-introducing-stack-graphs/",
+    "upvotes": 290,
+    "author": "todsacerdoti",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=29500602"
+  },
+  {
+    "title": "Cardstacker Bryan Berg",
+    "url": "https://www.cardstacker.com",
+    "upvotes": 11,
+    "author": "hispanic",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29504703"
   },
   {
     "title": "A molten salt storage solution using sodium hydroxide",
     "url": "https://sifted.eu/articles/salt-energy-storage-seaborg-hyme/",
-    "upvotes": 120,
+    "upvotes": 121,
     "author": "ericdanielski",
     "comments": 77,
     "link": "https://news.ycombinator.com/item?id=29502138"
@@ -74,17 +90,17 @@
   {
     "title": "PDM: A Modern Python Package Manager",
     "url": "https://pdm.fming.dev/",
-    "upvotes": 120,
+    "upvotes": 127,
     "author": "sciurus",
-    "comments": 83,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=29502715"
   },
   {
     "title": "Avoiding Internet Centralization",
     "url": "https://mnot.github.io/avoiding-internet-centralization/draft-nottingham-avoiding-internet-centralization.html",
-    "upvotes": 71,
+    "upvotes": 77,
     "author": "johndbeatty",
-    "comments": 52,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=29500035"
   },
   {
@@ -92,89 +108,65 @@
     "url": "https://etleap.com/jobs/#software-engineer-integrations"
   },
   {
-    "title": "RCE 0-day exploit found in log4j, a popular Java logging package",
-    "url": "https://www.lunasec.io/docs/blog/log4j-zero-day/",
-    "upvotes": 32,
-    "author": "freeqaz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29505477"
-  },
-  {
-    "title": "More than half of high-impact cancer lab studies could not be replicated",
-    "url": "https://www.science.org/content/article/more-half-high-impact-cancer-lab-studies-could-not-be-replicated-controversial-analysis",
-    "upvotes": 5,
-    "author": "kevin_hu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29506211"
+    "title": "Training computer vision models on random noise instead of real images",
+    "url": "https://www.unite.ai/training-computer-vision-models-on-random-noise-instead-of-real-images/",
+    "upvotes": 15,
+    "author": "Hard_Space",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29496829"
   },
   {
     "title": "Chrome users beware: Manifest v3 is deceitful and threatening",
     "url": "https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening",
-    "upvotes": 451,
+    "upvotes": 465,
     "author": "dredmorbius",
-    "comments": 230,
+    "comments": 241,
     "link": "https://news.ycombinator.com/item?id=29502439"
   },
   {
     "title": "Faster Gitlab CI/CD pipelines",
     "url": "https://blog.nimbleways.com/let-s-make-faster-gitlab-ci-cd-pipelines/",
-    "upvotes": 74,
+    "upvotes": 77,
     "author": "iduoad",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=29502999"
   },
   {
+    "title": "Build models like we build open-source software",
+    "url": "https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html",
+    "upvotes": 22,
+    "author": "tristanz",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29487212"
+  },
+  {
     "title": "Replit.com",
     "url": "https://blog.replit.com/b",
-    "upvotes": 125,
+    "upvotes": 129,
     "author": "plondon514",
-    "comments": 78,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=29501514"
   },
   {
     "title": "Generation of advanced Escher-like spiral tessellations",
     "url": "https://link.springer.com/article/10.1007/s00371-021-02232-0",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "bryanrasmussen",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29490327"
   },
   {
     "title": "Three systems beneath network effects",
     "url": "https://every.to/divinations/the-three-systems-beneath-network-effects",
-    "upvotes": 12,
+    "upvotes": 14,
     "author": "enigmatic02",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29482520"
-  },
-  {
-    "title": "Training computer vision models on random noise instead of real images",
-    "url": "https://www.unite.ai/training-computer-vision-models-on-random-noise-instead-of-real-images/",
-    "upvotes": 10,
-    "author": "Hard_Space",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29496829"
-  },
-  {
-    "title": "Cardstacker Bryan Berg",
-    "url": "https://www.cardstacker.com",
-    "upvotes": 4,
-    "author": "hispanic",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29504703"
-  },
-  {
-    "title": "Build models like we build open-source software",
-    "url": "https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html",
-    "upvotes": 15,
-    "author": "tristanz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29487212"
   },
   {
     "title": "Radical Polish books to add to your reading list",
     "url": "https://www.calvertjournal.com/features/show/12858/queer-feminist-sci-fi-books-polish-literature",
-    "upvotes": 77,
+    "upvotes": 78,
     "author": "axiomdata316",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=29502396"
@@ -182,49 +174,49 @@
   {
     "title": "Show HN: Deeplinks.js – Simple deep links to selections of text on your website",
     "url": "https://github.com/WesleyAC/deeplinks",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "wesleyac",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29492143"
+  },
+  {
+    "title": "Does Georgism Work? Part 2: Can Landlords Pass Land Value Tax on to Tenants?",
+    "url": "https://astralcodexten.substack.com/p/does-georgism-work-part-2-can-landlords",
+    "upvotes": 12,
+    "author": "feross",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29506251"
   },
   {
     "title": "Apple Neural Engine Internal: From ML Algorithm to HW Registers",
     "url": "https://www.blackhat.com/asia-21/briefings/schedule/index.html#apple-neural-engine-internal-from-ml-algorithm-to-hw-registers-22039",
-    "upvotes": 110,
+    "upvotes": 111,
     "author": "blopeur",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=29483347"
   },
   {
     "title": "“Free PACER” bill advances through Senate judiciary unanimously",
     "url": "https://fixthecourt.com/2021/12/free-pacer-bill-advances-senate-judiciary-unanimously/",
-    "upvotes": 409,
+    "upvotes": 417,
     "author": "walterbell",
-    "comments": 122,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=29499809"
   },
   {
     "title": "Show HN: Play Zork with your friends via SSH",
     "url": "https://sayitwith.ink/boyd.html",
-    "upvotes": 65,
+    "upvotes": 69,
     "author": "pheasantquiff",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29483736"
-  },
-  {
-    "title": "Dr. Strangelove's 'Doomsday Machine': It's real",
-    "url": "https://www.npr.org/templates/story/story.php?storyId=113242681",
-    "upvotes": 31,
-    "author": "marcodiego",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=29505327"
   },
   {
     "title": "Show HN: Minimalist offline journal app with a chat interface",
     "url": "https://thezenjournal.com",
-    "upvotes": 98,
+    "upvotes": 99,
     "author": "randomor",
-    "comments": 49,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=29498336"
   },
   {
@@ -234,5 +226,13 @@
     "author": "theafh",
     "comments": 49,
     "link": "https://news.ycombinator.com/item?id=29498417"
+  },
+  {
+    "title": "The CIA and the Media",
+    "url": "http://www.carlbernstein.com/magazine_cia_and_media.php",
+    "upvotes": 266,
+    "author": "1cvmask",
+    "comments": 141,
+    "link": "https://news.ycombinator.com/item?id=29497669"
   }
 ]
