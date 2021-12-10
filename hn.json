@@ -1,50 +1,58 @@
 [
   {
-    "title": "Turning a MacBook into a Touchscreen with $1 of Hardware",
-    "url": "https://www.anishathalye.com/2018/04/03/macbook-touchscreen/",
-    "upvotes": 232,
-    "author": "hidden-spyder",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=29507458"
-  },
-  {
     "title": "Log4j RCE Found",
     "url": "https://www.lunasec.io/docs/blog/log4j-zero-day/",
-    "upvotes": 747,
+    "upvotes": 790,
     "author": "usmannk",
-    "comments": 245,
+    "comments": 260,
     "link": "https://news.ycombinator.com/item?id=29504755"
   },
   {
     "title": "An underrated idea: the priority view",
     "url": "https://atis.substack.com/p/an-underrated-idea-the-priority-view",
-    "upvotes": 29,
+    "upvotes": 49,
     "author": "akbarnama",
-    "comments": 10,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=29483569"
   },
   {
-    "title": "Julian Assange can be extradited to the US, court rules [pdf]",
-    "url": "https://www.judiciary.uk/wp-content/uploads/2021/12/USA-v-Assange-judgment101221.pdf",
-    "upvotes": 51,
-    "author": "mebassett",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29508732"
+    "title": "An ancient 'computer' that simply shouldn't exist [video]",
+    "url": "https://www.youtube.com/watch?v=qqlJ50zDgeA",
+    "upvotes": 31,
+    "author": "justinzollars",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=29506034"
   },
   {
-    "title": "The ancient computer that simply shouldn't exist BBC",
-    "url": "https://www.youtube.com/watch?v=qqlJ50zDgeA",
-    "upvotes": 13,
-    "author": "justinzollars",
+    "title": "Turning a MacBook into a Touchscreen with $1 of Hardware",
+    "url": "https://www.anishathalye.com/2018/04/03/macbook-touchscreen/",
+    "upvotes": 250,
+    "author": "hidden-spyder",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=29507458"
+  },
+  {
+    "title": "Higher Kinded Types in Rust",
+    "url": "https://hugopeters.me/posts/14/",
+    "upvotes": 11,
+    "author": "lukastyrychtr",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29506034"
+    "link": "https://news.ycombinator.com/item?id=29508790"
+  },
+  {
+    "title": "Julian Assange can be extradited to the US, court rules",
+    "url": "https://www.bbc.com/news/uk-59608641",
+    "upvotes": 93,
+    "author": "goodcanadian",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=29508352"
   },
   {
     "title": "Lessons learned after working one year as a Common Lisp Developer",
     "url": "https://cdagostino.io/posts/2018-03-28-one-year-common-lisp-developer-part-1-the-good.html",
-    "upvotes": 107,
+    "upvotes": 114,
     "author": "xept",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29494255"
   },
   {
@@ -54,185 +62,177 @@
   {
     "title": "Defensive CSS",
     "url": "https://ishadeed.com/article/defensive-css/",
-    "upvotes": 272,
+    "upvotes": 291,
     "author": "kevin_hu",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29504784"
   },
   {
-    "title": "Firefox 95 might be the most secure web browser on the market",
-    "url": "https://www.techrepublic.com/article/the-new-firefox-95-might-be-the-most-secure-web-browser-on-the-market/",
-    "upvotes": 47,
-    "author": "todsacerdoti",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29508638"
-  },
-  {
     "title": "Scala at scale at Databricks",
     "url": "https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html",
-    "upvotes": 186,
+    "upvotes": 193,
     "author": "lihaoyi",
-    "comments": 75,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=29505512"
   },
   {
     "title": "A common mistake involving wildcards and the find command",
     "url": "https://blog.robertelder.org/find-command-wildcard-globbing/",
-    "upvotes": 37,
+    "upvotes": 41,
     "author": "gautamsomani",
-    "comments": 34,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=29471383"
   },
   {
     "title": "The Matrix Awakens: Unreal Engine 5 Techdemo [video]",
     "url": "https://www.youtube.com/watch?v=WU0gvPcc3jQ",
-    "upvotes": 53,
+    "upvotes": 80,
     "author": "WithinReason",
-    "comments": 15,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29508208"
-  },
-  {
-    "title": "Assange judge is 40-year ‘good friend’ of minister who orchestrated his arrest",
-    "url": "https://declassifieduk.org/assange-judge-is-40-year-good-friend-of-minister-who-orchestrated-his-arrest/",
-    "upvotes": 148,
-    "author": "k1m",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=29508528"
   },
   {
     "title": "Training computer vision models on random noise instead of real images",
     "url": "https://www.unite.ai/training-computer-vision-models-on-random-noise-instead-of-real-images/",
-    "upvotes": 91,
+    "upvotes": 97,
     "author": "Hard_Space",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=29496829"
+  },
+  {
+    "title": "Facts don’t change our minds",
+    "url": "https://jamesclear.com/why-facts-dont-change-minds",
+    "upvotes": 73,
+    "author": "nvr219",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=29493241"
+  },
+  {
+    "title": "How do you fix a stroad?",
+    "url": "https://www.strongtowns.org/journal/2021/12/2/how-do-you-actually-fix-a-stroad",
+    "upvotes": 246,
+    "author": "milkytron",
+    "comments": 300,
+    "link": "https://news.ycombinator.com/item?id=29504521"
+  },
+  {
+    "title": "Xsnow",
+    "url": "https://en.wikipedia.org/wiki/Xsnow",
+    "upvotes": 26,
+    "author": "h2odragon",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=29484022"
+  },
+  {
+    "title": "Is Web3... anything?",
+    "url": "https://www.chris-granger.com/2021/12/09/is-web3-anything/",
+    "upvotes": 205,
+    "author": "mharju",
+    "comments": 295,
+    "link": "https://news.ycombinator.com/item?id=29506914"
   },
   {
     "title": "Cardstacker Bryan Berg",
     "url": "https://www.cardstacker.com",
-    "upvotes": 66,
+    "upvotes": 68,
     "author": "hispanic",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29504703"
+  },
+  {
+    "title": "Automerge: a new foundation for collaboration software [video]",
+    "url": "https://www.youtube.com/watch?v=Qytg0Ibet2E",
+    "upvotes": 41,
+    "author": "mr_tyzic",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=29501465"
   },
   {
     "title": "Bird-inspired dynamic grasping and perching in arboreal environments",
     "url": "https://www.science.org/doi/10.1126/scirobotics.abj7562",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "YeGoblynQueenne",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29483319"
   },
   {
-    "title": "Automerge: a new foundation for collaboration software [video]",
-    "url": "https://www.youtube.com/watch?v=Qytg0Ibet2E",
-    "upvotes": 36,
-    "author": "mr_tyzic",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=29501465"
-  },
-  {
     "title": "Avoiding Internet Centralization",
     "url": "https://mnot.github.io/avoiding-internet-centralization/draft-nottingham-avoiding-internet-centralization.html",
-    "upvotes": 132,
+    "upvotes": 135,
     "author": "johndbeatty",
-    "comments": 89,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=29500035"
-  },
-  {
-    "title": "Tailwind CSS v3.0",
-    "url": "https://tailwindcss.com/blog/tailwindcss-v3",
-    "upvotes": 739,
-    "author": "pspeter3",
-    "comments": 360,
-    "link": "https://news.ycombinator.com/item?id=29501110"
   },
   {
     "title": "Show HN: Lexiscore – a nutritional label for food for thought",
     "url": "https://paulbricman.com/thoughtware/lexiscore",
-    "upvotes": 44,
+    "upvotes": 48,
     "author": "paubric",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=29495541"
+  },
+  {
+    "title": "Tailwind CSS v3.0",
+    "url": "https://tailwindcss.com/blog/tailwindcss-v3",
+    "upvotes": 744,
+    "author": "pspeter3",
+    "comments": 363,
+    "link": "https://news.ycombinator.com/item?id=29501110"
   },
   {
     "title": "With Stuart Russell, UCBerkeley Kavli Centers on Ethics, Engagement in Science",
     "url": "https://news.berkeley.edu/2021/12/09/new-kavli-center-at-uc-berkeley-to-foster-ethics-engagement-in-science/",
-    "upvotes": 14,
+    "upvotes": 15,
     "author": "orange3xchicken",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29507106"
-  },
-  {
-    "title": "Is Web3... anything?",
-    "url": "https://www.chris-granger.com/2021/12/09/is-web3-anything/",
-    "upvotes": 191,
-    "author": "mharju",
-    "comments": 279,
-    "link": "https://news.ycombinator.com/item?id=29506914"
-  },
-  {
-    "title": "Guided by plant voices",
-    "url": "https://worldsensorium.com/guided-by-plant-voices/",
-    "upvotes": 30,
-    "author": "dnetesn",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29496121"
-  },
-  {
-    "title": "Three systems beneath network effects",
-    "url": "https://every.to/divinations/the-three-systems-beneath-network-effects",
-    "upvotes": 46,
-    "author": "enigmatic02",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29482520"
   },
   {
     "title": "A Binary Musical Instrument",
     "url": "https://ianthehenry.com/posts/binary-instrument/",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "rcarmo",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=29483166"
   },
   {
-    "title": "Faster Gitlab CI/CD pipelines",
-    "url": "https://blog.nimbleways.com/let-s-make-faster-gitlab-ci-cd-pipelines/",
-    "upvotes": 130,
-    "author": "iduoad",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=29502999"
+    "title": "Three systems beneath network effects",
+    "url": "https://every.to/divinations/the-three-systems-beneath-network-effects",
+    "upvotes": 47,
+    "author": "enigmatic02",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29482520"
+  },
+  {
+    "title": "Guided by plant voices",
+    "url": "https://worldsensorium.com/guided-by-plant-voices/",
+    "upvotes": 32,
+    "author": "dnetesn",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29496121"
   },
   {
     "title": "HashiCorp IPO today",
     "url": "https://www.hashicorp.com/blog/a-new-chapter-for-hashicorp",
-    "upvotes": 413,
+    "upvotes": 415,
     "author": "colemorrison",
-    "comments": 170,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=29500645"
   },
   {
     "title": "Generation of advanced Escher-like spiral tessellations",
     "url": "https://link.springer.com/article/10.1007/s00371-021-02232-0",
-    "upvotes": 59,
+    "upvotes": 62,
     "author": "bryanrasmussen",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29490327"
   },
   {
     "title": "Show HN: Deeplinks.js – Simple deep links to selections of text on your website",
     "url": "https://github.com/WesleyAC/deeplinks",
-    "upvotes": 58,
+    "upvotes": 60,
     "author": "wesleyac",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29492143"
-  },
-  {
-    "title": "How do you fix a stroad?",
-    "url": "https://www.strongtowns.org/journal/2021/12/2/how-do-you-actually-fix-a-stroad",
-    "upvotes": 240,
-    "author": "milkytron",
-    "comments": 286,
-    "link": "https://news.ycombinator.com/item?id=29504521"
   }
 ]
