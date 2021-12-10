@@ -2,55 +2,63 @@
   {
     "title": "Log4j RCE Found",
     "url": "https://github.com/apache/logging-log4j2/pull/608",
-    "upvotes": 203,
+    "upvotes": 226,
     "author": "usmannk",
-    "comments": 53,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=29504755"
   },
   {
     "title": "How Do You Fix a Stroad",
     "url": "https://www.strongtowns.org/journal/2021/12/2/how-do-you-actually-fix-a-stroad",
-    "upvotes": 106,
+    "upvotes": 126,
     "author": "milkytron",
-    "comments": 85,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=29504521"
   },
   {
     "title": "Tailwind CSS v3.0",
     "url": "https://tailwindcss.com/blog/tailwindcss-v3",
-    "upvotes": 553,
+    "upvotes": 558,
     "author": "pspeter3",
-    "comments": 294,
+    "comments": 297,
     "link": "https://news.ycombinator.com/item?id=29501110"
-  },
-  {
-    "title": "HashiCorp IPO today",
-    "url": "https://www.hashicorp.com/blog/a-new-chapter-for-hashicorp",
-    "upvotes": 333,
-    "author": "colemorrison",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=29500645"
-  },
-  {
-    "title": "Defensive CSS",
-    "url": "https://ishadeed.com/article/defensive-css/",
-    "upvotes": 64,
-    "author": "kevin_hu",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29504784"
   },
   {
     "title": "Scala at Scale at Databricks",
     "url": "https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html",
-    "upvotes": 26,
+    "upvotes": 37,
     "author": "lihaoyi",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29505512"
+  },
+  {
+    "title": "Defensive CSS",
+    "url": "https://ishadeed.com/article/defensive-css/",
+    "upvotes": 75,
+    "author": "kevin_hu",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29504784"
+  },
+  {
+    "title": "HashiCorp IPO today",
+    "url": "https://www.hashicorp.com/blog/a-new-chapter-for-hashicorp",
+    "upvotes": 339,
+    "author": "colemorrison",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=29500645"
+  },
+  {
+    "title": "Dr. Strangelove's 'Doomsday Machine': It's Real",
+    "url": "https://www.npr.org/templates/story/story.php?storyId=113242681",
+    "upvotes": 24,
+    "author": "marcodiego",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29505327"
   },
   {
     "title": "Stack Graphs",
     "url": "https://github.blog/2021-12-09-introducing-stack-graphs/",
-    "upvotes": 277,
+    "upvotes": 280,
     "author": "todsacerdoti",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=29500602"
@@ -58,9 +66,9 @@
   {
     "title": "Masayuki Uemura has died",
     "url": "https://www.thegamer.com/masayuki-uemura-creator-nes-snes-dies/",
-    "upvotes": 392,
+    "upvotes": 394,
     "author": "the-dude",
-    "comments": 112,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=29497646"
   },
   {
@@ -68,7 +76,7 @@
     "url": "https://sifted.eu/articles/salt-energy-storage-seaborg-hyme/",
     "upvotes": 117,
     "author": "ericdanielski",
-    "comments": 71,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=29502138"
   },
   {
@@ -78,71 +86,63 @@
   {
     "title": "PDM: A Modern Python Package Manager",
     "url": "https://pdm.fming.dev/",
-    "upvotes": 108,
+    "upvotes": 110,
     "author": "sciurus",
-    "comments": 71,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=29502715"
-  },
-  {
-    "title": "Dr. Strangelove's 'Doomsday Machine': It's Real",
-    "url": "https://www.npr.org/templates/story/story.php?storyId=113242681",
-    "upvotes": 13,
-    "author": "marcodiego",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29505327"
-  },
-  {
-    "title": "Avoiding Internet Centralization",
-    "url": "https://mnot.github.io/avoiding-internet-centralization/draft-nottingham-avoiding-internet-centralization.html",
-    "upvotes": 65,
-    "author": "johndbeatty",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=29500035"
   },
   {
     "title": "RCE 0-day exploit found in log4j, a popular Java logging package",
     "url": "https://www.lunasec.io/docs/blog/log4j-zero-day/",
-    "upvotes": 16,
+    "upvotes": 23,
     "author": "freeqaz",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29505477"
   },
   {
+    "title": "Avoiding Internet Centralization",
+    "url": "https://mnot.github.io/avoiding-internet-centralization/draft-nottingham-avoiding-internet-centralization.html",
+    "upvotes": 68,
+    "author": "johndbeatty",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=29500035"
+  },
+  {
     "title": "Chrome users beware: Manifest v3 is deceitful and threatening",
     "url": "https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening",
-    "upvotes": 425,
+    "upvotes": 439,
     "author": "dredmorbius",
-    "comments": 216,
+    "comments": 220,
     "link": "https://news.ycombinator.com/item?id=29502439"
+  },
+  {
+    "title": "Ask HN: Where are you finding freelance/fractional work?",
+    "url": "item?id=29505524",
+    "upvotes": 38,
+    "author": "v1l",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29505524"
+  },
+  {
+    "title": "Replit.com",
+    "url": "https://blog.replit.com/b",
+    "upvotes": 119,
+    "author": "plondon514",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=29501514"
   },
   {
     "title": "Faster Gitlab CI/CD pipelines",
     "url": "https://blog.nimbleways.com/let-s-make-faster-gitlab-ci-cd-pipelines/",
-    "upvotes": 66,
+    "upvotes": 69,
     "author": "iduoad",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=29502999"
   },
   {
-    "title": "Replit.com",
-    "url": "https://blog.replit.com/b",
-    "upvotes": 118,
-    "author": "plondon514",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=29501514"
-  },
-  {
-    "title": "Ask HN: Where are you finding freelance/fractional work?",
-    "url": "item?id=29505524",
-    "upvotes": 26,
-    "author": "v1l",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29505524"
-  },
-  {
     "title": "Generation of advanced Escher-like spiral tessellations",
     "url": "https://link.springer.com/article/10.1007/s00371-021-02232-0",
-    "upvotes": 18,
+    "upvotes": 25,
     "author": "bryanrasmussen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29490327"
@@ -150,31 +150,31 @@
   {
     "title": "Three systems beneath network effects",
     "url": "https://every.to/divinations/the-three-systems-beneath-network-effects",
-    "upvotes": 4,
+    "upvotes": 7,
     "author": "enigmatic02",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29482520"
+  },
+  {
+    "title": "eBPF will help solve service mesh by getting rid of sidecars",
+    "url": "https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh",
+    "upvotes": 221,
+    "author": "tgraf",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=29496870"
   },
   {
     "title": "Radical Polish books to add to your reading list",
     "url": "https://www.calvertjournal.com/features/show/12858/queer-feminist-sci-fi-books-polish-literature",
     "upvotes": 75,
     "author": "axiomdata316",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=29502396"
-  },
-  {
-    "title": "eBPF will help solve service mesh by getting rid of sidecars",
-    "url": "https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh",
-    "upvotes": 220,
-    "author": "tgraf",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=29496870"
   },
   {
     "title": "Build models like we build open-source software",
     "url": "https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html",
-    "upvotes": 9,
+    "upvotes": 11,
     "author": "tristanz",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29487212"
@@ -182,55 +182,55 @@
   {
     "title": "Show HN: Deeplinks.js – Simple deep links to selections of text on your website",
     "url": "https://github.com/WesleyAC/deeplinks",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "wesleyac",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29492143"
   },
   {
-    "title": "“Free PACER” bill advances through Senate judiciary unanimously",
-    "url": "https://fixthecourt.com/2021/12/free-pacer-bill-advances-senate-judiciary-unanimously/",
-    "upvotes": 395,
-    "author": "walterbell",
-    "comments": 119,
-    "link": "https://news.ycombinator.com/item?id=29499809"
-  },
-  {
     "title": "Show HN: Play Zork with your friends via SSH",
     "url": "https://sayitwith.ink/boyd.html",
-    "upvotes": 60,
+    "upvotes": 65,
     "author": "pheasantquiff",
-    "comments": 24,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=29483736"
+  },
+  {
+    "title": "“Free PACER” bill advances through Senate judiciary unanimously",
+    "url": "https://fixthecourt.com/2021/12/free-pacer-bill-advances-senate-judiciary-unanimously/",
+    "upvotes": 401,
+    "author": "walterbell",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=29499809"
   },
   {
     "title": "Apple Neural Engine Internal: From ML Algorithm to HW Registers",
     "url": "https://www.blackhat.com/asia-21/briefings/schedule/index.html#apple-neural-engine-internal-from-ml-algorithm-to-hw-registers-22039",
-    "upvotes": 106,
+    "upvotes": 107,
     "author": "blopeur",
-    "comments": 45,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=29483347"
-  },
-  {
-    "title": "Show HN: Minimalist offline journal app with a chat interface",
-    "url": "https://thezenjournal.com",
-    "upvotes": 95,
-    "author": "randomor",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=29498336"
   },
   {
     "title": "Mathematicians Transcend Geometric Theory of Motion",
     "url": "https://www.quantamagazine.org/mathematicians-transcend-geometric-theory-of-motion-20211209/",
-    "upvotes": 106,
+    "upvotes": 108,
     "author": "theafh",
-    "comments": 47,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=29498417"
+  },
+  {
+    "title": "Show HN: Minimalist offline journal app with a chat interface",
+    "url": "https://thezenjournal.com",
+    "upvotes": 96,
+    "author": "randomor",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=29498336"
   },
   {
     "title": "Haystack 1.0 – open-source NLP framework to build NLProc back end applications",
     "url": "https://github.com/deepset-ai/haystack",
-    "upvotes": 97,
+    "upvotes": 98,
     "author": "antti909",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=29501045"
