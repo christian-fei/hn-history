@@ -1,43 +1,67 @@
 [
   {
-    "title": "Universal Paperclips",
-    "url": "https://if50.substack.com/p/2017-universal-paperclips",
-    "upvotes": 72,
-    "author": "TheLocehiliosan",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=29496595"
+    "title": "PDP-11 Booting",
+    "url": "https://trmm.net/PDP-11/Booting/",
+    "upvotes": 5,
+    "author": "rdpintqogeogsaa",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29521506"
   },
   {
     "title": "Unix philosophy without left-pad, Part 2: Minimizing dependencies",
     "url": "https://raku-advent.blog/2021/12/11/unix_philosophy_without_leftpad_part2/",
-    "upvotes": 29,
+    "upvotes": 42,
     "author": "lizmat",
-    "comments": 4,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29520182"
+  },
+  {
+    "title": "PSA: uBlock/AdBlocks on Chrome to lose function thanks to Manifestv3",
+    "url": "https://old.reddit.com/r/YouShouldKnow/comments/rdaz50/ysk_ublock_and_other_adblocks_in_chrome_will_lose/",
+    "upvotes": 30,
+    "author": "diplodocusaur",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=29521258"
+  },
+  {
+    "title": "Universal Paperclips",
+    "url": "https://if50.substack.com/p/2017-universal-paperclips",
+    "upvotes": 78,
+    "author": "TheLocehiliosan",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=29496595"
+  },
+  {
+    "title": "Widespread Exploitation of Critical Remote Code Execution in Apache Log4j",
+    "url": "https://www.rapid7.com/blog/post/2021/12/10/widespread-exploitation-of-critical-remote-code-execution-in-apache-log4j/",
+    "upvotes": 19,
+    "author": "ColinWright",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29520415"
   },
   {
     "title": "A library for audio feature extraction, regression, classification, segmentation",
     "url": "https://github.com/tyiannak/pyAudioAnalysis",
-    "upvotes": 24,
+    "upvotes": 29,
     "author": "nothrowaways",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29495900"
-  },
-  {
-    "title": "Learn X in Y Minutes",
-    "url": "https://learnxinyminutes.com/",
-    "upvotes": 119,
-    "author": "toomanydoubts",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=29518955"
   },
   {
     "title": "Mercedes-Benz wins approval for Level 3 autonomous driving on the Autobahn",
     "url": "https://www.ttnews.com/articles/mercedes-beats-tesla-hands-free-driving-autobahn",
-    "upvotes": 217,
+    "upvotes": 229,
     "author": "mardiyah",
-    "comments": 174,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=29517459"
+  },
+  {
+    "title": "Learn X in Y Minutes",
+    "url": "https://learnxinyminutes.com/",
+    "upvotes": 127,
+    "author": "toomanydoubts",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=29518955"
   },
   {
     "title": "Show HN: Randomize HTML content to test your defensive CSS",
@@ -48,36 +72,28 @@
     "link": "https://news.ycombinator.com/item?id=29519391"
   },
   {
-    "title": "Ten years of experience, still failing phone screens",
-    "url": "https://kevin.burke.dev/kevin/phone-screens-broken/",
-    "upvotes": 157,
-    "author": "kevinburke",
-    "comments": 202,
-    "link": "https://news.ycombinator.com/item?id=29517182"
-  },
-  {
-    "title": "On building with a squad",
-    "url": "https://jon.bo/posts/squad/",
-    "upvotes": 19,
-    "author": "jborichevskiy",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29506804"
-  },
-  {
     "title": "Space-shooter.c: cross-platform, top-down 2D space shooter written in C",
     "url": "https://github.com/tsherif/space-shooter.c",
-    "upvotes": 15,
+    "upvotes": 21,
     "author": "ingve",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29520200"
   },
   {
-    "title": "Bitcoin Failed in El Salvador. The President Says the Answer Is More Bitcoin",
-    "url": "https://foreignpolicy.com/2021/12/06/bitcoin-city-el-salvador-nayib-bukele/",
-    "upvotes": 89,
-    "author": "mgh2",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=29520306"
+    "title": "Ten years of experience, still failing phone screens",
+    "url": "https://kevin.burke.dev/kevin/phone-screens-broken/",
+    "upvotes": 171,
+    "author": "kevinburke",
+    "comments": 218,
+    "link": "https://news.ycombinator.com/item?id=29517182"
+  },
+  {
+    "title": "To secure the supply chain, you must properly fund it",
+    "url": "https://ariadne.space/2021/12/11/to-secure-the-supply-chain-you-must-properly-fund-it/",
+    "upvotes": 79,
+    "author": "Tomte",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=29520067"
   },
   {
     "title": "BuildZoom",
@@ -86,31 +102,23 @@
   {
     "title": "Snowball Fights in Art",
     "url": "https://publicdomainreview.org/collection/snowball-fights/",
-    "upvotes": 25,
+    "upvotes": 30,
     "author": "pepys",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29490903"
   },
   {
-    "title": "The Strange, Unfinished Saga of Cyberpunk 2077",
-    "url": "https://www.newyorker.com/tech/annals-of-technology/the-strange-unfinished-saga-of-cyberpunk-2077",
-    "upvotes": 141,
-    "author": "mitchbob",
-    "comments": 201,
-    "link": "https://news.ycombinator.com/item?id=29517021"
-  },
-  {
-    "title": "To secure the supply chain, you must properly fund it",
-    "url": "https://ariadne.space/2021/12/11/to-secure-the-supply-chain-you-must-properly-fund-it/",
-    "upvotes": 74,
-    "author": "Tomte",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=29520067"
+    "title": "On building with a squad",
+    "url": "https://jon.bo/posts/squad/",
+    "upvotes": 20,
+    "author": "jborichevskiy",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29506804"
   },
   {
     "title": "Summary of the AWS Service Event in the Northern Virginia",
     "url": "https://aws.amazon.com/message/12721/",
-    "upvotes": 563,
+    "upvotes": 566,
     "author": "eigen-vector",
     "comments": 332,
     "link": "https://news.ycombinator.com/item?id=29516482"
@@ -118,121 +126,113 @@
   {
     "title": "What happens to developers who never go into management?",
     "url": "https://www.wbscodingschool.com/what-happens-devs-never-management/",
-    "upvotes": 101,
+    "upvotes": 110,
     "author": "pelasaco",
-    "comments": 135,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=29519679"
+  },
+  {
+    "title": "BlueSCSI – Open, Low Cost, DIY SCSI to SD Device – TinkerDifferent",
+    "url": "https://tinkerdifferent.com/threads/bluescsi-open-low-cost-diy-scsi-to-sd-device.29/#post-3389",
+    "upvotes": 5,
+    "author": "tambourine_man",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29520572"
+  },
+  {
+    "title": "Blizzard executive asks employees to “consider the consequences” of union card",
+    "url": "https://twitter.com/charlieintel/status/1469361004056387584",
+    "upvotes": 6,
+    "author": "SamoyedFurFluff",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29521368"
+  },
+  {
+    "title": "Sleep technique used by Salvador Dalí works",
+    "url": "https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot",
+    "upvotes": 558,
+    "author": "ohiovr",
+    "comments": 210,
+    "link": "https://news.ycombinator.com/item?id=29515882"
+  },
+  {
+    "title": "Amazon Facility Hit by Tornado",
+    "url": "https://www.youtube.com/watch?v=TbkBeM6RP2I",
+    "upvotes": 16,
+    "author": "kordlessagain",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29521047"
   },
   {
     "title": "Nial Array Language",
     "url": "https://www.nial-array-language.org/",
     "upvotes": 33,
     "author": "xept",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29495314"
-  },
-  {
-    "title": "Sleep technique used by Salvador Dalí works",
-    "url": "https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot",
-    "upvotes": 554,
-    "author": "ohiovr",
-    "comments": 207,
-    "link": "https://news.ycombinator.com/item?id=29515882"
-  },
-  {
-    "title": "Types for Tables: A Language Design Benchmark",
-    "url": "https://blog.brownplt.org/2021/11/21/b2t2.html",
-    "upvotes": 3,
-    "author": "matt_d",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29509439"
   },
   {
     "title": "Computers revolutionized chess – Magnus Carlsen wins by being human",
     "url": "https://www.wsj.com/articles/magnus-carlsen-ian-nepomniachtchi-world-chess-championship-computer-analysis-11639003641",
-    "upvotes": 76,
+    "upvotes": 78,
     "author": "wallflower",
-    "comments": 26,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=29504263"
   },
   {
     "title": "The Afterlife of Georges Braque",
     "url": "https://hyperallergic.com/697627/the-neglected-afterlife-of-the-great-georges-braque/",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "mstats",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29503492"
   },
   {
+    "title": "Types for Tables: A Language Design Benchmark",
+    "url": "https://blog.brownplt.org/2021/11/21/b2t2.html",
+    "upvotes": 4,
+    "author": "matt_d",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29509439"
+  },
+  {
+    "title": "Why does Minnesota sometimes get colder than the North Pole?",
+    "url": "https://www.startribune.com/minnesota-winter-weather-temperature-cold-north-pole/600114153/",
+    "upvotes": 79,
+    "author": "sonabinu",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=29517160"
+  },
+  {
+    "title": "Excel World Championship Finals",
+    "url": "https://www.youtube.com/watch?v=NSU11kxxJvc",
+    "upvotes": 6,
+    "author": "Silasdev",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29521324"
+  },
+  {
     "title": "Moo Card Player",
     "url": "https://hicks.design/journal/moo-card-player",
-    "upvotes": 55,
+    "upvotes": 58,
     "author": "tobr",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=29509508"
   },
   {
     "title": "Ask HN: Best way to prepare a codebase for open-source?",
     "url": "item?id=29519754",
-    "upvotes": 30,
+    "upvotes": 32,
     "author": "Eikon",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=29519754"
-  },
-  {
-    "title": "Why does Minnesota sometimes get colder than the North Pole?",
-    "url": "https://www.startribune.com/minnesota-winter-weather-temperature-cold-north-pole/600114153/",
-    "upvotes": 72,
-    "author": "sonabinu",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=29517160"
   },
   {
     "title": "Weapons on Ancient Coins",
     "url": "https://coinweek.com/ancient-coins/weapons-on-ancient-coins/",
     "upvotes": 36,
     "author": "benbreen",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=29507407"
-  },
-  {
-    "title": "Widespread Exploitation of Critical Remote Code Execution in Apache Log4j",
-    "url": "https://www.rapid7.com/blog/post/2021/12/10/widespread-exploitation-of-critical-remote-code-execution-in-apache-log4j/",
-    "upvotes": 3,
-    "author": "ColinWright",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29520415"
-  },
-  {
-    "title": "Kropotkin escapes from prison",
-    "url": "https://crimethinc.com/2021/12/09/june-30-1876-peter-kropotkin-escapes-from-prison-a-tale-of-derring-do-on-the-occasion-of-his-birthday",
-    "upvotes": 237,
-    "author": "item",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=29515996"
-  },
-  {
-    "title": "Show HN: Decentralized, Mutable, Serverless Torrent Swarm Websites",
-    "url": "https://github.com/publiusfederalist/federalist",
-    "upvotes": 364,
-    "author": "publiush",
-    "comments": 159,
-    "link": "https://news.ycombinator.com/item?id=29513547"
-  },
-  {
-    "title": "Amazon Facility Hit by Tornado",
-    "url": "https://www.youtube.com/watch?v=TbkBeM6RP2I",
-    "upvotes": 6,
-    "author": "kordlessagain",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29521047"
-  },
-  {
-    "title": "Up all night with a Twitch millionaire",
-    "url": "https://www.washingtonpost.com/technology/2021/12/02/twitch-loltyler1-tyler-steinkamp/",
-    "upvotes": 222,
-    "author": "breckenedge",
-    "comments": 251,
-    "link": "https://news.ycombinator.com/item?id=29514521"
   }
 ]
