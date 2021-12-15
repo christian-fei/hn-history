@@ -2,74 +2,82 @@
   {
     "title": "Mess with DNS",
     "url": "https://jvns.ca/blog/2021/12/15/mess-with-dns/",
-    "upvotes": 593,
+    "upvotes": 623,
     "author": "im2nguyen",
-    "comments": 48,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=29568510"
   },
   {
     "title": "A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution",
     "url": "https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html",
-    "upvotes": 487,
+    "upvotes": 512,
     "author": "arkadiyt",
-    "comments": 194,
+    "comments": 199,
     "link": "https://news.ycombinator.com/item?id=29568625"
   },
   {
     "title": "How to build large-scale end-to-end encrypted group video calls",
     "url": "https://signal.org/blog/how-to-build-encrypted-group-calls/",
-    "upvotes": 154,
+    "upvotes": 166,
     "author": "jiripospisil",
-    "comments": 41,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=29570938"
+  },
+  {
+    "title": "Crypto wallet security as seen by security engineers",
+    "url": "https://www.cossacklabs.com/blog/crypto-wallets-security/",
+    "upvotes": 25,
+    "author": "rchaudhary",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=29572477"
+  },
+  {
+    "title": "Chess.com vs. Lichess",
+    "url": "https://siddhesh.substack.com/p/chesscom-vs-lichess",
+    "upvotes": 36,
+    "author": "weekendvampire",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29572447"
   },
   {
     "title": "Swift Playgrounds 4",
     "url": "https://www.apple.com/swift/playgrounds/",
-    "upvotes": 113,
+    "upvotes": 127,
     "author": "tosh",
-    "comments": 36,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=29570871"
   },
   {
     "title": "Clojure Macros and Metaprogramming",
     "url": "https://clojure-doc.github.io/articles/language/macros/",
-    "upvotes": 41,
+    "upvotes": 50,
     "author": "todsacerdoti",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29571786"
-  },
-  {
-    "title": "Crypto wallets security as seen by security engineers",
-    "url": "https://www.cossacklabs.com/blog/crypto-wallets-security/",
-    "upvotes": 14,
-    "author": "rchaudhary",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29572477"
   },
   {
     "title": "James Dyson answers design questions from Twitter [video]",
     "url": "https://www.youtube.com/watch?v=zFCFe38EIfE",
-    "upvotes": 50,
+    "upvotes": 56,
     "author": "open-source-ux",
-    "comments": 37,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=29564720"
   },
   {
     "title": "Inventing the Atari 2600",
     "url": "https://spectrum.ieee.org/atari-2600",
-    "upvotes": 51,
+    "upvotes": 57,
     "author": "TheBombe",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=29570697"
   },
   {
-    "title": "ATX-80 – ZX-80 computer clone with ATmega8 processor",
-    "url": "http://www.breatharian.eu/hw/atx80/index_en.html",
-    "upvotes": 76,
-    "author": "xkriva11",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=29569523"
+    "title": "Show HN: FastWSGI, an ultra-fast WSGI server for Python",
+    "url": "https://github.com/jamesroberts/fastwsgi",
+    "upvotes": 37,
+    "author": "james_roberts",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=29571421"
   },
   {
     "title": "Relationship Hero",
@@ -78,31 +86,47 @@
   {
     "title": "The growth of command line options, 1979-Present",
     "url": "https://danluu.com/cli-complexity/",
-    "upvotes": 131,
+    "upvotes": 134,
     "author": "intrepidhero",
-    "comments": 73,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=29568042"
   },
   {
-    "title": "A Unix System Implementation for System/370 [pdf]",
+    "title": "ATX-80 – ZX-80 computer clone with ATmega8 processor",
+    "url": "http://www.breatharian.eu/hw/atx80/index_en.html",
+    "upvotes": 78,
+    "author": "xkriva11",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=29569523"
+  },
+  {
+    "title": "A Unix System Implementation for System/370",
     "url": "https://www.bell-labs.com/usr/dmr/www/otherports/ibm.pdf",
-    "upvotes": 13,
+    "upvotes": 19,
     "author": "rbanffy",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29571997"
   },
   {
-    "title": "Show HN: FastWSGI, an ultra-fast WSGI server for Python",
-    "url": "https://github.com/jamesroberts/fastwsgi",
-    "upvotes": 32,
-    "author": "james_roberts",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=29571421"
+    "title": "Show HN: Overpass – a self-hosted video live streaming app",
+    "url": "https://github.com/GOATS2K/overpass",
+    "upvotes": 18,
+    "author": "GOATS-",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29572310"
+  },
+  {
+    "title": "Tuxedo Stellaris: A Powerful Linux Laptop",
+    "url": "https://boilingsteam.com/tuxedo-stellaris-the-meanest-laptop-money-can-buy/",
+    "upvotes": 54,
+    "author": "ekianjo",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=29565903"
   },
   {
     "title": "Arc Institute – for curiosity-driven biomedical science and technology",
     "url": "https://arcinstitute.org/",
-    "upvotes": 106,
+    "upvotes": 109,
     "author": "_Microft",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29568403"
@@ -110,129 +134,105 @@
   {
     "title": "How to write a simple JIT compiler",
     "url": "https://github.com/spencertipping/jit-tutorial",
-    "upvotes": 167,
+    "upvotes": 173,
     "author": "eatonphil",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=29566249"
   },
   {
-    "title": "Chess.com vs. Lichess",
-    "url": "https://siddhesh.substack.com/p/chesscom-vs-lichess",
-    "upvotes": 9,
-    "author": "weekendvampire",
+    "title": "Geoff Foster on the art of sound engineering",
+    "url": "https://composer.spitfireaudio.com/en/articles/geoff-foster-on-the-art-of-engineering",
+    "upvotes": 6,
+    "author": "belter",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29572447"
+    "link": "https://news.ycombinator.com/item?id=29572742"
   },
   {
-    "title": "Tuxedo Stellaris: A Powerful Linux Laptop",
-    "url": "https://boilingsteam.com/tuxedo-stellaris-the-meanest-laptop-money-can-buy/",
-    "upvotes": 48,
-    "author": "ekianjo",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=29565903"
+    "title": "BusKill – A USB kill cord for laptops",
+    "url": "https://www.buskill.in/",
+    "upvotes": 259,
+    "author": "favourable",
+    "comments": 293,
+    "link": "https://news.ycombinator.com/item?id=29564593"
   },
   {
     "title": "Preventing Pool-Party Attacks",
     "url": "https://brave.com/privacy-updates/13-pool-party-side-channels/",
-    "upvotes": 96,
+    "upvotes": 98,
     "author": "decrypt",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=29569093"
   },
   {
     "title": "I was stuck on a side project for 5 years – how I finished it",
     "url": "https://cassandraxia.com/writing/shed.html",
-    "upvotes": 101,
+    "upvotes": 112,
     "author": "danbst",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29570919"
   },
   {
-    "title": "BusKill – A USB kill cord for laptops",
-    "url": "https://www.buskill.in/",
-    "upvotes": 257,
-    "author": "favourable",
-    "comments": 287,
-    "link": "https://news.ycombinator.com/item?id=29564593"
+    "title": "Technorealism",
+    "url": "https://www.technorealism.org/",
+    "upvotes": 6,
+    "author": "dredmorbius",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29571016"
   },
   {
-    "title": "HTTP/3 Is Fast",
-    "url": "https://requestmetrics.com/web-performance/http3-is-fast",
-    "upvotes": 389,
-    "author": "SerCe",
-    "comments": 272,
-    "link": "https://news.ycombinator.com/item?id=29563229"
-  },
-  {
-    "title": "Pine64 and Radxa's new Pi CM4-compatible boards",
-    "url": "https://www.jeffgeerling.com/blog/2021/pine64-and-radxas-new-pi-cm4-compatible-boards",
-    "upvotes": 90,
-    "author": "geerlingguy",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=29566868"
+    "title": "The Tortoise, the Hare, and the Cyclical Linked List",
+    "url": "https://medium.com/@edgar-loves-python/the-tortoise-the-hare-and-the-cyclical-linked-list-1b51acab5b",
+    "upvotes": 12,
+    "author": "rbanffy",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29565218"
   },
   {
     "title": "Attacking Natural Language Processing Systems with Adversarial Examples",
     "url": "https://www.unite.ai/attacking-natural-language-processing-systems-with-adversarial-examples/",
-    "upvotes": 12,
+    "upvotes": 15,
     "author": "tequila_shot",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29571479"
   },
   {
+    "title": "Pine64 and Radxa's new Pi CM4-compatible boards",
+    "url": "https://www.jeffgeerling.com/blog/2021/pine64-and-radxas-new-pi-cm4-compatible-boards",
+    "upvotes": 91,
+    "author": "geerlingguy",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=29566868"
+  },
+  {
     "title": "Okta Outage",
     "url": "https://status.okta.com/",
-    "upvotes": 96,
+    "upvotes": 98,
     "author": "hunter2_",
-    "comments": 51,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=29567747"
   },
   {
     "title": "Allocgate: Restructuring how allocators work in Zig",
     "url": "https://pithlessly.github.io/allocgate.html",
-    "upvotes": 62,
+    "upvotes": 69,
     "author": "todsacerdoti",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=29571133"
   },
   {
     "title": "Ask HN: I've lost faith in myself as a developer, how do I get it back?",
     "url": "item?id=29567743",
-    "upvotes": 236,
+    "upvotes": 243,
     "author": "cwitty88",
-    "comments": 181,
+    "comments": 185,
     "link": "https://news.ycombinator.com/item?id=29567743"
-  },
-  {
-    "title": "The Tortoise, the Hare, and the Cyclical Linked List",
-    "url": "https://medium.com/@edgar-loves-python/the-tortoise-the-hare-and-the-cyclical-linked-list-1b51acab5b",
-    "upvotes": 8,
-    "author": "rbanffy",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29565218"
   },
   {
     "title": "Mold 1.0: the first stable and production-ready release of the high-speed linker",
     "url": "https://github.com/rui314/mold/releases/tag/v1.0.0",
-    "upvotes": 167,
+    "upvotes": 173,
     "author": "matt_d",
-    "comments": 34,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=29568454"
-  },
-  {
-    "title": "Show HN: Overpass – a self-hosted video live streaming app",
-    "url": "https://github.com/GOATS2K/overpass",
-    "upvotes": 6,
-    "author": "GOATS-",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29572310"
-  },
-  {
-    "title": "Tell HN: AWS appears to be down again",
-    "url": "item?id=29567170",
-    "upvotes": 822,
-    "author": "thadjo",
-    "comments": 442,
-    "link": "https://news.ycombinator.com/item?id=29567170"
   }
 ]
