@@ -1,64 +1,72 @@
 [
   {
+    "title": "Analysis of the 2nd Log4j CVE published earlier",
+    "url": "https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/",
+    "upvotes": 27,
+    "author": "freeqaz",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29561532"
+  },
+  {
     "title": "Go Replaces Interface{} with 'Any'",
     "url": "https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb",
-    "upvotes": 495,
+    "upvotes": 505,
     "author": "brosciencecode",
-    "comments": 240,
+    "comments": 256,
     "link": "https://news.ycombinator.com/item?id=29557066"
   },
   {
     "title": "Linux Touchpad Like MacBook Update: Touchpad Gestures Now Shipping",
     "url": "https://www.gitclear.com/blog/linux_touchpad_update_december_2021",
-    "upvotes": 414,
+    "upvotes": 423,
     "author": "wbharding",
-    "comments": 275,
+    "comments": 278,
     "link": "https://news.ycombinator.com/item?id=29555822"
-  },
-  {
-    "title": "I started a paper website business",
-    "url": "https://daily.tinyprojects.dev/paper_website",
-    "upvotes": 1173,
-    "author": "tinyprojects",
-    "comments": 212,
-    "link": "https://news.ycombinator.com/item?id=29550812"
   },
   {
     "title": "Pico CSS Framework",
     "url": "https://picocss.com/",
-    "upvotes": 67,
+    "upvotes": 78,
     "author": "brianzelip",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=29559961"
+  },
+  {
+    "title": "I started a paper website business",
+    "url": "https://daily.tinyprojects.dev/paper_website",
+    "upvotes": 1192,
+    "author": "tinyprojects",
+    "comments": 213,
+    "link": "https://news.ycombinator.com/item?id=29550812"
   },
   {
     "title": "Plans you're not supposed to talk about",
     "url": "https://dynomight.net/plans/",
-    "upvotes": 408,
+    "upvotes": 420,
     "author": "dynm",
-    "comments": 336,
+    "comments": 353,
     "link": "https://news.ycombinator.com/item?id=29554461"
+  },
+  {
+    "title": "Aviation Safety Whistleblower Report on 737 Max [pdf]",
+    "url": "https://www.commerce.senate.gov/services/files/48E3E2DE-6DFC-4602-BADF-8926F551B670",
+    "upvotes": 14,
+    "author": "sohkamyung",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29561325"
   },
   {
     "title": "Dell and HPE switches come with 'American Megatrands' stickers",
     "url": "https://www.servethehome.com/dude-dell-hpe-ami-american-megatrands/",
-    "upvotes": 231,
+    "upvotes": 237,
     "author": "geerlingguy",
-    "comments": 144,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=29555093"
-  },
-  {
-    "title": "Analysis of the 2nd Log4j CVE published earlier",
-    "url": "https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/",
-    "upvotes": 7,
-    "author": "freeqaz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29561532"
   },
   {
     "title": "Repulsive Surfaces",
     "url": "https://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveSurfaces/index.html",
-    "upvotes": 51,
+    "upvotes": 60,
     "author": "_Microft",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29537923"
@@ -66,9 +74,9 @@
   {
     "title": "Find anything fast with Google's vector search technology",
     "url": "https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology",
-    "upvotes": 259,
+    "upvotes": 264,
     "author": "sshroot",
-    "comments": 109,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=29554986"
   },
   {
@@ -78,15 +86,15 @@
   {
     "title": "Webb placed on top of Ariane 5",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_placed_on_top_of_Ariane_5",
-    "upvotes": 295,
+    "upvotes": 297,
     "author": "_Microft",
-    "comments": 171,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=29553620"
   },
   {
     "title": "PyTorch vs. TensorFlow in 2022",
     "url": "https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/",
-    "upvotes": 267,
+    "upvotes": 274,
     "author": "SleekEagle",
     "comments": 101,
     "link": "https://news.ycombinator.com/item?id=29552665"
@@ -94,15 +102,15 @@
   {
     "title": "Foot: A fast and minimalistic Wayland terminal emulator",
     "url": "https://codeberg.org/dnkl/foot",
-    "upvotes": 41,
+    "upvotes": 45,
     "author": "mikojan",
-    "comments": 16,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=29559069"
   },
   {
     "title": "Rough.js – Create graphics with a hand-drawn, sketchy, appearance",
     "url": "https://roughjs.com/",
-    "upvotes": 121,
+    "upvotes": 125,
     "author": "thunderbong",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=29555853"
@@ -110,129 +118,121 @@
   {
     "title": "All hyped up for Hypercard: further adventures with an Apple legacy format",
     "url": "https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/",
-    "upvotes": 126,
+    "upvotes": 130,
     "author": "zdw",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=29554371"
-  },
-  {
-    "title": "When the government hides spy cameras on your land, fight back in court",
-    "url": "https://www.tennessean.com/story/opinion/2021/12/13/when-government-hides-spy-cameras-your-land-fight-back-court/6500524001/",
-    "upvotes": 135,
-    "author": "eric_h",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=29559462"
-  },
-  {
-    "title": "Faiss: Facebook's open source vector search library",
-    "url": "https://github.com/facebookresearch/faiss",
-    "upvotes": 112,
-    "author": "ai_ja_nai",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=29555780"
   },
   {
     "title": "Cash Glut in Eurozone Drives Dollar Demand",
     "url": "https://www.wsj.com/articles/cash-glut-in-eurozone-drives-dollar-demand-11639477801",
-    "upvotes": 18,
+    "upvotes": 23,
     "author": "prostoalex",
-    "comments": 2,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=29560332"
   },
   {
-    "title": "Show HN: I made a free course, 'NLP for Semantic Search'",
-    "url": "https://www.pinecone.io/learn/nlp/",
-    "upvotes": 203,
-    "author": "jamesbriggs",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=29551947"
+    "title": "Faiss: Facebook's open source vector search library",
+    "url": "https://github.com/facebookresearch/faiss",
+    "upvotes": 114,
+    "author": "ai_ja_nai",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=29555780"
   },
   {
-    "title": "OpenSSL Security Advisory",
-    "url": "https://www.openssl.org/news/secadv/20211214.txt",
-    "upvotes": 102,
-    "author": "yabones",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=29554221"
-  },
-  {
-    "title": "XXH: Bring your favorite shell wherever you go through the SSH",
-    "url": "https://github.com/xxh/xxh",
-    "upvotes": 58,
-    "author": "crummy",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=29557113"
-  },
-  {
-    "title": "I Can’t See You but I’m Not Blind",
-    "url": "https://steveblank.com/2021/12/14/i-cant-see-you-but-im-not-blind/",
-    "upvotes": 148,
-    "author": "rognjen",
-    "comments": 259,
-    "link": "https://news.ycombinator.com/item?id=29551579"
-  },
-  {
-    "title": "Customizing GPT-3 for Your Application",
-    "url": "https://openai.com/blog/customized-gpt3/",
-    "upvotes": 106,
-    "author": "grappler",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=29554116"
-  },
-  {
-    "title": "1953: The Year That Revolutionized Life, Death, and the Digital Bit",
-    "url": "https://www.theatlantic.com/technology/archive/2012/03/1953-the-year-that-revolutionized-life-death-and-the-digital-bit/254013/",
-    "upvotes": 22,
-    "author": "Hooke",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29533779"
-  },
-  {
-    "title": "Aviation Safety Whistleblower Report on 737 Max [pdf]",
-    "url": "https://www.commerce.senate.gov/services/files/48E3E2DE-6DFC-4602-BADF-8926F551B670",
-    "upvotes": 4,
-    "author": "sohkamyung",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29561325"
-  },
-  {
-    "title": "Photos of a KH-12 Kennan Keyhole Secret Military Spy Satellite",
-    "url": "https://www.spacesafetymagazine.com/space-debris/astrophotography/view-keyhole-satellite/",
-    "upvotes": 60,
-    "author": "_Microft",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=29554999"
+    "title": "When the government hides spy cameras on your land, fight back in court",
+    "url": "https://www.tennessean.com/story/opinion/2021/12/13/when-government-hides-spy-cameras-your-land-fight-back-court/6500524001/",
+    "upvotes": 143,
+    "author": "eric_h",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=29559462"
   },
   {
     "title": "Busy Simulator: Feign importance with repeating app sounds",
     "url": "https://busysimulator.com/",
-    "upvotes": 3,
+    "upvotes": 7,
     "author": "karmanyaahm",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29561296"
   },
   {
+    "title": "Show HN: I made a free course, 'NLP for Semantic Search'",
+    "url": "https://www.pinecone.io/learn/nlp/",
+    "upvotes": 204,
+    "author": "jamesbriggs",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=29551947"
+  },
+  {
+    "title": "OpenSSL Security Advisory",
+    "url": "https://www.openssl.org/news/secadv/20211214.txt",
+    "upvotes": 104,
+    "author": "yabones",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=29554221"
+  },
+  {
+    "title": "XXH: Bring your favorite shell wherever you go through the SSH",
+    "url": "https://github.com/xxh/xxh",
+    "upvotes": 62,
+    "author": "crummy",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29557113"
+  },
+  {
+    "title": "I Can’t See You but I’m Not Blind",
+    "url": "https://steveblank.com/2021/12/14/i-cant-see-you-but-im-not-blind/",
+    "upvotes": 150,
+    "author": "rognjen",
+    "comments": 262,
+    "link": "https://news.ycombinator.com/item?id=29551579"
+  },
+  {
+    "title": "Customizing GPT-3 for Your Application",
+    "url": "https://openai.com/blog/customized-gpt3/",
+    "upvotes": 108,
+    "author": "grappler",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=29554116"
+  },
+  {
+    "title": "Norm Macdonald website with every ep of Norm Macdonald Live and more Norm stuff",
+    "url": "https://imnotnormeither.com",
+    "upvotes": 17,
+    "author": "tyler24henry",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29560196"
+  },
+  {
+    "title": "1953: The Year That Revolutionized Life, Death, and the Digital Bit",
+    "url": "https://www.theatlantic.com/technology/archive/2012/03/1953-the-year-that-revolutionized-life-death-and-the-digital-bit/254013/",
+    "upvotes": 23,
+    "author": "Hooke",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29533779"
+  },
+  {
+    "title": "Photos of a KH-12 Kennan Keyhole Secret Military Spy Satellite",
+    "url": "https://www.spacesafetymagazine.com/space-debris/astrophotography/view-keyhole-satellite/",
+    "upvotes": 61,
+    "author": "_Microft",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=29554999"
+  },
+  {
     "title": "Omicron variant more resistant to vaccine but causes less severe Covid: study",
     "url": "https://www.washingtonpost.com/world/2021/12/14/south-africa-omicron-coronavirus/",
-    "upvotes": 364,
+    "upvotes": 368,
     "author": "richardatlarge",
-    "comments": 775,
+    "comments": 783,
     "link": "https://news.ycombinator.com/item?id=29552187"
   },
   {
     "title": "Integrating Emacs with Siri Shortcuts",
     "url": "https://danpetrov.xyz/macos/emacs/lisp/2021/12/11/integrating-emacs-with-siri-shortcuts.html",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "danpetrov",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=29538987"
-  },
-  {
-    "title": "Ask HN: Private Alternatives to Alexa?",
-    "url": "item?id=29561452",
-    "upvotes": 7,
-    "author": "spir",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29561452"
   }
 ]
