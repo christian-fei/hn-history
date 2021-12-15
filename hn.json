@@ -1,150 +1,158 @@
 [
   {
-    "title": "Analysis of the 2nd Log4j CVE published earlier",
+    "title": "Log4Shell update: second Log4j vulnerability published",
     "url": "https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/",
-    "upvotes": 100,
+    "upvotes": 121,
     "author": "freeqaz",
-    "comments": 30,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=29561532"
-  },
-  {
-    "title": "Google Chrome Zero Day CVE-2021-4102, Use after free in V8",
-    "url": "https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop_13.html",
-    "upvotes": 63,
-    "author": "excerionsforte",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=29561740"
-  },
-  {
-    "title": "Go Replaces Interface{} with 'Any'",
-    "url": "https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb",
-    "upvotes": 549,
-    "author": "brosciencecode",
-    "comments": 293,
-    "link": "https://news.ycombinator.com/item?id=29557066"
   },
   {
     "title": "Aviation Safety Whistleblower Report on 737 Max [pdf]",
     "url": "https://www.commerce.senate.gov/services/files/48E3E2DE-6DFC-4602-BADF-8926F551B670",
-    "upvotes": 71,
+    "upvotes": 83,
     "author": "sohkamyung",
-    "comments": 2,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29561325"
+  },
+  {
+    "title": "Go Replaces Interface{} with 'Any'",
+    "url": "https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb",
+    "upvotes": 560,
+    "author": "brosciencecode",
+    "comments": 296,
+    "link": "https://news.ycombinator.com/item?id=29557066"
   },
   {
     "title": "Linux Touchpad Like MacBook Update: Touchpad Gestures Now Shipping",
     "url": "https://www.gitclear.com/blog/linux_touchpad_update_december_2021",
-    "upvotes": 444,
+    "upvotes": 455,
     "author": "wbharding",
-    "comments": 289,
+    "comments": 294,
     "link": "https://news.ycombinator.com/item?id=29555822"
   },
   {
     "title": "Pico CSS Framework",
     "url": "https://picocss.com/",
-    "upvotes": 118,
+    "upvotes": 126,
     "author": "brianzelip",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=29559961"
-  },
-  {
-    "title": "Plans you're not supposed to talk about",
-    "url": "https://dynomight.net/plans/",
-    "upvotes": 493,
-    "author": "dynm",
-    "comments": 394,
-    "link": "https://news.ycombinator.com/item?id=29554461"
   },
   {
     "title": "Busy Simulator: Feign importance with repeating app sounds",
     "url": "https://busysimulator.com/",
-    "upvotes": 46,
+    "upvotes": 57,
     "author": "karmanyaahm",
-    "comments": 19,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29561296"
   },
   {
-    "title": "Dell and HPE switches come with 'American Megatrands' stickers",
-    "url": "https://www.servethehome.com/dude-dell-hpe-ami-american-megatrands/",
-    "upvotes": 265,
-    "author": "geerlingguy",
-    "comments": 160,
-    "link": "https://news.ycombinator.com/item?id=29555093"
+    "title": "Plans you're not supposed to talk about",
+    "url": "https://dynomight.net/plans/",
+    "upvotes": 504,
+    "author": "dynm",
+    "comments": 403,
+    "link": "https://news.ycombinator.com/item?id=29554461"
   },
   {
-    "title": "Norm Macdonald website with every ep of Norm Macdonald Live and more Norm stuff",
-    "url": "https://imnotnormeither.com",
-    "upvotes": 83,
-    "author": "tyler24henry",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=29560196"
+    "title": "Why battery costs have plunged since 2010",
+    "url": "https://fullstackeconomics.com/untitled-2/",
+    "upvotes": 10,
+    "author": "gok",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29562238"
   },
   {
-    "title": "Repulsive Surfaces",
-    "url": "https://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveSurfaces/index.html",
-    "upvotes": 74,
-    "author": "_Microft",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29537923"
-  },
-  {
-    "title": "Fish Sees Through Its Own Head",
+    "title": "Barreleye fish",
     "url": "https://www.mbari.org/products/creature-feature/barreleye-landing-page/",
-    "upvotes": 6,
+    "upvotes": 14,
     "author": "yottoy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29562057"
   },
   {
+    "title": "Dell and HPE switches come with 'American Megatrands' stickers",
+    "url": "https://www.servethehome.com/dude-dell-hpe-ami-american-megatrands/",
+    "upvotes": 270,
+    "author": "geerlingguy",
+    "comments": 161,
+    "link": "https://news.ycombinator.com/item?id=29555093"
+  },
+  {
+    "title": "Repulsive Surfaces",
+    "url": "https://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveSurfaces/index.html",
+    "upvotes": 83,
+    "author": "_Microft",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29537923"
+  },
+  {
     "title": "Find anything fast with Google's vector search technology",
     "url": "https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology",
-    "upvotes": 283,
+    "upvotes": 287,
     "author": "sshroot",
     "comments": 114,
     "link": "https://news.ycombinator.com/item?id=29554986"
+  },
+  {
+    "title": "NASA spacecraft ‘touches’ the Sun for the first time ever",
+    "url": "https://www.nature.com/articles/d41586-021-03751-5",
+    "upvotes": 10,
+    "author": "perihelions",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29561885"
+  },
+  {
+    "title": "Webb placed on top of Ariane 5",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_placed_on_top_of_Ariane_5",
+    "upvotes": 315,
+    "author": "_Microft",
+    "comments": 183,
+    "link": "https://news.ycombinator.com/item?id=29553620"
   },
   {
     "title": "DevCycle.com",
     "url": "https://devcycle.com/company/careers"
   },
   {
-    "title": "Webb placed on top of Ariane 5",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_placed_on_top_of_Ariane_5",
-    "upvotes": 312,
-    "author": "_Microft",
-    "comments": 181,
-    "link": "https://news.ycombinator.com/item?id=29553620"
+    "title": "Coaxial Goes to War",
+    "url": "https://computer.rip/2021-12-13-coaxial-goes-to-war.html",
+    "upvotes": 6,
+    "author": "Sniffnoy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29556745"
   },
   {
     "title": "PyTorch vs. TensorFlow in 2022",
     "url": "https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/",
-    "upvotes": 287,
+    "upvotes": 295,
     "author": "SleekEagle",
-    "comments": 103,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=29552665"
+  },
+  {
+    "title": "Rough.js – Create graphics with a hand-drawn, sketchy, appearance",
+    "url": "https://roughjs.com/",
+    "upvotes": 143,
+    "author": "thunderbong",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=29555853"
   },
   {
     "title": "Foot: A fast and minimalistic Wayland terminal emulator",
     "url": "https://codeberg.org/dnkl/foot",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "mikojan",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29559069"
   },
   {
-    "title": "Rough.js – Create graphics with a hand-drawn, sketchy, appearance",
-    "url": "https://roughjs.com/",
-    "upvotes": 141,
-    "author": "thunderbong",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=29555853"
-  },
-  {
     "title": "I started a paper website business",
     "url": "https://daily.tinyprojects.dev/paper_website",
-    "upvotes": 1228,
+    "upvotes": 1231,
     "author": "tinyprojects",
-    "comments": 216,
+    "comments": 218,
     "link": "https://news.ycombinator.com/item?id=29550812"
   },
   {
@@ -152,13 +160,13 @@
     "url": "https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/",
     "upvotes": 132,
     "author": "zdw",
-    "comments": 53,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=29554371"
   },
   {
     "title": "Faiss: Facebook's open source vector search library",
     "url": "https://github.com/facebookresearch/faiss",
-    "upvotes": 122,
+    "upvotes": 125,
     "author": "ai_ja_nai",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=29555780"
@@ -166,10 +174,18 @@
   {
     "title": "Cash Glut in Eurozone Drives Dollar Demand",
     "url": "https://www.wsj.com/articles/cash-glut-in-eurozone-drives-dollar-demand-11639477801",
-    "upvotes": 30,
+    "upvotes": 32,
     "author": "prostoalex",
-    "comments": 20,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=29560332"
+  },
+  {
+    "title": "Ask HN: Private Alternatives to Alexa?",
+    "url": "item?id=29561452",
+    "upvotes": 39,
+    "author": "spir",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=29561452"
   },
   {
     "title": "Show HN: I made a free course, 'NLP for Semantic Search'",
@@ -180,59 +196,43 @@
     "link": "https://news.ycombinator.com/item?id=29551947"
   },
   {
-    "title": "NASA spacecraft ‘touches’ the Sun for the first time ever",
-    "url": "https://www.nature.com/articles/d41586-021-03751-5",
-    "upvotes": 4,
-    "author": "perihelions",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29561885"
-  },
-  {
-    "title": "I Can’t See You but I’m Not Blind",
-    "url": "https://steveblank.com/2021/12/14/i-cant-see-you-but-im-not-blind/",
-    "upvotes": 156,
-    "author": "rognjen",
-    "comments": 276,
-    "link": "https://news.ycombinator.com/item?id=29551579"
+    "title": "OpenSSL Security Advisory",
+    "url": "https://www.openssl.org/news/secadv/20211214.txt",
+    "upvotes": 109,
+    "author": "yabones",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=29554221"
   },
   {
     "title": "XXH: Bring your favorite shell wherever you go through the SSH",
     "url": "https://github.com/xxh/xxh",
-    "upvotes": 70,
+    "upvotes": 71,
     "author": "crummy",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29557113"
-  },
-  {
-    "title": "OpenSSL Security Advisory",
-    "url": "https://www.openssl.org/news/secadv/20211214.txt",
-    "upvotes": 107,
-    "author": "yabones",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=29554221"
-  },
-  {
-    "title": "When the government hides spy cameras on your land, fight back in court",
-    "url": "https://www.tennessean.com/story/opinion/2021/12/13/when-government-hides-spy-cameras-your-land-fight-back-court/6500524001/",
-    "upvotes": 154,
-    "author": "eric_h",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=29559462"
   },
   {
     "title": "Customizing GPT-3 for Your Application",
     "url": "https://openai.com/blog/customized-gpt3/",
-    "upvotes": 114,
+    "upvotes": 118,
     "author": "grappler",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=29554116"
   },
   {
-    "title": "Ask HN: Private Alternatives to Alexa?",
-    "url": "item?id=29561452",
-    "upvotes": 32,
-    "author": "spir",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=29561452"
+    "title": "When the government hides spy cameras on your land, fight back in court",
+    "url": "https://www.tennessean.com/story/opinion/2021/12/13/when-government-hides-spy-cameras-your-land-fight-back-court/6500524001/",
+    "upvotes": 155,
+    "author": "eric_h",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=29559462"
+  },
+  {
+    "title": "Omicron variant more resistant to vaccine but causes less severe Covid: study",
+    "url": "https://www.washingtonpost.com/world/2021/12/14/south-africa-omicron-coronavirus/",
+    "upvotes": 389,
+    "author": "richardatlarge",
+    "comments": 835,
+    "link": "https://news.ycombinator.com/item?id=29552187"
   }
 ]
