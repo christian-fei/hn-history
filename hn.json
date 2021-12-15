@@ -2,55 +2,63 @@
   {
     "title": "Mess with DNS",
     "url": "https://jvns.ca/blog/2021/12/15/mess-with-dns/",
-    "upvotes": 343,
+    "upvotes": 377,
     "author": "im2nguyen",
-    "comments": 30,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=29568510"
   },
   {
     "title": "A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution",
     "url": "https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html",
-    "upvotes": 271,
+    "upvotes": 305,
     "author": "arkadiyt",
-    "comments": 108,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=29568625"
+  },
+  {
+    "title": "How to build large-scale end-to-end encrypted group video calls",
+    "url": "https://signal.org/blog/how-to-build-encrypted-group-calls/",
+    "upvotes": 31,
+    "author": "jiripospisil",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29570938"
   },
   {
     "title": "The growth of command line options, 1979-Present",
     "url": "https://danluu.com/cli-complexity/",
-    "upvotes": 97,
+    "upvotes": 107,
     "author": "intrepidhero",
-    "comments": 49,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=29568042"
   },
   {
     "title": "ATX-80 – ZX-80 computer clone with ATmega8 processor",
     "url": "http://www.breatharian.eu/hw/atx80/index_en.html",
-    "upvotes": 42,
+    "upvotes": 50,
     "author": "xkriva11",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29569523"
+  },
+  {
+    "title": "Inventing the Atari 2600",
+    "url": "https://spectrum.ieee.org/atari-2600",
+    "upvotes": 13,
+    "author": "TheBombe",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29570697"
   },
   {
     "title": "Preventing Pool-Party Attacks",
     "url": "https://brave.com/privacy-updates/13-pool-party-side-channels/",
-    "upvotes": 71,
+    "upvotes": 79,
     "author": "decrypt",
-    "comments": 5,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29569093"
-  },
-  {
-    "title": "Apple revoked developer account for 2.5 years and counting, unfair treatment",
-    "url": "item?id=29569561",
-    "upvotes": 98,
-    "author": "camhart",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=29569561"
   },
   {
     "title": "Arc Institute – for curiosity-driven biomedical science and technology",
     "url": "https://arcinstitute.org/",
-    "upvotes": 71,
+    "upvotes": 78,
     "author": "_Microft",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=29568403"
@@ -58,43 +66,51 @@
   {
     "title": "How to write a simple JIT compiler",
     "url": "https://github.com/spencertipping/jit-tutorial",
-    "upvotes": 141,
+    "upvotes": 145,
     "author": "eatonphil",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29566249"
   },
   {
     "title": "Introducing the Arc Institute",
     "url": "https://arcinstitute.org/blog/introducing-arc-institute",
-    "upvotes": 52,
+    "upvotes": 59,
     "author": "gammarator",
-    "comments": 7,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29568478"
   },
   {
-    "title": "Okta Outage",
-    "url": "https://status.okta.com/",
-    "upvotes": 72,
-    "author": "hunter2_",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=29567747"
+    "title": "Apple revoked developer account for 2.5 years and counting, unfair treatment",
+    "url": "item?id=29569561",
+    "upvotes": 128,
+    "author": "camhart",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=29569561"
   },
   {
-    "title": "How to Stand Out with Your Job Application as a Junior Software Developer",
-    "url": "https://akoskm.com/how-to-stand-out-with-your-job-application",
-    "upvotes": 18,
-    "author": "mooreds",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=29569814"
+    "title": "Allocgate is coming in Zig 0.9, and you will have to change your code",
+    "url": "https://pithlessly.github.io/allocgate.html",
+    "upvotes": 7,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29571133"
   },
   {
     "title": "DigiBuild Software",
     "url": "https://www.ycombinator.com/companies/digibuild-software-inc/jobs/OGXJse8-digibuild-s21-is-hiring-a-principal-engineer-tech-lead-backed-by-yc-tim-draper-harvard-university"
   },
   {
+    "title": "Okta Outage",
+    "url": "https://status.okta.com/",
+    "upvotes": 74,
+    "author": "hunter2_",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=29567747"
+  },
+  {
     "title": "Pine64 and Radxa's new Pi CM4-compatible boards",
     "url": "https://www.jeffgeerling.com/blog/2021/pine64-and-radxas-new-pi-cm4-compatible-boards",
-    "upvotes": 69,
+    "upvotes": 73,
     "author": "geerlingguy",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=29566868"
@@ -102,137 +118,121 @@
   {
     "title": "Ask HN: I've lost faith in myself as a developer, how do I get it back?",
     "url": "item?id=29567743",
-    "upvotes": 169,
+    "upvotes": 178,
     "author": "cwitty88",
-    "comments": 143,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=29567743"
+  },
+  {
+    "title": "Tuxedo Stellaris: A Powerful Linux Laptop",
+    "url": "https://boilingsteam.com/tuxedo-stellaris-the-meanest-laptop-money-can-buy/",
+    "upvotes": 14,
+    "author": "ekianjo",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29565903"
+  },
+  {
+    "title": "Swift Playgrounds 4",
+    "url": "https://www.apple.com/swift/playgrounds/",
+    "upvotes": 6,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29570871"
   },
   {
     "title": "AWS appears to be down again",
     "url": "item?id=29567170",
-    "upvotes": 753,
+    "upvotes": 767,
     "author": "thadjo",
-    "comments": 410,
+    "comments": 415,
     "link": "https://news.ycombinator.com/item?id=29567170"
   },
   {
     "title": "Mold 1.0: the first stable and production-ready release of the high-speed linker",
     "url": "https://github.com/rui314/mold/releases/tag/v1.0.0",
-    "upvotes": 96,
+    "upvotes": 111,
     "author": "matt_d",
-    "comments": 16,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=29568454"
   },
   {
     "title": "HTTP/3 Is Fast",
     "url": "https://requestmetrics.com/web-performance/http3-is-fast",
-    "upvotes": 344,
+    "upvotes": 351,
     "author": "SerCe",
-    "comments": 243,
+    "comments": 254,
     "link": "https://news.ycombinator.com/item?id=29563229"
   },
   {
     "title": "Ideas are just a multiplier of execution",
     "url": "https://sive.rs/multiply",
-    "upvotes": 29,
+    "upvotes": 35,
     "author": "durmonski",
-    "comments": 25,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=29539044"
-  },
-  {
-    "title": "Google is building a new augmented reality device and operating system",
-    "url": "https://arstechnica.com/gadgets/2021/12/google-is-building-a-new-augmented-reality-device-and-operating-system/",
-    "upvotes": 99,
-    "author": "rbanffy",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=29566313"
   },
   {
     "title": "No, we didn’t accidentally create a warp bubble",
     "url": "https://bigthink.com/starts-with-a-bang/no-warp-bubble/",
-    "upvotes": 134,
+    "upvotes": 141,
     "author": "russfink",
-    "comments": 75,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=29566771"
   },
   {
-    "title": "The Serious and the Smirk – The Smile in Portraiture",
-    "url": "https://publicdomainreview.org/essay/the-serious-and-the-smirk-the-smile-in-portraiture/",
-    "upvotes": 20,
-    "author": "d99kris",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29566865"
+    "title": "The ‘Invisible’, Often Unhappy Workforce That’s Deciding the Future of AI",
+    "url": "https://www.unite.ai/the-invisible-often-unhappy-workforce-thats-deciding-the-future-of-ai/",
+    "upvotes": 73,
+    "author": "Hard_Space",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=29539051"
   },
   {
     "title": "JuNest – The lightweight Arch based distro that runs upon any Linux distribution",
     "url": "http://fsquillace.github.io/junest-site/",
-    "upvotes": 52,
+    "upvotes": 53,
     "author": "pantalaimon",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29540156"
   },
   {
-    "title": "The ‘Invisible’, Often Unhappy Workforce That’s Deciding the Future of AI",
-    "url": "https://www.unite.ai/the-invisible-often-unhappy-workforce-thats-deciding-the-future-of-ai/",
-    "upvotes": 69,
-    "author": "Hard_Space",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=29539051"
+    "title": "The Serious and the Smirk – The Smile in Portraiture",
+    "url": "https://publicdomainreview.org/essay/the-serious-and-the-smirk-the-smile-in-portraiture/",
+    "upvotes": 21,
+    "author": "d99kris",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29566865"
   },
   {
     "title": "FreeBSD Handbook / Introduction",
     "url": "https://docs.freebsd.org/en/books/handbook/introduction/",
-    "upvotes": 133,
+    "upvotes": 138,
     "author": "Ducki",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29566806"
   },
   {
     "title": "The Open Cap Table Coalition",
     "url": "https://techcrunch.com/2021/07/29/introducing-the-open-cap-table-coalition/",
-    "upvotes": 48,
+    "upvotes": 53,
     "author": "JumpCrisscross",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=29566686"
   },
   {
-    "title": "Inventing the Atari 2600",
-    "url": "https://spectrum.ieee.org/atari-2600",
-    "upvotes": 3,
-    "author": "TheBombe",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29570697"
-  },
-  {
-    "title": "JFK Assassination Records – 2021 Additional Documents Release",
-    "url": "https://www.archives.gov/research/jfk/release2021",
-    "upvotes": 149,
-    "author": "cf100clunk",
-    "comments": 185,
-    "link": "https://news.ycombinator.com/item?id=29569017"
+    "title": "Google is building a new augmented reality device and operating system",
+    "url": "https://arstechnica.com/gadgets/2021/12/google-is-building-a-new-augmented-reality-device-and-operating-system/",
+    "upvotes": 103,
+    "author": "rbanffy",
+    "comments": 119,
+    "link": "https://news.ycombinator.com/item?id=29566313"
   },
   {
     "title": "Asahi Linux for M1 Macs Progress October-November 2021",
     "url": "https://asahilinux.org/2021/12/progress-report-oct-nov-2021/",
-    "upvotes": 289,
+    "upvotes": 296,
     "author": "svenpeter",
-    "comments": 149,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=29564384"
-  },
-  {
-    "title": "BusKill – A USB kill cord for laptops",
-    "url": "https://www.buskill.in/",
-    "upvotes": 228,
-    "author": "favourable",
-    "comments": 269,
-    "link": "https://news.ycombinator.com/item?id=29564593"
-  },
-  {
-    "title": "Research finds immune system responds to mRNA treatment for cancer",
-    "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-finds-immune-system-responds-to-mrna-treatment-for-cancer/",
-    "upvotes": 135,
-    "author": "geox",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=29567550"
   }
 ]
