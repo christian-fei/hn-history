@@ -1,83 +1,99 @@
 [
   {
+    "title": "Chess.com vs. Lichess",
+    "url": "https://siddhesh.substack.com/p/chesscom-vs-lichess",
+    "upvotes": 93,
+    "author": "weekendvampire",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=29572447"
+  },
+  {
     "title": "Mess with DNS",
     "url": "https://jvns.ca/blog/2021/12/15/mess-with-dns/",
-    "upvotes": 623,
+    "upvotes": 670,
     "author": "im2nguyen",
-    "comments": 50,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=29568510"
   },
   {
     "title": "A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution",
     "url": "https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html",
-    "upvotes": 512,
+    "upvotes": 556,
     "author": "arkadiyt",
-    "comments": 199,
+    "comments": 208,
     "link": "https://news.ycombinator.com/item?id=29568625"
   },
   {
     "title": "How to build large-scale end-to-end encrypted group video calls",
     "url": "https://signal.org/blog/how-to-build-encrypted-group-calls/",
-    "upvotes": 166,
+    "upvotes": 189,
     "author": "jiripospisil",
-    "comments": 54,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=29570938"
   },
   {
     "title": "Crypto wallet security as seen by security engineers",
     "url": "https://www.cossacklabs.com/blog/crypto-wallets-security/",
-    "upvotes": 25,
+    "upvotes": 43,
     "author": "rchaudhary",
-    "comments": 9,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29572477"
-  },
-  {
-    "title": "Chess.com vs. Lichess",
-    "url": "https://siddhesh.substack.com/p/chesscom-vs-lichess",
-    "upvotes": 36,
-    "author": "weekendvampire",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=29572447"
   },
   {
     "title": "Swift Playgrounds 4",
     "url": "https://www.apple.com/swift/playgrounds/",
-    "upvotes": 127,
+    "upvotes": 145,
     "author": "tosh",
-    "comments": 40,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=29570871"
   },
   {
-    "title": "Clojure Macros and Metaprogramming",
-    "url": "https://clojure-doc.github.io/articles/language/macros/",
-    "upvotes": 50,
-    "author": "todsacerdoti",
+    "title": "Distributed SQLite for Rust",
+    "url": "https://github.com/chiselstrike/chiselstore",
+    "upvotes": 23,
+    "author": "patrickdevivo",
     "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29571786"
+    "link": "https://news.ycombinator.com/item?id=29572756"
+  },
+  {
+    "title": "Show HN: Overpass – a self-hosted video live streaming app",
+    "url": "https://github.com/GOATS2K/overpass",
+    "upvotes": 41,
+    "author": "GOATS-",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29572310"
   },
   {
     "title": "James Dyson answers design questions from Twitter [video]",
     "url": "https://www.youtube.com/watch?v=zFCFe38EIfE",
-    "upvotes": 56,
+    "upvotes": 68,
     "author": "open-source-ux",
-    "comments": 44,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=29564720"
+  },
+  {
+    "title": "Clojure Macros and Metaprogramming",
+    "url": "https://clojure-doc.github.io/articles/language/macros/",
+    "upvotes": 63,
+    "author": "todsacerdoti",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=29571786"
+  },
+  {
+    "title": "Technorealism",
+    "url": "https://www.technorealism.org/",
+    "upvotes": 22,
+    "author": "dredmorbius",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29571016"
   },
   {
     "title": "Inventing the Atari 2600",
     "url": "https://spectrum.ieee.org/atari-2600",
-    "upvotes": 57,
+    "upvotes": 60,
     "author": "TheBombe",
-    "comments": 21,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29570697"
-  },
-  {
-    "title": "Show HN: FastWSGI, an ultra-fast WSGI server for Python",
-    "url": "https://github.com/jamesroberts/fastwsgi",
-    "upvotes": 37,
-    "author": "james_roberts",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=29571421"
   },
   {
     "title": "Relationship Hero",
@@ -86,153 +102,137 @@
   {
     "title": "The growth of command line options, 1979-Present",
     "url": "https://danluu.com/cli-complexity/",
-    "upvotes": 134,
+    "upvotes": 137,
     "author": "intrepidhero",
-    "comments": 78,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=29568042"
   },
   {
     "title": "ATX-80 – ZX-80 computer clone with ATmega8 processor",
     "url": "http://www.breatharian.eu/hw/atx80/index_en.html",
-    "upvotes": 78,
+    "upvotes": 83,
     "author": "xkriva11",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29569523"
-  },
-  {
-    "title": "A Unix System Implementation for System/370",
-    "url": "https://www.bell-labs.com/usr/dmr/www/otherports/ibm.pdf",
-    "upvotes": 19,
-    "author": "rbanffy",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29571997"
-  },
-  {
-    "title": "Show HN: Overpass – a self-hosted video live streaming app",
-    "url": "https://github.com/GOATS2K/overpass",
-    "upvotes": 18,
-    "author": "GOATS-",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29572310"
-  },
-  {
-    "title": "Tuxedo Stellaris: A Powerful Linux Laptop",
-    "url": "https://boilingsteam.com/tuxedo-stellaris-the-meanest-laptop-money-can-buy/",
-    "upvotes": 54,
-    "author": "ekianjo",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=29565903"
-  },
-  {
-    "title": "Arc Institute – for curiosity-driven biomedical science and technology",
-    "url": "https://arcinstitute.org/",
-    "upvotes": 109,
-    "author": "_Microft",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=29568403"
-  },
-  {
-    "title": "How to write a simple JIT compiler",
-    "url": "https://github.com/spencertipping/jit-tutorial",
-    "upvotes": 173,
-    "author": "eatonphil",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=29566249"
   },
   {
     "title": "Geoff Foster on the art of sound engineering",
     "url": "https://composer.spitfireaudio.com/en/articles/geoff-foster-on-the-art-of-engineering",
-    "upvotes": 6,
+    "upvotes": 14,
     "author": "belter",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29572742"
   },
   {
+    "title": "Show HN: FastWSGI, an ultra-fast WSGI server for Python",
+    "url": "https://github.com/jamesroberts/fastwsgi",
+    "upvotes": 43,
+    "author": "james_roberts",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=29571421"
+  },
+  {
+    "title": "A Unix System Implementation for System/370",
+    "url": "https://www.bell-labs.com/usr/dmr/www/otherports/ibm.pdf",
+    "upvotes": 22,
+    "author": "rbanffy",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29571997"
+  },
+  {
+    "title": "Dodge Is Cancelling the Hemi V8",
+    "url": "https://www.motorious.com/articles/features-3/dodge-cancelling-hemi-v8/",
+    "upvotes": 14,
+    "author": "SQL2219",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=29572256"
+  },
+  {
+    "title": "Arc Institute – for curiosity-driven biomedical science and technology",
+    "url": "https://arcinstitute.org/",
+    "upvotes": 117,
+    "author": "_Microft",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=29568403"
+  },
+  {
+    "title": "The Blog Is the Program",
+    "url": "https://andregarzia.com/2021/12/the-blog-is-the-program.html",
+    "upvotes": 8,
+    "author": "soapdog",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29572039"
+  },
+  {
+    "title": "How to write a simple JIT compiler",
+    "url": "https://github.com/spencertipping/jit-tutorial",
+    "upvotes": 180,
+    "author": "eatonphil",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=29566249"
+  },
+  {
+    "title": "The Tortoise, the Hare, and the Cyclical Linked List",
+    "url": "https://medium.com/@edgar-loves-python/the-tortoise-the-hare-and-the-cyclical-linked-list-1b51acab5b",
+    "upvotes": 19,
+    "author": "rbanffy",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29565218"
+  },
+  {
     "title": "BusKill – A USB kill cord for laptops",
     "url": "https://www.buskill.in/",
-    "upvotes": 259,
+    "upvotes": 268,
     "author": "favourable",
-    "comments": 293,
+    "comments": 298,
     "link": "https://news.ycombinator.com/item?id=29564593"
+  },
+  {
+    "title": "The future of artificial intelligence is self-organizing and self-assembling",
+    "url": "http://sebastianrisi.com/self_assembling_ai/",
+    "upvotes": 5,
+    "author": "activatedgeek",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29568370"
   },
   {
     "title": "Preventing Pool-Party Attacks",
     "url": "https://brave.com/privacy-updates/13-pool-party-side-channels/",
-    "upvotes": 98,
+    "upvotes": 100,
     "author": "decrypt",
-    "comments": 27,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=29569093"
   },
   {
     "title": "I was stuck on a side project for 5 years – how I finished it",
     "url": "https://cassandraxia.com/writing/shed.html",
-    "upvotes": 112,
+    "upvotes": 122,
     "author": "danbst",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29570919"
-  },
-  {
-    "title": "Technorealism",
-    "url": "https://www.technorealism.org/",
-    "upvotes": 6,
-    "author": "dredmorbius",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29571016"
-  },
-  {
-    "title": "The Tortoise, the Hare, and the Cyclical Linked List",
-    "url": "https://medium.com/@edgar-loves-python/the-tortoise-the-hare-and-the-cyclical-linked-list-1b51acab5b",
-    "upvotes": 12,
-    "author": "rbanffy",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29565218"
   },
   {
     "title": "Attacking Natural Language Processing Systems with Adversarial Examples",
     "url": "https://www.unite.ai/attacking-natural-language-processing-systems-with-adversarial-examples/",
-    "upvotes": 15,
+    "upvotes": 20,
     "author": "tequila_shot",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29571479"
-  },
-  {
-    "title": "Pine64 and Radxa's new Pi CM4-compatible boards",
-    "url": "https://www.jeffgeerling.com/blog/2021/pine64-and-radxas-new-pi-cm4-compatible-boards",
-    "upvotes": 91,
-    "author": "geerlingguy",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=29566868"
   },
   {
     "title": "Okta Outage",
     "url": "https://status.okta.com/",
-    "upvotes": 98,
+    "upvotes": 106,
     "author": "hunter2_",
-    "comments": 52,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=29567747"
   },
   {
-    "title": "Allocgate: Restructuring how allocators work in Zig",
-    "url": "https://pithlessly.github.io/allocgate.html",
-    "upvotes": 69,
-    "author": "todsacerdoti",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=29571133"
-  },
-  {
-    "title": "Ask HN: I've lost faith in myself as a developer, how do I get it back?",
-    "url": "item?id=29567743",
-    "upvotes": 243,
-    "author": "cwitty88",
-    "comments": 185,
-    "link": "https://news.ycombinator.com/item?id=29567743"
-  },
-  {
-    "title": "Mold 1.0: the first stable and production-ready release of the high-speed linker",
-    "url": "https://github.com/rui314/mold/releases/tag/v1.0.0",
-    "upvotes": 173,
-    "author": "matt_d",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=29568454"
+    "title": "Pine64 and Radxa's new Pi CM4-compatible boards",
+    "url": "https://www.jeffgeerling.com/blog/2021/pine64-and-radxas-new-pi-cm4-compatible-boards",
+    "upvotes": 94,
+    "author": "geerlingguy",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=29566868"
   }
 ]
