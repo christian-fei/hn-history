@@ -2,23 +2,23 @@
   {
     "title": "Don't start with microservices – monoliths are your friend",
     "url": "https://arnoldgalovics.com/microservices-in-production/",
-    "upvotes": 295,
+    "upvotes": 335,
     "author": "galovics",
-    "comments": 136,
+    "comments": 161,
     "link": "https://news.ycombinator.com/item?id=29576352"
   },
   {
     "title": "Clever uses of pass, the Unix password manager",
     "url": "https://vitalyparnas.com/guides/pass/",
-    "upvotes": 19,
+    "upvotes": 35,
     "author": "smartmic",
-    "comments": 3,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29577272"
   },
   {
     "title": "Awkward: Nested, jagged, differentiable, mixed type, GPU-enabled, JIT'd NumPy",
     "url": "https://awkward-array.org/quickstart.html",
-    "upvotes": 70,
+    "upvotes": 73,
     "author": "pizza",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=29576323"
@@ -26,7 +26,7 @@
   {
     "title": "PNG Parser Differential",
     "url": "https://www.da.vidbuchanan.co.uk/widgets/pngdiff/",
-    "upvotes": 366,
+    "upvotes": 373,
     "author": "Retr0id",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=29573792"
@@ -34,163 +34,171 @@
   {
     "title": "World of Text is an infinite grid of text editable by any visitor",
     "url": "https://www.yourworldoftext.com/",
-    "upvotes": 47,
+    "upvotes": 48,
     "author": "throwaway47292",
-    "comments": 37,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=29576394"
   },
   {
     "title": "3 lines of code shouldn't take all day",
     "url": "https://devtails.xyz/3-lines-of-code-shouldnt-take-all-day",
-    "upvotes": 178,
+    "upvotes": 189,
     "author": "devtailz",
-    "comments": 117,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=29562557"
   },
   {
     "title": "Log4j 2.15.0 – Previously suggested mitigations may not be enough",
     "url": "https://isc.sans.edu/diary/Log4j+2.15.0+and+previously+suggested+mitigations+may+not+be+enough/28134",
-    "upvotes": 89,
+    "upvotes": 95,
     "author": "News-Dog",
-    "comments": 39,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=29575922"
+  },
+  {
+    "title": "Launching Version 13.0 of Wolfram Language and Mathematica",
+    "url": "https://writings.stephenwolfram.com/2021/12/launching-version-13-0-of-wolfram-language-mathematica/",
+    "upvotes": 18,
+    "author": "nsoonhui",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29576820"
   },
   {
     "title": "Promoted.ai",
     "url": "https://www.ycombinator.com/companies/promoted/jobs/i92St29-apache-flink-expert"
   },
   {
+    "title": "Chess.com vs. Lichess",
+    "url": "https://siddhesh.substack.com/p/chesscom-vs-lichess",
+    "upvotes": 301,
+    "author": "weekendvampire",
+    "comments": 178,
+    "link": "https://news.ycombinator.com/item?id=29572447"
+  },
+  {
+    "title": "GPT-3 APIs are now in public beta",
+    "url": "https://openai.com/api/",
+    "upvotes": 158,
+    "author": "Sreyanth",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=29574190"
+  },
+  {
     "title": "Leveraging SIMD: Splitting CSV Files at 3Gb/S",
     "url": "https://blog.tinybird.co/2021/12/14/simd/",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "__exit__",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29576769"
   },
   {
-    "title": "GPT-3 APIs are now in public beta",
-    "url": "https://openai.com/api/",
-    "upvotes": 154,
-    "author": "Sreyanth",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=29574190"
-  },
-  {
-    "title": "Chess.com vs. Lichess",
-    "url": "https://siddhesh.substack.com/p/chesscom-vs-lichess",
-    "upvotes": 297,
-    "author": "weekendvampire",
-    "comments": 176,
-    "link": "https://news.ycombinator.com/item?id=29572447"
-  },
-  {
     "title": "Isn't she just Misunderstood? The Casio Loopy",
     "url": "https://nicole.express/2021/going-loopy-for-a-casio.html",
-    "upvotes": 76,
+    "upvotes": 82,
     "author": "zdw",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=29575044"
-  },
-  {
-    "title": "National Park Typeface",
-    "url": "https://nationalparktypeface.com/",
-    "upvotes": 122,
-    "author": "luke2m",
     "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=29573976"
+    "link": "https://news.ycombinator.com/item?id=29575044"
   },
   {
     "title": "Russian court accidentally confirmed Russian military presence in Ukraine",
     "url": "https://www.znak.com/2021-12-16/rostovskiy_sud_opublikoval_prigovor_s_podtverzhdeniem_prisutstviya_voennyh_rf_v_donbasse",
-    "upvotes": 42,
+    "upvotes": 62,
     "author": "ivan_gammel",
-    "comments": 10,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=29577056"
   },
   {
     "title": "LibreQoS: QoS for ISPs",
     "url": "https://github.com/rchac/LibreQoS",
-    "upvotes": 5,
+    "upvotes": 7,
     "author": "vanburen",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29577283"
+  },
+  {
+    "title": "National Park Typeface",
+    "url": "https://nationalparktypeface.com/",
+    "upvotes": 125,
+    "author": "luke2m",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=29573976"
   },
   {
     "title": "Reddit files to go public",
     "url": "https://www.reuters.com/markets/us/reddit-files-us-ipo-2021-12-16/",
-    "upvotes": 413,
+    "upvotes": 423,
     "author": "stevemk14ebr",
-    "comments": 551,
+    "comments": 560,
     "link": "https://news.ycombinator.com/item?id=29574359"
   },
   {
     "title": "Kobayashi’s Maid Dragon Translation Notes",
     "url": "https://tlnotes.com/",
-    "upvotes": 82,
+    "upvotes": 88,
     "author": "picture",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=29575127"
   },
   {
     "title": "General relativity passes a range of precise tests set by pair of extreme stars",
     "url": "https://www.mpifr-bonn.mpg.de/pressreleases/2021/12",
-    "upvotes": 89,
+    "upvotes": 91,
     "author": "jonbaer",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29574250"
   },
   {
     "title": "QEMU 6.2",
     "url": "https://wiki.qemu.org/ChangeLog/6.2",
-    "upvotes": 150,
+    "upvotes": 156,
     "author": "Tomte",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29574986"
   },
   {
-    "title": "Launching Version 13.0 of Wolfram Language and Mathematica",
-    "url": "https://writings.stephenwolfram.com/2021/12/launching-version-13-0-of-wolfram-language-mathematica/",
-    "upvotes": 10,
-    "author": "nsoonhui",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29576820"
-  },
-  {
     "title": "IBM and Samsung Unveil Semiconductor Breakthrough",
     "url": "https://newsroom.ibm.com/2021-12-14-IBM-and-Samsung-Unveil-Semiconductor-Breakthrough-That-Defies-Conventional-Design",
-    "upvotes": 149,
+    "upvotes": 151,
     "author": "belter",
-    "comments": 45,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=29573020"
-  },
-  {
-    "title": "Swift Playgrounds 4",
-    "url": "https://www.apple.com/swift/playgrounds/",
-    "upvotes": 235,
-    "author": "tosh",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=29570871"
   },
   {
     "title": "The longest train journey – in 2021",
     "url": "https://jonworth.eu/the-longest-train-journey-in-the-world-in-2021/",
-    "upvotes": 44,
+    "upvotes": 47,
     "author": "anonymfus",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29570640"
   },
   {
+    "title": "A brief history of code search at GitHub",
+    "url": "https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/",
+    "upvotes": 7,
+    "author": "jakon89",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29576977"
+  },
+  {
+    "title": "Swift Playgrounds 4",
+    "url": "https://www.apple.com/swift/playgrounds/",
+    "upvotes": 237,
+    "author": "tosh",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=29570871"
+  },
+  {
     "title": "F# Good and Bad",
     "url": "https://danielbmarkham.com/f-good-and-bad/",
-    "upvotes": 79,
+    "upvotes": 83,
     "author": "amscotti",
-    "comments": 40,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=29571417"
   },
   {
     "title": "A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution",
     "url": "https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html",
-    "upvotes": 826,
+    "upvotes": 830,
     "author": "arkadiyt",
     "comments": 298,
     "link": "https://news.ycombinator.com/item?id=29568625"
@@ -198,15 +206,15 @@
   {
     "title": "Crypto wallet security as seen by security engineers",
     "url": "https://www.cossacklabs.com/blog/crypto-wallets-security/",
-    "upvotes": 141,
+    "upvotes": 143,
     "author": "rchaudhary",
-    "comments": 84,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=29572477"
   },
   {
     "title": "Mess with DNS",
     "url": "https://jvns.ca/blog/2021/12/15/mess-with-dns/",
-    "upvotes": 865,
+    "upvotes": 869,
     "author": "im2nguyen",
     "comments": 76,
     "link": "https://news.ycombinator.com/item?id=29568510"
@@ -214,25 +222,17 @@
   {
     "title": "Show HN: Overpass – a self-hosted video live streaming app",
     "url": "https://github.com/GOATS2K/overpass",
-    "upvotes": 129,
+    "upvotes": 130,
     "author": "GOATS-",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=29572310"
   },
   {
-    "title": "A brief history of code search at GitHub",
-    "url": "https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/",
-    "upvotes": 5,
-    "author": "jakon89",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29576977"
-  },
-  {
     "title": "To reduce student suicides by hanging to fans, institute in India removes fans",
     "url": "https://www.deccanherald.com/city/students-say-iisc-removing-fans-to-prevent-suicides-1061221.html",
-    "upvotes": 108,
+    "upvotes": 112,
     "author": "tangoalpha",
-    "comments": 90,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=29575372"
   }
 ]
