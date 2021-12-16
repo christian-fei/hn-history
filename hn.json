@@ -2,31 +2,31 @@
   {
     "title": "From Node to Ruby on Rails",
     "url": "https://nikodunk.com/a-node-js-developer-discovers-rails/",
-    "upvotes": 50,
+    "upvotes": 117,
     "author": "mokkol",
-    "comments": 15,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=29577897"
   },
   {
     "title": "Don't start with microservices – monoliths are your friend",
     "url": "https://arnoldgalovics.com/microservices-in-production/",
-    "upvotes": 411,
+    "upvotes": 457,
     "author": "galovics",
-    "comments": 194,
+    "comments": 207,
     "link": "https://news.ycombinator.com/item?id=29576352"
   },
   {
     "title": "Clever uses of pass, the Unix password manager",
     "url": "https://vitalyparnas.com/guides/pass/",
-    "upvotes": 69,
+    "upvotes": 83,
     "author": "smartmic",
-    "comments": 29,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=29577272"
   },
   {
     "title": "PNG Parser Differential",
     "url": "https://www.da.vidbuchanan.co.uk/widgets/pngdiff/",
-    "upvotes": 387,
+    "upvotes": 396,
     "author": "Retr0id",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=29573792"
@@ -34,7 +34,7 @@
   {
     "title": "Awkward: Nested, jagged, differentiable, mixed type, GPU-enabled, JIT'd NumPy",
     "url": "https://awkward-array.org/quickstart.html",
-    "upvotes": 80,
+    "upvotes": 83,
     "author": "pizza",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=29576323"
@@ -42,23 +42,15 @@
   {
     "title": "Launching Version 13.0 of Wolfram Language and Mathematica",
     "url": "https://writings.stephenwolfram.com/2021/12/launching-version-13-0-of-wolfram-language-mathematica/",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "nsoonhui",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=29576820"
-  },
-  {
-    "title": "Mathematician Hurls Structure and Disorder into Century-Old Problem",
-    "url": "https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/",
-    "upvotes": 15,
-    "author": "nsoonhui",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29577367"
   },
   {
     "title": "World of Text is an infinite grid of text editable by any visitor",
     "url": "https://www.yourworldoftext.com/",
-    "upvotes": 56,
+    "upvotes": 62,
     "author": "throwaway47292",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=29576394"
@@ -66,75 +58,83 @@
   {
     "title": "Log4j 2.15.0 – Previously suggested mitigations may not be enough",
     "url": "https://isc.sans.edu/diary/Log4j+2.15.0+and+previously+suggested+mitigations+may+not+be+enough/28134",
-    "upvotes": 113,
+    "upvotes": 120,
     "author": "News-Dog",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=29575922"
+  },
+  {
+    "title": "LibreQoS: QoS for ISPs",
+    "url": "https://github.com/rchac/LibreQoS",
+    "upvotes": 18,
+    "author": "vanburen",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29577283"
+  },
+  {
+    "title": "3 lines of code shouldn't take all day",
+    "url": "https://devtails.xyz/3-lines-of-code-shouldnt-take-all-day",
+    "upvotes": 214,
+    "author": "devtailz",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=29562557"
   },
   {
     "title": "Promoted.ai",
     "url": "https://www.ycombinator.com/companies/promoted/jobs/i92St29-apache-flink-expert"
   },
   {
-    "title": "LibreQoS: QoS for ISPs",
-    "url": "https://github.com/rchac/LibreQoS",
-    "upvotes": 15,
-    "author": "vanburen",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29577283"
-  },
-  {
     "title": "Russian court accidentally confirmed Russian military presence in Ukraine",
     "url": "https://www.znak.com/2021-12-16/rostovskiy_sud_opublikoval_prigovor_s_podtverzhdeniem_prisutstviya_voennyh_rf_v_donbasse",
-    "upvotes": 119,
+    "upvotes": 151,
     "author": "ivan_gammel",
-    "comments": 102,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=29577056"
-  },
-  {
-    "title": "3 lines of code shouldn't take all day",
-    "url": "https://devtails.xyz/3-lines-of-code-shouldnt-take-all-day",
-    "upvotes": 202,
-    "author": "devtailz",
-    "comments": 132,
-    "link": "https://news.ycombinator.com/item?id=29562557"
   },
   {
     "title": "Leveraging SIMD: Splitting CSV Files at 3Gb/S",
     "url": "https://blog.tinybird.co/2021/12/14/simd/",
-    "upvotes": 36,
+    "upvotes": 40,
     "author": "__exit__",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29576769"
   },
   {
+    "title": "Mathematician Hurls Structure and Disorder into Century-Old Problem",
+    "url": "https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/",
+    "upvotes": 20,
+    "author": "nsoonhui",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29577367"
+  },
+  {
     "title": "Chess.com vs. Lichess",
     "url": "https://siddhesh.substack.com/p/chesscom-vs-lichess",
-    "upvotes": 315,
+    "upvotes": 319,
     "author": "weekendvampire",
-    "comments": 183,
+    "comments": 186,
     "link": "https://news.ycombinator.com/item?id=29572447"
   },
   {
     "title": "GPT-3 APIs are now in public beta",
     "url": "https://openai.com/api/",
-    "upvotes": 166,
+    "upvotes": 171,
     "author": "Sreyanth",
-    "comments": 106,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=29574190"
   },
   {
     "title": "Isn't she just Misunderstood? The Casio Loopy",
     "url": "https://nicole.express/2021/going-loopy-for-a-casio.html",
-    "upvotes": 90,
+    "upvotes": 94,
     "author": "zdw",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29575044"
   },
   {
     "title": "National Park Typeface",
     "url": "https://nationalparktypeface.com/",
-    "upvotes": 135,
+    "upvotes": 143,
     "author": "luke2m",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=29573976"
@@ -142,63 +142,63 @@
   {
     "title": "General relativity passes a range of precise tests set by pair of extreme stars",
     "url": "https://www.mpifr-bonn.mpg.de/pressreleases/2021/12",
-    "upvotes": 101,
+    "upvotes": 107,
     "author": "jonbaer",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29574250"
   },
   {
-    "title": "Kobayashi’s Maid Dragon Translation Notes",
-    "url": "https://tlnotes.com/",
-    "upvotes": 95,
-    "author": "picture",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=29575127"
+    "title": "A brief history of code search at GitHub",
+    "url": "https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/",
+    "upvotes": 18,
+    "author": "jakon89",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29576977"
   },
   {
     "title": "Reddit files to go public",
     "url": "https://www.reuters.com/markets/us/reddit-files-us-ipo-2021-12-16/",
-    "upvotes": 439,
+    "upvotes": 454,
     "author": "stevemk14ebr",
-    "comments": 593,
+    "comments": 613,
     "link": "https://news.ycombinator.com/item?id=29574359"
   },
   {
-    "title": "A brief history of code search at GitHub",
-    "url": "https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/",
-    "upvotes": 14,
-    "author": "jakon89",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29576977"
+    "title": "Kobayashi’s Maid Dragon Translation Notes",
+    "url": "https://tlnotes.com/",
+    "upvotes": 100,
+    "author": "picture",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=29575127"
   },
   {
     "title": "The longest train journey – in 2021",
     "url": "https://jonworth.eu/the-longest-train-journey-in-the-world-in-2021/",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "anonymfus",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=29570640"
   },
   {
     "title": "IBM and Samsung Unveil Semiconductor Breakthrough",
     "url": "https://newsroom.ibm.com/2021-12-14-IBM-and-Samsung-Unveil-Semiconductor-Breakthrough-That-Defies-Conventional-Design",
-    "upvotes": 158,
+    "upvotes": 160,
     "author": "belter",
-    "comments": 51,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=29573020"
   },
   {
     "title": "QEMU 6.2",
     "url": "https://wiki.qemu.org/ChangeLog/6.2",
-    "upvotes": 168,
+    "upvotes": 173,
     "author": "Tomte",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=29574986"
   },
   {
     "title": "Swift Playgrounds 4",
     "url": "https://www.apple.com/swift/playgrounds/",
-    "upvotes": 240,
+    "upvotes": 242,
     "author": "tosh",
     "comments": 87,
     "link": "https://news.ycombinator.com/item?id=29570871"
@@ -206,33 +206,33 @@
   {
     "title": "F# Good and Bad",
     "url": "https://danielbmarkham.com/f-good-and-bad/",
-    "upvotes": 87,
+    "upvotes": 91,
     "author": "amscotti",
-    "comments": 44,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=29571417"
   },
   {
     "title": "A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution",
     "url": "https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html",
-    "upvotes": 845,
+    "upvotes": 850,
     "author": "arkadiyt",
-    "comments": 298,
+    "comments": 299,
     "link": "https://news.ycombinator.com/item?id=29568625"
   },
   {
     "title": "Crypto wallet security as seen by security engineers",
     "url": "https://www.cossacklabs.com/blog/crypto-wallets-security/",
-    "upvotes": 149,
+    "upvotes": 152,
     "author": "rchaudhary",
     "comments": 88,
     "link": "https://news.ycombinator.com/item?id=29572477"
   },
   {
-    "title": "Show HN: Overpass – a self-hosted video live streaming app",
-    "url": "https://github.com/GOATS2K/overpass",
-    "upvotes": 140,
-    "author": "GOATS-",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=29572310"
+    "title": "Mess with DNS",
+    "url": "https://jvns.ca/blog/2021/12/15/mess-with-dns/",
+    "upvotes": 877,
+    "author": "im2nguyen",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=29568510"
   }
 ]
