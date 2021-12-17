@@ -1,58 +1,58 @@
 [
   {
-    "title": "The Bastard Operator from Hell Complete",
-    "url": "http://bofh.bjash.com/",
-    "upvotes": 54,
-    "author": "de6u99er",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=29590667"
-  },
-  {
-    "title": "Judge rejects Purdue Pharma's $4.5B opioid settlement",
-    "url": "https://www.axios.com/purdue-pharma-opioids-settlement-ruling-5d56f27b-eebe-4d6e-a1ac-7915d45f8795.html",
-    "upvotes": 135,
-    "author": "sofixa",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=29588995"
-  },
-  {
     "title": "Authoring a SIMD enhanced WASM library with Rust",
     "url": "https://nickb.dev/blog/authoring-a-simd-enhanced-wasm-library-with-rust",
-    "upvotes": 23,
+    "upvotes": 32,
     "author": "lukastyrychtr",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29590449"
   },
   {
+    "title": "Introduction to WebAssembly Components",
+    "url": "https://radu-matei.com/blog/intro-wasm-components/",
+    "upvotes": 15,
+    "author": "pcr910303",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29591071"
+  },
+  {
     "title": "Indian online merchants cannot store credit card information from 2022",
     "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12159&Mode=0",
-    "upvotes": 174,
+    "upvotes": 179,
     "author": "vivekv",
-    "comments": 104,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=29587752"
+  },
+  {
+    "title": "The Bastard Operator from Hell",
+    "url": "http://bofh.bjash.com/",
+    "upvotes": 70,
+    "author": "de6u99er",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=29590667"
   },
   {
     "title": "Nim 1.6.2",
     "url": "https://nim-lang.org/blog/2021/12/17/version-162-released.html",
-    "upvotes": 99,
+    "upvotes": 105,
     "author": "kindaAnIdiot",
-    "comments": 78,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=29589436"
   },
   {
     "title": "Defrag Like It's 1993",
     "url": "https://defrag.shiplift.dev/",
-    "upvotes": 289,
+    "upvotes": 291,
     "author": "centerorbit",
-    "comments": 205,
+    "comments": 209,
     "link": "https://news.ycombinator.com/item?id=29585654"
   },
   {
     "title": "Ambiguous PNG Packer: Craft PNG files that appear different in Apple software",
     "url": "https://github.com/DavidBuchanan314/ambiguous-png-packer",
-    "upvotes": 203,
+    "upvotes": 205,
     "author": "valebes",
-    "comments": 67,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=29586549"
   },
   {
@@ -60,17 +60,9 @@
     "url": "https://www.ycombinator.com/companies/lofty-ai/jobs/qnmc6yE-senior-react-fullstack-engineer"
   },
   {
-    "title": "Introduction to WebAssembly Components",
-    "url": "https://radu-matei.com/blog/intro-wasm-components/",
-    "upvotes": 8,
-    "author": "pcr910303",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29591071"
-  },
-  {
     "title": "Slitter: A slab allocator that trusts, but verifies",
     "url": "https://pvk.ca/Blog/2021/08/01/slitter-a-less-footgunny-slab-allocator/",
-    "upvotes": 37,
+    "upvotes": 40,
     "author": "r4um",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29589387"
@@ -80,117 +72,109 @@
     "url": "https://www.synthanatomy.com/2021/12/loumavox-the-forgotten-mysterious-synthesizer-from-louise-and-marc-voksinski.html",
     "upvotes": 14,
     "author": "VieEnCode",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29590132"
-  },
-  {
-    "title": "Amazon still isn't doing enough to stop bait-and-switch reviews",
-    "url": "https://fullstackeconomics.com/amazon-isnt-doing-enough-to-stop-bait-and-switch-reviews/",
-    "upvotes": 312,
-    "author": "yedava",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=29587024"
   },
   {
     "title": "Polars: Fast DataFrame library for Rust and Python",
     "url": "https://www.pola.rs/",
-    "upvotes": 200,
+    "upvotes": 206,
     "author": "daureg",
-    "comments": 93,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=29584698"
+  },
+  {
+    "title": "Amazon still isn't doing enough to stop bait-and-switch reviews",
+    "url": "https://fullstackeconomics.com/amazon-isnt-doing-enough-to-stop-bait-and-switch-reviews/",
+    "upvotes": 317,
+    "author": "yedava",
+    "comments": 151,
+    "link": "https://news.ycombinator.com/item?id=29587024"
   },
   {
     "title": "Design evolution of the Windows control panel",
     "url": "https://www.versionmuseum.com/history-of/all-windows-control-panels",
-    "upvotes": 101,
+    "upvotes": 104,
     "author": "userbinator",
-    "comments": 73,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=29586970"
   },
   {
-    "title": "Ask HN: My client want an agent on my laptop. Is this the new normal?",
-    "url": "item?id=29588054",
-    "upvotes": 185,
-    "author": "illud_tempus",
-    "comments": 197,
-    "link": "https://news.ycombinator.com/item?id=29588054"
+    "title": "How I learned to stop worrying and push to master",
+    "url": "https://thenable.io/push-to-master/",
+    "upvotes": 114,
+    "author": "sparklingmango",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=29583792"
+  },
+  {
+    "title": "The dark side of rapeseed oil",
+    "url": "https://www.smartholistics.co.uk/news-blog/the-dark-side-of-rapeseed-oil/",
+    "upvotes": 4,
+    "author": "aarobot",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29590693"
   },
   {
     "title": "Tqdm",
     "url": "https://tqdm.github.io/",
-    "upvotes": 649,
+    "upvotes": 655,
     "author": "manjana",
-    "comments": 137,
+    "comments": 138,
     "link": "https://news.ycombinator.com/item?id=29582437"
   },
   {
     "title": "There's been a big rise in monitoring workers at home",
     "url": "https://www.zdnet.com/article/employee-surveillance-is-on-the-rise-privacy-campaigners-are-worried-for-us-all/",
-    "upvotes": 157,
+    "upvotes": 165,
     "author": "walterbell",
-    "comments": 151,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=29587269"
   },
   {
-    "title": "Ask HN: How would prog. language look like if that was designed by no-programmer",
-    "url": "item?id=29590681",
-    "upvotes": 8,
-    "author": "tester34",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=29590681"
+    "title": "Ask HN: My client want an agent on my laptop. Is this the new normal?",
+    "url": "item?id=29588054",
+    "upvotes": 195,
+    "author": "illud_tempus",
+    "comments": 212,
+    "link": "https://news.ycombinator.com/item?id=29588054"
   },
   {
     "title": "We need your beginner’s mind",
     "url": "https://www.joshcanhelp.com/we-need-your-beginners-mind/",
-    "upvotes": 108,
+    "upvotes": 111,
     "author": "joshcanhelp",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29580547"
-  },
-  {
-    "title": "How I learned to stop worrying and push to master",
-    "url": "https://thenable.io/push-to-master/",
-    "upvotes": 110,
-    "author": "sparklingmango",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=29583792"
-  },
-  {
-    "title": "Worker pay isn’t keeping up with inflation",
-    "url": "https://www.axios.com/wages-inflation-economic-data-c912afdb-b950-4183-8283-50afff593576.html",
-    "upvotes": 382,
-    "author": "paulpauper",
-    "comments": 430,
-    "link": "https://news.ycombinator.com/item?id=29588174"
   },
   {
     "title": "Quadratic voting: A mathematical method that could offer a fairer way to vote",
     "url": "https://www.economist.com/christmas-specials/2021/12/18/the-mathematical-method-that-could-offer-a-fairer-way-to-vote",
     "upvotes": 88,
     "author": "nabla9",
-    "comments": 103,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=29586658"
   },
   {
-    "title": "Pegasus vs. Predator",
-    "url": "https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/",
-    "upvotes": 94,
-    "author": "KarlKemp",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=29588801"
+    "title": "Worker pay isn’t keeping up with inflation",
+    "url": "https://www.axios.com/wages-inflation-economic-data-c912afdb-b950-4183-8283-50afff593576.html",
+    "upvotes": 386,
+    "author": "paulpauper",
+    "comments": 441,
+    "link": "https://news.ycombinator.com/item?id=29588174"
   },
   {
     "title": "Show HN: I made a voice activated golf bag that shoots your clubs",
     "url": "https://www.youtube.com/watch?v=v42RaYL28ZA",
-    "upvotes": 113,
+    "upvotes": 114,
     "author": "nik12795",
-    "comments": 37,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=29581061"
   },
   {
     "title": "From Node to Ruby on Rails",
     "url": "https://nikodunk.com/a-node-js-developer-discovers-rails/",
-    "upvotes": 872,
+    "upvotes": 873,
     "author": "mokkol",
     "comments": 574,
     "link": "https://news.ycombinator.com/item?id=29577897"
@@ -204,35 +188,51 @@
     "link": "https://news.ycombinator.com/item?id=29580726"
   },
   {
-    "title": "AWS Tools Suck",
-    "url": "https://www.cyclic.sh/posts/aws-tools-suck",
-    "upvotes": 64,
-    "author": "heldsteel7",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=29589700"
+    "title": "Pegasus vs. Predator",
+    "url": "https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/",
+    "upvotes": 94,
+    "author": "KarlKemp",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=29588801"
   },
   {
     "title": "Don't start with microservices – monoliths are your friend",
     "url": "https://arnoldgalovics.com/microservices-in-production/",
-    "upvotes": 1116,
+    "upvotes": 1119,
     "author": "galovics",
     "comments": 408,
     "link": "https://news.ycombinator.com/item?id=29576352"
   },
   {
+    "title": "AWS Tools Suck",
+    "url": "https://www.cyclic.sh/posts/aws-tools-suck",
+    "upvotes": 69,
+    "author": "heldsteel7",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=29589700"
+  },
+  {
+    "title": "Ask HN: How do you accept your place in the world?",
+    "url": "item?id=29589446",
+    "upvotes": 31,
+    "author": "aydwi",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=29589446"
+  },
+  {
     "title": "Ask HN: Are most of us developers lying about how much work we do?",
     "url": "item?id=29581125",
-    "upvotes": 1425,
+    "upvotes": 1439,
     "author": "ConfessionTime",
-    "comments": 895,
+    "comments": 901,
     "link": "https://news.ycombinator.com/item?id=29581125"
   },
   {
-    "title": "SolidLight offers a true holographic video display",
-    "url": "https://www.techhive.com/article/3644451/light-field-labs-solidlight-offers-a-true-holographic-video-display.html",
-    "upvotes": 40,
-    "author": "danboarder",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=29587144"
+    "title": "YouTube-dl's first release since June 2021",
+    "url": "https://github.com/ytdl-org/youtube-dl/releases/tag/2021.12.17",
+    "upvotes": 14,
+    "author": "pdimitar",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29590501"
   }
 ]
