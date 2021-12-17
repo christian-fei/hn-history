@@ -1,80 +1,40 @@
 [
   {
-    "title": "No evidence that parachutes help prevent injuries when jumping out of planes",
-    "url": "https://www.bmj.com/content/327/7429/1459",
-    "upvotes": 19,
-    "author": "lord_sudo",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29590502"
-  },
-  {
-    "title": "Worker pay isn’t keeping up with inflation",
-    "url": "https://www.axios.com/wages-inflation-economic-data-c912afdb-b950-4183-8283-50afff593576.html",
-    "upvotes": 333,
-    "author": "paulpauper",
-    "comments": 340,
-    "link": "https://news.ycombinator.com/item?id=29588174"
-  },
-  {
-    "title": "AWS Tools Suck",
-    "url": "https://www.cyclic.sh/posts/aws-tools-suck",
-    "upvotes": 25,
-    "author": "heldsteel7",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=29589700"
-  },
-  {
-    "title": "Judge rejects Purdue Pharma's $4.5B opioid settlement",
-    "url": "https://www.axios.com/purdue-pharma-opioids-settlement-ruling-5d56f27b-eebe-4d6e-a1ac-7915d45f8795.html",
-    "upvotes": 70,
-    "author": "sofixa",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29588995"
-  },
-  {
-    "title": "Pegasus vs. Predator: Dissident's Phone Reveals Cytrox Mercenary Spyware",
-    "url": "https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/",
-    "upvotes": 82,
-    "author": "KarlKemp",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=29588801"
-  },
-  {
     "title": "Indian online merchants cannot store credit card information from 2022",
     "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12159&Mode=0",
-    "upvotes": 132,
+    "upvotes": 137,
     "author": "vivekv",
-    "comments": 78,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=29587752"
-  },
-  {
-    "title": "So called modern web developers are the culprits",
-    "url": "https://unixsheikh.com/articles/so-called-modern-web-developers-are-the-culprits.html",
-    "upvotes": 8,
-    "author": "shamilbi",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29590404"
   },
   {
     "title": "Defrag Like It's 1993",
     "url": "https://defrag.shiplift.dev/",
-    "upvotes": 266,
+    "upvotes": 269,
     "author": "centerorbit",
-    "comments": 190,
+    "comments": 191,
     "link": "https://news.ycombinator.com/item?id=29585654"
   },
   {
     "title": "Slitter: A slab allocator that trusts, but verifies",
     "url": "https://pvk.ca/Blog/2021/08/01/slitter-a-less-footgunny-slab-allocator/",
-    "upvotes": 24,
+    "upvotes": 28,
     "author": "r4um",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29589387"
   },
   {
+    "title": "Judge rejects Purdue Pharma's $4.5B opioid settlement",
+    "url": "https://www.axios.com/purdue-pharma-opioids-settlement-ruling-5d56f27b-eebe-4d6e-a1ac-7915d45f8795.html",
+    "upvotes": 75,
+    "author": "sofixa",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29588995"
+  },
+  {
     "title": "Ambiguous PNG Packer: Craft PNG files that appear different in Apple software",
     "url": "https://github.com/DavidBuchanan314/ambiguous-png-packer",
-    "upvotes": 176,
+    "upvotes": 181,
     "author": "valebes",
     "comments": 66,
     "link": "https://news.ycombinator.com/item?id=29586549"
@@ -82,117 +42,137 @@
   {
     "title": "Nim 1.6.2",
     "url": "https://nim-lang.org/blog/2021/12/17/version-162-released.html",
-    "upvotes": 69,
+    "upvotes": 79,
     "author": "kindaAnIdiot",
-    "comments": 62,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=29589436"
-  },
-  {
-    "title": "Amazon still isn't doing enough to stop bait-and-switch reviews",
-    "url": "https://fullstackeconomics.com/amazon-isnt-doing-enough-to-stop-bait-and-switch-reviews/",
-    "upvotes": 270,
-    "author": "yedava",
-    "comments": 117,
-    "link": "https://news.ycombinator.com/item?id=29587024"
   },
   {
     "title": "Polars: Fast DataFrame library for Rust and Python",
     "url": "https://www.pola.rs/",
-    "upvotes": 186,
+    "upvotes": 190,
     "author": "daureg",
     "comments": 86,
     "link": "https://news.ycombinator.com/item?id=29584698"
   },
   {
+    "title": "Amazon still isn't doing enough to stop bait-and-switch reviews",
+    "url": "https://fullstackeconomics.com/amazon-isnt-doing-enough-to-stop-bait-and-switch-reviews/",
+    "upvotes": 278,
+    "author": "yedava",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=29587024"
+  },
+  {
     "title": "Design evolution of the Windows control panel",
     "url": "https://www.versionmuseum.com/history-of/all-windows-control-panels",
-    "upvotes": 95,
+    "upvotes": 97,
     "author": "userbinator",
-    "comments": 61,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=29586970"
   },
   {
     "title": "Facebook bans 7 'surveillance-for-hire' companies that spied on 50k users",
     "url": "https://www.npr.org/2021/12/16/1064628654/facebook-bans-surveillance-firms-that-spied-on-50000-people",
-    "upvotes": 184,
+    "upvotes": 187,
     "author": "authed",
-    "comments": 64,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=29584185"
   },
   {
-    "title": "Job Applicant Resumes Are Effectively Impossible to De-Gender",
-    "url": "https://www.unite.ai/job-applicant-resumes-are-effectively-impossible-to-de-gender-ai-researchers-find/",
-    "upvotes": 35,
-    "author": "Hard_Space",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=29589821"
+    "title": "Worker pay isn’t keeping up with inflation",
+    "url": "https://www.axios.com/wages-inflation-economic-data-c912afdb-b950-4183-8283-50afff593576.html",
+    "upvotes": 347,
+    "author": "paulpauper",
+    "comments": 367,
+    "link": "https://news.ycombinator.com/item?id=29588174"
+  },
+  {
+    "title": "Authoring a SIMD enhanced WASM library with Rust",
+    "url": "https://nickb.dev/blog/authoring-a-simd-enhanced-wasm-library-with-rust",
+    "upvotes": 3,
+    "author": "lukastyrychtr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29590449"
   },
   {
     "title": "We need your beginner’s mind",
     "url": "https://www.joshcanhelp.com/we-need-your-beginners-mind/",
-    "upvotes": 97,
+    "upvotes": 102,
     "author": "joshcanhelp",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=29580547"
+  },
+  {
+    "title": "Ask HN: My client want an agent on my laptop. Is this the new normal?",
+    "url": "item?id=29588054",
+    "upvotes": 131,
+    "author": "illud_tempus",
+    "comments": 137,
+    "link": "https://news.ycombinator.com/item?id=29588054"
   },
   {
     "title": "There's been a big rise in monitoring workers at home",
     "url": "https://www.zdnet.com/article/employee-surveillance-is-on-the-rise-privacy-campaigners-are-worried-for-us-all/",
-    "upvotes": 138,
+    "upvotes": 140,
     "author": "walterbell",
-    "comments": 127,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=29587269"
   },
   {
     "title": "Tqdm",
     "url": "https://tqdm.github.io/",
-    "upvotes": 636,
+    "upvotes": 642,
     "author": "manjana",
     "comments": 135,
     "link": "https://news.ycombinator.com/item?id=29582437"
   },
   {
-    "title": "Loumavox, the Forgotten, Mysterious Synthesizer from Louise and Marc Voksinski",
-    "url": "https://www.synthanatomy.com/2021/12/loumavox-the-forgotten-mysterious-synthesizer-from-louise-and-marc-voksinski.html",
-    "upvotes": 4,
-    "author": "VieEnCode",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29590132"
-  },
-  {
-    "title": "Ask HN: My client want an agent on my laptop. Is this the new normal?",
-    "url": "item?id=29588054",
-    "upvotes": 119,
-    "author": "illud_tempus",
-    "comments": 131,
-    "link": "https://news.ycombinator.com/item?id=29588054"
-  },
-  {
-    "title": "Quadratic voting: A mathematical method that could offer a fairer way to vote",
-    "url": "https://www.economist.com/christmas-specials/2021/12/18/the-mathematical-method-that-could-offer-a-fairer-way-to-vote",
-    "upvotes": 76,
-    "author": "nabla9",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=29586658"
+    "title": "Pegasus vs. Predator",
+    "url": "https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/",
+    "upvotes": 85,
+    "author": "KarlKemp",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=29588801"
   },
   {
     "title": "How I learned to stop worrying and push to master",
     "url": "https://thenable.io/push-to-master/",
-    "upvotes": 93,
+    "upvotes": 95,
     "author": "sparklingmango",
-    "comments": 92,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=29583792"
   },
   {
-    "title": "Etleap",
-    "url": "https://etleap.com/jobs/#software-engineer"
+    "title": "Quadratic voting: A mathematical method that could offer a fairer way to vote",
+    "url": "https://www.economist.com/christmas-specials/2021/12/18/the-mathematical-method-that-could-offer-a-fairer-way-to-vote",
+    "upvotes": 77,
+    "author": "nabla9",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=29586658"
+  },
+  {
+    "title": "AWS Tools Suck",
+    "url": "https://www.cyclic.sh/posts/aws-tools-suck",
+    "upvotes": 44,
+    "author": "heldsteel7",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=29589700"
+  },
+  {
+    "title": "Loumavox, the Forgotten, Mysterious Synthesizer from Louise and Marc Voksinski",
+    "url": "https://www.synthanatomy.com/2021/12/loumavox-the-forgotten-mysterious-synthesizer-from-louise-and-marc-voksinski.html",
+    "upvotes": 5,
+    "author": "VieEnCode",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29590132"
   },
   {
     "title": "Show HN: I made a voice activated golf bag that shoots your clubs",
     "url": "https://www.youtube.com/watch?v=v42RaYL28ZA",
     "upvotes": 107,
     "author": "nik12795",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=29581061"
   },
   {
@@ -204,35 +184,55 @@
     "link": "https://news.ycombinator.com/item?id=29580726"
   },
   {
+    "title": "Etleap",
+    "url": "https://etleap.com/jobs/#software-engineer"
+  },
+  {
     "title": "From Node to Ruby on Rails",
     "url": "https://nikodunk.com/a-node-js-developer-discovers-rails/",
-    "upvotes": 861,
+    "upvotes": 863,
     "author": "mokkol",
-    "comments": 565,
+    "comments": 566,
     "link": "https://news.ycombinator.com/item?id=29577897"
+  },
+  {
+    "title": "Ask HN: Would prog. language look like if that was designed by no-programmer",
+    "url": "item?id=29590681",
+    "upvotes": 3,
+    "author": "tester34",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29590681"
   },
   {
     "title": "Don't start with microservices – monoliths are your friend",
     "url": "https://arnoldgalovics.com/microservices-in-production/",
-    "upvotes": 1095,
+    "upvotes": 1099,
     "author": "galovics",
-    "comments": 406,
+    "comments": 407,
     "link": "https://news.ycombinator.com/item?id=29576352"
   },
   {
     "title": "Refugees lack Covid shots because drugmakers fear lawsuits, documents show",
     "url": "https://www.reuters.com/world/refugees-lack-covid-shots-because-drugmakers-fear-lawsuits-documents-2021-12-16/",
-    "upvotes": 49,
+    "upvotes": 52,
     "author": "walterbell",
-    "comments": 47,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=29588078"
   },
   {
-    "title": "The Golden Age of Compiler Design in an Era of HW/SW Co-Design [video]",
-    "url": "https://www.youtube.com/watch?v=4HgShra-KnY",
-    "upvotes": 93,
-    "author": "self",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29583549"
+    "title": "Job Applicant Resumes Are Effectively Impossible to De-Gender",
+    "url": "https://www.unite.ai/job-applicant-resumes-are-effectively-impossible-to-de-gender-ai-researchers-find/",
+    "upvotes": 36,
+    "author": "Hard_Space",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=29589821"
+  },
+  {
+    "title": "Ask HN: Are most of us developers lying about how much work we do?",
+    "url": "item?id=29581125",
+    "upvotes": 1395,
+    "author": "ConfessionTime",
+    "comments": 887,
+    "link": "https://news.ycombinator.com/item?id=29581125"
   }
 ]
