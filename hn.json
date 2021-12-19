@@ -2,55 +2,63 @@
   {
     "title": "Test Your Product on a Crappy Laptop",
     "url": "https://css-tricks.com/test-your-product-on-a-crappy-laptop/",
-    "upvotes": 193,
+    "upvotes": 215,
     "author": "dredmorbius",
-    "comments": 127,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=29610806"
   },
   {
     "title": "YouTube-DL core maintainer moves self to inactive list",
     "url": "https://github.com/ytdl-org/youtube-dl/commit/21b759057502c6e70d51011cfb3fb86d84055182",
-    "upvotes": 182,
+    "upvotes": 196,
     "author": "SturgeonsLaw",
-    "comments": 57,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=29610498"
   },
   {
     "title": "Xcode 13.2 contains Log4j vulnerability",
     "url": "https://developer.apple.com/forums/thread/696785",
-    "upvotes": 113,
+    "upvotes": 126,
     "author": "elpakal",
-    "comments": 12,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29610913"
   },
   {
     "title": "Display-switch: Turn a $30 USB switch into a full-featured multi-monitor KVM",
     "url": "https://github.com/haimgel/display-switch",
-    "upvotes": 283,
+    "upvotes": 295,
     "author": "dattl",
-    "comments": 90,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=29608967"
+  },
+  {
+    "title": "Outbreak caused by the SARS-CoV-2 Omicron variant in Norway, Nov to Dec 2021",
+    "url": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.50.2101147",
+    "upvotes": 42,
+    "author": "_Microft",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=29612245"
+  },
+  {
+    "title": "Unix Shell Programming: The Next 50 Years",
+    "url": "https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html",
+    "upvotes": 70,
+    "author": "mlerner",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=29610956"
   },
   {
     "title": "A Search for Analogs of Boyajian's Star: A Second List of Candidates",
     "url": "https://arxiv.org/abs/2111.01208",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "choxi",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29612077"
   },
   {
-    "title": "Unix Shell Programming: The Next 50 Years",
-    "url": "https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html",
-    "upvotes": 66,
-    "author": "mlerner",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=29610956"
-  },
-  {
     "title": "Omnizart: Library for automatic music transcription",
     "url": "https://github.com/Music-and-Culture-Technology-Lab/omnizart",
-    "upvotes": 214,
+    "upvotes": 216,
     "author": "pizza",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=29607587"
@@ -58,34 +66,18 @@
   {
     "title": "I was part of a human subject research study without my consent",
     "url": "https://christine.website/blog/princeton-study-2021-12-17",
-    "upvotes": 274,
+    "upvotes": 283,
     "author": "42jd",
-    "comments": 214,
+    "comments": 216,
     "link": "https://news.ycombinator.com/item?id=29611139"
   },
   {
     "title": "Testing the strength of different wood species",
     "url": "https://woodgears.ca/wood_strength/",
-    "upvotes": 207,
+    "upvotes": 208,
     "author": "Ivoah",
     "comments": 63,
     "link": "https://news.ycombinator.com/item?id=29595232"
-  },
-  {
-    "title": "Sorry, but the Mother of All Crashes Is Coming and It Won’t Be Fun",
-    "url": "https://medium.com/predict/sorry-but-the-mother-of-all-crashes-is-coming-and-it-wont-be-fun-beaa2bc9f96a",
-    "upvotes": 42,
-    "author": "4monthsaway",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=29612289"
-  },
-  {
-    "title": "Outbreak caused by the SARS-CoV-2 Omicron variant in Norway, Nov to Dec 2021",
-    "url": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.50.2101147",
-    "upvotes": 15,
-    "author": "_Microft",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29612245"
   },
   {
     "title": "Connecting the iDOTs",
@@ -98,18 +90,10 @@
   {
     "title": "SciRate: An open source website to browse, save, and comment ArXiv articles",
     "url": "https://scirate.com/",
-    "upvotes": 25,
+    "upvotes": 29,
     "author": "physicsgraph",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29611235"
-  },
-  {
-    "title": "Aussie Healthtech Trends Wrapped because we also have to jump on the bandwagon",
-    "url": "https://www.whatthehealth.io/p/medtechactuatorhealthtechtrends",
-    "upvotes": 4,
-    "author": "emdawg",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29612355"
   },
   {
     "title": "Manifesto for Ubiquitous Linking",
@@ -122,23 +106,39 @@
   {
     "title": "Thread Safety in C++ and Rust",
     "url": "https://blog.reverberate.org/2021/12/18/thread-safety-cpp-rust.html",
-    "upvotes": 118,
+    "upvotes": 122,
     "author": "todsacerdoti",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=29608552"
   },
   {
     "title": "Show HN: IR stove thermometer, firmware in Rust",
     "url": "https://www.anyleaf.org/stove-thermometer",
-    "upvotes": 56,
+    "upvotes": 57,
     "author": "the__alchemist",
-    "comments": 36,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=29610013"
+  },
+  {
+    "title": "Sorry, but the Mother of All Crashes Is Coming and It Won’t Be Fun",
+    "url": "https://medium.com/predict/sorry-but-the-mother-of-all-crashes-is-coming-and-it-wont-be-fun-beaa2bc9f96a",
+    "upvotes": 58,
+    "author": "4monthsaway",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=29612289"
+  },
+  {
+    "title": "Aussie Healthtech Trends Wrapped because we also have to jump on the bandwagon",
+    "url": "https://www.whatthehealth.io/p/medtechactuatorhealthtechtrends",
+    "upvotes": 4,
+    "author": "emdawg",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29612355"
   },
   {
     "title": "“With those changes we're up to a 94% pass rate for dEQP-GLES2”",
     "url": "https://twitter.com/alyssarzg/status/1470870852422053890",
-    "upvotes": 119,
+    "upvotes": 121,
     "author": "mmastrac",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=29595665"
@@ -146,15 +146,15 @@
   {
     "title": "Wingman for Haskell",
     "url": "https://haskellwingman.dev/",
-    "upvotes": 142,
+    "upvotes": 144,
     "author": "dunefox",
-    "comments": 33,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=29605708"
   },
   {
     "title": "An Origami Samurai Made from a Single Sheet of Rice Paper",
     "url": "https://www.openculture.com/2021/12/an-origami-samurai-made-from-a-single-sheet-of-rice-paper.html",
-    "upvotes": 215,
+    "upvotes": 223,
     "author": "simonebrunozzi",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=29604560"
@@ -162,15 +162,15 @@
   {
     "title": "Unbreakable phone screens could be made with a new material",
     "url": "https://www.economist.com/science-and-technology/unbreakable-phone-screens-could-be-made-with-a-new-material/21806552",
-    "upvotes": 75,
+    "upvotes": 77,
     "author": "prostoalex",
-    "comments": 87,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=29601411"
   },
   {
     "title": "Kolmogorov Complicity and the Parable of Lightning",
     "url": "https://slatestarcodex.com/2017/10/23/kolmogorov-complicity-and-the-parable-of-lightning/",
-    "upvotes": 95,
+    "upvotes": 100,
     "author": "phab",
     "comments": 73,
     "link": "https://news.ycombinator.com/item?id=29606411"
@@ -178,10 +178,18 @@
   {
     "title": "A system in which soft robots “evolve” to walk or climb",
     "url": "https://www.wired.com/story/see-little-robots-get-swole-in-this-virtual-gym/",
-    "upvotes": 59,
+    "upvotes": 60,
     "author": "DrNuke",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=29604899"
+  },
+  {
+    "title": "Excerpt from CIA's Simple Sabotage Field Manual",
+    "url": "http://svn.cacert.org/CAcert/CAcert_Inc/Board/oss/oss_sabotage.html",
+    "upvotes": 328,
+    "author": "bobbiechen",
+    "comments": 188,
+    "link": "https://news.ycombinator.com/item?id=29597454"
   },
   {
     "title": "Analyzing the public hostnames of Tailscale users",
@@ -192,47 +200,43 @@
     "link": "https://news.ycombinator.com/item?id=29579806"
   },
   {
-    "title": "Excerpt from CIA's Simple Sabotage Field Manual",
-    "url": "http://svn.cacert.org/CAcert/CAcert_Inc/Board/oss/oss_sabotage.html",
-    "upvotes": 324,
-    "author": "bobbiechen",
-    "comments": 187,
-    "link": "https://news.ycombinator.com/item?id=29597454"
-  },
-  {
     "title": "Why Not Rust?",
     "url": "https://matklad.github.io//2020/09/20/why-not-rust.html",
-    "upvotes": 197,
+    "upvotes": 202,
     "author": "spekcular",
-    "comments": 177,
+    "comments": 183,
     "link": "https://news.ycombinator.com/item?id=29606523"
   },
   {
     "title": "Third High Severity CVE in Log4j Is Published",
     "url": "https://logging.apache.org/log4j/2.x/security.html",
-    "upvotes": 339,
+    "upvotes": 342,
     "author": "niros_valtos",
-    "comments": 239,
+    "comments": 240,
     "link": "https://news.ycombinator.com/item?id=29604097"
   },
   {
     "title": "Tell HN: AWS warns us about irregular activity related to Log4shell",
     "url": "item?id=29608244",
-    "upvotes": 123,
+    "upvotes": 128,
     "author": "stunt",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=29608244"
-  },
-  {
-    "title": "EasyPost",
-    "url": "https://www.easypost.com/careers"
   },
   {
     "title": "A deep dive on a Facebook reseller of bikes stolen in Colorado",
     "url": "https://bikeindex.org/news/closing-the-loop-a-deep-dive-on-a-facebook-reseller-of-bikes-stolen-in",
-    "upvotes": 298,
+    "upvotes": 299,
     "author": "epa",
     "comments": 117,
     "link": "https://news.ycombinator.com/item?id=29607145"
+  },
+  {
+    "title": "Internet addiction and the habit of book reading",
+    "url": "https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/",
+    "upvotes": 630,
+    "author": "shankarro",
+    "comments": 332,
+    "link": "https://news.ycombinator.com/item?id=29601573"
   }
 ]
