@@ -1,72 +1,84 @@
 [
   {
-    "title": "Bottles: Easy GUI front end to run Windows software on Linux",
+    "title": "Bottles: GUI front end to run Windows software on Linux",
     "url": "https://usebottles.com/",
-    "upvotes": 33,
+    "upvotes": 76,
     "author": "1_player",
-    "comments": 5,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29612976"
   },
   {
     "title": "Test your product on a crappy laptop",
     "url": "https://css-tricks.com/test-your-product-on-a-crappy-laptop/",
-    "upvotes": 258,
+    "upvotes": 279,
     "author": "dredmorbius",
-    "comments": 165,
+    "comments": 168,
     "link": "https://news.ycombinator.com/item?id=29610806"
   },
   {
     "title": "Display-switch: Turn a $30 USB switch into a full-featured multi-monitor KVM",
     "url": "https://github.com/haimgel/display-switch",
-    "upvotes": 315,
+    "upvotes": 321,
     "author": "dattl",
-    "comments": 96,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=29608967"
+  },
+  {
+    "title": "When MVPs Hurt",
+    "url": "https://builtin.com/software-engineering-perspectives/when-mvps-hurt",
+    "upvotes": 10,
+    "author": "mbellotti",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29609688"
+  },
+  {
+    "title": "Ask HN: Have you accepted the TOS that give FB access to your WhatsApp data?",
+    "url": "item?id=29612778",
+    "upvotes": 27,
+    "author": "timdaub",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=29612778"
+  },
+  {
+    "title": "Sirum Is Hiring Experienced Developers in Atlanta",
+    "url": "https://www.sirum.org/about/#careers"
   },
   {
     "title": "Unix Shell Programming: The Next 50 Years",
     "url": "https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html",
-    "upvotes": 82,
+    "upvotes": 91,
     "author": "mlerner",
-    "comments": 29,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=29610956"
   },
   {
     "title": "A Search for Analogs of Boyajian's Star: A Second List of Candidates",
     "url": "https://arxiv.org/abs/2111.01208",
-    "upvotes": 26,
+    "upvotes": 32,
     "author": "choxi",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29612077"
   },
   {
-    "title": "Omnizart: Library for automatic music transcription",
-    "url": "https://github.com/Music-and-Culture-Technology-Lab/omnizart",
-    "upvotes": 225,
-    "author": "pizza",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=29607587"
+    "title": "Lisp in Vim with Slimv or Vlime",
+    "url": "https://susam.in/blog/lisp-in-vim-with-slimv-or-vlime.html",
+    "upvotes": 16,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29612209"
   },
   {
     "title": "SciRate: An open source website to browse, save, and comment ArXiv articles",
     "url": "https://scirate.com/",
-    "upvotes": 38,
+    "upvotes": 42,
     "author": "physicsgraph",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29611235"
   },
   {
-    "title": "I was part of a human subject research study without my consent",
-    "url": "https://christine.website/blog/princeton-study-2021-12-17",
-    "upvotes": 310,
-    "author": "42jd",
-    "comments": 225,
-    "link": "https://news.ycombinator.com/item?id=29611139"
-  },
-  {
     "title": "Connecting the iDOTs",
     "url": "https://www.hackerfactor.com/blog/index.php?/archives/895-Connecting-the-iDOTs.html",
-    "upvotes": 62,
+    "upvotes": 64,
     "author": "ErikCorry",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29610196"
@@ -74,119 +86,79 @@
   {
     "title": "Manifesto for Ubiquitous Linking",
     "url": "https://linkingmanifesto.org/",
-    "upvotes": 73,
+    "upvotes": 78,
     "author": "1123581321",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=29609785"
+  },
+  {
+    "title": "Static Eliminators",
+    "url": "https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/static-eliminators.html",
+    "upvotes": 6,
+    "author": "dcminter",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29605095"
   },
   {
     "title": "Show HN: IR stove thermometer, firmware in Rust",
     "url": "https://www.anyleaf.org/stove-thermometer",
-    "upvotes": 64,
+    "upvotes": 65,
     "author": "the__alchemist",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=29610013"
   },
   {
-    "title": "Wingman for Haskell",
-    "url": "https://haskellwingman.dev/",
-    "upvotes": 153,
-    "author": "dunefox",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=29605708"
+    "title": "Omnizart: Library for automatic music transcription",
+    "url": "https://github.com/Music-and-Culture-Technology-Lab/omnizart",
+    "upvotes": 230,
+    "author": "pizza",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=29607587"
   },
   {
-    "title": "“With those changes we're up to a 94% pass rate for dEQP-GLES2”",
-    "url": "https://twitter.com/alyssarzg/status/1470870852422053890",
-    "upvotes": 125,
-    "author": "mmastrac",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=29595665"
-  },
-  {
-    "title": "The mother of all crashes is coming and it won’t be fun",
-    "url": "https://medium.com/predict/sorry-but-the-mother-of-all-crashes-is-coming-and-it-wont-be-fun-beaa2bc9f96a",
-    "upvotes": 90,
-    "author": "4monthsaway",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=29612289"
-  },
-  {
-    "title": "An Origami Samurai Made from a Single Sheet of Rice Paper",
-    "url": "https://www.openculture.com/2021/12/an-origami-samurai-made-from-a-single-sheet-of-rice-paper.html",
-    "upvotes": 239,
-    "author": "simonebrunozzi",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=29604560"
-  },
-  {
-    "title": "Unbreakable phone screens could be made with a new material",
-    "url": "https://www.economist.com/science-and-technology/unbreakable-phone-screens-could-be-made-with-a-new-material/21806552",
-    "upvotes": 82,
-    "author": "prostoalex",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=29601411"
-  },
-  {
-    "title": "Lisp in Vim with Slimv or Vlime",
-    "url": "https://susam.in/blog/lisp-in-vim-with-slimv-or-vlime.html",
-    "upvotes": 6,
-    "author": "Tomte",
+    "title": "Decap of a tiny chip that plays Christmas songs",
+    "url": "https://twitter.com/kenshirriff/status/1472297415201869831",
+    "upvotes": 10,
+    "author": "Eduard",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29612209"
-  },
-  {
-    "title": "Kolmogorov Complicity and the Parable of Lightning",
-    "url": "https://slatestarcodex.com/2017/10/23/kolmogorov-complicity-and-the-parable-of-lightning/",
-    "upvotes": 107,
-    "author": "phab",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=29606411"
-  },
-  {
-    "title": "A system in which soft robots “evolve” to walk or climb",
-    "url": "https://www.wired.com/story/see-little-robots-get-swole-in-this-virtual-gym/",
-    "upvotes": 62,
-    "author": "DrNuke",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=29604899"
+    "link": "https://news.ycombinator.com/item?id=29612750"
   },
   {
     "title": "Testing the strength of different wood species",
     "url": "https://woodgears.ca/wood_strength/",
-    "upvotes": 211,
+    "upvotes": 217,
     "author": "Ivoah",
-    "comments": 63,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=29595232"
   },
   {
     "title": "Excerpt from CIA's Simple Sabotage Field Manual",
     "url": "http://svn.cacert.org/CAcert/CAcert_Inc/Board/oss/oss_sabotage.html",
-    "upvotes": 331,
+    "upvotes": 335,
     "author": "bobbiechen",
-    "comments": 190,
+    "comments": 191,
     "link": "https://news.ycombinator.com/item?id=29597454"
-  },
-  {
-    "title": "Ask HN: Have you accepted the TOS that give FB access to your WhatsApp data?",
-    "url": "item?id=29612778",
-    "upvotes": 5,
-    "author": "timdaub",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29612778"
   },
   {
     "title": "Third High Severity CVE in Log4j Is Published",
     "url": "https://logging.apache.org/log4j/2.x/security.html",
-    "upvotes": 349,
+    "upvotes": 353,
     "author": "niros_valtos",
-    "comments": 245,
+    "comments": 249,
     "link": "https://news.ycombinator.com/item?id=29604097"
+  },
+  {
+    "title": "I was part of a human subject research study without my consent",
+    "url": "https://christine.website/blog/princeton-study-2021-12-17",
+    "upvotes": 320,
+    "author": "42jd",
+    "comments": 233,
+    "link": "https://news.ycombinator.com/item?id=29611139"
   },
   {
     "title": "Analyzing the public hostnames of Tailscale users",
     "url": "https://smitop.com/post/hostnames/",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "smitop",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29579806"
@@ -194,45 +166,73 @@
   {
     "title": "Tell HN: AWS warns us about irregular activity related to Log4shell",
     "url": "item?id=29608244",
-    "upvotes": 130,
+    "upvotes": 135,
     "author": "stunt",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29608244"
-  },
-  {
-    "title": "Move myself to inactive",
-    "url": "https://github.com/ytdl-org/youtube-dl/commit/21b759057502c6e70d51011cfb3fb86d84055182",
-    "upvotes": 231,
-    "author": "SturgeonsLaw",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=29610498"
   },
   {
     "title": "Internet addiction and the habit of book reading",
     "url": "https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/",
     "upvotes": 638,
     "author": "shankarro",
-    "comments": 341,
+    "comments": 343,
     "link": "https://news.ycombinator.com/item?id=29601573"
   },
   {
-    "title": "A deep dive on a Facebook reseller of bikes stolen in Colorado",
-    "url": "https://bikeindex.org/news/closing-the-loop-a-deep-dive-on-a-facebook-reseller-of-bikes-stolen-in",
-    "upvotes": 309,
-    "author": "epa",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=29607145"
-  },
-  {
-    "title": "EasyPost",
-    "url": "https://www.easypost.com/careers"
+    "title": "Move myself to inactive",
+    "url": "https://github.com/ytdl-org/youtube-dl/commit/21b759057502c6e70d51011cfb3fb86d84055182",
+    "upvotes": 237,
+    "author": "SturgeonsLaw",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=29610498"
   },
   {
     "title": "Thread Safety in C++ and Rust",
     "url": "https://blog.reverberate.org/2021/12/18/thread-safety-cpp-rust.html",
-    "upvotes": 128,
+    "upvotes": 130,
     "author": "todsacerdoti",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=29608552"
+  },
+  {
+    "title": "An NFT without a blockchain",
+    "url": "https://shkspr.mobi/blog/2021/12/an-nft-without-a-blockchain-no-gas-fees-no-eth/",
+    "upvotes": 172,
+    "author": "Amorymeltzer",
+    "comments": 305,
+    "link": "https://news.ycombinator.com/item?id=29608534"
+  },
+  {
+    "title": "Why Wolfram tech isn’t open source",
+    "url": "https://blog.wolfram.com/2019/04/02/why-wolfram-tech-isnt-open-source-a-dozen-reasons/",
+    "upvotes": 217,
+    "author": "AJRF",
+    "comments": 251,
+    "link": "https://news.ycombinator.com/item?id=29604421"
+  },
+  {
+    "title": "“With those changes we're up to a 94% pass rate for dEQP-GLES2”",
+    "url": "https://twitter.com/alyssarzg/status/1470870852422053890",
+    "upvotes": 129,
+    "author": "mmastrac",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=29595665"
+  },
+  {
+    "title": "Wingman for Haskell",
+    "url": "https://haskellwingman.dev/",
+    "upvotes": 155,
+    "author": "dunefox",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=29605708"
+  },
+  {
+    "title": "Tokio Console",
+    "url": "https://tokio.rs/blog/2021-12-announcing-tokio-console",
+    "upvotes": 766,
+    "author": "hasheddan",
+    "comments": 115,
+    "link": "https://news.ycombinator.com/item?id=29594389"
   }
 ]
