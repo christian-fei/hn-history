@@ -1,56 +1,56 @@
 [
   {
-    "title": "I Was Part of a Human Subject Research Study Without My Consent",
+    "title": "I was part of a human subject research study without my consent",
     "url": "https://christine.website/blog/princeton-study-2021-12-17",
-    "upvotes": 111,
+    "upvotes": 143,
     "author": "42jd",
-    "comments": 83,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=29611139"
-  },
-  {
-    "title": "Display-switch: Turn a $30 USB switch into a full-featured multi-monitor KVM",
-    "url": "https://github.com/haimgel/display-switch",
-    "upvotes": 242,
-    "author": "dattl",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=29608967"
   },
   {
     "title": "Test Your Product on a Crappy Laptop",
     "url": "https://css-tricks.com/test-your-product-on-a-crappy-laptop/",
-    "upvotes": 61,
+    "upvotes": 77,
     "author": "dredmorbius",
-    "comments": 44,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=29610806"
   },
   {
     "title": "YouTube-DL core maintainer moves self to inactive list",
     "url": "https://github.com/ytdl-org/youtube-dl/commit/21b759057502c6e70d51011cfb3fb86d84055182",
-    "upvotes": 73,
+    "upvotes": 92,
     "author": "SturgeonsLaw",
-    "comments": 15,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=29610498"
+  },
+  {
+    "title": "Display-switch: Turn a $30 USB switch into a full-featured multi-monitor KVM",
+    "url": "https://github.com/haimgel/display-switch",
+    "upvotes": 247,
+    "author": "dattl",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=29608967"
   },
   {
     "title": "Connecting the iDOTs",
     "url": "https://www.hackerfactor.com/blog/index.php?/archives/895-Connecting-the-iDOTs.html",
-    "upvotes": 52,
+    "upvotes": 53,
     "author": "ErikCorry",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29610196"
   },
   {
     "title": "Unix Shell Programming: The Next 50 Years",
     "url": "https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html",
-    "upvotes": 23,
+    "upvotes": 28,
     "author": "mlerner",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29610956"
   },
   {
     "title": "Omnizart: Library for automatic music transcription",
     "url": "https://github.com/Music-and-Culture-Technology-Lab/omnizart",
-    "upvotes": 186,
+    "upvotes": 194,
     "author": "pizza",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=29607587"
@@ -58,39 +58,39 @@
   {
     "title": "Testing the strength of different wood species",
     "url": "https://woodgears.ca/wood_strength/",
-    "upvotes": 184,
+    "upvotes": 186,
     "author": "Ivoah",
-    "comments": 57,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=29595232"
   },
   {
     "title": "Manifesto for Ubiquitous Linking",
     "url": "https://linkingmanifesto.org/",
-    "upvotes": 50,
+    "upvotes": 51,
     "author": "1123581321",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29609785"
   },
   {
-    "title": "Thread Safety in C++ and Rust",
-    "url": "https://blog.reverberate.org/2021/12/18/thread-safety-cpp-rust.html",
-    "upvotes": 97,
-    "author": "todsacerdoti",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=29608552"
-  },
-  {
     "title": "Show HN: IR stove thermometer, firmware in Rust",
     "url": "https://www.anyleaf.org/stove-thermometer",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "the__alchemist",
-    "comments": 30,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=29610013"
+  },
+  {
+    "title": "Thread Safety in C++ and Rust",
+    "url": "https://blog.reverberate.org/2021/12/18/thread-safety-cpp-rust.html",
+    "upvotes": 98,
+    "author": "todsacerdoti",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=29608552"
   },
   {
     "title": "“With those changes we're up to a 94% pass rate for dEQP-GLES2”",
     "url": "https://twitter.com/alyssarzg/status/1470870852422053890",
-    "upvotes": 110,
+    "upvotes": 112,
     "author": "mmastrac",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=29595665"
@@ -98,39 +98,55 @@
   {
     "title": "Wingman for Haskell",
     "url": "https://haskellwingman.dev/",
-    "upvotes": 115,
+    "upvotes": 120,
     "author": "dunefox",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=29605708"
   },
   {
+    "title": "Kolmogorov Complicity and the Parable of Lightning",
+    "url": "https://slatestarcodex.com/2017/10/23/kolmogorov-complicity-and-the-parable-of-lightning/",
+    "upvotes": 90,
+    "author": "phab",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=29606411"
+  },
+  {
+    "title": "SciRate: An open source website to browse, save, and comment ArXiv articles",
+    "url": "https://scirate.com/",
+    "upvotes": 5,
+    "author": "physicsgraph",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29611235"
+  },
+  {
+    "title": "An Origami Samurai Made from a Single Sheet of Rice Paper",
+    "url": "https://www.openculture.com/2021/12/an-origami-samurai-made-from-a-single-sheet-of-rice-paper.html",
+    "upvotes": 184,
+    "author": "simonebrunozzi",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=29604560"
+  },
+  {
     "title": "Analyzing the public hostnames of Tailscale users",
     "url": "https://smitop.com/post/hostnames/",
-    "upvotes": 11,
+    "upvotes": 13,
     "author": "smitop",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29579806"
   },
   {
-    "title": "Kolmogorov Complicity and the Parable of Lightning",
-    "url": "https://slatestarcodex.com/2017/10/23/kolmogorov-complicity-and-the-parable-of-lightning/",
-    "upvotes": 89,
-    "author": "phab",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=29606411"
-  },
-  {
-    "title": "An Origami Samurai Made from a Single Sheet of Rice Paper",
-    "url": "https://www.openculture.com/2021/12/an-origami-samurai-made-from-a-single-sheet-of-rice-paper.html",
-    "upvotes": 178,
-    "author": "simonebrunozzi",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=29604560"
+    "title": "Xcode 13.2 contains Log4j vulnerability",
+    "url": "https://developer.apple.com/forums/thread/696785",
+    "upvotes": 9,
+    "author": "elpakal",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29610913"
   },
   {
     "title": "A system in which soft robots “evolve” to walk or climb",
     "url": "https://www.wired.com/story/see-little-robots-get-swole-in-this-virtual-gym/",
-    "upvotes": 58,
+    "upvotes": 59,
     "author": "DrNuke",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=29604899"
@@ -138,78 +154,70 @@
   {
     "title": "Unbreakable phone screens could be made with a new material",
     "url": "https://www.economist.com/science-and-technology/unbreakable-phone-screens-could-be-made-with-a-new-material/21806552",
-    "upvotes": 63,
+    "upvotes": 64,
     "author": "prostoalex",
-    "comments": 70,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=29601411"
-  },
-  {
-    "title": "Firefox Profilemaker",
-    "url": "https://ffprofile.com/",
-    "upvotes": 115,
-    "author": "KubikPixel",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=29604754"
-  },
-  {
-    "title": "Excerpt from CIA's Simple Sabotage Field Manual",
-    "url": "http://svn.cacert.org/CAcert/CAcert_Inc/Board/oss/oss_sabotage.html",
-    "upvotes": 311,
-    "author": "bobbiechen",
-    "comments": 169,
-    "link": "https://news.ycombinator.com/item?id=29597454"
-  },
-  {
-    "title": "What children lose when their brains develop too fast",
-    "url": "https://www.wsj.com/articles/what-children-lose-when-their-brains-develop-too-fast-11639071752",
-    "upvotes": 51,
-    "author": "jkuria",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=29610276"
   },
   {
     "title": "EasyPost",
     "url": "https://www.easypost.com/careers"
   },
   {
+    "title": "Excerpt from CIA's Simple Sabotage Field Manual",
+    "url": "http://svn.cacert.org/CAcert/CAcert_Inc/Board/oss/oss_sabotage.html",
+    "upvotes": 312,
+    "author": "bobbiechen",
+    "comments": 176,
+    "link": "https://news.ycombinator.com/item?id=29597454"
+  },
+  {
     "title": "Tell HN: AWS warns us about irregular activity related to Log4shell",
     "url": "item?id=29608244",
-    "upvotes": 111,
+    "upvotes": 113,
     "author": "stunt",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29608244"
   },
   {
-    "title": "The Dead Sea of West Texas",
-    "url": "https://www.texasmonthly.com/news-politics/lake-boehmer-dead-sea-west-texas/",
-    "upvotes": 52,
-    "author": "terrycody",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=29610411"
-  },
-  {
     "title": "Third High Severity CVE in Log4j Is Published",
     "url": "https://logging.apache.org/log4j/2.x/security.html",
-    "upvotes": 321,
+    "upvotes": 322,
     "author": "niros_valtos",
-    "comments": 212,
+    "comments": 217,
     "link": "https://news.ycombinator.com/item?id=29604097"
   },
   {
-    "title": "A deep dive on a Facebook reseller of bikes stolen in Colorado",
-    "url": "https://bikeindex.org/news/closing-the-loop-a-deep-dive-on-a-facebook-reseller-of-bikes-stolen-in",
-    "upvotes": 277,
-    "author": "epa",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=29607145"
+    "title": "The Dead Sea of West Texas",
+    "url": "https://www.texasmonthly.com/news-politics/lake-boehmer-dead-sea-west-texas/",
+    "upvotes": 56,
+    "author": "terrycody",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=29610411"
   },
   {
     "title": "Why Not Rust?",
     "url": "https://matklad.github.io//2020/09/20/why-not-rust.html",
-    "upvotes": 147,
+    "upvotes": 157,
     "author": "spekcular",
-    "comments": 126,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=29606523"
+  },
+  {
+    "title": "What children lose when their brains develop too fast",
+    "url": "https://www.wsj.com/articles/what-children-lose-when-their-brains-develop-too-fast-11639071752",
+    "upvotes": 52,
+    "author": "jkuria",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=29610276"
+  },
+  {
+    "title": "A deep dive on a Facebook reseller of bikes stolen in Colorado",
+    "url": "https://bikeindex.org/news/closing-the-loop-a-deep-dive-on-a-facebook-reseller-of-bikes-stolen-in",
+    "upvotes": 282,
+    "author": "epa",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=29607145"
   },
   {
     "title": "The Possibility of the Impossible",
@@ -222,17 +230,9 @@
   {
     "title": "Show HN: Timeless articles posted on Hacker News, written 1321 to 2021",
     "url": "https://hn.lindylearn.io",
-    "upvotes": 176,
+    "upvotes": 177,
     "author": "phgn",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=29605429"
-  },
-  {
-    "title": "Why Wolfram tech isn’t open source",
-    "url": "https://blog.wolfram.com/2019/04/02/why-wolfram-tech-isnt-open-source-a-dozen-reasons/",
-    "upvotes": 203,
-    "author": "AJRF",
-    "comments": 244,
-    "link": "https://news.ycombinator.com/item?id=29604421"
   }
 ]
