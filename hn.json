@@ -1,64 +1,64 @@
 [
   {
-    "title": "Systemd 250 Released",
-    "url": "https://lwn.net/Articles/879739/",
-    "upvotes": 29,
-    "author": "nnx",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=29670682"
-  },
-  {
     "title": "Entire website in a single HTML file",
     "url": "https://css-tricks.com/a-whole-website-in-a-single-html-file/",
-    "upvotes": 277,
+    "upvotes": 286,
     "author": "jaytaylor",
-    "comments": 149,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=29668260"
   },
   {
     "title": "Average color of each country",
     "url": "https://eox.at/2021/08/average-colors-of-the-world/",
-    "upvotes": 41,
+    "upvotes": 49,
     "author": "xk3",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=29669961"
   },
   {
     "title": "The Google home page is 500K",
     "url": "https://pagespeed.web.dev/report?url=https%3A%2F%2Fgoogle.com%2F",
-    "upvotes": 127,
+    "upvotes": 134,
     "author": "tomcam",
-    "comments": 82,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=29669070"
+  },
+  {
+    "title": "Advent of Code Surveys: Results",
+    "url": "https://jeroenheijmans.github.io/advent-of-code-surveys/",
+    "upvotes": 11,
+    "author": "fulafel",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29670596"
   },
   {
     "title": "Be curious, not judgmental",
     "url": "http://www.shubhro.com/2021/12/20/be-curious-not-judgmental/",
-    "upvotes": 141,
+    "upvotes": 147,
     "author": "shbhrsaha",
-    "comments": 62,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=29663080"
   },
   {
     "title": "SpeedCrunch",
     "url": "http://speedcrunch.org/",
-    "upvotes": 357,
+    "upvotes": 359,
     "author": "hkc",
     "comments": 103,
     "link": "https://news.ycombinator.com/item?id=29661485"
   },
   {
-    "title": "Advent of Code Surveys: Results",
-    "url": "https://jeroenheijmans.github.io/advent-of-code-surveys/",
-    "upvotes": 7,
-    "author": "fulafel",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29670596"
+    "title": "Systemd 250 Released",
+    "url": "https://lwn.net/Articles/879739/",
+    "upvotes": 42,
+    "author": "nnx",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=29670682"
   },
   {
     "title": "Cornell McRay T'Racing",
     "url": "https://github.com/h3r2tic/cornell-mcray",
-    "upvotes": 116,
+    "upvotes": 117,
     "author": "tosh",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=29667005"
@@ -66,7 +66,7 @@
   {
     "title": "To Craunch the Marmoset",
     "url": "https://sesquiotic.com/2016/05/02/to-craunch-the-marmoset/",
-    "upvotes": 19,
+    "upvotes": 20,
     "author": "Natsu",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29669896"
@@ -74,31 +74,31 @@
   {
     "title": "Ask HN: Those making $500/month on side projects in 2021 – Show and tell",
     "url": "item?id=29667095",
-    "upvotes": 316,
+    "upvotes": 336,
     "author": "folli",
-    "comments": 381,
+    "comments": 393,
     "link": "https://news.ycombinator.com/item?id=29667095"
   },
   {
     "title": "Ask HN: What's the best book you read in 2021?",
     "url": "item?id=29668228",
-    "upvotes": 199,
+    "upvotes": 212,
     "author": "AccountAccount1",
-    "comments": 255,
+    "comments": 268,
     "link": "https://news.ycombinator.com/item?id=29668228"
   },
   {
     "title": "CSS Zen Garden: A demonstration of what can be achieved through CSS-based design",
     "url": "http://www.csszengarden.com/",
-    "upvotes": 97,
+    "upvotes": 101,
     "author": "mroche",
-    "comments": 30,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=29668910"
   },
   {
     "title": "QOI – The “Quite OK Image Format” for fast, lossless image compression",
     "url": "https://github.com/phoboslab/qoi",
-    "upvotes": 164,
+    "upvotes": 167,
     "author": "JeanMo",
     "comments": 73,
     "link": "https://news.ycombinator.com/item?id=29661498"
@@ -106,82 +106,98 @@
   {
     "title": "/tap – Powerful and customizable note-taking system",
     "url": "https://www.tatatap.com/",
-    "upvotes": 221,
+    "upvotes": 223,
     "author": "jermaustin1",
-    "comments": 109,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=29663233"
+  },
+  {
+    "title": "State of Valhalla",
+    "url": "https://openjdk.java.net/projects/valhalla/design-notes/state-of-valhalla/01-background",
+    "upvotes": 87,
+    "author": "kaba0",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=29666279"
   },
   {
     "title": "Show HN: Jupyter kernel using Poetry for reproducible Python package management",
     "url": "https://github.com/pathbird/poetry-kernel",
-    "upvotes": 51,
+    "upvotes": 52,
     "author": "travisd",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=29667453"
   },
   {
-    "title": "State of Valhalla",
-    "url": "https://openjdk.java.net/projects/valhalla/design-notes/state-of-valhalla/01-background",
-    "upvotes": 85,
-    "author": "kaba0",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=29666279"
-  },
-  {
-    "title": "Natalie: An early-stage Ruby implementation that compiles to C++",
-    "url": "https://github.com/seven1m/natalie",
-    "upvotes": 111,
-    "author": "ksec",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=29660883"
+    "title": "The Sucker Complex",
+    "url": "https://itsjoeco.substack.com/p/the-sucker-complex",
+    "upvotes": 4,
+    "author": "1cvmask",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29670760"
   },
   {
     "title": "Amazon and the “profitless business model” fallacy",
     "url": "https://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative",
-    "upvotes": 72,
+    "upvotes": 75,
     "author": "simonebrunozzi",
     "comments": 67,
     "link": "https://news.ycombinator.com/item?id=29661261"
   },
   {
-    "title": "Toyota 'reviewing' key fob remote start subscription plan after blowback",
-    "url": "https://www.thedrive.com/news/43636/toyota-reviewing-key-fob-remote-start-subscription-plan-after-massive-blowback",
-    "upvotes": 202,
-    "author": "tech_timc",
-    "comments": 154,
-    "link": "https://news.ycombinator.com/item?id=29667208"
+    "title": "Natalie: An early-stage Ruby implementation that compiles to C++",
+    "url": "https://github.com/seven1m/natalie",
+    "upvotes": 113,
+    "author": "ksec",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=29660883"
   },
   {
     "title": "Show HN: Tact – A simple chat app for iOS, iPadOS and macOS",
     "url": "https://justtact.com/",
-    "upvotes": 30,
+    "upvotes": 36,
     "author": "RenderedCarrot",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29636405"
   },
   {
-    "title": "Tesla bows to pressure, stops allowing drivers to play video games while driving",
-    "url": "https://www.theguardian.com/technology/2021/dec/23/tesla-vehicles-video-games-driving",
-    "upvotes": 61,
-    "author": "vanusa",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=29669281"
+    "title": "Toyota 'reviewing' key fob remote start subscription plan after blowback",
+    "url": "https://www.thedrive.com/news/43636/toyota-reviewing-key-fob-remote-start-subscription-plan-after-massive-blowback",
+    "upvotes": 207,
+    "author": "tech_timc",
+    "comments": 160,
+    "link": "https://news.ycombinator.com/item?id=29667208"
   },
   {
-    "title": "Twitter’s founder admits that shutting down the API was “worst thing we did”",
-    "url": "https://www.revyuh.com/news/software/developers/twitters-founder-admits-that-shutting-down-the-api-was-worst-thing-we-did-it-affected-users-and-developers/",
-    "upvotes": 400,
-    "author": "amitk1",
-    "comments": 205,
-    "link": "https://news.ycombinator.com/item?id=29664742"
+    "title": "Tesla bows to pressure, stops allowing drivers to play video games while driving",
+    "url": "https://www.theguardian.com/technology/2021/dec/23/tesla-vehicles-video-games-driving",
+    "upvotes": 68,
+    "author": "vanusa",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=29669281"
   },
   {
     "title": "Redirector – Browser extension to redirect to privacy respecting front-ends",
     "url": "https://github.com/einaregilsson/Redirector",
-    "upvotes": 74,
+    "upvotes": 76,
     "author": "robertheadley",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29665373"
+  },
+  {
+    "title": "Twitter’s founder admits that shutting down the API was “worst thing we did”",
+    "url": "https://www.revyuh.com/news/software/developers/twitters-founder-admits-that-shutting-down-the-api-was-worst-thing-we-did-it-affected-users-and-developers/",
+    "upvotes": 405,
+    "author": "amitk1",
+    "comments": 206,
+    "link": "https://news.ycombinator.com/item?id=29664742"
+  },
+  {
+    "title": "The J1 Forth CPU",
+    "url": "https://excamera.com/sphinx/fpga-j1.html",
+    "upvotes": 47,
+    "author": "ColinWright",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29666692"
   },
   {
     "title": "A rogues’ gallery of monster-sized gas giants",
@@ -190,14 +206,6 @@
     "author": "dnetesn",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29666560"
-  },
-  {
-    "title": "The J1 Forth CPU",
-    "url": "https://excamera.com/sphinx/fpga-j1.html",
-    "upvotes": 42,
-    "author": "ColinWright",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29666692"
   },
   {
     "title": "Cray-1 Digital Archeology",
@@ -210,7 +218,7 @@
   {
     "title": "Swift Roadmap for performance predictability: ARC improvements and ownership",
     "url": "https://forums.swift.org/t/a-roadmap-for-improving-swift-performance-predictability-arc-improvements-and-ownership-control/54206",
-    "upvotes": 27,
+    "upvotes": 31,
     "author": "ksec",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29667071"
@@ -220,7 +228,7 @@
     "url": "https://thatsmyape.com/",
     "upvotes": 187,
     "author": "cryptogogue",
-    "comments": 160,
+    "comments": 163,
     "link": "https://news.ycombinator.com/item?id=29664369"
   },
   {
@@ -230,9 +238,5 @@
     "author": "rubenverborgh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29660721"
-  },
-  {
-    "title": "Flexport is hiring software engineers to rebuild the global trading system",
-    "url": "https://www.flexport.com/careers"
   }
 ]
