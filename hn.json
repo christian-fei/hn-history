@@ -1,51 +1,59 @@
 [
   {
-    "title": "Tell HN: Microsoft forks MIT licensed repo, and changes the copyright to them",
-    "url": "https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb",
-    "upvotes": 1146,
-    "author": "mkdirp",
-    "comments": 444,
-    "link": "https://news.ycombinator.com/item?id=29683471"
-  },
-  {
     "title": "Reverse-engineering a tiny 1980s chip that plays Christmas tunes",
     "url": "https://www.righto.com/2021/12/reverse-engineering-tiny-1980s-chip.html",
-    "upvotes": 120,
+    "upvotes": 137,
     "author": "picture",
-    "comments": 15,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=29685632"
   },
   {
     "title": "JavaScript for Impatient Programmers",
     "url": "https://exploringjs.com/impatient-js/toc.html",
-    "upvotes": 111,
+    "upvotes": 122,
     "author": "arkj",
-    "comments": 34,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=29673206"
   },
   {
     "title": "25-Dec. Shout-out to everyone else at work",
     "url": "item?id=29683936",
-    "upvotes": 586,
+    "upvotes": 614,
     "author": "sandworm101",
-    "comments": 125,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=29683936"
   },
   {
-    "title": "Ansiwave BBS, a modern BBS with ANSI art and MIDI music",
-    "url": "https://ansiwave.net/",
-    "upvotes": 93,
-    "author": "sekao",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=29671889"
+    "title": "Selling my own GPL software, part 1: a lot of hurdles",
+    "url": "https://raymii.org/s/blog/Selling_GPL_Software_part_1_lots_of_hurdles.html",
+    "upvotes": 14,
+    "author": "jandeboevrie",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29686862"
+  },
+  {
+    "title": "New York City bans natural gas in new buildings",
+    "url": "https://www.reuters.com/markets/us/new-york-city-set-ban-natural-gas-new-buildings-2021-12-15/",
+    "upvotes": 15,
+    "author": "mortonstreet",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=29686891"
   },
   {
     "title": "What the Hell Is This Company the 76ers Just Partnered With?",
     "url": "https://defector.com/what-the-hell-is-this-company-the-76ers-just-partnered-with/",
-    "upvotes": 276,
+    "upvotes": 283,
     "author": "bryanrasmussen",
-    "comments": 70,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=29682102"
+  },
+  {
+    "title": "Ansiwave BBS, a modern BBS with ANSI art and MIDI music",
+    "url": "https://ansiwave.net/",
+    "upvotes": 96,
+    "author": "sekao",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=29671889"
   },
   {
     "title": "EasyPost",
@@ -54,153 +62,161 @@
   {
     "title": "Ask HN: Have you found something you love to do? If yes how?",
     "url": "item?id=29685021",
-    "upvotes": 105,
+    "upvotes": 118,
     "author": "aj_nikhil",
-    "comments": 80,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=29685021"
-  },
-  {
-    "title": "Shrooms: What You Need to Know",
-    "url": "https://tripsafe.org/shrooms/",
-    "upvotes": 197,
-    "author": "yamrzou",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=29682900"
-  },
-  {
-    "title": "Trade-Offs in Automatic Differentiation: TensorFlow, PyTorch, Jax, and Julia",
-    "url": "http://www.stochasticlifestyle.com/engineering-trade-offs-in-automatic-differentiation-from-tensorflow-and-pytorch-to-jax-and-julia/",
-    "upvotes": 153,
-    "author": "ChrisRackauckas",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=29682507"
-  },
-  {
-    "title": "We Fund Public Interest Tech",
-    "url": "https://prototypefund.de/en/",
-    "upvotes": 105,
-    "author": "doener",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=29683331"
   },
   {
     "title": "Buy a coal mine, drive a gas guzzler, and other uses of reverse logic",
     "url": "https://timharford.com/2021/12/buy-a-coal-mine-drive-a-gas-guzzler-and-other-uses-of-reverse-logic/",
-    "upvotes": 66,
+    "upvotes": 78,
     "author": "MaysonL",
-    "comments": 83,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=29685963"
   },
   {
-    "title": "Selling my own GPL software, part 1: a lot of hurdles",
-    "url": "https://raymii.org/s/blog/Selling_GPL_Software_part_1_lots_of_hurdles.html",
-    "upvotes": 5,
-    "author": "jandeboevrie",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29686862"
-  },
-  {
-    "title": "Ruby 3.1",
-    "url": "https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/",
-    "upvotes": 368,
-    "author": "sebiw",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=29682920"
+    "title": "Trade-Offs in Automatic Differentiation: TensorFlow, PyTorch, Jax, and Julia",
+    "url": "http://www.stochasticlifestyle.com/engineering-trade-offs-in-automatic-differentiation-from-tensorflow-and-pytorch-to-jax-and-julia/",
+    "upvotes": 160,
+    "author": "ChrisRackauckas",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=29682507"
   },
   {
     "title": "Introduction to the Sam Text Editor",
     "url": "https://blog.matthewdmiller.net/introduction-to-the-sam-text-editor",
-    "upvotes": 20,
+    "upvotes": 25,
     "author": "naetius",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29677252"
   },
   {
+    "title": "We Fund Public Interest Tech",
+    "url": "https://prototypefund.de/en/",
+    "upvotes": 108,
+    "author": "doener",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=29683331"
+  },
+  {
+    "title": "Ruby 3.1",
+    "url": "https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/",
+    "upvotes": 377,
+    "author": "sebiw",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=29682920"
+  },
+  {
+    "title": "Ask HN: What are the single person activities in Christmas and/or New Year?",
+    "url": "item?id=29686927",
+    "upvotes": 20,
+    "author": "notomorrow",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=29686927"
+  },
+  {
     "title": "OBS and Streamlabs Commit to Long-Term Collaboration",
     "url": "https://obsproject.com/blog/obs-and-streamlabs-commit-to-long-term-collaboration",
-    "upvotes": 223,
+    "upvotes": 229,
     "author": "haunter",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=29681457"
   },
   {
     "title": "Cool, but Obscure X11 Tools",
     "url": "http://cyber.dabamos.de/unix/x11/",
-    "upvotes": 221,
+    "upvotes": 225,
     "author": "todsacerdoti",
-    "comments": 92,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=29681507"
-  },
-  {
-    "title": "Ask HN: What are the single person activities in Christmas and/or New Year?",
-    "url": "item?id=29686927",
-    "upvotes": 10,
-    "author": "notomorrow",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=29686927"
   },
   {
     "title": "The USS William D. Porter: The Unluckiest Ship in WWII",
     "url": "https://www.usna63.org/tradition/sea_stories/Destroyer.html",
-    "upvotes": 124,
+    "upvotes": 127,
     "author": "hubraumhugo",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29682149"
   },
   {
     "title": "The Pinouts Book by NODE",
     "url": "https://pinouts.org/",
-    "upvotes": 61,
+    "upvotes": 64,
     "author": "jrmann100",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29681373"
+  },
+  {
+    "title": "Better SQL JOINs",
+    "url": "item?id=29687134",
+    "upvotes": 9,
+    "author": "JoelJacobson",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29687134"
   },
   {
     "title": "Typejuice: Docs generator for .d.ts files inspired by godoc",
     "url": "https://github.com/galvez/typejuice",
-    "upvotes": 10,
+    "upvotes": 14,
     "author": "jgalvez",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29680698"
   },
   {
-    "title": "The sweet sea monster of Portuguese Christmas",
-    "url": "https://www.atlasobscura.com/articles/lampreia-de-ovos-egg-lamprey-christmas",
-    "upvotes": 27,
-    "author": "galfarragem",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29672310"
-  },
-  {
-    "title": "Tell HN: You are not alone this Christmas",
-    "url": "item?id=29682002",
-    "upvotes": 1009,
-    "author": "mattowen_uk",
-    "comments": 281,
-    "link": "https://news.ycombinator.com/item?id=29682002"
-  },
-  {
     "title": "Function Pointer Cast Handling in Pyodide",
     "url": "https://blog.pyodide.org/posts/function-pointer-cast-handling/",
-    "upvotes": 3,
+    "upvotes": 4,
     "author": "lukastyrychtr",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29672063"
   },
   {
+    "title": "The sweet sea monster of Portuguese Christmas",
+    "url": "https://www.atlasobscura.com/articles/lampreia-de-ovos-egg-lamprey-christmas",
+    "upvotes": 28,
+    "author": "galfarragem",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29672310"
+  },
+  {
+    "title": "Tell HN: You are not alone this Christmas",
+    "url": "item?id=29682002",
+    "upvotes": 1034,
+    "author": "mattowen_uk",
+    "comments": 286,
+    "link": "https://news.ycombinator.com/item?id=29682002"
+  },
+  {
     "title": "Suppressing duplicate requests in web services",
     "url": "https://tkareine.org/articles/suppressing-duplicate-requests-in-web-services.html",
-    "upvotes": 15,
+    "upvotes": 17,
     "author": "tkareine",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29672383"
   },
   {
-    "title": "“Autism Is a Spectrum” Doesn’t Mean What You Think",
+    "title": "Tell HN: Microsoft forks MIT licensed repo, and changes the copyright to them",
+    "url": "https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb",
+    "upvotes": 1167,
+    "author": "mkdirp",
+    "comments": 465,
+    "link": "https://news.ycombinator.com/item?id=29683471"
+  },
+  {
+    "title": "Amazon Introduces Re:Post, a “Stack Overflow” for AWS",
+    "url": "https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/",
+    "upvotes": 12,
+    "author": "marinesebastian",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29685927"
+  },
+  {
+    "title": "“Autism is a spectrum” doesn’t mean what you think",
     "url": "https://neuroclastic.com/its-a-spectrum-doesnt-mean-what-you-think/",
-    "upvotes": 180,
+    "upvotes": 185,
     "author": "stared",
-    "comments": 230,
+    "comments": 235,
     "link": "https://news.ycombinator.com/item?id=29682917"
   },
   {
@@ -208,31 +224,15 @@
     "url": "https://www.discovermagazine.com/planet-earth/the-source-of-the-nile-river-a-mystery-that-spanned-three-millennia",
     "upvotes": 75,
     "author": "msolujic",
-    "comments": 17,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29682095"
-  },
-  {
-    "title": "After years of doubts, hopes grow that nuclear fusion is near",
-    "url": "https://www.bostonglobe.com/2021/12/22/science/after-years-doubts-hopes-grow-that-nuclear-fusion-is-finally-real-could-help-address-climate-change/",
-    "upvotes": 64,
-    "author": "jseliger",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=29684889"
   },
   {
     "title": "James Webb Space Telescope launch [video]",
     "url": "https://www.youtube.com/watch?v=7nT7JGZMbtM",
-    "upvotes": 430,
+    "upvotes": 436,
     "author": "marcodiego",
-    "comments": 205,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=29681636"
-  },
-  {
-    "title": "No Other Love: Letters from Richard Feynman to His Late Wife, Arline",
-    "url": "https://www.sothebys.com/en/articles/no-other-love-heart-wrenching-letters-from-richard-feynman-to-his-late-wife-arline",
-    "upvotes": 72,
-    "author": "Stratoscope",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=29681462"
   }
 ]
