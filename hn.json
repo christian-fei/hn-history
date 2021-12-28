@@ -2,63 +2,63 @@
   {
     "title": "Prince of Persia in JavaScript",
     "url": "https://princejs.com/",
-    "upvotes": 523,
+    "upvotes": 538,
     "author": "colinprince",
-    "comments": 120,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=29710538"
   },
   {
     "title": "LuaTeX Comes of Age",
     "url": "https://lwn.net/Articles/731581/",
-    "upvotes": 11,
+    "upvotes": 20,
     "author": "pcr910303",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29713270"
+  },
+  {
+    "title": "Powerful supercomputer can now run on light instead of electric current",
+    "url": "https://www.techradar.com/news/this-powerful-supercomputer-can-now-run-on-light-instead-of-electric-current",
+    "upvotes": 47,
+    "author": "mardiyah",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=29701976"
   },
   {
     "title": "Mocking Bird – Realtime Voice Clone for Chinese",
     "url": "https://github.com/babysor/MockingBird",
-    "upvotes": 115,
+    "upvotes": 120,
     "author": "axiomdata316",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=29711051"
   },
   {
-    "title": "Powerful supercomputer can now run on light instead of electric current",
-    "url": "https://www.techradar.com/news/this-powerful-supercomputer-can-now-run-on-light-instead-of-electric-current",
-    "upvotes": 34,
-    "author": "mardiyah",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=29701976"
-  },
-  {
     "title": "Japan's Paper Culture",
     "url": "https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998",
-    "upvotes": 226,
+    "upvotes": 228,
     "author": "thomas",
-    "comments": 90,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=29709551"
+  },
+  {
+    "title": "It’s cheaper to stop emitting now than to pull carbon from the air later",
+    "url": "https://arstechnica.com/science/2021/12/staying-below-2-c-warming-costs-less-than-overshooting-and-correcting/",
+    "upvotes": 23,
+    "author": "Tomte",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29713422"
   },
   {
     "title": "The purpose of DRM is not to prevent copyright violations",
     "url": "https://web.archive.org/web/20140906214521/https://plus.google.com/+IanHickson/posts/iPmatxBYuj2",
-    "upvotes": 167,
+    "upvotes": 173,
     "author": "marcodiego",
-    "comments": 126,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=29709939"
-  },
-  {
-    "title": "A Zimbabwean archaeologist reimagines the story of an African civilisation",
-    "url": "https://www.economist.com/interactives/christmas-specials/2021/12/18/great-zimbabwe-archaeology",
-    "upvotes": 128,
-    "author": "selimthegrim",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=29710326"
   },
   {
     "title": "Swarm consensus [pdf]",
     "url": "http://replicated.cc/files/schmebulock.pdf",
-    "upvotes": 50,
+    "upvotes": 56,
     "author": "gritzko",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29711381"
@@ -68,49 +68,65 @@
     "url": "https://www.mezli.com/careers"
   },
   {
+    "title": "A Zimbabwean archaeologist reimagines the story of an African civilisation",
+    "url": "https://www.economist.com/interactives/christmas-specials/2021/12/18/great-zimbabwe-archaeology",
+    "upvotes": 131,
+    "author": "selimthegrim",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29710326"
+  },
+  {
+    "title": "Mico Is a USB Microphone Based on a Pi Pico",
+    "url": "https://hackaday.com/2021/12/25/mico-is-a-usb-microphone-based-on-a-pi-pico/",
+    "upvotes": 7,
+    "author": "GordonS",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29701886"
+  },
+  {
     "title": "C Is Not a Low-level Language",
     "url": "https://queue.acm.org/detail.cfm?id=3212479",
-    "upvotes": 99,
+    "upvotes": 101,
     "author": "pcr910303",
-    "comments": 83,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=29702001"
   },
   {
     "title": "Scientists build new atlas of ocean’s oxygen-starved waters",
     "url": "https://news.mit.edu/2021/oxygen-deficient-ocean-map-1227",
-    "upvotes": 56,
+    "upvotes": 59,
     "author": "kyle_morris_",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29710752"
+  },
+  {
+    "title": "DIY Mail",
+    "url": "https://computer.rip/2021-12-26-diy-mail.html",
+    "upvotes": 109,
+    "author": "zdw",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=29699175"
+  },
+  {
+    "title": "Show HN: Distributed Tracing Using OpenTelemetry and ClickHouse",
+    "url": "https://github.com/uptrace/uptrace",
+    "upvotes": 62,
+    "author": "vmihailenco",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=29711433"
   },
   {
     "title": "Rust: Experimental real-time global illumination renderer",
     "url": "https://github.com/EmbarkStudios/kajiya",
-    "upvotes": 88,
+    "upvotes": 94,
     "author": "tekkertje",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29711495"
   },
   {
-    "title": "Show HN: Distributed Tracing Using OpenTelemetry and ClickHouse",
-    "url": "https://github.com/uptrace/uptrace",
-    "upvotes": 60,
-    "author": "vmihailenco",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=29711433"
-  },
-  {
-    "title": "DIY Mail",
-    "url": "https://computer.rip/2021-12-26-diy-mail.html",
-    "upvotes": 105,
-    "author": "zdw",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=29699175"
-  },
-  {
     "title": "Lua's Development Style",
     "url": "http://lua-users.org/lists/lua-l/2008-06/msg00407.html",
-    "upvotes": 52,
+    "upvotes": 54,
     "author": "panic",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29711037"
@@ -118,65 +134,57 @@
   {
     "title": "Systems Software Research is Irrelevant",
     "url": "http://herpolhode.com/rob/utah2000.pdf",
-    "upvotes": 99,
+    "upvotes": 100,
     "author": "feross",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=29709807"
-  },
-  {
-    "title": "Ask HN: How to find a job in 2021 if I dislike remote?",
-    "url": "item?id=29711622",
-    "upvotes": 94,
-    "author": "throwawayfrmt",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=29711622"
-  },
-  {
-    "title": "The Beverly Clock",
-    "url": "https://en.wikipedia.org/wiki/Beverly_Clock",
-    "upvotes": 135,
-    "author": "ColinWright",
     "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=29701755"
+    "link": "https://news.ycombinator.com/item?id=29709807"
   },
   {
     "title": "How to Think: The Skill You’ve Never Been Taught",
     "url": "https://fs.blog/how-to-think/",
-    "upvotes": 144,
+    "upvotes": 150,
     "author": "rowanajmarshall",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=29709019"
+  },
+  {
+    "title": "The Beverly Clock",
+    "url": "https://en.wikipedia.org/wiki/Beverly_Clock",
+    "upvotes": 137,
+    "author": "ColinWright",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=29701755"
   },
   {
     "title": "Apple said to be preparing for iPhones without SIM card slot in 2022",
     "url": "https://www.macrumors.com/2021/12/26/iphones-without-sim-card-slot-2022-rumor/",
-    "upvotes": 29,
+    "upvotes": 33,
     "author": "bookofjoe",
-    "comments": 69,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=29701887"
   },
   {
-    "title": "Mico Is a USB Microphone Based on a Pi Pico",
-    "url": "https://hackaday.com/2021/12/25/mico-is-a-usb-microphone-based-on-a-pi-pico/",
-    "upvotes": 3,
-    "author": "GordonS",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29701886"
+    "title": "Ask HN: How to find a job in 2021 if I dislike remote?",
+    "url": "item?id=29711622",
+    "upvotes": 96,
+    "author": "throwawayfrmt",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=29711622"
   },
   {
     "title": "Superhighway84 – a Usenet-inspired decentralized internet discussion system",
     "url": "https://xn--gckvb8fzb.com/superhighway84/",
-    "upvotes": 143,
+    "upvotes": 146,
     "author": "d99kris",
-    "comments": 68,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=29698412"
   },
   {
     "title": "Please don't use Discord for FOSS projects",
     "url": "https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html",
-    "upvotes": 292,
+    "upvotes": 310,
     "author": "Tomte",
-    "comments": 260,
+    "comments": 274,
     "link": "https://news.ycombinator.com/item?id=29712098"
   },
   {
@@ -188,44 +196,36 @@
     "link": "https://news.ycombinator.com/item?id=29697830"
   },
   {
-    "title": "A discussion of the 1970 film “Patton” [video]",
-    "url": "https://www.youtube.com/watch?v=mlmkFKh7fTo",
-    "upvotes": 9,
-    "author": "1cvmask",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29698547"
-  },
-  {
     "title": "Alexa suggests lethal challenge to child",
     "url": "https://twitter.com/klivdahl/status/1475220450598924297",
-    "upvotes": 397,
+    "upvotes": 407,
     "author": "lwansbrough",
-    "comments": 328,
+    "comments": 331,
     "link": "https://news.ycombinator.com/item?id=29709369"
   },
   {
-    "title": "It’s cheaper to stop emitting now than to pull carbon from the air later",
-    "url": "https://arstechnica.com/science/2021/12/staying-below-2-c-warming-costs-less-than-overshooting-and-correcting/",
-    "upvotes": 5,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29713422"
+    "title": "A discussion of the 1970 film “Patton” [video]",
+    "url": "https://www.youtube.com/watch?v=mlmkFKh7fTo",
+    "upvotes": 10,
+    "author": "1cvmask",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29698547"
   },
   {
     "title": "$30 Drawing Could Be a Renaissance Work Worth Millions",
     "url": "https://www.nytimes.com/2021/12/24/arts/albrecht-durer-drawing-discovered.html",
     "upvotes": 32,
     "author": "samclemens",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29694649"
   },
   {
-    "title": "Soup, Sleep and Shiba Inu",
-    "url": "https://thekcpgroup.com/insights/the-attention-span-soup-sleep-and-shiba-inu",
-    "upvotes": 23,
-    "author": "jger15",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29693628"
+    "title": "Collection of V.90/V.92 modem sounds",
+    "url": "https://goughlui.com/2016/05/03/project-the-definitive-collection-of-v-90v-92-modem-sounds/",
+    "upvotes": 94,
+    "author": "fmakunbound",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=29708224"
   },
   {
     "title": "Wayne Thiebaud, known for his colorful depictions of everyday life, dies at 101",
