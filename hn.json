@@ -2,39 +2,39 @@
   {
     "title": "glibc is still not Y2038 compliant by default",
     "url": "https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/",
-    "upvotes": 166,
+    "upvotes": 186,
     "author": "chmaynard",
-    "comments": 62,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=29722365"
   },
   {
     "title": "A realization of why email is critical infrastructure for the Internet",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure",
-    "upvotes": 68,
+    "upvotes": 82,
     "author": "deafcalculus",
-    "comments": 51,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=29722537"
   },
   {
     "title": "“Play-to-Earn” and Bullshit Jobs",
     "url": "https://paulbutler.org/2021/play-to-earn-and-bullshit-jobs/",
-    "upvotes": 923,
+    "upvotes": 936,
     "author": "paulgb",
-    "comments": 558,
+    "comments": 570,
     "link": "https://news.ycombinator.com/item?id=29716900"
   },
   {
     "title": "This Year in Embedded Rust: 2021 edition",
     "url": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/",
-    "upvotes": 37,
+    "upvotes": 45,
     "author": "eldruin",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29722905"
   },
   {
     "title": "How I Build",
     "url": "http://pketh.org/how-i-build.html",
-    "upvotes": 65,
+    "upvotes": 76,
     "author": "pketh",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29714510"
@@ -42,57 +42,65 @@
   {
     "title": "Engineers should invest in decision-making skills early",
     "url": "https://www.reforge.com/blog/technical-decision-making",
-    "upvotes": 193,
+    "upvotes": 194,
     "author": "znpy",
-    "comments": 83,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=29720000"
   },
   {
     "title": "LaTeX Finite Automata and State Diagrams with Tikz",
     "url": "https://hayesall.com/blog/latex-automata/",
-    "upvotes": 58,
+    "upvotes": 60,
     "author": "bjourne",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29721787"
+  },
+  {
+    "title": "Finding a Creature in Ethereum's Dark Forest",
+    "url": "https://bertcmiller.com/2021/12/28/glimpse_nonce_reuse.html",
+    "upvotes": 55,
+    "author": "tosh",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=29716274"
   },
   {
     "title": "The year in math and computer science",
     "url": "https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/",
-    "upvotes": 107,
+    "upvotes": 110,
     "author": "ghosthamlet",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29721063"
+  },
+  {
+    "title": "Ask HN: What are some good rust code to read to learn the language?",
+    "url": "item?id=29723455",
+    "upvotes": 15,
+    "author": "djangovm",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29723455"
+  },
+  {
+    "title": "Oldest family tree created using DNA",
+    "url": "https://www.bbc.co.uk/news/science-environment-59774315",
+    "upvotes": 23,
+    "author": "zeristor",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29716667"
   },
   {
     "title": "Oven Stoves and Heat Walls",
     "url": "https://www.lowtechmagazine.com/2008/12/tile-stoves.html",
     "upvotes": 93,
     "author": "Rendello",
-    "comments": 62,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=29720207"
-  },
-  {
-    "title": "Oldest family tree created using DNA",
-    "url": "https://www.bbc.co.uk/news/science-environment-59774315",
-    "upvotes": 20,
-    "author": "zeristor",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29716667"
-  },
-  {
-    "title": "Finding a Creature in Ethereum's Dark Forest",
-    "url": "https://bertcmiller.com/2021/12/28/glimpse_nonce_reuse.html",
-    "upvotes": 41,
-    "author": "tosh",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29716274"
   },
   {
     "title": "No one is certain what Roman bronze dodecahedrons were used for",
     "url": "https://www.mentalfloss.com/article/514246/are-roman-dodecahedrons-worlds-most-mysterious-artifact",
-    "upvotes": 191,
+    "upvotes": 193,
     "author": "evo_9",
-    "comments": 161,
+    "comments": 163,
     "link": "https://news.ycombinator.com/item?id=29717215"
   },
   {
@@ -102,15 +110,23 @@
   {
     "title": "An Algorithmic Solution to Insomnia",
     "url": "https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html",
-    "upvotes": 61,
+    "upvotes": 65,
     "author": "akkartik",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29704345"
   },
   {
+    "title": "Lessons from My PhD",
+    "url": "https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html",
+    "upvotes": 5,
+    "author": "andrewnc",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29716076"
+  },
+  {
     "title": "Grok {Shan, Shui}*: Advent of understanding the generative art",
     "url": "https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html",
-    "upvotes": 177,
+    "upvotes": 181,
     "author": "abetusk",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=29717476"
@@ -118,7 +134,7 @@
   {
     "title": "Bass – Lisp dialect for scripting the infrastructure beneath your project",
     "url": "https://bass-lang.org/index.html",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "yjftsjthsd-h",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29722417"
@@ -126,23 +142,15 @@
   {
     "title": "System Design Primer: Learn how to design large-scale systems",
     "url": "https://github.com/donnemartin/system-design-primer",
-    "upvotes": 85,
+    "upvotes": 88,
     "author": "jaboutboul",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=29716292"
-  },
-  {
-    "title": "Brazillian businessman built a giant perpetual engine",
-    "url": "https://web.archive.org/web/20161016224631/https://rarenergia.com.br/",
-    "upvotes": 9,
-    "author": "marcodiego",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29722791"
   },
   {
     "title": "Tardigrades walk like insects 500k times their size",
     "url": "https://arstechnica.com/science/2021/12/nifty-biomechanics-of-adorable-water-bears-lumbering-gait-may-inspire-microrobots/",
-    "upvotes": 131,
+    "upvotes": 133,
     "author": "_Microft",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=29717681"
@@ -158,7 +166,7 @@
   {
     "title": "Making sounds using SDL and visualizing them on a simulated oscilloscope",
     "url": "http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "Grieverheart",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29716442"
@@ -166,73 +174,65 @@
   {
     "title": "Hypertext '87",
     "url": "http://www.cs.unc.edu/techreports/88-013.pdf",
-    "upvotes": 73,
+    "upvotes": 75,
     "author": "todsacerdoti",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=29716179"
   },
   {
     "title": "A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development",
     "url": "https://github.com/dexteryy/spellbook-of-modern-webdev",
-    "upvotes": 8,
+    "upvotes": 9,
     "author": "a-bit-of-code",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29722739"
   },
   {
     "title": "LastPass says no passwords were compromised following breach scare",
     "url": "https://www.theverge.com/2021/12/28/22857485/lastpass-compromised-breach-scare",
-    "upvotes": 10,
+    "upvotes": 13,
     "author": "tosh",
-    "comments": 3,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=29723319"
+  },
+  {
+    "title": "Brazillian businessman built a giant perpetual engine",
+    "url": "https://web.archive.org/web/20161016224631/https://rarenergia.com.br/",
+    "upvotes": 13,
+    "author": "marcodiego",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29722791"
+  },
+  {
+    "title": "Yes, Other Countries Do Housing Better, Case 2: Germany",
+    "url": "https://www.sightline.org/2021/05/27/yes-other-countries-do-housing-better-case-2-germany/",
+    "upvotes": 17,
+    "author": "throw0101a",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=29721535"
   },
   {
     "title": "First Dual-Channel IDE?",
     "url": "https://www.os2museum.com/wp/first-dual-channel-ide/",
-    "upvotes": 66,
+    "upvotes": 67,
     "author": "kencausey",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29716582"
-  },
-  {
-    "title": "Ask HN: What are some good rust code to read to learn the language?",
-    "url": "item?id=29723455",
-    "upvotes": 4,
-    "author": "djangovm",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29723455"
   },
   {
     "title": "Ask HN: Why doesn't YC list compensation for their own open positions?",
     "url": "item?id=29720803",
-    "upvotes": 260,
+    "upvotes": 271,
     "author": "andrew_",
-    "comments": 251,
+    "comments": 262,
     "link": "https://news.ycombinator.com/item?id=29720803"
   },
   {
     "title": "Show HN: MLConsole – web app to train ML models, for free and client-side",
     "url": "https://mlconsole.com",
-    "upvotes": 68,
+    "upvotes": 69,
     "author": "halflings",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=29716738"
-  },
-  {
-    "title": "Redo: A recursive, general-purpose build system",
-    "url": "https://redo.readthedocs.io/en/latest/",
-    "upvotes": 93,
-    "author": "jstearns",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=29717028"
-  },
-  {
-    "title": "Show HN: Tzintl.js – International Date-Time Conversion",
-    "url": "https://www.masswerk.at/tzintl/",
-    "upvotes": 49,
-    "author": "masswerk",
     "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=29713241"
+    "link": "https://news.ycombinator.com/item?id=29716738"
   }
 ]
