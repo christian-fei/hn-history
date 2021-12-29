@@ -2,23 +2,31 @@
   {
     "title": "glibc is still not Y2038 compliant by default",
     "url": "https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/",
-    "upvotes": 102,
+    "upvotes": 112,
     "author": "chmaynard",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=29722365"
   },
   {
     "title": "“Play-to-Earn” and Bullshit Jobs",
     "url": "https://paulbutler.org/2021/play-to-earn-and-bullshit-jobs/",
-    "upvotes": 847,
+    "upvotes": 863,
     "author": "paulgb",
-    "comments": 515,
+    "comments": 527,
     "link": "https://news.ycombinator.com/item?id=29716900"
+  },
+  {
+    "title": "LaTeX Finite Automata and State Diagrams with Tikz",
+    "url": "https://hayesall.com/blog/latex-automata/",
+    "upvotes": 42,
+    "author": "bjourne",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=29721787"
   },
   {
     "title": "The year in math and computer science",
     "url": "https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/",
-    "upvotes": 83,
+    "upvotes": 87,
     "author": "ghosthamlet",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29721063"
@@ -26,34 +34,34 @@
   {
     "title": "Engineers should invest in decision-making skills early",
     "url": "https://www.reforge.com/blog/technical-decision-making",
-    "upvotes": 157,
+    "upvotes": 164,
     "author": "znpy",
-    "comments": 76,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=29720000"
-  },
-  {
-    "title": "LaTeX Finite Automata and State Diagrams with Tikz",
-    "url": "https://hayesall.com/blog/latex-automata/",
-    "upvotes": 33,
-    "author": "bjourne",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=29721787"
-  },
-  {
-    "title": "Reflections on a Year with HomeKit",
-    "url": "https://tidbits.com/2021/12/17/reflections-on-a-year-with-homekit/",
-    "upvotes": 16,
-    "author": "fudgy",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=29707470"
   },
   {
     "title": "Oven Stoves and Heat Walls",
     "url": "https://www.lowtechmagazine.com/2008/12/tile-stoves.html",
-    "upvotes": 78,
+    "upvotes": 82,
     "author": "Rendello",
-    "comments": 48,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=29720207"
+  },
+  {
+    "title": "Reflections on a Year with HomeKit",
+    "url": "https://tidbits.com/2021/12/17/reflections-on-a-year-with-homekit/",
+    "upvotes": 19,
+    "author": "fudgy",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=29707470"
+  },
+  {
+    "title": "How I Build",
+    "url": "http://pketh.org/how-i-build.html",
+    "upvotes": 19,
+    "author": "pketh",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29714510"
   },
   {
     "title": "SigNoz",
@@ -62,71 +70,71 @@
   {
     "title": "No one is certain what Roman bronze dodecahedrons were used for",
     "url": "https://www.mentalfloss.com/article/514246/are-roman-dodecahedrons-worlds-most-mysterious-artifact",
-    "upvotes": 173,
+    "upvotes": 175,
     "author": "evo_9",
-    "comments": 138,
+    "comments": 145,
     "link": "https://news.ycombinator.com/item?id=29717215"
   },
   {
     "title": "An Algorithmic Solution to Insomnia",
     "url": "https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html",
-    "upvotes": 42,
+    "upvotes": 45,
     "author": "akkartik",
-    "comments": 8,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29704345"
+  },
+  {
+    "title": "A realization of why email is critical infrastructure for the Internet",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure",
+    "upvotes": 8,
+    "author": "deafcalculus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29722537"
   },
   {
     "title": "Grok {Shan, Shui}*: Advent of understanding the generative art",
     "url": "https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html",
-    "upvotes": 159,
+    "upvotes": 165,
     "author": "abetusk",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=29717476"
   },
   {
-    "title": "Want to be an actuary? Odds are, you’ll fail the test",
-    "url": "https://www.wsj.com/articles/actuary-credential-test-exam-bad-odds-11640706082",
-    "upvotes": 120,
-    "author": "pondsider",
-    "comments": 255,
-    "link": "https://news.ycombinator.com/item?id=29716350"
-  },
-  {
-    "title": "System Design Primer: Learn how to design large-scale systems",
-    "url": "https://github.com/donnemartin/system-design-primer",
-    "upvotes": 57,
-    "author": "jaboutboul",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29716292"
-  },
-  {
     "title": "Tardigrades walk like insects 500k times their size",
     "url": "https://arstechnica.com/science/2021/12/nifty-biomechanics-of-adorable-water-bears-lumbering-gait-may-inspire-microrobots/",
-    "upvotes": 110,
+    "upvotes": 115,
     "author": "_Microft",
-    "comments": 36,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=29717681"
   },
   {
     "title": "Making sounds using SDL and visualizing them on a simulated oscilloscope",
     "url": "http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "Grieverheart",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29716442"
   },
   {
-    "title": "How I Build",
-    "url": "http://pketh.org/how-i-build.html",
-    "upvotes": 13,
-    "author": "pketh",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29714510"
+    "title": "System Design Primer: Learn how to design large-scale systems",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "upvotes": 60,
+    "author": "jaboutboul",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29716292"
+  },
+  {
+    "title": "Want to be an actuary? Odds are, you’ll fail the test",
+    "url": "https://www.wsj.com/articles/actuary-credential-test-exam-bad-odds-11640706082",
+    "upvotes": 122,
+    "author": "pondsider",
+    "comments": 257,
+    "link": "https://news.ycombinator.com/item?id=29716350"
   },
   {
     "title": "Show HN: A tool to send push notifications to your phone, written in Go",
     "url": "https://github.com/binwiederhier/ntfy",
-    "upvotes": 167,
+    "upvotes": 172,
     "author": "binwiederhier",
     "comments": 68,
     "link": "https://news.ycombinator.com/item?id=29715464"
@@ -134,7 +142,7 @@
   {
     "title": "Hypertext '87",
     "url": "http://www.cs.unc.edu/techreports/88-013.pdf",
-    "upvotes": 67,
+    "upvotes": 69,
     "author": "todsacerdoti",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29716179"
@@ -142,18 +150,26 @@
   {
     "title": "Ask HN: Why doesn't YC list compensation for their own open positions?",
     "url": "item?id=29720803",
-    "upvotes": 223,
+    "upvotes": 232,
     "author": "andrew_",
-    "comments": 209,
+    "comments": 229,
     "link": "https://news.ycombinator.com/item?id=29720803"
   },
   {
     "title": "First Dual-Channel IDE?",
     "url": "https://www.os2museum.com/wp/first-dual-channel-ide/",
-    "upvotes": 58,
+    "upvotes": 60,
     "author": "kencausey",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=29716582"
+  },
+  {
+    "title": "Redo: A recursive, general-purpose build system",
+    "url": "https://redo.readthedocs.io/en/latest/",
+    "upvotes": 83,
+    "author": "jstearns",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=29717028"
   },
   {
     "title": "Show HN: Tzintl.js – International Date-Time Conversion",
@@ -164,12 +180,12 @@
     "link": "https://news.ycombinator.com/item?id=29713241"
   },
   {
-    "title": "Redo: A recursive, general-purpose build system",
-    "url": "https://redo.readthedocs.io/en/latest/",
-    "upvotes": 82,
-    "author": "jstearns",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=29717028"
+    "title": "Gobolinux : Redefining Linux filesystem hierarchy",
+    "url": "https://gobolinux.org/",
+    "upvotes": 300,
+    "author": "cassepipe",
+    "comments": 165,
+    "link": "https://news.ycombinator.com/item?id=29714825"
   },
   {
     "title": "Show HN: MLConsole – web app to train ML models, for free and client-side",
@@ -180,20 +196,20 @@
     "link": "https://news.ycombinator.com/item?id=29716738"
   },
   {
-    "title": "Gobolinux : Redefining Linux filesystem hierarchy",
-    "url": "https://gobolinux.org/",
-    "upvotes": 296,
-    "author": "cassepipe",
-    "comments": 163,
-    "link": "https://news.ycombinator.com/item?id=29714825"
-  },
-  {
     "title": "Tools to Download Netflix / Disney / Apple TV Content",
     "url": "https://github.com/widevinedump",
-    "upvotes": 421,
+    "upvotes": 432,
     "author": "janekg",
-    "comments": 164,
+    "comments": 174,
     "link": "https://news.ycombinator.com/item?id=29718556"
+  },
+  {
+    "title": "Container-to-Container Communication",
+    "url": "https://www.miketheman.net/2021/12/28/container-to-container-communication/",
+    "upvotes": 64,
+    "author": "miketheman",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=29716833"
   },
   {
     "title": "Rules of Program Behavior",
@@ -204,12 +220,12 @@
     "link": "https://news.ycombinator.com/item?id=29692968"
   },
   {
-    "title": "Container-to-Container Communication",
-    "url": "https://www.miketheman.net/2021/12/28/container-to-container-communication/",
-    "upvotes": 62,
-    "author": "miketheman",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=29716833"
+    "title": "Bass – Lisp dialect for scripting the infrastructure beneath your project",
+    "url": "https://bass-lang.org/index.html",
+    "upvotes": 4,
+    "author": "yjftsjthsd-h",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29722417"
   },
   {
     "title": "Perry-Castañeda Library Map Collection",
@@ -218,21 +234,5 @@
     "author": "Tomte",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29701238"
-  },
-  {
-    "title": "Down the Rabbit Hole: The world of estranged parents' forums",
-    "url": "http://www.issendai.com/psychology/estrangement/index.html",
-    "upvotes": 210,
-    "author": "jasonhansel",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=29717182"
-  },
-  {
-    "title": "Prince of Persia in JavaScript",
-    "url": "https://princejs.com/",
-    "upvotes": 829,
-    "author": "colinprince",
-    "comments": 204,
-    "link": "https://news.ycombinator.com/item?id=29710538"
   }
 ]
