@@ -2,23 +2,15 @@
   {
     "title": "“Play-to-Earn” and Bullshit Jobs",
     "url": "https://paulbutler.org/2021/play-to-earn-and-bullshit-jobs/",
-    "upvotes": 698,
+    "upvotes": 713,
     "author": "paulgb",
-    "comments": 457,
+    "comments": 467,
     "link": "https://news.ycombinator.com/item?id=29716900"
-  },
-  {
-    "title": "Ask HN: Why doesn't YC list compensation for their own open positions?",
-    "url": "item?id=29720803",
-    "upvotes": 167,
-    "author": "andrew_",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=29720803"
   },
   {
     "title": "The year in math and computer science",
     "url": "https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/",
-    "upvotes": 32,
+    "upvotes": 40,
     "author": "ghosthamlet",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29721063"
@@ -26,59 +18,67 @@
   {
     "title": "Engineers should invest in decision-making skills early",
     "url": "https://www.reforge.com/blog/technical-decision-making",
-    "upvotes": 97,
+    "upvotes": 101,
     "author": "znpy",
-    "comments": 42,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=29720000"
   },
   {
     "title": "Oven Stoves and Heat Walls",
     "url": "https://www.lowtechmagazine.com/2008/12/tile-stoves.html",
-    "upvotes": 42,
+    "upvotes": 49,
     "author": "Rendello",
-    "comments": 19,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=29720207"
   },
   {
     "title": "No one is certain what Roman bronze dodecahedrons were used for",
     "url": "https://www.mentalfloss.com/article/514246/are-roman-dodecahedrons-worlds-most-mysterious-artifact",
-    "upvotes": 149,
+    "upvotes": 152,
     "author": "evo_9",
-    "comments": 103,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=29717215"
   },
   {
     "title": "Gobolinux : Redefining Linux filesystem hierarchy",
     "url": "https://gobolinux.org/",
-    "upvotes": 272,
+    "upvotes": 276,
     "author": "cassepipe",
-    "comments": 151,
+    "comments": 154,
     "link": "https://news.ycombinator.com/item?id=29714825"
+  },
+  {
+    "title": "Grok {Shan, Shui}*: Advent of understanding the generative art",
+    "url": "https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html",
+    "upvotes": 141,
+    "author": "abetusk",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=29717476"
   },
   {
     "title": "Miso",
     "url": "https://www.workatastartup.com/companies/miso"
   },
   {
-    "title": "Grok {Shan, Shui}*: Advent of understanding the generative art",
-    "url": "https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html",
-    "upvotes": 135,
-    "author": "abetusk",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=29717476"
-  },
-  {
     "title": "Want to be an actuary? Odds are, you’ll fail the test",
     "url": "https://www.wsj.com/articles/actuary-credential-test-exam-bad-odds-11640706082",
-    "upvotes": 109,
+    "upvotes": 110,
     "author": "pondsider",
-    "comments": 209,
+    "comments": 213,
     "link": "https://news.ycombinator.com/item?id=29716350"
+  },
+  {
+    "title": "Ask HN: Why doesn't YC list compensation for their own open positions?",
+    "url": "item?id=29720803",
+    "upvotes": 174,
+    "author": "andrew_",
+    "comments": 140,
+    "link": "https://news.ycombinator.com/item?id=29720803"
   },
   {
     "title": "Hypertext '87",
     "url": "http://www.cs.unc.edu/techreports/88-013.pdf",
-    "upvotes": 53,
+    "upvotes": 54,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29716179"
@@ -86,66 +86,98 @@
   {
     "title": "Tardigrades walk like insects 500k times their size",
     "url": "https://arstechnica.com/science/2021/12/nifty-biomechanics-of-adorable-water-bears-lumbering-gait-may-inspire-microrobots/",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "_Microft",
-    "comments": 21,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29717681"
+  },
+  {
+    "title": "An Algorithmic Solution to Insomnia",
+    "url": "https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html",
+    "upvotes": 13,
+    "author": "akkartik",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29704345"
+  },
+  {
+    "title": "Making sounds using SDL and visualizing them on a simulated oscilloscope",
+    "url": "http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html",
+    "upvotes": 5,
+    "author": "Grieverheart",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29716442"
+  },
+  {
+    "title": "Show HN: A tool to send push notifications to your phone, written in Go",
+    "url": "https://github.com/binwiederhier/ntfy",
+    "upvotes": 124,
+    "author": "binwiederhier",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=29715464"
   },
   {
     "title": "What the Russians thought of James Bond in the 1960s",
     "url": "https://www.spectator.co.uk/article/what-the-russians-thought-of-james-bond-in-the-1960s",
     "upvotes": 61,
     "author": "lermontov",
-    "comments": 52,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=29705479"
   },
   {
-    "title": "Show HN: A tool to send push notifications to your phone, written in Go",
-    "url": "https://github.com/binwiederhier/ntfy",
-    "upvotes": 119,
-    "author": "binwiederhier",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=29715464"
-  },
-  {
-    "title": "An Algorithmic Solution to Insomnia",
-    "url": "https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html",
-    "upvotes": 9,
-    "author": "akkartik",
+    "title": "LaTeX Finite Automata and State Diagrams with Tikz",
+    "url": "https://hayesall.com/blog/latex-automata/",
+    "upvotes": 3,
+    "author": "bjourne",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29704345"
+    "link": "https://news.ycombinator.com/item?id=29721787"
   },
   {
     "title": "Should you contribute open data to OpenStreetMap?",
     "url": "https://www.ctrl.blog/entry/re-maps-public-service.html",
-    "upvotes": 215,
+    "upvotes": 217,
     "author": "nathan_phoenix",
-    "comments": 189,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=29713976"
   },
   {
     "title": "First Dual-Channel IDE?",
     "url": "https://www.os2museum.com/wp/first-dual-channel-ide/",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "kencausey",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29716582"
-  },
-  {
-    "title": "‘Hard’ skills from PhDs remain relevant beyond academia",
-    "url": "https://www.nature.com/articles/d41586-021-03756-0",
-    "upvotes": 154,
-    "author": "nabla9",
-    "comments": 147,
-    "link": "https://news.ycombinator.com/item?id=29714958"
   },
   {
     "title": "Redo: A recursive, general-purpose build system",
     "url": "https://redo.readthedocs.io/en/latest/",
     "upvotes": 74,
     "author": "jstearns",
-    "comments": 44,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=29717028"
+  },
+  {
+    "title": "‘Hard’ skills from PhDs remain relevant beyond academia",
+    "url": "https://www.nature.com/articles/d41586-021-03756-0",
+    "upvotes": 155,
+    "author": "nabla9",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=29714958"
+  },
+  {
+    "title": "Rules of Program Behavior",
+    "url": "https://dl.acm.org/doi/10.1145/3469128",
+    "upvotes": 15,
+    "author": "azhenley",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29692968"
+  },
+  {
+    "title": "Show HN: MLConsole – web app to train ML models, for free and client-side",
+    "url": "https://mlconsole.com",
+    "upvotes": 43,
+    "author": "halflings",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29716738"
   },
   {
     "title": "Show HN: Tzintl.js – International Date-Time Conversion",
@@ -156,36 +188,12 @@
     "link": "https://news.ycombinator.com/item?id=29713241"
   },
   {
-    "title": "Making sounds using SDL and visualizing them on a simulated oscilloscope",
-    "url": "http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html",
-    "upvotes": 3,
-    "author": "Grieverheart",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29716442"
-  },
-  {
-    "title": "Rules of Program Behavior",
-    "url": "https://dl.acm.org/doi/10.1145/3469128",
-    "upvotes": 14,
-    "author": "azhenley",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29692968"
-  },
-  {
     "title": "Tools to Download Netflix / Disney / Apple TV Content",
     "url": "https://github.com/widevinedump",
-    "upvotes": 356,
+    "upvotes": 362,
     "author": "janekg",
-    "comments": 133,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=29718556"
-  },
-  {
-    "title": "Show HN: MLConsole – web app to train ML models, for free and client-side",
-    "url": "https://mlconsole.com",
-    "upvotes": 41,
-    "author": "halflings",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29716738"
   },
   {
     "title": "Perry-Castañeda Library Map Collection",
@@ -200,39 +208,31 @@
     "url": "https://www.miketheman.net/2021/12/28/container-to-container-communication/",
     "upvotes": 50,
     "author": "miketheman",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=29716833"
   },
   {
     "title": "Down the Rabbit Hole: The world of estranged parents' forums",
     "url": "http://www.issendai.com/psychology/estrangement/index.html",
-    "upvotes": 180,
+    "upvotes": 184,
     "author": "jasonhansel",
-    "comments": 113,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=29717182"
-  },
-  {
-    "title": "Tech Won’t Save Us. Shrinking Consumption Will",
-    "url": "https://thetyee.ca/Analysis/2021/11/03/Tech-Will-Not-Save-Us-Shrinking-Consumption-Will/",
-    "upvotes": 131,
-    "author": "gennarro",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=29720260"
   },
   {
     "title": "GnuPG used to ask for your support to help protect online privacy",
     "url": "https://gnupg.org/donate/index.html",
-    "upvotes": 220,
+    "upvotes": 221,
     "author": "elvis70",
-    "comments": 123,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=29714752"
   },
   {
-    "title": "Experimenting with brain-computer interfaces in JavaScript",
-    "url": "https://medium.com/@devdevcharlie/experimenting-with-brain-computer-interfaces-in-javascript-8d6cb891fda8",
-    "upvotes": 45,
-    "author": "cpeterso",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=29704408"
+    "title": "Tech Won’t Save Us. Shrinking Consumption Will",
+    "url": "https://thetyee.ca/Analysis/2021/11/03/Tech-Will-Not-Save-Us-Shrinking-Consumption-Will/",
+    "upvotes": 135,
+    "author": "gennarro",
+    "comments": 109,
+    "link": "https://news.ycombinator.com/item?id=29720260"
   }
 ]
