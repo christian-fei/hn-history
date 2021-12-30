@@ -1,135 +1,191 @@
 [
   {
-    "title": "FAA investigating controversial crash video",
-    "url": "https://www.avweb.com/aviation-news/plane-crash-video-sparks-online-backlash/",
-    "upvotes": 310,
-    "author": "nostromo",
-    "comments": 233,
-    "link": "https://news.ycombinator.com/item?id=29729307"
-  },
-  {
     "title": "Experimental depression treatment is nearly 80% effective in controlled study",
     "url": "https://med.stanford.edu/news/all-news/2021/10/depression-treatment.html",
-    "upvotes": 32,
+    "upvotes": 59,
     "author": "carabiner",
-    "comments": 14,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=29732090"
+  },
+  {
+    "title": "FAA investigating controversial crash video",
+    "url": "https://www.avweb.com/aviation-news/plane-crash-video-sparks-online-backlash/",
+    "upvotes": 327,
+    "author": "nostromo",
+    "comments": 251,
+    "link": "https://news.ycombinator.com/item?id=29729307"
   },
   {
     "title": "You can't copy code with memcpy",
     "url": "https://devblogs.microsoft.com/oldnewthing/20211229-00/?p=106061",
-    "upvotes": 105,
+    "upvotes": 126,
     "author": "hyperrail",
-    "comments": 29,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=29729931"
   },
   {
     "title": "Python, unlike C, has the mod operator always return a positive number",
     "url": "https://twitter.com/ID_AA_Carmack/status/1476294133975240712",
-    "upvotes": 113,
+    "upvotes": 118,
     "author": "tosh",
     "comments": 97,
     "link": "https://news.ycombinator.com/item?id=29729890"
   },
   {
+    "title": "Databases in 2021: A Year in Review",
+    "url": "https://ottertune.com/blog/2021-databases-retrospective/",
+    "upvotes": 46,
+    "author": "jameslao",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29731885"
+  },
+  {
     "title": "Implant.ARM.iLOBleed.a",
     "url": "https://threats.amnpardaz.com/en/2021/12/28/implant-arm-ilobleed-a/",
-    "upvotes": 41,
+    "upvotes": 50,
     "author": "todsacerdoti",
-    "comments": 10,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=29731297"
   },
   {
     "title": "Emfy: Emacs for You – Quickly set up vanilla Emacs for editing",
     "url": "https://github.com/susam/emfy",
-    "upvotes": 349,
+    "upvotes": 357,
     "author": "todsacerdoti",
-    "comments": 129,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=29726398"
   },
   {
-    "title": "Databases in 2021: A Year in Review",
-    "url": "https://ottertune.com/blog/2021-databases-retrospective/",
-    "upvotes": 29,
-    "author": "jameslao",
+    "title": "Salt water lamp WaterLight set to power communities without electricity",
+    "url": "https://www.designweek.co.uk/issues/12-18-april-2021/waterlight/",
+    "upvotes": 5,
+    "author": "zakokor",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29731885"
+    "link": "https://news.ycombinator.com/item?id=29732767"
   },
   {
     "title": "Tetr.io",
     "url": "https://tetr.io/",
-    "upvotes": 191,
+    "upvotes": 198,
     "author": "trms",
-    "comments": 78,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=29728892"
   },
   {
     "title": "Show HN: Voiceliner – Capture structured braindumps on the go",
     "url": "https://a9.io/voiceliner/",
-    "upvotes": 185,
+    "upvotes": 192,
     "author": "maxkrieger",
-    "comments": 63,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=29726787"
   },
   {
     "title": "You Can't Win",
     "url": "https://kylepoyar.substack.com/p/you-cant-win",
-    "upvotes": 55,
+    "upvotes": 59,
     "author": "enigmatic02",
-    "comments": 20,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=29730482"
-  },
-  {
-    "title": "Go CheckLocks Analyzer",
-    "url": "https://github.com/google/gvisor/tree/master/tools/checklocks",
-    "upvotes": 34,
-    "author": "lima",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29730282"
   },
   {
     "title": "Report to Congress: Robocalls and Transmission of Misleading Caller ID",
     "url": "https://www.fcc.gov/document/fcc-submits-traced-act-annual-report-2021-congress",
-    "upvotes": 134,
+    "upvotes": 138,
     "author": "infodocket",
     "comments": 86,
     "link": "https://news.ycombinator.com/item?id=29726417"
+  },
+  {
+    "title": "Go CheckLocks Analyzer",
+    "url": "https://github.com/google/gvisor/tree/master/tools/checklocks",
+    "upvotes": 38,
+    "author": "lima",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29730282"
   },
   {
     "title": "Underground Cellar",
     "url": "https://jobs.lever.co/undergroundcellar/562bd3f4-2b93-44d2-ac57-764cf5a614c5"
   },
   {
-    "title": "Show HN: I learnt how to use WebSockets, made something beautiful/terrible",
-    "url": "https://www.walloftext.art/",
-    "upvotes": 91,
-    "author": "g105b",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=29729335"
-  },
-  {
     "title": "Game engines as an art form",
     "url": "https://medium.com/@hajimehoshi/game-engines-as-an-art-form-f66c835c0a92",
-    "upvotes": 108,
+    "upvotes": 116,
     "author": "hajimehoshi",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=29712457"
   },
   {
+    "title": "Show HN: I learnt how to use WebSockets, made something beautiful/terrible",
+    "url": "https://www.walloftext.art/",
+    "upvotes": 97,
+    "author": "g105b",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=29729335"
+  },
+  {
+    "title": "Features of a dream programming language",
+    "url": "https://dev.to/redbar0n/features-of-a-dream-programming-language-cio",
+    "upvotes": 89,
+    "author": "redbar0n",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=29716998"
+  },
+  {
     "title": "Whatever happened to Flickr?",
     "url": "https://www.techspot.com/article/2384-flickr/",
-    "upvotes": 170,
+    "upvotes": 174,
     "author": "alok-g",
-    "comments": 154,
+    "comments": 159,
     "link": "https://news.ycombinator.com/item?id=29700434"
   },
   {
     "title": "VLISP: A Verified Implementation of Scheme",
     "url": "http://mirror.informatimago.com/scheme/repository.readscheme.org/ftp/papers/vlisp-lasc/vlisp.pdf",
-    "upvotes": 55,
+    "upvotes": 61,
     "author": "servytor",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29728783"
+  },
+  {
+    "title": "Louis Wain: An artist who changed how we think about cats",
+    "url": "https://www.bbc.co.uk/news/uk-england-london-59518847",
+    "upvotes": 51,
+    "author": "zeristor",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29711686"
+  },
+  {
+    "title": "Why Web3?",
+    "url": "https://avc.com/2021/12/why-web3/",
+    "upvotes": 173,
+    "author": "simonebrunozzi",
+    "comments": 391,
+    "link": "https://news.ycombinator.com/item?id=29727420"
+  },
+  {
+    "title": "Microsoft buys Xandr, AT&T’s advanced advertising business",
+    "url": "https://www.fiercevideo.com/video/microsoft-buys-xandr-atts-advanced-advertising-business",
+    "upvotes": 122,
+    "author": "PaulHoule",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=29726462"
+  },
+  {
+    "title": "Wargames can help you to learn and practice security concepts through games",
+    "url": "https://overthewire.org/wargames/",
+    "upvotes": 184,
+    "author": "azalemeth",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=29724594"
+  },
+  {
+    "title": "How Secure Boot Works on M1 Series Macs",
+    "url": "https://eclecticlight.co/2021/12/29/how-secure-boot-works-on-m1-series-macs/",
+    "upvotes": 136,
+    "author": "zdw",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=29725123"
   },
   {
     "title": "Crimes of Fashion: Clothes in early modern England",
@@ -140,99 +196,43 @@
     "link": "https://news.ycombinator.com/item?id=29715982"
   },
   {
-    "title": "54% of adults in the United States have prose literacy below the 6th-grade level",
-    "url": "https://en.wikipedia.org/wiki/Literacy_in_the_United_States",
-    "upvotes": 142,
-    "author": "pkrecker",
-    "comments": 145,
-    "link": "https://news.ycombinator.com/item?id=29730872"
-  },
-  {
-    "title": "Why Web3?",
-    "url": "https://avc.com/2021/12/why-web3/",
-    "upvotes": 166,
-    "author": "simonebrunozzi",
-    "comments": 374,
-    "link": "https://news.ycombinator.com/item?id=29727420"
-  },
-  {
-    "title": "Microsoft buys Xandr, AT&T’s advanced advertising business",
-    "url": "https://www.fiercevideo.com/video/microsoft-buys-xandr-atts-advanced-advertising-business",
-    "upvotes": 118,
-    "author": "PaulHoule",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=29726462"
-  },
-  {
-    "title": "Louis Wain: An artist who changed how we think about cats",
-    "url": "https://www.bbc.co.uk/news/uk-england-london-59518847",
-    "upvotes": 50,
-    "author": "zeristor",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29711686"
-  },
-  {
-    "title": "Features of a dream programming language",
-    "url": "https://dev.to/redbar0n/features-of-a-dream-programming-language-cio",
-    "upvotes": 82,
-    "author": "redbar0n",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=29716998"
-  },
-  {
-    "title": "Wargames can help you to learn and practice security concepts through games",
-    "url": "https://overthewire.org/wargames/",
-    "upvotes": 181,
-    "author": "azalemeth",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=29724594"
-  },
-  {
-    "title": "How Secure Boot Works on M1 Series Macs",
-    "url": "https://eclecticlight.co/2021/12/29/how-secure-boot-works-on-m1-series-macs/",
-    "upvotes": 131,
-    "author": "zdw",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=29725123"
+    "title": "Teaching D from Scratch: Is it a viable first language?",
+    "url": "https://dlang.org/blog/2021/12/23/teaching-d-from-scratch-is-it-a-viable-first-language/",
+    "upvotes": 60,
+    "author": "teleforce",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=29711800"
   },
   {
     "title": "The bizarre Monowheel seen through vintage photographs",
     "url": "https://rarehistoricalphotos.com/monowheel-historical-photos/",
-    "upvotes": 40,
+    "upvotes": 41,
     "author": "davesailer",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=29728754"
   },
   {
-    "title": "Teaching D from Scratch: Is it a viable first language?",
-    "url": "https://dlang.org/blog/2021/12/23/teaching-d-from-scratch-is-it-a-viable-first-language/",
-    "upvotes": 54,
-    "author": "teleforce",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=29711800"
-  },
-  {
     "title": "Learn Python ASTs, by building your own linter",
     "url": "https://sadh.life/post/ast/",
-    "upvotes": 159,
+    "upvotes": 164,
     "author": "tusharsadhwani",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29724431"
   },
   {
-    "title": "The Scalar Fallacy",
-    "url": "http://observationalepidemiology.blogspot.com/2011/01/scalar-fallacy.html",
-    "upvotes": 8,
-    "author": "stared",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29701863"
+    "title": "GCC: The customer has nuclear weapons. They do not do “bounty”",
+    "url": "https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95644#c4",
+    "upvotes": 309,
+    "author": "scblzn",
+    "comments": 136,
+    "link": "https://news.ycombinator.com/item?id=29727469"
   },
   {
-    "title": "Tell HN: Canada Posts systems to be down for 6 hours of “unplanned maintenance”",
-    "url": "https://status.canadapost.ca/",
-    "upvotes": 80,
-    "author": "neom",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=29726429"
+    "title": "Three Ways of Generating Terrain with Erosion Features",
+    "url": "https://github.com/dandrino/terrain-erosion-3-ways",
+    "upvotes": 136,
+    "author": "homarp",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=29724597"
   }
 ]
