@@ -2,31 +2,31 @@
   {
     "title": "How Telegram Messenger circumvents Google Translate's API",
     "url": "https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html",
-    "upvotes": 130,
+    "upvotes": 145,
     "author": "decrypt",
-    "comments": 81,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=29746674"
   },
   {
     "title": "Self-Hosting Dozens of Web Applications and Services on a Single Server",
     "url": "https://cprimozic.net/blog/my-selfhosted-websites-architecture/",
-    "upvotes": 127,
+    "upvotes": 148,
     "author": "mattrighetti",
-    "comments": 80,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=29746223"
   },
   {
     "title": "List of companies that had successful pivots",
     "url": "https://github.com/fikrikarim/companies-with-successful-pivot",
-    "upvotes": 75,
+    "upvotes": 86,
     "author": "karimf",
-    "comments": 43,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=29746370"
   },
   {
     "title": "Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster",
     "url": "https://twitter.com/FiloSottile/status/1476698207413493766",
-    "upvotes": 454,
+    "upvotes": 464,
     "author": "tptacek",
     "comments": 121,
     "link": "https://news.ycombinator.com/item?id=29742977"
@@ -34,75 +34,75 @@
   {
     "title": "Is Bluetooth holding back Apple's AirPods? We asked the man who made them",
     "url": "https://www.whathifi.com/features/is-bluetooth-holding-back-apples-airpods-we-asked-the-man-who-made-them",
-    "upvotes": 37,
+    "upvotes": 45,
     "author": "davidbarker",
-    "comments": 20,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=29746402"
   },
   {
     "title": "The Price of Discipline",
     "url": "https://perell.com/essay/the-price-of-discipline/",
-    "upvotes": 38,
+    "upvotes": 48,
     "author": "yamrzou",
-    "comments": 14,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=29746459"
-  },
-  {
-    "title": "You shouldn't parse the output of ls",
-    "url": "https://mywiki.wooledge.org/ParsingLs",
-    "upvotes": 43,
-    "author": "tosh",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=29747034"
   },
   {
     "title": "PortableGL: An implementation of OpenGL 3.x-ish in clean C",
     "url": "https://github.com/rswinkle/PortableGL",
-    "upvotes": 129,
+    "upvotes": 135,
     "author": "kk6mrp",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=29745029"
+  },
+  {
+    "title": "Sciter, the 5 MB Electron alternative, has switched to JavaScript",
+    "url": "https://terrainformatica.com/2021/04/25/sciter-uses-javascript-from-now-and-on/",
+    "upvotes": 269,
+    "author": "BafS",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=29742670"
+  },
+  {
+    "title": "You shouldn't parse the output of ls",
+    "url": "https://mywiki.wooledge.org/ParsingLs",
+    "upvotes": 54,
+    "author": "tosh",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=29747034"
   },
   {
     "title": "Sirum Is Hiring Experienced Developers in Atlanta",
     "url": "item?id=29747232"
   },
   {
-    "title": "Sciter, the 5 MB Electron alternative, has switched to JavaScript",
-    "url": "https://terrainformatica.com/2021/04/25/sciter-uses-javascript-from-now-and-on/",
-    "upvotes": 266,
-    "author": "BafS",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=29742670"
+    "title": "Happy New Year HN! What are your plans for the new year?",
+    "url": "item?id=29746344",
+    "upvotes": 73,
+    "author": "MasterYoda",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=29746344"
   },
   {
     "title": "Why is my Rust build so slow?",
     "url": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow",
-    "upvotes": 209,
+    "upvotes": 214,
     "author": "jacobwg",
-    "comments": 114,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=29742694"
-  },
-  {
-    "title": "Happy New Year HN! What are your plans for the new year?",
-    "url": "item?id=29746344",
-    "upvotes": 63,
-    "author": "MasterYoda",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=29746344"
   },
   {
     "title": "Recovering a PostgreSQL database after a hard drive failure",
     "url": "https://sambhav.saggis.com/en/blog/recovering-postgresql-hard-drive-fail",
-    "upvotes": 67,
+    "upvotes": 69,
     "author": "smbv",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29744815"
   },
   {
     "title": "MicroWeb DOS web browser – for 8088 systems",
     "url": "https://github.com/jhhoward/MicroWeb",
-    "upvotes": 65,
+    "upvotes": 70,
     "author": "bane",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29744405"
@@ -110,49 +110,57 @@
   {
     "title": "Eurorack CPU",
     "url": "https://github.com/katef/eurorack-cpu",
-    "upvotes": 98,
+    "upvotes": 104,
     "author": "hasheddan",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29743704"
+  },
+  {
+    "title": "iPhone camera app replaces person’s head with a leaf in photo",
+    "url": "https://twitter.com/mitchcohen/status/1476351601862483968",
+    "upvotes": 654,
+    "author": "davidbarker",
+    "comments": 384,
+    "link": "https://news.ycombinator.com/item?id=29739235"
   },
   {
     "title": "Music Library and MusicBrainz Picard",
     "url": "https://homehack.nl/your-music-library-and-musicbrainz-picard/",
-    "upvotes": 94,
+    "upvotes": 96,
     "author": "app4soft",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=29735626"
   },
   {
-    "title": "iPhone camera app replaces person’s head with a leaf in photo",
-    "url": "https://twitter.com/mitchcohen/status/1476351601862483968",
-    "upvotes": 644,
-    "author": "davidbarker",
-    "comments": 381,
-    "link": "https://news.ycombinator.com/item?id=29739235"
-  },
-  {
-    "title": "Reporter likely to be charged for using “view source” feature on web browser",
-    "url": "https://boingboing.net/2021/12/30/reporter-likely-to-be-charged-for-using-view-source-feature-on-web-browser.html",
-    "upvotes": 132,
-    "author": "denysvitali",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=29745960"
+    "title": "Some sanity for C and C++ development on Windows",
+    "url": "https://nullprogram.com/blog/2021/12/30/",
+    "upvotes": 4,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29747141"
   },
   {
     "title": "A project to bring back the northern white rhino from the edge of extinction",
     "url": "https://www.slow-journalism.com/from-the-archive/saving-the-northern-white-rhino",
-    "upvotes": 44,
+    "upvotes": 47,
     "author": "merrier",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=29741701"
+  },
+  {
+    "title": "Reporter likely to be charged for using “view source” feature on web browser",
+    "url": "https://boingboing.net/2021/12/30/reporter-likely-to-be-charged-for-using-view-source-feature-on-web-browser.html",
+    "upvotes": 146,
+    "author": "denysvitali",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=29745960"
   },
   {
     "title": "NPS doesn’t say anything particularly useful",
     "url": "https://cranberryblog.substack.com/p/lets-stop-using-nps",
-    "upvotes": 92,
+    "upvotes": 96,
     "author": "boraginaceae",
-    "comments": 68,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=29743114"
   },
   {
@@ -166,73 +174,65 @@
   {
     "title": "Systems, Mistakes, and the Sea",
     "url": "https://www.robinrendle.com/essays/systems-mistakes-and-the-sea/",
-    "upvotes": 13,
+    "upvotes": 15,
     "author": "motform",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29745937"
   },
   {
+    "title": "Improving the quality of publicly trusted intermediate CA certificates",
+    "url": "https://blog.mozilla.org/security/2021/12/09/improved-quality-of-intermediate-certificates-with-enhanced-oversight-and-automation/",
+    "upvotes": 80,
+    "author": "floatingatoll",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=29742714"
+  },
+  {
     "title": "macOS Setup after 15 Years of Linux",
     "url": "https://hookrace.net/blog/macos-setup/",
-    "upvotes": 303,
+    "upvotes": 307,
     "author": "def-",
-    "comments": 294,
+    "comments": 299,
     "link": "https://news.ycombinator.com/item?id=29742551"
   },
   {
-    "title": "Improving the quality of publicly trusted intermediate CA certificates",
-    "url": "https://blog.mozilla.org/security/2021/12/09/improved-quality-of-intermediate-certificates-with-enhanced-oversight-and-automation/",
-    "upvotes": 78,
-    "author": "floatingatoll",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=29742714"
+    "title": "Web3/Crypto: Why Bother?",
+    "url": "https://continuations.com/post/671863718643105792/web3crypto-why-bother",
+    "upvotes": 123,
+    "author": "fandorin",
+    "comments": 160,
+    "link": "https://news.ycombinator.com/item?id=29746046"
   },
   {
     "title": "Counterfactual Theory of Value",
     "url": "https://perell.com/note/the-counterfactual-theory-of-value/",
-    "upvotes": 30,
+    "upvotes": 32,
     "author": "enigmatic02",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=29744735"
   },
   {
     "title": "Hospitals still not fully complying with federal price-disclosure rules",
     "url": "https://www.wsj.com/articles/hospital-price-public-biden-11640882507",
-    "upvotes": 252,
+    "upvotes": 258,
     "author": "arwhatever",
-    "comments": 160,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=29743785"
   },
   {
     "title": "The gift of it's your problem now",
     "url": "https://apenwarr.ca/log/20211229",
-    "upvotes": 662,
+    "upvotes": 667,
     "author": "Tomte",
-    "comments": 245,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=29736369"
   },
   {
     "title": "Adult Literacy in the United States",
     "url": "https://nces.ed.gov/pubs2019/2019179/index.asp",
-    "upvotes": 38,
+    "upvotes": 42,
     "author": "dredmorbius",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=29734146"
-  },
-  {
-    "title": "Web3/Crypto: Why Bother?",
-    "url": "https://continuations.com/post/671863718643105792/web3crypto-why-bother",
-    "upvotes": 113,
-    "author": "fandorin",
-    "comments": 151,
-    "link": "https://news.ycombinator.com/item?id=29746046"
-  },
-  {
-    "title": "Boston Dynamics’ Stretch robot can move 800 heavy boxes per hour",
-    "url": "https://spectrum.ieee.org/warehouse-robot",
-    "upvotes": 247,
-    "author": "pseudolus",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=29724001"
   }
 ]
