@@ -1,180 +1,220 @@
 [
   {
+    "title": "Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster",
+    "url": "https://twitter.com/FiloSottile/status/1476698207413493766",
+    "upvotes": 89,
+    "author": "tptacek",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=29742977"
+  },
+  {
+    "title": "New Malware Uses SSD Over-Provisioning to Bypass Security Measures",
+    "url": "https://www.tomshardware.com/news/ssd-over-provisioning-vulnerability",
+    "upvotes": 40,
+    "author": "chris_overseas",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29742419"
+  },
+  {
     "title": "iPhone camera app replaces person’s head with a leaf in photo",
     "url": "https://twitter.com/mitchcohen/status/1476351601862483968",
-    "upvotes": 171,
+    "upvotes": 237,
     "author": "davidbarker",
-    "comments": 88,
+    "comments": 161,
     "link": "https://news.ycombinator.com/item?id=29739235"
+  },
+  {
+    "title": "macOS Setup after 15 Years of Linux",
+    "url": "https://hookrace.net/blog/macos-setup/",
+    "upvotes": 44,
+    "author": "def-",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=29742551"
   },
   {
     "title": "Boston Dynamics’ Stretch robot can move 800 heavy boxes per hour",
     "url": "https://spectrum.ieee.org/warehouse-robot",
-    "upvotes": 107,
+    "upvotes": 128,
     "author": "pseudolus",
-    "comments": 64,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=29724001"
   },
   {
     "title": "The gift of it's your problem now",
     "url": "https://apenwarr.ca/log/20211229",
-    "upvotes": 428,
+    "upvotes": 462,
     "author": "Tomte",
-    "comments": 141,
+    "comments": 161,
     "link": "https://news.ycombinator.com/item?id=29736369"
   },
   {
-    "title": "New Malware Uses SSD Over-Provisioning to Bypass Security Measures",
-    "url": "https://www.tomshardware.com/news/ssd-over-provisioning-vulnerability",
-    "upvotes": 12,
-    "author": "chris_overseas",
+    "title": "Improving the quality of publicly trusted intermediate CA certificates",
+    "url": "https://blog.mozilla.org/security/2021/12/09/improved-quality-of-intermediate-certificates-with-enhanced-oversight-and-automation/",
+    "upvotes": 20,
+    "author": "floatingatoll",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29742419"
+    "link": "https://news.ycombinator.com/item?id=29742714"
   },
   {
     "title": "Big data may not know your name, but it knows everything else",
     "url": "https://www.wired.com/story/big-data-may-not-know-your-name-but-it-knows-everything-else/",
-    "upvotes": 30,
+    "upvotes": 52,
     "author": "nemoniac",
-    "comments": 39,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=29735187"
   },
   {
-    "title": "Will Citroen manage to re-invent the wheel?",
-    "url": "https://medium.com/@tkdynation/will-citroen-manage-to-reinvent-the-wheel-b74a07c056ce",
-    "upvotes": 54,
-    "author": "simonebrunozzi",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=29724304"
+    "title": "The Science of Visual Data Communication: What Works",
+    "url": "https://journals.sagepub.com/doi/10.1177/15291006211051956",
+    "upvotes": 34,
+    "author": "jordiw",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29742125"
   },
   {
-    "title": "Tesla recalls nearly half a million Model 3 and Model S cars",
-    "url": "https://www.theverge.com/2021/12/30/22859717/tesla-model-3-s-recall-trunk-latch-failure-nhtsa",
-    "upvotes": 121,
-    "author": "turtlegrids",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=29741424"
-  },
-  {
-    "title": "How often people copy and paste from Stack Overflow",
-    "url": "https://stackoverflow.blog/2021/12/30/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/",
-    "upvotes": 31,
-    "author": "JadoJodo",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=29737955"
-  },
-  {
-    "title": "SQL language proposal: JOIN FOREIGN",
-    "url": "https://gist.github.com/joelonsql/15b50b65ec343dce94db6249cfea8aaa",
-    "upvotes": 146,
-    "author": "JoelJacobson",
-    "comments": 144,
-    "link": "https://news.ycombinator.com/item?id=29739147"
+    "title": "Consuming Articles Offline",
+    "url": "http://blog.nawaz.org/posts/2021/Dec/consuming-articles-offline/",
+    "upvotes": 29,
+    "author": "BeetleB",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=29739940"
   },
   {
     "title": "An mRNA-based anti-tick vaccine",
     "url": "https://www.science.org/doi/10.1126/scitranslmed.abm2504",
-    "upvotes": 178,
+    "upvotes": 201,
     "author": "chapulin",
-    "comments": 46,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=29739349"
+  },
+  {
+    "title": "SQL language proposal: JOIN FOREIGN",
+    "url": "https://gist.github.com/joelonsql/15b50b65ec343dce94db6249cfea8aaa",
+    "upvotes": 156,
+    "author": "JoelJacobson",
+    "comments": 151,
+    "link": "https://news.ycombinator.com/item?id=29739147"
   },
   {
     "title": "Skio",
     "url": "https://skio.com/careers"
   },
   {
-    "title": "Consuming Articles Offline",
-    "url": "http://blog.nawaz.org/posts/2021/Dec/consuming-articles-offline/",
-    "upvotes": 20,
-    "author": "BeetleB",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29739940"
+    "title": "Will Citroen manage to re-invent the wheel?",
+    "url": "https://medium.com/@tkdynation/will-citroen-manage-to-reinvent-the-wheel-b74a07c056ce",
+    "upvotes": 63,
+    "author": "simonebrunozzi",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=29724304"
   },
   {
-    "title": "Copy Protection in Modern Microcontrollers",
-    "url": "https://www.cl.cam.ac.uk/~sps32/mcu_lock.html",
-    "upvotes": 20,
-    "author": "csh0",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29741481"
-  },
-  {
-    "title": "The Science of Visual Data Communication: What Works",
-    "url": "https://journals.sagepub.com/doi/10.1177/15291006211051956",
-    "upvotes": 17,
-    "author": "jordiw",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29742125"
+    "title": "Peter Thiel hires disgraced ex-Austrian chancellor Sebastian Kurz",
+    "url": "https://nypost.com/2021/12/30/peter-thiel-hires-disgraced-ex-austrian-chancellor-sebastian-kurz/",
+    "upvotes": 38,
+    "author": "malermeister",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29742682"
   },
   {
     "title": "Show HN: Pystitcher – A Declarative Alternative to Pdftk",
     "url": "https://github.com/captn3m0/pystitcher",
-    "upvotes": 70,
+    "upvotes": 79,
     "author": "captn3m0",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=29738723"
   },
   {
-    "title": "macOS Setup after 15 Years of Linux",
-    "url": "https://hookrace.net/blog/macos-setup/",
-    "upvotes": 5,
-    "author": "def-",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29742551"
+    "title": "Copy Protection in Modern Microcontrollers",
+    "url": "https://www.cl.cam.ac.uk/~sps32/mcu_lock.html",
+    "upvotes": 24,
+    "author": "csh0",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29741481"
+  },
+  {
+    "title": "The Graphical User Interface – 1945 to 1980",
+    "url": "https://lunduke.substack.com/p/the-history-of-the-graphical-user",
+    "upvotes": 12,
+    "author": "WoodenChair",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29735387"
   },
   {
     "title": "On Emacs 28’ context menu and Unix mouse-usage in general",
     "url": "https://ruzkuku.com/texts/emacs-mouse.html",
-    "upvotes": 174,
+    "upvotes": 175,
     "author": "pcr910303",
-    "comments": 126,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=29736366"
-  },
-  {
-    "title": "Improving the quality of publicly trusted intermediate CA certificates",
-    "url": "https://blog.mozilla.org/security/2021/12/09/improved-quality-of-intermediate-certificates-with-enhanced-oversight-and-automation/",
-    "upvotes": 3,
-    "author": "floatingatoll",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29742714"
   },
   {
     "title": "Germany: Data retention to be abolished",
     "url": "https://tutanota.com/blog/posts/data-retention-germany/",
-    "upvotes": 179,
+    "upvotes": 194,
     "author": "seesawtron",
-    "comments": 67,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=29738437"
   },
   {
-    "title": "How Sber Built ruDALL-E",
-    "url": "https://serokell.io/blog/how-sber-built-rudall-e",
-    "upvotes": 47,
-    "author": "aroccoli",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=29729403"
+    "title": "How often people copy and paste from Stack Overflow",
+    "url": "https://stackoverflow.blog/2021/12/30/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/",
+    "upvotes": 37,
+    "author": "JadoJodo",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=29737955"
   },
   {
     "title": "How did LastPass master passwords get compromised?",
     "url": "https://palant.info/2021/12/29/how-did-lastpass-master-passwords-get-compromised/",
-    "upvotes": 245,
+    "upvotes": 256,
     "author": "bmichel",
-    "comments": 156,
+    "comments": 166,
     "link": "https://news.ycombinator.com/item?id=29735132"
+  },
+  {
+    "title": "How Sber Built ruDALL-E",
+    "url": "https://serokell.io/blog/how-sber-built-rudall-e",
+    "upvotes": 55,
+    "author": "aroccoli",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29729403"
+  },
+  {
+    "title": "“Let's stop using NPS”",
+    "url": "https://cranberryblog.substack.com/p/lets-stop-using-nps",
+    "upvotes": 5,
+    "author": "boraginaceae",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29743114"
+  },
+  {
+    "title": "Tesla recalls nearly half a million Model 3 and Model S cars",
+    "url": "https://www.theverge.com/2021/12/30/22859717/tesla-model-3-s-recall-trunk-latch-failure-nhtsa",
+    "upvotes": 146,
+    "author": "turtlegrids",
+    "comments": 156,
+    "link": "https://news.ycombinator.com/item?id=29741424"
+  },
+  {
+    "title": "Vector Supercomputers",
+    "url": "https://www.tfeb.org/fragments/2021/12/30/vector-supercomputers/",
+    "upvotes": 9,
+    "author": "Tomte",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29736354"
   },
   {
     "title": "Why can’t you design noise in frequency space?",
     "url": "https://blog.demofox.org/2021/12/29/why-cant-you-design-noise-in-frequency-space/",
-    "upvotes": 142,
+    "upvotes": 147,
     "author": "ingve",
-    "comments": 70,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=29736208"
   },
   {
     "title": "Papers We Love",
     "url": "https://paperswelove.org/",
-    "upvotes": 202,
+    "upvotes": 212,
     "author": "wallflower",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=29690327"
@@ -182,57 +222,17 @@
   {
     "title": "Table Oriented Programming",
     "url": "https://web.archive.org/web/20121024051826/http://www.geocities.com/tablizer/top.htm",
-    "upvotes": 101,
+    "upvotes": 109,
     "author": "mabynogy",
-    "comments": 65,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=29735298"
   },
   {
     "title": "The curious history of the clothespeg",
     "url": "https://medium.economist.com/the-curious-history-of-the-clothespeg-3f8615519c61?gi=5c6e0f307927",
-    "upvotes": 8,
+    "upvotes": 12,
     "author": "mindingnever",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29741661"
-  },
-  {
-    "title": "Is It Time for the JavaScript Temporal API?",
-    "url": "https://blog.openreplay.com/is-it-time-for-the-javascript-temporal-api/",
-    "upvotes": 136,
-    "author": "ceeb",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=29712118"
-  },
-  {
-    "title": "Sega Europe suffers major security breach",
-    "url": "https://vpnoverview.com/news/sega-europe-suffers-major-security-breach/",
-    "upvotes": 171,
-    "author": "aaronwp",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=29738371"
-  },
-  {
-    "title": "Electronic warfare history of the Battle of the Bulge",
-    "url": "https://twitter.com/TrentTelenko/status/1475994609549557761",
-    "upvotes": 65,
-    "author": "aaronsdevera",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=29729298"
-  },
-  {
-    "title": "Trials in Renovation",
-    "url": "https://www.lyingfour.com/conversations-blog/2021/2/5/voices-trials-in-renovation",
-    "upvotes": 5,
-    "author": "ohaikbai",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29729998"
-  },
-  {
-    "title": "Vector Supercomputers",
-    "url": "https://www.tfeb.org/fragments/2021/12/30/vector-supercomputers/",
-    "upvotes": 5,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29736354"
   }
 ]
