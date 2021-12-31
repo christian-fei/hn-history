@@ -2,82 +2,114 @@
   {
     "title": "Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster",
     "url": "https://twitter.com/FiloSottile/status/1476698207413493766",
-    "upvotes": 361,
+    "upvotes": 374,
     "author": "tptacek",
-    "comments": 111,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=29742977"
   },
   {
     "title": "PortableGL: An implementation of OpenGL 3.x-ish in clean C",
     "url": "https://github.com/rswinkle/PortableGL",
-    "upvotes": 75,
+    "upvotes": 80,
     "author": "kk6mrp",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29745029"
   },
   {
     "title": "iPhone camera app replaces person’s head with a leaf in photo",
     "url": "https://twitter.com/mitchcohen/status/1476351601862483968",
-    "upvotes": 549,
+    "upvotes": 569,
     "author": "davidbarker",
-    "comments": 349,
+    "comments": 353,
     "link": "https://news.ycombinator.com/item?id=29739235"
   },
   {
     "title": "Sciter, the 5 MB Electron alternative, has switched to JavaScript",
     "url": "https://terrainformatica.com/2021/04/25/sciter-uses-javascript-from-now-and-on/",
-    "upvotes": 180,
+    "upvotes": 195,
     "author": "BafS",
-    "comments": 61,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=29742670"
   },
   {
     "title": "Why is my Rust build so slow?",
     "url": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow",
-    "upvotes": 111,
+    "upvotes": 125,
     "author": "jacobwg",
-    "comments": 40,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=29742694"
   },
   {
     "title": "Recovering a PostgreSQL database after a hard drive failure",
     "url": "https://sambhav.saggis.com/en/blog/recovering-postgresql-hard-drive-fail",
-    "upvotes": 34,
+    "upvotes": 35,
     "author": "smbv",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29744815"
   },
   {
+    "title": "MicroWeb DOS web browser – for 8088 systems",
+    "url": "https://github.com/jhhoward/MicroWeb",
+    "upvotes": 33,
+    "author": "bane",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29744405"
+  },
+  {
+    "title": "Boston Dynamics’ Stretch robot can move 800 heavy boxes per hour",
+    "url": "https://spectrum.ieee.org/warehouse-robot",
+    "upvotes": 220,
+    "author": "pseudolus",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=29724001"
+  },
+  {
     "title": "macOS Setup after 15 Years of Linux",
     "url": "https://hookrace.net/blog/macos-setup/",
-    "upvotes": 252,
+    "upvotes": 259,
     "author": "def-",
-    "comments": 216,
+    "comments": 228,
     "link": "https://news.ycombinator.com/item?id=29742551"
   },
   {
     "title": "Music Library and MusicBrainz Picard",
     "url": "https://homehack.nl/your-music-library-and-musicbrainz-picard/",
-    "upvotes": 73,
+    "upvotes": 74,
     "author": "app4soft",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=29735626"
   },
   {
-    "title": "Boston Dynamics’ Stretch robot can move 800 heavy boxes per hour",
-    "url": "https://spectrum.ieee.org/warehouse-robot",
-    "upvotes": 214,
-    "author": "pseudolus",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=29724001"
+    "title": "Web3/Crypto: Why Bother?",
+    "url": "https://continuations.com/post/671863718643105792/web3crypto-why-bother",
+    "upvotes": 6,
+    "author": "fandorin",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29746046"
   },
   {
-    "title": "MicroWeb DOS web browser – for 8088 systems",
-    "url": "https://github.com/jhhoward/MicroWeb",
-    "upvotes": 28,
-    "author": "bane",
+    "title": "Big data may not know your name, but it knows everything else",
+    "url": "https://www.wired.com/story/big-data-may-not-know-your-name-but-it-knows-everything-else/",
+    "upvotes": 141,
+    "author": "nemoniac",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=29735187"
+  },
+  {
+    "title": "A project to bring back the northern white rhino from the edge of extinction",
+    "url": "https://www.slow-journalism.com/from-the-archive/saving-the-northern-white-rhino",
+    "upvotes": 23,
+    "author": "merrier",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29744405"
+    "link": "https://news.ycombinator.com/item?id=29741701"
+  },
+  {
+    "title": "NPS doesn’t say anything particularly useful",
+    "url": "https://cranberryblog.substack.com/p/lets-stop-using-nps",
+    "upvotes": 74,
+    "author": "boraginaceae",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=29743114"
   },
   {
     "title": "Systems, Mistakes, and the Sea",
@@ -88,83 +120,59 @@
     "link": "https://news.ycombinator.com/item?id=29745937"
   },
   {
-    "title": "Big data may not know your name, but it knows everything else",
-    "url": "https://www.wired.com/story/big-data-may-not-know-your-name-but-it-knows-everything-else/",
-    "upvotes": 136,
-    "author": "nemoniac",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=29735187"
-  },
-  {
-    "title": "The APA No Longer Represents Good Science or Clinical Practice",
-    "url": "https://medium.com/@cjfergus/the-american-psychological-association-no-longer-represents-good-science-or-clinical-practice-an-9fb967cab106",
-    "upvotes": 12,
-    "author": "mpweiher",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29745958"
-  },
-  {
-    "title": "NPS doesn’t say anything particularly useful",
-    "url": "https://cranberryblog.substack.com/p/lets-stop-using-nps",
-    "upvotes": 73,
-    "author": "boraginaceae",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=29743114"
-  },
-  {
-    "title": "A project to bring back the northern white rhino from the edge of extinction",
-    "url": "https://www.slow-journalism.com/from-the-archive/saving-the-northern-white-rhino",
-    "upvotes": 18,
-    "author": "merrier",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29741701"
+    "title": "The Science of Visual Data Communication: What Works",
+    "url": "https://journals.sagepub.com/doi/10.1177/15291006211051956",
+    "upvotes": 91,
+    "author": "jordiw",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=29742125"
   },
   {
     "title": "Improving the quality of publicly trusted intermediate CA certificates",
     "url": "https://blog.mozilla.org/security/2021/12/09/improved-quality-of-intermediate-certificates-with-enhanced-oversight-and-automation/",
-    "upvotes": 68,
+    "upvotes": 69,
     "author": "floatingatoll",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29742714"
   },
   {
-    "title": "The Science of Visual Data Communication: What Works",
-    "url": "https://journals.sagepub.com/doi/10.1177/15291006211051956",
-    "upvotes": 89,
-    "author": "jordiw",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29742125"
+    "title": "Hospitals still not fully complying with federal price-disclosure rules",
+    "url": "https://www.wsj.com/articles/hospital-price-public-biden-11640882507",
+    "upvotes": 208,
+    "author": "arwhatever",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=29743785"
+  },
+  {
+    "title": "Eurorack CPU",
+    "url": "https://github.com/katef/eurorack-cpu",
+    "upvotes": 39,
+    "author": "hasheddan",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29743704"
   },
   {
     "title": "The Mechanical King",
     "url": "https://www.strangeloopcanon.com/p/the-mechanical-king",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "ascertain",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29741867"
-  },
-  {
-    "title": "Hospitals still not fully complying with federal price-disclosure rules",
-    "url": "https://www.wsj.com/articles/hospital-price-public-biden-11640882507",
-    "upvotes": 200,
-    "author": "arwhatever",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=29743785"
   },
   {
     "title": "C++ Modules Might Be Dead-on-Arrival",
     "url": "https://vector-of-bool.github.io/2019/01/27/modules-doa.html",
     "upvotes": 38,
     "author": "harporoeder",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=29745331"
   },
   {
     "title": "Counterfactual Theory of Value",
     "url": "https://perell.com/note/the-counterfactual-theory-of-value/",
-    "upvotes": 11,
+    "upvotes": 12,
     "author": "enigmatic02",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29744735"
   },
   {
@@ -172,32 +180,32 @@
     "url": "https://nces.ed.gov/pubs2019/2019179/index.asp",
     "upvotes": 24,
     "author": "dredmorbius",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=29734146"
-  },
-  {
-    "title": "Eurorack CPU",
-    "url": "https://github.com/katef/eurorack-cpu",
-    "upvotes": 31,
-    "author": "hasheddan",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29743704"
   },
   {
     "title": "T-Mobile Actively Censoring Certain URLs [video]",
     "url": "https://www.youtube.com/watch?v=U-HE6_F3tMg",
-    "upvotes": 133,
+    "upvotes": 139,
     "author": "Acrobatic_Road",
-    "comments": 86,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=29744347"
   },
   {
     "title": "The gift of it's your problem now",
     "url": "https://apenwarr.ca/log/20211229",
-    "upvotes": 617,
+    "upvotes": 619,
     "author": "Tomte",
-    "comments": 236,
+    "comments": 237,
     "link": "https://news.ycombinator.com/item?id=29736369"
+  },
+  {
+    "title": "An mRNA-based anti-tick vaccine",
+    "url": "https://www.science.org/doi/10.1126/scitranslmed.abm2504",
+    "upvotes": 279,
+    "author": "chapulin",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=29739349"
   },
   {
     "title": "Atlas of Poetic Zoology",
@@ -208,31 +216,23 @@
     "link": "https://news.ycombinator.com/item?id=29741581"
   },
   {
-    "title": "Skio",
-    "url": "https://skio.com/careers"
-  },
-  {
-    "title": "An mRNA-based anti-tick vaccine",
-    "url": "https://www.science.org/doi/10.1126/scitranslmed.abm2504",
-    "upvotes": 276,
-    "author": "chapulin",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=29739349"
-  },
-  {
     "title": "Show HN: Pystitcher – A Declarative Alternative to Pdftk",
     "url": "https://github.com/captn3m0/pystitcher",
-    "upvotes": 99,
+    "upvotes": 100,
     "author": "captn3m0",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=29738723"
   },
   {
+    "title": "Skio",
+    "url": "https://skio.com/careers"
+  },
+  {
     "title": "Consuming Articles Offline",
     "url": "http://blog.nawaz.org/posts/2021/Dec/consuming-articles-offline/",
-    "upvotes": 58,
+    "upvotes": 60,
     "author": "BeetleB",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=29739940"
   }
 ]
