@@ -1,16 +1,24 @@
 [
   {
+    "title": "Speeding up Dijkstra by a factor of 2700",
+    "url": "https://blog.siraben.dev/2021/12/28/aoc-speedup.html",
+    "upvotes": 16,
+    "author": "siraben",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29757176"
+  },
+  {
     "title": "A Guide to Twitter",
     "url": "https://tasshin.com/blog/a-guide-to-twitter/",
-    "upvotes": 71,
+    "upvotes": 87,
     "author": "mwfogleman",
-    "comments": 29,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=29752379"
   },
   {
     "title": "Finding your home in game graphics programming",
     "url": "http://alextardif.com/LearningGraphics.html",
-    "upvotes": 142,
+    "upvotes": 156,
     "author": "poga",
     "comments": 62,
     "link": "https://news.ycombinator.com/item?id=29755242"
@@ -18,175 +26,199 @@
   {
     "title": "Writing New System Software",
     "url": "https://borud.no/notes/2021/system-software/",
-    "upvotes": 32,
+    "upvotes": 47,
     "author": "mrry",
-    "comments": 21,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=29754868"
-  },
-  {
-    "title": "Winnie the Pooh to Enter the Public Domain in 2022",
-    "url": "https://comicbook.com/movies/news/winnie-the-pooh-enter-public-domain-2022/",
-    "upvotes": 82,
-    "author": "gscott",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=29755603"
-  },
-  {
-    "title": "My progress in porting Wine",
-    "url": "https://discuss.haiku-os.org/t/my-progress-in-porting-wine/11741",
-    "upvotes": 259,
-    "author": "smallstepforman",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=29753069"
-  },
-  {
-    "title": "Building Generative Glitch Art Tools",
-    "url": "https://adamfuhrer.com/building-generative-glitch-art-tools",
-    "upvotes": 7,
-    "author": "picdit",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29750529"
   },
   {
     "title": "Intellectual Loneliness",
     "url": "https://perell.com/note/intellectual-loneliness/",
-    "upvotes": 218,
+    "upvotes": 226,
     "author": "enigmatic02",
-    "comments": 202,
+    "comments": 215,
     "link": "https://news.ycombinator.com/item?id=29754072"
+  },
+  {
+    "title": "My progress in porting Wine",
+    "url": "https://discuss.haiku-os.org/t/my-progress-in-porting-wine/11741",
+    "upvotes": 264,
+    "author": "smallstepforman",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=29753069"
+  },
+  {
+    "title": "Tokyo: A big city that is also pleasant to live in",
+    "url": "https://www.economist.com/special-report/2021/12/07/the-big-city-that-is-also-pleasant-to-live-in",
+    "upvotes": 60,
+    "author": "brimnes",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=29755772"
+  },
+  {
+    "title": "Digital Unwrapping of the Mummy of King Amenhotep I",
+    "url": "https://www.frontiersin.org/articles/10.3389/fmed.2021.778498/full",
+    "upvotes": 4,
+    "author": "Hooke",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29733341"
   },
   {
     "title": "The Modern Guide to OAuth",
     "url": "https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/",
-    "upvotes": 247,
+    "upvotes": 255,
     "author": "mooreds",
-    "comments": 43,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=29752918"
   },
   {
     "title": "Poll: Did you know that HN allows you to make polls?",
     "url": "item?id=29755614",
-    "upvotes": 246,
+    "upvotes": 264,
     "author": "AussieWog93",
-    "comments": 110,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=29755614"
   },
   {
     "title": "Turboencabulator",
     "url": "https://en.wikipedia.org/wiki/Turboencabulator",
-    "upvotes": 80,
+    "upvotes": 85,
     "author": "plibither8",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=29755025"
   },
   {
-    "title": "Stupid Patterns",
-    "url": "https://darshit.dev/posts/stupid-patterns/",
-    "upvotes": 15,
-    "author": "darshitpp",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29749715"
-  },
-  {
     "title": "Do we need a link step?",
     "url": "https://robert.ocallahan.org/2021/12/do-we-really-need-link-step.html",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "hasheddan",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29754918"
   },
   {
     "title": "GLADOS – Generic Life Activity Data Organization System",
     "url": "https://github.com/kaustubh-karkare/glados",
-    "upvotes": 20,
+    "upvotes": 25,
     "author": "majestic8",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29756591"
   },
   {
+    "title": "Giving Haiku Beta 3 a try",
+    "url": "https://www.friendlyskies.net/notebook/giving-haiku-os-beta-3-a-try",
+    "upvotes": 3,
+    "author": "pjerem",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29757451"
+  },
+  {
+    "title": "Building Generative Glitch Art Tools",
+    "url": "https://adamfuhrer.com/building-generative-glitch-art-tools",
+    "upvotes": 16,
+    "author": "picdit",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29750529"
+  },
+  {
     "title": "Coding error at Santander Bank put millions into random accounts on Christmas",
     "url": "https://www.cnbc.com/2021/12/31/santander-accidentally-put-millions-into-random-accounts-on-christmas-day.html",
-    "upvotes": 117,
+    "upvotes": 121,
     "author": "codesections",
-    "comments": 43,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=29753755"
+  },
+  {
+    "title": "Stupid Patterns",
+    "url": "https://darshit.dev/posts/stupid-patterns/",
+    "upvotes": 19,
+    "author": "darshitpp",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=29749715"
+  },
+  {
+    "title": "JWST Sequential Ranging",
+    "url": "https://destevez.net/2021/12/jwst-sequential-ranging/",
+    "upvotes": 3,
+    "author": "wglb",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29754274"
   },
   {
     "title": "Fortification, Part V: The Age of Industrial Firepower",
     "url": "https://acoup.blog/2021/12/31/collections-fortification-part-v-the-age-of-industrial-firepower/",
-    "upvotes": 45,
+    "upvotes": 48,
     "author": "Tomte",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29745823"
+  },
+  {
+    "title": "Reverse-engineering a Roku to control background lights",
+    "url": "https://blog.ammaraskar.com/roku-tv-philips-hues/",
+    "upvotes": 49,
+    "author": "gjsman-1000",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29740926"
+  },
+  {
+    "title": "The IPv6 Mess",
+    "url": "https://cr.yp.to/djbdns/ipv6mess.html",
+    "upvotes": 3,
+    "author": "commandersaki",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29757361"
   },
   {
     "title": "New Findings on the Mycenaean Cemetery at the 'Palace of Nestor' in Pylos",
     "url": "https://archaeologynewsnetwork.blogspot.com/2021/12/new-findings-on-mycenaean-cemetery-of.html",
-    "upvotes": 14,
+    "upvotes": 17,
     "author": "diodorus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29756409"
   },
   {
-    "title": "Tell HN: Update copyright year in your website",
-    "url": "item?id=29757059",
-    "upvotes": 15,
-    "author": "user7878",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=29757059"
-  },
-  {
-    "title": "Speeding up Dijkstra by a factor of 2700",
-    "url": "https://blog.siraben.dev/2021/12/28/aoc-speedup.html",
-    "upvotes": 4,
-    "author": "siraben",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29757176"
-  },
-  {
-    "title": "Reverse-engineering a Roku to control background lights",
-    "url": "https://blog.ammaraskar.com/roku-tv-philips-hues/",
-    "upvotes": 45,
-    "author": "gjsman-1000",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29740926"
+    "title": "Why Brahmins lead Western firms but rarely Indian ones",
+    "url": "https://www.economist.com/asia/2022/01/01/why-brahmins-lead-western-firms-but-rarely-indian-ones",
+    "upvotes": 90,
+    "author": "pseudolus",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=29753218"
   },
   {
     "title": "Don't Waste the Good Days",
     "url": "https://seths.blog/2021/12/dont-waste-the-good-days/",
-    "upvotes": 464,
+    "upvotes": 478,
     "author": "enigmatic02",
-    "comments": 194,
+    "comments": 203,
     "link": "https://news.ycombinator.com/item?id=29754120"
-  },
-  {
-    "title": "Show HN: Browser based deep fakes in pure JavaScript",
-    "url": "https://filter.mot.omg.lol",
-    "upvotes": 90,
-    "author": "huras",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=29753080"
   },
   {
     "title": "How Y Combinator Changed the World",
     "url": "https://www.wired.com/story/how-y-combinator-changed-the-world/",
-    "upvotes": 134,
+    "upvotes": 140,
     "author": "philonoist",
-    "comments": 82,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=29748124"
+  },
+  {
+    "title": "Show HN: Browser based deep fakes in pure JavaScript",
+    "url": "https://filter.mot.omg.lol",
+    "upvotes": 94,
+    "author": "huras",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=29753080"
   },
   {
     "title": "Truly Headless Draw.io Exports",
     "url": "https://fasterthanli.me/series/dont-shell-out/part-1",
-    "upvotes": 68,
+    "upvotes": 71,
     "author": "ingve",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=29753638"
   },
   {
     "title": "Show HN: 8Bit Computers Book",
     "url": "item?id=29745933",
-    "upvotes": 53,
+    "upvotes": 55,
     "author": "daitangio",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29745933"
@@ -200,43 +232,11 @@
     "link": "https://news.ycombinator.com/item?id=29746374"
   },
   {
-    "title": "Scalable Linear Algebra on a Relational Database System",
-    "url": "https://cacm.acm.org/magazines/2020/8/246372-scalable-linear-algebra-on-a-relational-database-system/fulltext",
+    "title": "Microsoft Exchange stops passing mail due to bug on 1/1/22",
+    "url": "https://old.reddit.com/r/sysadmin/comments/rt91z6/exchange_2019_antimalware_bad_update/",
     "upvotes": 33,
-    "author": "xept",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29746794"
-  },
-  {
-    "title": "Python module for parsing Apple Numbers .numbers files",
-    "url": "https://github.com/masaccio/numbers-parser",
-    "upvotes": 74,
-    "author": "animal_spirits",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=29753204"
-  },
-  {
-    "title": "Ask HN: How do you take care of yourself?",
-    "url": "item?id=29754211",
-    "upvotes": 175,
-    "author": "Gary_TheSnail_",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=29754211"
-  },
-  {
-    "title": "A new protocol and tool for PNG file attachments",
-    "url": "https://nullprogram.com/blog/2021/12/31/",
-    "upvotes": 54,
-    "author": "grep_it",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29753186"
-  },
-  {
-    "title": "If – A Poem by Rudyard Kipling",
-    "url": "https://poets.org/poem/if",
-    "upvotes": 259,
-    "author": "BrindleBox",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=29753513"
+    "author": "technion",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29756714"
   }
 ]
