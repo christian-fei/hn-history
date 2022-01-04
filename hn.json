@@ -1,179 +1,203 @@
 [
   {
+    "title": "Show HN: Meetup with other travelers in a new place",
+    "url": "https://travelfriends.xyz",
+    "upvotes": 24,
+    "author": "danieltait",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=29794079"
+  },
+  {
     "title": "Elizabeth Holmes found guilty",
     "url": "https://www.axios.com/theranos-elizabeth-holmes-verdict-df20ad3f-95bd-400c-bf42-a379ade65c2c.html",
-    "upvotes": 1279,
+    "upvotes": 1320,
     "author": "sdan",
-    "comments": 784,
+    "comments": 802,
     "link": "https://news.ycombinator.com/item?id=29789137"
   },
   {
     "title": "Porting Rust's Std to Rustix",
     "url": "https://blog.sunfishcode.online/port-std-to-rustix/",
-    "upvotes": 59,
+    "upvotes": 77,
     "author": "jpgvm",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29793377"
   },
   {
     "title": "Android in Docker without QEMU/emulator",
     "url": "https://github.com/remote-android/redroid-doc",
-    "upvotes": 57,
+    "upvotes": 66,
     "author": "PascalW",
-    "comments": 18,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=29793353"
+  },
+  {
+    "title": "Do not use 'week year': YYYY",
+    "url": "https://github.com/graphhopper/graphhopper/pull/2505",
+    "upvotes": 60,
+    "author": "karussell",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=29793385"
   },
   {
     "title": "How Video Streaming Processing Works",
     "url": "https://howvideo.works/#processing",
-    "upvotes": 40,
+    "upvotes": 51,
     "author": "dreampeppers99",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29793526"
   },
   {
     "title": "Arm-Based 128-Core Ampere CPUs Cost a Fraction of x86 Price",
     "url": "https://www.tomshardware.com/news/ampere-altra-max-128-core-priced",
-    "upvotes": 70,
+    "upvotes": 76,
     "author": "rbanffy",
-    "comments": 79,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=29779715"
+  },
+  {
+    "title": "New: NitroPhone 2/Pro with 4.5 Years of Software Updates",
+    "url": "https://www.nitrokey.com/news/2022/new-nitrophone-2pro-45-years-software-updates",
+    "upvotes": 9,
+    "author": "heavyhephaistos",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29794090"
   },
   {
     "title": "Use spacer components instead of CSS margins",
     "url": "https://mxstbr.com/thoughts/margin/",
-    "upvotes": 153,
+    "upvotes": 156,
     "author": "manojvivek",
-    "comments": 128,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=29791975"
-  },
-  {
-    "title": "Do not use 'week year': YYYY",
-    "url": "https://github.com/graphhopper/graphhopper/pull/2505",
-    "upvotes": 32,
-    "author": "karussell",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29793385"
   },
   {
     "title": "The joy of building a ray tracer, for fun, in Rust",
     "url": "https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/",
-    "upvotes": 191,
+    "upvotes": 203,
     "author": "stopachka",
-    "comments": 39,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=29791142"
   },
   {
     "title": "ASML reports fire at its Berlin factory",
     "url": "https://www.reuters.com/technology/asml-reports-fire-its-berlin-factory-2022-01-03/",
-    "upvotes": 262,
+    "upvotes": 267,
     "author": "n-e-w",
-    "comments": 222,
+    "comments": 225,
     "link": "https://news.ycombinator.com/item?id=29790063"
   },
   {
     "title": "An Aquatic Plant That Bloomed Underwater Was Among First Flowering Plants",
     "url": "https://worldsensorium.com/fossils-suggest-an-aquatic-plant-that-bloomed-underwater-was-among-first-flowering-plants/",
-    "upvotes": 42,
+    "upvotes": 45,
     "author": "dnetesn",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29767959"
   },
   {
-    "title": "Show HN: Meetup with other travelers in a new place",
-    "url": "https://travelfriends.xyz",
-    "upvotes": 3,
-    "author": "danieltait",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29794079"
+    "title": "Ledger – the first peer-reviewed journal on blockchains and cryptocurrencies",
+    "url": "https://ledger.pitt.edu/ojs/ledger",
+    "upvotes": 110,
+    "author": "aspenmayer",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=29791630"
   },
   {
     "title": "A New Future for GnuPG",
     "url": "https://gnupg.org/blog/20220102-a-new-future-for-gnupg.html",
-    "upvotes": 144,
+    "upvotes": 147,
     "author": "pabs3",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=29791056"
-  },
-  {
-    "title": "Ledger – the first peer-reviewed journal on blockchains and cryptocurrencies",
-    "url": "https://ledger.pitt.edu/ojs/ledger",
-    "upvotes": 100,
-    "author": "aspenmayer",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=29791630"
   },
   {
     "title": "Faster IndexOf for Substrings in .NET",
     "url": "https://github.com/dotnet/runtime/pull/63285",
-    "upvotes": 119,
+    "upvotes": 121,
     "author": "bob1029",
-    "comments": 43,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=29790922"
-  },
-  {
-    "title": "Paper Railroad Wheels?",
-    "url": "https://www.cupery.net/wheels.html",
-    "upvotes": 40,
-    "author": "Someone",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29786743"
   },
   {
     "title": "Lost languages discovered in the oldest continuously run libraries",
     "url": "https://www.smithsonianmag.com/smart-news/long-lost-languages-found-manuscripts-egyptian-monastery-180964698/",
-    "upvotes": 24,
+    "upvotes": 27,
     "author": "ALee",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29786183"
   },
   {
     "title": "Pg_cron",
     "url": "https://github.com/citusdata/pg_cron",
-    "upvotes": 28,
+    "upvotes": 34,
     "author": "awinter-py",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29792663"
+  },
+  {
+    "title": "Paper Railroad Wheels?",
+    "url": "https://www.cupery.net/wheels.html",
+    "upvotes": 42,
+    "author": "Someone",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29786743"
   },
   {
     "title": "How South Korean TV took over the world",
     "url": "https://theface.com/culture/korean-cinema-took-over-the-world-squid-game-dr-brain-hellbound-parasite-netflix",
-    "upvotes": 52,
+    "upvotes": 57,
     "author": "mizzao",
-    "comments": 43,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=29777653"
-  },
-  {
-    "title": "See How It Flies",
-    "url": "https://www.av8n.com/how/htm/",
-    "upvotes": 14,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29778137"
   },
   {
     "title": "Ten Lessons from Three Generations Shaped Google’s TPUv4i [pdf]",
     "url": "https://www.gwern.net/docs/ai/2021-jouppi.pdf",
-    "upvotes": 87,
+    "upvotes": 90,
     "author": "djoldman",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=29784338"
   },
   {
+    "title": "See How It Flies",
+    "url": "https://www.av8n.com/how/htm/",
+    "upvotes": 15,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29778137"
+  },
+  {
     "title": "Tamriel Rebuilt Roadmap",
     "url": "https://www.tamriel-rebuilt.org/content/tamriel-rebuilt-roadmap",
-    "upvotes": 133,
+    "upvotes": 140,
     "author": "agluszak",
-    "comments": 40,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=29778900"
+  },
+  {
+    "title": "Nobody pronounces the b in debt – and nobody ever did",
+    "url": "https://www.merriam-webster.com/words-at-play/why-is-debt-spelled-like-that",
+    "upvotes": 35,
+    "author": "alecst",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=29791790"
   },
   {
     "title": "What is the small web?",
     "url": "https://ar.al/2020/08/07/what-is-the-small-web/",
-    "upvotes": 126,
+    "upvotes": 129,
     "author": "acqbu",
-    "comments": 88,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=29768197"
+  },
+  {
+    "title": "Tarot for Techies",
+    "url": "https://witchcraft.computer",
+    "upvotes": 57,
+    "author": "benzguo",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29791810"
   },
   {
     "title": "Generally Intelligent",
@@ -182,57 +206,33 @@
   {
     "title": "OpenBSD Based Challenge Day 3",
     "url": "https://write.as/adventures-in-bsd/openbsd-based-challenge-day-3",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "hucste",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29792443"
-  },
-  {
-    "title": "Tarot for Techies",
-    "url": "https://witchcraft.computer",
-    "upvotes": 55,
-    "author": "benzguo",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=29791810"
-  },
-  {
-    "title": "Nobody pronounces the b in debt – and nobody ever did",
-    "url": "https://www.merriam-webster.com/words-at-play/why-is-debt-spelled-like-that",
-    "upvotes": 28,
-    "author": "alecst",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=29791790"
   },
   {
     "title": "Ad-hoc ClojureScript scripting of Mac applications",
     "url": "https://github.com/babashka/obb",
-    "upvotes": 56,
+    "upvotes": 62,
     "author": "tosh",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29779353"
   },
   {
-    "title": "Mathematicians Outwit Hidden Number Conspiracy",
-    "url": "https://www.quantamagazine.org/mathematicians-outwit-hidden-number-conspiracy-20220103/",
-    "upvotes": 74,
-    "author": "pseudolus",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=29790830"
-  },
-  {
     "title": "The Polygons of Another World: Atari Jaguar",
     "url": "https://fabiensanglard.net/another_world_polygons_Jaguar/index.html",
-    "upvotes": 54,
+    "upvotes": 57,
     "author": "rocky1138",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29790710"
   },
   {
-    "title": "Best Films of 1931",
-    "url": "http://www.davidbordwell.net/blog/2022/01/01/the-ten-best-films-of-1931/",
-    "upvotes": 42,
-    "author": "chat",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29785947"
+    "title": "Mathematicians Outwit Hidden Number Conspiracy",
+    "url": "https://www.quantamagazine.org/mathematicians-outwit-hidden-number-conspiracy-20220103/",
+    "upvotes": 75,
+    "author": "pseudolus",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=29790830"
   }
 ]
