@@ -2,193 +2,209 @@
   {
     "title": "Show HN: Meetup with other travelers in a new place",
     "url": "https://travelfriends.xyz",
-    "upvotes": 65,
+    "upvotes": 90,
     "author": "danieltait",
-    "comments": 43,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=29794079"
   },
   {
     "title": "Elizabeth Holmes found guilty",
     "url": "https://www.axios.com/theranos-elizabeth-holmes-verdict-df20ad3f-95bd-400c-bf42-a379ade65c2c.html",
-    "upvotes": 1361,
+    "upvotes": 1394,
     "author": "sdan",
-    "comments": 846,
+    "comments": 876,
     "link": "https://news.ycombinator.com/item?id=29789137"
   },
   {
     "title": "Porting Rust's Std to Rustix",
     "url": "https://blog.sunfishcode.online/port-std-to-rustix/",
-    "upvotes": 96,
+    "upvotes": 113,
     "author": "jpgvm",
-    "comments": 19,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=29793377"
-  },
-  {
-    "title": "Android in Docker without QEMU/emulator",
-    "url": "https://github.com/remote-android/redroid-doc",
-    "upvotes": 89,
-    "author": "PascalW",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=29793353"
   },
   {
     "title": "How Video Streaming Processing Works",
     "url": "https://howvideo.works/#processing",
-    "upvotes": 74,
+    "upvotes": 93,
     "author": "dreampeppers99",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=29793526"
   },
   {
-    "title": "Ask HN: Let's build an HN uBlacklist to improve our Google search results?",
-    "url": "item?id=29794372",
-    "upvotes": 37,
-    "author": "sanketpatrikar",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=29794372"
-  },
-  {
-    "title": "NitroPhone 2/Pro with 4.5 years of software updates",
-    "url": "https://www.nitrokey.com/news/2022/new-nitrophone-2pro-45-years-software-updates",
-    "upvotes": 25,
-    "author": "heavyhephaistos",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=29794090"
-  },
-  {
-    "title": "Arm-Based 128-Core Ampere CPUs Cost a Fraction of x86 Price",
-    "url": "https://www.tomshardware.com/news/ampere-altra-max-128-core-priced",
-    "upvotes": 87,
-    "author": "rbanffy",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=29779715"
-  },
-  {
-    "title": "Use spacer components instead of CSS margins",
-    "url": "https://mxstbr.com/thoughts/margin/",
-    "upvotes": 165,
-    "author": "manojvivek",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=29791975"
-  },
-  {
-    "title": "The joy of building a ray tracer, for fun, in Rust",
-    "url": "https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/",
-    "upvotes": 221,
-    "author": "stopachka",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=29791142"
-  },
-  {
-    "title": "ASML reports fire at its Berlin factory",
-    "url": "https://www.reuters.com/technology/asml-reports-fire-its-berlin-factory-2022-01-03/",
-    "upvotes": 282,
-    "author": "n-e-w",
-    "comments": 235,
-    "link": "https://news.ycombinator.com/item?id=29790063"
+    "title": "Android in Docker without QEMU/emulator",
+    "url": "https://github.com/remote-android/redroid-doc",
+    "upvotes": 103,
+    "author": "PascalW",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=29793353"
   },
   {
     "title": "IETF: The HTTP Query Method",
     "url": "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html",
-    "upvotes": 3,
+    "upvotes": 13,
     "author": "ksec",
-    "comments": null,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=29794838"
+  },
+  {
+    "title": "Ask HN: Let's build an HN uBlacklist to improve our Google search results?",
+    "url": "item?id=29794372",
+    "upvotes": 59,
+    "author": "sanketpatrikar",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=29794372"
   },
   {
     "title": "Rewriting Libimagequant in Rust for Portability",
     "url": "https://pngquant.org/rust.html",
-    "upvotes": 5,
+    "upvotes": 16,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29794503"
   },
   {
+    "title": "NitroPhone 2/Pro with 4.5 years of software updates",
+    "url": "https://www.nitrokey.com/news/2022/new-nitrophone-2pro-45-years-software-updates",
+    "upvotes": 30,
+    "author": "heavyhephaistos",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=29794090"
+  },
+  {
+    "title": "Arm-Based 128-Core Ampere CPUs Cost a Fraction of x86 Price",
+    "url": "https://www.tomshardware.com/news/ampere-altra-max-128-core-priced",
+    "upvotes": 96,
+    "author": "rbanffy",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=29779715"
+  },
+  {
+    "title": "Use spacer components instead of CSS margins",
+    "url": "https://mxstbr.com/thoughts/margin/",
+    "upvotes": 169,
+    "author": "manojvivek",
+    "comments": 159,
+    "link": "https://news.ycombinator.com/item?id=29791975"
+  },
+  {
+    "title": "The joy of building a ray tracer, for fun, in Rust",
+    "url": "https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/",
+    "upvotes": 233,
+    "author": "stopachka",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=29791142"
+  },
+  {
+    "title": "ASML reports fire at its Berlin factory",
+    "url": "https://www.reuters.com/technology/asml-reports-fire-its-berlin-factory-2022-01-03/",
+    "upvotes": 284,
+    "author": "n-e-w",
+    "comments": 236,
+    "link": "https://news.ycombinator.com/item?id=29790063"
+  },
+  {
     "title": "Sharper mipmapping using shader based supersampling",
     "url": "https://bgolus.medium.com/sharper-mipmapping-using-shader-based-supersampling-ed7aadb47bec",
-    "upvotes": 8,
+    "upvotes": 13,
     "author": "tosh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29786677"
   },
   {
-    "title": "A New Future for GnuPG",
-    "url": "https://gnupg.org/blog/20220102-a-new-future-for-gnupg.html",
-    "upvotes": 160,
-    "author": "pabs3",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=29791056"
-  },
-  {
-    "title": "An Aquatic Plant That Bloomed Underwater Was Among First Flowering Plants",
-    "url": "https://worldsensorium.com/fossils-suggest-an-aquatic-plant-that-bloomed-underwater-was-among-first-flowering-plants/",
-    "upvotes": 48,
-    "author": "dnetesn",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29767959"
-  },
-  {
     "title": "Pg_cron",
     "url": "https://github.com/citusdata/pg_cron",
-    "upvotes": 47,
+    "upvotes": 55,
     "author": "awinter-py",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=29792663"
+  },
+  {
+    "title": "A New Future for GnuPG",
+    "url": "https://gnupg.org/blog/20220102-a-new-future-for-gnupg.html",
+    "upvotes": 169,
+    "author": "pabs3",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=29791056"
   },
   {
     "title": "Ledger – the first peer-reviewed journal on blockchains and cryptocurrencies",
     "url": "https://ledger.pitt.edu/ojs/ledger",
-    "upvotes": 116,
+    "upvotes": 124,
     "author": "aspenmayer",
-    "comments": 45,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=29791630"
-  },
-  {
-    "title": "Paper Railroad Wheels?",
-    "url": "https://www.cupery.net/wheels.html",
-    "upvotes": 50,
-    "author": "Someone",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29786743"
-  },
-  {
-    "title": "Lost languages discovered in the oldest continuously run libraries",
-    "url": "https://www.smithsonianmag.com/smart-news/long-lost-languages-found-manuscripts-egyptian-monastery-180964698/",
-    "upvotes": 37,
-    "author": "ALee",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29786183"
   },
   {
     "title": "See How It Flies",
     "url": "https://www.av8n.com/how/htm/",
-    "upvotes": 24,
+    "upvotes": 27,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29778137"
   },
   {
+    "title": "An Aquatic Plant That Bloomed Underwater Was Among First Flowering Plants",
+    "url": "https://worldsensorium.com/fossils-suggest-an-aquatic-plant-that-bloomed-underwater-was-among-first-flowering-plants/",
+    "upvotes": 51,
+    "author": "dnetesn",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29767959"
+  },
+  {
+    "title": "Paper Railroad Wheels?",
+    "url": "https://www.cupery.net/wheels.html",
+    "upvotes": 53,
+    "author": "Someone",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29786743"
+  },
+  {
+    "title": "Lost languages discovered in the oldest continuously run libraries",
+    "url": "https://www.smithsonianmag.com/smart-news/long-lost-languages-found-manuscripts-egyptian-monastery-180964698/",
+    "upvotes": 42,
+    "author": "ALee",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=29786183"
+  },
+  {
     "title": "How South Korean TV took over the world",
     "url": "https://theface.com/culture/korean-cinema-took-over-the-world-squid-game-dr-brain-hellbound-parasite-netflix",
-    "upvotes": 71,
+    "upvotes": 76,
     "author": "mizzao",
-    "comments": 56,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=29777653"
   },
   {
     "title": "Faster IndexOf for Substrings in .NET",
     "url": "https://github.com/dotnet/runtime/pull/63285",
-    "upvotes": 126,
+    "upvotes": 131,
     "author": "bob1029",
-    "comments": 48,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=29790922"
+  },
+  {
+    "title": "France's Bogdanoff Twins Die Days Apart",
+    "url": "https://www.bbc.co.uk/news/world-europe-59867046",
+    "upvotes": 14,
+    "author": "GEBBL",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=29794879"
+  },
+  {
+    "title": "Nobody Pronounces the 'B' in 'Debt'",
+    "url": "https://www.merriam-webster.com/words-at-play/why-is-debt-spelled-like-that",
+    "upvotes": 60,
+    "author": "alecst",
+    "comments": 137,
+    "link": "https://news.ycombinator.com/item?id=29791790"
   },
   {
     "title": "Do not use 'week year': YYYY",
     "url": "https://github.com/graphhopper/graphhopper/pull/2505",
-    "upvotes": 110,
+    "upvotes": 125,
     "author": "karussell",
-    "comments": 55,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=29793385"
   },
   {
@@ -200,39 +216,23 @@
     "link": "https://news.ycombinator.com/item?id=29784338"
   },
   {
-    "title": "Nobody Pronounces the 'B' in 'Debt'",
-    "url": "https://www.merriam-webster.com/words-at-play/why-is-debt-spelled-like-that",
-    "upvotes": 51,
-    "author": "alecst",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=29791790"
-  },
-  {
     "title": "Generally Intelligent",
     "url": "item?id=29790870"
   },
   {
     "title": "Tamriel Rebuilt Roadmap",
     "url": "https://www.tamriel-rebuilt.org/content/tamriel-rebuilt-roadmap",
-    "upvotes": 143,
+    "upvotes": 149,
     "author": "agluszak",
-    "comments": 45,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=29778900"
   },
   {
-    "title": "OpenBSD Based Challenge Day 3",
-    "url": "https://write.as/adventures-in-bsd/openbsd-based-challenge-day-3",
-    "upvotes": 53,
-    "author": "hucste",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29792443"
-  },
-  {
-    "title": "What is the small web?",
-    "url": "https://ar.al/2020/08/07/what-is-the-small-web/",
-    "upvotes": 136,
-    "author": "acqbu",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=29768197"
+    "title": "The Polygons of Another World: Atari Jaguar",
+    "url": "https://fabiensanglard.net/another_world_polygons_Jaguar/index.html",
+    "upvotes": 66,
+    "author": "rocky1138",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=29790710"
   }
 ]
