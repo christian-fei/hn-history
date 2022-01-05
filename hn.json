@@ -1,83 +1,91 @@
 [
   {
+    "title": "Darling – run Mac apps on Linux",
+    "url": "https://www.darlinghq.org/",
+    "upvotes": 49,
+    "author": "tomrod",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=29813679"
+  },
+  {
+    "title": "Julia frameworks to create desktop GUIs and web apps",
+    "url": "https://logankilpatrick.medium.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115",
+    "upvotes": 79,
+    "author": "rg111",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29813194"
+  },
+  {
     "title": "How to design a house to last 1000 years",
     "url": "https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for",
-    "upvotes": 282,
+    "upvotes": 313,
     "author": "ddubski",
-    "comments": 217,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=29810334"
   },
   {
-    "title": "I took a job at Amazon, only to leave after 10 months",
-    "url": "https://benadam.me/thoughts/my-experience-at-amazon/",
-    "upvotes": 39,
-    "author": "benadam11",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29813261"
-  },
-  {
-    "title": "Six Julia Frameworks to Create Desktop GUI’s and Web Apps",
-    "url": "https://logankilpatrick.medium.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115",
-    "upvotes": 35,
-    "author": "rg111",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29813194"
+    "title": "Why might you run your own DNS server?",
+    "url": "https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/",
+    "upvotes": 74,
+    "author": "0xedb",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=29812736"
   },
   {
     "title": "Problems once solved by a metaclass can be solved by __init_subclass__",
     "url": "https://til.simonwillison.net/python/init-subclass",
-    "upvotes": 106,
+    "upvotes": 120,
     "author": "imaurer",
-    "comments": 58,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=29811154"
   },
   {
     "title": "How I took my SaaS from idea to sold in 14 months",
     "url": "https://masilotti.com/idea-to-sold-in-14-months/",
-    "upvotes": 56,
+    "upvotes": 76,
     "author": "joemasilotti",
-    "comments": 22,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=29812262"
-  },
-  {
-    "title": "Why might you run your own DNS server?",
-    "url": "https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/",
-    "upvotes": 45,
-    "author": "0xedb",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=29812736"
-  },
-  {
-    "title": "Simple Dungeon Map Generation",
-    "url": "https://smoldungeon.com/maps",
-    "upvotes": 34,
-    "author": "kris-s",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29812704"
-  },
-  {
-    "title": "OneBag: The Art and Science of Travelling Light",
-    "url": "https://www.onebag.com/",
-    "upvotes": 112,
-    "author": "navanchauhan",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=29777866"
   },
   {
     "title": "Sonic 3D: Director's Cut",
     "url": "https://info.sonicretro.org/Sonic_3D:_Director%27s_Cut",
-    "upvotes": 54,
+    "upvotes": 69,
     "author": "tosh",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29780148"
   },
   {
     "title": "Launch HN: Gravitl (YC W22) – VPN Platform Based on WireGuard",
     "url": "item?id=29809830",
-    "upvotes": 128,
+    "upvotes": 134,
     "author": "afeiszli",
-    "comments": 79,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=29809830"
+  },
+  {
+    "title": "Simple Dungeon Map Generation",
+    "url": "https://smoldungeon.com/maps",
+    "upvotes": 38,
+    "author": "kris-s",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29812704"
+  },
+  {
+    "title": "I took a job at Amazon, only to leave after 10 months",
+    "url": "https://benadam.me/thoughts/my-experience-at-amazon/",
+    "upvotes": 163,
+    "author": "benadam11",
+    "comments": 124,
+    "link": "https://news.ycombinator.com/item?id=29813261"
+  },
+  {
+    "title": "OneBag: The Art and Science of Travelling Light",
+    "url": "https://www.onebag.com/",
+    "upvotes": 128,
+    "author": "navanchauhan",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=29777866"
   },
   {
     "title": "Tesorio",
@@ -86,71 +94,71 @@
   {
     "title": "Tauri – Electron alternative written in Rust",
     "url": "https://tauri.studio/en/",
-    "upvotes": 439,
+    "upvotes": 446,
     "author": "WolfOliver",
-    "comments": 337,
+    "comments": 342,
     "link": "https://news.ycombinator.com/item?id=29807022"
-  },
-  {
-    "title": "Should you use Let's Encrypt for internal hostnames?",
-    "url": "https://shkspr.mobi/blog/2022/01/should-you-use-lets-encrypt-for-internal-hostnames/",
-    "upvotes": 157,
-    "author": "edent",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=29808233"
-  },
-  {
-    "title": "Treefrog: A code editor that uses both AST and text editing commands",
-    "url": "https://treefrog-editor.com/",
-    "upvotes": 71,
-    "author": "gushogg-blake",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=29787861"
-  },
-  {
-    "title": "Lawsuit filed alleging Google is paying Apple to stay out of the search business",
-    "url": "https://www.prnewswire.com/news-releases/class-action-lawsuit-filed-in-california-alleging-google-is-paying-apple-to-stay-out-of-the-search-engine-business-301453098.html",
-    "upvotes": 452,
-    "author": "cpeterso",
-    "comments": 303,
-    "link": "https://news.ycombinator.com/item?id=29806076"
   },
   {
     "title": "We're two middle school teachers learning and teaching Python [audio]",
     "url": "https://www.teachingpython.fm/",
-    "upvotes": 16,
+    "upvotes": 26,
     "author": "mooreds",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29812558"
+  },
+  {
+    "title": "Should you use Let's Encrypt for internal hostnames?",
+    "url": "https://shkspr.mobi/blog/2022/01/should-you-use-lets-encrypt-for-internal-hostnames/",
+    "upvotes": 166,
+    "author": "edent",
+    "comments": 141,
+    "link": "https://news.ycombinator.com/item?id=29808233"
+  },
+  {
+    "title": "Lawsuit filed alleging Google is paying Apple to stay out of the search business",
+    "url": "https://www.prnewswire.com/news-releases/class-action-lawsuit-filed-in-california-alleging-google-is-paying-apple-to-stay-out-of-the-search-engine-business-301453098.html",
+    "upvotes": 463,
+    "author": "cpeterso",
+    "comments": 307,
+    "link": "https://news.ycombinator.com/item?id=29806076"
+  },
+  {
+    "title": "Treefrog: A code editor that uses both AST and text editing commands",
+    "url": "https://treefrog-editor.com/",
+    "upvotes": 75,
+    "author": "gushogg-blake",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=29787861"
   },
   {
     "title": "ISS Docking Simulator",
     "url": "https://iss-sim.spacex.com/",
-    "upvotes": 167,
+    "upvotes": 173,
     "author": "abhiminator",
-    "comments": 53,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=29807813"
+  },
+  {
+    "title": "Database character sets and collations explained – why utf8 is not UTF-8",
+    "url": "https://www.hellodevops.blog/posts/database-character-sets-and-collations-explained/",
+    "upvotes": 45,
+    "author": "flokoe",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=29793916"
   },
   {
     "title": "NAPI-RS v2",
     "url": "https://napi.rs/blog/announce-v2",
-    "upvotes": 11,
+    "upvotes": 16,
     "author": "lukastyrychtr",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29780202"
   },
   {
-    "title": "Database character sets and collations explained – why utf8 is not UTF-8",
-    "url": "https://www.hellodevops.blog/posts/database-character-sets-and-collations-explained/",
-    "upvotes": 40,
-    "author": "flokoe",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=29793916"
-  },
-  {
     "title": "An Injection of Chaos Solves Decades-Old Fluid Mystery",
     "url": "https://www.quantamagazine.org/an-injection-of-chaos-solves-decades-old-fluid-mystery-20220104/",
-    "upvotes": 25,
+    "upvotes": 27,
     "author": "escot",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=29811247"
@@ -158,81 +166,73 @@
   {
     "title": "A record 4.5M workers quit their jobs in November",
     "url": "https://www.axios.com/workers-quit-jobs-november-data-labor-force-a58b23b6-ef54-4ed7-bb3b-78140b326a66.html",
-    "upvotes": 146,
+    "upvotes": 163,
     "author": "doppp",
-    "comments": 134,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=29811737"
   },
   {
     "title": "The Last Wild Lions of Europe",
     "url": "https://www.sapiens.org/archaeology/lions-europe/",
-    "upvotes": 88,
+    "upvotes": 90,
     "author": "CapitalistCartr",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=29808221"
   },
   {
     "title": "Antiplatelet and anticoagulant therapy resolves long covid in 24 patients",
     "url": "https://www.researchgate.net/publication/357428572_Combined_triple_treatment_of_fibrin_amyloid_microclots_and_platelet_pathology_in_individuals_with_Long_COVID_Post-Acute_Sequelae_of_COVID-19_PASC_can_resolve_their_persistent_symptoms",
-    "upvotes": 176,
+    "upvotes": 187,
     "author": "tcamde",
-    "comments": 146,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=29808728"
   },
   {
     "title": "Linuxgems – A succinct cheat sheet for newbie Linux coders and sysadmins",
     "url": "https://github.com/kevinthew/linuxgems",
-    "upvotes": 91,
+    "upvotes": 94,
     "author": "graderjs",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=29808180"
   },
   {
+    "title": "Flatten Arrays in Vanilla JavaScript with Flat",
+    "url": "https://www.wisdomgeek.com/development/flatten-arrays-in-vanilla-javascript-with-flat-and-flatmap/",
+    "upvotes": 55,
+    "author": "saranshk",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=29809977"
+  },
+  {
+    "title": "Internet disrupted in Kazakhstan amid energy price protests",
+    "url": "https://netblocks.org/reports/internet-disrupted-in-kazakhstan-amid-energy-price-protests-oy9YQgy3",
+    "upvotes": 236,
+    "author": "r721",
+    "comments": 174,
+    "link": "https://news.ycombinator.com/item?id=29808046"
+  },
+  {
     "title": "Browser-Vite – Vite in the Browser",
     "url": "https://divriots.com/blog/vite-in-the-browser",
-    "upvotes": 48,
+    "upvotes": 49,
     "author": "georges_gomes",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29810007"
   },
   {
-    "title": "Internet disrupted in Kazakhstan amid energy price protests",
-    "url": "https://netblocks.org/reports/internet-disrupted-in-kazakhstan-amid-energy-price-protests-oy9YQgy3",
-    "upvotes": 229,
-    "author": "r721",
-    "comments": 166,
-    "link": "https://news.ycombinator.com/item?id=29808046"
-  },
-  {
-    "title": "Flatten Arrays in Vanilla JavaScript with Flat",
-    "url": "https://www.wisdomgeek.com/development/flatten-arrays-in-vanilla-javascript-with-flat-and-flatmap/",
-    "upvotes": 49,
-    "author": "saranshk",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=29809977"
-  },
-  {
-    "title": "Bread in the Middle Ages",
-    "url": "https://www.medievalists.net/2013/07/bread-in-the-middle-ages/",
-    "upvotes": 40,
-    "author": "alexellisuk",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=29792689"
-  },
-  {
-    "title": "Framework Laptop with Ubuntu Review",
-    "url": "https://luisartola.com/framework-laptop-with-ubuntu-review/",
-    "upvotes": 457,
-    "author": "luisartola",
-    "comments": 404,
-    "link": "https://news.ycombinator.com/item?id=29806430"
-  },
-  {
     "title": "Minitorch: Implement the Torch API from Scratch, from Cornell Tech",
     "url": "https://minitorch.github.io/",
-    "upvotes": 57,
+    "upvotes": 62,
     "author": "rg111",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29809039"
+  },
+  {
+    "title": "Meet the Anarchists Making Their Own Medicine",
+    "url": "https://www.vice.com/en/article/43pngb/how-to-make-your-own-medicine-four-thieves-vinegar-collective",
+    "upvotes": 6,
+    "author": "mvanaltvorst",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29807454"
   }
 ]
