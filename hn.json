@@ -2,50 +2,58 @@
   {
     "title": "Computers as I used to love them",
     "url": "https://tonsky.me/blog/syncthing/",
-    "upvotes": 104,
+    "upvotes": 163,
     "author": "tosh",
-    "comments": 34,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=29837696"
   },
   {
     "title": "Intel completely disables AVX-512 on Alder Lake after all",
     "url": "https://www.igorslab.de/en/intel-deactivated-avx-512-on-alder-lake-but-fully-questionable-interpretation-of-efficiency-news-editorial/",
-    "upvotes": 34,
+    "upvotes": 74,
     "author": "pantalaimon",
-    "comments": 7,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=29837884"
   },
   {
     "title": "Tell HN: Salary data is for sale",
     "url": "item?id=29834753",
-    "upvotes": 1116,
+    "upvotes": 1159,
     "author": "bsilvereagle",
-    "comments": 513,
+    "comments": 524,
     "link": "https://news.ycombinator.com/item?id=29834753"
-  },
-  {
-    "title": "A/B test improved your website's conversion rate? Not so fast",
-    "url": "https://blog.alexandervolkmann.com/2022/01/05/conversion-rate-A-B-testing.html",
-    "upvotes": 15,
-    "author": "riebnik",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29837922"
-  },
-  {
-    "title": "Procrastinatory Doom Loops",
-    "url": "https://brennancolberg.com/blog/procrastinatory-doom-loops",
-    "upvotes": 259,
-    "author": "brennancolberg",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=29818894"
   },
   {
     "title": "Awesome Piracy: A Curated List of Arrrrrrrrr",
     "url": "https://github.com/Igglybuff/awesome-piracy",
-    "upvotes": 116,
+    "upvotes": 146,
     "author": "jaboutboul",
-    "comments": 70,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=29836346"
+  },
+  {
+    "title": "Commodore 900: The Unix-like workstation/server that was eclipsed by Amiga",
+    "url": "https://vintagecomputer.ca/commodore-900/",
+    "upvotes": 20,
+    "author": "indigodaddy",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29837948"
+  },
+  {
+    "title": "Procrastinatory Doom Loops",
+    "url": "https://brennancolberg.com/blog/procrastinatory-doom-loops",
+    "upvotes": 271,
+    "author": "brennancolberg",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=29818894"
+  },
+  {
+    "title": "A/B test improved your website's conversion rate? Not so fast",
+    "url": "https://blog.alexandervolkmann.com/2022/01/05/conversion-rate-A-B-testing.html",
+    "upvotes": 24,
+    "author": "riebnik",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29837922"
   },
   {
     "title": "GiveCampus",
@@ -54,39 +62,47 @@
   {
     "title": "Show HN: I'm 15 and building a live quiz app for classrooms: Quickz",
     "url": "https://quickz.org/play",
-    "upvotes": 61,
+    "upvotes": 75,
     "author": "varun_ch",
-    "comments": 11,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=29836852"
-  },
-  {
-    "title": "Kagi: A Premium Search Engine",
-    "url": "https://kagi.com/",
-    "upvotes": 152,
-    "author": "bcg361",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=29835756"
   },
   {
     "title": "Brian Kernighan's Home Page",
     "url": "https://www.cs.princeton.edu/~bwk/",
-    "upvotes": 17,
+    "upvotes": 29,
     "author": "mehdix",
-    "comments": 4,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=29837851"
   },
   {
     "title": "Vim prank: alias vim='vim -y'",
     "url": "https://learnbyexample.github.io/mini/vim-prank/",
-    "upvotes": 13,
+    "upvotes": 30,
     "author": "asicsp",
-    "comments": 12,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=29837543"
+  },
+  {
+    "title": "Kagi: A Premium Search Engine",
+    "url": "https://kagi.com/",
+    "upvotes": 158,
+    "author": "bcg361",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=29835756"
+  },
+  {
+    "title": "Bound to Fail: The Rise and Fall of the Liberal International Order",
+    "url": "https://direct.mit.edu/isec/article/43/4/7/12221/Bound-to-Fail-The-Rise-and-Fall-of-the-Liberal",
+    "upvotes": 15,
+    "author": "georgecmu",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29837947"
   },
   {
     "title": "Zero-downtime schema migrations in Postgres using Reshape",
     "url": "https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/",
-    "upvotes": 80,
+    "upvotes": 87,
     "author": "fabianlindfors",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29825520"
@@ -94,39 +110,23 @@
   {
     "title": "Drone carrying a defibrillator saves its first heart attack patient in Sweden",
     "url": "https://www.theverge.com/2022/1/5/22868777/everdrone-drone-defibrillator-health-tech-sweden",
-    "upvotes": 157,
+    "upvotes": 168,
     "author": "ashitlerferad",
-    "comments": 45,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=29821574"
-  },
-  {
-    "title": "Pentagon and CIA shaped thousands of Hollywood movies into effective propaganda",
-    "url": "https://worldbeyondwar.org/the-pentagon-and-cia-have-shaped-thousands-of-hollywood-movies-into-super-effective-propaganda/",
-    "upvotes": 298,
-    "author": "giuliomagnifico",
-    "comments": 270,
-    "link": "https://news.ycombinator.com/item?id=29835933"
-  },
-  {
-    "title": "Sonoma County farm strikes black truffle gold after 9 years of waiting",
-    "url": "https://www.latimes.com/food/story/2021-12-23/geyserville-sonoma-county-black-perigord-truffle",
-    "upvotes": 274,
-    "author": "chapulin",
-    "comments": 193,
-    "link": "https://news.ycombinator.com/item?id=29830616"
   },
   {
     "title": "It's not what programming languages do, it's what they shepherd you to",
     "url": "https://nibblestew.blogspot.com/2020/03/its-not-what-programming-languages-do.html",
-    "upvotes": 135,
+    "upvotes": 143,
     "author": "pcr910303",
-    "comments": 125,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=29834671"
   },
   {
     "title": "Songdata",
     "url": "https://songdata.io/",
-    "upvotes": 24,
+    "upvotes": 31,
     "author": "bekind",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29810792"
@@ -134,105 +134,105 @@
   {
     "title": "Open-sourcing the Sorbet VS Code Extension",
     "url": "https://sorbet.org/blog/2022/01/06/open-sourcing-sorbet-vscode",
-    "upvotes": 241,
+    "upvotes": 243,
     "author": "stanislavb",
-    "comments": 59,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=29832583"
+  },
+  {
+    "title": "Pentagon and CIA shaped thousands of Hollywood movies into effective propaganda",
+    "url": "https://worldbeyondwar.org/the-pentagon-and-cia-have-shaped-thousands-of-hollywood-movies-into-super-effective-propaganda/",
+    "upvotes": 324,
+    "author": "giuliomagnifico",
+    "comments": 306,
+    "link": "https://news.ycombinator.com/item?id=29835933"
   },
   {
     "title": "Beating the tradeoff between developer velocity and scalability",
     "url": "https://tomlinford.com/posts/beating-velocity-and-scalability-tradeoff/",
-    "upvotes": 28,
+    "upvotes": 32,
     "author": "tomlinford",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29815926"
   },
   {
     "title": "I found a one-char typo in the docs for Python's typing_extensions library",
     "url": "https://twitter.com/PredragGruevski/status/1478782546624360453",
-    "upvotes": 149,
+    "upvotes": 153,
     "author": "obi1kenobi",
-    "comments": 49,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=29814345"
   },
   {
-    "title": "Dynamic table of contents using recursion trees",
-    "url": "https://ryan-schachte.com/posts/dynamic-table-of-contents-using-recursion-trees",
-    "upvotes": 10,
-    "author": "rschachte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29818221"
-  },
-  {
-    "title": "Commodore 900: The Unix-like workstation/server that was eclipsed by Amiga",
-    "url": "https://vintagecomputer.ca/commodore-900/",
+    "title": "Medieval skeletons tell story of social inequality in Cambridge",
+    "url": "https://arstechnica.com/science/2022/01/written-in-the-bones-medieval-skeletons-tell-story-of-social-inequality-in-cambridge/",
     "upvotes": 4,
-    "author": "indigodaddy",
+    "author": "pseudolus",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29837948"
+    "link": "https://news.ycombinator.com/item?id=29822044"
   },
   {
     "title": "Antimof/UxPlay: AirPlay Unix mirroring server",
     "url": "https://github.com/antimof/UxPlay",
-    "upvotes": 6,
+    "upvotes": 11,
     "author": "mehdix",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29837837"
   },
   {
+    "title": "Dynamic table of contents using recursion trees",
+    "url": "https://ryan-schachte.com/posts/dynamic-table-of-contents-using-recursion-trees",
+    "upvotes": 13,
+    "author": "rschachte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29818221"
+  },
+  {
+    "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine",
+    "url": "http://infolab.stanford.edu/pub/papers/google.pdf",
+    "upvotes": 18,
+    "author": "robin_reala",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=29836720"
+  },
+  {
     "title": "GitHub Projects – Customizable, flexible tool for planning and tracking work",
     "url": "https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects",
-    "upvotes": 144,
+    "upvotes": 148,
     "author": "gilad",
-    "comments": 62,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=29832191"
+  },
+  {
+    "title": "An Unreliable Datagram Extension to QUIC",
+    "url": "https://quicwg.org/datagram/draft-ietf-quic-datagram.html",
+    "upvotes": 6,
+    "author": "born-jre",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29837799"
   },
   {
     "title": "Quit Your Job",
     "url": "https://palladiummag.com/2022/01/06/quit-your-job/",
-    "upvotes": 284,
+    "upvotes": 293,
     "author": "bobcostas55",
-    "comments": 306,
+    "comments": 310,
     "link": "https://news.ycombinator.com/item?id=29830743"
   },
   {
     "title": "The ITC declares Google infringed on audio tech patents held by Sonos [pdf]",
     "url": "https://www.usitc.gov/system/files/secretary/fed_reg_notices/337/337_1191_notice01062022sgl.pdf",
-    "upvotes": 122,
+    "upvotes": 124,
     "author": "vaibhavgandhi12",
-    "comments": 89,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=29831929"
-  },
-  {
-    "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine",
-    "url": "http://infolab.stanford.edu/pub/papers/google.pdf",
-    "upvotes": 14,
-    "author": "robin_reala",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29836720"
   },
   {
     "title": "JPEG: Image Compression Algorithm",
     "url": "http://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html",
-    "upvotes": 94,
+    "upvotes": 97,
     "author": "max_",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=29821687"
-  },
-  {
-    "title": "Ask HN: My boss doesn't think I'm doing good work, how to proceed?",
-    "url": "item?id=29830770",
-    "upvotes": 321,
-    "author": "dazeandconfuse",
-    "comments": 402,
-    "link": "https://news.ycombinator.com/item?id=29830770"
-  },
-  {
-    "title": "Peter Bogdanovich has died",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/peter-bogdanovich-dead-last-picture-show-1235070769/",
-    "upvotes": 39,
-    "author": "pseudolus",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=29828123"
   }
 ]
