@@ -2,73 +2,81 @@
   {
     "title": "In MySQL, use “utf8mb4” instead of “utf8”",
     "url": "https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434",
-    "upvotes": 305,
+    "upvotes": 327,
     "author": "pcr910303",
-    "comments": 166,
+    "comments": 184,
     "link": "https://news.ycombinator.com/item?id=29907551"
   },
   {
     "title": "Making nice-looking and interactive diagrams for your PCBs",
     "url": "https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/",
-    "upvotes": 79,
+    "upvotes": 95,
     "author": "phsilva",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29871371"
   },
   {
     "title": "Parcel CSS: A new CSS parser, compiler, and minifier",
     "url": "https://parceljs.org/blog/parcel-css/",
-    "upvotes": 81,
+    "upvotes": 94,
     "author": "Lapz",
-    "comments": 20,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=29909533"
-  },
-  {
-    "title": "Release of IPython 8.0",
-    "url": "https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef?gi=5efbb52d543e",
-    "upvotes": 171,
-    "author": "carreau",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=29906774"
-  },
-  {
-    "title": "UltraRAM: 'Universal Memory' That Brings RAM-Like Speed to Non-Volatile Storage",
-    "url": "https://www.tomshardware.com/news/ultraram-implemented-in-silicon-for-first-time",
-    "upvotes": 93,
-    "author": "pulse7",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=29889741"
   },
   {
     "title": "Great AA Alkaline Battery Test",
     "url": "https://goughlui.com/2016/12/19/great-aa-alkaline-battery-test-pt-1-battery-testing-fundamentals/",
-    "upvotes": 18,
+    "upvotes": 32,
     "author": "ValentineC",
-    "comments": 2,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29910710"
+  },
+  {
+    "title": "UltraRAM: 'Universal Memory' That Brings RAM-Like Speed to Non-Volatile Storage",
+    "url": "https://www.tomshardware.com/news/ultraram-implemented-in-silicon-for-first-time",
+    "upvotes": 105,
+    "author": "pulse7",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=29889741"
+  },
+  {
+    "title": "Release of IPython 8.0",
+    "url": "https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef?gi=5efbb52d543e",
+    "upvotes": 177,
+    "author": "carreau",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=29906774"
+  },
+  {
+    "title": "Show HN: I built a gravity simulator in pure CSS",
+    "url": "https://www.multiplanetary.website/rocketscience",
+    "upvotes": 20,
+    "author": "cryptography",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29910837"
   },
   {
     "title": "Young people from Brazil's favelas set out to conquer digital world",
     "url": "https://www.spiegel.de/international/world/brazil-s-favela-tech-boom-young-people-from-poor-neighborhoods-set-out-to-conquer-digital-world-a-81a80497-0634-49e1-ad31-d1c8d5f83382",
-    "upvotes": 33,
+    "upvotes": 50,
     "author": "zwieback",
-    "comments": 13,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29909614"
   },
   {
     "title": "FOSS donations which reach the roots",
     "url": "https://github.com/openfare/openfare",
-    "upvotes": 38,
+    "upvotes": 46,
     "author": "rndhouse",
-    "comments": 12,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=29909068"
   },
   {
     "title": "Writing a Game Boy Emulator in OCaml",
     "url": "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/",
-    "upvotes": 298,
+    "upvotes": 304,
     "author": "yakshaving_jgt",
-    "comments": 60,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=29904425"
   },
   {
@@ -78,161 +86,153 @@
   {
     "title": "The State of Web Scraping 2022",
     "url": "https://scrapeops.io/blog/the-state-of-web-scraping-2022/",
-    "upvotes": 135,
+    "upvotes": 145,
     "author": "Ian_Kerins",
-    "comments": 83,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=29905799"
-  },
-  {
-    "title": "Show HN: I built a gravity simulator in pure CSS",
-    "url": "https://www.multiplanetary.website/rocketscience",
-    "upvotes": 10,
-    "author": "cryptography",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29910837"
-  },
-  {
-    "title": "Mullvad: Diskless infrastructure using stboot in beta",
-    "url": "https://mullvad.net/en/blog/2022/1/12/diskless-infrastructure-beta-system-transparency-stboot/",
-    "upvotes": 336,
-    "author": "NabiDev",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=29903695"
-  },
-  {
-    "title": "Apache PLC4X announcing end of community support due to missing funding",
-    "url": "https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc",
-    "upvotes": 238,
-    "author": "schlotzisk",
-    "comments": 123,
-    "link": "https://news.ycombinator.com/item?id=29904261"
   },
   {
     "title": "Who Is the Network Access Broker ‘Wazawaka?’",
     "url": "https://krebsonsecurity.com/2022/01/who-is-the-network-access-broker-wazawaka/",
-    "upvotes": 30,
+    "upvotes": 38,
     "author": "feross",
-    "comments": 17,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=29908601"
+  },
+  {
+    "title": "Apache PLC4X announcing end of community support due to missing funding",
+    "url": "https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc",
+    "upvotes": 245,
+    "author": "schlotzisk",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=29904261"
+  },
+  {
+    "title": "Mullvad: Diskless infrastructure using stboot in beta",
+    "url": "https://mullvad.net/en/blog/2022/1/12/diskless-infrastructure-beta-system-transparency-stboot/",
+    "upvotes": 341,
+    "author": "NabiDev",
+    "comments": 119,
+    "link": "https://news.ycombinator.com/item?id=29903695"
   },
   {
     "title": "Goldman Sachs invests $250M in compressed air energy storage",
     "url": "https://www.canarymedia.com/articles/long-duration-energy-storage/goldman-sachs-just-made-a-record-setting-investment-in-long-duration-energy-storage",
-    "upvotes": 191,
+    "upvotes": 199,
     "author": "rwmj",
-    "comments": 239,
+    "comments": 244,
     "link": "https://news.ycombinator.com/item?id=29907101"
   },
   {
     "title": "Why don't I have a blog?",
     "url": "https://fede.dm/blog/",
-    "upvotes": 36,
+    "upvotes": 43,
     "author": "BaraBatman",
-    "comments": 28,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=29908077"
-  },
-  {
-    "title": "People behave more sadistically when they’re bored",
-    "url": "https://digest.bps.org.uk/2022/01/12/people-behave-more-sadistically-when-theyre-bored/",
-    "upvotes": 87,
-    "author": "DocFeind",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=29909087"
-  },
-  {
-    "title": "Amish Hackers",
-    "url": "https://kk.org/thetechnium/amish-hackers-a/",
-    "upvotes": 104,
-    "author": "harryvederci",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=29905288"
-  },
-  {
-    "title": "Wine on Wayland year-end update: improved functionality and stability",
-    "url": "https://www.collabora.com/news-and-blog/blog/2021/12/22/wine-on-wayland-year-end-update-improved-functionality-stability/",
-    "upvotes": 91,
-    "author": "mfilion",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=29905142"
-  },
-  {
-    "title": "RDS vs. PlanetScale: Pricing Considerations",
-    "url": "https://www.vantage.sh/blog/2022-01-12-rds-vs-planetscale-pricing-considerations",
-    "upvotes": 24,
-    "author": "samlambert",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29910812"
-  },
-  {
-    "title": "Autofocus on a Pi – ArduCam's new 16MP camera",
-    "url": "https://www.jeffgeerling.com/blog/2022/autofocus-on-pi-arducams-new-16mp-camera",
-    "upvotes": 48,
-    "author": "geerlingguy",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=29907272"
-  },
-  {
-    "title": "Should proofs include a third “context” column?",
-    "url": "https://matheducators.stackexchange.com/questions/24798/should-proofs-include-a-third-context-column",
-    "upvotes": 7,
-    "author": "abrax3141",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29905013"
-  },
-  {
-    "title": "Articles on Cyber-Warfare from the Modern War Institute at West Point",
-    "url": "https://mwi.usma.edu/full-spectrum/",
-    "upvotes": 90,
-    "author": "Ice_cream_suit",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=29872227"
-  },
-  {
-    "title": "Lawsuit aiming to break up Facebook group Meta can go ahead, US court rules",
-    "url": "https://www.theguardian.com/technology/2022/jan/12/lawsuit-aiming-to-break-up-facebook-group-meta-can-go-ahead-us-court-rules",
-    "upvotes": 177,
-    "author": "pseudolus",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=29906953"
-  },
-  {
-    "title": "Dutch Athletes Warned to Keep Phones and Laptops Out of China",
-    "url": "https://www.reuters.com/lifestyle/sports/dutch-athletes-warned-keep-phones-laptops-out-china-media-2022-01-11/",
-    "upvotes": 54,
-    "author": "throway453sde",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=29909573"
   },
   {
     "title": "Who Contributed to PostgreSQL Development in 2020 and 2021?",
     "url": "http://rhaas.blogspot.com/2022/01/who-contributed-to-postgresql.html",
-    "upvotes": 6,
+    "upvotes": 14,
     "author": "craigkerstiens",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29910327"
   },
   {
-    "title": "Ask HN: Career change for elderly UK ex-convict?",
-    "url": "item?id=29904654",
-    "upvotes": 247,
-    "author": "throwaway301010",
-    "comments": 147,
-    "link": "https://news.ycombinator.com/item?id=29904654"
+    "title": "RDS vs. PlanetScale: Pricing Considerations",
+    "url": "https://www.vantage.sh/blog/2022-01-12-rds-vs-planetscale-pricing-considerations",
+    "upvotes": 30,
+    "author": "samlambert",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=29910812"
+  },
+  {
+    "title": "Amish Hackers",
+    "url": "https://kk.org/thetechnium/amish-hackers-a/",
+    "upvotes": 108,
+    "author": "harryvederci",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=29905288"
+  },
+  {
+    "title": "Wine on Wayland year-end update: improved functionality and stability",
+    "url": "https://www.collabora.com/news-and-blog/blog/2021/12/22/wine-on-wayland-year-end-update-improved-functionality-stability/",
+    "upvotes": 94,
+    "author": "mfilion",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=29905142"
+  },
+  {
+    "title": "People behave more sadistically when they’re bored",
+    "url": "https://digest.bps.org.uk/2022/01/12/people-behave-more-sadistically-when-theyre-bored/",
+    "upvotes": 97,
+    "author": "DocFeind",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=29909087"
+  },
+  {
+    "title": "Articles on Cyber-Warfare from the Modern War Institute at West Point",
+    "url": "https://mwi.usma.edu/full-spectrum/",
+    "upvotes": 94,
+    "author": "Ice_cream_suit",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=29872227"
+  },
+  {
+    "title": "Should proofs include a third “context” column?",
+    "url": "https://matheducators.stackexchange.com/questions/24798/should-proofs-include-a-third-context-column",
+    "upvotes": 8,
+    "author": "abrax3141",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29905013"
+  },
+  {
+    "title": "Dutch Athletes Warned to Keep Phones and Laptops Out of China",
+    "url": "https://www.reuters.com/lifestyle/sports/dutch-athletes-warned-keep-phones-laptops-out-china-media-2022-01-11/",
+    "upvotes": 69,
+    "author": "throway453sde",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=29909573"
+  },
+  {
+    "title": "Lawsuit aiming to break up Facebook group Meta can go ahead, US court rules",
+    "url": "https://www.theguardian.com/technology/2022/jan/12/lawsuit-aiming-to-break-up-facebook-group-meta-can-go-ahead-us-court-rules",
+    "upvotes": 189,
+    "author": "pseudolus",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=29906953"
+  },
+  {
+    "title": "Autofocus on a Pi – ArduCam's new 16MP camera",
+    "url": "https://www.jeffgeerling.com/blog/2022/autofocus-on-pi-arducams-new-16mp-camera",
+    "upvotes": 52,
+    "author": "geerlingguy",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=29907272"
   },
   {
     "title": "State of Machine Learning in Julia",
     "url": "https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385",
-    "upvotes": 225,
+    "upvotes": 228,
     "author": "agnosticmantis",
-    "comments": 65,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=29902846"
   },
   {
     "title": "Hang your code out to DRY",
     "url": "https://johan.hal.se/wrote/2022/01/09/hang-your-code-out-to-dry/",
-    "upvotes": 52,
+    "upvotes": 57,
     "author": "hejsna",
-    "comments": 50,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=29876305"
+  },
+  {
+    "title": "Ask HN: Career change for elderly UK ex-convict?",
+    "url": "item?id=29904654",
+    "upvotes": 253,
+    "author": "throwaway301010",
+    "comments": 151,
+    "link": "https://news.ycombinator.com/item?id=29904654"
   }
 ]
