@@ -2,41 +2,49 @@
   {
     "title": "The Dark Web Has Its Own People's Court where cybercriminals work out disputes",
     "url": "https://analyst1.com/blog/dark-web-justice-league",
-    "upvotes": 59,
+    "upvotes": 91,
     "author": "scottmessick",
-    "comments": 22,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=29912184"
   },
   {
     "title": "In MySQL, use “utf8mb4” instead of “utf8”",
     "url": "https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434",
-    "upvotes": 393,
+    "upvotes": 404,
     "author": "pcr910303",
-    "comments": 220,
+    "comments": 230,
     "link": "https://news.ycombinator.com/item?id=29907551"
+  },
+  {
+    "title": "Uncensorable, immutable microblogging platform that is completely decentralized",
+    "url": "https://github.com/publiusfederalist/zooko",
+    "upvotes": 33,
+    "author": "abriosi",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=29912396"
   },
   {
     "title": "Great AA Alkaline Battery Test",
     "url": "https://goughlui.com/2016/12/19/great-aa-alkaline-battery-test-pt-1-battery-testing-fundamentals/",
-    "upvotes": 102,
+    "upvotes": 109,
     "author": "ValentineC",
-    "comments": 81,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=29910710"
   },
   {
     "title": "They Still Haven't Told You",
     "url": "https://arxiv.org/abs/2201.00223",
-    "upvotes": 17,
+    "upvotes": 79,
     "author": "zemptime",
-    "comments": null,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29912450"
   },
   {
     "title": "Parcel CSS: A new CSS parser, compiler, and minifier",
     "url": "https://parceljs.org/blog/parcel-css/",
-    "upvotes": 160,
+    "upvotes": 172,
     "author": "Lapz",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=29909533"
   },
   {
@@ -44,57 +52,49 @@
     "url": "https://jobs.lever.co/buildzoom"
   },
   {
-    "title": "Inflation rises to 7% in December",
-    "url": "https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category.htm#",
-    "upvotes": 27,
-    "author": "rsj_hn",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=29912141"
+    "title": "World ocean temperatures in 2021 were the hottest ever recorded",
+    "url": "https://www.axios.com/global-ocean-temperatures-record-high-935b1b7e-2adf-4759-b8a6-d4747a94c809.html",
+    "upvotes": 13,
+    "author": "brimnes",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29912717"
+  },
+  {
+    "title": "Async Rust in Practice: Performance, Pitfalls, Profiling",
+    "url": "https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/",
+    "upvotes": 75,
+    "author": "uberdru",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=29911141"
   },
   {
     "title": "Making nice-looking and interactive diagrams for your PCBs",
     "url": "https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/",
-    "upvotes": 132,
+    "upvotes": 139,
     "author": "phsilva",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29871371"
   },
   {
-    "title": "Async Rust in Practice: Performance, Pitfalls, Profiling",
-    "url": "https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/",
-    "upvotes": 61,
-    "author": "uberdru",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=29911141"
-  },
-  {
-    "title": "Uncensorable, immutable microblogging platform that is completely decentralized",
-    "url": "https://github.com/publiusfederalist/zooko",
-    "upvotes": 11,
-    "author": "abriosi",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29912396"
-  },
-  {
     "title": "About the security content of iOS 15.2.1 and iPadOS 15.2.1",
     "url": "https://support.apple.com/en-us/HT213043",
-    "upvotes": 30,
+    "upvotes": 35,
     "author": "shantara",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29911783"
   },
   {
     "title": "UltraRAM: 'Universal Memory' That Brings RAM-Like Speed to Non-Volatile Storage",
     "url": "https://www.tomshardware.com/news/ultraram-implemented-in-silicon-for-first-time",
-    "upvotes": 146,
+    "upvotes": 152,
     "author": "pulse7",
-    "comments": 78,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=29889741"
   },
   {
     "title": "Release of IPython 8.0",
     "url": "https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef?gi=5efbb52d543e",
-    "upvotes": 224,
+    "upvotes": 229,
     "author": "carreau",
     "comments": 85,
     "link": "https://news.ycombinator.com/item?id=29906774"
@@ -102,79 +102,103 @@
   {
     "title": "Losing our product to button syndrome",
     "url": "https://olickel.com/button-syndrome",
-    "upvotes": 25,
+    "upvotes": 30,
     "author": "hrishi",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=29911965"
   },
   {
-    "title": "Ask HN: Good open source alternatives to Google Analytics?",
-    "url": "item?id=29888599",
-    "upvotes": 36,
-    "author": "TekMol",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=29888599"
-  },
-  {
-    "title": "Young people from Brazil's favelas set out to conquer digital world",
-    "url": "https://www.spiegel.de/international/world/brazil-s-favela-tech-boom-young-people-from-poor-neighborhoods-set-out-to-conquer-digital-world-a-81a80497-0634-49e1-ad31-d1c8d5f83382",
-    "upvotes": 77,
-    "author": "zwieback",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=29909614"
+    "title": "Heartfuck",
+    "url": "https://github.com/burgravian/heartfuck",
+    "upvotes": 16,
+    "author": "diogenesjunior",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29912710"
   },
   {
     "title": "Show HN: I built a gravity simulator in pure CSS",
     "url": "https://www.multiplanetary.website/rocketscience",
-    "upvotes": 31,
+    "upvotes": 34,
     "author": "cryptography",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29910837"
+  },
+  {
+    "title": "Young people from Brazil's favelas set out to conquer digital world",
+    "url": "https://www.spiegel.de/international/world/brazil-s-favela-tech-boom-young-people-from-poor-neighborhoods-set-out-to-conquer-digital-world-a-81a80497-0634-49e1-ad31-d1c8d5f83382",
+    "upvotes": 79,
+    "author": "zwieback",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=29909614"
+  },
+  {
+    "title": "Ask HN: Good open source alternatives to Google Analytics?",
+    "url": "item?id=29888599",
+    "upvotes": 48,
+    "author": "TekMol",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=29888599"
   },
   {
     "title": "Writing a Game Boy Emulator in OCaml",
     "url": "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/",
-    "upvotes": 329,
+    "upvotes": 334,
     "author": "yakshaving_jgt",
-    "comments": 63,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=29904425"
   },
   {
     "title": "The State of Web Scraping 2022",
     "url": "https://scrapeops.io/blog/the-state-of-web-scraping-2022/",
-    "upvotes": 179,
+    "upvotes": 184,
     "author": "Ian_Kerins",
-    "comments": 102,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=29905799"
+  },
+  {
+    "title": "Chip Aging Becomes Design Problem",
+    "url": "https://semiengineering.com/chip-aging-becomes-design-problem/",
+    "upvotes": 14,
+    "author": "CTOSian",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29889951"
   },
   {
     "title": "Who Contributed to PostgreSQL Development in 2020 and 2021?",
     "url": "http://rhaas.blogspot.com/2022/01/who-contributed-to-postgresql.html",
-    "upvotes": 37,
+    "upvotes": 44,
     "author": "craigkerstiens",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=29910327"
   },
   {
-    "title": "Beastly Clues: T. S. Eliot, Torquemada, and the Modernist Crossword",
-    "url": "https://publicdomainreview.org/essay/beastly-clues/",
-    "upvotes": 8,
-    "author": "benbreen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29911071"
+    "title": "Inflation rises to 7% in December",
+    "url": "https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category.htm#",
+    "upvotes": 56,
+    "author": "rsj_hn",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=29912141"
+  },
+  {
+    "title": "Using Git Commit Message Templates to Write Better Commit Messages",
+    "url": "https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733",
+    "upvotes": 28,
+    "author": "ingve",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29911308"
   },
   {
     "title": "Mullvad: Diskless infrastructure using stboot in beta",
     "url": "https://mullvad.net/en/blog/2022/1/12/diskless-infrastructure-beta-system-transparency-stboot/",
-    "upvotes": 356,
+    "upvotes": 360,
     "author": "NabiDev",
-    "comments": 121,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=29903695"
   },
   {
     "title": "Why don't I have a blog?",
     "url": "https://fede.dm/blog/",
-    "upvotes": 63,
+    "upvotes": 67,
     "author": "BaraBatman",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=29908077"
@@ -182,57 +206,33 @@
   {
     "title": "Apache PLC4X announcing end of community support due to missing funding",
     "url": "https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc",
-    "upvotes": 259,
+    "upvotes": 261,
     "author": "schlotzisk",
     "comments": 136,
     "link": "https://news.ycombinator.com/item?id=29904261"
   },
   {
-    "title": "FOSS donations which reach the roots",
-    "url": "https://github.com/openfare/openfare",
-    "upvotes": 59,
-    "author": "rndhouse",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=29909068"
+    "title": "Beastly Clues: T. S. Eliot, Torquemada, and the Modernist Crossword",
+    "url": "https://publicdomainreview.org/essay/beastly-clues/",
+    "upvotes": 12,
+    "author": "benbreen",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29911071"
   },
   {
-    "title": "Chip Aging Becomes Design Problem",
-    "url": "https://semiengineering.com/chip-aging-becomes-design-problem/",
-    "upvotes": 8,
-    "author": "CTOSian",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29889951"
+    "title": "FOSS donations which reach the roots",
+    "url": "https://github.com/openfare/openfare",
+    "upvotes": 61,
+    "author": "rndhouse",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=29909068"
   },
   {
     "title": "RDS vs. PlanetScale: Pricing Considerations",
     "url": "https://www.vantage.sh/blog/2022-01-12-rds-vs-planetscale-pricing-considerations",
     "upvotes": 48,
     "author": "samlambert",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29910812"
-  },
-  {
-    "title": "Using Git Commit Message Templates to Write Better Commit Messages",
-    "url": "https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733",
-    "upvotes": 22,
-    "author": "ingve",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29911308"
-  },
-  {
-    "title": "A Look at WhatsApp: Engineering for Success at Scale",
-    "url": "https://developers.facebook.com/videos/f8-2016/a-look-at-whatsapp-engineering-for-success-at-scale/",
-    "upvotes": 5,
-    "author": "rrampage",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29912364"
-  },
-  {
-    "title": "Goldman Sachs invests $250M in compressed air energy storage",
-    "url": "https://www.canarymedia.com/articles/long-duration-energy-storage/goldman-sachs-just-made-a-record-setting-investment-in-long-duration-energy-storage",
-    "upvotes": 219,
-    "author": "rwmj",
-    "comments": 272,
-    "link": "https://news.ycombinator.com/item?id=29907101"
   }
 ]
