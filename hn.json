@@ -1,51 +1,59 @@
 [
   {
-    "title": "In MySQL, never use “utf8”. Use “utf8mb4”",
+    "title": "In MySQL, use “utf8mb4” instead of “utf8”",
     "url": "https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434",
-    "upvotes": 205,
+    "upvotes": 236,
     "author": "pcr910303",
-    "comments": 97,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=29907551"
-  },
-  {
-    "title": "People behave more sadistically when they’re bored",
-    "url": "https://digest.bps.org.uk/2022/01/12/people-behave-more-sadistically-when-theyre-bored/",
-    "upvotes": 45,
-    "author": "DocFeind",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=29909087"
   },
   {
     "title": "Release of IPython 8.0",
     "url": "https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef?gi=5efbb52d543e",
-    "upvotes": 116,
+    "upvotes": 142,
     "author": "carreau",
-    "comments": 45,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=29906774"
   },
   {
-    "title": "Goldman Sachs invests $250m in compressed air energy storage",
-    "url": "https://www.canarymedia.com/articles/long-duration-energy-storage/goldman-sachs-just-made-a-record-setting-investment-in-long-duration-energy-storage",
-    "upvotes": 158,
-    "author": "rwmj",
-    "comments": 178,
-    "link": "https://news.ycombinator.com/item?id=29907101"
+    "title": "Making nice-looking and interactive diagrams for your PCBs",
+    "url": "https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/",
+    "upvotes": 25,
+    "author": "phsilva",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29871371"
+  },
+  {
+    "title": "Parcel CSS: A new CSS parser, compiler, and minifier",
+    "url": "https://parceljs.org/blog/parcel-css/",
+    "upvotes": 28,
+    "author": "Lapz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29909533"
   },
   {
     "title": "UltraRAM: 'Universal Memory' That Brings RAM-Like Speed to Non-Volatile Storage",
     "url": "https://www.tomshardware.com/news/ultraram-implemented-in-silicon-for-first-time",
-    "upvotes": 34,
+    "upvotes": 55,
     "author": "pulse7",
-    "comments": 11,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=29889741"
   },
   {
     "title": "Writing a Game Boy Emulator in OCaml",
     "url": "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/",
-    "upvotes": 270,
+    "upvotes": 279,
     "author": "yakshaving_jgt",
-    "comments": 51,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=29904425"
+  },
+  {
+    "title": "Goldman Sachs invests $250M in compressed air energy storage",
+    "url": "https://www.canarymedia.com/articles/long-duration-energy-storage/goldman-sachs-just-made-a-record-setting-investment-in-long-duration-energy-storage",
+    "upvotes": 174,
+    "author": "rwmj",
+    "comments": 207,
+    "link": "https://news.ycombinator.com/item?id=29907101"
   },
   {
     "title": "Supabase",
@@ -54,79 +62,71 @@
   {
     "title": "The State of Web Scraping 2022",
     "url": "https://scrapeops.io/blog/the-state-of-web-scraping-2022/",
-    "upvotes": 96,
+    "upvotes": 114,
     "author": "Ian_Kerins",
-    "comments": 66,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=29905799"
-  },
-  {
-    "title": "Apache PLC4X announcing end of community support due to missing funding",
-    "url": "https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc",
-    "upvotes": 217,
-    "author": "schlotzisk",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=29904261"
-  },
-  {
-    "title": "Mullvad: Diskless infrastructure using stboot in beta",
-    "url": "https://mullvad.net/en/blog/2022/1/12/diskless-infrastructure-beta-system-transparency-stboot/",
-    "upvotes": 305,
-    "author": "NabiDev",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=29903695"
-  },
-  {
-    "title": "Ask HN: Are Microsoft development stack and Azure a dead-end career path?",
-    "url": "item?id=29909541",
-    "upvotes": 23,
-    "author": "a_brawling_boo",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=29909541"
   },
   {
     "title": "FOSS donations which reach the roots",
     "url": "https://github.com/openfare/openfare",
-    "upvotes": 12,
+    "upvotes": 20,
     "author": "rndhouse",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29909068"
   },
   {
+    "title": "Apache PLC4X announcing end of community support due to missing funding",
+    "url": "https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc",
+    "upvotes": 223,
+    "author": "schlotzisk",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=29904261"
+  },
+  {
+    "title": "Mullvad: Diskless infrastructure using stboot in beta",
+    "url": "https://mullvad.net/en/blog/2022/1/12/diskless-infrastructure-beta-system-transparency-stboot/",
+    "upvotes": 316,
+    "author": "NabiDev",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=29903695"
+  },
+  {
+    "title": "People behave more sadistically when they’re bored",
+    "url": "https://digest.bps.org.uk/2022/01/12/people-behave-more-sadistically-when-theyre-bored/",
+    "upvotes": 66,
+    "author": "DocFeind",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=29909087"
+  },
+  {
     "title": "Amish Hackers",
     "url": "https://kk.org/thetechnium/amish-hackers-a/",
-    "upvotes": 93,
+    "upvotes": 98,
     "author": "harryvederci",
-    "comments": 40,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=29905288"
   },
   {
     "title": "Wine on Wayland year-end update: improved functionality and stability",
     "url": "https://www.collabora.com/news-and-blog/blog/2021/12/22/wine-on-wayland-year-end-update-improved-functionality-stability/",
-    "upvotes": 74,
+    "upvotes": 83,
     "author": "mfilion",
-    "comments": 26,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=29905142"
-  },
-  {
-    "title": "Google hired union-busting consultants to convince employees “unions suck”",
-    "url": "https://arstechnica.com/tech-policy/2022/01/google-hired-union-busting-consultants-to-convince-employees-unions-suck/",
-    "upvotes": 288,
-    "author": "60654",
-    "comments": 332,
-    "link": "https://news.ycombinator.com/item?id=29906713"
   },
   {
     "title": "Who Is the Network Access Broker ‘Wazawaka?’",
     "url": "https://krebsonsecurity.com/2022/01/who-is-the-network-access-broker-wazawaka/",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "feross",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29908601"
   },
   {
     "title": "Articles on Cyber-Warfare from the Modern War Institute at West Point",
     "url": "https://mwi.usma.edu/full-spectrum/",
-    "upvotes": 78,
+    "upvotes": 85,
     "author": "Ice_cream_suit",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29872227"
@@ -134,105 +134,105 @@
   {
     "title": "Autofocus on a Pi – ArduCam's new 16MP camera",
     "url": "https://www.jeffgeerling.com/blog/2022/autofocus-on-pi-arducams-new-16mp-camera",
-    "upvotes": 30,
+    "upvotes": 37,
     "author": "geerlingguy",
-    "comments": 12,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=29907272"
   },
   {
     "title": "Lawsuit aiming to break up Facebook group Meta can go ahead, US court rules",
     "url": "https://www.theguardian.com/technology/2022/jan/12/lawsuit-aiming-to-break-up-facebook-group-meta-can-go-ahead-us-court-rules",
-    "upvotes": 113,
+    "upvotes": 133,
     "author": "pseudolus",
-    "comments": 57,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=29906953"
-  },
-  {
-    "title": "Welcome to Waifu Labs v2: How Do AIs Create?",
-    "url": "https://waifulabs.com/blog/ai-creativity",
-    "upvotes": 416,
-    "author": "Cixelyn",
-    "comments": 193,
-    "link": "https://news.ycombinator.com/item?id=29901550"
-  },
-  {
-    "title": "Ask HN: Career change for elderly UK ex-convict?",
-    "url": "item?id=29904654",
-    "upvotes": 220,
-    "author": "throwaway301010",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=29904654"
-  },
-  {
-    "title": "Ancient Mesopotamian discovery transforms knowledge of early farming",
-    "url": "https://www.rutgers.edu/news/ancient-mesopotamian-discovery-transforms-knowledge-early-farming",
-    "upvotes": 34,
-    "author": "rustoo",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29905954"
-  },
-  {
-    "title": "Ask HN: Do you have to use LinkedIn to get hired?",
-    "url": "item?id=29906328",
-    "upvotes": 75,
-    "author": "c64d81744074dfa",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=29906328"
-  },
-  {
-    "title": "State of Machine Learning in Julia",
-    "url": "https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385",
-    "upvotes": 213,
-    "author": "agnosticmantis",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=29902846"
-  },
-  {
-    "title": "Bladecoder: Point and Click Adventure Editor/Engine",
-    "url": "https://github.com/bladecoder/bladecoder-adventure-engine",
-    "upvotes": 118,
-    "author": "eloeffler",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=29872007"
-  },
-  {
-    "title": "The energetics of uniquely human subsistence strategies",
-    "url": "https://www.science.org/doi/10.1126/science.abf0130",
-    "upvotes": 28,
-    "author": "Hooke",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29887816"
   },
   {
     "title": "Why don't I have a blog?",
     "url": "https://fede.dm/blog/",
-    "upvotes": 10,
+    "upvotes": 18,
     "author": "BaraBatman",
-    "comments": 6,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=29908077"
   },
   {
     "title": "Pikchr – PIC-like markup language for diagrams in technical documentation",
     "url": "https://pikchr.org/home/doc/trunk/homepage.md",
-    "upvotes": 3,
+    "upvotes": 6,
     "author": "leonim",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29909560"
   },
   {
-    "title": "Parcel CSS: A new CSS parser, compiler, and minifier",
-    "url": "https://parceljs.org/blog/parcel-css/",
-    "upvotes": 4,
-    "author": "Lapz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29909533"
+    "title": "Hang your code out to DRY",
+    "url": "https://johan.hal.se/wrote/2022/01/09/hang-your-code-out-to-dry/",
+    "upvotes": 44,
+    "author": "hejsna",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=29876305"
   },
   {
-    "title": "From TypeScript to ReScript",
-    "url": "https://www.greyblake.com/blog/from-typescript-to-rescript/",
-    "upvotes": 96,
-    "author": "ingve",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=29903631"
+    "title": "Ask HN: Career change for elderly UK ex-convict?",
+    "url": "item?id=29904654",
+    "upvotes": 228,
+    "author": "throwaway301010",
+    "comments": 134,
+    "link": "https://news.ycombinator.com/item?id=29904654"
+  },
+  {
+    "title": "Ask HN: Do you have to use LinkedIn to get hired?",
+    "url": "item?id=29906328",
+    "upvotes": 85,
+    "author": "c64d81744074dfa",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=29906328"
+  },
+  {
+    "title": "State of Machine Learning in Julia",
+    "url": "https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385",
+    "upvotes": 216,
+    "author": "agnosticmantis",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=29902846"
+  },
+  {
+    "title": "Ancient Mesopotamian discovery transforms knowledge of early farming",
+    "url": "https://www.rutgers.edu/news/ancient-mesopotamian-discovery-transforms-knowledge-early-farming",
+    "upvotes": 36,
+    "author": "rustoo",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=29905954"
+  },
+  {
+    "title": "Derek Lowe is holding an AMA in r/coronavirus at 3pm ET",
+    "url": "https://twitter.com/Dereklowe/status/1481305566655954946",
+    "upvotes": 11,
+    "author": "_Microft",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29909446"
+  },
+  {
+    "title": "Bladecoder: Point and Click Adventure Editor/Engine",
+    "url": "https://github.com/bladecoder/bladecoder-adventure-engine",
+    "upvotes": 122,
+    "author": "eloeffler",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=29872007"
+  },
+  {
+    "title": "Brazil's Favela Tech Boom",
+    "url": "https://www.spiegel.de/international/world/brazil-s-favela-tech-boom-young-people-from-poor-neighborhoods-set-out-to-conquer-digital-world-a-81a80497-0634-49e1-ad31-d1c8d5f83382",
+    "upvotes": 4,
+    "author": "zwieback",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29909614"
+  },
+  {
+    "title": "The energetics of uniquely human subsistence strategies",
+    "url": "https://www.science.org/doi/10.1126/science.abf0130",
+    "upvotes": 29,
+    "author": "Hooke",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29887816"
   }
 ]
