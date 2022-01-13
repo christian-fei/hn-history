@@ -2,15 +2,15 @@
   {
     "title": "I think I know why you can't hire engineers right now",
     "url": "https://cushychicken.github.io/why-you-cant-hire-engineers/",
-    "upvotes": 210,
+    "upvotes": 241,
     "author": "cushychicken",
-    "comments": 224,
+    "comments": 256,
     "link": "https://news.ycombinator.com/item?id=29892437"
   },
   {
     "title": "Show HN: Bang Bookmarks – replicate DuckDuckGo bangs in Firefox using Keymarks",
     "url": "https://github.com/jameshealyio/bang-bookmarks",
-    "upvotes": 27,
+    "upvotes": 33,
     "author": "apimade",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=29916609"
@@ -18,15 +18,15 @@
   {
     "title": "Dark Web – Justice League",
     "url": "https://analyst1.com/blog/dark-web-justice-league",
-    "upvotes": 254,
+    "upvotes": 255,
     "author": "scottmessick",
-    "comments": 157,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=29912184"
   },
   {
     "title": "In MySQL, use “utf8mb4” instead of “utf8”",
     "url": "https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434",
-    "upvotes": 537,
+    "upvotes": 543,
     "author": "pcr910303",
     "comments": 302,
     "link": "https://news.ycombinator.com/item?id=29907551"
@@ -34,39 +34,47 @@
   {
     "title": "Send text messages for free using Python",
     "url": "https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/",
-    "upvotes": 83,
+    "upvotes": 94,
     "author": "alfredosequeida",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=29915412"
   },
   {
     "title": "Poor man's VPN",
     "url": "https://github.com/amritb/poor-mans-vpn",
-    "upvotes": 97,
+    "upvotes": 104,
     "author": "benpiper",
-    "comments": 55,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=29913515"
-  },
-  {
-    "title": "Great AA Alkaline Battery Test",
-    "url": "https://goughlui.com/2016/12/19/great-aa-alkaline-battery-test-pt-1-battery-testing-fundamentals/",
-    "upvotes": 212,
-    "author": "ValentineC",
-    "comments": 173,
-    "link": "https://news.ycombinator.com/item?id=29910710"
   },
   {
     "title": "Introduction to Model Predictive Control",
     "url": "https://arnavdhamija.com/2022/01/08/intro-to-mpc/",
-    "upvotes": 19,
+    "upvotes": 24,
     "author": "shorts_theory",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29896105"
   },
   {
+    "title": "Great AA Alkaline Battery Test",
+    "url": "https://goughlui.com/2016/12/19/great-aa-alkaline-battery-test-pt-1-battery-testing-fundamentals/",
+    "upvotes": 214,
+    "author": "ValentineC",
+    "comments": 173,
+    "link": "https://news.ycombinator.com/item?id=29910710"
+  },
+  {
+    "title": "Ask HN: What does everyone here think of the Wordle guy not monetizing it?",
+    "url": "item?id=29916899",
+    "upvotes": 29,
+    "author": "avl999",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=29916899"
+  },
+  {
     "title": "Parcel CSS: A new CSS parser, compiler, and minifier",
     "url": "https://parceljs.org/blog/parcel-css/",
-    "upvotes": 275,
+    "upvotes": 280,
     "author": "Lapz",
     "comments": 88,
     "link": "https://news.ycombinator.com/item?id=29909533"
@@ -74,165 +82,157 @@
   {
     "title": "Ask HN: Good open source alternatives to Google Analytics?",
     "url": "item?id=29888599",
-    "upvotes": 217,
+    "upvotes": 221,
     "author": "TekMol",
-    "comments": 83,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=29888599"
-  },
-  {
-    "title": "Erlang/OTP Profiling: Fprof",
-    "url": "https://medium.com/erlang-battleground/erlang-otp-profiling-fprof-b3a1b92e43e3",
-    "upvotes": 10,
-    "author": "elbrujohalcon",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29889535"
   },
   {
     "title": "Async Rust in Practice: Performance, Pitfalls, Profiling",
     "url": "https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/",
-    "upvotes": 196,
+    "upvotes": 202,
     "author": "uberdru",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29911141"
   },
   {
-    "title": "Ask HN: What does everyone here think of the Wordle guy not monetizing it?",
-    "url": "item?id=29916899",
-    "upvotes": 15,
-    "author": "avl999",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29916899"
+    "title": "Erlang/OTP Profiling: Fprof",
+    "url": "https://medium.com/erlang-battleground/erlang-otp-profiling-fprof-b3a1b92e43e3",
+    "upvotes": 12,
+    "author": "elbrujohalcon",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29889535"
   },
   {
     "title": "Making nice-looking and interactive diagrams for your PCBs",
     "url": "https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/",
-    "upvotes": 205,
+    "upvotes": 209,
     "author": "phsilva",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=29871371"
   },
   {
-    "title": "A small guide for naming stuff in front-end code",
-    "url": "https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/",
-    "upvotes": 33,
-    "author": "damir",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=29888589"
-  },
-  {
-    "title": "IPython 8.0",
-    "url": "https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef?gi=5efbb52d543e",
-    "upvotes": 297,
-    "author": "carreau",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=29906774"
+    "title": "The Memories of Z80 Past: Zaxxon and Future Spy",
+    "url": "https://nicole.express/2022/future-spy-but-its-now-the-future.html",
+    "upvotes": 23,
+    "author": "zdw",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=29916020"
   },
   {
     "title": "UltraRAM: 'Universal Memory' That Brings RAM-Like Speed to Non-Volatile Storage",
     "url": "https://www.tomshardware.com/news/ultraram-implemented-in-silicon-for-first-time",
-    "upvotes": 220,
+    "upvotes": 221,
     "author": "pulse7",
     "comments": 117,
     "link": "https://news.ycombinator.com/item?id=29889741"
   },
   {
-    "title": "The Memories of Z80 Past: Zaxxon and Future Spy",
-    "url": "https://nicole.express/2022/future-spy-but-its-now-the-future.html",
+    "title": "A small guide for naming stuff in front-end code",
+    "url": "https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/",
+    "upvotes": 38,
+    "author": "damir",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=29888589"
+  },
+  {
+    "title": "To stop building heat islands, stop overbuilding parking lots",
+    "url": "https://www.sightline.org/2022/01/11/to-stop-building-heat-islands-stop-overbuilding-parking-lots/",
     "upvotes": 19,
-    "author": "zdw",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29916020"
+    "author": "jseliger",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=29916214"
   },
   {
     "title": "Readers Love Curious George. I Fell in Love with the Author’s Astronomy Books",
     "url": "https://nautil.us/issue/112/inspiration/readers-love-curious-george-i-fell-in-love-with-the-authors-astronomy-books",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "dnetesn",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29890056"
   },
   {
+    "title": "Using Git commit message templates to write better commit messages",
+    "url": "https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733",
+    "upvotes": 122,
+    "author": "ingve",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=29911308"
+  },
+  {
+    "title": "Modern War Institute: We Ignore the Human Domain at Our Own Peril",
+    "url": "https://mwi.usma.edu/we-ignore-the-human-domain-at-our-own-peril/",
+    "upvotes": 5,
+    "author": "Phithagoras",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29887743"
+  },
+  {
     "title": "New info about cellular death process previously thought to be irreversible",
     "url": "https://today.uic.edu/scientists-uncover-new-information-about-cellular-death-process-previously-thought-to-be-irreversible",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "gmays",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29914477"
   },
   {
-    "title": "To stop building heat islands, stop overbuilding parking lots",
-    "url": "https://www.sightline.org/2022/01/11/to-stop-building-heat-islands-stop-overbuilding-parking-lots/",
-    "upvotes": 13,
-    "author": "jseliger",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=29916214"
-  },
-  {
-    "title": "Using Git commit message templates to write better commit messages",
-    "url": "https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733",
-    "upvotes": 114,
-    "author": "ingve",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=29911308"
+    "title": "Young people from Brazil's favelas set out to conquer digital world",
+    "url": "https://www.spiegel.de/international/world/brazil-s-favela-tech-boom-young-people-from-poor-neighborhoods-set-out-to-conquer-digital-world-a-81a80497-0634-49e1-ad31-d1c8d5f83382",
+    "upvotes": 135,
+    "author": "zwieback",
+    "comments": 124,
+    "link": "https://news.ycombinator.com/item?id=29909614"
   },
   {
     "title": "BuildZoom",
     "url": "https://jobs.lever.co/buildzoom"
   },
   {
-    "title": "Young people from Brazil's favelas set out to conquer digital world",
-    "url": "https://www.spiegel.de/international/world/brazil-s-favela-tech-boom-young-people-from-poor-neighborhoods-set-out-to-conquer-digital-world-a-81a80497-0634-49e1-ad31-d1c8d5f83382",
-    "upvotes": 134,
-    "author": "zwieback",
-    "comments": 122,
-    "link": "https://news.ycombinator.com/item?id=29909614"
-  },
-  {
-    "title": "Astronomers discover a strange galaxy without dark matter",
-    "url": "https://www.wired.com/story/astronomers-discover-a-strange-galaxy-without-dark-matter/",
-    "upvotes": 102,
-    "author": "rbanffy",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=29873500"
+    "title": "Apple execs: Let's take a 30% cut of Uber and Lyft's membership programs",
+    "url": "https://twitter.com/TechEmails/status/1481339345822879745",
+    "upvotes": 562,
+    "author": "mdoms",
+    "comments": 596,
+    "link": "https://news.ycombinator.com/item?id=29913693"
   },
   {
     "title": "Losing our product to button syndrome",
     "url": "https://olickel.com/button-syndrome",
-    "upvotes": 89,
+    "upvotes": 92,
     "author": "hrishi",
     "comments": 73,
     "link": "https://news.ycombinator.com/item?id=29911965"
   },
   {
-    "title": "Apple execs: Let's take a 30% cut of Uber and Lyft's membership programs",
-    "url": "https://twitter.com/TechEmails/status/1481339345822879745",
-    "upvotes": 549,
-    "author": "mdoms",
-    "comments": 590,
-    "link": "https://news.ycombinator.com/item?id=29913693"
-  },
-  {
-    "title": "About the security content of iOS 15.2.1 and iPadOS 15.2.1",
-    "url": "https://support.apple.com/en-us/HT213043",
-    "upvotes": 78,
-    "author": "shantara",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=29911783"
+    "title": "Astronomers discover a strange galaxy without dark matter",
+    "url": "https://www.wired.com/story/astronomers-discover-a-strange-galaxy-without-dark-matter/",
+    "upvotes": 103,
+    "author": "rbanffy",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=29873500"
   },
   {
     "title": "Why don't I have a blog?",
     "url": "https://fede.dm/blog/",
-    "upvotes": 129,
+    "upvotes": 132,
     "author": "BaraBatman",
     "comments": 88,
     "link": "https://news.ycombinator.com/item?id=29908077"
   },
   {
+    "title": "About the security content of iOS 15.2.1 and iPadOS 15.2.1",
+    "url": "https://support.apple.com/en-us/HT213043",
+    "upvotes": 79,
+    "author": "shantara",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=29911783"
+  },
+  {
     "title": "Ask HN: Have you ever been “poached” internally? Is this even a thing?",
     "url": "item?id=29916823",
-    "upvotes": 8,
+    "upvotes": 10,
     "author": "dvtrn",
-    "comments": 5,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=29916823"
   }
 ]
