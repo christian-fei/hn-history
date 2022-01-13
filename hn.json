@@ -1,64 +1,68 @@
 [
   {
+    "title": "Adhole.org Is Shutting Down",
+    "url": "https://adhole.org/",
+    "upvotes": 20,
+    "author": "genzer",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29919675"
+  },
+  {
     "title": "I think I know why you can't hire engineers right now",
     "url": "https://cushychicken.github.io/why-you-cant-hire-engineers/",
-    "upvotes": 510,
+    "upvotes": 552,
     "author": "cushychicken",
-    "comments": 543,
+    "comments": 581,
     "link": "https://news.ycombinator.com/item?id=29892437"
+  },
+  {
+    "title": "Ghost in the Ethernet Optic",
+    "url": "https://blog.benjojo.co.uk/post/smart-sfp-linux-inside",
+    "upvotes": 9,
+    "author": "rcarmo",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29919782"
   },
   {
     "title": "Nintendo wants users to forward ports 1~65535 to the Switch console",
     "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/22272/~/how-to-set-up-a-routers-port-forwarding-for-a-nintendo-switch-console",
-    "upvotes": 67,
+    "upvotes": 120,
     "author": "imalerba",
-    "comments": 38,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=29919228"
   },
   {
     "title": "Database-Less Torrent Website",
     "url": "https://boredcaveman.xyz/post/0x1_dbless-torrent-website.html",
-    "upvotes": 62,
+    "upvotes": 84,
     "author": "etagate",
-    "comments": 16,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=29917818"
-  },
-  {
-    "title": "Dark Web – Justice League",
-    "url": "https://analyst1.com/blog/dark-web-justice-league",
-    "upvotes": 295,
-    "author": "scottmessick",
-    "comments": 175,
-    "link": "https://news.ycombinator.com/item?id=29912184"
   },
   {
     "title": "Austrian DSB: EU-US Data Transfers to Google Analytics Illegal",
     "url": "https://noyb.eu/en/austrian-dsb-eu-us-data-transfers-google-analytics-illegal",
-    "upvotes": 67,
+    "upvotes": 90,
     "author": "sarnowski",
-    "comments": 15,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=29918496"
   },
   {
-    "title": "Show HN: Bang Bookmarks – replicate DuckDuckGo bangs in Firefox using Keymarks",
-    "url": "https://github.com/jameshealyio/bang-bookmarks",
-    "upvotes": 91,
-    "author": "apimade",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=29916609"
+    "title": "Smarking",
+    "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567"
   },
   {
     "title": "Send text messages for free using Python",
     "url": "https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/",
-    "upvotes": 175,
+    "upvotes": 186,
     "author": "alfredosequeida",
-    "comments": 68,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=29915412"
   },
   {
     "title": "Repeatable Execution",
     "url": "https://blog.ploeh.dk/2020/03/23/repeatable-execution/",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "BerislavLopac",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29889186"
@@ -66,75 +70,79 @@
   {
     "title": "Poor man's VPN",
     "url": "https://github.com/amritb/poor-mans-vpn",
-    "upvotes": 175,
+    "upvotes": 183,
     "author": "benpiper",
-    "comments": 81,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=29913515"
-  },
-  {
-    "title": "A tale of two translators, caught between civilisations",
-    "url": "https://www.historytoday.com/archive/review/missions-and-misunderstandings",
-    "upvotes": 14,
-    "author": "drdee",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29902550"
-  },
-  {
-    "title": "The Bidirectional Battery",
-    "url": "https://whyisthisinteresting.substack.com/p/the-bidirectional-battery-edition",
-    "upvotes": 23,
-    "author": "RickJWagner",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=29890869"
-  },
-  {
-    "title": "John Milton Argues for Divorce",
-    "url": "https://commonreader.wustl.edu/c/john-milton-argues-for-divorce/",
-    "upvotes": 12,
-    "author": "pepys",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=29902574"
-  },
-  {
-    "title": "Erlang/OTP Profiling: Fprof",
-    "url": "https://medium.com/erlang-battleground/erlang-otp-profiling-fprof-b3a1b92e43e3",
-    "upvotes": 44,
-    "author": "elbrujohalcon",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29889535"
-  },
-  {
-    "title": "Understanding as Hierarchical Model Building",
-    "url": "https://notes.invertedpassion.com/Knowledge/Understanding+as+hierarchical+model+building",
-    "upvotes": 9,
-    "author": "paraschopra",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29917994"
-  },
-  {
-    "title": "QuestDB",
-    "url": "https://questdb.io/careers/developer-in-test"
   },
   {
     "title": "Callbacks, Synchronous and Asynchronous",
     "url": "https://blog.ometer.com/2011/07/24/callbacks-synchronous-and-asynchronous/",
-    "upvotes": 5,
+    "upvotes": 9,
     "author": "LiveTheDream",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29909389"
   },
   {
+    "title": "Show HN: Bang Bookmarks – replicate DuckDuckGo bangs in Firefox using Keymarks",
+    "url": "https://github.com/jameshealyio/bang-bookmarks",
+    "upvotes": 93,
+    "author": "apimade",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=29916609"
+  },
+  {
+    "title": "The Bidirectional Battery",
+    "url": "https://whyisthisinteresting.substack.com/p/the-bidirectional-battery-edition",
+    "upvotes": 28,
+    "author": "RickJWagner",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=29890869"
+  },
+  {
+    "title": "John Milton Argues for Divorce",
+    "url": "https://commonreader.wustl.edu/c/john-milton-argues-for-divorce/",
+    "upvotes": 16,
+    "author": "pepys",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=29902574"
+  },
+  {
+    "title": "A tale of two translators, caught between civilisations",
+    "url": "https://www.historytoday.com/archive/review/missions-and-misunderstandings",
+    "upvotes": 16,
+    "author": "drdee",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29902550"
+  },
+  {
+    "title": "Erlang/OTP Profiling: Fprof",
+    "url": "https://medium.com/erlang-battleground/erlang-otp-profiling-fprof-b3a1b92e43e3",
+    "upvotes": 49,
+    "author": "elbrujohalcon",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29889535"
+  },
+  {
     "title": "The Memories of Z80 Past: Zaxxon and Future Spy",
     "url": "https://nicole.express/2022/future-spy-but-its-now-the-future.html",
-    "upvotes": 48,
+    "upvotes": 54,
     "author": "zdw",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=29916020"
   },
   {
+    "title": "Colors in movies and TV: What happened to them?",
+    "url": "https://www.vox.com/culture/22840526/colors-movies-tv-gray-digital-color-sludge",
+    "upvotes": 3,
+    "author": "JaimeThompson",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29892932"
+  },
+  {
     "title": "Introduction to Model Predictive Control",
     "url": "https://arnavdhamija.com/2022/01/08/intro-to-mpc/",
-    "upvotes": 43,
+    "upvotes": 47,
     "author": "shorts_theory",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29896105"
@@ -142,97 +150,89 @@
   {
     "title": "Modern War Institute: We Ignore the Human Domain at Our Own Peril",
     "url": "https://mwi.usma.edu/we-ignore-the-human-domain-at-our-own-peril/",
-    "upvotes": 25,
+    "upvotes": 30,
     "author": "Phithagoras",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29887743"
   },
   {
-    "title": "Toxic Culture Is Driving the Great Resignation",
-    "url": "https://sloanreview.mit.edu/article/toxic-culture-is-driving-the-great-resignation/",
-    "upvotes": 114,
-    "author": "Hard_Space",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=29917755"
+    "title": "Understanding as Hierarchical Model Building",
+    "url": "https://notes.invertedpassion.com/Knowledge/Understanding+as+hierarchical+model+building",
+    "upvotes": 11,
+    "author": "paraschopra",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29917994"
   },
   {
     "title": "Using Git commit message templates to write better commit messages",
     "url": "https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733",
-    "upvotes": 158,
+    "upvotes": 164,
     "author": "ingve",
-    "comments": 62,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=29911308"
   },
   {
     "title": "In MySQL, use “utf8mb4” instead of “utf8”",
     "url": "https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434",
-    "upvotes": 577,
+    "upvotes": 582,
     "author": "pcr910303",
-    "comments": 317,
+    "comments": 320,
     "link": "https://news.ycombinator.com/item?id=29907551"
   },
   {
-    "title": "Ask HN: Firefox connection problems after enabling DoH?",
-    "url": "item?id=29918052",
-    "upvotes": 598,
-    "author": "killdozer",
-    "comments": 339,
-    "link": "https://news.ycombinator.com/item?id=29918052"
+    "title": "New info about cellular death process previously thought to be irreversible",
+    "url": "https://today.uic.edu/scientists-uncover-new-information-about-cellular-death-process-previously-thought-to-be-irreversible",
+    "upvotes": 66,
+    "author": "gmays",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29914477"
   },
   {
-    "title": "Young people from Brazil's favelas set out to conquer digital world",
-    "url": "https://www.spiegel.de/international/world/brazil-s-favela-tech-boom-young-people-from-poor-neighborhoods-set-out-to-conquer-digital-world-a-81a80497-0634-49e1-ad31-d1c8d5f83382",
-    "upvotes": 149,
-    "author": "zwieback",
-    "comments": 149,
-    "link": "https://news.ycombinator.com/item?id=29909614"
+    "title": "Toxic Culture Is Driving the Great Resignation",
+    "url": "https://sloanreview.mit.edu/article/toxic-culture-is-driving-the-great-resignation/",
+    "upvotes": 130,
+    "author": "Hard_Space",
+    "comments": 109,
+    "link": "https://news.ycombinator.com/item?id=29917755"
   },
   {
     "title": "Losing our product to button syndrome",
     "url": "https://olickel.com/button-syndrome",
-    "upvotes": 108,
+    "upvotes": 112,
     "author": "hrishi",
     "comments": 99,
     "link": "https://news.ycombinator.com/item?id=29911965"
   },
   {
+    "title": "Dark Web – Justice League",
+    "url": "https://analyst1.com/blog/dark-web-justice-league",
+    "upvotes": 300,
+    "author": "scottmessick",
+    "comments": 177,
+    "link": "https://news.ycombinator.com/item?id=29912184"
+  },
+  {
     "title": "Readers Love Curious George. I Fell in Love with the Author’s Astronomy Books",
     "url": "https://nautil.us/issue/112/inspiration/readers-love-curious-george-i-fell-in-love-with-the-authors-astronomy-books",
-    "upvotes": 55,
+    "upvotes": 58,
     "author": "dnetesn",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=29890056"
   },
   {
-    "title": "New info about cellular death process previously thought to be irreversible",
-    "url": "https://today.uic.edu/scientists-uncover-new-information-about-cellular-death-process-previously-thought-to-be-irreversible",
-    "upvotes": 58,
-    "author": "gmays",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=29914477"
-  },
-  {
     "title": "A small guide for naming stuff in front-end code",
     "url": "https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/",
-    "upvotes": 66,
+    "upvotes": 69,
     "author": "damir",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29888589"
   },
   {
-    "title": "Apple execs: Let's take a 30% cut of Uber and Lyft's membership programs",
-    "url": "https://twitter.com/TechEmails/status/1481339345822879745",
-    "upvotes": 636,
-    "author": "mdoms",
-    "comments": 659,
-    "link": "https://news.ycombinator.com/item?id=29913693"
-  },
-  {
-    "title": "Ask HN: Good open source alternatives to Google Analytics?",
-    "url": "item?id=29888599",
-    "upvotes": 292,
-    "author": "TekMol",
-    "comments": 123,
-    "link": "https://news.ycombinator.com/item?id=29888599"
+    "title": "Ask HN: Firefox connection problems after enabling DoH?",
+    "url": "item?id=29918052",
+    "upvotes": 611,
+    "author": "killdozer",
+    "comments": 357,
+    "link": "https://news.ycombinator.com/item?id=29918052"
   }
 ]
