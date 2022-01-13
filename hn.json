@@ -1,48 +1,48 @@
 [
   {
-    "title": "I think I know why you can't hire engineers right now",
-    "url": "https://cushychicken.github.io/why-you-cant-hire-engineers/",
-    "upvotes": 387,
-    "author": "cushychicken",
-    "comments": 416,
-    "link": "https://news.ycombinator.com/item?id=29892437"
-  },
-  {
     "title": "Anyone else having problems with Firefox?",
     "url": "item?id=29918052",
-    "upvotes": 95,
+    "upvotes": 243,
     "author": "killdozer",
-    "comments": 33,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=29918052"
+  },
+  {
+    "title": "I think I know why you can't hire engineers right now",
+    "url": "https://cushychicken.github.io/why-you-cant-hire-engineers/",
+    "upvotes": 413,
+    "author": "cushychicken",
+    "comments": 444,
+    "link": "https://news.ycombinator.com/item?id=29892437"
   },
   {
     "title": "Show HN: Bang Bookmarks – replicate DuckDuckGo bangs in Firefox using Keymarks",
     "url": "https://github.com/jameshealyio/bang-bookmarks",
-    "upvotes": 66,
+    "upvotes": 75,
     "author": "apimade",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=29916609"
+  },
+  {
+    "title": "To stop building heat islands, stop overbuilding parking lots",
+    "url": "https://www.sightline.org/2022/01/11/to-stop-building-heat-islands-stop-overbuilding-parking-lots/",
+    "upvotes": 74,
+    "author": "jseliger",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=29916214"
   },
   {
     "title": "Dark Web – Justice League",
     "url": "https://analyst1.com/blog/dark-web-justice-league",
-    "upvotes": 276,
+    "upvotes": 280,
     "author": "scottmessick",
     "comments": 165,
     "link": "https://news.ycombinator.com/item?id=29912184"
   },
   {
-    "title": "To stop building heat islands, stop overbuilding parking lots",
-    "url": "https://www.sightline.org/2022/01/11/to-stop-building-heat-islands-stop-overbuilding-parking-lots/",
-    "upvotes": 64,
-    "author": "jseliger",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=29916214"
-  },
-  {
     "title": "Send text messages for free using Python",
     "url": "https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/",
-    "upvotes": 139,
+    "upvotes": 147,
     "author": "alfredosequeida",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=29915412"
@@ -50,51 +50,51 @@
   {
     "title": "Poor man's VPN",
     "url": "https://github.com/amritb/poor-mans-vpn",
-    "upvotes": 135,
+    "upvotes": 139,
     "author": "benpiper",
-    "comments": 65,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=29913515"
   },
   {
     "title": "Ask HN: Good open source alternatives to Google Analytics?",
     "url": "item?id=29888599",
-    "upvotes": 257,
+    "upvotes": 265,
     "author": "TekMol",
-    "comments": 108,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=29888599"
+  },
+  {
+    "title": "Great AA Alkaline Battery Test",
+    "url": "https://goughlui.com/2016/12/19/great-aa-alkaline-battery-test-pt-1-battery-testing-fundamentals/",
+    "upvotes": 234,
+    "author": "ValentineC",
+    "comments": 177,
+    "link": "https://news.ycombinator.com/item?id=29910710"
   },
   {
     "title": "QuestDB",
     "url": "https://questdb.io/careers/developer-in-test"
   },
   {
-    "title": "Great AA Alkaline Battery Test",
-    "url": "https://goughlui.com/2016/12/19/great-aa-alkaline-battery-test-pt-1-battery-testing-fundamentals/",
-    "upvotes": 229,
-    "author": "ValentineC",
-    "comments": 177,
-    "link": "https://news.ycombinator.com/item?id=29910710"
+    "title": "Toxic Culture Is Driving the Great Resignation",
+    "url": "https://sloanreview.mit.edu/article/toxic-culture-is-driving-the-great-resignation/",
+    "upvotes": 73,
+    "author": "Hard_Space",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=29917755"
   },
   {
     "title": "The Bidirectional Battery",
     "url": "https://whyisthisinteresting.substack.com/p/the-bidirectional-battery-edition",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "RickJWagner",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29890869"
   },
   {
-    "title": "Toxic Culture Is Driving the Great Resignation",
-    "url": "https://sloanreview.mit.edu/article/toxic-culture-is-driving-the-great-resignation/",
-    "upvotes": 65,
-    "author": "Hard_Space",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=29917755"
-  },
-  {
     "title": "Async Rust in Practice: Performance, Pitfalls, Profiling",
     "url": "https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/",
-    "upvotes": 212,
+    "upvotes": 217,
     "author": "uberdru",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=29911141"
@@ -102,10 +102,18 @@
   {
     "title": "Erlang/OTP Profiling: Fprof",
     "url": "https://medium.com/erlang-battleground/erlang-otp-profiling-fprof-b3a1b92e43e3",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "elbrujohalcon",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=29889535"
+  },
+  {
+    "title": "Introduction to Model Predictive Control",
+    "url": "https://arnavdhamija.com/2022/01/08/intro-to-mpc/",
+    "upvotes": 33,
+    "author": "shorts_theory",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=29896105"
   },
   {
     "title": "John Milton Argues for Divorce",
@@ -116,60 +124,60 @@
     "link": "https://news.ycombinator.com/item?id=29902574"
   },
   {
-    "title": "Introduction to Model Predictive Control",
-    "url": "https://arnavdhamija.com/2022/01/08/intro-to-mpc/",
-    "upvotes": 32,
-    "author": "shorts_theory",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29896105"
-  },
-  {
-    "title": "A small guide for naming stuff in front-end code",
-    "url": "https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/",
-    "upvotes": 52,
-    "author": "damir",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=29888589"
-  },
-  {
     "title": "Modern War Institute: We Ignore the Human Domain at Our Own Peril",
     "url": "https://mwi.usma.edu/we-ignore-the-human-domain-at-our-own-peril/",
-    "upvotes": 14,
+    "upvotes": 16,
     "author": "Phithagoras",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=29887743"
   },
   {
     "title": "Using Git commit message templates to write better commit messages",
     "url": "https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733",
-    "upvotes": 138,
+    "upvotes": 139,
     "author": "ingve",
-    "comments": 53,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=29911308"
   },
   {
-    "title": "In MySQL, use “utf8mb4” instead of “utf8”",
-    "url": "https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434",
-    "upvotes": 559,
-    "author": "pcr910303",
-    "comments": 306,
-    "link": "https://news.ycombinator.com/item?id=29907551"
+    "title": "A small guide for naming stuff in front-end code",
+    "url": "https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/",
+    "upvotes": 53,
+    "author": "damir",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=29888589"
   },
   {
     "title": "The Memories of Z80 Past: Zaxxon and Future Spy",
     "url": "https://nicole.express/2022/future-spy-but-its-now-the-future.html",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "zdw",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=29916020"
   },
   {
+    "title": "In MySQL, use “utf8mb4” instead of “utf8”",
+    "url": "https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434",
+    "upvotes": 563,
+    "author": "pcr910303",
+    "comments": 306,
+    "link": "https://news.ycombinator.com/item?id=29907551"
+  },
+  {
     "title": "Young people from Brazil's favelas set out to conquer digital world",
     "url": "https://www.spiegel.de/international/world/brazil-s-favela-tech-boom-young-people-from-poor-neighborhoods-set-out-to-conquer-digital-world-a-81a80497-0634-49e1-ad31-d1c8d5f83382",
-    "upvotes": 139,
+    "upvotes": 142,
     "author": "zwieback",
-    "comments": 137,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=29909614"
+  },
+  {
+    "title": "New info about cellular death process previously thought to be irreversible",
+    "url": "https://today.uic.edu/scientists-uncover-new-information-about-cellular-death-process-previously-thought-to-be-irreversible",
+    "upvotes": 50,
+    "author": "gmays",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29914477"
   },
   {
     "title": "Readers Love Curious George. I Fell in Love with the Author’s Astronomy Books",
@@ -184,37 +192,29 @@
     "url": "https://olickel.com/button-syndrome",
     "upvotes": 99,
     "author": "hrishi",
-    "comments": 77,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=29911965"
-  },
-  {
-    "title": "New info about cellular death process previously thought to be irreversible",
-    "url": "https://today.uic.edu/scientists-uncover-new-information-about-cellular-death-process-previously-thought-to-be-irreversible",
-    "upvotes": 48,
-    "author": "gmays",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=29914477"
   },
   {
     "title": "Apple execs: Let's take a 30% cut of Uber and Lyft's membership programs",
     "url": "https://twitter.com/TechEmails/status/1481339345822879745",
-    "upvotes": 598,
+    "upvotes": 610,
     "author": "mdoms",
-    "comments": 626,
+    "comments": 631,
     "link": "https://news.ycombinator.com/item?id=29913693"
   },
   {
-    "title": "Unemployment black woman pretends to be white and sees job offers skyrocket",
-    "url": "https://urbanintellectuals.com/unemployed-black-woman-pretends-to-be-white-job-offers-suddenly-skyrocket/",
-    "upvotes": 18,
-    "author": "amin",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29917684"
+    "title": "Ask HN: What does everyone here think of the Wordle guy not monetizing it?",
+    "url": "item?id=29916899",
+    "upvotes": 74,
+    "author": "avl999",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=29916899"
   },
   {
     "title": "5.16 Kernel Development Statistics",
     "url": "https://lwn.net/SubscriberLink/880699/63ad00ea7113bb26/",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "gits1225",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29915755"
@@ -222,17 +222,17 @@
   {
     "title": "Astronomers discover a strange galaxy without dark matter",
     "url": "https://www.wired.com/story/astronomers-discover-a-strange-galaxy-without-dark-matter/",
-    "upvotes": 117,
+    "upvotes": 120,
     "author": "rbanffy",
-    "comments": 122,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=29873500"
   },
   {
-    "title": "Ask HN: What does everyone here think of the Wordle guy not monetizing it?",
-    "url": "item?id=29916899",
-    "upvotes": 68,
-    "author": "avl999",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=29916899"
+    "title": "Parcel CSS: A new CSS parser, compiler, and minifier",
+    "url": "https://parceljs.org/blog/parcel-css/",
+    "upvotes": 304,
+    "author": "Lapz",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=29909533"
   }
 ]
