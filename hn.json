@@ -2,131 +2,155 @@
   {
     "title": "The SNESticle Liberation Project",
     "url": "https://dataswamp.org/~josk/snesticle/",
-    "upvotes": 54,
+    "upvotes": 84,
     "author": "farmerbb",
-    "comments": 4,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=29971411"
-  },
-  {
-    "title": "Why I Enjoy PostgreSQL – Infrastructure Engineer's Perspective",
-    "url": "https://www.shayon.dev/post/2022/17/why-i-enjoy-postgresql-infrastructure-engineers-perspective/",
-    "upvotes": 33,
-    "author": "shayonj",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29971720"
   },
   {
     "title": "Matrix Multiplication",
     "url": "http://matrixmultiplication.xyz/",
-    "upvotes": 35,
+    "upvotes": 67,
     "author": "jonbaer",
-    "comments": 6,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=29971470"
   },
   {
     "title": "A high-dimensional sphere spilling out of a high-dimensional cube",
     "url": "https://stanislavfort.github.io/blog/sphere-spilling-out/",
-    "upvotes": 177,
+    "upvotes": 191,
     "author": "EvgeniyZh",
-    "comments": 96,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=29968702"
   },
   {
-    "title": "Ruby: Porting YJIT to Rust",
-    "url": "https://bugs.ruby-lang.org/issues/18481",
-    "upvotes": 38,
-    "author": "tosh",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=29971360"
+    "title": "Who Watches Watchmen? – Integrating Elixir Applications with Systemd",
+    "url": "https://hauleth.dev/post/who-watches-watchmen-i/",
+    "upvotes": 25,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29971515"
   },
   {
     "title": "The curious case of the Raspberry Pi in the network closet",
     "url": "https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html",
-    "upvotes": 638,
+    "upvotes": 652,
     "author": "BayAreaEscapee",
-    "comments": 202,
+    "comments": 213,
     "link": "https://news.ycombinator.com/item?id=29965110"
   },
   {
     "title": "uLisp on the Raspberry Pi Pico",
     "url": "http://www.ulisp.com/show?3KN3",
-    "upvotes": 50,
+    "upvotes": 58,
     "author": "tosh",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=29970231"
+  },
+  {
+    "title": "Why I Enjoy PostgreSQL – Infrastructure Engineer's Perspective",
+    "url": "https://www.shayon.dev/post/2022/17/why-i-enjoy-postgresql-infrastructure-engineers-perspective/",
+    "upvotes": 70,
+    "author": "shayonj",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=29971720"
   },
   {
     "title": "Hello Mac OS X Tiger",
     "url": "http://bunn.dev/benchmark/2022/01/16/hello-tiger.html",
-    "upvotes": 285,
+    "upvotes": 291,
     "author": "ronyfadel",
-    "comments": 242,
+    "comments": 249,
     "link": "https://news.ycombinator.com/item?id=29965930"
   },
   {
     "title": "The Theoretical Minimum",
     "url": "http://theoreticalminimum.com/",
-    "upvotes": 40,
+    "upvotes": 55,
     "author": "c0r3dump3d1r",
-    "comments": 4,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=29969679"
-  },
-  {
-    "title": "Graphviz: Open-source graph visualization software",
-    "url": "https://graphviz.org/",
-    "upvotes": 263,
-    "author": "davesailer",
-    "comments": 107,
-    "link": "https://news.ycombinator.com/item?id=29966107"
-  },
-  {
-    "title": "WLED Arduino WiFi LED Controller",
-    "url": "https://github.com/Aircoookie/WLED",
-    "upvotes": 29,
-    "author": "692",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=29970819"
   },
   {
     "title": "Show HN: MdSilo – A knowledge silo runs in your web browser",
     "url": "https://mdsilo.com/",
-    "upvotes": 58,
+    "upvotes": 67,
     "author": "ihndan",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=29969757"
   },
   {
-    "title": "The writer who made me love comics taught me to hate them",
-    "url": "https://www.polygon.com/2016/3/1/11139828/the-dark-knight-returns",
-    "upvotes": 78,
-    "author": "Tomte",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=29954705"
+    "title": "Graphviz: Open-source graph visualization software",
+    "url": "https://graphviz.org/",
+    "upvotes": 273,
+    "author": "davesailer",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=29966107"
+  },
+  {
+    "title": "Jodd – The Unbearable Lightness of Java",
+    "url": "https://jodd.org/",
+    "upvotes": 26,
+    "author": "datalist",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29971182"
+  },
+  {
+    "title": "Building a neural network in pure Lisp using only atoms and lists",
+    "url": "https://woodrush.github.io/blog/posts/2022-01-16-neural-networks-in-pure-lisp.html",
+    "upvotes": 20,
+    "author": "signa11",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=29964013"
   },
   {
     "title": "Effortless personal productivity",
     "url": "https://jakobgreenfeld.com/personal-productivity",
-    "upvotes": 220,
+    "upvotes": 239,
     "author": "jakobgreenfeld",
-    "comments": 52,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=29965957"
+  },
+  {
+    "title": "WLED Arduino WiFi LED Controller",
+    "url": "https://github.com/Aircoookie/WLED",
+    "upvotes": 33,
+    "author": "692",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=29970819"
   },
   {
     "title": "Freshpaint",
     "url": "https://www.ycombinator.com/companies/freshpaint/jobs/9JGTh1N-head-of-marketing"
   },
   {
-    "title": "In Japan, Digicams Are the New Film",
+    "title": "In Japan, digicams are the new film",
     "url": "https://casualphotophile.com/2022/01/04/digicams-are-the-new-film/",
-    "upvotes": 34,
+    "upvotes": 40,
     "author": "ingve",
-    "comments": 26,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=29955068"
+  },
+  {
+    "title": "Ruby: Porting YJIT to Rust",
+    "url": "https://bugs.ruby-lang.org/issues/18481",
+    "upvotes": 51,
+    "author": "tosh",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=29971360"
+  },
+  {
+    "title": "Communicating to Users During Incidents",
+    "url": "https://onlineornot.com/communicating-users-incidents",
+    "upvotes": 18,
+    "author": "rozenmd",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=29965189"
   },
   {
     "title": "The Birth of Rusty N Edie's BBS",
     "url": "https://web.archive.org/web/19981205104028/http://www.pixi.com/~irvdili/page-22.htm",
-    "upvotes": 70,
+    "upvotes": 72,
     "author": "bilegeek",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=29955294"
@@ -134,105 +158,81 @@
   {
     "title": "How life sciences work: Findings of a year-long investigation",
     "url": "https://guzey.com/how-life-sciences-actually-work/",
-    "upvotes": 34,
+    "upvotes": 37,
     "author": "johndcook",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=29955326"
   },
   {
     "title": "LibreTexts – Free The Textbook",
     "url": "https://libretexts.org/",
-    "upvotes": 86,
+    "upvotes": 94,
     "author": "marcodiego",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=29967012"
   },
   {
     "title": "Real-world stories of how we’ve compromised CI/CD pipelines",
     "url": "https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/",
-    "upvotes": 213,
+    "upvotes": 217,
     "author": "usrme",
-    "comments": 75,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=29965381"
-  },
-  {
-    "title": "Who Watches Watchmen? – Integrating Elixir Applications with Systemd",
-    "url": "https://hauleth.dev/post/who-watches-watchmen-i/",
-    "upvotes": 7,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29971515"
-  },
-  {
-    "title": "Communicating to Users During Incidents",
-    "url": "https://onlineornot.com/communicating-users-incidents",
-    "upvotes": 12,
-    "author": "rozenmd",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=29965189"
   },
   {
     "title": "An anatomy of Bitcoin price manipulation",
     "url": "https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/",
-    "upvotes": 478,
+    "upvotes": 495,
     "author": "VHRanger",
-    "comments": 292,
+    "comments": 311,
     "link": "https://news.ycombinator.com/item?id=29966533"
   },
   {
-    "title": "One of the most famous Victorian dishes is a hilarious lie",
-    "url": "https://www.atlasobscura.com/articles/victorian-brown-windsor-soup",
-    "upvotes": 92,
-    "author": "pepys",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=29963338"
+    "title": "The writer who made me love comics taught me to hate them",
+    "url": "https://www.polygon.com/2016/3/1/11139828/the-dark-knight-returns",
+    "upvotes": 84,
+    "author": "Tomte",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=29954705"
   },
   {
     "title": "Work Somewhere Dysfunctional",
     "url": "https://bellmar.medium.com/work-somewhere-dysfunctional-54fe5793b7a5",
-    "upvotes": 83,
+    "upvotes": 92,
     "author": "mbellotti",
     "comments": 66,
     "link": "https://news.ycombinator.com/item?id=29967646"
   },
   {
+    "title": "One of the most famous Victorian dishes is a hilarious lie",
+    "url": "https://www.atlasobscura.com/articles/victorian-brown-windsor-soup",
+    "upvotes": 96,
+    "author": "pepys",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=29963338"
+  },
+  {
     "title": "A Necropolis in Naples Reveals the Enduring Influence of Ancient Greece",
     "url": "https://www.smithsonianmag.com/history/a-long-overlooked-necropolis-in-naples-reveals-the-enduring-influence-of-ancient-greece-180979385/",
-    "upvotes": 50,
+    "upvotes": 54,
     "author": "diodorus",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=29963331"
-  },
-  {
-    "title": "Window System X",
-    "url": "https://www.talisman.org/x-debut.shtml",
-    "upvotes": 244,
-    "author": "marcodiego",
-    "comments": 135,
-    "link": "https://news.ycombinator.com/item?id=29963888"
-  },
-  {
-    "title": "Making Your Game Go Fast by Asking Windows Nicely",
-    "url": "https://www.anthropicstudios.com/2022/01/13/asking-windows-nicely/",
-    "upvotes": 100,
-    "author": "zdw",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=29958431"
   },
   {
     "title": "Failing to Learn Zig via Advent of Code",
     "url": "https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/",
-    "upvotes": 208,
+    "upvotes": 215,
     "author": "forrestthewoods",
-    "comments": 215,
+    "comments": 222,
     "link": "https://news.ycombinator.com/item?id=29965239"
   },
   {
-    "title": "Show HN: CSS Speedrun – A small game to test and improve your CSS knowledge",
-    "url": "https://css-speedrun.netlify.app/",
-    "upvotes": 188,
-    "author": "Vincenius",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=29964453"
+    "title": "Making Your Game Go Fast by Asking Windows Nicely",
+    "url": "https://www.anthropicstudios.com/2022/01/13/asking-windows-nicely/",
+    "upvotes": 108,
+    "author": "zdw",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=29958431"
   }
 ]
