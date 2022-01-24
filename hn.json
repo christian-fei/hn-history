@@ -2,23 +2,31 @@
   {
     "title": "I got pwned by my cloud costs",
     "url": "https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/",
-    "upvotes": 303,
+    "upvotes": 334,
     "author": "andimm",
-    "comments": 138,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=30054739"
   },
   {
     "title": "Last Windows 11 update changed all default browser settings to Edge",
     "url": "item?id=30055222",
-    "upvotes": 65,
+    "upvotes": 122,
     "author": "nixass",
-    "comments": 37,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=30055222"
+  },
+  {
+    "title": "XSuspender Auto-suspend inactive X11 applications",
+    "url": "https://kernc.github.io/xsuspender/",
+    "upvotes": 7,
+    "author": "marcodiego",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30055605"
   },
   {
     "title": "I accidentally used YAML.parse instead of JSON.parse and it worked",
     "url": "https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json",
-    "upvotes": 247,
+    "upvotes": 248,
     "author": "rohitpaulk",
     "comments": 127,
     "link": "https://news.ycombinator.com/item?id=30052128"
@@ -26,39 +34,39 @@
   {
     "title": "Diving into BoardGameGeek",
     "url": "https://jvanelteren.github.io/blog/2022/01/19/boardgames.html",
-    "upvotes": 52,
+    "upvotes": 54,
     "author": "fixie",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30040739"
   },
   {
     "title": "Malloy – A Better SQL, from Looker",
     "url": "https://github.com/looker-open-source/malloy",
-    "upvotes": 67,
+    "upvotes": 70,
     "author": "maximilianroos",
-    "comments": 27,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=30053860"
   },
   {
     "title": "Device wraps around hot surfaces, turns wasted heat to electricity",
     "url": "https://www.psu.edu/news/research/story/form-fit-device-wraps-around-hot-surfaces-turns-wasted-heat-electricity/",
-    "upvotes": 56,
+    "upvotes": 60,
     "author": "geox",
-    "comments": 25,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=30039170"
   },
   {
     "title": "Const All the Things?",
     "url": "https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/",
-    "upvotes": 38,
+    "upvotes": 39,
     "author": "todsacerdoti",
-    "comments": 24,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=30054059"
   },
   {
     "title": "Huginn: System for building agents that perform automated tasks online",
     "url": "https://github.com/huginn/huginn",
-    "upvotes": 195,
+    "upvotes": 196,
     "author": "vghaisas",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=30051701"
@@ -66,54 +74,62 @@
   {
     "title": "Ask HN: Gmail account security",
     "url": "item?id=30051054",
-    "upvotes": 1336,
+    "upvotes": 1350,
     "author": "caseyf7",
-    "comments": 634,
+    "comments": 647,
     "link": "https://news.ycombinator.com/item?id=30051054"
   },
   {
     "title": "Show HN: Shoot the neural network before it shoots you",
     "url": "https://github.com/victorqribeiro/bangBang",
-    "upvotes": 107,
+    "upvotes": 109,
     "author": "atum47",
     "comments": 62,
     "link": "https://news.ycombinator.com/item?id=30051902"
   },
   {
-    "title": "How to make Lisp go faster than C",
-    "url": "http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf",
-    "upvotes": 50,
-    "author": "marinesebastian",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=30053293"
+    "title": "Solving Wordle in 3.64 guesses on average, 99.4% of the time",
+    "url": "https://lockwood.dev/wordle/python/2022/01/23/wordle-solved-average-3-64.html",
+    "upvotes": 182,
+    "author": "tomlockwood",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=30050231"
   },
   {
     "title": "Bitmovin",
     "url": "https://bitmovin.com/careers/5617278002?gh_jid=5617278002"
   },
   {
-    "title": "Solving Wordle in 3.64 guesses on average, 99.4% of the time",
-    "url": "https://lockwood.dev/wordle/python/2022/01/23/wordle-solved-average-3-64.html",
-    "upvotes": 181,
-    "author": "tomlockwood",
-    "comments": 146,
-    "link": "https://news.ycombinator.com/item?id=30050231"
+    "title": "How to make Lisp go faster than C",
+    "url": "http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf",
+    "upvotes": 52,
+    "author": "marinesebastian",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=30053293"
   },
   {
     "title": "Charm – Tools to make the command line glamorous",
     "url": "https://charm.sh/",
-    "upvotes": 992,
+    "upvotes": 1000,
     "author": "hillcrestenigma",
-    "comments": 173,
+    "comments": 174,
     "link": "https://news.ycombinator.com/item?id=30048332"
   },
   {
     "title": "An Armful of CHERIs",
     "url": "https://msrc-blog.microsoft.com/2022/01/20/an_armful_of_cheris/",
-    "upvotes": 61,
+    "upvotes": 63,
     "author": "tosh",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30007354"
+  },
+  {
+    "title": "Idris 2: Quantitative Type Theory in Practice",
+    "url": "https://arxiv.org/abs/2104.00480",
+    "upvotes": 126,
+    "author": "otoburb",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=30050465"
   },
   {
     "title": "The Design and Implementation of the Wolfram Language Compiler",
@@ -124,20 +140,28 @@
     "link": "https://news.ycombinator.com/item?id=30050035"
   },
   {
-    "title": "Idris 2: Quantitative Type Theory in Practice",
-    "url": "https://arxiv.org/abs/2104.00480",
-    "upvotes": 122,
-    "author": "otoburb",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=30050465"
-  },
-  {
     "title": "Winamp Skin Museum",
     "url": "https://skins.webamp.org",
-    "upvotes": 107,
+    "upvotes": 112,
     "author": "lord_sudo",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30054172"
+  },
+  {
+    "title": "His voice became my constant companion",
+    "url": "https://www.bbc.co.uk/news/uk-60084596",
+    "upvotes": 13,
+    "author": "cmsefton",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30045450"
+  },
+  {
+    "title": "Goodbye Outstandem",
+    "url": "https://theptrk.com/2022/01/20/goodbye-outstandem/",
+    "upvotes": 15,
+    "author": "theptrk",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30006123"
   },
   {
     "title": "IUMA",
@@ -148,28 +172,44 @@
     "link": "https://news.ycombinator.com/item?id=30019465"
   },
   {
-    "title": "Goodbye Outstandem",
-    "url": "https://theptrk.com/2022/01/20/goodbye-outstandem/",
-    "upvotes": 14,
-    "author": "theptrk",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30006123"
-  },
-  {
-    "title": "His voice became my constant companion",
-    "url": "https://www.bbc.co.uk/news/uk-60084596",
-    "upvotes": 12,
-    "author": "cmsefton",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30045450"
-  },
-  {
     "title": "IBM’s Watson Health is sold off in parts",
     "url": "https://www.statnews.com/2022/01/21/ibm-watson-health-sale-equity/",
-    "upvotes": 625,
+    "upvotes": 626,
     "author": "alexmorley",
-    "comments": 637,
+    "comments": 640,
     "link": "https://news.ycombinator.com/item?id=30046432"
+  },
+  {
+    "title": "Internet disrupted in Burkina Faso amid military uprising",
+    "url": "https://netblocks.org/reports/internet-disrupted-in-burkina-faso-amid-reports-of-coup-attempt-oy9Y9Qy3",
+    "upvotes": 46,
+    "author": "openknot",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=30053837"
+  },
+  {
+    "title": "Poll HN: What operating system do you primarily develop on?",
+    "url": "item?id=30055031",
+    "upvotes": 54,
+    "author": "dennis-tra",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=30055031"
+  },
+  {
+    "title": "Going Online Like it’s 1979: The Atari 800",
+    "url": "https://www.auvik.com/franklyit/blog/atari-800-online/",
+    "upvotes": 66,
+    "author": "indigodaddy",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30033895"
+  },
+  {
+    "title": "How the gut differentiates artificial sweeteners from sugars in mice",
+    "url": "https://www.the-scientist.com/news-opinion/how-the-gut-differentiates-artificial-sweeteners-from-sugars-69633",
+    "upvotes": 80,
+    "author": "pseudolus",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=30049874"
   },
   {
     "title": "Wonder Bird Flies Thousands of Miles, Non-Stop, as Part of a Migration",
@@ -180,59 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=30054432"
   },
   {
-    "title": "Going Online Like it’s 1979: The Atari 800",
-    "url": "https://www.auvik.com/franklyit/blog/atari-800-online/",
-    "upvotes": 66,
-    "author": "indigodaddy",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=30033895"
-  },
-  {
-    "title": "How the gut differentiates artificial sweeteners from sugars in mice",
-    "url": "https://www.the-scientist.com/news-opinion/how-the-gut-differentiates-artificial-sweeteners-from-sugars-69633",
-    "upvotes": 79,
-    "author": "pseudolus",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=30049874"
-  },
-  {
-    "title": "Internet disrupted in Burkina Faso amid military uprising",
-    "url": "https://netblocks.org/reports/internet-disrupted-in-burkina-faso-amid-reports-of-coup-attempt-oy9Y9Qy3",
-    "upvotes": 42,
-    "author": "openknot",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=30053837"
-  },
-  {
-    "title": "Poll HN: What operating system do you primarily develop on?",
-    "url": "item?id=30055031",
-    "upvotes": 42,
-    "author": "dennis-tra",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=30055031"
+    "title": "In praise of the vertically sliced St. Louis bagel",
+    "url": "https://www.seriouseats.com/in-praise-of-st-louis-bagels",
+    "upvotes": 38,
+    "author": "blinding-streak",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=30054007"
   },
   {
     "title": "Distributed locking with Postgres advisory locks",
     "url": "https://rclayton.silvrback.com/distributed-locking-with-postgres-advisory-locks",
     "upvotes": 40,
     "author": "striking",
-    "comments": 14,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30039996"
-  },
-  {
-    "title": "In praise of the vertically sliced St. Louis bagel",
-    "url": "https://www.seriouseats.com/in-praise-of-st-louis-bagels",
-    "upvotes": 34,
-    "author": "blinding-streak",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=30054007"
-  },
-  {
-    "title": "Ask HN: Where are you going to find long-form content online these days?",
-    "url": "item?id=30051782",
-    "upvotes": 133,
-    "author": "nrs26",
-    "comments": 124,
-    "link": "https://news.ycombinator.com/item?id=30051782"
   }
 ]
