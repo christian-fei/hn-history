@@ -2,39 +2,39 @@
   {
     "title": "Gmail account security is insane",
     "url": "item?id=30051054",
-    "upvotes": 833,
+    "upvotes": 880,
     "author": "caseyf7",
-    "comments": 381,
+    "comments": 402,
     "link": "https://news.ycombinator.com/item?id=30051054"
   },
   {
     "title": "Charm – tools to make the command line glamorous",
     "url": "https://charm.sh/",
-    "upvotes": 681,
+    "upvotes": 705,
     "author": "hillcrestenigma",
-    "comments": 124,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=30048332"
   },
   {
     "title": "I accidentally used YAML.parse instead of JSON.parse, and it worked?",
     "url": "https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json",
-    "upvotes": 77,
+    "upvotes": 88,
     "author": "rohitpaulk",
-    "comments": 50,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=30052128"
   },
   {
     "title": "Roger Ebert: Mighty Morphin Power Rangers",
     "url": "https://www.rogerebert.com/reviews/mighty-morphin-power-rangers-the-movie-1995",
-    "upvotes": 58,
+    "upvotes": 69,
     "author": "optimalsolver",
-    "comments": 36,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=30052075"
   },
   {
     "title": "Huginn: System for building agents that perform automated tasks online",
     "url": "https://github.com/huginn/huginn",
-    "upvotes": 86,
+    "upvotes": 89,
     "author": "vghaisas",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30051701"
@@ -42,59 +42,51 @@
   {
     "title": "IBM’s Watson Health is sold off in parts",
     "url": "https://www.statnews.com/2022/01/21/ibm-watson-health-sale-equity/",
-    "upvotes": 570,
+    "upvotes": 576,
     "author": "alexmorley",
-    "comments": 577,
+    "comments": 582,
     "link": "https://news.ycombinator.com/item?id=30046432"
   },
   {
     "title": "Solving Wordle in 3.64 Guesses on Average, 99.4% of the Time",
     "url": "https://lockwood.dev/wordle/python/2022/01/23/wordle-solved-average-3-64.html",
-    "upvotes": 141,
+    "upvotes": 144,
     "author": "tomlockwood",
-    "comments": 118,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=30050231"
   },
   {
     "title": "Show HN: Shoot the neural network before it shoots you",
     "url": "https://github.com/victorqribeiro/bangBang",
-    "upvotes": 33,
+    "upvotes": 38,
     "author": "atum47",
-    "comments": 34,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=30051902"
   },
   {
     "title": "The Design and Implementation of the Wolfram Language Compiler",
     "url": "https://dakkak.dev/pdf/wolfram-compiler-cgo20.pdf",
-    "upvotes": 99,
+    "upvotes": 101,
     "author": "daneelsan",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30050035"
+  },
+  {
+    "title": "Going Online Like it’s 1979: The Atari 800",
+    "url": "https://www.auvik.com/franklyit/blog/atari-800-online/",
+    "upvotes": 38,
+    "author": "indigodaddy",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30033895"
   },
   {
     "title": "Aerotime",
     "url": "https://www.ycombinator.com/companies/aerotime/jobs/HxfTJyw-founding-engineer-front-end"
   },
   {
-    "title": "Going Online Like it’s 1979: The Atari 800",
-    "url": "https://www.auvik.com/franklyit/blog/atari-800-online/",
-    "upvotes": 34,
-    "author": "indigodaddy",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30033895"
-  },
-  {
-    "title": "Wordle-Solver – solves 99.7% of common five-letter English words",
-    "url": "https://github.com/jason-chao/wordle-solver",
-    "upvotes": 12,
-    "author": "jasonchao",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=30052677"
-  },
-  {
     "title": "Show HN: Marginalia – Exploration Mode",
     "url": "https://search.marginalia.nu/explore/random",
-    "upvotes": 186,
+    "upvotes": 188,
     "author": "marginalia_nu",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=30047455"
@@ -102,55 +94,63 @@
   {
     "title": "Idris 2: Quantitative Type Theory in Practice",
     "url": "https://arxiv.org/abs/2104.00480",
-    "upvotes": 59,
+    "upvotes": 64,
     "author": "otoburb",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=30050465"
   },
   {
-    "title": "Faster CPython",
-    "url": "https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf",
-    "upvotes": 202,
-    "author": "Radim",
-    "comments": 169,
-    "link": "https://news.ycombinator.com/item?id=30047289"
+    "title": "Wordle-Solver – solves 99.7% of common five-letter English words",
+    "url": "https://github.com/jason-chao/wordle-solver",
+    "upvotes": 14,
+    "author": "jasonchao",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=30052677"
+  },
+  {
+    "title": "Quarto: A scientific and technical publishing system built on Pandoc",
+    "url": "https://quarto.org/",
+    "upvotes": 170,
+    "author": "nonfamous",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=30042831"
   },
   {
     "title": "Brain of a White-Collar Worker",
     "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61127-1/fulltext",
     "upvotes": 37,
     "author": "agnosticmantis",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=30051136"
+  },
+  {
+    "title": "Faster CPython",
+    "url": "https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf",
+    "upvotes": 203,
+    "author": "Radim",
+    "comments": 175,
+    "link": "https://news.ycombinator.com/item?id=30047289"
   },
   {
     "title": "Scientists find there are 70% fewer pollinators, due to air pollution",
     "url": "https://www.openaccessgovernment.org/pollination-air-pollution/127964/",
-    "upvotes": 94,
+    "upvotes": 100,
     "author": "DocFeind",
-    "comments": 50,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=30052281"
   },
   {
-    "title": "Quarto: A scientific and technical publishing system built on Pandoc",
-    "url": "https://quarto.org/",
-    "upvotes": 167,
-    "author": "nonfamous",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=30042831"
-  },
-  {
-    "title": "Distributed locking with Postgres advisory locks",
-    "url": "https://rclayton.silvrback.com/distributed-locking-with-postgres-advisory-locks",
-    "upvotes": 7,
-    "author": "striking",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30039996"
+    "title": "Machiavelli I – S.P.Q.F",
+    "url": "https://www.exurbe.com/machiavelli-s-p-q-f/",
+    "upvotes": 4,
+    "author": "dash2",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30034985"
   },
   {
     "title": "Wg-access-server: WireGuard VPN server and web UI for device management",
     "url": "https://github.com/freifunkMUC/wg-access-server",
-    "upvotes": 131,
+    "upvotes": 133,
     "author": "Zdh4DYsGvdjJ",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=30047440"
@@ -158,10 +158,42 @@
   {
     "title": "I moved this blog from Medium, here",
     "url": "https://giuliomagnifico.blog/misc/2022/01/22/I-left-Medium.html",
-    "upvotes": 197,
+    "upvotes": 202,
     "author": "giuliomagnifico",
-    "comments": 150,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=30045959"
+  },
+  {
+    "title": "Distributed locking with Postgres advisory locks",
+    "url": "https://rclayton.silvrback.com/distributed-locking-with-postgres-advisory-locks",
+    "upvotes": 8,
+    "author": "striking",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30039996"
+  },
+  {
+    "title": "Staff Engineer Communities",
+    "url": "https://noidea.dog/blog/staff-engineer-communities",
+    "upvotes": 120,
+    "author": "mudro_zboris",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=30047499"
+  },
+  {
+    "title": "Ask HN: Where are you going to find long-form content online these days?",
+    "url": "item?id=30051782",
+    "upvotes": 61,
+    "author": "nrs26",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=30051782"
+  },
+  {
+    "title": "A native Go userland for your Raspberry Pi 3 or 4 appliances",
+    "url": "https://github.com/gokrazy/gokrazy",
+    "upvotes": 117,
+    "author": "RcrdBrt",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=30047025"
   },
   {
     "title": "Soundscape Ecology: The Science of Sound in the Landscape",
@@ -172,67 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=30045399"
   },
   {
-    "title": "Ask HN: Where are you going to find long-form content online these days?",
-    "url": "item?id=30051782",
-    "upvotes": 54,
-    "author": "nrs26",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=30051782"
-  },
-  {
-    "title": "Staff Engineer Communities",
-    "url": "https://noidea.dog/blog/staff-engineer-communities",
-    "upvotes": 116,
-    "author": "mudro_zboris",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=30047499"
-  },
-  {
-    "title": "A native Go userland for your Raspberry Pi 3 or 4 appliances",
-    "url": "https://github.com/gokrazy/gokrazy",
-    "upvotes": 115,
-    "author": "RcrdBrt",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=30047025"
-  },
-  {
     "title": "Alabama farmer sues John Deere for ‘right to repair’",
     "url": "https://www.al.com/news/2022/01/alabama-farmer-sues-john-deere-for-right-to-repair.html",
-    "upvotes": 287,
+    "upvotes": 298,
     "author": "SQL2219",
-    "comments": 113,
+    "comments": 115,
     "link": "https://news.ycombinator.com/item?id=30049315"
   },
   {
     "title": "How the Gut Differentiates Artificial Sweeteners from Sugars",
     "url": "https://www.the-scientist.com/news-opinion/how-the-gut-differentiates-artificial-sweeteners-from-sugars-69633",
-    "upvotes": 44,
+    "upvotes": 45,
     "author": "pseudolus",
-    "comments": 12,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30049874"
-  },
-  {
-    "title": "Age and high-growth entrepreneurship",
-    "url": "https://www.aeaweb.org/articles?id=10.1257/aeri.20180582",
-    "upvotes": 120,
-    "author": "jacobr",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=30046897"
   },
   {
     "title": "Show HN: Bulk convert images online without sending to server",
     "url": "https://www.webutils.app/image-compress",
-    "upvotes": 162,
+    "upvotes": 163,
     "author": "akmittal",
     "comments": 84,
     "link": "https://news.ycombinator.com/item?id=30045901"
   },
   {
-    "title": "Eating the red soil of Rainbow Island",
-    "url": "https://www.atlasobscura.com/articles/red-soil-gelak-hormuz-rainbow-island",
-    "upvotes": 28,
-    "author": "CapitalistCartr",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=30007793"
+    "title": "Age and high-growth entrepreneurship",
+    "url": "https://www.aeaweb.org/articles?id=10.1257/aeri.20180582",
+    "upvotes": 121,
+    "author": "jacobr",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=30046897"
   }
 ]
