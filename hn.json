@@ -2,49 +2,57 @@
   {
     "title": "Charm – Tools to make the command line glamorous",
     "url": "https://charm.sh/",
-    "upvotes": 879,
+    "upvotes": 926,
     "author": "hillcrestenigma",
-    "comments": 149,
+    "comments": 159,
     "link": "https://news.ycombinator.com/item?id=30048332"
   },
   {
-    "title": "I accidentally used YAML.parse instead of JSON.parse, and it worked?",
+    "title": "I accidentally used YAML.parse instead of JSON.parse and it worked",
     "url": "https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json",
-    "upvotes": 186,
+    "upvotes": 203,
     "author": "rohitpaulk",
-    "comments": 105,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=30052128"
-  },
-  {
-    "title": "Huginn: System for building agents that perform automated tasks online",
-    "url": "https://github.com/huginn/huginn",
-    "upvotes": 157,
-    "author": "vghaisas",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=30051701"
   },
   {
     "title": "Malloy – A Better SQL, from Looker",
     "url": "https://github.com/looker-open-source/malloy",
-    "upvotes": 30,
+    "upvotes": 41,
     "author": "maximilianroos",
-    "comments": 9,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30053860"
+  },
+  {
+    "title": "Huginn: System for building agents that perform automated tasks online",
+    "url": "https://github.com/huginn/huginn",
+    "upvotes": 163,
+    "author": "vghaisas",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=30051701"
+  },
+  {
+    "title": "Device wraps around hot surfaces, turns wasted heat to electricity",
+    "url": "https://www.psu.edu/news/research/story/form-fit-device-wraps-around-hot-surfaces-turns-wasted-heat-electricity/",
+    "upvotes": 29,
+    "author": "geox",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=30039170"
   },
   {
     "title": "Ask HN: Gmail account security",
     "url": "item?id=30051054",
-    "upvotes": 1241,
+    "upvotes": 1267,
     "author": "caseyf7",
-    "comments": 587,
+    "comments": 595,
     "link": "https://news.ycombinator.com/item?id=30051054"
   },
   {
     "title": "Show HN: Shoot the neural network before it shoots you",
     "url": "https://github.com/victorqribeiro/bangBang",
-    "upvotes": 89,
+    "upvotes": 93,
     "author": "atum47",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=30051902"
   },
   {
@@ -52,148 +60,124 @@
     "url": "https://bitmovin.com/careers/5617278002?gh_jid=5617278002"
   },
   {
-    "title": "Device wraps around hot surfaces, turns wasted heat to electricity",
-    "url": "https://www.psu.edu/news/research/story/form-fit-device-wraps-around-hot-surfaces-turns-wasted-heat-electricity/",
-    "upvotes": 21,
-    "author": "geox",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30039170"
-  },
-  {
     "title": "Winamp Skin Museum",
     "url": "https://skins.webamp.org",
-    "upvotes": 63,
+    "upvotes": 79,
     "author": "lord_sudo",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=30054172"
   },
   {
     "title": "Solving Wordle in 3.64 guesses on average, 99.4% of the time",
     "url": "https://lockwood.dev/wordle/python/2022/01/23/wordle-solved-average-3-64.html",
-    "upvotes": 170,
+    "upvotes": 172,
     "author": "tomlockwood",
-    "comments": 139,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=30050231"
   },
   {
     "title": "An Armful of CHERIs",
     "url": "https://msrc-blog.microsoft.com/2022/01/20/an_armful_of_cheris/",
-    "upvotes": 44,
+    "upvotes": 49,
     "author": "tosh",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30007354"
   },
   {
+    "title": "IUMA",
+    "url": "https://archive.org/details/iuma-archive",
+    "upvotes": 20,
+    "author": "bane",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30019465"
+  },
+  {
     "title": "How to make Lisp go faster than C",
     "url": "http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf",
-    "upvotes": 26,
+    "upvotes": 29,
     "author": "marinesebastian",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30053293"
   },
   {
-    "title": "IUMA",
-    "url": "https://archive.org/details/iuma-archive",
-    "upvotes": 18,
-    "author": "bane",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30019465"
+    "title": "Diving into BoardGameGeek",
+    "url": "https://jvanelteren.github.io/blog/2022/01/19/boardgames.html",
+    "upvotes": 13,
+    "author": "fixie",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30040739"
   },
   {
     "title": "The Design and Implementation of the Wolfram Language Compiler",
     "url": "https://dakkak.dev/pdf/wolfram-compiler-cgo20.pdf",
-    "upvotes": 121,
+    "upvotes": 125,
     "author": "daneelsan",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30050035"
   },
   {
-    "title": "Show HN: Marginalia – Exploration Mode",
-    "url": "https://search.marginalia.nu/explore/random",
-    "upvotes": 210,
-    "author": "marginalia_nu",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=30047455"
-  },
-  {
     "title": "Idris 2: Quantitative Type Theory in Practice",
     "url": "https://arxiv.org/abs/2104.00480",
-    "upvotes": 99,
+    "upvotes": 106,
     "author": "otoburb",
-    "comments": 21,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=30050465"
-  },
-  {
-    "title": "Faster CPython",
-    "url": "https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf",
-    "upvotes": 232,
-    "author": "Radim",
-    "comments": 199,
-    "link": "https://news.ycombinator.com/item?id=30047289"
-  },
-  {
-    "title": "Quarto: A scientific and technical publishing system built on Pandoc",
-    "url": "https://quarto.org/",
-    "upvotes": 198,
-    "author": "nonfamous",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=30042831"
   },
   {
     "title": "Going Online Like it’s 1979: The Atari 800",
     "url": "https://www.auvik.com/franklyit/blog/atari-800-online/",
-    "upvotes": 55,
+    "upvotes": 57,
     "author": "indigodaddy",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30033895"
+  },
+  {
+    "title": "Internet disrupted in Burkina Faso amid military uprising",
+    "url": "https://netblocks.org/reports/internet-disrupted-in-burkina-faso-amid-reports-of-coup-attempt-oy9Y9Qy3",
+    "upvotes": 30,
+    "author": "openknot",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=30053837"
+  },
+  {
+    "title": "Const All the Things?",
+    "url": "https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/",
+    "upvotes": 8,
+    "author": "todsacerdoti",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30054059"
   },
   {
     "title": "IBM’s Watson Health is sold off in parts",
     "url": "https://www.statnews.com/2022/01/21/ibm-watson-health-sale-equity/",
-    "upvotes": 604,
+    "upvotes": 611,
     "author": "alexmorley",
-    "comments": 620,
+    "comments": 623,
     "link": "https://news.ycombinator.com/item?id=30046432"
   },
   {
     "title": "In praise of the vertically sliced St. Louis bagel",
     "url": "https://www.seriouseats.com/in-praise-of-st-louis-bagels",
-    "upvotes": 22,
+    "upvotes": 26,
     "author": "blinding-streak",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30054007"
   },
   {
     "title": "How the gut differentiates artificial sweeteners from sugars in mice",
     "url": "https://www.the-scientist.com/news-opinion/how-the-gut-differentiates-artificial-sweeteners-from-sugars-69633",
-    "upvotes": 70,
+    "upvotes": 72,
     "author": "pseudolus",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=30049874"
-  },
-  {
-    "title": "Wg-access-server: WireGuard VPN server and web UI for device management",
-    "url": "https://github.com/freifunkMUC/wg-access-server",
-    "upvotes": 153,
-    "author": "Zdh4DYsGvdjJ",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=30047440"
   },
   {
     "title": "Brain of a White-Collar Worker",
     "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61127-1/fulltext",
-    "upvotes": 54,
+    "upvotes": 55,
     "author": "agnosticmantis",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30051136"
-  },
-  {
-    "title": "Staff Engineer Communities",
-    "url": "https://noidea.dog/blog/staff-engineer-communities",
-    "upvotes": 149,
-    "author": "mudro_zboris",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=30047499"
   },
   {
     "title": "Distributed locking with Postgres advisory locks",
@@ -204,35 +188,51 @@
     "link": "https://news.ycombinator.com/item?id=30039996"
   },
   {
-    "title": "Internet disrupted in Burkina Faso amid military uprising",
-    "url": "https://netblocks.org/reports/internet-disrupted-in-burkina-faso-amid-reports-of-coup-attempt-oy9Y9Qy3",
-    "upvotes": 24,
-    "author": "openknot",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=30053837"
-  },
-  {
     "title": "Ask HN: Where are you going to find long-form content online these days?",
     "url": "item?id=30051782",
-    "upvotes": 114,
+    "upvotes": 120,
     "author": "nrs26",
-    "comments": 96,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=30051782"
   },
   {
     "title": "Scientists find there are 70% fewer pollinators, due to air pollution",
     "url": "https://www.openaccessgovernment.org/pollination-air-pollution/127964/",
-    "upvotes": 180,
+    "upvotes": 189,
     "author": "DocFeind",
     "comments": 74,
     "link": "https://news.ycombinator.com/item?id=30052281"
   },
   {
-    "title": "Ads may be coming to KDE, the popular Linux desktop",
-    "url": "https://www.neowin.net/news/ads-may-be-coming-to-kde-the-popular-linux-desktop/",
-    "upvotes": 4,
-    "author": "musicmatze",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30054558"
+    "title": "Alabama farmer sues John Deere for ‘right to repair’",
+    "url": "https://www.al.com/news/2022/01/alabama-farmer-sues-john-deere-for-right-to-repair.html",
+    "upvotes": 355,
+    "author": "SQL2219",
+    "comments": 152,
+    "link": "https://news.ycombinator.com/item?id=30049315"
+  },
+  {
+    "title": "Machiavelli I – S.P.Q.F",
+    "url": "https://www.exurbe.com/machiavelli-s-p-q-f/",
+    "upvotes": 13,
+    "author": "dash2",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30034985"
+  },
+  {
+    "title": "Show HN: Marginalia – Exploration Mode",
+    "url": "https://search.marginalia.nu/explore/random",
+    "upvotes": 214,
+    "author": "marginalia_nu",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=30047455"
+  },
+  {
+    "title": "Ask HN: What technology is “cutting edge” in 2022?",
+    "url": "item?id=30053761",
+    "upvotes": 18,
+    "author": "MathCodeLove",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=30053761"
   }
 ]
