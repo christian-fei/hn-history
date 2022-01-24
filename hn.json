@@ -2,237 +2,237 @@
   {
     "title": "I got pwned by my cloud costs",
     "url": "https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/",
-    "upvotes": 680,
+    "upvotes": 753,
     "author": "andimm",
-    "comments": 366,
+    "comments": 395,
     "link": "https://news.ycombinator.com/item?id=30054739"
   },
   {
     "title": "The Curse of NixOS",
     "url": "https://blog.wesleyac.com/posts/the-curse-of-nixos",
-    "upvotes": 72,
+    "upvotes": 101,
     "author": "nemoniac",
-    "comments": 31,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=30057287"
   },
   {
     "title": "A surprisingly hard CS problem: sums of square roots",
     "url": "https://shlegeris.com/2018/10/23/sqrt.html",
-    "upvotes": 30,
+    "upvotes": 51,
     "author": "EvgeniyZh",
-    "comments": 12,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=30057582"
+  },
+  {
+    "title": "We're migrating many of our servers from Linux to FreeBSD",
+    "url": "https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/",
+    "upvotes": 42,
+    "author": "NexRebular",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=30057549"
+  },
+  {
+    "title": "A German school forked FluffyChat, a Matrix messenger",
+    "url": "https://hermannschule.de/hermannpost.html",
+    "upvotes": 61,
+    "author": "doener",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=30056965"
   },
   {
     "title": "The Free and Open Source Silicon Foundation",
     "url": "https://www.fossi-foundation.org/",
-    "upvotes": 30,
+    "upvotes": 36,
     "author": "marcodiego",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30057017"
   },
   {
-    "title": "A German school forked FluffyChat, a Matrix messenger",
-    "url": "https://hermannschule.de/hermannpost.html",
-    "upvotes": 40,
-    "author": "doener",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=30056965"
-  },
-  {
-    "title": "$130B wiped off crypto markets in 24 hours",
-    "url": "https://www.cnbc.com/2022/01/24/bitcoin-ether-fall-as-130-billion-wiped-off-cryptocurrency-markets-.html",
-    "upvotes": 79,
-    "author": "TangerineDream",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=30057409"
-  },
-  {
-    "title": "Why we're migrating",
-    "url": "https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/",
-    "upvotes": 12,
-    "author": "NexRebular",
+    "title": "Solving Open Source Supply Chain Security for the PHP Ecosystem",
+    "url": "https://paragonie.com/blog/2022/01/solving-open-source-supply-chain-security-for-php-ecosystem",
+    "upvotes": 10,
+    "author": "CiPHPerCoder",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30057549"
-  },
-  {
-    "title": "XSuspender Auto-suspend inactive X11 applications",
-    "url": "https://kernc.github.io/xsuspender/",
-    "upvotes": 52,
-    "author": "marcodiego",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=30055605"
+    "link": "https://news.ycombinator.com/item?id=30058027"
   },
   {
     "title": "Three Electric-Jaguar Years",
     "url": "https://www.tbray.org/ongoing/When/202x/2022/01/22/Three-Jaguar-Years",
-    "upvotes": 8,
+    "upvotes": 18,
     "author": "CapitalistCartr",
-    "comments": 16,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30057215"
+  },
+  {
+    "title": "XSuspender Auto-suspend inactive X11 applications",
+    "url": "https://kernc.github.io/xsuspender/",
+    "upvotes": 57,
+    "author": "marcodiego",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=30055605"
   },
   {
     "title": "Metal Detectorist Discovers One of England’s Earliest Gold Coins in a Farm Field",
     "url": "https://www.smithsonianmag.com/smart-news/800-year-old-gold-penny-found-in-english-field-could-sell-for-half-a-million-180979420/",
-    "upvotes": 29,
+    "upvotes": 35,
     "author": "pepys",
-    "comments": 12,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30038381"
+  },
+  {
+    "title": "A meander through Martian minutes and the meaning of local time",
+    "url": "https://interconnected.org/home/2022/01/18/sols",
+    "upvotes": 11,
+    "author": "doat",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30057555"
   },
   {
     "title": "GiveCampus",
     "url": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
   },
   {
-    "title": "Presenting Lst.sh – Portable Shell Array Library",
-    "url": "https://lonkamikaze.github.io/2022/01/23/bsda2-presenting-lst.sh",
-    "upvotes": 4,
-    "author": "vermaden",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30057906"
-  },
-  {
-    "title": "I accidentally used YAML.parse instead of JSON.parse and it worked",
-    "url": "https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json",
-    "upvotes": 315,
-    "author": "rohitpaulk",
-    "comments": 164,
-    "link": "https://news.ycombinator.com/item?id=30052128"
-  },
-  {
-    "title": "A meander through Martian minutes and the meaning of local time",
-    "url": "https://interconnected.org/home/2022/01/18/sols",
-    "upvotes": 8,
-    "author": "doat",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30057555"
+    "title": "Ask HN: Who has changed careers from engineer to patent agent/lawyer?",
+    "url": "item?id=30058057",
+    "upvotes": 13,
+    "author": "cybernoodles",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30058057"
   },
   {
     "title": "Improving end-to-end test reliability",
     "url": "https://frantic.im/e2e-tests/",
-    "upvotes": 9,
+    "upvotes": 14,
     "author": "dailymorn",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30043533"
   },
   {
-    "title": "Const all the things?",
-    "url": "https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/",
-    "upvotes": 87,
-    "author": "todsacerdoti",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=30054059"
+    "title": "I accidentally used YAML.parse instead of JSON.parse and it worked",
+    "url": "https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json",
+    "upvotes": 321,
+    "author": "rohitpaulk",
+    "comments": 168,
+    "link": "https://news.ycombinator.com/item?id=30052128"
   },
   {
-    "title": "Webb’s Journey to L2 Is Nearly Complete",
-    "url": "https://blogs.nasa.gov/webb/2022/01/21/webbs-journey-to-l2-is-nearly-complete/",
-    "upvotes": 66,
-    "author": "jordanpg",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=30056516"
-  },
-  {
-    "title": "Malloy – A Better SQL, from Looker",
-    "url": "https://github.com/looker-open-source/malloy",
-    "upvotes": 115,
-    "author": "maximilianroos",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=30053860"
-  },
-  {
-    "title": "Diving into BoardGameGeek",
-    "url": "https://jvanelteren.github.io/blog/2022/01/19/boardgames.html",
-    "upvotes": 96,
-    "author": "fixie",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=30040739"
-  },
-  {
-    "title": "Is async for everyone? [slides]",
-    "url": "https://app.pitch.com/app/public/player/5fa67ab4-b618-46dd-a2a0-886c03636953",
-    "upvotes": 5,
-    "author": "clmntrg",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30057096"
-  },
-  {
-    "title": "Buy things, not experiences",
-    "url": "https://write.as/harold-lee/theres-a-phrase-going-around-that-you-should-buy-experiences-not-things",
-    "upvotes": 104,
-    "author": "RickJWagner",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=30057032"
-  },
-  {
-    "title": "Risky Food-Finding Strategy Could Be a Key to Human Success",
-    "url": "https://today.duke.edu/2022/01/risky-food-finding-strategy-could-be-key-human-success",
-    "upvotes": 24,
-    "author": "diodorus",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30043580"
-  },
-  {
-    "title": "Device wraps around hot surfaces, turns wasted heat to electricity",
-    "url": "https://www.psu.edu/news/research/story/form-fit-device-wraps-around-hot-surfaces-turns-wasted-heat-electricity/",
-    "upvotes": 94,
-    "author": "geox",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=30039170"
-  },
-  {
-    "title": "Huginn: System for building agents that perform automated tasks online",
-    "url": "https://github.com/huginn/huginn",
-    "upvotes": 235,
-    "author": "vghaisas",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=30051701"
-  },
-  {
-    "title": "Customizing Web Search",
-    "url": "https://notes.npilk.com/custom-search",
-    "upvotes": 10,
-    "author": "npilk",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30046716"
+    "title": "Show HN: Let's Block It – Custom uBlock Origin Filters Made Easy",
+    "url": "https://letsblock.it/",
+    "upvotes": 15,
+    "author": "xvello",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30057442"
   },
   {
     "title": "Chain of vulnerabilities led to RCE on Cisco Prime servers",
     "url": "https://portswigger.net/daily-swig/chain-of-vulnerabilities-led-to-rce-on-cisco-prime-servers",
-    "upvotes": 7,
+    "upvotes": 11,
     "author": "feross",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30057195"
   },
   {
-    "title": "An Armful of CHERIs",
-    "url": "https://msrc-blog.microsoft.com/2022/01/20/an_armful_of_cheris/",
-    "upvotes": 86,
-    "author": "tosh",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=30007354"
+    "title": "$130B wiped off crypto markets in 24 hours",
+    "url": "https://www.cnbc.com/2022/01/24/bitcoin-ether-fall-as-130-billion-wiped-off-cryptocurrency-markets-.html",
+    "upvotes": 134,
+    "author": "TangerineDream",
+    "comments": 180,
+    "link": "https://news.ycombinator.com/item?id=30057409"
   },
   {
-    "title": "Britain’s vellum industry is booming",
-    "url": "https://www.economist.com/britain/2022/01/22/britains-vellum-industry-is-booming-quietly",
+    "title": "Const all the things?",
+    "url": "https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/",
+    "upvotes": 94,
+    "author": "todsacerdoti",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=30054059"
+  },
+  {
+    "title": "Reading to the Endgame",
+    "url": "https://www.cabinetmagazine.org/issues/35/burnett_walter.php",
     "upvotes": 5,
-    "author": "helsinkiandrew",
+    "author": "drdee",
     "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30041352"
+  },
+  {
+    "title": "Webb’s Journey to L2 Is Nearly Complete",
+    "url": "https://blogs.nasa.gov/webb/2022/01/21/webbs-journey-to-l2-is-nearly-complete/",
+    "upvotes": 80,
+    "author": "jordanpg",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=30056516"
+  },
+  {
+    "title": "Malloy – A Better SQL, from Looker",
+    "url": "https://github.com/looker-open-source/malloy",
+    "upvotes": 119,
+    "author": "maximilianroos",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=30053860"
+  },
+  {
+    "title": "Diving into BoardGameGeek",
+    "url": "https://jvanelteren.github.io/blog/2022/01/19/boardgames.html",
+    "upvotes": 103,
+    "author": "fixie",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=30040739"
+  },
+  {
+    "title": "Device wraps around hot surfaces, turns wasted heat to electricity",
+    "url": "https://www.psu.edu/news/research/story/form-fit-device-wraps-around-hot-surfaces-turns-wasted-heat-electricity/",
+    "upvotes": 101,
+    "author": "geox",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=30039170"
+  },
+  {
+    "title": "Britain’s vellum industry is booming, quietly",
+    "url": "https://www.economist.com/britain/2022/01/22/britains-vellum-industry-is-booming-quietly",
+    "upvotes": 8,
+    "author": "helsinkiandrew",
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30044613"
   },
   {
-    "title": "Show HN: Shoot the neural network before it shoots you",
-    "url": "https://github.com/victorqribeiro/bangBang",
-    "upvotes": 126,
-    "author": "atum47",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=30051902"
+    "title": "Risky Food-Finding Strategy Could Be a Key to Human Success",
+    "url": "https://today.duke.edu/2022/01/risky-food-finding-strategy-could-be-key-human-success",
+    "upvotes": 29,
+    "author": "diodorus",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30043580"
   },
   {
-    "title": "Advanced Orion Satellites",
-    "url": "https://space.skyrocket.de/doc_sdat/orion-5_nro.htm",
-    "upvotes": 15,
-    "author": "jcims",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30055154"
+    "title": "Presenting Lst.sh – Portable Shell Array Library",
+    "url": "https://lonkamikaze.github.io/2022/01/23/bsda2-presenting-lst.sh",
+    "upvotes": 5,
+    "author": "vermaden",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30057906"
+  },
+  {
+    "title": "An Armful of CHERIs",
+    "url": "https://msrc-blog.microsoft.com/2022/01/20/an_armful_of_cheris/",
+    "upvotes": 91,
+    "author": "tosh",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=30007354"
+  },
+  {
+    "title": "Customizing Web Search",
+    "url": "https://notes.npilk.com/custom-search",
+    "upvotes": 12,
+    "author": "npilk",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30046716"
+  },
+  {
+    "title": "Buy things, not experiences",
+    "url": "https://write.as/harold-lee/theres-a-phrase-going-around-that-you-should-buy-experiences-not-things",
+    "upvotes": 114,
+    "author": "RickJWagner",
+    "comments": 114,
+    "link": "https://news.ycombinator.com/item?id=30057032"
   }
 ]
