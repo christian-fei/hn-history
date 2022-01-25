@@ -1,75 +1,83 @@
 [
   {
-    "title": "WebAssembly techniques to speed up matrix multiplication",
-    "url": "https://jott.live/markdown/mm_wasm",
-    "upvotes": 148,
-    "author": "brrrrrm",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=30073186"
-  },
-  {
-    "title": "Nvidia prepares to abandon $40B Arm bid",
-    "url": "https://www.bloomberg.com/news/articles/2022-01-25/nvidia-is-said-to-quietly-prepare-to-abandon-takeover-of-arm",
-    "upvotes": 599,
-    "author": "pseudolus",
-    "comments": 311,
-    "link": "https://news.ycombinator.com/item?id=30070425"
-  },
-  {
     "title": "Doing too much work on one's own before looping in others",
     "url": "https://thezbook.com/the-biggest-mistake-i-see-engineers-make/",
-    "upvotes": 70,
+    "upvotes": 122,
     "author": "alokedesai",
-    "comments": 55,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=30074949"
+  },
+  {
+    "title": "WebAssembly techniques to speed up matrix multiplication",
+    "url": "https://jott.live/markdown/mm_wasm",
+    "upvotes": 157,
+    "author": "brrrrrm",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=30073186"
   },
   {
     "title": "I’m Porting the TypeScript Type Checker Tsc to Go",
     "url": "https://kdy1.dev/posts/2022/1/tsc-go",
-    "upvotes": 68,
+    "upvotes": 92,
     "author": "msoad",
-    "comments": 37,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=30074414"
+  },
+  {
+    "title": "Nvidia prepares to abandon $40B Arm bid",
+    "url": "https://www.bloomberg.com/news/articles/2022-01-25/nvidia-is-said-to-quietly-prepare-to-abandon-takeover-of-arm",
+    "upvotes": 613,
+    "author": "pseudolus",
+    "comments": 323,
+    "link": "https://news.ycombinator.com/item?id=30070425"
   },
   {
     "title": "Clearview AI challenges B.C. privacy watchdog order",
     "url": "https://www.piquenewsmagazine.com/must-reads/us-mass-surveillance-company-challenges-bc-privacy-watchdog-order-4988007",
-    "upvotes": 65,
+    "upvotes": 74,
     "author": "arkadiyt",
-    "comments": 36,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=30074126"
   },
   {
     "title": "Simulating the IBM 360/50 mainframe from its microcode",
     "url": "https://www.righto.com/2022/01/ibm360model50.html",
-    "upvotes": 62,
+    "upvotes": 65,
     "author": "picture",
-    "comments": 27,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=30073973"
   },
   {
     "title": "James Webb telescope reaches its final destination in space, million miles away",
     "url": "https://www.npr.org/2022/01/24/1075437484/james-webb-telescope-final-destination",
-    "upvotes": 516,
+    "upvotes": 530,
     "author": "pseudolus",
-    "comments": 196,
+    "comments": 206,
     "link": "https://news.ycombinator.com/item?id=30070378"
   },
   {
     "title": "Store SQLite in Cloudflare Durable Objects",
     "url": "https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects",
-    "upvotes": 109,
+    "upvotes": 119,
     "author": "jgrahamc",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=30072997"
   },
   {
     "title": "Around one-in-three children globally suffer from lead poisoning",
     "url": "https://ourworldindata.org/reducing-lead-poisoning",
-    "upvotes": 255,
+    "upvotes": 265,
     "author": "tosh",
-    "comments": 154,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=30070858"
+  },
+  {
+    "title": "Google Is Forcing Me to Dump a Perfectly Good Phone",
+    "url": "https://www.vice.com/en/article/dypxpx/google-is-forcing-me-to-dump-a-perfectly-good-phone",
+    "upvotes": 265,
+    "author": "ciprian_craciun",
+    "comments": 280,
+    "link": "https://news.ycombinator.com/item?id=30074185"
   },
   {
     "title": "Ribbon Health",
@@ -78,161 +86,153 @@
   {
     "title": "Researchers Build AI That Builds AI",
     "url": "https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/",
-    "upvotes": 36,
+    "upvotes": 39,
     "author": "theafh",
-    "comments": 15,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=30074400"
-  },
-  {
-    "title": "Google Is Forcing Me to Dump a Perfectly Good Phone",
-    "url": "https://www.vice.com/en/article/dypxpx/google-is-forcing-me-to-dump-a-perfectly-good-phone",
-    "upvotes": 216,
-    "author": "ciprian_craciun",
-    "comments": 243,
-    "link": "https://news.ycombinator.com/item?id=30074185"
-  },
-  {
-    "title": "Foobar2000",
-    "url": "https://www.foobar2000.org",
-    "upvotes": 177,
-    "author": "niedzielski",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=30054239"
   },
   {
     "title": "Systemd by Example",
     "url": "https://systemd-by-example.com/",
-    "upvotes": 160,
+    "upvotes": 185,
     "author": "Foxboron",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=30071240"
+  },
+  {
+    "title": "Foobar2000",
+    "url": "https://www.foobar2000.org",
+    "upvotes": 186,
+    "author": "niedzielski",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=30054239"
   },
   {
     "title": "Recovering redacted information from pixelated videos",
     "url": "https://positive.security/blog/video-depixelation",
-    "upvotes": 139,
+    "upvotes": 146,
     "author": "kerm1t",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=30071250"
+  },
+  {
+    "title": "Nintendo Switch game cartridges taste offensively bad",
+    "url": "https://www.polygon.com/2017/3/1/14784140/nintendo-switch-cartridges-taste-awful-psa",
+    "upvotes": 7,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30076389"
   },
   {
     "title": "Update on the Bagel language",
     "url": "https://www.brandons.me/blog/bagel-bites",
     "upvotes": 27,
     "author": "ingve",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=30055434"
+  },
+  {
+    "title": "Deno in 2021",
+    "url": "https://deno.com/blog/deno-in-2021",
+    "upvotes": 137,
+    "author": "0xedb",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=30073786"
   },
   {
     "title": "Launch HN: Castled Data",
     "url": "https://github.com/castledio/castled",
     "upvotes": 41,
     "author": "aruntdharan",
-    "comments": 27,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=30072244"
-  },
-  {
-    "title": "Deno in 2021",
-    "url": "https://deno.com/blog/deno-in-2021",
-    "upvotes": 126,
-    "author": "0xedb",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=30073786"
-  },
-  {
-    "title": "The Great Resignation? More Like the Great Renegotiation",
-    "url": "https://www.npr.org/sections/money/2022/01/25/1075115539/the-great-resignation-more-like-the-great-renegotiation",
-    "upvotes": 328,
-    "author": "PandaRider",
-    "comments": 348,
-    "link": "https://news.ycombinator.com/item?id=30072182"
   },
   {
     "title": "About Citation Files on GitHub",
     "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files",
-    "upvotes": 111,
+    "upvotes": 115,
     "author": "tgymnich",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30071107"
   },
   {
-    "title": "Real Time Background Changing from Concepts to Implementation",
-    "url": "https://dataqoil.com/2021/07/11/realtime-background-changing-in-python/",
-    "upvotes": 11,
-    "author": "qviper",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30045560"
+    "title": "The Great Resignation? More Like the Great Renegotiation",
+    "url": "https://www.npr.org/sections/money/2022/01/25/1075115539/the-great-resignation-more-like-the-great-renegotiation",
+    "upvotes": 338,
+    "author": "PandaRider",
+    "comments": 364,
+    "link": "https://news.ycombinator.com/item?id=30072182"
   },
   {
     "title": "Building a production database in ten years or less",
     "url": "https://www.edgedb.com/blog/building-a-production-database-in-ten-years-or-less",
-    "upvotes": 43,
+    "upvotes": 50,
     "author": "1st1",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30072712"
+  },
+  {
+    "title": "Pfizer and BioNTech launch trial of Omicron-targeted Covid vaccine",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-biontech-launch-trial-omicron-targeted-covid-vaccine-2022-01-25/",
+    "upvotes": 39,
+    "author": "caaqil",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=30075286"
   },
   {
     "title": "Chesterton’s Fence",
     "url": "https://fs.blog/chestertons-fence/",
-    "upvotes": 113,
+    "upvotes": 119,
     "author": "hasheddan",
-    "comments": 94,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=30070757"
   },
   {
     "title": "Moving Google Contacts and Calendar to NextCloud",
     "url": "https://selfhostedheaven.com/posts/20220116-moving-google-contacts-and-calendar-to-nextcloud/",
-    "upvotes": 131,
+    "upvotes": 141,
     "author": "neoglow",
-    "comments": 63,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=30070319"
+  },
+  {
+    "title": "Real Time Background Changing from Concepts to Implementation",
+    "url": "https://dataqoil.com/2021/07/11/realtime-background-changing-in-python/",
+    "upvotes": 14,
+    "author": "qviper",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30045560"
   },
   {
     "title": "Lessons for a Young Scientist",
     "url": "https://nautil.us/lessons-for-a-young-scientist-2-13423/",
-    "upvotes": 32,
+    "upvotes": 34,
     "author": "arkj",
-    "comments": 16,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=30072683"
   },
   {
     "title": "Highlights from Git 2.35",
     "url": "https://github.blog/2022-01-24-highlights-from-git-2-35/",
-    "upvotes": 222,
+    "upvotes": 224,
     "author": "ossusermivami",
-    "comments": 82,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=30068776"
   },
   {
     "title": "We purchased a machine from China and it came with malware preinstalled",
     "url": "https://www.rmcybernetics.com/general/zhengbang-zb3245tss-pick-place-machine",
-    "upvotes": 387,
+    "upvotes": 400,
     "author": "truxs",
-    "comments": 234,
+    "comments": 245,
     "link": "https://news.ycombinator.com/item?id=30071098"
   },
   {
     "title": "AlphaFold-Powered Drug Discovery of a Novel CDK20 Inhibitor",
     "url": "https://arxiv.org/abs/2201.09647",
-    "upvotes": 154,
+    "upvotes": 157,
     "author": "in3d",
-    "comments": 63,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=30069402"
-  },
-  {
-    "title": "Lipids can modulate RNA activity, a possible clue to origin of life",
-    "url": "https://tu-dresden.de/cmcb/bcube/news-termine/news/eine-unerwartete-anziehung-von-nukleinsaeuren-und-fett",
-    "upvotes": 75,
-    "author": "SciNerd",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30070399"
-  },
-  {
-    "title": "Flameshot v11.0.0",
-    "url": "https://github.com/flameshot-org/flameshot/releases/tag/v11.0.0",
-    "upvotes": 80,
-    "author": "antouank",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=30071766"
   }
 ]
