@@ -2,49 +2,57 @@
   {
     "title": "Let's Encrypt: Issue with TLS-ALPN-01 Validation Method",
     "url": "https://community.letsencrypt.org/t/2022-01-25-issue-with-tls-alpn-01-validation-method/170450",
-    "upvotes": 55,
+    "upvotes": 73,
     "author": "kpetermeni",
-    "comments": 16,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30082286"
   },
   {
     "title": "Agatha Christie could afford a maid and a nanny but not a car",
     "url": "https://fullstackeconomics.com/why-agatha-christie-could-afford-a-maid-and-a-nanny-but-not-a-car/",
-    "upvotes": 223,
+    "upvotes": 241,
     "author": "exolymph",
-    "comments": 165,
+    "comments": 178,
     "link": "https://news.ycombinator.com/item?id=30080523"
   },
   {
     "title": "Nature Neuroscience offers open access publishing for 11,390 USD per article",
     "url": "https://www.nature.com/articles/s41593-021-00995-2",
-    "upvotes": 131,
+    "upvotes": 149,
     "author": "galoisscobi",
-    "comments": 103,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=30081034"
   },
   {
     "title": "Two weeks later David Bennett is alive, his pig’s heart beating soundly",
     "url": "https://www.irishtimes.com/life-and-style/health-family/two-weeks-after-his-operation-david-bennett-is-alive-his-pig-s-heart-beating-soundly-1.4783776",
-    "upvotes": 243,
+    "upvotes": 261,
     "author": "otoolep",
-    "comments": 242,
+    "comments": 254,
     "link": "https://news.ycombinator.com/item?id=30080472"
   },
   {
     "title": "The old internet shows signs of quietly coming back",
     "url": "https://cheapskatesguide.org/articles/old-internet-coming-back.html",
-    "upvotes": 391,
+    "upvotes": 404,
     "author": "ColinWright",
-    "comments": 239,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=30078971"
+  },
+  {
+    "title": "Surprises in the Bitcoin blockchain and how they are stored",
+    "url": "https://www.righto.com/2014/02/ascii-bernanke-wikileaks-photographs.html",
+    "upvotes": 39,
+    "author": "picture",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=30081901"
   },
   {
     "title": "Guide to Using YubiKey for GPG and SSH",
     "url": "https://github.com/drduh/YubiKey-Guide",
-    "upvotes": 71,
+    "upvotes": 82,
     "author": "simonpure",
-    "comments": 17,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30081348"
   },
   {
@@ -52,121 +60,105 @@
     "url": "https://jobs.ashbyhq.com/Ashby?utm_source=hn"
   },
   {
-    "title": "Surprises in the Bitcoin blockchain and how they are stored",
-    "url": "https://www.righto.com/2014/02/ascii-bernanke-wikileaks-photographs.html",
-    "upvotes": 31,
-    "author": "picture",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=30081901"
-  },
-  {
     "title": "Nintendo Switch game cartridges taste offensively bad",
     "url": "https://www.polygon.com/2017/3/1/14784140/nintendo-switch-cartridges-taste-awful-psa",
-    "upvotes": 384,
+    "upvotes": 387,
     "author": "tosh",
-    "comments": 237,
+    "comments": 238,
     "link": "https://news.ycombinator.com/item?id=30076389"
   },
   {
     "title": "Doing too much work on one's own before looping in others",
     "url": "https://thezbook.com/the-biggest-mistake-i-see-engineers-make/",
-    "upvotes": 480,
+    "upvotes": 485,
     "author": "alokedesai",
-    "comments": 302,
+    "comments": 306,
     "link": "https://news.ycombinator.com/item?id=30074949"
   },
   {
     "title": "The Polygons of Éric's Chahi Another World",
     "url": "https://fabiensanglard.net/another_world_polygons/index.html",
-    "upvotes": 72,
+    "upvotes": 77,
     "author": "zaiste",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=30080159"
   },
   {
     "title": "I’m porting the TypeScript type checker tsc to Go",
     "url": "https://kdy1.dev/posts/2022/1/tsc-go",
-    "upvotes": 381,
+    "upvotes": 389,
     "author": "msoad",
-    "comments": 203,
+    "comments": 205,
     "link": "https://news.ycombinator.com/item?id=30074414"
   },
   {
     "title": "Hacking the Apple Webcam",
     "url": "https://www.ryanpickren.com/safari-uxss",
-    "upvotes": 277,
+    "upvotes": 285,
     "author": "sync",
-    "comments": 50,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=30076309"
-  },
-  {
-    "title": "A trick to have arbitrary infix operators in Python",
-    "url": "http://tomerfiliba.com/blog/Infix-Operators/",
-    "upvotes": 182,
-    "author": "prionassembly",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=30057048"
   },
   {
     "title": "Ask HN: How do you get out of a rut?",
     "url": "item?id=30082234",
-    "upvotes": 35,
+    "upvotes": 49,
     "author": "abecedarian",
-    "comments": 23,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=30082234"
+  },
+  {
+    "title": "Julia Macros for Beginners",
+    "url": "https://jkrumbiegel.com/pages/2021-06-07-macros-for-beginners/",
+    "upvotes": 40,
+    "author": "IlyaOrson",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30070462"
+  },
+  {
+    "title": "A trick to have arbitrary infix operators in Python",
+    "url": "http://tomerfiliba.com/blog/Infix-Operators/",
+    "upvotes": 189,
+    "author": "prionassembly",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=30057048"
   },
   {
     "title": "Pwnkit: Local Privilege Escalation in polkit's pkexec",
     "url": "https://seclists.org/oss-sec/2022/q1/80",
-    "upvotes": 169,
+    "upvotes": 174,
     "author": "todsacerdoti",
-    "comments": 70,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=30077271"
-  },
-  {
-    "title": "Why does the \"chart increasing\" emoji show in red?",
-    "url": "https://blog.emojipedia.org/why-does-the-chart-increasing-emoji-show-in-red/",
-    "upvotes": 193,
-    "author": "adius",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=30076082"
   },
   {
     "title": "Elsevier embeds a hash in the PDF metadata that is unique for each download",
     "url": "https://twitter.com/json_dirs/status/1486120144141123584",
-    "upvotes": 62,
+    "upvotes": 84,
     "author": "sohkamyung",
-    "comments": 7,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30082138"
   },
   {
     "title": "Bitrot",
     "url": "https://surfingcomplexity.blog/2022/01/23/bitrot/",
-    "upvotes": 16,
+    "upvotes": 22,
     "author": "avador",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30051893"
   },
   {
-    "title": "StylEx: A New Approach for Visual Explanation of Classifiers",
-    "url": "https://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html",
-    "upvotes": 24,
-    "author": "signa11",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30055511"
-  },
-  {
-    "title": "Rethinking Fear",
-    "url": "https://fs.blog/rethinking-fear/",
-    "upvotes": 23,
-    "author": "YXNjaGVyZWdlbgo",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30035022"
+    "title": "Why does the \"chart increasing\" emoji show in red?",
+    "url": "https://blog.emojipedia.org/why-does-the-chart-increasing-emoji-show-in-red/",
+    "upvotes": 198,
+    "author": "adius",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=30076082"
   },
   {
     "title": "Scary fraud ensues when ID theft and usury collide",
     "url": "https://krebsonsecurity.com/2022/01/scary-fraud-ensues-when-id-theft-usury-collide/",
-    "upvotes": 163,
+    "upvotes": 164,
     "author": "picture",
     "comments": 68,
     "link": "https://news.ycombinator.com/item?id=30077065"
@@ -174,39 +166,55 @@
   {
     "title": "Economists are revising their views on robots and jobs",
     "url": "https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs",
-    "upvotes": 90,
+    "upvotes": 92,
     "author": "blopeur",
-    "comments": 154,
+    "comments": 161,
     "link": "https://news.ycombinator.com/item?id=30078732"
+  },
+  {
+    "title": "Rethinking Fear",
+    "url": "https://fs.blog/rethinking-fear/",
+    "upvotes": 27,
+    "author": "YXNjaGVyZWdlbgo",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30035022"
+  },
+  {
+    "title": "StylEx: A New Approach for Visual Explanation of Classifiers",
+    "url": "https://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html",
+    "upvotes": 25,
+    "author": "signa11",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30055511"
   },
   {
     "title": "How I write and curate the cron.weekly newsletter",
     "url": "https://ma.ttias.be/how-to-cron-weekly-newsletter/",
-    "upvotes": 37,
+    "upvotes": 42,
     "author": "NicoJuicy",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30079351"
   },
   {
-    "title": "Clearview AI challenges B.C. privacy watchdog order",
-    "url": "https://www.piquenewsmagazine.com/must-reads/us-mass-surveillance-company-challenges-bc-privacy-watchdog-order-4988007",
-    "upvotes": 154,
-    "author": "arkadiyt",
-    "comments": 103,
-    "link": "https://news.ycombinator.com/item?id=30074126"
-  },
-  {
     "title": "Why routing alogrithms from different maps don't always give the same route",
     "url": "https://www.tomtom.com/blog/navigation/map-data-to-suggest-the-safest-route/",
-    "upvotes": 6,
+    "upvotes": 10,
     "author": "afknewsagency",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30057203"
+  },
+  {
+    "title": "The history of the end of poverty has just begun",
+    "url": "https://ourworldindata.org/history-of-poverty-has-just-begun",
+    "upvotes": 119,
+    "author": "cryoz",
+    "comments": 283,
+    "link": "https://news.ycombinator.com/item?id=30077380"
   },
   {
     "title": "A New Approach to Extracting Information from Large Ensembles of Sensors",
     "url": "https://www.titech.ac.jp/english/news/2022/062916",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "rustoo",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30056228"
@@ -214,25 +222,17 @@
   {
     "title": "In the 1800s, Jersey Island Was Covered With 12-Foot-Tall Kale",
     "url": "https://www.atlasobscura.com/articles/jersey-kale",
-    "upvotes": 88,
+    "upvotes": 89,
     "author": "netgusto",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=30054927"
   },
   {
-    "title": "Google Is Forcing Me to Dump a Perfectly Good Phone",
-    "url": "https://www.vice.com/en/article/dypxpx/google-is-forcing-me-to-dump-a-perfectly-good-phone",
-    "upvotes": 742,
-    "author": "ciprian_craciun",
-    "comments": 580,
-    "link": "https://news.ycombinator.com/item?id=30074185"
-  },
-  {
-    "title": "The history of the end of poverty has just begun",
-    "url": "https://ourworldindata.org/history-of-poverty-has-just-begun",
-    "upvotes": 109,
-    "author": "cryoz",
-    "comments": 272,
-    "link": "https://news.ycombinator.com/item?id=30077380"
+    "title": "Rebuilding Notre Dame Cathedral",
+    "url": "https://casdinteret.com/2022/01/rebuilding-notre-dame-painstaking-battle-between-new-and-old/",
+    "upvotes": 85,
+    "author": "ternaryoperator",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=30077297"
   }
 ]
