@@ -2,42 +2,50 @@
   {
     "title": "How much did a tunic cost in the Roman Empire?",
     "url": "https://www.bookandsword.com/2021/05/08/how-much-did-a-tunic-cost-in-the-roman-empire/",
-    "upvotes": 100,
+    "upvotes": 122,
     "author": "leonry",
-    "comments": 80,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=30101404"
   },
   {
     "title": "Guess the daily Wordle in one try using the tweet distribution",
     "url": "https://www.kaggle.com/benhamner/wordle-1-6",
-    "upvotes": 99,
+    "upvotes": 126,
     "author": "benhamner",
-    "comments": 23,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=30101456"
-  },
-  {
-    "title": "CVE-2021-4122 decryption through LUKS2 reencryption crash recovery",
-    "url": "https://seclists.org/oss-sec/2022/q1/34",
-    "upvotes": 75,
-    "author": "beermonster",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=30101193"
   },
   {
     "title": "Ask HN: Hacker claimed ownership and then deleted my Facebook Page of 50k users",
     "url": "item?id=30102240",
-    "upvotes": 123,
+    "upvotes": 167,
     "author": "metalised",
-    "comments": 49,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=30102240"
+  },
+  {
+    "title": "CVE-2021-4122 decryption through LUKS2 reencryption crash recovery",
+    "url": "https://seclists.org/oss-sec/2022/q1/34",
+    "upvotes": 84,
+    "author": "beermonster",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=30101193"
   },
   {
     "title": "LTO Tape data storage for Linux nerds",
     "url": "https://blog.benjojo.co.uk/post/lto-tape-backups-for-linux-nerds",
-    "upvotes": 172,
+    "upvotes": 178,
     "author": "detaro",
-    "comments": 105,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=30099540"
+  },
+  {
+    "title": "Parsing Decimals four times faster",
+    "url": "https://cantortrading.fi/rust_decimal_str/",
+    "upvotes": 57,
+    "author": "cantortrading",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30101163"
   },
   {
     "title": "Mighty",
@@ -46,135 +54,127 @@
   {
     "title": "Robotics 501: Mathematics for Robotics",
     "url": "https://github.com/michiganrobotics/rob501",
-    "upvotes": 149,
+    "upvotes": 156,
     "author": "rg111",
-    "comments": 44,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=30099347"
   },
   {
     "title": "A Primer on Bézier Curves",
     "url": "https://pomax.github.io/bezierinfo/",
-    "upvotes": 67,
+    "upvotes": 76,
     "author": "s1291",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=30100427"
-  },
-  {
-    "title": "Parsing Decimals four times faster",
-    "url": "https://cantortrading.fi/rust_decimal_str/",
-    "upvotes": 45,
-    "author": "cantortrading",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30101163"
   },
   {
     "title": "Despite Decades of Hacking Attacks, Companies Leave Sensitive Data Unprotected",
     "url": "https://www.propublica.org/article/identity-theft-surged-during-the-pandemic-heres-where-a-lot-of-the-stolen-data-came-from",
-    "upvotes": 83,
+    "upvotes": 91,
     "author": "danso",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=30099747"
-  },
-  {
-    "title": "The Strangely Successful History of People Mailing Themselves in Boxes",
-    "url": "https://www.atlasobscura.com/articles/the-strangely-successful-history-of-people-mailing-themselves-in-boxes",
-    "upvotes": 82,
-    "author": "IAmGraydon",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=30099740"
-  },
-  {
-    "title": "Searching for Susy Thunder",
-    "url": "https://www.theverge.com/c/22889425/susy-thunder-headley-hackers-phone-phreakers-claire-evans",
-    "upvotes": 410,
-    "author": "DamnInteresting",
-    "comments": 198,
-    "link": "https://news.ycombinator.com/item?id=30096646"
-  },
-  {
-    "title": "Reasons Kubernetes is so complex",
-    "url": "https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/",
-    "upvotes": 289,
-    "author": "bumbledraven",
-    "comments": 195,
-    "link": "https://news.ycombinator.com/item?id=30096674"
-  },
-  {
-    "title": "An embeddable Prolog scripting language for Go",
-    "url": "https://github.com/ichiban/prolog",
-    "upvotes": 76,
-    "author": "triska",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=30091291"
-  },
-  {
-    "title": "Show HN: Open-source admin panel for Supabase",
-    "url": "https://www.getmotoradmin.com/supabase",
-    "upvotes": 48,
-    "author": "petems",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=30100077"
-  },
-  {
-    "title": "Gov.uk Platform as a Service",
-    "url": "https://www.cloud.service.gov.uk",
-    "upvotes": 152,
-    "author": "xd",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=30097812"
   },
   {
     "title": "RegExr: Learn, Build and Test Regex",
     "url": "https://regexr.com/",
-    "upvotes": 4,
+    "upvotes": 15,
     "author": "evo_9",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30103085"
   },
   {
+    "title": "The Strangely Successful History of People Mailing Themselves in Boxes",
+    "url": "https://www.atlasobscura.com/articles/the-strangely-successful-history-of-people-mailing-themselves-in-boxes",
+    "upvotes": 89,
+    "author": "IAmGraydon",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=30099740"
+  },
+  {
+    "title": "Searching for Susy Thunder",
+    "url": "https://www.theverge.com/c/22889425/susy-thunder-headley-hackers-phone-phreakers-claire-evans",
+    "upvotes": 414,
+    "author": "DamnInteresting",
+    "comments": 197,
+    "link": "https://news.ycombinator.com/item?id=30096646"
+  },
+  {
+    "title": "Reasons Kubernetes is so complex",
+    "url": "https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/",
+    "upvotes": 297,
+    "author": "bumbledraven",
+    "comments": 203,
+    "link": "https://news.ycombinator.com/item?id=30096674"
+  },
+  {
+    "title": "An embeddable Prolog scripting language for Go",
+    "url": "https://github.com/ichiban/prolog",
+    "upvotes": 84,
+    "author": "triska",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=30091291"
+  },
+  {
+    "title": "I read the federal government’s Zero-Trust Memo so you don’t have to",
+    "url": "https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust-memo-so-you-dont-have-to",
+    "upvotes": 22,
+    "author": "EthanHeilman",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30101411"
+  },
+  {
+    "title": "Show HN: Open-source admin panel for Supabase",
+    "url": "https://www.getmotoradmin.com/supabase",
+    "upvotes": 52,
+    "author": "petems",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=30100077"
+  },
+  {
+    "title": "Gov.uk Platform as a Service",
+    "url": "https://www.cloud.service.gov.uk",
+    "upvotes": 161,
+    "author": "xd",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=30097812"
+  },
+  {
     "title": "Mysterious object unlike anything astronomers have seen before",
     "url": "https://www.icrar.org/repeating-transient/",
-    "upvotes": 85,
+    "upvotes": 94,
     "author": "signa11",
-    "comments": 55,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=30099010"
-  },
-  {
-    "title": "Redis scripts do not expire keys atomically",
-    "url": "https://ably.com/blog/redis-keys-do-not-expire-atomically",
-    "upvotes": 47,
-    "author": "stichers",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=30099572"
-  },
-  {
-    "title": "The case against masks at school",
-    "url": "https://www.theatlantic.com/ideas/archive/2022/01/kids-masks-schools-weak-science/621133/",
-    "upvotes": 52,
-    "author": "hrl",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=30087783"
-  },
-  {
-    "title": "The Life of an Optimization Barrier",
-    "url": "https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/",
-    "upvotes": 21,
-    "author": "ingve",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30084636"
   },
   {
     "title": "The Kept and the Killed: the history behind a hole-punched archive",
     "url": "https://publicdomainreview.org/essay/the-kept-and-the-killed/",
-    "upvotes": 5,
+    "upvotes": 8,
     "author": "samclemens",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30089582"
   },
   {
+    "title": "Redis scripts do not expire keys atomically",
+    "url": "https://ably.com/blog/redis-keys-do-not-expire-atomically",
+    "upvotes": 49,
+    "author": "stichers",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=30099572"
+  },
+  {
+    "title": "The Life of an Optimization Barrier",
+    "url": "https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/",
+    "upvotes": 25,
+    "author": "ingve",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30084636"
+  },
+  {
     "title": "Turtles Fly South for Winter",
     "url": "https://hakaimagazine.com/features/these-turtles-fly-south-for-winter/",
-    "upvotes": 9,
+    "upvotes": 11,
     "author": "Petiver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30082164"
@@ -182,39 +182,31 @@
   {
     "title": "Poll: Is the leetcode grind necessary to land a high paying remote job?",
     "url": "item?id=30098671",
-    "upvotes": 203,
+    "upvotes": 212,
     "author": "throwawaynay",
-    "comments": 444,
+    "comments": 458,
     "link": "https://news.ycombinator.com/item?id=30098671"
   },
   {
     "title": "Facebook promised poor countries free internet: People got charged anyway",
     "url": "https://www.business-standard.com/article/international/facebook-promised-poor-countries-free-internet-people-got-charged-anyway-122012501813_1.html",
-    "upvotes": 159,
+    "upvotes": 169,
     "author": "SQL2219",
-    "comments": 44,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=30099648"
   },
   {
     "title": "Jonathan the 190-Year-Old Tortoise Was Photographed in 1886 and Today",
     "url": "https://petapixel.com/2022/01/26/jonathan-the-190-year-old-tortoise-was-photographed-in-1886-and-today/",
-    "upvotes": 162,
+    "upvotes": 174,
     "author": "sexy_seedbox",
-    "comments": 53,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=30099606"
-  },
-  {
-    "title": "13 years sailing around the world",
-    "url": "http://blog.mailasail.com/wildfox",
-    "upvotes": 109,
-    "author": "squiggy22",
-    "comments": 107,
-    "link": "https://news.ycombinator.com/item?id=30084217"
   },
   {
     "title": "Origami and the Structure of Materials",
     "url": "https://sinews.siam.org/Details-Page/origami-and-the-structure-of-materials",
-    "upvotes": 27,
+    "upvotes": 31,
     "author": "rustoo",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30099877"
@@ -222,15 +214,23 @@
   {
     "title": "Crows may soon be Sweden’s newest litter pickers",
     "url": "https://www.thelocal.com/20220127/crows-may-soon-be-swedens-newest-litter-pickers/",
-    "upvotes": 70,
+    "upvotes": 75,
     "author": "Markoff",
-    "comments": 95,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=30099694"
+  },
+  {
+    "title": "13 years sailing around the world",
+    "url": "http://blog.mailasail.com/wildfox",
+    "upvotes": 117,
+    "author": "squiggy22",
+    "comments": 114,
+    "link": "https://news.ycombinator.com/item?id=30084217"
   },
   {
     "title": "Topology and Computability",
     "url": "https://billwadge.com/2022/01/25/topology-and-computability/",
-    "upvotes": 51,
+    "upvotes": 55,
     "author": "herodotus",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30086709"
