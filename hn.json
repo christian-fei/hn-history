@@ -2,91 +2,91 @@
   {
     "title": "There’s No Such Thing as Clean Code",
     "url": "https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code",
-    "upvotes": 64,
+    "upvotes": 94,
     "author": "omnibrain",
-    "comments": 62,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=30111516"
   },
   {
     "title": "If Looks Could Kill",
     "url": "https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html",
-    "upvotes": 385,
+    "upvotes": 398,
     "author": "erickhill",
-    "comments": 94,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=30109233"
   },
   {
     "title": "Malls adding apartments to offset dwindling numbers of shoppers",
     "url": "https://www.ocregister.com/2022/01/25/malls-adding-apartments-to-offset-dwindling-numbers-of-shoppers/",
-    "upvotes": 33,
+    "upvotes": 40,
     "author": "prostoalex",
-    "comments": 21,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=30087222"
-  },
-  {
-    "title": "Writing an open source GPU driver without the hardware",
-    "url": "https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/",
-    "upvotes": 340,
-    "author": "mfilion",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=30107002"
   },
   {
     "title": "Myopia treatment 'smart glasses' from Japan to be sold in Asia",
     "url": "https://asia.nikkei.com/Business/Health-Care/Myopia-correcting-smart-glasses-from-Japan-to-be-sold-across-Asia",
-    "upvotes": 69,
+    "upvotes": 79,
     "author": "brian_herman",
-    "comments": 78,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=30083939"
+  },
+  {
+    "title": "Writing an open source GPU driver without the hardware",
+    "url": "https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/",
+    "upvotes": 350,
+    "author": "mfilion",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=30107002"
   },
   {
     "title": "Why Quantum Mechanics?",
     "url": "https://scottaaronson.blog/?p=6244",
-    "upvotes": 66,
+    "upvotes": 73,
     "author": "alberto_ol",
-    "comments": 58,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=30097765"
   },
   {
     "title": "Brian Kernighan on the Origins of Unix",
     "url": "https://lwn.net/Articles/881431/",
-    "upvotes": 101,
+    "upvotes": 109,
     "author": "signa11",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=30109955"
   },
   {
     "title": "Prime Video Uses WebAssembly",
     "url": "https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types",
-    "upvotes": 248,
+    "upvotes": 267,
     "author": "pacificat0r",
-    "comments": 117,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=30107540"
+  },
+  {
+    "title": "I won the local election, but my township ignored the results and state law",
+    "url": "https://twitter.com/gaughen/status/1486834885964832770",
+    "upvotes": 776,
+    "author": "georgecmu",
+    "comments": 245,
+    "link": "https://news.ycombinator.com/item?id=30108998"
   },
   {
     "title": "Rebank",
     "url": "https://www.ycombinator.com/companies/rebank/jobs/J9gH1P4-software-engineer-backend"
   },
   {
-    "title": "I won the local election, but my township ignored the results and state law",
-    "url": "https://twitter.com/gaughen/status/1486834885964832770",
-    "upvotes": 759,
-    "author": "georgecmu",
-    "comments": 230,
-    "link": "https://news.ycombinator.com/item?id=30108998"
-  },
-  {
     "title": "Show HN: Hibiki HTML – New frontend framework – no scaffolding, no Webpack",
     "url": "https://playground.hibikihtml.com/tutorial/",
-    "upvotes": 183,
+    "upvotes": 187,
     "author": "sawka",
-    "comments": 98,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=30103906"
   },
   {
     "title": "Playwright: Automate Chromium, WebKit and Firefox",
     "url": "https://github.com/microsoft/playwright",
-    "upvotes": 320,
+    "upvotes": 335,
     "author": "cyrusmg",
     "comments": 120,
     "link": "https://news.ycombinator.com/item?id=30083042"
@@ -94,7 +94,7 @@
   {
     "title": "Magic-trace: Diagnose tricky performance issues with Intel Processor Trace",
     "url": "https://blog.janestreet.com/magic-trace/",
-    "upvotes": 126,
+    "upvotes": 129,
     "author": "trishume",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30107750"
@@ -102,26 +102,66 @@
   {
     "title": "The Long Road to Today’s Cochlear Implant",
     "url": "https://spectrum.ieee.org/cochlear-implant-history",
-    "upvotes": 20,
+    "upvotes": 25,
     "author": "sohkamyung",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30110816"
-  },
-  {
-    "title": "The Block Protocol",
-    "url": "https://blockprotocol.org/",
-    "upvotes": 244,
-    "author": "jacobrussell",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=30103401"
   },
   {
     "title": "Getting to Know the Armed, the Most Unknowable Band in Hardcore",
     "url": "https://www.vice.com/en/article/d3kkea/getting-to-know-the-armed-the-most-unknowable-band-in-hardcore",
-    "upvotes": 22,
+    "upvotes": 25,
     "author": "bryanrasmussen",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30082588"
+  },
+  {
+    "title": "The Block Protocol",
+    "url": "https://blockprotocol.org/",
+    "upvotes": 247,
+    "author": "jacobrussell",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=30103401"
+  },
+  {
+    "title": "Foundations of Computer Science",
+    "url": "http://infolab.stanford.edu/~ullman/focs.html",
+    "upvotes": 271,
+    "author": "tosh",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=30099634"
+  },
+  {
+    "title": "We have jetpacks and we do not care",
+    "url": "https://www.theguardian.com/books/2022/jan/22/its-a-glorified-backpack-of-tubes-and-turbines-dave-eggers-on-jetpacks-and-the-enigma-of-solo-flight",
+    "upvotes": 310,
+    "author": "zdw",
+    "comments": 358,
+    "link": "https://news.ycombinator.com/item?id=30103306"
+  },
+  {
+    "title": "Regression and Other Stories by Andrew Gelman, Jennifer Hill, Aki Vehtari",
+    "url": "https://avehtari.github.io/ROS-Examples/",
+    "upvotes": 40,
+    "author": "malshe",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30109480"
+  },
+  {
+    "title": "Tabby's Star",
+    "url": "https://en.wikipedia.org/wiki/Tabby%27s_Star",
+    "upvotes": 3,
+    "author": "benbreen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30094665"
+  },
+  {
+    "title": "Show HN: An in-browser text editor to easily create static HTML",
+    "url": "https://triplelog.com/writer/",
+    "upvotes": 107,
+    "author": "uuddlrlrba",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=30106502"
   },
   {
     "title": "Nostalgic Computing Center",
@@ -132,52 +172,36 @@
     "link": "https://news.ycombinator.com/item?id=30111884"
   },
   {
-    "title": "Foundations of Computer Science",
-    "url": "http://infolab.stanford.edu/~ullman/focs.html",
-    "upvotes": 265,
-    "author": "tosh",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=30099634"
+    "title": "Masterclass on mathematical thinking",
+    "url": "https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/",
+    "upvotes": 234,
+    "author": "harmonicseq",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=30107687"
   },
   {
-    "title": "We have jetpacks and we do not care",
-    "url": "https://www.theguardian.com/books/2022/jan/22/its-a-glorified-backpack-of-tubes-and-turbines-dave-eggers-on-jetpacks-and-the-enigma-of-solo-flight",
-    "upvotes": 308,
-    "author": "zdw",
-    "comments": 356,
-    "link": "https://news.ycombinator.com/item?id=30103306"
-  },
-  {
-    "title": "Regression and Other Stories by Andrew Gelman, Jennifer Hill, Aki Vehtari",
-    "url": "https://avehtari.github.io/ROS-Examples/",
-    "upvotes": 37,
-    "author": "malshe",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30109480"
-  },
-  {
-    "title": "Show HN: An in-browser text editor to easily create static HTML",
-    "url": "https://triplelog.com/writer/",
-    "upvotes": 106,
-    "author": "uuddlrlrba",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=30106502"
+    "title": "Why can't you reverse a string with a flag emoji?",
+    "url": "https://davidamos.dev/why-cant-you-reverse-a-flag-emoji/",
+    "upvotes": 174,
+    "author": "da12",
+    "comments": 200,
+    "link": "https://news.ycombinator.com/item?id=30104292"
   },
   {
     "title": "Dozens of U.S. states say Apple stifles competition, back Epic",
     "url": "https://www.reuters.com/technology/dozens-us-states-say-apple-stifles-competition-back-fortnite-maker-2022-01-28/",
-    "upvotes": 251,
+    "upvotes": 256,
     "author": "keleftheriou",
-    "comments": 163,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=30110514"
   },
   {
-    "title": "Masterclass on mathematical thinking",
-    "url": "https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/",
-    "upvotes": 228,
-    "author": "harmonicseq",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=30107687"
+    "title": "The baseline for web development in 2022",
+    "url": "https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/",
+    "upvotes": 94,
+    "author": "benwerd",
+    "comments": 154,
+    "link": "https://news.ycombinator.com/item?id=30105932"
   },
   {
     "title": "United flies passenger flight on sustainable aviation fuel supplying one engine",
@@ -188,51 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=30109879"
   },
   {
-    "title": "Why can't you reverse a string with a flag emoji?",
-    "url": "https://davidamos.dev/why-cant-you-reverse-a-flag-emoji/",
-    "upvotes": 168,
-    "author": "da12",
-    "comments": 198,
-    "link": "https://news.ycombinator.com/item?id=30104292"
-  },
-  {
     "title": "I read the federal government’s Zero-Trust Memo so you don’t have to",
     "url": "https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust-memo-so-you-dont-have-to",
-    "upvotes": 522,
+    "upvotes": 525,
     "author": "EthanHeilman",
-    "comments": 265,
+    "comments": 269,
     "link": "https://news.ycombinator.com/item?id=30101411"
-  },
-  {
-    "title": "The baseline for web development in 2022",
-    "url": "https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/",
-    "upvotes": 89,
-    "author": "benwerd",
-    "comments": 149,
-    "link": "https://news.ycombinator.com/item?id=30105932"
   },
   {
     "title": "Ask HN: Hacker claimed ownership and then deleted my Facebook Page of 50k users",
     "url": "item?id=30102240",
-    "upvotes": 570,
+    "upvotes": 575,
     "author": "metalised",
-    "comments": 202,
+    "comments": 204,
     "link": "https://news.ycombinator.com/item?id=30102240"
   },
   {
     "title": "On being a PhD student of Robert Harper",
     "url": "https://www.cambridge.org/core/journals/journal-of-functional-programming/article/on-being-a-phd-student-of-robert-harper/B68BCF31384084D9FDCB17A7DF1DE7A0",
-    "upvotes": 110,
+    "upvotes": 112,
     "author": "JoelMcCracken",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=30103728"
-  },
-  {
-    "title": "Guess the daily Wordle in one try using the tweet distribution",
-    "url": "https://www.kaggle.com/benhamner/wordle-1-6",
-    "upvotes": 515,
-    "author": "benhamner",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=30101456"
   }
 ]
