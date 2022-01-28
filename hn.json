@@ -1,82 +1,90 @@
 [
   {
+    "title": "Apple contributes to OBS to support screen capture using ScreenCaptureKit",
+    "url": "https://github.com/obsproject/obs-studio/pull/5875/commits/551c54ba8440fcdf4cdc221f5d50a30a68b87a7e",
+    "upvotes": 39,
+    "author": "jiripospisil",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30112595"
+  },
+  {
     "title": "There’s No Such Thing as Clean Code",
     "url": "https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code",
-    "upvotes": 113,
+    "upvotes": 141,
     "author": "omnibrain",
-    "comments": 109,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=30111516"
   },
   {
     "title": "If Looks Could Kill",
     "url": "https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html",
-    "upvotes": 404,
+    "upvotes": 419,
     "author": "erickhill",
-    "comments": 100,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=30109233"
   },
   {
     "title": "Malls adding apartments to offset dwindling numbers of shoppers",
     "url": "https://www.ocregister.com/2022/01/25/malls-adding-apartments-to-offset-dwindling-numbers-of-shoppers/",
-    "upvotes": 46,
+    "upvotes": 54,
     "author": "prostoalex",
-    "comments": 33,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=30087222"
   },
   {
     "title": "Myopia treatment 'smart glasses' from Japan to be sold in Asia",
     "url": "https://asia.nikkei.com/Business/Health-Care/Myopia-correcting-smart-glasses-from-Japan-to-be-sold-across-Asia",
-    "upvotes": 86,
+    "upvotes": 95,
     "author": "brian_herman",
-    "comments": 91,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=30083939"
   },
   {
     "title": "Writing an open source GPU driver without the hardware",
     "url": "https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/",
-    "upvotes": 354,
+    "upvotes": 361,
     "author": "mfilion",
-    "comments": 67,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=30107002"
   },
   {
     "title": "Why Quantum Mechanics?",
     "url": "https://scottaaronson.blog/?p=6244",
-    "upvotes": 79,
+    "upvotes": 83,
     "author": "alberto_ol",
-    "comments": 73,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=30097765"
-  },
-  {
-    "title": "Brian Kernighan on the Origins of Unix",
-    "url": "https://lwn.net/Articles/881431/",
-    "upvotes": 114,
-    "author": "signa11",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=30109955"
   },
   {
     "title": "Prime Video Uses WebAssembly",
     "url": "https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types",
-    "upvotes": 275,
+    "upvotes": 289,
     "author": "pacificat0r",
-    "comments": 141,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=30107540"
+  },
+  {
+    "title": "Brian Kernighan on the Origins of Unix",
+    "url": "https://lwn.net/Articles/881431/",
+    "upvotes": 121,
+    "author": "signa11",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=30109955"
   },
   {
     "title": "I won the local election, but my township ignored the results and state law",
     "url": "https://twitter.com/gaughen/status/1486834885964832770",
-    "upvotes": 802,
+    "upvotes": 826,
     "author": "georgecmu",
-    "comments": 257,
+    "comments": 272,
     "link": "https://news.ycombinator.com/item?id=30108998"
   },
   {
     "title": "Show HN: Hibiki HTML – New frontend framework – no scaffolding, no Webpack",
     "url": "https://playground.hibikihtml.com/tutorial/",
-    "upvotes": 191,
+    "upvotes": 195,
     "author": "sawka",
-    "comments": 105,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=30103906"
   },
   {
@@ -84,25 +92,25 @@
     "url": "https://www.ycombinator.com/companies/rebank/jobs/J9gH1P4-software-engineer-backend"
   },
   {
-    "title": "Tabby's Star",
-    "url": "https://en.wikipedia.org/wiki/Tabby%27s_Star",
-    "upvotes": 7,
-    "author": "benbreen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30094665"
-  },
-  {
     "title": "Playwright: Automate Chromium, WebKit and Firefox",
     "url": "https://github.com/microsoft/playwright",
-    "upvotes": 338,
+    "upvotes": 344,
     "author": "cyrusmg",
     "comments": 120,
     "link": "https://news.ycombinator.com/item?id=30083042"
   },
   {
+    "title": "Tabby's Star",
+    "url": "https://en.wikipedia.org/wiki/Tabby%27s_Star",
+    "upvotes": 12,
+    "author": "benbreen",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30094665"
+  },
+  {
     "title": "Magic-trace: Diagnose tricky performance issues with Intel Processor Trace",
     "url": "https://blog.janestreet.com/magic-trace/",
-    "upvotes": 130,
+    "upvotes": 132,
     "author": "trishume",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30107750"
@@ -110,23 +118,23 @@
   {
     "title": "The Long Road to Today’s Cochlear Implant",
     "url": "https://spectrum.ieee.org/cochlear-implant-history",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "sohkamyung",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30110816"
   },
   {
     "title": "The Block Protocol",
     "url": "https://blockprotocol.org/",
-    "upvotes": 248,
+    "upvotes": 251,
     "author": "jacobrussell",
-    "comments": 115,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=30103401"
   },
   {
     "title": "Getting to Know the Armed, the Most Unknowable Band in Hardcore",
     "url": "https://www.vice.com/en/article/d3kkea/getting-to-know-the-armed-the-most-unknowable-band-in-hardcore",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "bryanrasmussen",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30082588"
@@ -134,105 +142,97 @@
   {
     "title": "Foundations of Computer Science",
     "url": "http://infolab.stanford.edu/~ullman/focs.html",
-    "upvotes": 273,
+    "upvotes": 276,
     "author": "tosh",
-    "comments": 44,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=30099634"
+  },
+  {
+    "title": "Reach for the Stars: Marcus Tullius Cicero and the Classical Constellations",
+    "url": "https://blogs.bl.uk/digitisedmanuscripts/2022/01/reach-for-the-stars.html",
+    "upvotes": 3,
+    "author": "diodorus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30081784"
   },
   {
     "title": "Regression and Other Stories by Andrew Gelman, Jennifer Hill, Aki Vehtari",
     "url": "https://avehtari.github.io/ROS-Examples/",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "malshe",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30109480"
   },
   {
     "title": "We have jetpacks and we do not care",
     "url": "https://www.theguardian.com/books/2022/jan/22/its-a-glorified-backpack-of-tubes-and-turbines-dave-eggers-on-jetpacks-and-the-enigma-of-solo-flight",
-    "upvotes": 311,
+    "upvotes": 314,
     "author": "zdw",
-    "comments": 363,
+    "comments": 366,
     "link": "https://news.ycombinator.com/item?id=30103306"
   },
   {
     "title": "Show HN: An in-browser text editor to easily create static HTML",
     "url": "https://triplelog.com/writer/",
-    "upvotes": 111,
+    "upvotes": 116,
     "author": "uuddlrlrba",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=30106502"
   },
   {
-    "title": "Why can't you reverse a string with a flag emoji?",
-    "url": "https://davidamos.dev/why-cant-you-reverse-a-flag-emoji/",
-    "upvotes": 178,
-    "author": "da12",
-    "comments": 201,
-    "link": "https://news.ycombinator.com/item?id=30104292"
-  },
-  {
     "title": "Masterclass on mathematical thinking",
     "url": "https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/",
-    "upvotes": 240,
+    "upvotes": 247,
     "author": "harmonicseq",
-    "comments": 104,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=30107687"
+  },
+  {
+    "title": "Why can't you reverse a string with a flag emoji?",
+    "url": "https://davidamos.dev/why-cant-you-reverse-a-flag-emoji/",
+    "upvotes": 179,
+    "author": "da12",
+    "comments": 203,
+    "link": "https://news.ycombinator.com/item?id=30104292"
   },
   {
     "title": "The baseline for web development in 2022",
     "url": "https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/",
-    "upvotes": 101,
+    "upvotes": 106,
     "author": "benwerd",
-    "comments": 158,
+    "comments": 164,
     "link": "https://news.ycombinator.com/item?id=30105932"
-  },
-  {
-    "title": "Dozens of U.S. states say Apple stifles competition, back Epic",
-    "url": "https://www.reuters.com/technology/dozens-us-states-say-apple-stifles-competition-back-fortnite-maker-2022-01-28/",
-    "upvotes": 261,
-    "author": "keleftheriou",
-    "comments": 180,
-    "link": "https://news.ycombinator.com/item?id=30110514"
-  },
-  {
-    "title": "United flies passenger flight on sustainable aviation fuel supplying one engine",
-    "url": "https://www.ge.com/news/reports/united-flies-worlds-first-passenger-flight-on-100-sustainable-aviation-fuel-supplying-one",
-    "upvotes": 89,
-    "author": "hbarka",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=30109879"
   },
   {
     "title": "I read the federal government’s Zero-Trust Memo so you don’t have to",
     "url": "https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust-memo-so-you-dont-have-to",
-    "upvotes": 529,
+    "upvotes": 533,
     "author": "EthanHeilman",
-    "comments": 269,
+    "comments": 271,
     "link": "https://news.ycombinator.com/item?id=30101411"
+  },
+  {
+    "title": "“Dutch reach” car door opening method becomes law in the UK",
+    "url": "https://www.bbc.com/news/uk-england-leicestershire-60089225",
+    "upvotes": 6,
+    "author": "nemoniac",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30112572"
+  },
+  {
+    "title": "Dozens of U.S. states say Apple stifles competition, back Epic",
+    "url": "https://www.reuters.com/technology/dozens-us-states-say-apple-stifles-competition-back-fortnite-maker-2022-01-28/",
+    "upvotes": 270,
+    "author": "keleftheriou",
+    "comments": 191,
+    "link": "https://news.ycombinator.com/item?id=30110514"
   },
   {
     "title": "Ask HN: Hacker claimed ownership and then deleted my Facebook Page of 50k users",
     "url": "item?id=30102240",
-    "upvotes": 579,
+    "upvotes": 584,
     "author": "metalised",
-    "comments": 206,
+    "comments": 207,
     "link": "https://news.ycombinator.com/item?id=30102240"
-  },
-  {
-    "title": "Nostalgic Computing Center",
-    "url": "http://www.nostalgiccomputing.org/index.html",
-    "upvotes": 4,
-    "author": "elvis70",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30111884"
-  },
-  {
-    "title": "On being a PhD student of Robert Harper",
-    "url": "https://www.cambridge.org/core/journals/journal-of-functional-programming/article/on-being-a-phd-student-of-robert-harper/B68BCF31384084D9FDCB17A7DF1DE7A0",
-    "upvotes": 115,
-    "author": "JoelMcCracken",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=30103728"
   }
 ]
