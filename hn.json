@@ -1,76 +1,100 @@
 [
   {
+    "title": "An update on rust/coreutils: some binaries are significantly faster than GNU",
+    "url": "https://sylvestre.ledru.info/blog/2022/01/29/an-update-on-rust-coreutils",
+    "upvotes": 24,
+    "author": "marcodiego",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30125970"
+  },
+  {
+    "title": "The Pandemic Boom Goes Bust",
+    "url": "https://therossreport.substack.com/p/the-pandemic-boom-goes-bust",
+    "upvotes": 33,
+    "author": "mxschumacher",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=30125779"
+  },
+  {
     "title": "Tor Browser: a legacy of advancing private browsing innovation",
     "url": "https://blog.torproject.org/tor-browser-advancing-privacy-innovation/",
-    "upvotes": 181,
+    "upvotes": 185,
     "author": "pabs3",
     "comments": 79,
     "link": "https://news.ycombinator.com/item?id=30123982"
   },
   {
-    "title": "The Pandemic Boom Goes Bust",
-    "url": "https://therossreport.substack.com/p/the-pandemic-boom-goes-bust",
-    "upvotes": 14,
-    "author": "mxschumacher",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30125779"
+    "title": "Google terminates Play Store account of Simple Keyboard developer",
+    "url": "https://github.com/rkkr/simple-keyboard/issues/333",
+    "upvotes": 52,
+    "author": "commoner",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30125829"
   },
   {
     "title": "Latin as She Is Spoke: How Classicists Tricked Themselves",
     "url": "http://blogicarian.blogspot.com/2019/03/argumentum-ad-ignorantiam.html",
-    "upvotes": 92,
+    "upvotes": 96,
     "author": "dwohnitmok",
-    "comments": 82,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=30124101"
   },
   {
     "title": "People don't work as much as you think",
     "url": "https://drmaciver.substack.com/p/people-dont-work-as-much-as-you-think",
-    "upvotes": 194,
+    "upvotes": 209,
     "author": "exolymph",
-    "comments": 113,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=30123096"
   },
   {
     "title": "Heartbreaking: 6509 PSUs Fail After a Brief 22 Years of Service",
     "url": "https://www.jumboframeinternet.com/post/1/",
-    "upvotes": 191,
+    "upvotes": 195,
     "author": "jrrtokenring",
-    "comments": 81,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=30123232"
   },
   {
     "title": "Malicious app on Google Play drops banking malware on users’ devices",
     "url": "https://blog.pradeo.com/vultur-malware-dropper-google-play",
-    "upvotes": 15,
+    "upvotes": 18,
     "author": "caaqil",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30125504"
-  },
-  {
-    "title": "A pipe operator for JavaScript: introduction and use cases",
-    "url": "https://2ality.com/2022/01/pipe-operator.html",
-    "upvotes": 33,
-    "author": "kiyanwang",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=30124754"
   },
   {
     "title": "Corrily",
     "url": "https://corrily.crew.work/jobs/61f1b43a8ba64f35b1550241"
   },
   {
+    "title": "A pipe operator for JavaScript: introduction and use cases",
+    "url": "https://2ality.com/2022/01/pipe-operator.html",
+    "upvotes": 39,
+    "author": "kiyanwang",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=30124754"
+  },
+  {
     "title": "Walking America: Washington, DC",
     "url": "https://intellectualinting.substack.com/p/walking-america-washington-dc-anacostia",
-    "upvotes": 17,
+    "upvotes": 24,
     "author": "blegh",
-    "comments": 2,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30107133"
+  },
+  {
+    "title": "As US Companies Beg for Applicants, Germany to Admit 400,000 Skilled Immigrants",
+    "url": "https://www.newsweek.com/us-companies-beg-applicants-germany-admit-400000-skilled-immigrants-annually-1673761",
+    "upvotes": 21,
+    "author": "rustoo",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30125772"
   },
   {
     "title": "Pirates spammed an infamous Soviet-era short-wave radio station with memes",
     "url": "https://www.vice.com/en/article/y3vbjj/pirates-spammed-an-infamous-soviet-short-wave-radio-station-with-memes-uvb-76",
-    "upvotes": 105,
+    "upvotes": 108,
     "author": "caaqil",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=30097894"
@@ -78,55 +102,39 @@
   {
     "title": "The Battle of Helm’s Deep, Part I: Bargaining for Goods at Helm’s Gate",
     "url": "https://acoup.blog/2020/05/01/collections-the-battle-of-helms-deep-part-i-bargaining-for-goods-at-helms-gate/",
-    "upvotes": 60,
-    "author": "rognjen",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=30124941"
-  },
-  {
-    "title": "I got an FBI record at age 11 from dabbling in cryptography",
-    "url": "https://web.stanford.edu/~learnest/les/crypto.htm",
-    "upvotes": 676,
-    "author": "monort",
-    "comments": 300,
-    "link": "https://news.ycombinator.com/item?id=30118686"
-  },
-  {
-    "title": "Preserving a floppy disk with a logic analyzer and a serial cable",
-    "url": "https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/",
     "upvotes": 62,
-    "author": "fm77",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30099225"
+    "author": "rognjen",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=30124941"
   },
   {
     "title": "Dutch-Japanese Relations",
     "url": "https://www.netherlandsandyou.nl/your-country-and-the-netherlands/japan/and-the-netherlands/dutch-japanese-relations",
-    "upvotes": 18,
+    "upvotes": 21,
     "author": "jez",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30125064"
   },
   {
-    "title": "As US Companies Beg for Applicants, Germany to Admit 400,000 Skilled Immigrants",
-    "url": "https://www.newsweek.com/us-companies-beg-applicants-germany-admit-400000-skilled-immigrants-annually-1673761",
-    "upvotes": 11,
-    "author": "rustoo",
+    "title": "Preserving a floppy disk with a logic analyzer and a serial cable",
+    "url": "https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/",
+    "upvotes": 66,
+    "author": "fm77",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30125772"
+    "link": "https://news.ycombinator.com/item?id=30099225"
   },
   {
-    "title": "How can you tell if the company youre interviewing with is rotten on the inside?",
-    "url": "https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/",
-    "upvotes": 45,
-    "author": "kiyanwang",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=30125218"
+    "title": "I got an FBI record at age 11 from dabbling in cryptography",
+    "url": "https://web.stanford.edu/~learnest/les/crypto.htm",
+    "upvotes": 680,
+    "author": "monort",
+    "comments": 300,
+    "link": "https://news.ycombinator.com/item?id=30118686"
   },
   {
     "title": "The Hidden Engineering Protecting Getty Art from Earthquakes",
     "url": "https://www.getty.edu/news/the-hidden-engineering-protecting-getty-art-from-earthquakes/",
-    "upvotes": 37,
+    "upvotes": 42,
     "author": "ggcdn",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30124021"
@@ -136,13 +144,13 @@
     "url": "https://www.checkbook.org/national/right-to-repair/",
     "upvotes": 119,
     "author": "zelon88",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=30121476"
   },
   {
     "title": "Citizen developers are rapidly becoming the vanguard of corporate digitisation",
     "url": "https://www.economist.com/business/2022/01/29/what-if-all-workers-wrote-software-not-just-the-geek-elite",
-    "upvotes": 64,
+    "upvotes": 66,
     "author": "axiomdata316",
     "comments": 133,
     "link": "https://news.ycombinator.com/item?id=30122796"
@@ -150,18 +158,18 @@
   {
     "title": "Reclaiming the lost art of Linux server administration",
     "url": "https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration/",
-    "upvotes": 553,
+    "upvotes": 558,
     "author": "prea",
-    "comments": 410,
+    "comments": 413,
     "link": "https://news.ycombinator.com/item?id=30118273"
   },
   {
-    "title": "The 512KB Club",
-    "url": "https://512kb.club/",
-    "upvotes": 17,
-    "author": "crecker",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30125633"
+    "title": "How can you tell if the company youre interviewing with is rotten on the inside?",
+    "url": "https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/",
+    "upvotes": 52,
+    "author": "kiyanwang",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=30125218"
   },
   {
     "title": "The Battle for the World’s Most Powerful Cyberweapon",
@@ -174,31 +182,31 @@
   {
     "title": "Ask HN: Do people still use DeviantArt?",
     "url": "item?id=30124285",
-    "upvotes": 53,
+    "upvotes": 57,
     "author": "busymom0",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=30124285"
   },
   {
     "title": "Flink CDC Connectors",
     "url": "https://github.com/ververica/flink-cdc-connectors",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "maydemir",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30097999"
   },
   {
-    "title": "Google terminates Play Store account of Simple Keyboard developer",
-    "url": "https://github.com/rkkr/simple-keyboard/issues/333",
-    "upvotes": 8,
-    "author": "commoner",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30125829"
+    "title": "The 512KB Club",
+    "url": "https://512kb.club/",
+    "upvotes": 19,
+    "author": "crecker",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30125633"
   },
   {
     "title": "On self-modifying executables in Rust",
     "url": "https://blog.dend.ro/self-modifying-rust/",
-    "upvotes": 79,
+    "upvotes": 80,
     "author": "lukastyrychtr",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=30121045"
@@ -206,15 +214,15 @@
   {
     "title": "The Manga Guide Series",
     "url": "https://www.ohmsha.co.jp/english/manga.htm",
-    "upvotes": 220,
+    "upvotes": 224,
     "author": "rg111",
-    "comments": 66,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=30120927"
   },
   {
     "title": "Can a biologist fix a radio?–Or, what I learned while studying apoptosis",
     "url": "https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf",
-    "upvotes": 66,
+    "upvotes": 67,
     "author": "breck",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30120457"
@@ -226,13 +234,5 @@
     "author": "drdee",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30096469"
-  },
-  {
-    "title": "The Banality of Genius: Notes on Peter Jackson's Get Back",
-    "url": "https://ianleslie.substack.com/p/the-banality-of-genius-notes-on-peter",
-    "upvotes": 263,
-    "author": "kkwteh",
-    "comments": 131,
-    "link": "https://news.ycombinator.com/item?id=30113080"
   }
 ]
