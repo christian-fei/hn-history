@@ -2,23 +2,31 @@
   {
     "title": "John Locke’s recipe for Pancakes",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
-    "upvotes": 116,
+    "upvotes": 121,
     "author": "pepys",
-    "comments": 46,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=30132612"
+  },
+  {
+    "title": "Blueberry Earth or “what if the entire Earth was replaced with blueberries?“",
+    "url": "https://arxiv.org/abs/1807.10553",
+    "upvotes": 14,
+    "author": "stereoabuse",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30134357"
   },
   {
     "title": "Nuanced communication usually doesn't work at scale",
     "url": "https://twitter.com/danluu/status/1487228574608211969",
-    "upvotes": 556,
+    "upvotes": 567,
     "author": "tagolli",
-    "comments": 224,
+    "comments": 226,
     "link": "https://news.ycombinator.com/item?id=30128061"
   },
   {
     "title": "Things we finally know about network queues",
     "url": "https://apenwarr.ca/log/20170814",
-    "upvotes": 40,
+    "upvotes": 47,
     "author": "Tomte",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30117637"
@@ -26,47 +34,55 @@
   {
     "title": "Cthulix: a Single System Image construction kit that is currently in development",
     "url": "http://cthulix.com/preview.html",
-    "upvotes": 57,
+    "upvotes": 60,
     "author": "teleforce",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30098855"
   },
   {
     "title": "Despite the hype, iPhone security no match for NSO spyware",
     "url": "https://www.washingtonpost.com/technology/2021/07/19/apple-iphone-nso/",
-    "upvotes": 169,
+    "upvotes": 170,
     "author": "Scramblejams",
-    "comments": 109,
+    "comments": 129,
     "link": "https://news.ycombinator.com/item?id=30130251"
   },
   {
     "title": "Building single-page-apps with PostgREST",
     "url": "https://blog.polyglot.network/backend.sql-+-frontend.js-love",
-    "upvotes": 62,
+    "upvotes": 67,
     "author": "nileshtrivedi",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=30132947"
+  },
+  {
+    "title": "Hoare’s Rebuttal and Bubble Sort’s Comeback",
+    "url": "https://blog.reverberate.org/2020/05/29/hoares-rebuttal-bubble-sorts-comeback.html",
+    "upvotes": 10,
+    "author": "blopeur",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30112906"
   },
   {
     "title": "Can medieval sleeping habits fix America’s insomnia?",
     "url": "https://www.theatlantic.com/ideas/archive/2022/01/medieval-sleeping-habits-insomnia-segmented-biphasic/621372/",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "pseudolus",
-    "comments": 22,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=30114592"
   },
   {
     "title": "Plant-based epoxy enables recyclable carbon fiber",
     "url": "https://www.nrel.gov/news/program/2022/plant-based-epoxy-enables-recyclable-carbon-fiber-improves-economics-for-mass-market-electric-vehicles.html",
-    "upvotes": 133,
+    "upvotes": 135,
     "author": "kungfudoi",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30130274"
   },
   {
     "title": "PostgreSQL used fsync incorrectly for 20 years",
     "url": "https://archive.fosdem.org/2019/schedule/event/postgresql_fsync/",
-    "upvotes": 109,
+    "upvotes": 110,
     "author": "belter",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30131165"
@@ -74,7 +90,7 @@
   {
     "title": "A pure Go embedded SQL database",
     "url": "https://gitlab.com/cznic/ql",
-    "upvotes": 99,
+    "upvotes": 102,
     "author": "eatonphil",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=30130938"
@@ -82,71 +98,55 @@
   {
     "title": "Don't you lecture me with your thirty dollar website",
     "url": "https://gdcolon.com/🗿",
-    "upvotes": 774,
+    "upvotes": 786,
     "author": "TheresNoTime",
     "comments": 184,
     "link": "https://news.ycombinator.com/item?id=30128011"
   },
   {
+    "title": "How FreeDOS Grew Up and Became a Modern DOS",
+    "url": "https://www.cloudsavvyit.com/12250/how-freedos-grew-up-and-became-a-modern-dos/",
+    "upvotes": 207,
+    "author": "ingve",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=30127615"
+  },
+  {
     "title": "tofuproxy – web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
     "url": "http://www.tofuproxy.stargrave.org/",
-    "upvotes": 13,
+    "upvotes": 15,
     "author": "pabs3",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30134058"
   },
   {
-    "title": "How FreeDOS Grew Up and Became a Modern DOS",
-    "url": "https://www.cloudsavvyit.com/12250/how-freedos-grew-up-and-became-a-modern-dos/",
-    "upvotes": 204,
-    "author": "ingve",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=30127615"
+    "title": "War Is a Racket",
+    "url": "https://man.fas.org/smedley.htm",
+    "upvotes": 187,
+    "author": "johnny313",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=30128740"
+  },
+  {
+    "title": "Phone is still the best way to order pizza",
+    "url": "https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/",
+    "upvotes": 202,
+    "author": "pilingual",
+    "comments": 255,
+    "link": "https://news.ycombinator.com/item?id=30131628"
   },
   {
     "title": "Topos Theory in a Nutshell",
     "url": "https://math.ucr.edu/home/baez/topos.html",
-    "upvotes": 10,
+    "upvotes": 11,
     "author": "kondor",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30112547"
   },
   {
-    "title": "War Is a Racket",
-    "url": "https://man.fas.org/smedley.htm",
-    "upvotes": 180,
-    "author": "johnny313",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=30128740"
-  },
-  {
-    "title": "Blueberry Earth or “what if the entire Earth was replaced with blueberries?“",
-    "url": "https://arxiv.org/abs/1807.10553",
-    "upvotes": 4,
-    "author": "stereoabuse",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30134357"
-  },
-  {
-    "title": "Phone is still the best way to order pizza",
-    "url": "https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/",
-    "upvotes": 199,
-    "author": "pilingual",
-    "comments": 249,
-    "link": "https://news.ycombinator.com/item?id=30131628"
-  },
-  {
-    "title": "Hoare’s Rebuttal and Bubble Sort’s Comeback",
-    "url": "https://blog.reverberate.org/2020/05/29/hoares-rebuttal-bubble-sorts-comeback.html",
-    "upvotes": 5,
-    "author": "blopeur",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30112906"
-  },
-  {
     "title": "Theoretical Advances in AMM",
     "url": "https://fbifemboy.substack.com/p/theoretical-advances-in-amm-understanding",
-    "upvotes": 34,
+    "upvotes": 35,
     "author": "SkyMarshal",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=30113170"
@@ -154,18 +154,10 @@
   {
     "title": "Black, the uncompromising Python code formatter, is stable",
     "url": "https://pypi.org/project/black/",
-    "upvotes": 363,
+    "upvotes": 368,
     "author": "crlees",
-    "comments": 234,
+    "comments": 237,
     "link": "https://news.ycombinator.com/item?id=30130315"
-  },
-  {
-    "title": "A pipe operator for JavaScript: introduction and use cases",
-    "url": "https://2ality.com/2022/01/pipe-operator.html",
-    "upvotes": 24,
-    "author": "mariuz",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=30097586"
   },
   {
     "title": "Writing Literate API Documentation in Emacs Org Mode",
@@ -176,12 +168,12 @@
     "link": "https://news.ycombinator.com/item?id=30129669"
   },
   {
-    "title": "I haven’t been I: On Fernando Pessoa",
-    "url": "https://www.lrb.co.uk/the-paper/v43/n16/colm-toibin/i-haven-t-been-i",
-    "upvotes": 14,
-    "author": "benbreen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30120732"
+    "title": "A pipe operator for JavaScript: introduction and use cases",
+    "url": "https://2ality.com/2022/01/pipe-operator.html",
+    "upvotes": 24,
+    "author": "mariuz",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=30097586"
   },
   {
     "title": "Choosing tools for Game Boy development",
@@ -192,13 +184,9 @@
     "link": "https://news.ycombinator.com/item?id=30129027"
   },
   {
-    "title": "EasyPost",
-    "url": "https://www.easypost.com/careers"
-  },
-  {
     "title": "Counter-intuitive results in operations research",
     "url": "https://or.stackexchange.com/questions/506/counter-intuitive-results-in-or",
-    "upvotes": 114,
+    "upvotes": 115,
     "author": "sebg",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=30100897"
@@ -206,15 +194,35 @@
   {
     "title": "Long-lost sphinxes of Egyptian king Amenhotep III unearthed at Luxor",
     "url": "https://arstechnica.com/science/2022/01/long-lost-sphinxes-of-egyptian-king-amenhotep-iii-unearthed-at-luxor/",
-    "upvotes": 88,
+    "upvotes": 89,
     "author": "diodorus",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=30107669"
   },
   {
+    "title": "EasyPost",
+    "url": "https://www.easypost.com/careers"
+  },
+  {
+    "title": "I haven’t been I: On Fernando Pessoa",
+    "url": "https://www.lrb.co.uk/the-paper/v43/n16/colm-toibin/i-haven-t-been-i",
+    "upvotes": 15,
+    "author": "benbreen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30120732"
+  },
+  {
+    "title": "Fantastic Symbols and Where to Find Them – Part 2",
+    "url": "https://www.polarsignals.com/blog/posts/2022/01/27/fantastic-symbols-and-where-to-find-them-part-2/",
+    "upvotes": 3,
+    "author": "dnsmichi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30112151"
+  },
+  {
     "title": "On Writing: An Abecedarian",
     "url": "https://hudsonreview.com/2022/01/on-writing-an-abecedarian/#.YfHUbPvMJHV",
-    "upvotes": 8,
+    "upvotes": 10,
     "author": "apollinaire",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30103179"
@@ -222,17 +230,9 @@
   {
     "title": "The Smart Modem",
     "url": "https://computer.rip/2022-01-24-the-smart-modem.html",
-    "upvotes": 100,
+    "upvotes": 102,
     "author": "zdw",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=30111000"
-  },
-  {
-    "title": "Tango: Create step-by-step documentation with screenshots",
-    "url": "https://www.tango.us/",
-    "upvotes": 90,
-    "author": "amrrs",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=30128265"
   }
 ]
