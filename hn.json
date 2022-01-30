@@ -2,55 +2,63 @@
   {
     "title": "Show HN: Web page that parses and explains the label on a bike tire",
     "url": "https://fahrrad-tools.de/tire.html",
-    "upvotes": 208,
+    "upvotes": 237,
     "author": "moasda",
-    "comments": 62,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=30137984"
   },
   {
     "title": "Hypercard Simulator",
     "url": "https://hypercardsimulator.com/",
-    "upvotes": 70,
+    "upvotes": 83,
     "author": "alexmingoia",
-    "comments": 7,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=30138533"
-  },
-  {
-    "title": "Beancount: Double-Entry Accounting from Text Files",
-    "url": "https://github.com/beancount/beancount",
-    "upvotes": 39,
-    "author": "techtalsky",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=30138434"
-  },
-  {
-    "title": "Midnight Commander Tips and Tricks",
-    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
-    "upvotes": 56,
-    "author": "ingve",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=30137864"
   },
   {
     "title": "SBCL: New in Version 2.2.1",
     "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1",
-    "upvotes": 16,
+    "upvotes": 35,
     "author": "susam",
-    "comments": 4,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=30139142"
+  },
+  {
+    "title": "Midnight Commander Tips and Tricks",
+    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
+    "upvotes": 69,
+    "author": "ingve",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=30137864"
+  },
+  {
+    "title": "Beancount: Double-Entry Accounting from Text Files",
+    "url": "https://github.com/beancount/beancount",
+    "upvotes": 45,
+    "author": "techtalsky",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=30138434"
   },
   {
     "title": "On the criteria to be used in decomposing systems into modules",
     "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
-    "upvotes": 29,
+    "upvotes": 36,
     "author": "camnora",
-    "comments": 3,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30138468"
+  },
+  {
+    "title": "In Defence of the Boring Web",
+    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
+    "upvotes": 62,
+    "author": "Topolomancer",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=30137681"
   },
   {
     "title": "Setup a Website with Nim",
     "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
-    "upvotes": 35,
+    "upvotes": 40,
     "author": "melissalobos",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30138277"
@@ -60,179 +68,171 @@
     "url": "https://onesignal.com/careers/9e1d251c-c1f9-49c7-98e9-c883e519f902"
   },
   {
-    "title": "In Defence of the Boring Web",
-    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
-    "upvotes": 52,
-    "author": "Topolomancer",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=30137681"
-  },
-  {
     "title": "Dataset and Model for “I built a system to take photos of planes over my house”",
     "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
-    "upvotes": 64,
+    "upvotes": 72,
     "author": "yeldarb",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30125933"
-  },
-  {
-    "title": "Autonomous battery-powered rail cars",
-    "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
-    "upvotes": 27,
-    "author": "vanburen",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=30138420"
   },
   {
     "title": "Writing an Efficient Vulkan Renderer",
     "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
-    "upvotes": 25,
+    "upvotes": 37,
     "author": "nabla9",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30120857"
   },
   {
+    "title": "Autonomous battery-powered rail cars",
+    "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
+    "upvotes": 30,
+    "author": "vanburen",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=30138420"
+  },
+  {
     "title": "Sega quits arcade business after 50 years",
     "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
-    "upvotes": 76,
+    "upvotes": 90,
     "author": "atombender",
-    "comments": 16,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=30122128"
   },
   {
     "title": "GoSTL: Algorithm and datastructure library for Go similar to C++ STL",
     "url": "https://github.com/liyue201/gostl",
-    "upvotes": 58,
+    "upvotes": 64,
     "author": "gmgn",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=30136969"
+  },
+  {
+    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
+    "url": "item?id=30138669",
+    "upvotes": 43,
+    "author": "ndmrs",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30138669"
   },
   {
     "title": "How to Excel in Tech Without Learning to Code",
     "url": "https://future.a16z.com/excel-in-tech-without-learning-to-code/",
-    "upvotes": 49,
+    "upvotes": 59,
     "author": "jseliger",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=30117131"
   },
   {
     "title": "Dennis Ritchie Home Page",
     "url": "https://www.bell-labs.com/usr/dmr/www/",
-    "upvotes": 181,
+    "upvotes": 186,
     "author": "mehdix",
-    "comments": 66,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=30124569"
   },
   {
     "title": "In Defense of NIR",
     "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "JNRowe",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30119748"
   },
   {
     "title": "What Is Forge?",
     "url": "https://www.energy.gov/eere/geothermal/what-forge",
-    "upvotes": 46,
+    "upvotes": 48,
     "author": "manicennui",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30111373"
+  },
+  {
+    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
+    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
+    "upvotes": 5,
+    "author": "creata",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30125931"
   },
   {
     "title": "Fun with DBM-type databases",
     "url": "https://www.openwall.com/lists/oss-security/2018/06/17/1",
-    "upvotes": 7,
+    "upvotes": 8,
     "author": "rdpintqogeogsaa",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30125758"
   },
   {
-    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
-    "url": "item?id=30138669",
-    "upvotes": 24,
-    "author": "ndmrs",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30138669"
-  },
-  {
     "title": "If It Were My Home",
     "url": "http://www.ifitweremyhome.com/",
-    "upvotes": 171,
+    "upvotes": 175,
     "author": "kkwteh",
-    "comments": 79,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=30135346"
   },
   {
     "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
     "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
-    "upvotes": 109,
+    "upvotes": 115,
     "author": "cpldcpu",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=30128379"
   },
   {
     "title": "Uninitialized Memory: Unsafe Rust Is Too Hard",
     "url": "https://lucumr.pocoo.org/2022/1/30/unsafe-rust/",
-    "upvotes": 69,
+    "upvotes": 76,
     "author": "drrlvn",
-    "comments": 54,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=30135758"
   },
   {
     "title": "How to avoid layout shifts caused by web fonts",
     "url": "https://simonhearne.com/2021/layout-shifts-webfonts/",
-    "upvotes": 164,
+    "upvotes": 166,
     "author": "joshbetz",
-    "comments": 106,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=30129571"
   },
   {
     "title": "The Society of the Spectacle",
     "url": "https://unredacted-word.pub/",
-    "upvotes": 81,
+    "upvotes": 83,
     "author": "raldu",
-    "comments": 34,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=30114787"
   },
   {
     "title": "Hollows Hunter – Scans all running processes",
     "url": "https://github.com/hasherezade/hollows_hunter",
-    "upvotes": 10,
+    "upvotes": 13,
     "author": "maydemir",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30138266"
   },
   {
     "title": "Tech debt gets worse before it gets better",
     "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
-    "upvotes": 108,
+    "upvotes": 112,
     "author": "piinbinary",
-    "comments": 39,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=30128627"
-  },
-  {
-    "title": "Would you take free land in rural America?",
-    "url": "https://thehustle.co/would-you-take-free-land-in-rural-america/",
-    "upvotes": 44,
-    "author": "Anon84",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=30138545"
   },
   {
     "title": "John Locke’s recipe for Pancakes",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
-    "upvotes": 239,
+    "upvotes": 243,
     "author": "pepys",
-    "comments": 127,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=30132612"
   },
   {
     "title": "Things we finally know about network queues",
     "url": "https://apenwarr.ca/log/20170814",
-    "upvotes": 148,
+    "upvotes": 151,
     "author": "Tomte",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=30117637"
   }
 ]
