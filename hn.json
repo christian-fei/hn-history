@@ -2,63 +2,63 @@
   {
     "title": "The Awk State Machine Parser Pattern",
     "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
-    "upvotes": 42,
+    "upvotes": 53,
     "author": "Tomte",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30146052"
   },
   {
     "title": "Royal Society cautions against censorship of scientific misinformation online",
     "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
-    "upvotes": 826,
+    "upvotes": 837,
     "author": "steelstraw",
-    "comments": 644,
+    "comments": 658,
     "link": "https://news.ycombinator.com/item?id=30141460"
-  },
-  {
-    "title": "Async Rust: Panics vs. Cancellation",
-    "url": "https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/",
-    "upvotes": 37,
-    "author": "ingve",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30114822"
-  },
-  {
-    "title": "Zero-copy network transmission with io_uring",
-    "url": "https://lwn.net/Articles/879724/",
-    "upvotes": 132,
-    "author": "pabs3",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=30144652"
-  },
-  {
-    "title": "Examples of common false beliefs in mathematics",
-    "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
-    "upvotes": 109,
-    "author": "gballan",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=30144805"
   },
   {
     "title": "Boyfriend Alert",
     "url": "https://github.com/jscd/Boyfriend-Alert",
-    "upvotes": 33,
+    "upvotes": 45,
     "author": "rgun",
-    "comments": 21,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=30146019"
+  },
+  {
+    "title": "Zero-copy network transmission with io_uring",
+    "url": "https://lwn.net/Articles/879724/",
+    "upvotes": 135,
+    "author": "pabs3",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=30144652"
+  },
+  {
+    "title": "Async Rust: Panics vs. Cancellation",
+    "url": "https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/",
+    "upvotes": 39,
+    "author": "ingve",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=30114822"
+  },
+  {
+    "title": "Examples of common false beliefs in mathematics",
+    "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
+    "upvotes": 115,
+    "author": "gballan",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=30144805"
   },
   {
     "title": "Chip shortages due to lack of investment in right fabs",
     "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
-    "upvotes": 102,
+    "upvotes": 109,
     "author": "laktak",
-    "comments": 65,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=30124457"
   },
   {
     "title": "How I Discovered Thousands of Open Databases on AWS",
     "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
-    "upvotes": 161,
+    "upvotes": 164,
     "author": "boyter",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=30144021"
@@ -66,74 +66,90 @@
   {
     "title": "Reimagining Chess with AlphaZero",
     "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
-    "upvotes": 109,
+    "upvotes": 112,
     "author": "joak",
-    "comments": 66,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=30144108"
-  },
-  {
-    "title": "Generate Static Sites from Markdown Files with Caddy",
-    "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
-    "upvotes": 46,
-    "author": "indigodaddy",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=30145237"
   },
   {
     "title": "What is the inverse of a circle?",
     "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
-    "upvotes": 93,
+    "upvotes": 100,
     "author": "mferraro89",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30131926"
+  },
+  {
+    "title": "Generate Static Sites from Markdown Files with Caddy",
+    "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
+    "upvotes": 47,
+    "author": "indigodaddy",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=30145237"
   },
   {
     "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
     "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
-    "upvotes": 54,
+    "upvotes": 62,
     "author": "beermonster",
-    "comments": 31,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=30146042"
   },
   {
     "title": "Decommissioned Atlas F missile silo complex for sale",
     "url": "https://www.zillow.com/homedetails/2432-Fair-Rd-Abilene-KS-67410/113177058_zpid/",
-    "upvotes": 277,
+    "upvotes": 281,
     "author": "otras",
-    "comments": 129,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=30144229"
   },
   {
     "title": "A virus helped a woman survive a dangerous antibiotic-resistant infection",
     "url": "https://english.elpais.com/usa/2022-01-27/how-a-virus-helped-a-woman-survive-a-dangerous-antibiotic-resistant-infection.html",
-    "upvotes": 64,
+    "upvotes": 70,
     "author": "belter",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=30114617"
+  },
+  {
+    "title": "Plain Geology",
+    "url": "https://pubs.usgs.gov/gip/plain.html",
+    "upvotes": 5,
+    "author": "wrycoder",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30117500"
   },
   {
     "title": "Hardy, Ramanujan and Taxi No. 1729",
     "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
-    "upvotes": 105,
+    "upvotes": 107,
     "author": "johncarlosbaez",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30140835"
   },
   {
     "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More",
     "url": "https://blog.openresty.com/en/ylang-intro-part4/",
-    "upvotes": 52,
+    "upvotes": 54,
     "author": "walterbell",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30143587"
   },
   {
-    "title": "Plain Geology",
-    "url": "https://pubs.usgs.gov/gip/plain.html",
-    "upvotes": 4,
-    "author": "wrycoder",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30117500"
+    "title": "The case of the mysterious --help directory",
+    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
+    "upvotes": 153,
+    "author": "panic",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=30134367"
+  },
+  {
+    "title": "The Story of Maxis Software",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "upvotes": 115,
+    "author": "ecliptik",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=30141278"
   },
   {
     "title": "Mesmerizing Labor",
@@ -144,41 +160,25 @@
     "link": "https://news.ycombinator.com/item?id=30143946"
   },
   {
-    "title": "The case of the mysterious --help directory",
-    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
-    "upvotes": 150,
-    "author": "panic",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=30134367"
-  },
-  {
-    "title": "The Story of Maxis Software",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "upvotes": 115,
-    "author": "ecliptik",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=30141278"
+    "title": "Don't forget Microsoft",
+    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+    "upvotes": 324,
+    "author": "SamvitJ",
+    "comments": 307,
+    "link": "https://news.ycombinator.com/item?id=30141192"
   },
   {
     "title": "Lizard scale patterns described with antiferromagnetic model",
     "url": "https://physics.aps.org/articles/v15/s12",
-    "upvotes": 49,
+    "upvotes": 50,
     "author": "shusaku",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30143375"
   },
   {
-    "title": "Don't forget Microsoft",
-    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
-    "upvotes": 323,
-    "author": "SamvitJ",
-    "comments": 303,
-    "link": "https://news.ycombinator.com/item?id=30141192"
-  },
-  {
     "title": "Game performance optimization – A practical example from Industry Idle",
     "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
-    "upvotes": 76,
+    "upvotes": 78,
     "author": "insraq",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30131387"
@@ -186,31 +186,31 @@
   {
     "title": "Show HN: Web page that parses and explains the label on a bike tire",
     "url": "https://fahrrad-tools.de/tire.html",
-    "upvotes": 575,
+    "upvotes": 576,
     "author": "moasda",
-    "comments": 172,
+    "comments": 173,
     "link": "https://news.ycombinator.com/item?id=30137984"
   },
   {
     "title": "Operation Warp Speed: A new model for industrial policy",
     "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-    "upvotes": 117,
+    "upvotes": 118,
     "author": "gok",
-    "comments": 118,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=30141439"
   },
   {
     "title": "A UX designer walks into a Tesla Bar",
     "url": "https://jenson.org/tesla/",
-    "upvotes": 790,
+    "upvotes": 798,
     "author": "radley",
-    "comments": 499,
+    "comments": 503,
     "link": "https://news.ycombinator.com/item?id=30140984"
   },
   {
     "title": "The Great Unconformity: Research points to glaciers being the culprit",
     "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-    "upvotes": 79,
+    "upvotes": 80,
     "author": "cbkeller",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=30140464"
@@ -226,7 +226,7 @@
   {
     "title": "Seattle Telecommunications History Museum",
     "url": "https://www.telcomhistory.org/connections-museum-seattle/",
-    "upvotes": 60,
+    "upvotes": 61,
     "author": "basementcat",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=30142105"
@@ -234,9 +234,9 @@
   {
     "title": "State of the Web: Static Site Generators",
     "url": "https://byteofdev.com/posts/static-site-generators/",
-    "upvotes": 120,
+    "upvotes": 125,
     "author": "AsyncBanana",
-    "comments": 122,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=30142558"
   }
 ]
