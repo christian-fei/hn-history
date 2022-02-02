@@ -2,87 +2,87 @@
   {
     "title": "AdaCore and Ferrous Systems Joining Forces to Support Rust",
     "url": "https://blog.adacore.com/adacore-and-ferrous-systems-joining-forces-to-support-rust",
-    "upvotes": 111,
+    "upvotes": 131,
     "author": "Argorak",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=30174827"
   },
   {
     "title": "Retrospective and Technical Details on the Recent Firefox Outage",
     "url": "https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/",
-    "upvotes": 36,
-    "author": "feross",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=30175344"
-  },
-  {
-    "title": "Watchtower – Blender Studio",
-    "url": "https://studio.blender.org/blog/introducing-watchtower/",
     "upvotes": 49,
-    "author": "Ivoah",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30150047"
+    "author": "feross",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=30175344"
   },
   {
     "title": "Singapore prime minister Lee Hsien Loong's Sudoku Solver code runs in 1ms",
     "url": "https://leetcode.com/problems/sudoku-solver/discuss/15796/Singapore-prime-minister-Lee-Hsien-Loong%27s-Sudoku-Solver-code-runs-in-1ms",
-    "upvotes": 58,
+    "upvotes": 80,
     "author": "quaintdev",
-    "comments": 31,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=30174763"
+  },
+  {
+    "title": "Watchtower – Blender Studio",
+    "url": "https://studio.blender.org/blog/introducing-watchtower/",
+    "upvotes": 57,
+    "author": "Ivoah",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30150047"
   },
   {
     "title": "Cruise is opening driverless cars to the public in San Francisco",
     "url": "https://www.getcruise.com/news/welcome-riders/",
-    "upvotes": 646,
+    "upvotes": 650,
     "author": "d-jones",
-    "comments": 541,
+    "comments": 546,
     "link": "https://news.ycombinator.com/item?id=30167037"
   },
   {
     "title": "mmWave radar, you won't see it coming",
     "url": "https://www.joshhorne.com/mmwave-radar-and-ambient-computing/",
-    "upvotes": 156,
+    "upvotes": 160,
     "author": "hornej",
-    "comments": 115,
+    "comments": 116,
     "link": "https://news.ycombinator.com/item?id=30172647"
-  },
-  {
-    "title": "A Wordle clone in 50 lines of Bash",
-    "url": "https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513",
-    "upvotes": 188,
-    "author": "huydotnet",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=30174112"
   },
   {
     "title": "Running Lisp in Production",
     "url": "https://www.grammarly.com/blog/engineering/running-lisp-in-production/",
-    "upvotes": 155,
+    "upvotes": 159,
     "author": "myth_drannon",
     "comments": 90,
     "link": "https://news.ycombinator.com/item?id=30172641"
   },
   {
+    "title": "A Wordle clone in 50 lines of Bash",
+    "url": "https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513",
+    "upvotes": 192,
+    "author": "huydotnet",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=30174112"
+  },
+  {
     "title": "Analysis of Magic Leap 2 at SPIE AR/VR/Mr 2022",
     "url": "https://kguttag.com/2022/01/31/magic-leap-2-at-spie-ar-vr-mr-2022/",
-    "upvotes": 203,
+    "upvotes": 204,
     "author": "kguttag",
-    "comments": 85,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=30170924"
   },
   {
     "title": "Google to turn on activity tracking for many users who turned it off",
     "url": "item?id=30171800",
-    "upvotes": 479,
+    "upvotes": 500,
     "author": "twhb",
-    "comments": 186,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=30171800"
   },
   {
     "title": "A toy DNS resolver",
     "url": "https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/",
-    "upvotes": 252,
+    "upvotes": 256,
     "author": "0xedb",
     "comments": 80,
     "link": "https://news.ycombinator.com/item?id=30169341"
@@ -90,111 +90,111 @@
   {
     "title": "WebVM: Server-less x86 virtual machines in the browser",
     "url": "https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/",
-    "upvotes": 296,
+    "upvotes": 300,
     "author": "AshleysBrain",
-    "comments": 93,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=30167403"
-  },
-  {
-    "title": "I reversed a Node.js malware and found the author",
-    "url": "https://medium.com/@devops-guy/how-i-reversed-a-nodejs-malware-and-found-the-author-7dd9531b389f",
-    "upvotes": 184,
-    "author": "khorne",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=30146520"
-  },
-  {
-    "title": "An introduction to type programming in TypeScript",
-    "url": "https://www.zhenghao.io/posts/type-programming",
-    "upvotes": 67,
-    "author": "bpierre",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=30173375"
   },
   {
     "title": "Ulysses at 100: The Birth of the Modern",
     "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
-    "upvotes": 18,
+    "upvotes": 21,
     "author": "kkwteh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30141426"
   },
   {
+    "title": "I reversed a Node.js malware and found the author",
+    "url": "https://medium.com/@devops-guy/how-i-reversed-a-nodejs-malware-and-found-the-author-7dd9531b389f",
+    "upvotes": 186,
+    "author": "khorne",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=30146520"
+  },
+  {
     "title": "Furiosa's Cat Feeder",
     "url": "https://blondihacks.com/furiosas-cat-feeder/",
-    "upvotes": 217,
+    "upvotes": 221,
     "author": "a_t48",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=30167605"
   },
   {
-    "title": "The complicated futility of WordPress",
-    "url": "https://coderjerk.com/the-complicated-futility-of-wordpress/",
-    "upvotes": 138,
-    "author": "ddevine",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=30172268"
-  },
-  {
-    "title": "Google Maps now requires WiFi scanning to use navigation",
-    "url": "item?id=30167865",
-    "upvotes": 599,
-    "author": "bbarnett",
-    "comments": 352,
-    "link": "https://news.ycombinator.com/item?id=30167865"
+    "title": "An introduction to type programming in TypeScript",
+    "url": "https://www.zhenghao.io/posts/type-programming",
+    "upvotes": 68,
+    "author": "bpierre",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=30173375"
   },
   {
     "title": "Reality by Consensus",
     "url": "https://lockwood.dev/philosophy/2022/01/31/reality-by-consensus.html",
-    "upvotes": 17,
+    "upvotes": 19,
     "author": "tomlockwood",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30157176"
+  },
+  {
+    "title": "Google Maps now requires WiFi scanning to use navigation",
+    "url": "item?id=30167865",
+    "upvotes": 612,
+    "author": "bbarnett",
+    "comments": 358,
+    "link": "https://news.ycombinator.com/item?id=30167865"
   },
   {
     "title": "America’s Covid job-saving programme gave most of its cash to the rich",
     "url": "https://www.economist.com/graphic-detail/2022/01/31/americas-covid-job-saving-programme-gave-most-of-its-cash-to-the-rich",
-    "upvotes": 433,
+    "upvotes": 444,
     "author": "pseudolus",
-    "comments": 339,
+    "comments": 344,
     "link": "https://news.ycombinator.com/item?id=30169472"
+  },
+  {
+    "title": "The complicated futility of WordPress",
+    "url": "https://coderjerk.com/the-complicated-futility-of-wordpress/",
+    "upvotes": 142,
+    "author": "ddevine",
+    "comments": 123,
+    "link": "https://news.ycombinator.com/item?id=30172268"
   },
   {
     "title": "How to Mislead with Facts",
     "url": "https://consilienceproject.org/how-to-mislead-with-facts/",
-    "upvotes": 333,
+    "upvotes": 338,
     "author": "denial",
-    "comments": 191,
+    "comments": 194,
     "link": "https://news.ycombinator.com/item?id=30158269"
   },
   {
     "title": "Twitter stores original account names, dox vulnerability via Twitter Spaces",
     "url": "https://twitter.com/tszzl/status/1488466979799265281",
-    "upvotes": 106,
+    "upvotes": 107,
     "author": "steelstraw",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30169435"
   },
   {
     "title": "C2rust: Transpile C to Rust",
     "url": "https://c2rust.com/",
-    "upvotes": 120,
+    "upvotes": 123,
     "author": "juancampa",
-    "comments": 61,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=30169263"
   },
   {
     "title": "The Casio employee behind the “Sleng Teng” riddim that revolutionized reggae",
     "url": "https://www.nippon.com/en/japan-topics/g02027/",
-    "upvotes": 502,
+    "upvotes": 503,
     "author": "robinhouston",
-    "comments": 179,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=30165564"
   },
   {
     "title": "SoundPrint: Telling those of us with auditory sensitivities where not to go",
     "url": "https://accessible.substack.com/p/soundprint-telling-those-of-us-with",
-    "upvotes": 49,
+    "upvotes": 50,
     "author": "exotree",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30172033"
@@ -202,37 +202,41 @@
   {
     "title": "Radar fall detection and breath rate under $40",
     "url": "https://www.seeedstudio.com/24GHz-mmWave-Radar-Sensor-Fall-Detection-Module-p-5268.html",
-    "upvotes": 106,
+    "upvotes": 109,
     "author": "GameOfKnowing",
-    "comments": 44,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=30146374"
   },
   {
     "title": "Career advice nobody gave me: Never ignore a recruiter",
     "url": "https://alexchesser.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556",
-    "upvotes": 677,
+    "upvotes": 680,
     "author": "alexc05",
-    "comments": 551,
+    "comments": 553,
     "link": "https://news.ycombinator.com/item?id=30163676"
+  },
+  {
+    "title": "Netflix: Lessons in Experimentation",
+    "url": "https://www.aakashg.com/2022/01/18/netflix-experimentation/",
+    "upvotes": 65,
+    "author": "gradientgarden",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=30152880"
+  },
+  {
+    "title": "Tesla to recall vehicles that may disobey stop signs",
+    "url": "https://www.reuters.com/business/autos-transportation/tesla-recalls-nearly-54000-us-vehicles-rolling-stop-software-feature-2022-02-01/",
+    "upvotes": 401,
+    "author": "jjulius",
+    "comments": 956,
+    "link": "https://news.ycombinator.com/item?id=30164317"
   },
   {
     "title": "A better Turing machine tape model",
     "url": "https://nickdrozd.github.io/2021/12/31/turing-machine-tape.html",
     "upvotes": 16,
     "author": "nickdrozd",
-    "comments": 9,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30149890"
-  },
-  {
-    "title": "Tesla to recall vehicles that may disobey stop signs",
-    "url": "https://www.reuters.com/business/autos-transportation/tesla-recalls-nearly-54000-us-vehicles-rolling-stop-software-feature-2022-02-01/",
-    "upvotes": 400,
-    "author": "jjulius",
-    "comments": 955,
-    "link": "https://news.ycombinator.com/item?id=30164317"
-  },
-  {
-    "title": "Fetch",
-    "url": "https://www.ycombinator.com/companies/fetch/jobs/aTjJR0S-head-of-growth"
   }
 ]
