@@ -2,17 +2,17 @@
   {
     "title": "Go performance from version 1.2 to 1.18",
     "url": "https://benhoyt.com/writings/go-version-performance/",
-    "upvotes": 112,
+    "upvotes": 124,
     "author": "todsacerdoti",
-    "comments": 42,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=30201969"
   },
   {
     "title": "Non-Consensual Personalization",
     "url": "https://amitp.blogspot.com/2022/02/non-consensual-personalization.html",
-    "upvotes": 82,
+    "upvotes": 94,
     "author": "zdw",
-    "comments": 40,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=30178781"
   },
   {
@@ -20,61 +20,69 @@
     "url": "https://www.statnews.com/2022/02/01/kariko-problem-lessons-funding-basic-research/",
     "upvotes": 209,
     "author": "hatmatrix",
-    "comments": 123,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=30198239"
   },
   {
     "title": "Mysterious aircraft spotted at Area 51 in satellite image",
     "url": "https://www.thedrive.com/the-war-zone/44057/mysterious-aircraft-spotted-at-area-51-in-unprecedented-satellite-image",
-    "upvotes": 136,
+    "upvotes": 139,
     "author": "benlumen",
-    "comments": 73,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=30193450"
   },
   {
     "title": "Dip Switch USB Stick",
     "url": "https://twitter.com/bikerglen/status/1482516332432162820",
-    "upvotes": 145,
+    "upvotes": 150,
     "author": "tambourine_man",
     "comments": 48,
     "link": "https://news.ycombinator.com/item?id=30198730"
   },
   {
-    "title": "Gameboy Emulator in ARM Assembly",
-    "url": "https://github.com/cottsay/arm_asm_emu",
-    "upvotes": 43,
-    "author": "tosh",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=30201370"
-  },
-  {
     "title": "A Gas Dynamics Toolkit in D",
     "url": "https://dlang.org/blog/2022/02/02/a-gas-dynamics-toolkit-in-d/",
-    "upvotes": 24,
+    "upvotes": 30,
     "author": "pjmlp",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30176778"
   },
   {
+    "title": "Gameboy Emulator in ARM Assembly",
+    "url": "https://github.com/cottsay/arm_asm_emu",
+    "upvotes": 47,
+    "author": "tosh",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=30201370"
+  },
+  {
     "title": "Why Not ZFS",
     "url": "https://storytime.ivysaur.me/posts/why-not-zfs/",
-    "upvotes": 42,
+    "upvotes": 48,
     "author": "zdw",
-    "comments": 49,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=30200339"
   },
   {
     "title": "DarkPattern.games: Find Healthy Mobile Games",
     "url": "https://www.darkpattern.games",
-    "upvotes": 312,
+    "upvotes": 316,
     "author": "homarp",
-    "comments": 167,
+    "comments": 169,
     "link": "https://news.ycombinator.com/item?id=30184457"
+  },
+  {
+    "title": "How to stop running out of ephemeral ports and love long-lived connections",
+    "url": "https://blog.cloudflare.com/how-to-stop-running-out-of-ephemeral-ports-and-start-to-love-long-lived-connections/",
+    "upvotes": 140,
+    "author": "pimterry",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=30181710"
   },
   {
     "title": "I hacked SONOS and YouTube the same day",
     "url": "https://www.deadf00d.com/post/how-i-hacked-sonos-and-youtube-the-same-day.html",
-    "upvotes": 231,
+    "upvotes": 233,
     "author": "lukastyrychtr",
     "comments": 102,
     "link": "https://news.ycombinator.com/item?id=30195931"
@@ -82,50 +90,58 @@
   {
     "title": "Assimilate: A Flood-It game for Mac OS 9, released in 2021",
     "url": "http://www.theztd.com/assimilate/",
-    "upvotes": 83,
+    "upvotes": 86,
     "author": "namu-313",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30176448"
-  },
-  {
-    "title": "How to stop running out of ephemeral ports and love long-lived connections",
-    "url": "https://blog.cloudflare.com/how-to-stop-running-out-of-ephemeral-ports-and-start-to-love-long-lived-connections/",
-    "upvotes": 136,
-    "author": "pimterry",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=30181710"
-  },
-  {
-    "title": "Linux bcc/BPF tcplife: TCP Lifespans",
-    "url": "https://www.brendangregg.com/blog/2016-11-30/linux-bcc-tcplife.html",
-    "upvotes": 38,
-    "author": "jaytaylor",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30171712"
   },
   {
     "title": "Show HN: Edit videos faster by automatically removing silences",
     "url": "https://www.kapwing.com/tools/smart-cut",
-    "upvotes": 105,
+    "upvotes": 107,
     "author": "shahahmed",
-    "comments": 62,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=30194440"
+  },
+  {
+    "title": "Linux bcc/BPF tcplife: TCP Lifespans",
+    "url": "https://www.brendangregg.com/blog/2016-11-30/linux-bcc-tcplife.html",
+    "upvotes": 39,
+    "author": "jaytaylor",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30171712"
   },
   {
     "title": "Show HN: I made a little digital circuit simulator that operates on PNGs",
     "url": "https://github.com/lynnpepin/reso",
-    "upvotes": 165,
+    "upvotes": 171,
     "author": "lynndotpy",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30193997"
   },
   {
+    "title": "App store bill sails out of Senate Judiciary Committee",
+    "url": "https://www.axios.com/app-store-bill-sails-out-of-senate-judiciary-committee-c49c22bf-c9ae-41f4-b23e-55a3ce8caace.html",
+    "upvotes": 161,
+    "author": "mark-ruwt",
+    "comments": 318,
+    "link": "https://news.ycombinator.com/item?id=30195167"
+  },
+  {
     "title": "Slackware 15.0",
     "url": "http://www.slackware.com/releasenotes/15.0.php",
-    "upvotes": 265,
+    "upvotes": 267,
     "author": "kdtsh",
-    "comments": 118,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=30200134"
+  },
+  {
+    "title": "Why are semi trucks in the US and Europe so different?",
+    "url": "https://nodum.org/why-semi-trucks-in-us-and-europe-are-so-different/",
+    "upvotes": 267,
+    "author": "ushakov",
+    "comments": 461,
+    "link": "https://news.ycombinator.com/item?id=30193469"
   },
   {
     "title": "How we broke the supply chain",
@@ -136,36 +152,28 @@
     "link": "https://news.ycombinator.com/item?id=30198214"
   },
   {
-    "title": "App store bill sails out of Senate Judiciary Committee",
-    "url": "https://www.axios.com/app-store-bill-sails-out-of-senate-judiciary-committee-c49c22bf-c9ae-41f4-b23e-55a3ce8caace.html",
-    "upvotes": 156,
-    "author": "mark-ruwt",
-    "comments": 312,
-    "link": "https://news.ycombinator.com/item?id=30195167"
-  },
-  {
-    "title": "Why are semi trucks in the US and Europe so different?",
-    "url": "https://nodum.org/why-semi-trucks-in-us-and-europe-are-so-different/",
-    "upvotes": 263,
-    "author": "ushakov",
-    "comments": 459,
-    "link": "https://news.ycombinator.com/item?id=30193469"
-  },
-  {
     "title": "Launch HN: Ploomber",
     "url": "https://github.com/ploomber/ploomber",
-    "upvotes": 104,
+    "upvotes": 105,
     "author": "edublancas",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=30195191"
   },
   {
-    "title": "Venetian glass seduced American artists a century ago",
-    "url": "https://hyperallergic.com/699494/how-venetian-glass-seduced-american-artists-a-century-ago/",
-    "upvotes": 4,
-    "author": "simonebrunozzi",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30175077"
+    "title": "Building a modern home in the woods",
+    "url": "https://johnnyrodgers.is/building-a-modern-home",
+    "upvotes": 425,
+    "author": "hokumguru",
+    "comments": 408,
+    "link": "https://news.ycombinator.com/item?id=30193899"
+  },
+  {
+    "title": "How should net metering affect your electric bill?",
+    "url": "https://climateer.substack.com/p/price-lies",
+    "upvotes": 206,
+    "author": "snewman",
+    "comments": 305,
+    "link": "https://news.ycombinator.com/item?id=30193521"
   },
   {
     "title": "Openbase",
@@ -174,63 +182,55 @@
   {
     "title": "Compensation Data and Trends in the USA",
     "url": "https://dataforest.sequoia.com/reports/compensation/",
-    "upvotes": 120,
+    "upvotes": 123,
     "author": "mattgreg",
-    "comments": 64,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=30200644"
-  },
-  {
-    "title": "How should net metering affect your electric bill?",
-    "url": "https://climateer.substack.com/p/price-lies",
-    "upvotes": 206,
-    "author": "snewman",
-    "comments": 301,
-    "link": "https://news.ycombinator.com/item?id=30193521"
-  },
-  {
-    "title": "Building a modern home in the woods",
-    "url": "https://johnnyrodgers.is/building-a-modern-home",
-    "upvotes": 419,
-    "author": "hokumguru",
-    "comments": 408,
-    "link": "https://news.ycombinator.com/item?id=30193899"
   },
   {
     "title": "Silenced AirTags with disabled speakers are popping up for sale online",
     "url": "https://gizmodo.com/silenced-airtags-with-disabled-speakers-for-sale-online-1848473673",
-    "upvotes": 258,
+    "upvotes": 259,
     "author": "gumby",
-    "comments": 306,
+    "comments": 309,
     "link": "https://news.ycombinator.com/item?id=30196371"
+  },
+  {
+    "title": "Venetian glass seduced American artists a century ago",
+    "url": "https://hyperallergic.com/699494/how-venetian-glass-seduced-american-artists-a-century-ago/",
+    "upvotes": 5,
+    "author": "simonebrunozzi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30175077"
   },
   {
     "title": "Wolvic, a new browser project picking up where Firefox Reality leaves off",
     "url": "https://www.igalia.com/2022/02/03/Introducing-Wolvic.html",
-    "upvotes": 156,
+    "upvotes": 157,
     "author": "Vinnl",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=30195009"
   },
   {
+    "title": "Medical communication is bad–how can we fix it?",
+    "url": "https://blog.tjcx.me/p/medical-communication-is-badhow-do",
+    "upvotes": 3,
+    "author": "tomjcleveland",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30202913"
+  },
+  {
     "title": "An 8-year-old slid his handwritten book onto a library shelf",
     "url": "https://www.washingtonpost.com/lifestyle/2022/01/31/library-book-idaho-dillon-helbig/",
-    "upvotes": 264,
+    "upvotes": 267,
     "author": "TruffleLabs",
     "comments": 61,
     "link": "https://news.ycombinator.com/item?id=30173965"
   },
   {
-    "title": "Software correctness is a lot like flossing",
-    "url": "https://www.hillelwayne.com/post/flossing/",
-    "upvotes": 26,
-    "author": "BerislavLopac",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=30202190"
-  },
-  {
     "title": "iPhone flaw exploited by second Israeli spy firm",
     "url": "https://www.reuters.com/technology/exclusive-iphone-flaw-exploited-by-second-israeli-spy-firm-sources-2022-02-03/",
-    "upvotes": 474,
+    "upvotes": 477,
     "author": "caaqil",
     "comments": 134,
     "link": "https://news.ycombinator.com/item?id=30192743"
