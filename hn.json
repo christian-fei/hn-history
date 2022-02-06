@@ -2,31 +2,23 @@
   {
     "title": "The EARN IT act is back, and it’s more dangerous than ever",
     "url": "http://cyberlaw.stanford.edu/blog/2022/02/earn-it-act-back-and-it%E2%80%99s-more-dangerous-ever",
-    "upvotes": 800,
+    "upvotes": 825,
     "author": "grappler",
-    "comments": 240,
+    "comments": 250,
     "link": "https://news.ycombinator.com/item?id=30224421"
   },
   {
     "title": "Lon Lat Lon Lat",
     "url": "https://macwright.com/lonlat/",
-    "upvotes": 63,
+    "upvotes": 73,
     "author": "dbaupp",
-    "comments": 35,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=30228981"
-  },
-  {
-    "title": "Imminent merger of a supermassive black hole binary",
-    "url": "https://arxiv.org/abs/2201.11633",
-    "upvotes": 85,
-    "author": "perihelions",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=30228095"
   },
   {
     "title": "Unlearning perfectionism",
     "url": "https://arunkprasad.com/log/unlearning-perfectionism/",
-    "upvotes": 403,
+    "upvotes": 412,
     "author": "akprasad",
     "comments": 81,
     "link": "https://news.ycombinator.com/item?id=30223559"
@@ -34,31 +26,39 @@
   {
     "title": "Reproducible Builds in January 2022",
     "url": "https://reproducible-builds.org/reports/2022-01/",
-    "upvotes": 21,
+    "upvotes": 25,
     "author": "pabs3",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30229189"
   },
   {
+    "title": "Imminent merger of a supermassive black hole binary",
+    "url": "https://arxiv.org/abs/2201.11633",
+    "upvotes": 91,
+    "author": "perihelions",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=30228095"
+  },
+  {
     "title": "Jo – a shell command to create JSON",
     "url": "https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/",
-    "upvotes": 261,
+    "upvotes": 264,
     "author": "robfig",
-    "comments": 68,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=30224063"
   },
   {
     "title": "Send your email right to the other person's spam",
     "url": "https://straight2spam.xyz",
-    "upvotes": 228,
+    "upvotes": 237,
     "author": "adnanaga",
-    "comments": 87,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=30228403"
   },
   {
     "title": "First images of cerebrospinal fluid in the brain during sleep",
     "url": "https://www.bu.edu/articles/2019/cerebrospinal-fluid-washing-in-brain-during-sleep/",
-    "upvotes": 296,
+    "upvotes": 297,
     "author": "robg",
     "comments": 96,
     "link": "https://news.ycombinator.com/item?id=30222210"
@@ -66,7 +66,7 @@
   {
     "title": "Java BitSet performance-flicker mystery",
     "url": "https://blog.agical.se/en/posts/java-bitset-performance-mystery",
-    "upvotes": 80,
+    "upvotes": 81,
     "author": "cospaia",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=30226083"
@@ -74,18 +74,50 @@
   {
     "title": "Spam blacklisting is out of control",
     "url": "https://blog.roastidio.us/posts/spam_blacklists_are_out_of_control/",
-    "upvotes": 318,
+    "upvotes": 323,
     "author": "derekzhouzhen",
-    "comments": 319,
+    "comments": 320,
     "link": "https://news.ycombinator.com/item?id=30222736"
   },
   {
     "title": "Dllicious – shared object usage analysis on Linux",
     "url": "https://wiki.alopex.li/Dllicious",
-    "upvotes": 30,
+    "upvotes": 33,
     "author": "h1x",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30194853"
+  },
+  {
+    "title": "Cause of Cambrian Explosion – Terrestrial or cosmic?",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0079610718300798",
+    "upvotes": 48,
+    "author": "mattclarkdotnet",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=30227756"
+  },
+  {
+    "title": "The Stacks Project, a new model for organizing and visualizing mathematics",
+    "url": "https://news.columbia.edu/news/stacks-project-johan-dejong",
+    "upvotes": 115,
+    "author": "mathgenius",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=30222302"
+  },
+  {
+    "title": "Jolie: A drop-in replacement of Django Admin",
+    "url": "https://www.jolie.dev/",
+    "upvotes": 111,
+    "author": "sambalbadjak",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=30224838"
+  },
+  {
+    "title": "Alaska's one-house town, home to hundreds",
+    "url": "https://www.cnn.com/interactive/2015/07/us/whittier-alaska-american-story/",
+    "upvotes": 189,
+    "author": "Jaruzel",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=30193020"
   },
   {
     "title": "CI for the Debian Linux kernel team",
@@ -96,91 +128,67 @@
     "link": "https://news.ycombinator.com/item?id=30229192"
   },
   {
-    "title": "Cause of Cambrian Explosion – Terrestrial or cosmic?",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0079610718300798",
-    "upvotes": 44,
-    "author": "mattclarkdotnet",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=30227756"
-  },
-  {
-    "title": "The Stacks Project, a new model for organizing and visualizing mathematics",
-    "url": "https://news.columbia.edu/news/stacks-project-johan-dejong",
-    "upvotes": 114,
-    "author": "mathgenius",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=30222302"
-  },
-  {
-    "title": "Jolie: A drop-in replacement of Django Admin",
-    "url": "https://www.jolie.dev/",
-    "upvotes": 110,
-    "author": "sambalbadjak",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=30224838"
-  },
-  {
-    "title": "Alaska's one-house town, home to hundreds",
-    "url": "https://www.cnn.com/interactive/2015/07/us/whittier-alaska-american-story/",
-    "upvotes": 189,
-    "author": "Jaruzel",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=30193020"
-  },
-  {
-    "title": "Ask HN: Best books on managing software complexity?",
-    "url": "item?id=30228261",
-    "upvotes": 81,
-    "author": "zenkat",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=30228261"
-  },
-  {
     "title": "Adobe tricks users into a 12 month contract",
     "url": "https://twitter.com/darkpatterns/status/1489901640777973768",
-    "upvotes": 1435,
+    "upvotes": 1441,
     "author": "zdw",
-    "comments": 516,
+    "comments": 519,
     "link": "https://news.ycombinator.com/item?id=30222165"
   },
   {
     "title": "Cloudy with a Chance of Bullshit",
     "url": "https://theoutline.com/post/3826/crap-weather-apps-meteorolgists",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "yoloswagins",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=30212818"
   },
   {
-    "title": "High-order Virtual Machine",
-    "url": "https://github.com/Kindelia/HVM",
-    "upvotes": 345,
-    "author": "Kinrany",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=30219452"
+    "title": "Ask HN: Best books on managing software complexity?",
+    "url": "item?id=30228261",
+    "upvotes": 88,
+    "author": "zenkat",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=30228261"
   },
   {
-    "title": "Why my projects keep failing",
-    "url": "https://adayinthelifeof.nl/2021/12/27/a-comprehensive-list-of-failed-projects.html",
-    "upvotes": 146,
-    "author": "jaytaph",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=30192888"
+    "title": "Building a better trivia game with a Jeopardy master and Magic’s creator",
+    "url": "https://arstechnica.com/gaming/2019/08/building-a-better-trivia-game-with-a-jeopardy-master-and-magics-creator/",
+    "upvotes": 4,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30190623"
+  },
+  {
+    "title": "High-order Virtual Machine",
+    "url": "https://github.com/Kindelia/HVM",
+    "upvotes": 349,
+    "author": "Kinrany",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=30219452"
   },
   {
     "title": "Google Chrome U2F API decommission: What the change means",
     "url": "https://www.yubico.com/blog/google-chrome-u2f-api-decommission-what-the-change-means-for-your-users-and-how-to-prepare/",
-    "upvotes": 88,
+    "upvotes": 91,
     "author": "vmoore",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=30224777"
+  },
+  {
+    "title": "Why my projects keep failing",
+    "url": "https://adayinthelifeof.nl/2021/12/27/a-comprehensive-list-of-failed-projects.html",
+    "upvotes": 148,
+    "author": "jaytaph",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=30192888"
   },
   {
     "title": "My mental model of how alpha opacity works is wrong",
     "url": "https://coolbutuseless.github.io/2020/02/14/my-mental-model-of-how-alpha-works-is-wrong/",
     "upvotes": 98,
     "author": "sebg",
-    "comments": 52,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=30195173"
   },
   {
@@ -188,51 +196,43 @@
     "url": "https://skio.com/careers"
   },
   {
+    "title": "Web3 Doesn't Care About Your Privacy",
+    "url": "https://coinsights.substack.com/p/the-duality-of-web3",
+    "upvotes": 7,
+    "author": "shekarramaswamy",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30229393"
+  },
+  {
     "title": "Finding Vulnerabilities in Open Source Projects",
     "url": "https://www.schneier.com/blog/archives/2022/02/finding-vulnerabilities-in-open-source-projects.html",
-    "upvotes": 30,
+    "upvotes": 31,
     "author": "CapitalistCartr",
-    "comments": 7,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30190904"
+  },
+  {
+    "title": "Ask HN: Best hosted alternative to Google Workspace for email?",
+    "url": "item?id=30223538",
+    "upvotes": 226,
+    "author": "CharlesW",
+    "comments": 196,
+    "link": "https://news.ycombinator.com/item?id=30223538"
   },
   {
     "title": "Ask HN: Does targeted advertising work at all?",
     "url": "item?id=30228458",
     "upvotes": 39,
     "author": "jpm_sd",
-    "comments": 59,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=30228458"
-  },
-  {
-    "title": "Ask HN: Best hosted alternative to Google Workspace for email?",
-    "url": "item?id=30223538",
-    "upvotes": 224,
-    "author": "CharlesW",
-    "comments": 194,
-    "link": "https://news.ycombinator.com/item?id=30223538"
   },
   {
     "title": "Show HN: Lava lamp simulated by neural net in infinite loop",
     "url": "https://github.com/muxamilian/duralava",
-    "upvotes": 75,
+    "upvotes": 76,
     "author": "muxamilian",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30222243"
-  },
-  {
-    "title": "Bitcoin's fungibility graveyard",
-    "url": "https://sethforprivacy.com/posts/fungibility-graveyard/",
-    "upvotes": 211,
-    "author": "yamrzou",
-    "comments": 291,
-    "link": "https://news.ycombinator.com/item?id=30224637"
-  },
-  {
-    "title": "Getting Started with the GA144 and ArrayForth",
-    "url": "https://bitlog.it/20141224_getting_started_with_the_ga144_and_arrayforth.html",
-    "upvotes": 75,
-    "author": "todsacerdoti",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=30221910"
   }
 ]
