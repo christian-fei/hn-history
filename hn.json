@@ -1,91 +1,99 @@
 [
   {
+    "title": "Every M1 Mac is due for a 2022 refresh with faster M2 chip, new designs",
+    "url": "https://www.macworld.com/article/612350/apple-planning-to-upgrade-every-m1-mac-in-2022.html",
+    "upvotes": 61,
+    "author": "orangebanana1",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=30263829"
+  },
+  {
     "title": "Apple unveils contactless payments via Tap to Pay on iPhone",
     "url": "https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/",
-    "upvotes": 592,
+    "upvotes": 615,
     "author": "todsacerdoti",
-    "comments": 490,
+    "comments": 503,
     "link": "https://news.ycombinator.com/item?id=30259183"
   },
   {
     "title": "Gyroflow: Advanced open-source gyro-assisted video stabilization",
     "url": "https://gyroflow.xyz/",
-    "upvotes": 186,
+    "upvotes": 213,
     "author": "jonbaer",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=30259771"
   },
   {
     "title": "Nerdle = Like Wordle but with Equations",
     "url": "https://nerdlegame.com/?a=0",
-    "upvotes": 114,
+    "upvotes": 128,
     "author": "dzink",
-    "comments": 75,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=30260939"
   },
   {
-    "title": "Django: Reformatted code with Black",
-    "url": "https://github.com/django/django/pull/15387",
-    "upvotes": 190,
-    "author": "tams",
-    "comments": 166,
-    "link": "https://news.ycombinator.com/item?id=30258530"
-  },
-  {
-    "title": "Exposing a web service with Cloudflare Tunnel",
-    "url": "https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/",
-    "upvotes": 267,
-    "author": "geostyx",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=30257978"
+    "title": "Heuristics That Almost Always Work",
+    "url": "https://astralcodexten.substack.com/p/heuristics-that-almost-always-work",
+    "upvotes": 10,
+    "author": "mudro_zboris",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30264082"
   },
   {
     "title": "PDEs You Should Know",
     "url": "https://www.lucaspauker.com/pdes",
-    "upvotes": 13,
+    "upvotes": 23,
     "author": "lucaspauker",
-    "comments": 10,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=30263330"
   },
   {
-    "title": "An Ancient Geometry Problem Falls to New Mathematical Techniques",
-    "url": "https://www.quantamagazine.org/an-ancient-geometry-problem-falls-to-new-mathematical-techniques-20220208/",
-    "upvotes": 114,
-    "author": "theafh",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=30259170"
+    "title": "Exposing a web service with Cloudflare Tunnel",
+    "url": "https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/",
+    "upvotes": 274,
+    "author": "geostyx",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=30257978"
   },
   {
-    "title": "How UTF-8 Works",
-    "url": "https://sethmlarson.dev/blog/utf-8",
-    "upvotes": 158,
-    "author": "SethMLarson",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=30259097"
-  },
-  {
-    "title": "Laravel 9",
-    "url": "https://laravel-news.com/laravel-9-released",
-    "upvotes": 188,
-    "author": "riipandi",
-    "comments": 140,
-    "link": "https://news.ycombinator.com/item?id=30260957"
+    "title": "Django: Reformatted code with Black",
+    "url": "https://github.com/django/django/pull/15387",
+    "upvotes": 197,
+    "author": "tams",
+    "comments": 177,
+    "link": "https://news.ycombinator.com/item?id=30258530"
   },
   {
     "title": "Feds arrest couple, seize $3.6B in hacked Bitcoin funds",
     "url": "https://www.washingtonpost.com/national-security/2022/02/08/bitfinex-hack-bitcoin-arrests/",
-    "upvotes": 177,
+    "upvotes": 217,
     "author": "mikeyouse",
-    "comments": 384,
+    "comments": 430,
     "link": "https://news.ycombinator.com/item?id=30260787"
   },
   {
-    "title": "Every M1 Mac is due for a 2022 refresh with faster M2 chip, new designs",
-    "url": "https://www.macworld.com/article/612350/apple-planning-to-upgrade-every-m1-mac-in-2022.html",
-    "upvotes": 5,
-    "author": "orangebanana1",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30263829"
+    "title": "How UTF-8 Works",
+    "url": "https://sethmlarson.dev/blog/utf-8",
+    "upvotes": 166,
+    "author": "SethMLarson",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=30259097"
+  },
+  {
+    "title": "An Ancient Geometry Problem Falls to New Mathematical Techniques",
+    "url": "https://www.quantamagazine.org/an-ancient-geometry-problem-falls-to-new-mathematical-techniques-20220208/",
+    "upvotes": 117,
+    "author": "theafh",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=30259170"
+  },
+  {
+    "title": "Laravel 9",
+    "url": "https://laravel-news.com/laravel-9-released",
+    "upvotes": 199,
+    "author": "riipandi",
+    "comments": 156,
+    "link": "https://news.ycombinator.com/item?id=30260957"
   },
   {
     "title": "Zendar",
@@ -94,145 +102,137 @@
   {
     "title": "Garage, our self-hosted distributed object storage solution",
     "url": "https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/",
-    "upvotes": 309,
+    "upvotes": 315,
     "author": "lxpz",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=30256753"
-  },
-  {
-    "title": "Show HN: Three Magic Words, a five-letter word game that isn’t Wordle",
-    "url": "https://www.threemagicwords.app/play/",
-    "upvotes": 152,
-    "author": "beepy",
     "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=30257888"
-  },
-  {
-    "title": "You cannot police misinformation in a fair, reproducible, and representative way",
-    "url": "https://twitter.com/dnunan79/status/1491072159393148929",
-    "upvotes": 124,
-    "author": "youcould",
-    "comments": 179,
-    "link": "https://news.ycombinator.com/item?id=30262602"
-  },
-  {
-    "title": "Are modules without imports “considered harmful”?",
-    "url": "https://c3.handmade.network/blog/p/8337-are_modules_without_imports_considered_harmful",
-    "upvotes": 35,
-    "author": "lerno",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=30261435"
+    "link": "https://news.ycombinator.com/item?id=30256753"
   },
   {
     "title": "Dalí. Stereoscopic images. Painting in three dimensions",
     "url": "https://exhibitions.salvador-dali.org/en/daliestereoscopies/",
-    "upvotes": 17,
+    "upvotes": 25,
     "author": "wslh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30242612"
   },
   {
-    "title": "Show HN: Tally Forms – A free Typeform alternative",
-    "url": "https://tally.so/?ref=hn",
-    "upvotes": 103,
-    "author": "1p1e1",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=30258149"
+    "title": "Show HN: Three Magic Words, a five-letter word game that isn’t Wordle",
+    "url": "https://www.threemagicwords.app/play/",
+    "upvotes": 155,
+    "author": "beepy",
+    "comments": 112,
+    "link": "https://news.ycombinator.com/item?id=30257888"
   },
   {
-    "title": "Hello, Dynaboard",
-    "url": "https://dynaboard.com/blog/hello-dynaboard",
-    "upvotes": 93,
-    "author": "nine_k",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=30261598"
+    "title": "Are modules without imports “considered harmful”?",
+    "url": "https://c3.handmade.network/blog/p/8337-are_modules_without_imports_considered_harmful",
+    "upvotes": 40,
+    "author": "lerno",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=30261435"
+  },
+  {
+    "title": "You cannot police misinformation in a fair, reproducible, and representative way",
+    "url": "https://twitter.com/dnunan79/status/1491072159393148929",
+    "upvotes": 144,
+    "author": "youcould",
+    "comments": 220,
+    "link": "https://news.ycombinator.com/item?id=30262602"
+  },
+  {
+    "title": "Phenethylamines I have feared and loathed",
+    "url": "http://nikobidin.com/phenethylamines-i-have-feared-and-loathed",
+    "upvotes": 10,
+    "author": "kvee",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30230772"
+  },
+  {
+    "title": "Show HN: Tally Forms – A free Typeform alternative",
+    "url": "https://tally.so/?ref=hn",
+    "upvotes": 111,
+    "author": "1p1e1",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=30258149"
   },
   {
     "title": "MPW1 Custom ASIC Bringup",
     "url": "https://www.zerotoasiccourse.com/post/mpw1-bringup/",
-    "upvotes": 30,
+    "upvotes": 35,
     "author": "picture",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30230339"
   },
   {
+    "title": "Hello, Dynaboard",
+    "url": "https://dynaboard.com/blog/hello-dynaboard",
+    "upvotes": 97,
+    "author": "nine_k",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=30261598"
+  },
+  {
+    "title": "Common Calendrical Fallacies",
+    "url": "https://yourcalendricalfallacyis.com/",
+    "upvotes": 8,
+    "author": "_ttg",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30257363"
+  },
+  {
     "title": "A short history of the O’Reilly animals",
     "url": "https://www.oreilly.com/content/a-short-history-of-the-oreilly-animals/",
-    "upvotes": 127,
+    "upvotes": 131,
     "author": "neamar",
-    "comments": 40,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=30241852"
   },
   {
     "title": "How the powerful clean up their digital past using a reputation laundering firm",
     "url": "https://restofworld.org/2022/documents-reputation-laundering-firm-eliminalia/",
-    "upvotes": 247,
+    "upvotes": 254,
     "author": "DamnInteresting",
-    "comments": 72,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=30255366"
   },
   {
     "title": "Digital Advertising in 2022",
     "url": "https://stratechery.com/2022/digital-advertising-in-2022/",
-    "upvotes": 41,
+    "upvotes": 43,
     "author": "feross",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=30258616"
   },
   {
     "title": "The Plausibly Deniable DataBase",
     "url": "https://www.bunniestudios.com/blog/?p=6307",
-    "upvotes": 78,
+    "upvotes": 80,
     "author": "sohkamyung",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=30257056"
-  },
-  {
-    "title": "I would like a job writing Haskell",
-    "url": "https://blog.plover.com/2022/02/07/",
-    "upvotes": 379,
-    "author": "Rerarom",
-    "comments": 413,
-    "link": "https://news.ycombinator.com/item?id=30256012"
   },
   {
     "title": "Being Slow to Criticise",
     "url": "https://www.solipsys.co.uk/new/BeingSlowToCriticise.html?VB07HN",
     "upvotes": 79,
     "author": "ColinWright",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=30243266"
   },
   {
-    "title": "Tell HN: Stack Exchange (Stack Overflow) is now blocking Tor",
-    "url": "item?id=30256016",
-    "upvotes": 372,
-    "author": "yanmaani",
-    "comments": 167,
-    "link": "https://news.ycombinator.com/item?id=30256016"
+    "title": "Justice Dept. announces $3.6B crypto seizure, 2 arrests",
+    "url": "https://apnews.com/article/cryptocurrency-stolen-arrest-7e83f7188e8e1580e9678d8a47d6ab32",
+    "upvotes": 16,
+    "author": "awb",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30263481"
   },
   {
-    "title": "MadMax: Analyzing the Out-of-Gas World of Smart Contracts",
-    "url": "https://cacm.acm.org/magazines/2020/10/247600-madmax/fulltext",
-    "upvotes": 35,
-    "author": "Anon84",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=30258438"
-  },
-  {
-    "title": "An unlikely meditation on modern happiness",
-    "url": "https://hedgehogreview.com/web-features/thr/posts/an-unlikely-meditation-on-modern-happiness",
-    "upvotes": 45,
-    "author": "lermontov",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=30218387"
-  },
-  {
-    "title": "Generating Datasets with Identical Statistics Through Simulated Annealing",
-    "url": "https://www.autodesk.com/research/publications/same-stats-different-graphs",
-    "upvotes": 76,
-    "author": "Tomte",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30231754"
+    "title": "I would like a job writing Haskell",
+    "url": "https://blog.plover.com/2022/02/07/",
+    "upvotes": 384,
+    "author": "Rerarom",
+    "comments": 425,
+    "link": "https://news.ycombinator.com/item?id=30256012"
   }
 ]
