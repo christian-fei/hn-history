@@ -1,48 +1,24 @@
 [
   {
-    "title": "Richard Feynman on meeting “great men”",
-    "url": "https://cs.au.dk/~danvy/lafb.html",
-    "upvotes": 266,
-    "author": "areoform",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=30298732"
-  },
-  {
-    "title": "YSFlight – The only free flight simulator where anything is possible",
+    "title": "YSFlight – A free flight simulator where anything is possible",
     "url": "https://ysflight.org/",
-    "upvotes": 91,
+    "upvotes": 110,
     "author": "app4soft",
-    "comments": 23,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=30299850"
   },
   {
-    "title": "Starting in 2023 Google is planning to wind down Google Currents",
-    "url": "https://workspaceupdates.googleblog.com/2022/02/currents-spaces-migration.html",
-    "upvotes": 19,
-    "author": "taubek",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=30301211"
+    "title": "Csv.vim: A Filetype plugin for CSV files",
+    "url": "https://github.com/chrisbra/csv.vim",
+    "upvotes": 22,
+    "author": "s1291",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30301058"
   },
   {
-    "title": "Code execution as root via AT commands on the PinePhone Quectel EG25-G modem",
-    "url": "https://nns.ee/blog/2021/04/03/modem-rce.html",
-    "upvotes": 19,
-    "author": "pabs3",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30301240"
-  },
-  {
-    "title": "How to know if you’re addicted",
-    "url": "https://psyche.co/guides/how-to-know-if-youre-addicted-to-alcohol-or-drugs",
-    "upvotes": 12,
-    "author": "openknot",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30301309"
-  },
-  {
-    "title": "osmf: A simple command-line tool to explore OSM data",
+    "title": "Osmf: A simple command-line tool to explore OSM data",
     "url": "https://github.com/codesoap/osmf",
-    "upvotes": 25,
+    "upvotes": 34,
     "author": "ducktective",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30300693"
@@ -50,26 +26,58 @@
   {
     "title": "SNES Development Part 1: Getting Started",
     "url": "https://blog.wesleyac.com/posts/snes-dev-1-getting-started",
-    "upvotes": 101,
+    "upvotes": 114,
     "author": "muterad_murilax",
-    "comments": 10,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30299060"
+  },
+  {
+    "title": "I used Apple AirTags, Tiles and a GPS tracker to watch my husband’s every move",
+    "url": "https://www.nytimes.com/2022/02/11/technology/airtags-gps-surveillance.html",
+    "upvotes": 24,
+    "author": "danso",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=30301271"
   },
   {
     "title": "GPT-3's answers to arithmetic questions",
     "url": "https://gist.github.com/moyix/ca4091f16f0b5011bfa8f3f97f705a0d",
-    "upvotes": 69,
+    "upvotes": 72,
     "author": "nandhinianand",
-    "comments": 69,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=30299360"
   },
   {
-    "title": "Csv.vim: A Filetype plugin for CSV files",
-    "url": "https://github.com/chrisbra/csv.vim",
-    "upvotes": 12,
-    "author": "s1291",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30301058"
+    "title": "Show HN: A mastermind-like version of Wordle",
+    "url": "https://playhurdle.vercel.app/",
+    "upvotes": 16,
+    "author": "prvnsmpth",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=30301098"
+  },
+  {
+    "title": "Feynman on group decision-making at Los Alamos",
+    "url": "https://cs.au.dk/~danvy/lafb.html",
+    "upvotes": 281,
+    "author": "areoform",
+    "comments": 114,
+    "link": "https://news.ycombinator.com/item?id=30298732"
+  },
+  {
+    "title": "Code execution as root via AT commands on the Quectel EG25-G modem",
+    "url": "https://nns.ee/blog/2021/04/03/modem-rce.html",
+    "upvotes": 34,
+    "author": "pabs3",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30301240"
+  },
+  {
+    "title": "Earth-like planet spotted orbiting Sun’s closest star",
+    "url": "https://www.nature.com/articles/d41586-022-00400-3",
+    "upvotes": 77,
+    "author": "rntn",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=30298474"
   },
   {
     "title": "Replit",
@@ -78,161 +86,153 @@
   {
     "title": "Migrating from Netlify to Cloudflare Workers Sites for 2x Performance",
     "url": "https://brianli.com/migrating-from-netlify-to-cloudflare-workers-sites-for-2x-performance/",
-    "upvotes": 44,
+    "upvotes": 51,
     "author": "indigodaddy",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=30299786"
   },
   {
-    "title": "Show HN: A mastermind-like version of Wordle",
-    "url": "https://playhurdle.vercel.app/",
-    "upvotes": 6,
-    "author": "prvnsmpth",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30301098"
-  },
-  {
-    "title": "Earth-like planet spotted orbiting Sun’s closest star",
-    "url": "https://www.nature.com/articles/d41586-022-00400-3",
-    "upvotes": 68,
-    "author": "rntn",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=30298474"
+    "title": "The future of Currents and the next generation of collaboration in Spaces",
+    "url": "https://workspaceupdates.googleblog.com/2022/02/currents-spaces-migration.html",
+    "upvotes": 30,
+    "author": "taubek",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=30301211"
   },
   {
     "title": "Show HN: Lurnby, a tool for better learning, is now open source",
     "url": "https://github.com/Roznoshchik/Lurnby",
-    "upvotes": 34,
+    "upvotes": 39,
     "author": "roznoshchik",
-    "comments": 14,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30299847"
-  },
-  {
-    "title": "Testing Distributed Systems",
-    "url": "https://asatarin.github.io/testing-distributed-systems/",
-    "upvotes": 199,
-    "author": "ngaut",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=30296770"
-  },
-  {
-    "title": "SixtyFPS Becomes Slint",
-    "url": "https://slint-ui.com/blog/sixtyfps-becomes-slint.html",
-    "upvotes": 65,
-    "author": "tronical",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=30298534"
-  },
-  {
-    "title": "Switching Rich Text Editors, Part 1: Picking Tiptap",
-    "url": "https://www.ashbyhq.com/blog/company/tiptap-part-1",
-    "upvotes": 34,
-    "author": "dbbk",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=30299800"
-  },
-  {
-    "title": "MirageOS 3.0.0",
-    "url": "https://mirage.io/blog/announcing-mirage-30-release",
-    "upvotes": 22,
-    "author": "Brajeshwar",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=30300256"
   },
   {
     "title": "Building real-time ETL pipelines with Apache Kafka",
     "url": "https://datacater.io/blog/2022-02-11/etl-pipeline-with-apache-kafka.html",
-    "upvotes": 3,
+    "upvotes": 12,
     "author": "flippingbits",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30301375"
   },
   {
+    "title": "Testing Distributed Systems",
+    "url": "https://asatarin.github.io/testing-distributed-systems/",
+    "upvotes": 203,
+    "author": "ngaut",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=30296770"
+  },
+  {
+    "title": "An Optimization Story",
+    "url": "https://tinkering.xyz/fmo-optimization-story/",
+    "upvotes": 6,
+    "author": "lukastyrychtr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30301324"
+  },
+  {
+    "title": "SixtyFPS Becomes Slint",
+    "url": "https://slint-ui.com/blog/sixtyfps-becomes-slint.html",
+    "upvotes": 67,
+    "author": "tronical",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=30298534"
+  },
+  {
+    "title": "How to know if you’re addicted",
+    "url": "https://psyche.co/guides/how-to-know-if-youre-addicted-to-alcohol-or-drugs",
+    "upvotes": 31,
+    "author": "openknot",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=30301309"
+  },
+  {
+    "title": "Switching Rich Text Editors, Part 1: Picking Tiptap",
+    "url": "https://www.ashbyhq.com/blog/company/tiptap-part-1",
+    "upvotes": 36,
+    "author": "dbbk",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=30299800"
+  },
+  {
+    "title": "MirageOS 3.0",
+    "url": "https://mirage.io/blog/announcing-mirage-30-release",
+    "upvotes": 23,
+    "author": "Brajeshwar",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=30300256"
+  },
+  {
+    "title": "Ask HN: What is your “I don't care if this succeeds” project?",
+    "url": "item?id=30283264",
+    "upvotes": 429,
+    "author": "JNRowe",
+    "comments": 681,
+    "link": "https://news.ycombinator.com/item?id=30283264"
+  },
+  {
+    "title": "Nike.com's robots.txt",
+    "url": "https://www.nike.com/robots.txt",
+    "upvotes": 141,
+    "author": "r_singh",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=30299731"
+  },
+  {
+    "title": "New plant-derived composite is tough as bone and hard as aluminum",
+    "url": "https://news.mit.edu/2022/plant-derived-composite-0210",
+    "upvotes": 97,
+    "author": "jonbaer",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=30297169"
+  },
+  {
     "title": "Google's advertising tech targeted in European publishers' complaint",
     "url": "https://www.reuters.com/technology/googles-advertising-tech-targeted-european-publishers-complaint-2022-02-11/",
-    "upvotes": 29,
+    "upvotes": 30,
     "author": "pseudolus",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30299454"
   },
   {
-    "title": "Nike.com's robots.txt",
-    "url": "https://www.nike.com/robots.txt",
-    "upvotes": 125,
-    "author": "r_singh",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=30299731"
-  },
-  {
-    "title": "Ask HN: What is your “I don't care if this succeeds” project?",
-    "url": "item?id=30283264",
-    "upvotes": 419,
-    "author": "JNRowe",
-    "comments": 666,
-    "link": "https://news.ycombinator.com/item?id=30283264"
-  },
-  {
     "title": "Newly declassified documents reveal previously secret CIA bulk collection",
     "url": "https://www.wyden.senate.gov/news/press-releases/wyden-and-heinrich-newly-declassified-documents-reveal-previously-secret-cia-bulk-collection-problems-with-cia-handling-of-americans-information",
-    "upvotes": 446,
+    "upvotes": 453,
     "author": "sneak",
-    "comments": 165,
+    "comments": 175,
     "link": "https://news.ycombinator.com/item?id=30295532"
-  },
-  {
-    "title": "New plant-derived composite is tough as bone and hard as aluminum",
-    "url": "https://news.mit.edu/2022/plant-derived-composite-0210",
-    "upvotes": 91,
-    "author": "jonbaer",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=30297169"
   },
   {
     "title": "Key senators have voted for the anti-encryption EARN IT act",
     "url": "https://www.eff.org/deeplinks/2022/02/key-senators-have-voted-anti-encryption-earn-it-act",
-    "upvotes": 568,
+    "upvotes": 586,
     "author": "buu700",
-    "comments": 236,
+    "comments": 243,
     "link": "https://news.ycombinator.com/item?id=30296333"
   },
   {
-    "title": "Troubleshooting a Hairy PostgreSQL Incident - War Story",
+    "title": "A Hairy PostgreSQL Incident",
     "url": "https://ardentperf.com/2022/02/10/a-hairy-postgresql-incident/",
-    "upvotes": 102,
+    "upvotes": 109,
     "author": "tanelpoder",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=30296490"
   },
   {
     "title": "Booking.com is moving its customer service staff to an outsourcing company",
-    "url": "https://old.reddit.com/r/antiwork/comments/sp2e0g/bookingcom_just_fired_thousands_of_people_around/",
-    "upvotes": 243,
+    "url": "https://reddit.com/r/antiwork/comments/sp2e0g/bookingcom_just_fired_thousands_of_people_around/",
+    "upvotes": 255,
     "author": "sid6376",
-    "comments": 196,
+    "comments": 207,
     "link": "https://news.ycombinator.com/item?id=30297890"
   },
   {
     "title": "Show HN: EdgeDB 1.0",
     "url": "https://www.edgedb.com/blog/edgedb-1-0",
-    "upvotes": 831,
+    "upvotes": 835,
     "author": "colinmcd",
-    "comments": 291,
+    "comments": 292,
     "link": "https://news.ycombinator.com/item?id=30290225"
-  },
-  {
-    "title": "A decade of major cache incidents at Twitter",
-    "url": "https://danluu.com/cache-incidents/",
-    "upvotes": 97,
-    "author": "Smerity",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=30295542"
-  },
-  {
-    "title": "Heart-disease risk soars after Covid, even with a mild case",
-    "url": "https://www.nature.com/articles/d41586-022-00403-0",
-    "upvotes": 371,
-    "author": "SquibblesRedux",
-    "comments": 401,
-    "link": "https://news.ycombinator.com/item?id=30297544"
   }
 ]
