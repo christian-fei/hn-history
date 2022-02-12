@@ -1,32 +1,16 @@
 [
   {
-    "title": "David Rosenthal on cryptocurrencies",
-    "url": "https://blog.dshr.org/2022/02/ee380-talk.html",
-    "upvotes": 37,
-    "author": "codebolt",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=30310317"
-  },
-  {
     "title": "CAD files for the external shell",
     "url": "https://gitlab.steamos.cloud/SteamDeck/hardware",
-    "upvotes": 169,
+    "upvotes": 182,
     "author": "sohkamyung",
-    "comments": 46,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=30309065"
-  },
-  {
-    "title": "Building an Intelligent Emacs",
-    "url": "https://ianyepan.github.io/posts/emacs-ide/",
-    "upvotes": 156,
-    "author": "spudlyo",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=30308272"
   },
   {
     "title": "A nice story about Unix processes “infecting” each other",
     "url": "https://rachelbythebay.com/w/2022/02/09/nice/",
-    "upvotes": 35,
+    "upvotes": 44,
     "author": "zoidb",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30284704"
@@ -34,117 +18,133 @@
   {
     "title": "Palm Portable Keyboard Bluetooth Adapter",
     "url": "https://github.com/pymo/ppk_bluetooth",
-    "upvotes": 15,
+    "upvotes": 20,
     "author": "redundantly",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30299295"
+  },
+  {
+    "title": "Building an Intelligent Emacs",
+    "url": "https://ianyepan.github.io/posts/emacs-ide/",
+    "upvotes": 160,
+    "author": "spudlyo",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=30308272"
+  },
+  {
+    "title": "Land-use changes across Europe linked to mortality during the Black Death",
+    "url": "https://www.nature.com/articles/s41559-021-01652-4",
+    "upvotes": 22,
+    "author": "benbreen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30310099"
+  },
+  {
+    "title": "Show HN: The BLAKE3 hash function running on a 6502 microprocessor",
+    "url": "https://github.com/oconnor663/blake3-6502",
+    "upvotes": 38,
+    "author": "oconnor663",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30297767"
   },
   {
     "title": "Etleap",
     "url": "https://etleap.com/jobs/#software-engineer"
   },
   {
-    "title": "Land-use changes across Europe linked to mortality during the Black Death",
-    "url": "https://www.nature.com/articles/s41559-021-01652-4",
-    "upvotes": 18,
-    "author": "benbreen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30310099"
-  },
-  {
     "title": "Lingua-Go, the most accurate language detection for Go",
     "url": "https://github.com/pemistahl/lingua-go",
-    "upvotes": 51,
+    "upvotes": 54,
     "author": "acrophobic",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30309534"
   },
   {
-    "title": "Show HN: The BLAKE3 hash function running on a 6502 microprocessor",
-    "url": "https://github.com/oconnor663/blake3-6502",
-    "upvotes": 33,
-    "author": "oconnor663",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30297767"
-  },
-  {
     "title": "Microsoft's Small Step to Disable Macros Is a Win for Security",
     "url": "https://www.wired.com/story/microsoft-disables-macros-default-security-phishing/",
-    "upvotes": 65,
+    "upvotes": 71,
     "author": "valprop1",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30300101"
+  },
+  {
+    "title": "Nearly a third of TV ads play to empty rooms",
+    "url": "https://news.cornell.edu/stories/2022/02/nearly-third-tv-ads-play-empty-rooms",
+    "upvotes": 14,
+    "author": "caaqil",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30310343"
   },
   {
     "title": "Show HN: Jless, a command-line JSON viewer",
     "url": "https://pauljuliusmartinez.github.io/",
-    "upvotes": 215,
+    "upvotes": 221,
     "author": "CodeIsTheEnd",
-    "comments": 57,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=30273940"
   },
   {
     "title": "Blade Runner 2099 Sequel Series Coming from Ridley Scott",
     "url": "https://consequence.net/2022/02/ridley-scott-blade-runner-2099/",
-    "upvotes": 88,
+    "upvotes": 96,
     "author": "evo_9",
-    "comments": 88,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=30308527"
-  },
-  {
-    "title": "Marijuana Accelerates Growth of HPV-Related Head and Neck Cancer",
-    "url": "https://health.ucsd.edu/news/releases/Pages/2020-01-13-how-marijuana-accelerates-growth-of-hpv-related-head-and-neck-cancer-identified.aspx",
-    "upvotes": 71,
-    "author": "xyzwave",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=30309981"
   },
   {
     "title": "The Unreasonableness of Math Is Context Independence",
     "url": "https://bellmar.medium.com/the-unreasonableness-of-math-is-context-independence-6826fd5f3515",
-    "upvotes": 5,
+    "upvotes": 7,
     "author": "mbellotti",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30310383"
   },
   {
     "title": "Core War",
     "url": "https://en.wikipedia.org/wiki/Core_War",
-    "upvotes": 173,
+    "upvotes": 178,
     "author": "optimalsolver",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=30299617"
   },
   {
+    "title": "Marijuana accelerates growth of HPV-related head and neck cancer",
+    "url": "https://health.ucsd.edu/news/releases/Pages/2020-01-13-how-marijuana-accelerates-growth-of-hpv-related-head-and-neck-cancer-identified.aspx",
+    "upvotes": 76,
+    "author": "xyzwave",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=30309981"
+  },
+  {
     "title": "Lock the doors: Remembering Columbia's final homecoming",
     "url": "https://www.americaspace.com/2020/02/01/lock-the-doors-remembering-columbias-final-homecoming-otd-in-2003/",
-    "upvotes": 109,
+    "upvotes": 112,
     "author": "Tomte",
-    "comments": 90,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=30307259"
   },
   {
-    "title": "Incident: Air Asia A320 near Kuching on Feb 10th 2022, snake on the plane",
-    "url": "https://avherald.com/h?article=4f47cac0",
-    "upvotes": 125,
-    "author": "jhugo",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=30309644"
+    "title": "ARSnova – modern, web-based approach to Audience Response Systems",
+    "url": "https://github.com/particify/arsnova",
+    "upvotes": 5,
+    "author": "pabs3",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30298640"
   },
   {
     "title": "DoltLab v0.2.0",
     "url": "https://www.dolthub.com/blog/2022-02-11-announcing-doltlab-v0.2.0/",
-    "upvotes": 26,
+    "upvotes": 27,
     "author": "mjangle1985",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=30309498"
   },
   {
     "title": "How Einstein arrived at his theory of general relativity",
     "url": "https://lithub.com/how-einstein-arrived-at-his-theory-of-general-relativity/",
-    "upvotes": 127,
+    "upvotes": 129,
     "author": "8ytecoder",
-    "comments": 71,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=30306190"
   },
   {
@@ -156,83 +156,83 @@
     "link": "https://news.ycombinator.com/item?id=30289206"
   },
   {
-    "title": "AWS Announces the General Availability of AWS CloudFormation Hooks",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-announces-general-availability-aws-cloudformation-hooks/",
-    "upvotes": 26,
-    "author": "mooreds",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=30309379"
+    "title": "A new programming language for high-performance computers",
+    "url": "https://news.mit.edu/2022/new-programming-language-high-performance-computers-0207",
+    "upvotes": 140,
+    "author": "rbanffy",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=30306310"
   },
   {
     "title": "Launch HN: Anja Health",
     "url": "https://anjahealth.com",
-    "upvotes": 117,
+    "upvotes": 118,
     "author": "pkukp9",
-    "comments": 122,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=30305959"
   },
   {
-    "title": "A new programming language for high-performance computers",
-    "url": "https://news.mit.edu/2022/new-programming-language-high-performance-computers-0207",
-    "upvotes": 137,
-    "author": "rbanffy",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=30306310"
+    "title": "David Rosenthal on cryptocurrencies",
+    "url": "https://blog.dshr.org/2022/02/ee380-talk.html",
+    "upvotes": 62,
+    "author": "codebolt",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=30310317"
   },
   {
-    "title": "Nearly a third of TV ads play to empty rooms",
-    "url": "https://news.cornell.edu/stories/2022/02/nearly-third-tv-ads-play-empty-rooms",
-    "upvotes": 6,
-    "author": "caaqil",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30310343"
+    "title": "Plost – a deceptively simple plotting library",
+    "url": "https://github.com/tvst/plost",
+    "upvotes": 40,
+    "author": "grogu88",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30308945"
   },
   {
     "title": "Language homogenization at Harvard",
     "url": "https://inteoryx.com/htmls/LanguageHomog.html",
     "upvotes": 66,
     "author": "inteoryx",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=30308276"
-  },
-  {
-    "title": "Plost – a deceptively simple plotting library",
-    "url": "https://github.com/tvst/plost",
-    "upvotes": 35,
-    "author": "grogu88",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=30308945"
   },
   {
     "title": "Lasershark: Fast, bidirectional communication into air-gapped systems",
     "url": "https://intellisec.de/research/lasershark/",
     "upvotes": 155,
     "author": "dloss",
-    "comments": 103,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=30304161"
+  },
+  {
+    "title": "Heterosexual HIV diagnoses overtake those in gay men for first time in a decade",
+    "url": "https://www.tht.org.uk/news/heterosexual-hiv-diagnoses-overtake-those-gay-men-first-time-decade",
+    "upvotes": 72,
+    "author": "mudro_zboris",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=30308254"
   },
   {
     "title": "Biohybrid fish made from human cardiac cells swims like the heart beats",
     "url": "https://www.seas.harvard.edu/news/2022/02/biohybrid-fish-made-human-cardiac-cells-swims-heart-beats",
-    "upvotes": 44,
+    "upvotes": 47,
     "author": "yeellow",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30299775"
   },
   {
-    "title": "Scalable Large Scene Neural View Synthesis",
-    "url": "https://waymo.com/research/block-nerf/",
-    "upvotes": 43,
-    "author": "Jyaif",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30299498"
-  },
-  {
     "title": "BeyondCorp is dead, long live BeyondCorp",
     "url": "https://mayakaczorowski.com/blogs/beyondcorp-is-dead",
-    "upvotes": 115,
+    "upvotes": 118,
     "author": "tptacek",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=30278470"
+  },
+  {
+    "title": "An Infinitely Large Napkin [pdf]",
+    "url": "https://venhance.github.io/napkin/Napkin.pdf",
+    "upvotes": 161,
+    "author": "benstrumental",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=30302291"
   }
 ]
