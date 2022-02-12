@@ -2,47 +2,55 @@
   {
     "title": "Douglas Adams from first issue of Wired",
     "url": "https://douglasadams.com/dna/980707-05-a.html",
-    "upvotes": 32,
+    "upvotes": 43,
     "author": "colinprince",
-    "comments": 3,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=30311215"
   },
   {
     "title": "Nearly a third of TV ads play to empty rooms",
     "url": "https://news.cornell.edu/stories/2022/02/nearly-third-tv-ads-play-empty-rooms",
-    "upvotes": 97,
+    "upvotes": 103,
     "author": "caaqil",
-    "comments": 115,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=30310343"
   },
   {
     "title": "CAD files for the external shell",
     "url": "https://gitlab.steamos.cloud/SteamDeck/hardware",
-    "upvotes": 234,
+    "upvotes": 241,
     "author": "sohkamyung",
-    "comments": 75,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=30309065"
   },
   {
     "title": "The complete idiot's guide to OpenBSD on the Pinebook Pro",
     "url": "https://tomscii.sig7.se/2022/02/Guide-to-OpenBSD-on-the-PinebookPro",
-    "upvotes": 34,
+    "upvotes": 41,
     "author": "senzilla",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30310699"
   },
   {
     "title": "Adobe XD, where did it go wrong?",
     "url": "https://www.goodlookingdesign.co.uk/blog/adobe-xd-where-did-it-go-wrong/",
-    "upvotes": 45,
+    "upvotes": 58,
     "author": "achow",
-    "comments": 19,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=30310319"
+  },
+  {
+    "title": "Prefix Sum with SIMD",
+    "url": "https://en.algorithmica.org/hpc/algorithms/prefix/",
+    "upvotes": 15,
+    "author": "gbrown_",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30311112"
   },
   {
     "title": "Building an Intelligent Emacs",
     "url": "https://ianyepan.github.io/posts/emacs-ide/",
-    "upvotes": 196,
+    "upvotes": 197,
     "author": "spudlyo",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=30308272"
@@ -50,26 +58,26 @@
   {
     "title": "A nice story about Unix processes “infecting” each other",
     "url": "https://rachelbythebay.com/w/2022/02/09/nice/",
-    "upvotes": 71,
+    "upvotes": 73,
     "author": "zoidb",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=30284704"
   },
   {
     "title": "Land-use changes across Europe linked to mortality during the Black Death",
     "url": "https://www.nature.com/articles/s41559-021-01652-4",
-    "upvotes": 49,
+    "upvotes": 52,
     "author": "benbreen",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30310099"
   },
   {
-    "title": "Prefix Sum with SIMD",
-    "url": "https://en.algorithmica.org/hpc/algorithms/prefix/",
-    "upvotes": 11,
-    "author": "gbrown_",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30311112"
+    "title": "Show HN: The BLAKE3 hash function running on a 6502 microprocessor",
+    "url": "https://github.com/oconnor663/blake3-6502",
+    "upvotes": 58,
+    "author": "oconnor663",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=30297767"
   },
   {
     "title": "Lingua-Go, the most accurate language detection for Go",
@@ -80,12 +88,12 @@
     "link": "https://news.ycombinator.com/item?id=30309534"
   },
   {
-    "title": "Show HN: The BLAKE3 hash function running on a 6502 microprocessor",
-    "url": "https://github.com/oconnor663/blake3-6502",
-    "upvotes": 56,
-    "author": "oconnor663",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=30297767"
+    "title": "Show HN: Jless, a command-line JSON viewer",
+    "url": "https://pauljuliusmartinez.github.io/",
+    "upvotes": 274,
+    "author": "CodeIsTheEnd",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=30273940"
   },
   {
     "title": "Etleap",
@@ -94,18 +102,10 @@
   {
     "title": "The Unreasonableness of Math Is Context Independence",
     "url": "https://bellmar.medium.com/the-unreasonableness-of-math-is-context-independence-6826fd5f3515",
-    "upvotes": 24,
+    "upvotes": 25,
     "author": "mbellotti",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30310383"
-  },
-  {
-    "title": "Show HN: Jless, a command-line JSON viewer",
-    "url": "https://pauljuliusmartinez.github.io/",
-    "upvotes": 267,
-    "author": "CodeIsTheEnd",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=30273940"
   },
   {
     "title": "Palm Portable Keyboard Bluetooth Adapter",
@@ -118,7 +118,7 @@
   {
     "title": "Microsoft's Small Step to Disable Macros Is a Win for Security",
     "url": "https://www.wired.com/story/microsoft-disables-macros-default-security-phishing/",
-    "upvotes": 86,
+    "upvotes": 88,
     "author": "valprop1",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=30300101"
@@ -126,10 +126,18 @@
   {
     "title": "Core War",
     "url": "https://en.wikipedia.org/wiki/Core_War",
-    "upvotes": 206,
+    "upvotes": 208,
     "author": "optimalsolver",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=30299617"
+  },
+  {
+    "title": "Lock the doors: Remembering Columbia's final homecoming",
+    "url": "https://www.americaspace.com/2020/02/01/lock-the-doors-remembering-columbias-final-homecoming-otd-in-2003/",
+    "upvotes": 123,
+    "author": "Tomte",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=30307259"
   },
   {
     "title": "Making a Budget Pascal Compiler to WebAssembly",
@@ -140,33 +148,33 @@
     "link": "https://news.ycombinator.com/item?id=30298818"
   },
   {
-    "title": "Lock the doors: Remembering Columbia's final homecoming",
-    "url": "https://www.americaspace.com/2020/02/01/lock-the-doors-remembering-columbias-final-homecoming-otd-in-2003/",
-    "upvotes": 123,
-    "author": "Tomte",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=30307259"
+    "title": "46” woven display with integrated smart sensors and energy harvesting",
+    "url": "https://www.cam.ac.uk/research/news/scientists-develop-fully-woven-smart-display",
+    "upvotes": 3,
+    "author": "giuliomagnifico",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30299207"
   },
   {
     "title": "How Einstein arrived at his theory of general relativity",
     "url": "https://lithub.com/how-einstein-arrived-at-his-theory-of-general-relativity/",
-    "upvotes": 144,
+    "upvotes": 146,
     "author": "8ytecoder",
-    "comments": 80,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=30306190"
   },
   {
     "title": "A new programming language for high-performance computers",
     "url": "https://news.mit.edu/2022/new-programming-language-high-performance-computers-0207",
-    "upvotes": 155,
+    "upvotes": 159,
     "author": "rbanffy",
-    "comments": 78,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=30306310"
   },
   {
     "title": "A walk through Project Zero metrics",
     "url": "https://googleprojectzero.blogspot.com/2022/02/a-walk-through-project-zero-metrics.html",
-    "upvotes": 118,
+    "upvotes": 119,
     "author": "arkadiyt",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=30289206"
@@ -174,9 +182,9 @@
   {
     "title": "Marijuana accelerates growth of HPV-related head and neck cancer",
     "url": "https://health.ucsd.edu/news/releases/Pages/2020-01-13-how-marijuana-accelerates-growth-of-hpv-related-head-and-neck-cancer-identified.aspx",
-    "upvotes": 99,
+    "upvotes": 103,
     "author": "xyzwave",
-    "comments": 80,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=30309981"
   },
   {
@@ -186,14 +194,6 @@
     "author": "grogu88",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30308945"
-  },
-  {
-    "title": "ARSnova – modern, web-based approach to Audience Response Systems",
-    "url": "https://github.com/particify/arsnova",
-    "upvotes": 11,
-    "author": "pabs3",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30298640"
   },
   {
     "title": "Launch HN: Anja Health",
@@ -206,17 +206,25 @@
   {
     "title": "Language homogenization at Harvard",
     "url": "https://inteoryx.com/htmls/LanguageHomog.html",
-    "upvotes": 87,
+    "upvotes": 88,
     "author": "inteoryx",
-    "comments": 57,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=30308276"
+  },
+  {
+    "title": "ARSnova – modern, web-based approach to Audience Response Systems",
+    "url": "https://github.com/particify/arsnova",
+    "upvotes": 11,
+    "author": "pabs3",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30298640"
   },
   {
     "title": "David Rosenthal on cryptocurrencies",
     "url": "https://blog.dshr.org/2022/02/ee380-talk.html",
-    "upvotes": 124,
+    "upvotes": 135,
     "author": "codebolt",
-    "comments": 111,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=30310317"
   },
   {
@@ -226,13 +234,5 @@
     "author": "mjangle1985",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=30309498"
-  },
-  {
-    "title": "15 of 23 Monkeys with Elon Musk’s Neuralink Brain Chips Reportedly Died",
-    "url": "https://consequence.net/2022/02/elon-musk-neuralink-brain-chips-monkeys-died/",
-    "upvotes": 82,
-    "author": "thematrixturtle",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=30310662"
   }
 ]
