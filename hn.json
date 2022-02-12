@@ -2,7 +2,7 @@
   {
     "title": "Sci-Hub statistics and database",
     "url": "https://sci-hub.ru/database",
-    "upvotes": 304,
+    "upvotes": 320,
     "author": "NmAmDa",
     "comments": 71,
     "link": "https://news.ycombinator.com/item?id=30314601"
@@ -10,57 +10,65 @@
   {
     "title": "Still-active phreak numbers, all safe and free",
     "url": "https://stormrider.io/odd-numbers.html",
-    "upvotes": 89,
+    "upvotes": 103,
     "author": "billwear",
-    "comments": 33,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30315621"
   },
   {
     "title": "The Kobayashi Maru of Comparing Dates with Times",
     "url": "https://zachholman.com/posts/kobayashi-maru-of-comparing-dates-with-times",
-    "upvotes": 45,
+    "upvotes": 54,
     "author": "holman",
-    "comments": 29,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=30315984"
-  },
-  {
-    "title": "If You’re So Smart, Why Aren’t You Happy?",
-    "url": "https://nav.al/smart",
-    "upvotes": 42,
-    "author": "sandes",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=30316333"
   },
   {
     "title": "Server-Sent Events: an alternative to WebSockets",
     "url": "https://germano.dev/sse-websockets/",
-    "upvotes": 376,
+    "upvotes": 382,
     "author": "tyrion",
-    "comments": 177,
+    "comments": 189,
     "link": "https://news.ycombinator.com/item?id=30312897"
+  },
+  {
+    "title": "If You’re So Smart, Why Aren’t You Happy?",
+    "url": "https://nav.al/smart",
+    "upvotes": 62,
+    "author": "sandes",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=30316333"
+  },
+  {
+    "title": "Mutt 2.2.0",
+    "url": "http://www.mutt.org/relnotes/2.2/",
+    "upvotes": 7,
+    "author": "ackyshake",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30317229"
   },
   {
     "title": "Dino 0.3: Video calls and conferences – encrypted and peer-to-peer",
     "url": "https://dino.im/blog/2022/02/dino-0.3-release/",
-    "upvotes": 14,
+    "upvotes": 31,
     "author": "larma",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30316755"
   },
   {
-    "title": "Recycled silicon used in 19.7% efficient PERC solar cells",
-    "url": "https://pv-magazine-usa.com/2022/02/07/recycled-silicon-used-in-19-7-efficient-perc-solar-cells/",
-    "upvotes": 30,
-    "author": "taubek",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=30315748"
+    "title": "Programs that have saved Hacker News 100+ hours by automating repetitive tasks",
+    "url": "https://danielsada.tech/blog/programs-that-have-saved-hn-100hours/",
+    "upvotes": 55,
+    "author": "dshacker",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30315280"
   },
   {
     "title": "Easily handle CLI operation via Python instead of regular Bash programs",
     "url": "https://github.com/CZ-NIC/pz",
-    "upvotes": 106,
+    "upvotes": 113,
     "author": "EntICOnc",
-    "comments": 34,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=30302955"
   },
   {
@@ -68,36 +76,68 @@
     "url": "https://jobs.ashbyhq.com/motion/f421f314-f9d9-4e19-b664-af0067648faf"
   },
   {
-    "title": "Joke written by an AI: “A basic program walked into a bar ”",
-    "url": "item?id=30315604",
-    "upvotes": 90,
-    "author": "dane-pgp",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=30315604"
-  },
-  {
     "title": "Brainwashing Is Sorcery",
     "url": "https://www.overcomingbias.com/2022/02/brainwashing-is-sorcery.html",
-    "upvotes": 11,
+    "upvotes": 16,
     "author": "cinquemb",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30316739"
   },
   {
+    "title": "Joke written by an AI: “A basic program walked into a bar ”",
+    "url": "item?id=30315604",
+    "upvotes": 114,
+    "author": "dane-pgp",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=30315604"
+  },
+  {
+    "title": "Recycled silicon used in 19.7% efficient PERC solar cells",
+    "url": "https://pv-magazine-usa.com/2022/02/07/recycled-silicon-used-in-19-7-efficient-perc-solar-cells/",
+    "upvotes": 35,
+    "author": "taubek",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=30315748"
+  },
+  {
     "title": "An unscientific benchmark of SQLite vs. the file system",
     "url": "https://github.com/chrisdavies/dbench",
-    "upvotes": 72,
+    "upvotes": 77,
     "author": "leeoniya",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=30314326"
+  },
+  {
+    "title": "Crafting a Lox Interpreter in Rust, Part 1",
+    "url": "https://www.diegofreijo.com/blog/rlox-vm-a-lox-interpreter-in-rust-part-1/",
+    "upvotes": 8,
+    "author": "lukastyrychtr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30301835"
   },
   {
     "title": "Hagia Triada Sarcophagus",
     "url": "https://en.wikipedia.org/wiki/Hagia_Triada_Sarcophagus",
-    "upvotes": 23,
+    "upvotes": 25,
     "author": "diodorus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30289404"
+  },
+  {
+    "title": "Putting Ideas into Words",
+    "url": "http://paulgraham.com/words.html",
+    "upvotes": 147,
+    "author": "prtkgpt",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=30313438"
+  },
+  {
+    "title": "When Postgres blocks: tips for dealing with locks",
+    "url": "https://www.citusdata.com/blog/2018/02/22/seven-tips-for-dealing-with-postgres-locks/",
+    "upvotes": 10,
+    "author": "saisrirampur",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30316653"
   },
   {
     "title": "On Dumpster Diving",
@@ -108,52 +148,76 @@
     "link": "https://news.ycombinator.com/item?id=30315108"
   },
   {
-    "title": "Putting Ideas into Words",
-    "url": "http://paulgraham.com/words.html",
-    "upvotes": 141,
-    "author": "prtkgpt",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=30313438"
-  },
-  {
-    "title": "Programs that have saved Hacker News 100+ hours by automating repetitive tasks",
-    "url": "https://danielsada.tech/blog/programs-that-have-saved-hn-100hours/",
-    "upvotes": 30,
-    "author": "dshacker",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30315280"
-  },
-  {
     "title": "Little Sound Dj",
     "url": "https://www.littlesounddj.com/lsd/index.php",
-    "upvotes": 41,
+    "upvotes": 43,
     "author": "Tomte",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=30299888"
   },
   {
     "title": "Growing a mango tree from seed – one year time lapse [video]",
     "url": "https://www.youtube.com/watch?v=jh_ukt8g53c",
-    "upvotes": 419,
+    "upvotes": 427,
     "author": "bookofjoe",
-    "comments": 164,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=30312694"
-  },
-  {
-    "title": "A disquisition into the sadly slovenly takeup of 10GBASE-T",
-    "url": "https://www.sprezzatech.com/blog/0009-a-disquisition-into-the-sadly-slovenly-takeup-of-10gbase-t.html",
-    "upvotes": 13,
-    "author": "mastax",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=30315790"
   },
   {
     "title": "GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling",
     "url": "https://www.micahlerner.com/2021/12/28/ghost-fast-and-flexible-user-space-delegation-of-linux-scheduling.html",
-    "upvotes": 14,
+    "upvotes": 18,
     "author": "mlerner",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30315716"
+  },
+  {
+    "title": "A disquisition into the sadly slovenly takeup of 10GBASE-T",
+    "url": "https://www.sprezzatech.com/blog/0009-a-disquisition-into-the-sadly-slovenly-takeup-of-10gbase-t.html",
+    "upvotes": 15,
+    "author": "mastax",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=30315790"
+  },
+  {
+    "title": "Running C unit tests with Pytest",
+    "url": "https://p403n1x87.github.io/running-c-unit-tests-with-pytest.html",
+    "upvotes": 113,
+    "author": "p403n1x87",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=30301880"
+  },
+  {
+    "title": "Delphi Timewarp – 1995 and Delphi’s Mythical Origins",
+    "url": "https://blogs.embarcadero.com/delphi-timewarp-1995-and-delphis-mythical-origins/",
+    "upvotes": 57,
+    "author": "zxspectrum1982",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=30284596"
+  },
+  {
+    "title": "A SHIFT in Perspective",
+    "url": "https://tuxphones.com/the-shift-we-need/",
+    "upvotes": 27,
+    "author": "cunidev",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30313643"
+  },
+  {
+    "title": "Real-Cugan: Real Cascade U-Nets for Anime Image Super Resolution",
+    "url": "https://github.com/bilibili/ailab/blob/main/Real-CUGAN/README_EN.md",
+    "upvotes": 17,
+    "author": "ksec",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30313239"
+  },
+  {
+    "title": "Why federated protocols don't work",
+    "url": "https://signal.org/blog/the-ecosystem-is-moving/",
+    "upvotes": 84,
+    "author": "pcr910303",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=30314454"
   },
   {
     "title": "Webapp for comparing weather forcast providers",
@@ -164,75 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=30315611"
   },
   {
-    "title": "When Postgres blocks: tips for dealing with locks",
-    "url": "https://www.citusdata.com/blog/2018/02/22/seven-tips-for-dealing-with-postgres-locks/",
-    "upvotes": 6,
-    "author": "saisrirampur",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30316653"
-  },
-  {
-    "title": "Running C unit tests with Pytest",
-    "url": "https://p403n1x87.github.io/running-c-unit-tests-with-pytest.html",
-    "upvotes": 109,
-    "author": "p403n1x87",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=30301880"
-  },
-  {
-    "title": "Delphi Timewarp – 1995 and Delphi’s Mythical Origins",
-    "url": "https://blogs.embarcadero.com/delphi-timewarp-1995-and-delphis-mythical-origins/",
-    "upvotes": 54,
-    "author": "zxspectrum1982",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=30284596"
-  },
-  {
-    "title": "Why federated protocols don't work",
-    "url": "https://signal.org/blog/the-ecosystem-is-moving/",
-    "upvotes": 78,
-    "author": "pcr910303",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=30314454"
-  },
-  {
-    "title": "Real-Cugan: Real Cascade U-Nets for Anime Image Super Resolution",
-    "url": "https://github.com/bilibili/ailab/blob/main/Real-CUGAN/README_EN.md",
-    "upvotes": 15,
-    "author": "ksec",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30313239"
-  },
-  {
-    "title": "What Fortran does better than C-like languages",
-    "url": "https://craftofcoding.wordpress.com/2022/02/11/what-fortran-does-better-than-c-like-languages/",
-    "upvotes": 57,
-    "author": "Bostonian",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=30314189"
-  },
-  {
     "title": "Show HN: Opta, a high level abstraction for Infrastructure-as-Code",
     "url": "https://github.com/run-x/opta",
-    "upvotes": 13,
+    "upvotes": 17,
     "author": "serverlessmom",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30303747"
-  },
-  {
-    "title": "A SHIFT in Perspective",
-    "url": "https://tuxphones.com/the-shift-we-need/",
-    "upvotes": 20,
-    "author": "cunidev",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30313643"
-  },
-  {
-    "title": "State of Rhombus",
-    "url": "https://github.com/racket/rhombus-prototype/blob/master/resources/state-of-rhombus.md",
-    "upvotes": 32,
-    "author": "Decabytes",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=30314109"
   }
 ]
