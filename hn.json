@@ -2,63 +2,63 @@
   {
     "title": "I have never read a business plan or balance sheet",
     "url": "https://twitter.com/paulg/status/1492682253612113921",
-    "upvotes": 179,
+    "upvotes": 200,
     "author": "loteck",
-    "comments": 144,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=30318634"
   },
   {
     "title": "FPGA Interchange format to enable interoperable FPGA tooling",
     "url": "https://opensource.googleblog.com/2022/02/FPGA%20Interchange%20format%20to%20enable%20interoperable%20FPGA%20tooling.html",
-    "upvotes": 195,
+    "upvotes": 201,
     "author": "teleforce",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=30317317"
   },
   {
     "title": "Single Pair Ethernet",
     "url": "https://www.digikey.com/en/blog/single-pair-ethernet-spe",
-    "upvotes": 73,
+    "upvotes": 77,
     "author": "Brajeshwar",
-    "comments": 43,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=30318559"
+  },
+  {
+    "title": "Traffic Simulator",
+    "url": "https://traffic-simulation.de/ring.html",
+    "upvotes": 163,
+    "author": "ohjeez",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=30318025"
   },
   {
     "title": "Sci-Hub statistics and database",
     "url": "https://sci-hub.ru/database",
-    "upvotes": 454,
+    "upvotes": 459,
     "author": "NmAmDa",
     "comments": 93,
     "link": "https://news.ycombinator.com/item?id=30314601"
   },
   {
-    "title": "Traffic Simulator",
-    "url": "https://traffic-simulation.de/ring.html",
-    "upvotes": 153,
-    "author": "ohjeez",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=30318025"
-  },
-  {
     "title": "Running macOS in a Virtual Machine on Apple Silicon Macs",
     "url": "https://developer.apple.com/documentation/virtualization/running_macos_in_a_virtual_machine_on_apple_silicon_macs",
-    "upvotes": 196,
+    "upvotes": 201,
     "author": "tambourine_man",
-    "comments": 136,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=30317260"
   },
   {
     "title": "Kimchi: The latest update to Mina’s proof system",
     "url": "https://minaprotocol.com/blog/kimchi-the-latest-update-to-minas-proof-system",
-    "upvotes": 24,
+    "upvotes": 28,
     "author": "baby",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30303903"
   },
   {
     "title": "Still-active phreak numbers, all safe and free",
     "url": "https://stormrider.io/odd-numbers.html",
-    "upvotes": 209,
+    "upvotes": 210,
     "author": "billwear",
     "comments": 67,
     "link": "https://news.ycombinator.com/item?id=30315621"
@@ -66,18 +66,34 @@
   {
     "title": "How to Drop Out",
     "url": "https://ranprieur.com/essays/dropout.html",
-    "upvotes": 48,
+    "upvotes": 54,
     "author": "curmudgeon22",
-    "comments": 10,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30318285"
+  },
+  {
+    "title": "Design and Long-Term Use of a Personal Electronic Notebook: Reflective Analysis",
+    "url": "https://web.archive.org/web/20090831073107/http://www.visi.com/~snowfall/notebook.html",
+    "upvotes": 9,
+    "author": "mangala_murti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30319799"
   },
   {
     "title": "Prosecutor won't charge reporter who uncovered database flaw",
     "url": "https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw",
-    "upvotes": 206,
+    "upvotes": 208,
     "author": "ro_bit",
-    "comments": 77,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=30318208"
+  },
+  {
+    "title": "Compile-Time Sort in D",
+    "url": "https://dlang.org/blog/2017/06/05/compile-time-sort-in-d/",
+    "upvotes": 80,
+    "author": "teleforce",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=30317408"
   },
   {
     "title": "Dino 0.3: Video calls and conferences – encrypted and peer-to-peer",
@@ -88,113 +104,109 @@
     "link": "https://news.ycombinator.com/item?id=30316755"
   },
   {
-    "title": "Compile-Time Sort in D",
-    "url": "https://dlang.org/blog/2017/06/05/compile-time-sort-in-d/",
-    "upvotes": 78,
-    "author": "teleforce",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=30317408"
-  },
-  {
-    "title": "Facebook Pay",
-    "url": "https://pay.facebook.com/",
-    "upvotes": 107,
-    "author": "hillcrestenigma",
-    "comments": 143,
-    "link": "https://news.ycombinator.com/item?id=30318704"
-  },
-  {
-    "title": "HTTP/3: Everything you need to know about the next-generation web protocol",
-    "url": "https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol",
-    "upvotes": 113,
-    "author": "homarp",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=30317218"
-  },
-  {
-    "title": "The Kobayashi Maru of comparing dates with times",
-    "url": "https://zachholman.com/posts/kobayashi-maru-of-comparing-dates-with-times",
-    "upvotes": 106,
-    "author": "holman",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=30315984"
-  },
-  {
     "title": "Weak vs. Strong Memory Models",
     "url": "https://preshing.com/20120930/weak-vs-strong-memory-models/",
-    "upvotes": 12,
+    "upvotes": 15,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30303003"
   },
   {
+    "title": "Facebook Pay",
+    "url": "https://pay.facebook.com/",
+    "upvotes": 111,
+    "author": "hillcrestenigma",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=30318704"
+  },
+  {
+    "title": "The Kobayashi Maru of comparing dates with times",
+    "url": "https://zachholman.com/posts/kobayashi-maru-of-comparing-dates-with-times",
+    "upvotes": 107,
+    "author": "holman",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=30315984"
+  },
+  {
     "title": "Forbidden Emacs Lisp Knowledge: Block Comments",
     "url": "https://emacsninja.com/posts/forbidden-emacs-lisp-knowledge-block-comments.html",
-    "upvotes": 72,
+    "upvotes": 74,
     "author": "hprotagonist",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30317088"
+  },
+  {
+    "title": "HTTP/3: Everything you need to know about the next-generation web protocol",
+    "url": "https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol",
+    "upvotes": 114,
+    "author": "homarp",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=30317218"
   },
   {
     "title": "A 1970s boardgame takes about 1,500 hours to complete",
     "url": "https://www.openculture.com/2022/02/the-fiendishly-complicated-board-game-that-takes-1500-hours-to-play-discover-the-campaign-for-north-africa.html",
     "upvotes": 74,
     "author": "gaws",
-    "comments": 44,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=30314047"
   },
   {
     "title": "Easily handle CLI operation via Python instead of regular Bash programs",
     "url": "https://github.com/CZ-NIC/pz",
-    "upvotes": 170,
+    "upvotes": 172,
     "author": "EntICOnc",
-    "comments": 52,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=30302955"
   },
   {
     "title": "Brainwashing is sorcery",
     "url": "https://www.overcomingbias.com/2022/02/brainwashing-is-sorcery.html",
-    "upvotes": 86,
+    "upvotes": 88,
     "author": "cinquemb",
-    "comments": 76,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=30316739"
   },
   {
     "title": "SikuliX – Automate what you see on a computer monitor",
     "url": "http://sikulix.com",
-    "upvotes": 60,
+    "upvotes": 62,
     "author": "notamy",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30317313"
   },
   {
-    "title": "App can vibrate a single drop of blood to determine how well it clots",
-    "url": "https://www.washington.edu/news/2022/02/11/smartphone-app-vibrate-single-drop-of-blood-determine-how-well-clots/",
-    "upvotes": 44,
-    "author": "geox",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=30301204"
-  },
-  {
     "title": "Scientists create quantum ‘domain walls’ in laboratory",
     "url": "https://news.uchicago.edu/story/uchicago-scientists-create-strange-quantum-domain-walls-laboratory",
-    "upvotes": 3,
+    "upvotes": 4,
     "author": "geox",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30303831"
   },
   {
+    "title": "App can vibrate a single drop of blood to determine how well it clots",
+    "url": "https://www.washington.edu/news/2022/02/11/smartphone-app-vibrate-single-drop-of-blood-determine-how-well-clots/",
+    "upvotes": 46,
+    "author": "geox",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=30301204"
+  },
+  {
     "title": "What we lost",
     "url": "https://randsinrepose.com/archives/what-we-lost/",
-    "upvotes": 116,
+    "upvotes": 120,
     "author": "tylerchr",
-    "comments": 105,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=30318079"
+  },
+  {
+    "title": "Motion",
+    "url": "https://jobs.ashbyhq.com/motion/f421f314-f9d9-4e19-b664-af0067648faf"
   },
   {
     "title": "When Postgres blocks: tips for dealing with locks",
     "url": "https://www.citusdata.com/blog/2018/02/22/seven-tips-for-dealing-with-postgres-locks/",
-    "upvotes": 66,
+    "upvotes": 67,
     "author": "saisrirampur",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=30316653"
@@ -202,9 +214,9 @@
   {
     "title": "CJSON – Ultralightweight JSON parser in ANSI C",
     "url": "https://github.com/DaveGamble/cJSON",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "maydemir",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=30302933"
   },
   {
@@ -216,23 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=30315748"
   },
   {
-    "title": "Motion",
-    "url": "https://jobs.ashbyhq.com/motion/f421f314-f9d9-4e19-b664-af0067648faf"
-  },
-  {
-    "title": "Design and Long-Term Use of a Personal Electronic Notebook: Reflective Analysis",
-    "url": "https://web.archive.org/web/20090831073107/http://www.visi.com/~snowfall/notebook.html",
-    "upvotes": 4,
-    "author": "mangala_murti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30319799"
-  },
-  {
     "title": "Joke written by an AI: “A basic program walked into a bar ”",
     "url": "item?id=30315604",
-    "upvotes": 250,
+    "upvotes": 255,
     "author": "dane-pgp",
-    "comments": 104,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=30315604"
   }
 ]
