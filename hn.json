@@ -1,76 +1,100 @@
 [
   {
+    "title": "White Hat Hacker Awarded $2M for Fixing ETH-Creation Bug",
+    "url": "https://cryptoadventure.com/white-hat-hacker-awarded-2-million-for-fixing-eth-creation-bug/",
+    "upvotes": 22,
+    "author": "cristiandima",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30321347"
+  },
+  {
+    "title": "Just 14 cases: Guinea worm disease nears eradication",
+    "url": "https://www.nature.com/articles/d41586-022-00385-z",
+    "upvotes": 11,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30321133"
+  },
+  {
+    "title": "A Big Week for RISC-V",
+    "url": "https://www.eetimes.com/a-big-week-for-risc-v/",
+    "upvotes": 40,
+    "author": "JoachimS",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=30301551"
+  },
+  {
     "title": "I have never read a business plan or balance sheet",
     "url": "https://twitter.com/paulg/status/1492682253612113921",
-    "upvotes": 309,
+    "upvotes": 321,
     "author": "loteck",
-    "comments": 235,
+    "comments": 241,
     "link": "https://news.ycombinator.com/item?id=30318634"
   },
   {
     "title": "CORS is not meant to secure an API endpoint",
     "url": "https://nikofischer.com/cors-does-not-secure-api-endpoints",
-    "upvotes": 103,
+    "upvotes": 112,
     "author": "Yabasta",
-    "comments": 66,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=30320113"
-  },
-  {
-    "title": "A Big Week for RISC-V",
-    "url": "https://www.eetimes.com/a-big-week-for-risc-v/",
-    "upvotes": 30,
-    "author": "JoachimS",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=30301551"
-  },
-  {
-    "title": "Spongebob-CLI – Watch classic spongebob from the terminal",
-    "url": "https://github.com/trakBan/spongebob-cli",
-    "upvotes": 51,
-    "author": "maydemir",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=30320382"
-  },
-  {
-    "title": "Corrected identification of object about to hit the moon",
-    "url": "https://www.projectpluto.com/temp/correct.htm",
-    "upvotes": 81,
-    "author": "mpitt",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=30320642"
-  },
-  {
-    "title": "The Fall of Roam",
-    "url": "https://every.to/superorganizers/the-fall-of-roam",
-    "upvotes": 5,
-    "author": "ingve",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30321192"
   },
   {
     "title": "Intent to Deprecate and Remove offscreenBuffering",
     "url": "https://groups.google.com/a/chromium.org/g/blink-dev/c/0LWNyj-edsQ",
-    "upvotes": 5,
+    "upvotes": 8,
     "author": "tentacleuno",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30321289"
+  },
+  {
+    "title": "Asus and DD-WRT – don't even think about it",
+    "url": "https://smaller.fish/posts/asus",
+    "upvotes": 14,
+    "author": "smallerfish",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=30321112"
+  },
+  {
+    "title": "The Fall of Roam",
+    "url": "https://every.to/superorganizers/the-fall-of-roam",
+    "upvotes": 14,
+    "author": "ingve",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30321192"
   },
   {
     "title": "GiveCampus",
     "url": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
   },
   {
-    "title": "Asus and DD-WRT – don't even think about it",
-    "url": "https://smaller.fish/posts/asus",
-    "upvotes": 8,
-    "author": "smallerfish",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30321112"
+    "title": "Spongebob-CLI – Watch classic spongebob from the terminal",
+    "url": "https://github.com/trakBan/spongebob-cli",
+    "upvotes": 53,
+    "author": "maydemir",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=30320382"
+  },
+  {
+    "title": "How to Write and Compile Shellcodes in Rust",
+    "url": "https://kerkour.com/shellcode-in-rust/",
+    "upvotes": 6,
+    "author": "sylvain_kerkour",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30321305"
+  },
+  {
+    "title": "Corrected identification of object about to hit the moon",
+    "url": "https://www.projectpluto.com/temp/correct.htm",
+    "upvotes": 86,
+    "author": "mpitt",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=30320642"
   },
   {
     "title": "Simple XMPP command line client",
     "url": "https://holmeinbuch.de/repo/txmppc/file?name=txmppc.c&ci=tip",
-    "upvotes": 25,
+    "upvotes": 28,
     "author": "matthias_hmb",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30320582"
@@ -78,111 +102,95 @@
   {
     "title": "Traffic Simulator",
     "url": "https://traffic-simulation.de/ring.html",
-    "upvotes": 269,
+    "upvotes": 272,
     "author": "ohjeez",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=30318025"
   },
   {
     "title": "FPGA Interchange format to enable interoperable FPGA tooling",
     "url": "https://opensource.googleblog.com/2022/02/FPGA%20Interchange%20format%20to%20enable%20interoperable%20FPGA%20tooling.html",
-    "upvotes": 233,
+    "upvotes": 235,
     "author": "teleforce",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=30317317"
+  },
+  {
+    "title": "SPARKNaCl: A verified, fast re-implementation of TweetNaCl",
+    "url": "https://fosdem.org/2022/schedule/event/ada_sparknacl/",
+    "upvotes": 17,
+    "author": "pjmlp",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30320801"
   },
   {
     "title": "Single Pair Ethernet",
     "url": "https://www.digikey.com/en/blog/single-pair-ethernet-spe",
-    "upvotes": 117,
+    "upvotes": 118,
     "author": "Brajeshwar",
-    "comments": 67,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=30318559"
   },
   {
     "title": "The Most Lavish Mesopotamian Tomb Ever Found Belongs to a Woman",
     "url": "https://www.atlasobscura.com/articles/ur-queen-puabi-mesopotamia-textiles",
-    "upvotes": 45,
+    "upvotes": 47,
     "author": "Brajeshwar",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30320108"
   },
   {
     "title": "Does the human lifespan have a limit?",
     "url": "https://www.nature.com/articles/d41586-022-00070-1",
-    "upvotes": 36,
+    "upvotes": 39,
     "author": "feltsense",
-    "comments": 67,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=30303231"
-  },
-  {
-    "title": "SPARKNaCl: A verified, fast re-implementation of TweetNaCl",
-    "url": "https://fosdem.org/2022/schedule/event/ada_sparknacl/",
-    "upvotes": 13,
-    "author": "pjmlp",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30320801"
   },
   {
     "title": "How to Drop Out",
     "url": "https://ranprieur.com/essays/dropout.html",
-    "upvotes": 114,
+    "upvotes": 118,
     "author": "curmudgeon22",
-    "comments": 29,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=30318285"
   },
   {
     "title": "Running macOS in a Virtual Machine on Apple Silicon Macs",
     "url": "https://developer.apple.com/documentation/virtualization/running_macos_in_a_virtual_machine_on_apple_silicon_macs",
-    "upvotes": 237,
+    "upvotes": 239,
     "author": "tambourine_man",
-    "comments": 156,
+    "comments": 160,
     "link": "https://news.ycombinator.com/item?id=30317260"
   },
   {
     "title": "Liberouter: Towards autonomous neighborhood networking",
     "url": "https://ieeexplore.ieee.org/document/6814739",
-    "upvotes": 29,
+    "upvotes": 31,
     "author": "cunidev",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=30316585"
   },
   {
     "title": "HTTP/3: Everything you need to know about the next-generation web protocol",
     "url": "https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol",
-    "upvotes": 174,
+    "upvotes": 175,
     "author": "homarp",
-    "comments": 124,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=30317218"
   },
   {
     "title": "Kimchi: The latest update to Mina’s proof system",
     "url": "https://minaprotocol.com/blog/kimchi-the-latest-update-to-minas-proof-system",
-    "upvotes": 58,
+    "upvotes": 61,
     "author": "baby",
-    "comments": 16,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30303903"
-  },
-  {
-    "title": "Ask HN: Easiest way to build a CRUD app",
-    "url": "item?id=30320837",
-    "upvotes": 20,
-    "author": "mouzogu",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=30320837"
-  },
-  {
-    "title": "Can Prairie Dogs Talk?",
-    "url": "https://www.nytimes.com/2017/05/12/magazine/can-prairie-dogs-talk.html",
-    "upvotes": 5,
-    "author": "pcl",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30304669"
   },
   {
     "title": "Scientists create quantum ‘domain walls’ in laboratory",
     "url": "https://news.uchicago.edu/story/uchicago-scientists-create-strange-quantum-domain-walls-laboratory",
-    "upvotes": 27,
+    "upvotes": 28,
     "author": "geox",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30303831"
@@ -196,20 +204,12 @@
     "link": "https://news.ycombinator.com/item?id=30317408"
   },
   {
-    "title": "Design and Long-Term Use of a Personal Electronic Notebook: Reflective Analysis",
-    "url": "https://web.archive.org/web/20090831073107/http://www.visi.com/~snowfall/notebook.html",
-    "upvotes": 26,
-    "author": "mangala_murti",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30319799"
-  },
-  {
-    "title": "Weak vs. Strong Memory Models",
-    "url": "https://preshing.com/20120930/weak-vs-strong-memory-models/",
-    "upvotes": 34,
-    "author": "Tomte",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30303003"
+    "title": "Can Prairie Dogs Talk?",
+    "url": "https://www.nytimes.com/2017/05/12/magazine/can-prairie-dogs-talk.html",
+    "upvotes": 6,
+    "author": "pcl",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30304669"
   },
   {
     "title": "Forbidden Emacs Lisp Knowledge: Block Comments",
@@ -220,19 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=30317088"
   },
   {
-    "title": "Prosecutor won't charge reporter who uncovered database flaw",
-    "url": "https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw",
-    "upvotes": 232,
-    "author": "ro_bit",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=30318208"
+    "title": "Weak vs. Strong Memory Models",
+    "url": "https://preshing.com/20120930/weak-vs-strong-memory-models/",
+    "upvotes": 34,
+    "author": "Tomte",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30303003"
   },
   {
-    "title": "Sci-Hub statistics and database",
-    "url": "https://sci-hub.ru/database",
-    "upvotes": 495,
-    "author": "NmAmDa",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=30314601"
+    "title": "Design and Long-Term Use of a Personal Electronic Notebook: Reflective Analysis",
+    "url": "https://web.archive.org/web/20090831073107/http://www.visi.com/~snowfall/notebook.html",
+    "upvotes": 26,
+    "author": "mangala_murti",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30319799"
   }
 ]
