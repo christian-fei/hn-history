@@ -1,48 +1,56 @@
 [
   {
+    "title": "Firefox dev: Encoding override not necessary since most mojibake still legible",
+    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1687635",
+    "upvotes": 43,
+    "author": "serentty",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=30379655"
+  },
+  {
     "title": "The Unreasonable Math of Type 1 Diabetes",
     "url": "https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb?gi=a3b25a4cbeb0",
-    "upvotes": 305,
+    "upvotes": 332,
     "author": "grahar64",
-    "comments": 125,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=30376777"
   },
   {
     "title": "SpaceX’s monstrous, dirt-cheap Starship may transform space travel",
     "url": "https://www.economist.com/science-and-technology/2022/02/19/spacexs-monstrous-dirt-cheap-starship-may-transform-space-travel",
-    "upvotes": 41,
+    "upvotes": 79,
     "author": "axiomdata316",
-    "comments": 29,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=30379271"
   },
   {
     "title": "How much boilerplate code you need to write a ray-tracer?",
     "url": "https://sergeyreznik.github.io/rtcode/index.html",
-    "upvotes": 42,
+    "upvotes": 54,
     "author": "ibobev",
-    "comments": 9,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30378900"
   },
   {
-    "title": "Firefox dev: Encoding override not necessary since most mojibake still legible",
-    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1687635",
-    "upvotes": 18,
-    "author": "serentty",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30379655"
+    "title": "Eric Schmidt plans to give A.I. researchers $125M",
+    "url": "https://www.cnbc.com/2022/02/16/eric-schmidt-plans-to-give-ai-researchers-125-million-.html",
+    "upvotes": 24,
+    "author": "EMM_386",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30379207"
   },
   {
     "title": "Otter.ai has saved reporters hours transcribing interviews. Caveat emptor",
     "url": "https://www.politico.com/news/2022/02/16/my-journey-down-the-rabbit-hole-of-every-journalists-favorite-app-00009216",
-    "upvotes": 128,
+    "upvotes": 141,
     "author": "danso",
-    "comments": 72,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=30377058"
   },
   {
     "title": "Static B-Trees: A data structure for faster binary search",
     "url": "https://en.algorithmica.org/hpc/data-structures/s-tree/",
-    "upvotes": 162,
+    "upvotes": 179,
     "author": "sereja",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30376140"
@@ -50,189 +58,181 @@
   {
     "title": "How to commit murder inside a locked room",
     "url": "https://tedgioia.substack.com/p/how-to-commit-murder-inside-a-locked",
-    "upvotes": 56,
+    "upvotes": 63,
     "author": "hooboy",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=30378165"
   },
   {
-    "title": "S2n-QUIC",
-    "url": "https://github.com/aws/s2n-quic",
-    "upvotes": 48,
-    "author": "jeffbarr",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=30378383"
+    "title": "Transgenic glowing fish invades Brazilian streams",
+    "url": "https://www.science.org/content/article/transgenic-glowing-fish-invades-brazilian-streams",
+    "upvotes": 14,
+    "author": "teepo",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30379434"
   },
   {
-    "title": "Don’t point out something wrong immediately",
-    "url": "https://blog.the-pans.com/wrong/",
-    "upvotes": 53,
-    "author": "uvdn7",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=30356177"
+    "title": "Controlling the nuclear fusion plasma in a tokamak with reinforcement learning",
+    "url": "https://deepmind.com/blog/article/Accelerating-fusion-science-through-learned-plasma-control",
+    "upvotes": 10,
+    "author": "317070",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30379973"
   },
   {
     "title": "Fetch",
     "url": "https://www.ycombinator.com/companies/fetch/jobs/el9UcMd-senior-software-engineer"
   },
   {
+    "title": "Don’t point out something wrong immediately",
+    "url": "https://blog.the-pans.com/wrong/",
+    "upvotes": 65,
+    "author": "uvdn7",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=30356177"
+  },
+  {
+    "title": "S2n-QUIC",
+    "url": "https://github.com/aws/s2n-quic",
+    "upvotes": 53,
+    "author": "jeffbarr",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=30378383"
+  },
+  {
     "title": "Filters to block and remove copycat-websites from DuckDuckGo, Google and other",
     "url": "https://github.com/quenhus/uBlock-Origin-dev-filter",
-    "upvotes": 145,
+    "upvotes": 157,
     "author": "gleb_the_human",
-    "comments": 39,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=30374905"
   },
   {
     "title": "My smart home 2021: A Home Assistant love story",
     "url": "https://jorisroovers.com/posts/my-smart-home-2021",
-    "upvotes": 241,
+    "upvotes": 251,
     "author": "jroovers",
-    "comments": 145,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=30349767"
-  },
-  {
-    "title": "Transgenic glowing fish invades Brazilian streams",
-    "url": "https://www.science.org/content/article/transgenic-glowing-fish-invades-brazilian-streams",
-    "upvotes": 8,
-    "author": "teepo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30379434"
   },
   {
     "title": "A 13-year-old used my artificial nose to diagnose pneumonia",
     "url": "https://blog.benjamin-cabe.com/2022/02/16/how-a-13-year-old-used-my-artificial-nose-to-diagnose-pneumonia",
-    "upvotes": 284,
+    "upvotes": 285,
     "author": "kartben_",
-    "comments": 156,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=30373279"
   },
   {
     "title": "Quordle: Four Wordles in One",
     "url": "https://www.quordle.com/#/",
-    "upvotes": 251,
+    "upvotes": 254,
     "author": "a-bit-of-code",
-    "comments": 99,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=30373342"
   },
   {
     "title": "Who is squatting IPv4 addresses?",
     "url": "https://blog.benjojo.co.uk/post/ip-address-squatting",
-    "upvotes": 261,
+    "upvotes": 265,
     "author": "todsacerdoti",
-    "comments": 161,
+    "comments": 166,
     "link": "https://news.ycombinator.com/item?id=30372741"
-  },
-  {
-    "title": "Launch HN: 1Flow",
-    "url": "https://1flow.app",
-    "upvotes": 63,
-    "author": "fengjiabo2400",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=30375206"
-  },
-  {
-    "title": "Eric Schmidt plans to give A.I. researchers $125M",
-    "url": "https://www.cnbc.com/2022/02/16/eric-schmidt-plans-to-give-ai-researchers-125-million-.html",
-    "upvotes": 8,
-    "author": "EMM_386",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30379207"
-  },
-  {
-    "title": "AWS S3: Sometimes you should press the $100k button",
-    "url": "https://www.cyclic.sh/posts/aws-s3-why-sometimes-you-should-press-the-100k-dollar-button",
-    "upvotes": 332,
-    "author": "korostelevm",
-    "comments": 177,
-    "link": "https://news.ycombinator.com/item?id=30371604"
-  },
-  {
-    "title": "The Internals of PostgreSQL",
-    "url": "https://www.interdb.jp/pg/",
-    "upvotes": 197,
-    "author": "hjnkk",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=30372750"
   },
   {
     "title": "6 months of working at a hypergrowth startup",
     "url": "https://jacobbrazeal.wordpress.com/2022/02/16/lessons-from-6-months-at-a-hypergrowth-startup-100-prs-40-interviews/",
-    "upvotes": 13,
+    "upvotes": 23,
     "author": "tibbar",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30357909"
   },
   {
+    "title": "Launch HN: 1Flow",
+    "url": "https://1flow.app",
+    "upvotes": 64,
+    "author": "fengjiabo2400",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=30375206"
+  },
+  {
+    "title": "Can Slack-mania be cured with systemized discipline?",
+    "url": "https://brandur.org/fragments/slack-mania",
+    "upvotes": 10,
+    "author": "ciprian_craciun",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30356901"
+  },
+  {
+    "title": "AWS S3: Sometimes you should press the $100k button",
+    "url": "https://www.cyclic.sh/posts/aws-s3-why-sometimes-you-should-press-the-100k-dollar-button",
+    "upvotes": 341,
+    "author": "korostelevm",
+    "comments": 183,
+    "link": "https://news.ycombinator.com/item?id=30371604"
+  },
+  {
+    "title": "Go 1.18 RC1 is out",
+    "url": "https://groups.google.com/g/golang-dev/c/O6BdW1-p-TY/m/eioxZHVYEwAJ",
+    "upvotes": 43,
+    "author": "nappy-doo",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30378838"
+  },
+  {
+    "title": "The Internals of PostgreSQL",
+    "url": "https://www.interdb.jp/pg/",
+    "upvotes": 204,
+    "author": "hjnkk",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=30372750"
+  },
+  {
     "title": "Uniting the Linux random-number devices",
     "url": "https://lwn.net/SubscriberLink/884875/58f88e6eb7913686/",
-    "upvotes": 100,
+    "upvotes": 101,
     "author": "h1x",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=30373351"
   },
   {
     "title": "Removing cookie consent requests from Firefox iOS",
     "url": "https://rchaves.app/firefox-ios-without-cookies/",
-    "upvotes": 30,
+    "upvotes": 32,
     "author": "rchaves",
-    "comments": 28,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=30377201"
   },
   {
-    "title": "Go 1.18 RC1 is out",
-    "url": "https://groups.google.com/g/golang-dev/c/O6BdW1-p-TY/m/eioxZHVYEwAJ",
-    "upvotes": 22,
-    "author": "nappy-doo",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30378838"
-  },
-  {
-    "title": "NSA's Backdoor of the PX1000-Cr",
-    "url": "https://www.cryptomuseum.com/crypto/philips/px1000/nsa.htm#stef",
-    "upvotes": 247,
-    "author": "sohkamyung",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=30370637"
+    "title": "LanguageTool – FOSS Style and Grammar Checker for 25 Languages",
+    "url": "https://languagetool.org/",
+    "upvotes": 6,
+    "author": "jka",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30379593"
   },
   {
     "title": "‘Columbo’ shows the benefits of asking just one more thing",
     "url": "https://www.economist.com/culture/2022/02/12/columbo-shows-the-benefits-of-asking-just-one-more-thing",
-    "upvotes": 121,
+    "upvotes": 124,
     "author": "hhs",
-    "comments": 98,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=30362856"
   },
   {
     "title": "WebGL 2.0 Achieves Pervasive Support from All Major Web Browsers",
     "url": "https://www.khronos.org/blog/webgl-2-achieves-pervasive-support-from-all-major-web-browsers",
-    "upvotes": 202,
+    "upvotes": 206,
     "author": "nkjoep",
-    "comments": 90,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=30370852"
   },
   {
     "title": "What are your company's anti-values?",
     "url": "https://willsewell.com/posts/2022-02-15-what-are-your-companys-anti-values.html",
-    "upvotes": 256,
+    "upvotes": 263,
     "author": "willsewell",
-    "comments": 224,
+    "comments": 229,
     "link": "https://news.ycombinator.com/item?id=30354410"
-  },
-  {
-    "title": "Wordle – But for D&D",
-    "url": "https://dndle.app/",
-    "upvotes": 54,
-    "author": "bryanrasmussen",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=30375321"
-  },
-  {
-    "title": "Understanding CPU on AIX Power SMT Systems",
-    "url": "https://ardentperf.com/2016/07/01/understanding-cpu-on-aix-power-smt-systems/",
-    "upvotes": 30,
-    "author": "luu",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30354228"
   }
 ]
