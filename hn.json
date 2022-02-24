@@ -1,58 +1,66 @@
 [
   {
+    "title": "A bug I opened 15 years ago was closed 4 hours ago",
+    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=376855",
+    "upvotes": 29,
+    "author": "bryanrasmussen",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30451962"
+  },
+  {
     "title": "Indian chess sensation, 16, beats world champion Magnus Carlsen",
     "url": "https://www.axios.com/indian-chess-player-praggnanandhaa-16-beats-world-champion-bb300238-b7ec-436a-966b-68e50593a6d7.html",
-    "upvotes": 260,
+    "upvotes": 285,
     "author": "JonathanBuchh",
-    "comments": 71,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=30450026"
   },
   {
     "title": "Nuclear-fusion reactor smashes energy record",
     "url": "https://www.nature.com/articles/d41586-022-00391-1",
-    "upvotes": 67,
+    "upvotes": 78,
     "author": "bryanrasmussen",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=30450941"
   },
   {
+    "title": "A Silly Usecase for WebSockets",
+    "url": "https://www.jakobmaier.at/projects/lamp/",
+    "upvotes": 19,
+    "author": "quintussss",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=30451943"
+  },
+  {
     "title": "NewPipe: A lightweight YouTube experience for Android",
     "url": "https://newpipe.net/",
-    "upvotes": 155,
+    "upvotes": 177,
     "author": "marcodiego",
-    "comments": 82,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=30449570"
   },
   {
     "title": "Estonia, allies to trigger NATO Article 4",
     "url": "https://twitter.com/EstonianGovt/status/1496728085890273284",
-    "upvotes": 179,
+    "upvotes": 243,
     "author": "throwaway5752",
-    "comments": 65,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=30451110"
   },
   {
     "title": "The Future of Tun and Tap VPNs on macOS",
     "url": "https://tunnelblick.net/cTunTapConnections.html",
-    "upvotes": 12,
+    "upvotes": 20,
     "author": "wener",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30451406"
-  },
-  {
-    "title": "What a $500k grant proposal looks like",
-    "url": "https://austinhenley.com/blog/500kgrant.html",
-    "upvotes": 209,
-    "author": "azhenley",
-    "comments": 107,
-    "link": "https://news.ycombinator.com/item?id=30418562"
   },
   {
     "title": "Show HN: Supershields.io – smart, Lua-powered SVG status badges",
     "url": "https://supershields.io",
-    "upvotes": 17,
+    "upvotes": 25,
     "author": "rlonn",
-    "comments": 3,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=30451402"
   },
   {
@@ -60,25 +68,41 @@
     "url": "https://bitmovin.com/careers/"
   },
   {
-    "title": "What made World of Warcraft's environments so compelling?",
-    "url": "https://www.erichgrunewald.com/posts/what-made-world-of-warcrafts-environments-so-compelling/",
-    "upvotes": 134,
-    "author": "erwald",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=30414470"
+    "title": "Enforcement by Software",
+    "url": "https://lemire.me/blog/2022/02/24/enforcement-by-software/",
+    "upvotes": 12,
+    "author": "ibobev",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30451624"
+  },
+  {
+    "title": "What a $500k grant proposal looks like",
+    "url": "https://austinhenley.com/blog/500kgrant.html",
+    "upvotes": 218,
+    "author": "azhenley",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=30418562"
   },
   {
     "title": "Dwarf Fortress Steam Updates – Release Roadmap",
     "url": "https://store.steampowered.com/news/app/975370/view/3099043827445055732",
-    "upvotes": 190,
+    "upvotes": 195,
     "author": "danso",
-    "comments": 29,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=30447186"
+  },
+  {
+    "title": "What made World of Warcraft's environments so compelling?",
+    "url": "https://www.erichgrunewald.com/posts/what-made-world-of-warcrafts-environments-so-compelling/",
+    "upvotes": 141,
+    "author": "erwald",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=30414470"
   },
   {
     "title": "Server Side Rendering at scale",
     "url": "https://engineeringblog.yelp.com/2022/02/server-side-rendering-at-scale.html",
-    "upvotes": 14,
+    "upvotes": 19,
     "author": "epberry",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30444184"
@@ -86,114 +110,122 @@
   {
     "title": "Show HN: I Designed and Built an eBike",
     "url": "https://endless-sphere.com/forums/viewtopic.php?f=6&t=115176&p=1703136#p1703136",
-    "upvotes": 226,
+    "upvotes": 232,
     "author": "gkasev",
-    "comments": 105,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=30446960"
-  },
-  {
-    "title": "The time has come to replace file systems",
-    "url": "https://didgets.substack.com/p/where-did-i-put-that-file",
-    "upvotes": 76,
-    "author": "pabs3",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=30449263"
   },
   {
     "title": "FAA says 5G could impact radio altimeters on most Boeing 737s",
     "url": "https://www.reuters.com/business/aerospace-defense/faa-issues-notice-over-boeing-737s-5g-wireless-interference-2022-02-23/",
-    "upvotes": 287,
+    "upvotes": 297,
     "author": "pseudolus",
-    "comments": 356,
+    "comments": 359,
     "link": "https://news.ycombinator.com/item?id=30444284"
   },
   {
-    "title": "Caloric restriction in humans reveals immunometabolic regulators of health span",
-    "url": "https://www.science.org/doi/10.1126/science.abg7292",
-    "upvotes": 88,
-    "author": "WaitWaitWha",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=30450307"
+    "title": "The time has come to replace file systems",
+    "url": "https://didgets.substack.com/p/where-did-i-put-that-file",
+    "upvotes": 80,
+    "author": "pabs3",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=30449263"
   },
   {
     "title": "Color inconstancy in CIELAB: A red herring?",
     "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/col.22782",
-    "upvotes": 14,
+    "upvotes": 19,
     "author": "bryanrasmussen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30439270"
   },
   {
+    "title": "Desperation-Induced Focus",
+    "url": "https://rkg.blog/desperation-induced-focus.php",
+    "upvotes": 5,
+    "author": "deadcoder0904",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30439930"
+  },
+  {
+    "title": "Caloric restriction in humans reveals immunometabolic regulators of health span",
+    "url": "https://www.science.org/doi/10.1126/science.abg7292",
+    "upvotes": 97,
+    "author": "WaitWaitWha",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=30450307"
+  },
+  {
+    "title": "Cardboard: a scrollable tiling window manager",
+    "url": "https://www.ctrl.blog/entry/cardboardwm.html",
+    "upvotes": 169,
+    "author": "SamWhited",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=30402358"
+  },
+  {
     "title": "Launch HN: Hydra",
     "url": "https://hydras.io/",
-    "upvotes": 296,
+    "upvotes": 297,
     "author": "coatue",
     "comments": 66,
     "link": "https://news.ycombinator.com/item?id=30442718"
   },
   {
-    "title": "Cardboard: a scrollable tiling window manager",
-    "url": "https://www.ctrl.blog/entry/cardboardwm.html",
-    "upvotes": 161,
-    "author": "SamWhited",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=30402358"
-  },
-  {
     "title": "Atomic Habits of Desire",
     "url": "https://read.lukeburgis.com/p/atomic-habits-of-desire",
-    "upvotes": 40,
+    "upvotes": 42,
     "author": "vitabenes",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30439884"
   },
   {
-    "title": "Ledit: Simple, GPU-rendered, no bullshit text editor",
-    "url": "https://github.com/liz3/ledit",
-    "upvotes": 95,
-    "author": "todsacerdoti",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=30447705"
-  },
-  {
     "title": "The Rain System  “contains wildfires within 10 minutes of ignition”",
     "url": "https://www.rain.aero/",
-    "upvotes": 135,
+    "upvotes": 138,
     "author": "jessenichols",
-    "comments": 133,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=30445776"
   },
   {
-    "title": "Enforcement by Software",
-    "url": "https://lemire.me/blog/2022/02/24/enforcement-by-software/",
-    "upvotes": 3,
-    "author": "ibobev",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30451624"
-  },
-  {
-    "title": "Capcom CPS-1 Graphic system study",
-    "url": "https://fabiensanglard.net/cps1_gfx/index.html",
-    "upvotes": 114,
-    "author": "zdw",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=30428237"
+    "title": "Ledit: Simple, GPU-rendered, no bullshit text editor",
+    "url": "https://github.com/liz3/ledit",
+    "upvotes": 99,
+    "author": "todsacerdoti",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=30447705"
   },
   {
     "title": "Show HN: Goopt – Search Engine for a Procedural Simulation of the Web with GPT-3",
     "url": "https://github.com/jokenox/Goopt",
-    "upvotes": 206,
+    "upvotes": 209,
     "author": "joken0x",
     "comments": 107,
     "link": "https://news.ycombinator.com/item?id=30443738"
   },
   {
+    "title": "Capcom CPS-1 Graphic system study",
+    "url": "https://fabiensanglard.net/cps1_gfx/index.html",
+    "upvotes": 115,
+    "author": "zdw",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=30428237"
+  },
+  {
     "title": "Ngrok Alternatives",
     "url": "https://github.com/anderspitman/awesome-tunneling",
-    "upvotes": 178,
+    "upvotes": 184,
     "author": "tosh",
-    "comments": 65,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=30443747"
+  },
+  {
+    "title": "sqlite-utils - CLI & Python utility functions for manipulating SQLite databases",
+    "url": "https://sqlite-utils.datasette.io/en/stable/index.html",
+    "upvotes": 111,
+    "author": "punnerud",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=30446530"
   },
   {
     "title": "Notes on software abstraction",
@@ -202,37 +234,5 @@
     "author": "Ambolia",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30439262"
-  },
-  {
-    "title": "sqlite-utils - CLI & Python utility functions for manipulating SQLite databases",
-    "url": "https://sqlite-utils.datasette.io/en/stable/index.html",
-    "upvotes": 108,
-    "author": "punnerud",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=30446530"
-  },
-  {
-    "title": "",
-    "url": "https://norvig.com/lispy.html",
-    "upvotes": 55,
-    "author": "ivanvas",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30443949"
-  },
-  {
-    "title": "PeerTube: Free software to take back control of your videos",
-    "url": "https://joinpeertube.org/",
-    "upvotes": 317,
-    "author": "pmoriarty",
-    "comments": 146,
-    "link": "https://news.ycombinator.com/item?id=30445497"
-  },
-  {
-    "title": "Carbonating at Home",
-    "url": "http://truetex.com/carbonation.htm",
-    "upvotes": 29,
-    "author": "p1peridine",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=30449046"
   }
 ]
