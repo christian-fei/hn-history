@@ -1,64 +1,72 @@
 [
   {
+    "title": "Don't Use RAR",
+    "url": "https://group.miletic.net/en/blog/2022-02-24-dont-use-rar/",
+    "upvotes": 21,
+    "author": "vedranm",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=30465933"
+  },
+  {
+    "title": "Ink/Stitch",
+    "url": "https://inkstitch.org/",
+    "upvotes": 40,
+    "author": "Tomte",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30465375"
+  },
+  {
     "title": "Show HN: Terminal Based Wikipedia",
     "url": "https://github.com/yashsinghcodes/fetch",
-    "upvotes": 59,
+    "upvotes": 62,
     "author": "darksoul1011",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=30464747"
   },
   {
-    "title": "Ink/Stitch",
-    "url": "https://inkstitch.org/",
-    "upvotes": 23,
-    "author": "Tomte",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30465375"
-  },
-  {
     "title": "Moving the Linux Kernel to Modern C",
     "url": "https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/",
-    "upvotes": 588,
+    "upvotes": 596,
     "author": "chmaynard",
-    "comments": 288,
+    "comments": 289,
     "link": "https://news.ycombinator.com/item?id=30459634"
   },
   {
     "title": "OrioleDB – solving some PostgreSQL wicked problems",
     "url": "https://github.com/orioledb/orioledb",
-    "upvotes": 171,
+    "upvotes": 181,
     "author": "samokhvalov",
-    "comments": 43,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=30462695"
+  },
+  {
+    "title": "Exploring X11 windows and devices and emulating mouse movements and keystrokes",
+    "url": "https://relational-pipes.globalcode.info/v_0/examples-x11-basics.xhtml",
+    "upvotes": 13,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30438676"
   },
   {
     "title": "Gödel's Incompleteness Theorem in Bash",
     "url": "https://lacker.io/math/2022/02/24/godels-incompleteness-in-bash.html",
-    "upvotes": 115,
+    "upvotes": 121,
     "author": "lacker",
-    "comments": 28,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=30460458"
   },
   {
     "title": "PostgreSQL Schema Change Guide",
     "url": "https://gist.github.com/jcoleman/1e6ad1bf8de454c166da94b67537758b",
-    "upvotes": 221,
+    "upvotes": 226,
     "author": "luu",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=30458580"
   },
   {
-    "title": "Going multipath without Multipath TCP",
-    "url": "https://blog.benjojo.co.uk/post/multipath-without-mptcp",
-    "upvotes": 84,
-    "author": "FiloSottile",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=30454014"
-  },
-  {
     "title": "Piet-GPU Progress: Clipping",
     "url": "https://raphlinus.github.io/rust/graphics/gpu/2022/02/24/piet-gpu-clipping.html",
-    "upvotes": 75,
+    "upvotes": 77,
     "author": "raphlinus",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=30462322"
@@ -66,39 +74,39 @@
   {
     "title": "Ukraine calls on hacker underground to defend against Russia",
     "url": "https://www.reuters.com/world/exclusive-ukraine-calls-hacker-underground-defend-against-russia-2022-02-24/",
-    "upvotes": 668,
+    "upvotes": 686,
     "author": "NN88",
-    "comments": 352,
+    "comments": 371,
     "link": "https://news.ycombinator.com/item?id=30462219"
+  },
+  {
+    "title": "Going multipath without Multipath TCP",
+    "url": "https://blog.benjojo.co.uk/post/multipath-without-mptcp",
+    "upvotes": 87,
+    "author": "FiloSottile",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=30454014"
+  },
+  {
+    "title": "Vim – Minimal Setup Explained",
+    "url": "https://www.guckes.net/vim/setup.html",
+    "upvotes": 141,
+    "author": "todsacerdoti",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=30461996"
   },
   {
     "title": "Jless – a command-line JSON viewer",
     "url": "https://jless.io/",
-    "upvotes": 103,
+    "upvotes": 108,
     "author": "vicek22",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=30452162"
   },
   {
-    "title": "Vim – Minimal Setup Explained",
-    "url": "https://www.guckes.net/vim/setup.html",
-    "upvotes": 133,
-    "author": "todsacerdoti",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=30461996"
-  },
-  {
-    "title": "We're choosing Rust, and not Go, C++, or Node.js",
-    "url": "https://symless.com/blog/we-are-choosing-rust-and-heres-why",
-    "upvotes": 3,
-    "author": "lukastyrychtr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30465632"
-  },
-  {
     "title": "Scientists Discover Centuries-Old Arctic Creatures Surviving on Fossils",
     "url": "https://www.vice.com/en/article/qjbwxv/scientists-discover-centuries-old-arctic-creatures-surviving-on-fossils",
-    "upvotes": 41,
+    "upvotes": 44,
     "author": "tomcam",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30438250"
@@ -108,36 +116,44 @@
     "url": "https://questdb.io/careers/senior-backend-engineer-python/"
   },
   {
+    "title": "Patreon blocks Ukrainian volunteers charity account",
+    "url": "https://twitter.com/Patreon/status/1497068371120390144",
+    "upvotes": 29,
+    "author": "evvvvr",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30465654"
+  },
+  {
     "title": "Pangolin desktop environment for Fuchsia and Linux written in Flutter",
     "url": "https://github.com/dahliaOS/pangolin_desktop",
-    "upvotes": 160,
+    "upvotes": 161,
     "author": "kaladin-jasnah",
-    "comments": 87,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=30460120"
   },
   {
     "title": "The Future Is Fungi",
     "url": "https://www.australiangeographic.com.au/topics/science-environment/2022/02/the-future-is-fungi/",
-    "upvotes": 25,
+    "upvotes": 30,
     "author": "sohkamyung",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30451567"
-  },
-  {
-    "title": "Revolving-door Gray code for all 4-vertex graphs [video]",
-    "url": "https://archive.org/details/gray-4-universal",
-    "upvotes": 16,
-    "author": "fs123",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30464291"
   },
   {
     "title": "How to speed up the Rust compiler in 2022",
     "url": "https://nnethercote.github.io/2022/02/25/how-to-speed-up-the-rust-compiler-in-2022.html",
-    "upvotes": 88,
+    "upvotes": 94,
     "author": "nnethercote",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30464050"
+  },
+  {
+    "title": "Revolving-door Gray code for all 4-vertex graphs [video]",
+    "url": "https://archive.org/details/gray-4-universal",
+    "upvotes": 19,
+    "author": "fs123",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30464291"
   },
   {
     "title": "The punk strategy guide to the logical thinking process",
@@ -152,29 +168,29 @@
     "url": "https://punkjazz.org/programming-time/",
     "upvotes": 180,
     "author": "throwaway47292",
-    "comments": 59,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=30457900"
-  },
-  {
-    "title": "World’s first octopus farm stirs ethical debate",
-    "url": "https://www.reuters.com/business/environment/worlds-first-octopus-farm-stirs-ethical-debate-2022-02-23/",
-    "upvotes": 184,
-    "author": "hhs",
-    "comments": 283,
-    "link": "https://news.ycombinator.com/item?id=30461972"
   },
   {
     "title": "Become a better data engineer on a shoestring",
     "url": "https://www.dataengineering.academy/pipeline-data-engineering-academy-blog/learn-data-engineering-on-a-shoestring-free-courses",
-    "upvotes": 128,
+    "upvotes": 131,
     "author": "aratob",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=30457921"
+  },
+  {
+    "title": "World’s first octopus farm stirs ethical debate",
+    "url": "https://www.reuters.com/business/environment/worlds-first-octopus-farm-stirs-ethical-debate-2022-02-23/",
+    "upvotes": 190,
+    "author": "hhs",
+    "comments": 294,
+    "link": "https://news.ycombinator.com/item?id=30461972"
   },
   {
     "title": "Mastering Dyalog APL",
     "url": "https://www.dyalog.com/uploads/documents/MasteringDyalogAPL.pdf",
-    "upvotes": 59,
+    "upvotes": 60,
     "author": "Tomte",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30453919"
@@ -182,7 +198,7 @@
   {
     "title": "Decentralizing Distribution",
     "url": "https://f-droid.org/en/2022/02/05/decentralizing-distribution.html",
-    "upvotes": 103,
+    "upvotes": 105,
     "author": "marcodiego",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=30458679"
@@ -198,23 +214,15 @@
   {
     "title": "Spectral and Algebraic Graph Theory",
     "url": "http://cs-www.cs.yale.edu/homes/spielman/sagt/",
-    "upvotes": 86,
+    "upvotes": 87,
     "author": "okintheory",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30460122"
   },
   {
-    "title": "500-year-old manuscript contains earliest known use of the “F-word”",
-    "url": "https://arstechnica.com/gaming/2020/04/500-year-old-manuscript-contains-earliest-known-use-of-the-f-word/",
-    "upvotes": 13,
-    "author": "Tomte",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=30450473"
-  },
-  {
     "title": "Mastering Metacognition: The What, Why, and How",
     "url": "https://www.activelylearn.com/post/metacognition",
-    "upvotes": 107,
+    "upvotes": 110,
     "author": "Secrethus",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30453145"
@@ -222,17 +230,9 @@
   {
     "title": "Chernobyl power plant captured by Russian forces",
     "url": "https://www.reuters.com/world/europe/chernobyl-power-plant-captured-by-russian-forces-ukrainian-official-2022-02-24/",
-    "upvotes": 552,
+    "upvotes": 556,
     "author": "tosh",
-    "comments": 943,
+    "comments": 957,
     "link": "https://news.ycombinator.com/item?id=30458277"
-  },
-  {
-    "title": "Lithops",
-    "url": "https://en.wikipedia.org/wiki/Lithops",
-    "upvotes": 86,
-    "author": "tonyjstark",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=30451930"
   }
 ]
