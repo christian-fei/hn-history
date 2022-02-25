@@ -2,122 +2,146 @@
   {
     "title": "Moving the Linux Kernel to Modern C",
     "url": "https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/",
-    "upvotes": 457,
+    "upvotes": 463,
     "author": "chmaynard",
-    "comments": 234,
+    "comments": 238,
     "link": "https://news.ycombinator.com/item?id=30459634"
   },
   {
     "title": "Soybean oil affects hypothalamus, causes genetic changes in mice: study",
     "url": "https://www.universityofcalifornia.edu/news/americas-most-widely-consumed-cooking-oil-causes-genetic-changes-brain",
-    "upvotes": 590,
+    "upvotes": 596,
     "author": "whalesalad",
-    "comments": 401,
+    "comments": 404,
     "link": "https://news.ycombinator.com/item?id=30456358"
+  },
+  {
+    "title": "OrioleDB – solving some PostgreSQL wicked problems",
+    "url": "https://github.com/orioledb/orioledb",
+    "upvotes": 42,
+    "author": "samokhvalov",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30462695"
   },
   {
     "title": "PostgreSQL Schema Change Guide",
     "url": "https://gist.github.com/jcoleman/1e6ad1bf8de454c166da94b67537758b",
-    "upvotes": 145,
+    "upvotes": 148,
     "author": "luu",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30458580"
   },
   {
-    "title": "OrioleDB – solving some PostgreSQL wicked problems",
-    "url": "https://github.com/orioledb/orioledb",
-    "upvotes": 34,
-    "author": "samokhvalov",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30462695"
-  },
-  {
-    "title": "Ukraine calls on hacker underground to defend against Russia",
-    "url": "https://www.reuters.com/world/exclusive-ukraine-calls-hacker-underground-defend-against-russia-2022-02-24/",
-    "upvotes": 296,
-    "author": "NN88",
-    "comments": 122,
-    "link": "https://news.ycombinator.com/item?id=30462219"
-  },
-  {
-    "title": "Gödel's Incompleteness Theorem, in Bash",
-    "url": "https://lacker.io/math/2022/02/24/godels-incompleteness-in-bash.html",
-    "upvotes": 13,
-    "author": "lacker",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30460458"
-  },
-  {
-    "title": "Pangolin desktop environment for Fuchsia and Linux written in Flutter",
-    "url": "https://github.com/dahliaOS/pangolin_desktop",
-    "upvotes": 121,
-    "author": "kaladin-jasnah",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=30460120"
-  },
-  {
-    "title": "Vim – Minimal Setup Explained",
-    "url": "https://www.guckes.net/vim/setup.html",
-    "upvotes": 64,
-    "author": "todsacerdoti",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=30461996"
-  },
-  {
-    "title": "Ukraine is a major producer of neon gas, critical for lasers used in chipmaking",
-    "url": "https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24/",
-    "upvotes": 793,
-    "author": "swores",
-    "comments": 326,
-    "link": "https://news.ycombinator.com/item?id=30457490"
-  },
-  {
     "title": "Going multipath without Multipath TCP",
     "url": "https://blog.benjojo.co.uk/post/multipath-without-mptcp",
-    "upvotes": 13,
+    "upvotes": 22,
     "author": "FiloSottile",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30454014"
   },
   {
+    "title": "Ukraine calls on hacker underground to defend against Russia",
+    "url": "https://www.reuters.com/world/exclusive-ukraine-calls-hacker-underground-defend-against-russia-2022-02-24/",
+    "upvotes": 326,
+    "author": "NN88",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=30462219"
+  },
+  {
+    "title": "Vim – Minimal Setup Explained",
+    "url": "https://www.guckes.net/vim/setup.html",
+    "upvotes": 70,
+    "author": "todsacerdoti",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=30461996"
+  },
+  {
+    "title": "Pangolin desktop environment for Fuchsia and Linux written in Flutter",
+    "url": "https://github.com/dahliaOS/pangolin_desktop",
+    "upvotes": 124,
+    "author": "kaladin-jasnah",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=30460120"
+  },
+  {
+    "title": "Ukraine is a major producer of neon gas, critical for lasers used in chipmaking",
+    "url": "https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24/",
+    "upvotes": 797,
+    "author": "swores",
+    "comments": 326,
+    "link": "https://news.ycombinator.com/item?id=30457490"
+  },
+  {
+    "title": "Gödel's Incompleteness Theorem, in Bash",
+    "url": "https://lacker.io/math/2022/02/24/godels-incompleteness-in-bash.html",
+    "upvotes": 15,
+    "author": "lacker",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30460458"
+  },
+  {
     "title": "Custom JavaScript controls can't capture the nuance of form fields",
     "url": "https://drewdevault.com/2021/06/27/You-cant-capture-the-nuance.html",
-    "upvotes": 372,
+    "upvotes": 373,
     "author": "nitsky",
-    "comments": 193,
+    "comments": 195,
     "link": "https://news.ycombinator.com/item?id=30454881"
   },
   {
     "title": "Jless – a command-line JSON viewer",
     "url": "https://jless.io/",
-    "upvotes": 21,
+    "upvotes": 26,
     "author": "vicek22",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30452162"
   },
   {
     "title": "Piet-GPU Progress: Clipping",
     "url": "https://raphlinus.github.io/rust/graphics/gpu/2022/02/24/piet-gpu-clipping.html",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "raphlinus",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30462322"
   },
   {
+    "title": "Show HN: Programming Time - Playing card game to teach your kids Python",
+    "url": "https://punkjazz.org/programming-time/",
+    "upvotes": 146,
+    "author": "throwaway47292",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=30457900"
+  },
+  {
     "title": "World’s first octopus farm stirs ethical debate",
     "url": "https://www.reuters.com/business/environment/worlds-first-octopus-farm-stirs-ethical-debate-2022-02-23/",
-    "upvotes": 125,
+    "upvotes": 128,
     "author": "hhs",
-    "comments": 158,
+    "comments": 168,
     "link": "https://news.ycombinator.com/item?id=30461972"
   },
   {
-    "title": "Show HN: Programming Time - Playing card game to teach your kids Python",
-    "url": "https://punkjazz.org/programming-time/",
-    "upvotes": 143,
-    "author": "throwaway47292",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=30457900"
+    "title": "Graph Theory and Linear Algebra [pdf]",
+    "url": "https://www.math.utah.edu/~gustafso/s2017/2270/projects-2017/dylanJohnson/Dylan%20Johnson%20Graph%20Theory%20and%20Linear%20Algebra.pdf",
+    "upvotes": 211,
+    "author": "sebg",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=30455711"
+  },
+  {
+    "title": "Spectral and Algebraic Graph Theory",
+    "url": "http://cs-www.cs.yale.edu/homes/spielman/sagt/",
+    "upvotes": 63,
+    "author": "okintheory",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30460122"
+  },
+  {
+    "title": "PlanetScale increases plans to include billions of reads",
+    "url": "https://planetscale.com/blog/increasing-planetscale-plan-limits-to-include-billions-of-reads",
+    "upvotes": 119,
+    "author": "synunlimited",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=30457960"
   },
   {
     "title": "In Search of Troy",
@@ -128,63 +152,47 @@
     "link": "https://news.ycombinator.com/item?id=30461701"
   },
   {
-    "title": "Graph Theory and Linear Algebra [pdf]",
-    "url": "https://www.math.utah.edu/~gustafso/s2017/2270/projects-2017/dylanJohnson/Dylan%20Johnson%20Graph%20Theory%20and%20Linear%20Algebra.pdf",
-    "upvotes": 208,
-    "author": "sebg",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=30455711"
-  },
-  {
-    "title": "PlanetScale increases plans to include billions of reads",
-    "url": "https://planetscale.com/blog/increasing-planetscale-plan-limits-to-include-billions-of-reads",
-    "upvotes": 117,
-    "author": "synunlimited",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=30457960"
-  },
-  {
-    "title": "Spectral and Algebraic Graph Theory",
-    "url": "http://cs-www.cs.yale.edu/homes/spielman/sagt/",
-    "upvotes": 60,
-    "author": "okintheory",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30460122"
-  },
-  {
     "title": "Mastering Dyalog APL",
     "url": "https://www.dyalog.com/uploads/documents/MasteringDyalogAPL.pdf",
     "upvotes": 35,
     "author": "Tomte",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30453919"
+  },
+  {
+    "title": "Decentralizing Distribution",
+    "url": "https://f-droid.org/en/2022/02/05/decentralizing-distribution.html",
+    "upvotes": 84,
+    "author": "marcodiego",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=30458679"
   },
   {
     "title": "RocketLit",
     "url": "https://www.innerorbit.com/about/careers/full-stack-developer.php"
   },
   {
-    "title": "Decentralizing Distribution",
-    "url": "https://f-droid.org/en/2022/02/05/decentralizing-distribution.html",
-    "upvotes": 83,
-    "author": "marcodiego",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=30458679"
+    "title": "Scientists Discover Centuries-Old Arctic Creatures Surviving on Fossils",
+    "url": "https://www.vice.com/en/article/qjbwxv/scientists-discover-centuries-old-arctic-creatures-surviving-on-fossils",
+    "upvotes": 4,
+    "author": "tomcam",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30438250"
   },
   {
     "title": "Chernobyl power plant captured by Russian forces",
     "url": "https://www.reuters.com/world/europe/chernobyl-power-plant-captured-by-russian-forces-ukrainian-official-2022-02-24/",
-    "upvotes": 466,
+    "upvotes": 473,
     "author": "tosh",
-    "comments": 714,
+    "comments": 729,
     "link": "https://news.ycombinator.com/item?id=30458277"
   },
   {
     "title": "Become a better data engineer on a shoestring",
     "url": "https://www.dataengineering.academy/pipeline-data-engineering-academy-blog/learn-data-engineering-on-a-shoestring-free-courses",
-    "upvotes": 95,
+    "upvotes": 97,
     "author": "aratob",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30457921"
   },
   {
@@ -192,47 +200,39 @@
     "url": "https://arstechnica.com/science/2022/02/fish-fossils-show-asteroid-that-wiped-out-the-dinosaurs-struck-in-the-spring/",
     "upvotes": 138,
     "author": "thedday",
-    "comments": 70,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=30455870"
+  },
+  {
+    "title": "Lithops",
+    "url": "https://en.wikipedia.org/wiki/Lithops",
+    "upvotes": 69,
+    "author": "tonyjstark",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=30451930"
   },
   {
     "title": "Mastering Metacognition: The What, Why, and How",
     "url": "https://www.activelylearn.com/post/metacognition",
     "upvotes": 80,
     "author": "Secrethus",
-    "comments": 9,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=30453145"
-  },
-  {
-    "title": "Lithops",
-    "url": "https://en.wikipedia.org/wiki/Lithops",
-    "upvotes": 65,
-    "author": "tonyjstark",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=30451930"
   },
   {
     "title": "Launch HN: MutableAI",
     "url": "https://mutable.ai/",
-    "upvotes": 54,
+    "upvotes": 56,
     "author": "oshams",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=30458465"
   },
   {
-    "title": "Here comes the first TikTok war",
-    "url": "https://mikeelgan.substack.com/p/here-comes-the-worlds-first-tiktok",
-    "upvotes": 192,
-    "author": "CrankyBear",
-    "comments": 145,
-    "link": "https://news.ycombinator.com/item?id=30460742"
-  },
-  {
-    "title": "Emulator of Original Dell Charger Using ATTINY85",
-    "url": "https://github.com/KivApple/dell-charger-emulator",
-    "upvotes": 122,
-    "author": "tentacleuno",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=30454796"
+    "title": "Hierarchical Model of Golf Putting",
+    "url": "https://statmodeling.stat.columbia.edu/2022/02/20/hierarchical-model-golf-putting-success/",
+    "upvotes": 8,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30448331"
   }
 ]
