@@ -2,39 +2,39 @@
   {
     "title": "Moving the Linux Kernel to Modern C",
     "url": "https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/",
-    "upvotes": 366,
+    "upvotes": 380,
     "author": "chmaynard",
-    "comments": 185,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=30459634"
   },
   {
     "title": "World’s first octopus farm stirs ethical debate",
     "url": "https://www.reuters.com/business/environment/worlds-first-octopus-farm-stirs-ethical-debate-2022-02-23/",
-    "upvotes": 46,
+    "upvotes": 65,
     "author": "hhs",
-    "comments": 4,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30461972"
   },
   {
     "title": "Soybean oil affects hypothalamus, causes genetic changes in mice: study",
     "url": "https://www.universityofcalifornia.edu/news/americas-most-widely-consumed-cooking-oil-causes-genetic-changes-brain",
-    "upvotes": 562,
+    "upvotes": 569,
     "author": "whalesalad",
-    "comments": 378,
+    "comments": 385,
     "link": "https://news.ycombinator.com/item?id=30456358"
   },
   {
     "title": "PostgreSQL Schema Change Guide",
     "url": "https://gist.github.com/jcoleman/1e6ad1bf8de454c166da94b67537758b",
-    "upvotes": 88,
+    "upvotes": 99,
     "author": "luu",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=30458580"
   },
   {
     "title": "Ukraine is a major producer of neon gas, critical for lasers used in chipmaking",
     "url": "https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24/",
-    "upvotes": 727,
+    "upvotes": 736,
     "author": "swores",
     "comments": 310,
     "link": "https://news.ycombinator.com/item?id=30457490"
@@ -42,15 +42,15 @@
   {
     "title": "Pangolin desktop environment for Fuchsia and Linux written in Flutter",
     "url": "https://github.com/dahliaOS/pangolin_desktop",
-    "upvotes": 71,
+    "upvotes": 77,
     "author": "kaladin-jasnah",
-    "comments": 30,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30460120"
   },
   {
     "title": "Custom JavaScript controls can't capture the nuance of form fields",
     "url": "https://drewdevault.com/2021/06/27/You-cant-capture-the-nuance.html",
-    "upvotes": 347,
+    "upvotes": 351,
     "author": "nitsky",
     "comments": 180,
     "link": "https://news.ycombinator.com/item?id=30454881"
@@ -58,23 +58,31 @@
   {
     "title": "Why does Google still have the “I’m Feeling Lucky” button?",
     "url": "https://reallifemag.com/search-party/",
-    "upvotes": 23,
+    "upvotes": 31,
     "author": "everbody",
-    "comments": 19,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=30461675"
   },
   {
     "title": "Vim – Minimal Setup Explained",
     "url": "https://www.guckes.net/vim/setup.html",
-    "upvotes": 12,
+    "upvotes": 18,
     "author": "todsacerdoti",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30461996"
   },
   {
+    "title": "In Search of Troy",
+    "url": "https://www.smithsonianmag.com/history/in-search-of-troy-180979553/",
+    "upvotes": 15,
+    "author": "furtively",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30461701"
+  },
+  {
     "title": "ElectroVoxel: Electromagnetically Actuated Self-Reconfigurable Robots",
     "url": "https://hcie.csail.mit.edu/research/Electrovoxel/electrovoxel.html",
-    "upvotes": 15,
+    "upvotes": 17,
     "author": "programd",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30456014"
@@ -82,23 +90,15 @@
   {
     "title": "Show HN: Programming Time - Playing card game to teach your kids Python",
     "url": "https://punkjazz.org/programming-time/",
-    "upvotes": 124,
+    "upvotes": 126,
     "author": "throwaway47292",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=30457900"
-  },
-  {
-    "title": "In Search of Troy",
-    "url": "https://www.smithsonianmag.com/history/in-search-of-troy-180979553/",
-    "upvotes": 11,
-    "author": "furtively",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30461701"
   },
   {
     "title": "Mastering Dyalog APL",
     "url": "https://www.dyalog.com/uploads/documents/MasteringDyalogAPL.pdf",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "Tomte",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30453919"
@@ -106,30 +106,70 @@
   {
     "title": "PlanetScale increases plans to include billions of reads",
     "url": "https://planetscale.com/blog/increasing-planetscale-plan-limits-to-include-billions-of-reads",
-    "upvotes": 109,
+    "upvotes": 110,
     "author": "synunlimited",
-    "comments": 48,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=30457960"
+  },
+  {
+    "title": "How Bytebase uses Render – to improve dev workflow",
+    "url": "https://bytebase.com/blog/how-bytebase-uses-render",
+    "upvotes": 7,
+    "author": "bluehuman",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30452662"
   },
   {
     "title": "RocketLit",
     "url": "https://www.innerorbit.com/about/careers/full-stack-developer.php"
   },
   {
+    "title": "Ukraine calls on hacker underground to defend against Russia",
+    "url": "https://www.reuters.com/world/exclusive-ukraine-calls-hacker-underground-defend-against-russia-2022-02-24/",
+    "upvotes": 50,
+    "author": "NN88",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30462219"
+  },
+  {
     "title": "Graph Theory and Linear Algebra [pdf]",
     "url": "https://www.math.utah.edu/~gustafso/s2017/2270/projects-2017/dylanJohnson/Dylan%20Johnson%20Graph%20Theory%20and%20Linear%20Algebra.pdf",
-    "upvotes": 195,
+    "upvotes": 197,
     "author": "sebg",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=30455711"
   },
   {
+    "title": "Things the CSS spec folks got right",
+    "url": "https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/",
+    "upvotes": 46,
+    "author": "feross",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=30460238"
+  },
+  {
+    "title": "Chernobyl power plant captured by Russian forces",
+    "url": "https://www.reuters.com/world/europe/chernobyl-power-plant-captured-by-russian-forces-ukrainian-official-2022-02-24/",
+    "upvotes": 417,
+    "author": "tosh",
+    "comments": 603,
+    "link": "https://news.ycombinator.com/item?id=30458277"
+  },
+  {
     "title": "Here comes the first TikTok war",
     "url": "https://mikeelgan.substack.com/p/here-comes-the-worlds-first-tiktok",
-    "upvotes": 158,
+    "upvotes": 161,
     "author": "CrankyBear",
-    "comments": 124,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=30460742"
+  },
+  {
+    "title": "Decentralizing Distribution",
+    "url": "https://f-droid.org/en/2022/02/05/decentralizing-distribution.html",
+    "upvotes": 62,
+    "author": "marcodiego",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=30458679"
   },
   {
     "title": "Launch HN: MutableAI",
@@ -140,33 +180,9 @@
     "link": "https://news.ycombinator.com/item?id=30458465"
   },
   {
-    "title": "Chernobyl power plant captured by Russian forces",
-    "url": "https://www.reuters.com/world/europe/chernobyl-power-plant-captured-by-russian-forces-ukrainian-official-2022-02-24/",
-    "upvotes": 403,
-    "author": "tosh",
-    "comments": 582,
-    "link": "https://news.ycombinator.com/item?id=30458277"
-  },
-  {
-    "title": "Decentralizing Distribution",
-    "url": "https://f-droid.org/en/2022/02/05/decentralizing-distribution.html",
-    "upvotes": 60,
-    "author": "marcodiego",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=30458679"
-  },
-  {
-    "title": "Things the CSS spec folks got right",
-    "url": "https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/",
-    "upvotes": 42,
-    "author": "feross",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=30460238"
-  },
-  {
     "title": "Spectral and Algebraic Graph Theory",
     "url": "http://cs-www.cs.yale.edu/homes/spielman/sagt/",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "okintheory",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30460122"
@@ -174,65 +190,49 @@
   {
     "title": "Lithops",
     "url": "https://en.wikipedia.org/wiki/Lithops",
-    "upvotes": 44,
+    "upvotes": 48,
     "author": "tonyjstark",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=30451930"
   },
   {
     "title": "An asteroid killed dinosaurs in spring, which might explain why mammals survived",
     "url": "https://arstechnica.com/science/2022/02/fish-fossils-show-asteroid-that-wiped-out-the-dinosaurs-struck-in-the-spring/",
-    "upvotes": 127,
+    "upvotes": 129,
     "author": "thedday",
     "comments": 60,
     "link": "https://news.ycombinator.com/item?id=30455870"
   },
   {
-    "title": "Follow the Data, They Said, and Then Hid It",
-    "url": "https://brownstone.org/articles/follow-the-data-they-said-and-then-hid-it/",
-    "upvotes": 10,
-    "author": "SQL2219",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30461723"
+    "title": "Mastering Metacognition: The What, Why, and How",
+    "url": "https://www.activelylearn.com/post/metacognition",
+    "upvotes": 63,
+    "author": "Secrethus",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=30453145"
   },
   {
     "title": "Become a better data engineer on a shoestring",
     "url": "https://www.dataengineering.academy/pipeline-data-engineering-academy-blog/learn-data-engineering-on-a-shoestring-free-courses",
-    "upvotes": 73,
+    "upvotes": 77,
     "author": "aratob",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30457921"
   },
   {
     "title": "Chuck Klosterman on writing the past and relishing the present",
     "url": "https://conversationswithtyler.com/episodes/chuck-klosterman/",
-    "upvotes": 24,
+    "upvotes": 26,
     "author": "jger15",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30449281"
   },
   {
-    "title": "Mastering Metacognition: The What, Why, and How",
-    "url": "https://www.activelylearn.com/post/metacognition",
-    "upvotes": 57,
-    "author": "Secrethus",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30453145"
-  },
-  {
     "title": "Rails adds support for Fiber-safe ActiveRecord ConnectionPools",
     "url": "https://blog.saeloun.com/2022/02/23/rails-fiber-safe-connection-pools.html",
-    "upvotes": 176,
+    "upvotes": 177,
     "author": "ksec",
     "comments": 97,
     "link": "https://news.ycombinator.com/item?id=30454043"
-  },
-  {
-    "title": "Dive into deep learning compilers",
-    "url": "https://tvm.d2l.ai/",
-    "upvotes": 112,
-    "author": "sebg",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30455990"
   }
 ]
