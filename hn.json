@@ -1,204 +1,220 @@
 [
   {
+    "title": "Learn Rust by writing a small OS",
+    "url": "https://os.phil-opp.com/",
+    "upvotes": 67,
+    "author": "elamje",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30467572"
+  },
+  {
     "title": "Project Oberon",
     "url": "http://www.projectoberon.com",
-    "upvotes": 49,
+    "upvotes": 81,
     "author": "Koshkin",
-    "comments": 7,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30467122"
   },
   {
-    "title": "Disaster Planning for Regular Folks",
-    "url": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
-    "upvotes": 95,
-    "author": "seancolsen",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=30466733"
+    "title": "I Learned French in 12 Months",
+    "url": "https://runwes.com/2020/02/11/howilearnedfrench.html",
+    "upvotes": 37,
+    "author": "elamje",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=30467597"
   },
   {
     "title": "The underground economy of solitary confinement",
     "url": "https://www.themarshallproject.org/2022/02/18/inside-the-underground-economy-of-solitary-confinement",
-    "upvotes": 27,
+    "upvotes": 50,
     "author": "meanie",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=30461708"
-  },
-  {
-    "title": "Ink/Stitch",
-    "url": "https://inkstitch.org/",
-    "upvotes": 92,
-    "author": "Tomte",
     "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=30465375"
+    "link": "https://news.ycombinator.com/item?id=30461708"
   },
   {
     "title": "ARJ Software",
     "url": "http://www.arjsoftware.com/",
-    "upvotes": 26,
+    "upvotes": 35,
     "author": "rdli",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=30466484"
+  },
+  {
+    "title": "Disaster Planning for Regular Folks",
+    "url": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+    "upvotes": 114,
+    "author": "seancolsen",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=30466733"
+  },
+  {
+    "title": "Ink/Stitch",
+    "url": "https://inkstitch.org/",
+    "upvotes": 105,
+    "author": "Tomte",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=30465375"
+  },
+  {
+    "title": "An almost perfect rsync over ssh backup script",
+    "url": "https://blog.zazu.berlin/software/a-almost-perfect-rsync-over-ssh-backup-script.html",
+    "upvotes": 48,
+    "author": "bpasero",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=30465581"
   },
   {
     "title": "Exploring X11 windows and devices and emulating mouse movements and keystrokes",
     "url": "https://relational-pipes.globalcode.info/v_0/examples-x11-basics.xhtml",
-    "upvotes": 55,
+    "upvotes": 62,
     "author": "todsacerdoti",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30438676"
   },
   {
-    "title": "An almost perfect rsync over ssh backup script",
-    "url": "https://blog.zazu.berlin/software/a-almost-perfect-rsync-over-ssh-backup-script.html",
-    "upvotes": 36,
-    "author": "bpasero",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=30465581"
+    "title": "Radiation Spikes in Chernobyl",
+    "url": "https://twitter.com/OAlexanderDK/status/1497156832170815516",
+    "upvotes": 81,
+    "author": "stiray",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=30466684"
   },
   {
     "title": "OrioleDB – solving some PostgreSQL wicked problems",
     "url": "https://github.com/orioledb/orioledb",
-    "upvotes": 230,
+    "upvotes": 239,
     "author": "samokhvalov",
-    "comments": 65,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=30462695"
   },
   {
     "title": "Show HN: Terminal Based Wikipedia",
     "url": "https://github.com/yashsinghcodes/fetch",
-    "upvotes": 97,
+    "upvotes": 103,
     "author": "darksoul1011",
-    "comments": 58,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=30464747"
-  },
-  {
-    "title": "Radiation Spikes in Chernobyl",
-    "url": "https://twitter.com/OAlexanderDK/status/1497156832170815516",
-    "upvotes": 47,
-    "author": "stiray",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=30466684"
-  },
-  {
-    "title": "On the removal of Come Back Alive",
-    "url": "https://blog.patreon.com/on-the-removal-of-come-back-alive",
-    "upvotes": 273,
-    "author": "evvvvr",
-    "comments": 281,
-    "link": "https://news.ycombinator.com/item?id=30465654"
-  },
-  {
-    "title": "Apple Imagines Mac-Inside-a-Keyboard Device Evocative of 80s Home Computers",
-    "url": "https://www.macrumors.com/2022/02/25/apple-explores-mac-inside-keyboard-device/",
-    "upvotes": 35,
-    "author": "tosh",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=30466899"
   },
   {
     "title": "The Quadratic Formula",
     "url": "https://tigyog.app/lessons/d1aswpgezqw6/r/the-quadratic-formula-a-tutorial",
-    "upvotes": 23,
+    "upvotes": 29,
     "author": "jamesfisher",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30453864"
+  },
+  {
+    "title": "Writing about My Job",
+    "url": "https://forum.effectivealtruism.org/posts/pyvybGkGYaFAeNtGi/writing-about-my-job-software-engineer-at-wave",
+    "upvotes": 7,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30449181"
   },
   {
     "title": "Gödel's Incompleteness Theorem in Bash",
     "url": "https://lacker.io/math/2022/02/24/godels-incompleteness-in-bash.html",
-    "upvotes": 144,
+    "upvotes": 150,
     "author": "lacker",
-    "comments": 40,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=30460458"
   },
   {
     "title": "Don't Use RAR",
     "url": "https://group.miletic.net/en/blog/2022-02-24-dont-use-rar/",
-    "upvotes": 138,
+    "upvotes": 151,
     "author": "vedranm",
-    "comments": 142,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=30465933"
+  },
+  {
+    "title": "On the removal of Come Back Alive",
+    "url": "https://blog.patreon.com/on-the-removal-of-come-back-alive",
+    "upvotes": 281,
+    "author": "evvvvr",
+    "comments": 315,
+    "link": "https://news.ycombinator.com/item?id=30465654"
+  },
+  {
+    "title": "Tell HN: YouTube is banning accounts that support Ukraine",
+    "url": "item?id=30467384",
+    "upvotes": 72,
+    "author": "foxfluff",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30467384"
   },
   {
     "title": "The Future Is Fungi",
     "url": "https://www.australiangeographic.com.au/topics/science-environment/2022/02/the-future-is-fungi/",
-    "upvotes": 59,
+    "upvotes": 69,
     "author": "sohkamyung",
-    "comments": 11,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30451567"
   },
   {
     "title": "Jless – a command-line JSON viewer",
     "url": "https://jless.io/",
-    "upvotes": 150,
+    "upvotes": 159,
     "author": "vicek22",
-    "comments": 33,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=30452162"
-  },
-  {
-    "title": "Ukraine calls on hacker underground to defend against Russia",
-    "url": "https://www.reuters.com/world/exclusive-ukraine-calls-hacker-underground-defend-against-russia-2022-02-24/",
-    "upvotes": 845,
-    "author": "NN88",
-    "comments": 460,
-    "link": "https://news.ycombinator.com/item?id=30462219"
   },
   {
     "title": "QuestDB",
     "url": "https://questdb.io/careers/senior-backend-engineer-python/"
   },
   {
+    "title": "Invasion could drive 5M Ukrainians to flee abroad – U.N",
+    "url": "https://www.reuters.com/world/europe/invasion-could-drive-5-million-ukrainians-flee-abroad-un-2022-02-25/",
+    "upvotes": 57,
+    "author": "zx85wes",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=30466448"
+  },
+  {
     "title": "Piet-GPU Progress: Clipping",
     "url": "https://raphlinus.github.io/rust/graphics/gpu/2022/02/24/piet-gpu-clipping.html",
-    "upvotes": 92,
+    "upvotes": 96,
     "author": "raphlinus",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30462322"
   },
   {
-    "title": "Vim – Minimal Setup Explained",
-    "url": "https://www.guckes.net/vim/setup.html",
-    "upvotes": 169,
-    "author": "todsacerdoti",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=30461996"
+    "title": "Ukraine calls on hacker underground to defend against Russia",
+    "url": "https://www.reuters.com/world/exclusive-ukraine-calls-hacker-underground-defend-against-russia-2022-02-24/",
+    "upvotes": 867,
+    "author": "NN88",
+    "comments": 470,
+    "link": "https://news.ycombinator.com/item?id=30462219"
   },
   {
-    "title": "Invasion could drive 5M Ukrainians to flee abroad – U.N",
-    "url": "https://www.reuters.com/world/europe/invasion-could-drive-5-million-ukrainians-flee-abroad-un-2022-02-25/",
-    "upvotes": 35,
-    "author": "zx85wes",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=30466448"
+    "title": "Vim – Minimal Setup Explained",
+    "url": "https://www.guckes.net/vim/setup.html",
+    "upvotes": 179,
+    "author": "todsacerdoti",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=30461996"
   },
   {
     "title": "Belling the Cat",
     "url": "https://en.wikipedia.org/wiki/Belling_the_Cat",
-    "upvotes": 39,
+    "upvotes": 48,
     "author": "tosh",
-    "comments": 9,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30466207"
   },
   {
     "title": "Moving the Linux Kernel to Modern C",
     "url": "https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/",
-    "upvotes": 617,
+    "upvotes": 620,
     "author": "chmaynard",
     "comments": 305,
     "link": "https://news.ycombinator.com/item?id=30459634"
   },
   {
-    "title": "Writing about My Job",
-    "url": "https://forum.effectivealtruism.org/posts/pyvybGkGYaFAeNtGi/writing-about-my-job-software-engineer-at-wave",
-    "upvotes": 3,
-    "author": "luu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30449181"
-  },
-  {
     "title": "Scientists Discover Centuries-Old Arctic Creatures Surviving on Fossils",
     "url": "https://www.vice.com/en/article/qjbwxv/scientists-discover-centuries-old-arctic-creatures-surviving-on-fossils",
-    "upvotes": 53,
+    "upvotes": 55,
     "author": "tomcam",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30438250"
@@ -206,7 +222,7 @@
   {
     "title": "Going multipath without Multipath TCP",
     "url": "https://blog.benjojo.co.uk/post/multipath-without-mptcp",
-    "upvotes": 98,
+    "upvotes": 102,
     "author": "FiloSottile",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=30454014"
@@ -214,25 +230,9 @@
   {
     "title": "How to speed up the Rust compiler in 2022",
     "url": "https://nnethercote.github.io/2022/02/25/how-to-speed-up-the-rust-compiler-in-2022.html",
-    "upvotes": 127,
+    "upvotes": 136,
     "author": "nnethercote",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30464050"
-  },
-  {
-    "title": "The punk strategy guide to the logical thinking process",
-    "url": "https://fortelabs.co/blog/the-punk-strategy-guide-to-the-logical-thinking-process/",
-    "upvotes": 66,
-    "author": "ivanvas",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30457222"
-  },
-  {
-    "title": "Revolving-door Gray code for all 4-vertex graphs [video]",
-    "url": "https://archive.org/details/gray-4-universal",
-    "upvotes": 27,
-    "author": "fs123",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30464291"
   }
 ]
