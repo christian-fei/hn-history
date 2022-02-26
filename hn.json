@@ -2,31 +2,39 @@
   {
     "title": "Make Linux look like Windows 95",
     "url": "https://lunduke.substack.com/p/make-linux-look-exactly-like-windows",
-    "upvotes": 102,
+    "upvotes": 133,
     "author": "iio7",
-    "comments": 47,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=30474690"
   },
   {
     "title": "The claimed effect size is about a zillion times higher than is plausible",
     "url": "https://statmodeling.stat.columbia.edu/2022/02/07/the-claimed-effect-size-is-about-a-zillion-times-higher-than-is-plausible/",
-    "upvotes": 194,
+    "upvotes": 200,
     "author": "luu",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30472947"
   },
   {
     "title": "Detailed simulation of complete minimal cellular life",
     "url": "https://www.cell.com/cell/fulltext/S0092-8674(21)01488-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421014884%3Fshowall%3Dtrue",
-    "upvotes": 63,
+    "upvotes": 70,
     "author": "akimball",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30474256"
+  },
+  {
+    "title": "Zig build system internals",
+    "url": "https://mitchellh.com/zig/build-internals",
+    "upvotes": 51,
+    "author": "kristoff_it",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30470442"
   },
   {
     "title": "Badger 2040 – Fast updating RP2040 based e-Ink badge",
     "url": "https://shop.pimoroni.com/products/badger-2040",
-    "upvotes": 193,
+    "upvotes": 195,
     "author": "whiskers",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=30472268"
@@ -34,111 +42,111 @@
   {
     "title": "Curious lack of sprintf scaling",
     "url": "https://aras-p.info/blog/2022/02/25/Curious-lack-of-sprintf-scaling/",
-    "upvotes": 157,
+    "upvotes": 158,
     "author": "markdog12",
-    "comments": 78,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=30472423"
   },
   {
-    "title": "Zig build system internals",
-    "url": "https://mitchellh.com/zig/build-internals",
-    "upvotes": 43,
-    "author": "kristoff_it",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30470442"
-  },
-  {
-    "title": "The definitive guide that you never wanted: Backpack fabrics",
-    "url": "https://pangolinswithpacks.com/the-definitive-guide-that-you-never-wanted-backpack-fabrics-566aa1567af9?gi=2b7021b17405",
-    "upvotes": 95,
-    "author": "Alupis",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=30473507"
-  },
-  {
-    "title": "A quick breakdown of what SWIFT is and why it matters",
-    "url": "https://twitter.com/sahilbloom/status/1496861068945154056",
-    "upvotes": 446,
-    "author": "tosh",
-    "comments": 402,
-    "link": "https://news.ycombinator.com/item?id=30456026"
-  },
-  {
-    "title": "Perpetual Dickensian Poverty?",
-    "url": "https://www.jefftk.com/p/perpetual-dickensian-poverty",
-    "upvotes": 8,
-    "author": "luu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30471332"
-  },
-  {
-    "title": "Machine Learning with PyTorch and Scikit-Learn – The *New* Python ML Book",
-    "url": "https://sebastianraschka.com/blog/2022/ml-pytorch-book.html",
-    "upvotes": 73,
-    "author": "sbbq",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=30473254"
-  },
-  {
-    "title": "obs-backgroundremoval: An OBS plugin for removing background in portrait video",
+    "title": "OBS Plugin: Background Removal",
     "url": "https://github.com/royshil/obs-backgroundremoval",
-    "upvotes": 7,
+    "upvotes": 19,
     "author": "lnyan",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30475131"
   },
   {
+    "title": "The definitive guide that you never wanted: Backpack fabrics",
+    "url": "https://pangolinswithpacks.com/the-definitive-guide-that-you-never-wanted-backpack-fabrics-566aa1567af9?gi=2b7021b17405",
+    "upvotes": 102,
+    "author": "Alupis",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=30473507"
+  },
+  {
+    "title": "A quick breakdown of what SWIFT is and why it matters",
+    "url": "https://twitter.com/sahilbloom/status/1496861068945154056",
+    "upvotes": 452,
+    "author": "tosh",
+    "comments": 412,
+    "link": "https://news.ycombinator.com/item?id=30456026"
+  },
+  {
     "title": "The chemistry of cold-brew coffee is so hot",
     "url": "https://arstechnica.com/science/2020/04/the-chemistry-of-cold-brew-coffee-is-so-hot-right-now/",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "Tomte",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30452433"
+  },
+  {
+    "title": "Machine Learning with PyTorch and Scikit-Learn",
+    "url": "https://sebastianraschka.com/blog/2022/ml-pytorch-book.html",
+    "upvotes": 75,
+    "author": "sbbq",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=30473254"
+  },
+  {
+    "title": "Perpetual Dickensian Poverty?",
+    "url": "https://www.jefftk.com/p/perpetual-dickensian-poverty",
+    "upvotes": 10,
+    "author": "luu",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30471332"
   },
   {
     "title": "A practical guide to securing Google Workspace for a startup",
     "url": "https://fleetdm.com/handbook/security#google-workspace-security",
-    "upvotes": 219,
+    "upvotes": 223,
     "author": "gepeto42",
-    "comments": 51,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=30469652"
+  },
+  {
+    "title": "Show HN: Cloning a musical instrument from 16 seconds of audio",
+    "url": "https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6",
+    "upvotes": 143,
+    "author": "abdljasser2",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=30467328"
   },
   {
     "title": "DIY Split Flap Display",
     "url": "https://mcuoneclipse.com/2022/01/09/diy-split-flap-display/",
-    "upvotes": 50,
+    "upvotes": 51,
     "author": "cjy",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30472271"
   },
   {
-    "title": "Show HN: Cloning a musical instrument from 16 seconds of audio",
-    "url": "https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6",
-    "upvotes": 137,
-    "author": "abdljasser2",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=30467328"
-  },
-  {
     "title": "PyPI in a Box",
     "url": "https://vuyisile.com/pypi-in-a-box-using-a-raspberry-pi-as-a-portable-pypi-server/",
-    "upvotes": 70,
+    "upvotes": 71,
     "author": "luu",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=30472044"
   },
   {
     "title": "Explain the first 10 lines of Twitter's source code to me",
     "url": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
-    "upvotes": 201,
+    "upvotes": 207,
     "author": "ohjeez",
-    "comments": 252,
+    "comments": 256,
     "link": "https://news.ycombinator.com/item?id=30468793"
+  },
+  {
+    "title": "Software-Refilled TLBs",
+    "url": "https://yarchive.net/comp/software_tlb.html",
+    "upvotes": 6,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30474828"
   },
   {
     "title": "Paranoid SQL Execution on Postgres",
     "url": "https://ardentperf.com/2021/07/06/paranoid-sql-execution-on-postgresql/",
-    "upvotes": 48,
+    "upvotes": 50,
     "author": "luu",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=30447025"
@@ -146,34 +154,34 @@
   {
     "title": "Open-source patient model tops industry standard",
     "url": "https://news.umich.edu/open-source-patient-model-tops-industry-standard/",
-    "upvotes": 17,
+    "upvotes": 21,
     "author": "rbanffy",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30474065"
   },
   {
+    "title": "Ask HN: Any scientifically proven techniques to boost concentration?",
+    "url": "item?id=30473322",
+    "upvotes": 133,
+    "author": "amznbyebyebye",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=30473322"
+  },
+  {
     "title": "How I learned French in 12 months",
     "url": "https://runwes.com/2020/02/11/howilearnedfrench.html",
-    "upvotes": 541,
+    "upvotes": 542,
     "author": "elamje",
-    "comments": 247,
+    "comments": 248,
     "link": "https://news.ycombinator.com/item?id=30467597"
   },
   {
     "title": "Using AI to bring children’s drawings to life",
     "url": "https://ai.facebook.com/blog/using-ai-to-bring-childrens-drawings-to-life/",
-    "upvotes": 97,
+    "upvotes": 101,
     "author": "myth_drannon",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=30469321"
-  },
-  {
-    "title": "Ask HN: Any scientifically proven techniques to boost concentration?",
-    "url": "item?id=30473322",
-    "upvotes": 123,
-    "author": "amznbyebyebye",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=30473322"
   },
   {
     "title": "DevCycle",
@@ -182,9 +190,9 @@
   {
     "title": "Is Grammarly a keylogger? What can you do about it?",
     "url": "https://www.kolide.com/blog/is-grammarly-a-keylogger-what-can-you-do-about-it",
-    "upvotes": 345,
+    "upvotes": 349,
     "author": "terracatta",
-    "comments": 224,
+    "comments": 225,
     "link": "https://news.ycombinator.com/item?id=30470457"
   },
   {
@@ -204,6 +212,14 @@
     "link": "https://news.ycombinator.com/item?id=30468817"
   },
   {
+    "title": "MuZero’s first step from research into the real world",
+    "url": "https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world",
+    "upvotes": 84,
+    "author": "tokyopanda",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=30468546"
+  },
+  {
     "title": "Launch HN: Convoy",
     "url": "https://getconvoy.io",
     "upvotes": 70,
@@ -212,27 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=30469078"
   },
   {
-    "title": "MuZero’s first step from research into the real world",
-    "url": "https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world",
-    "upvotes": 82,
-    "author": "tokyopanda",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=30468546"
-  },
-  {
     "title": "Ask HN: Anyone here have good material for learning how to sketch from scratch?",
     "url": "item?id=30469036",
-    "upvotes": 222,
+    "upvotes": 228,
     "author": "autotune",
-    "comments": 110,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=30469036"
-  },
-  {
-    "title": "“Pajamas from Spirit Land”: Searching for William James",
-    "url": "https://publicdomainreview.org/essay/pajamas-from-spirit-land/",
-    "upvotes": 12,
-    "author": "drdee",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30463956"
   }
 ]
