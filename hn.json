@@ -1,50 +1,58 @@
 [
   {
+    "title": "Germany mulls extending nuclear plants' life-span",
+    "url": "https://www.reuters.com/world/europe/germany-mulls-extending-nuclear-plants-life-span-economy-minister-2022-02-27/",
+    "upvotes": 36,
+    "author": "tosh",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30492770"
+  },
+  {
     "title": "Caltech's CS interview prep course",
     "url": "http://courses.cms.caltech.edu/cs11/material/interviews/",
-    "upvotes": 50,
+    "upvotes": 83,
     "author": "b8",
-    "comments": 24,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=30492262"
   },
   {
     "title": "Win32 is the stable Linux userland ABI",
     "url": "https://sporks.space/2022/02/27/win32-is-the-stable-linux-userland-abi-and-the-consequences/",
-    "upvotes": 176,
+    "upvotes": 186,
     "author": "todsacerdoti",
-    "comments": 108,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=30490570"
+  },
+  {
+    "title": "Open Source Alternatives to Popular SaaS Products",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "upvotes": 25,
+    "author": "caaqil",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30492519"
+  },
+  {
+    "title": "iCloud+ Custom Email Domains should be better",
+    "url": "https://domlaut.com/icloud-custom-email-domains-should-be-better/",
+    "upvotes": 27,
+    "author": "domlaut",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=30491518"
   },
   {
     "title": "Year 2038 problem is still alive and well",
     "url": "https://cookieplmonster.github.io/2022/02/17/year-2038-problem/",
-    "upvotes": 88,
+    "upvotes": 96,
     "author": "protomyth",
-    "comments": 27,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=30490817"
-  },
-  {
-    "title": "Russia mistakenly posted post-war article about Ukraine joining Russia",
-    "url": "https://web.archive.org/web/20220226051154/https://ria.ru/20220226/rossiya-1775162336.html",
-    "upvotes": 78,
-    "author": "warconflict",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30492493"
-  },
-  {
-    "title": "Intel gets worse, but Power11 might get better",
-    "url": "https://www.talospace.com/2022/02/intel-gets-worse-but-power11-might-get.html",
-    "upvotes": 89,
-    "author": "classichasclass",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=30490660"
   },
   {
     "title": "Global chip shortage may soon turn into an oversupply crisis",
     "url": "https://asia.nikkei.com/Opinion/Global-chip-shortage-may-soon-turn-into-an-oversupply-crisis",
-    "upvotes": 228,
+    "upvotes": 235,
     "author": "hhs",
-    "comments": 224,
+    "comments": 228,
     "link": "https://news.ycombinator.com/item?id=30489538"
   },
   {
@@ -52,187 +60,179 @@
     "url": "https://www.easypost.com/careers"
   },
   {
-    "title": "iCloud+ Custom Email Domains should be better",
-    "url": "https://domlaut.com/icloud-custom-email-domains-should-be-better/",
-    "upvotes": 13,
-    "author": "domlaut",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30491518"
-  },
-  {
-    "title": "Arctic Inuit, Native American adaptations to cold and body fat distribution",
-    "url": "https://academic.oup.com/mbe/article/34/4/1021/3065792",
-    "upvotes": 55,
-    "author": "giuliomagnifico",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=30490250"
-  },
-  {
-    "title": "Norway's sovereign wealth fund to vote against Apple management's pay plan",
-    "url": "https://www.reuters.com/technology/norways-sovereign-wealth-fund-vote-against-apple-managements-pay-plan-2022-02-27/",
-    "upvotes": 123,
-    "author": "caaqil",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=30490903"
-  },
-  {
-    "title": "Why not hire part-time developers?",
-    "url": "https://aklos.substack.com/p/why-not-hire-part-time-developers",
-    "upvotes": 114,
-    "author": "prohobo",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=30490563"
-  },
-  {
-    "title": "Show HN: Messages for Macintosh – a classic Mac iMessage client",
-    "url": "https://github.com/CamHenlin/MessagesForMacintosh",
-    "upvotes": 155,
-    "author": "camhenlin",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=30489003"
-  },
-  {
-    "title": "An Interview with Intel CEO Pat Gelsinger",
-    "url": "https://stratechery.com/2022/an-interview-with-intel-ceo-pat-gelsinger/",
-    "upvotes": 93,
-    "author": "oumua_don17",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=30486711"
+    "title": "Intel gets worse, but Power11 might get better",
+    "url": "https://www.talospace.com/2022/02/intel-gets-worse-but-power11-might-get.html",
+    "upvotes": 95,
+    "author": "classichasclass",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=30490660"
   },
   {
     "title": "AWS Lambda adds supports for .NET 6",
     "url": "https://aws.amazon.com/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/",
-    "upvotes": 27,
+    "upvotes": 47,
     "author": "binarynate",
-    "comments": null,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30491278"
+  },
+  {
+    "title": "Arctic Inuit, Native American adaptations to cold and body fat distribution",
+    "url": "https://academic.oup.com/mbe/article/34/4/1021/3065792",
+    "upvotes": 57,
+    "author": "giuliomagnifico",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=30490250"
+  },
+  {
+    "title": "Show HN: Messages for Macintosh – a classic Mac iMessage client",
+    "url": "https://github.com/CamHenlin/MessagesForMacintosh",
+    "upvotes": 156,
+    "author": "camhenlin",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=30489003"
+  },
+  {
+    "title": "Norway's sovereign wealth fund to vote against Apple management's pay plan",
+    "url": "https://www.reuters.com/technology/norways-sovereign-wealth-fund-vote-against-apple-managements-pay-plan-2022-02-27/",
+    "upvotes": 129,
+    "author": "caaqil",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=30490903"
+  },
+  {
+    "title": "An Interview with Intel CEO Pat Gelsinger",
+    "url": "https://stratechery.com/2022/an-interview-with-intel-ceo-pat-gelsinger/",
+    "upvotes": 96,
+    "author": "oumua_don17",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=30486711"
   },
   {
     "title": "BP quits Russia in up to $25B hit after Ukraine invasion",
     "url": "https://www.reuters.com/business/energy/britains-bp-says-exit-stake-russian-oil-giant-rosneft-2022-02-27/",
-    "upvotes": 149,
+    "upvotes": 176,
     "author": "vitabenes",
-    "comments": 70,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=30491179"
+  },
+  {
+    "title": "Why not hire part-time developers?",
+    "url": "https://aklos.substack.com/p/why-not-hire-part-time-developers",
+    "upvotes": 122,
+    "author": "prohobo",
+    "comments": 115,
+    "link": "https://news.ycombinator.com/item?id=30490563"
+  },
+  {
+    "title": "J. Kenji López-Alt says you’re cooking just fine",
+    "url": "https://www.newyorker.com/culture/the-new-yorker-interview/j-kenji-lopez-alt-says-youre-cooking-just-fine",
+    "upvotes": 136,
+    "author": "nkurz",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=30488189"
   },
   {
     "title": "How to make small tweaks to free software",
     "url": "https://gist.github.com/rain-1/799a4af4a9919c14c956272fe971b5d1",
-    "upvotes": 30,
+    "upvotes": 32,
     "author": "todsacerdoti",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=30491286"
   },
   {
-    "title": "J. Kenji López-Alt says you’re cooking just fine",
-    "url": "https://www.newyorker.com/culture/the-new-yorker-interview/j-kenji-lopez-alt-says-youre-cooking-just-fine",
-    "upvotes": 130,
-    "author": "nkurz",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=30488189"
-  },
-  {
-    "title": "Ask HN: Is anyone else genuinely scared that this is the start of WW3?",
-    "url": "item?id=30492487",
-    "upvotes": 16,
-    "author": "azalemeth",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=30492487"
-  },
-  {
-    "title": "Rhodes MK8",
-    "url": "https://rhodesmusic.com/",
-    "upvotes": 27,
-    "author": "brudgers",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=30477845"
-  },
-  {
     "title": "Computer Programming with Nim",
     "url": "https://ssalewski.de/nimprogramming.html",
-    "upvotes": 172,
+    "upvotes": 175,
     "author": "michaelsbradley",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=30487486"
   },
   {
+    "title": "Using Ansible and Nomad for a homelab",
+    "url": "https://blog.aleksic.dev/using-ansible-and-nomad-for-a-homelab-part-1",
+    "upvotes": 128,
+    "author": "nemoniac",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=30488763"
+  },
+  {
+    "title": "Likely that Swiss will freeze Russian assets",
+    "url": "https://www.reuters.com/world/europe/very-probable-that-swiss-will-freeze-russian-assets-president-2022-02-27/",
+    "upvotes": 54,
+    "author": "nikhizzle",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=30492088"
+  },
+  {
+    "title": "Planetary Sapience",
+    "url": "https://www.noemamag.com/planetary-sapience/",
+    "upvotes": 6,
+    "author": "conanxin",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30484675"
+  },
+  {
     "title": "DaVinci's Gallery of Photoshop Graphics and Tutorials",
     "url": "https://web.archive.org/web/20020122110000/http://davinci.ice.org:80/",
-    "upvotes": 6,
+    "upvotes": 7,
     "author": "catpea",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30492366"
   },
   {
+    "title": "Rhodes MK8",
+    "url": "https://rhodesmusic.com/",
+    "upvotes": 29,
+    "author": "brudgers",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=30477845"
+  },
+  {
     "title": "The dark secrets of Whopper Sacrifice",
     "url": "https://www.cnet.com/news/the-dark-secrets-of-whopper-sacrifice/",
-    "upvotes": 10,
+    "upvotes": 11,
     "author": "luu",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30486408"
-  },
-  {
-    "title": "Using Ansible and Nomad for a homelab",
-    "url": "https://blog.aleksic.dev/using-ansible-and-nomad-for-a-homelab-part-1",
-    "upvotes": 124,
-    "author": "nemoniac",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=30488763"
   },
   {
     "title": "A professor who beat roulette",
     "url": "https://thehustle.co/professor-who-beat-roulette/",
     "upvotes": 88,
     "author": "yarapavan",
-    "comments": 61,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=30489022"
   },
   {
     "title": "Using CMOS Sensors in a Cellphone for Gamma Detection and Classification",
     "url": "https://arxiv.org/abs/1401.0766",
-    "upvotes": 21,
+    "upvotes": 22,
     "author": "punnerud",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30491128"
   },
   {
-    "title": "New JSON query operators in SQLite 3.38.0",
-    "url": "https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html",
-    "upvotes": 350,
-    "author": "xtreak29",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=30486052"
-  },
-  {
     "title": "Build your own MENACE",
     "url": "https://www.mscroggs.co.uk/blog/94",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "JNRowe",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30491888"
   },
   {
-    "title": "Brains and algorithms partially converge in natural language processing",
-    "url": "https://www.nature.com/articles/s42003-022-03036-1",
-    "upvotes": 63,
-    "author": "Anon84",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30489081"
+    "title": "Ask HN: Is anyone else genuinely scared that this is the start of WW3?",
+    "url": "item?id=30492487",
+    "upvotes": 83,
+    "author": "azalemeth",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=30492487"
   },
   {
     "title": "Longevity FAQ: A beginner's guide to longevity research",
     "url": "https://www.ldeming.com/longevityfaq",
-    "upvotes": 226,
+    "upvotes": 229,
     "author": "mxschumacher",
-    "comments": 90,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=30486656"
-  },
-  {
-    "title": "Open Source Alternatives to Popular SaaS Products",
-    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
-    "upvotes": 3,
-    "author": "caaqil",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30492519"
   }
 ]
