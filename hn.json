@@ -2,15 +2,15 @@
   {
     "title": "Someone should probably start a bright home lighting company",
     "url": "https://www.lincolnquirk.com/2019/11/26/lumenator.html",
-    "upvotes": 56,
+    "upvotes": 82,
     "author": "luu",
-    "comments": 22,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=30496842"
   },
   {
     "title": "Lambda Calculus in 400 Bytes",
     "url": "https://justine.lol/lambda/",
-    "upvotes": 269,
+    "upvotes": 286,
     "author": "mmphosis",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=30493713"
@@ -18,79 +18,79 @@
   {
     "title": "Using Zig as cross-platform C toolchain",
     "url": "https://ruoyusun.com/2022/02/27/zig-cc.html",
-    "upvotes": 61,
+    "upvotes": 73,
     "author": "insraq",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30488979"
-  },
-  {
-    "title": "Linux from Scratch",
-    "url": "https://linuxfromscratch.org/",
-    "upvotes": 164,
-    "author": "mooreds",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=30496018"
-  },
-  {
-    "title": "The painfully shy developer's guide to networking for a better job",
-    "url": "https://www.samjulien.com/shy-dev-networking/",
-    "upvotes": 218,
-    "author": "mooreds",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=30495342"
-  },
-  {
-    "title": "TorchRec, a library for modern production recommendation systems",
-    "url": "https://pytorch.org/blog/introducing-torchrec/",
-    "upvotes": 35,
-    "author": "tokyopanda",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30496322"
   },
   {
     "title": "The Kalman Filter. Helping Chickens Cross the Road",
     "url": "https://mathvoices.ams.org/featurecolumn/2022/02/01/the-kalman-filter-helping-chickens-cross-the-road/",
-    "upvotes": 16,
+    "upvotes": 28,
     "author": "RafelMri",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30485962"
   },
   {
+    "title": "Linux from Scratch",
+    "url": "https://linuxfromscratch.org/",
+    "upvotes": 176,
+    "author": "mooreds",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=30496018"
+  },
+  {
+    "title": "The painfully shy developer's guide to networking for a better job",
+    "url": "https://www.samjulien.com/shy-dev-networking/",
+    "upvotes": 234,
+    "author": "mooreds",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=30495342"
+  },
+  {
     "title": "Win32 is the stable Linux userland ABI",
     "url": "https://sporks.space/2022/02/27/win32-is-the-stable-linux-userland-abi-and-the-consequences/",
-    "upvotes": 293,
+    "upvotes": 294,
     "author": "todsacerdoti",
     "comments": 182,
     "link": "https://news.ycombinator.com/item?id=30490570"
   },
   {
+    "title": "TorchRec, a library for modern production recommendation systems",
+    "url": "https://pytorch.org/blog/introducing-torchrec/",
+    "upvotes": 37,
+    "author": "tokyopanda",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30496322"
+  },
+  {
     "title": "Milky Way and Andromeda galaxies are already merging",
     "url": "https://earthsky.org/astronomy-essentials/earths-night-sky-milky-way-andromeda-merge/",
-    "upvotes": 97,
+    "upvotes": 100,
     "author": "amichail",
-    "comments": 44,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=30494523"
   },
   {
     "title": "iCloud+ custom email domains should be better",
     "url": "https://domlaut.com/icloud-custom-email-domains-should-be-better/",
-    "upvotes": 178,
+    "upvotes": 181,
     "author": "domlaut",
-    "comments": 103,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=30491518"
   },
   {
     "title": "Hooks: React’s Do-Notation",
     "url": "https://devanshj.me/writings/hooks-reacts-do-notation",
-    "upvotes": 48,
+    "upvotes": 50,
     "author": "graup",
-    "comments": 29,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=30495034"
   },
   {
     "title": "Self Balancing Arduino Robot",
     "url": "https://blog.arduino.cc/2022/02/26/james-brutons-strange-bicycle-robot-self-balances-with-an-omni-wheel/",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "qualudeheart",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30484877"
@@ -98,63 +98,71 @@
   {
     "title": "AWS Lambda adds supports for .NET 6",
     "url": "https://aws.amazon.com/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/",
-    "upvotes": 178,
+    "upvotes": 183,
     "author": "binarynate",
     "comments": 65,
     "link": "https://news.ycombinator.com/item?id=30491278"
   },
   {
+    "title": "Year 2038 problem is still alive and well",
+    "url": "https://cookieplmonster.github.io/2022/02/17/year-2038-problem/",
+    "upvotes": 196,
+    "author": "protomyth",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=30490817"
+  },
+  {
     "title": "Role of ambient humidity underestimated in research",
     "url": "https://www.nature.com/articles/s41598-022-06171-1",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "bryanrasmussen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30486203"
   },
   {
-    "title": "Year 2038 problem is still alive and well",
-    "url": "https://cookieplmonster.github.io/2022/02/17/year-2038-problem/",
-    "upvotes": 194,
-    "author": "protomyth",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=30490817"
-  },
-  {
     "title": "ComiCSS",
     "url": "https://alvaromontoro.com/blog/67998/introducing-comicss",
-    "upvotes": 41,
+    "upvotes": 46,
     "author": "astatine",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30495080"
-  },
-  {
-    "title": "$60 PC Oscilloscope Review",
-    "url": "https://hackaday.com/2022/02/26/60-pc-oscilloscope-review/",
-    "upvotes": 36,
-    "author": "todsacerdoti",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30486556"
-  },
-  {
-    "title": "Why not hire part-time developers?",
-    "url": "https://aklos.substack.com/p/why-not-hire-part-time-developers",
-    "upvotes": 260,
-    "author": "prohobo",
-    "comments": 237,
-    "link": "https://news.ycombinator.com/item?id=30490563"
   },
   {
     "title": "The Making of Tupaia’s Map: A Story of the Extent of Polynesian Navigation",
     "url": "https://www.tandfonline.com/doi/full/10.1080/00223344.2018.1512369",
-    "upvotes": 8,
+    "upvotes": 11,
     "author": "pseudolus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30487595"
   },
   {
+    "title": "Antonovs in America",
+    "url": "https://www.smithsonianmag.com/air-space-magazine/antonovs-in-america-3916822/",
+    "upvotes": 10,
+    "author": "aww_dang",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30487416"
+  },
+  {
+    "title": "$60 PC Oscilloscope Review",
+    "url": "https://hackaday.com/2022/02/26/60-pc-oscilloscope-review/",
+    "upvotes": 38,
+    "author": "todsacerdoti",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=30486556"
+  },
+  {
+    "title": "Why not hire part-time developers?",
+    "url": "https://aklos.substack.com/p/why-not-hire-part-time-developers",
+    "upvotes": 264,
+    "author": "prohobo",
+    "comments": 243,
+    "link": "https://news.ycombinator.com/item?id=30490563"
+  },
+  {
     "title": "Expremigen: Expressive MIDI Generation Library",
     "url": "https://github.com/shimpe/expremigen",
-    "upvotes": 29,
+    "upvotes": 31,
     "author": "pizza",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30485178"
@@ -164,75 +172,67 @@
     "url": "https://www.talospace.com/2022/02/intel-gets-worse-but-power11-might-get.html",
     "upvotes": 150,
     "author": "classichasclass",
-    "comments": 50,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=30490660"
-  },
-  {
-    "title": "Antonovs in America",
-    "url": "https://www.smithsonianmag.com/air-space-magazine/antonovs-in-america-3916822/",
-    "upvotes": 7,
-    "author": "aww_dang",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30487416"
-  },
-  {
-    "title": "Aldus PageMaker",
-    "url": "https://www.computinghistory.org.uk/det/51923/Aldus%20PageMaker%20(version%204.2)/",
-    "upvotes": 33,
-    "author": "jka",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=30487014"
   },
   {
     "title": "Caltech's CS interview prep course",
     "url": "http://courses.cms.caltech.edu/cs11/material/interviews/",
-    "upvotes": 252,
+    "upvotes": 258,
     "author": "b8",
-    "comments": 273,
+    "comments": 274,
     "link": "https://news.ycombinator.com/item?id=30492262"
+  },
+  {
+    "title": "Aldus PageMaker",
+    "url": "https://www.computinghistory.org.uk/det/51923/Aldus%20PageMaker%20(version%204.2)/",
+    "upvotes": 35,
+    "author": "jka",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=30487014"
+  },
+  {
+    "title": "Stuffing Ourselves: The Tyranny of Logistics",
+    "url": "https://www.thedriftmag.com/stuffing-ourselves/",
+    "upvotes": 4,
+    "author": "ripe",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30487364"
+  },
+  {
+    "title": "The dark secrets of Whopper Sacrifice",
+    "url": "https://www.cnet.com/news/the-dark-secrets-of-whopper-sacrifice/",
+    "upvotes": 60,
+    "author": "luu",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30486408"
   },
   {
     "title": "EasyPost",
     "url": "https://www.easypost.com/careers"
   },
   {
-    "title": "The dark secrets of Whopper Sacrifice",
-    "url": "https://www.cnet.com/news/the-dark-secrets-of-whopper-sacrifice/",
-    "upvotes": 59,
-    "author": "luu",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30486408"
-  },
-  {
     "title": "BP quits Russia in up to $25B hit after Ukraine invasion",
     "url": "https://www.reuters.com/business/energy/britains-bp-says-exit-stake-russian-oil-giant-rosneft-2022-02-27/",
-    "upvotes": 419,
+    "upvotes": 429,
     "author": "vitabenes",
-    "comments": 246,
+    "comments": 254,
     "link": "https://news.ycombinator.com/item?id=30491179"
+  },
+  {
+    "title": "Bank of China's Singapore operation stops financing Russian oil trades",
+    "url": "https://www.reuters.com/article/ukraine-crisis-swift-commodities-idCNL4N2V30WC",
+    "upvotes": 13,
+    "author": "awb",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30496860"
   },
   {
     "title": "Arctic Inuit, Native American adaptations to cold and body fat distribution",
     "url": "https://academic.oup.com/mbe/article/34/4/1021/3065792",
     "upvotes": 92,
     "author": "giuliomagnifico",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=30490250"
-  },
-  {
-    "title": "Norway's sovereign wealth fund to vote against Apple management's pay plan",
-    "url": "https://www.reuters.com/technology/norways-sovereign-wealth-fund-vote-against-apple-managements-pay-plan-2022-02-27/",
-    "upvotes": 212,
-    "author": "caaqil",
-    "comments": 144,
-    "link": "https://news.ycombinator.com/item?id=30490903"
-  },
-  {
-    "title": "The Great Curly Brace Trace Chase",
-    "url": "https://web.archive.org/web/20120219061851/http://www.trailing-edge.com/~bobbemer/BRACES.HTM",
-    "upvotes": 34,
-    "author": "hwayne",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=30492876"
   }
 ]
