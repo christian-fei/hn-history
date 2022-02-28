@@ -2,15 +2,15 @@
   {
     "title": "Linux from Scratch",
     "url": "https://linuxfromscratch.org/",
-    "upvotes": 62,
+    "upvotes": 85,
     "author": "mooreds",
-    "comments": 4,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30496018"
   },
   {
     "title": "Lambda Calculus in 400 Bytes",
     "url": "https://justine.lol/lambda/",
-    "upvotes": 212,
+    "upvotes": 220,
     "author": "mmphosis",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30493713"
@@ -18,55 +18,55 @@
   {
     "title": "The painfully shy developer's guide to networking for a better job",
     "url": "https://www.samjulien.com/shy-dev-networking/",
-    "upvotes": 120,
+    "upvotes": 137,
     "author": "mooreds",
-    "comments": 38,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=30495342"
   },
   {
     "title": "Milky Way and Andromeda galaxies are already merging",
     "url": "https://earthsky.org/astronomy-essentials/earths-night-sky-milky-way-andromeda-merge/",
-    "upvotes": 73,
+    "upvotes": 80,
     "author": "amichail",
-    "comments": 34,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30494523"
   },
   {
     "title": "Win32 is the stable Linux userland ABI",
     "url": "https://sporks.space/2022/02/27/win32-is-the-stable-linux-userland-abi-and-the-consequences/",
-    "upvotes": 268,
+    "upvotes": 272,
     "author": "todsacerdoti",
-    "comments": 177,
+    "comments": 178,
     "link": "https://news.ycombinator.com/item?id=30490570"
   },
   {
     "title": "iCloud+ custom email domains should be better",
     "url": "https://domlaut.com/icloud-custom-email-domains-should-be-better/",
-    "upvotes": 162,
+    "upvotes": 163,
     "author": "domlaut",
     "comments": 93,
     "link": "https://news.ycombinator.com/item?id=30491518"
   },
   {
-    "title": "I enforced the AGPL on my code",
-    "url": "https://raymii.org/s/blog/I_enforced_the_AGPL_on_my_code_heres_how_it_went.html",
-    "upvotes": 55,
-    "author": "pabs3",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=30494456"
-  },
-  {
     "title": "Self Balancing Arduino Robot",
     "url": "https://blog.arduino.cc/2022/02/26/james-brutons-strange-bicycle-robot-self-balances-with-an-omni-wheel/",
-    "upvotes": 12,
+    "upvotes": 14,
     "author": "qualudeheart",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30484877"
+  },
+  {
+    "title": "Hooks: React’s Do-Notation",
+    "url": "https://devanshj.me/writings/hooks-reacts-do-notation",
+    "upvotes": 28,
+    "author": "graup",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=30495034"
   },
   {
     "title": "AWS Lambda adds supports for .NET 6",
     "url": "https://aws.amazon.com/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/",
-    "upvotes": 164,
+    "upvotes": 165,
     "author": "binarynate",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=30491278"
@@ -74,55 +74,39 @@
   {
     "title": "ComiCSS",
     "url": "https://alvaromontoro.com/blog/67998/introducing-comicss",
-    "upvotes": 26,
+    "upvotes": 30,
     "author": "astatine",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30495080"
   },
   {
+    "title": "Year 2038 problem is still alive and well",
+    "url": "https://cookieplmonster.github.io/2022/02/17/year-2038-problem/",
+    "upvotes": 176,
+    "author": "protomyth",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=30490817"
+  },
+  {
     "title": "Expremigen: Expressive MIDI Generation Library",
     "url": "https://github.com/shimpe/expremigen",
-    "upvotes": 22,
+    "upvotes": 23,
     "author": "pizza",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30485178"
   },
   {
-    "title": "Year 2038 problem is still alive and well",
-    "url": "https://cookieplmonster.github.io/2022/02/17/year-2038-problem/",
-    "upvotes": 173,
-    "author": "protomyth",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=30490817"
-  },
-  {
-    "title": "Hooks: React’s Do-Notation",
-    "url": "https://devanshj.me/writings/hooks-reacts-do-notation",
-    "upvotes": 22,
-    "author": "graup",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=30495034"
-  },
-  {
     "title": "Why not hire part-time developers?",
     "url": "https://aklos.substack.com/p/why-not-hire-part-time-developers",
-    "upvotes": 238,
+    "upvotes": 240,
     "author": "prohobo",
-    "comments": 225,
+    "comments": 228,
     "link": "https://news.ycombinator.com/item?id=30490563"
-  },
-  {
-    "title": "Aldus PageMaker",
-    "url": "https://www.computinghistory.org.uk/det/51923/Aldus%20PageMaker%20(version%204.2)/",
-    "upvotes": 29,
-    "author": "jka",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=30487014"
   },
   {
     "title": "Intel gets worse, but Power11 might get better",
     "url": "https://www.talospace.com/2022/02/intel-gets-worse-but-power11-might-get.html",
-    "upvotes": 139,
+    "upvotes": 141,
     "author": "classichasclass",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=30490660"
@@ -130,15 +114,31 @@
   {
     "title": "Show HN: Messages for Macintosh – a classic Mac iMessage client",
     "url": "https://github.com/CamHenlin/MessagesForMacintosh",
-    "upvotes": 190,
+    "upvotes": 191,
     "author": "camhenlin",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=30489003"
   },
   {
+    "title": "Aldus PageMaker",
+    "url": "https://www.computinghistory.org.uk/det/51923/Aldus%20PageMaker%20(version%204.2)/",
+    "upvotes": 29,
+    "author": "jka",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=30487014"
+  },
+  {
+    "title": "TorchRec, a library for modern production recommendation systems",
+    "url": "https://pytorch.org/blog/introducing-torchrec/",
+    "upvotes": 4,
+    "author": "tokyopanda",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30496322"
+  },
+  {
     "title": "An Interview with Intel CEO Pat Gelsinger",
     "url": "https://stratechery.com/2022/an-interview-with-intel-ceo-pat-gelsinger/",
-    "upvotes": 133,
+    "upvotes": 134,
     "author": "oumua_don17",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=30486711"
@@ -154,30 +154,54 @@
   {
     "title": "Caltech's CS interview prep course",
     "url": "http://courses.cms.caltech.edu/cs11/material/interviews/",
-    "upvotes": 228,
+    "upvotes": 230,
     "author": "b8",
-    "comments": 250,
+    "comments": 253,
     "link": "https://news.ycombinator.com/item?id=30492262"
+  },
+  {
+    "title": "BP quits Russia in up to $25B hit after Ukraine invasion",
+    "url": "https://www.reuters.com/business/energy/britains-bp-says-exit-stake-russian-oil-giant-rosneft-2022-02-27/",
+    "upvotes": 382,
+    "author": "vitabenes",
+    "comments": 215,
+    "link": "https://news.ycombinator.com/item?id=30491179"
   },
   {
     "title": "EasyPost",
     "url": "https://www.easypost.com/careers"
   },
   {
-    "title": "BP quits Russia in up to $25B hit after Ukraine invasion",
-    "url": "https://www.reuters.com/business/energy/britains-bp-says-exit-stake-russian-oil-giant-rosneft-2022-02-27/",
-    "upvotes": 376,
-    "author": "vitabenes",
-    "comments": 211,
-    "link": "https://news.ycombinator.com/item?id=30491179"
-  },
-  {
     "title": "Arctic Inuit, Native American adaptations to cold and body fat distribution",
     "url": "https://academic.oup.com/mbe/article/34/4/1021/3065792",
-    "upvotes": 84,
+    "upvotes": 87,
     "author": "giuliomagnifico",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=30490250"
+  },
+  {
+    "title": "Acoustic vs. Electric Mandolin",
+    "url": "https://www.jefftk.com/p/acoustic-vs-electric-mandolin",
+    "upvotes": 18,
+    "author": "luu",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30484085"
+  },
+  {
+    "title": "Global chip shortage may soon turn into an oversupply crisis",
+    "url": "https://asia.nikkei.com/Opinion/Global-chip-shortage-may-soon-turn-into-an-oversupply-crisis",
+    "upvotes": 298,
+    "author": "hhs",
+    "comments": 313,
+    "link": "https://news.ycombinator.com/item?id=30489538"
+  },
+  {
+    "title": "Norway's sovereign wealth fund to vote against Apple management's pay plan",
+    "url": "https://www.reuters.com/technology/norways-sovereign-wealth-fund-vote-against-apple-managements-pay-plan-2022-02-27/",
+    "upvotes": 201,
+    "author": "caaqil",
+    "comments": 127,
+    "link": "https://news.ycombinator.com/item?id=30490903"
   },
   {
     "title": "The Great Curly Brace Trace Chase",
@@ -188,49 +212,25 @@
     "link": "https://news.ycombinator.com/item?id=30492876"
   },
   {
-    "title": "Acoustic vs. Electric Mandolin",
-    "url": "https://www.jefftk.com/p/acoustic-vs-electric-mandolin",
-    "upvotes": 17,
-    "author": "luu",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30484085"
-  },
-  {
-    "title": "Norway's sovereign wealth fund to vote against Apple management's pay plan",
-    "url": "https://www.reuters.com/technology/norways-sovereign-wealth-fund-vote-against-apple-managements-pay-plan-2022-02-27/",
-    "upvotes": 196,
+    "title": "Open source alternatives to popular SaaS products",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "upvotes": 219,
     "author": "caaqil",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=30490903"
-  },
-  {
-    "title": "Global chip shortage may soon turn into an oversupply crisis",
-    "url": "https://asia.nikkei.com/Opinion/Global-chip-shortage-may-soon-turn-into-an-oversupply-crisis",
-    "upvotes": 294,
-    "author": "hhs",
-    "comments": 310,
-    "link": "https://news.ycombinator.com/item?id=30489538"
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=30492519"
   },
   {
     "title": "Longbet: By 2027, software will be metered/sold by the second",
     "url": "https://longbets.org/884/",
     "upvotes": 58,
     "author": "collegeburner",
-    "comments": 90,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=30493348"
-  },
-  {
-    "title": "Open source alternatives to popular SaaS products",
-    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
-    "upvotes": 216,
-    "author": "caaqil",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=30492519"
   },
   {
     "title": "Metaphysics of Mapping Buildings",
     "url": "https://snufk.in/blog/mapping-buildings.html",
-    "upvotes": 35,
+    "upvotes": 37,
     "author": "sn_fk_n",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30487654"
