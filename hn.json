@@ -2,39 +2,51 @@
   {
     "title": "Mozilla Hubs",
     "url": "https://hubs.mozilla.com/",
-    "upvotes": 93,
+    "upvotes": 118,
     "author": "amar-laksh",
-    "comments": 67,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=30515097"
   },
   {
     "title": "GNU Taler: An anonymous, taxable payment system using modern cryptography",
     "url": "https://docs.taler.net/",
-    "upvotes": 157,
+    "upvotes": 181,
     "author": "harporoeder",
-    "comments": 43,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=30514122"
+  },
+  {
+    "title": "Mojang to Require a Microsoft Account to Play Minecraft",
+    "url": "https://www.minecraft.net/en-us/article/java-edition-moving-house",
+    "upvotes": 55,
+    "author": "i13e",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=30515742"
   },
   {
     "title": "Ask HN: Who is hiring?",
     "url": "item?id=30515750",
-    "upvotes": 34,
+    "upvotes": 57,
     "author": "whoishiring",
-    "comments": 103,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=30515750"
   },
   {
     "title": "RISC-V is succeeding",
     "url": "https://semiengineering.com/why-risc-v-is-succeeding/",
-    "upvotes": 51,
+    "upvotes": 71,
     "author": "PaulHoule",
-    "comments": 26,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=30515014"
+  },
+  {
+    "title": "Emerge Tools",
+    "url": "https://www.workatastartup.com/jobs/47879"
   },
   {
     "title": "Potato farmers conquer a devastating worm–with paper made from bananas",
     "url": "https://www.science.org/content/article/potato-farmers-conquer-devastating-worm-paper-made-bananas",
-    "upvotes": 32,
+    "upvotes": 45,
     "author": "rbanffy",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30515201"
@@ -42,91 +54,95 @@
   {
     "title": "Flow Browser: Flow makes HTML faster",
     "url": "https://www.ekioh.com/flow-browser/",
-    "upvotes": 41,
+    "upvotes": 50,
     "author": "ksec",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30514757"
-  },
-  {
-    "title": "Mojang to Require a Microsoft Account to Play Minecraft",
-    "url": "https://www.minecraft.net/en-us/article/java-edition-moving-house",
-    "upvotes": 19,
-    "author": "i13e",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=30515742"
-  },
-  {
-    "title": "How much do founders pay themselves? A European data set",
-    "url": "https://sifted.eu/articles/startup-founders-salary/",
-    "upvotes": 72,
-    "author": "vinnyglennon",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=30514209"
   },
   {
     "title": "David Boggs has died",
     "url": "https://www.nytimes.com/2022/02/28/technology/david-boggs-dead.html",
-    "upvotes": 43,
+    "upvotes": 58,
     "author": "rbanffy",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30513041"
   },
   {
     "title": "MDN Web Docs Redesign",
     "url": "https://developer.mozilla.org/en-US/",
-    "upvotes": 21,
+    "upvotes": 37,
     "author": "0xedb",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30515253"
-  },
-  {
-    "title": "Things you don't need JavaScript for",
-    "url": "https://lexoral.com/blog/you-dont-need-js/",
-    "upvotes": 177,
-    "author": "StevenWaterman",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=30512512"
   },
   {
     "title": "Launch HN: GrowthBook",
     "url": "https://www.growthbook.io/",
-    "upvotes": 10,
+    "upvotes": 16,
     "author": "combat_wombat",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30515940"
   },
   {
+    "title": "How much do founders pay themselves? A European data set",
+    "url": "https://sifted.eu/articles/startup-founders-salary/",
+    "upvotes": 82,
+    "author": "vinnyglennon",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=30514209"
+  },
+  {
+    "title": "Things you don't need JavaScript for",
+    "url": "https://lexoral.com/blog/you-dont-need-js/",
+    "upvotes": 194,
+    "author": "StevenWaterman",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=30512512"
+  },
+  {
+    "title": "Debugging with GDB",
+    "url": "https://felix-knorr.net/blog/using_gdb_directly.html",
+    "upvotes": 16,
+    "author": "MarcellusDrum",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30512302"
+  },
+  {
     "title": "Ericsson workers were kidnapped when telco sent them to negotiate with ISIS",
     "url": "https://www.datacenterdynamics.com/en/news/ericsson-workers-were-kidnapped-when-telco-sent-them-to-negotiate-with-isis/",
-    "upvotes": 101,
+    "upvotes": 121,
     "author": "titoCA321",
-    "comments": 29,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=30514944"
   },
   {
     "title": "Req – An HTTP Scripting Language",
     "url": "https://andrewpillar.com/programming/2022/02/26/req-an-http-scripting-language/",
-    "upvotes": 24,
+    "upvotes": 29,
     "author": "elvis70",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30488030"
-  },
-  {
-    "title": "Fly.io",
-    "url": "https://fly.io/blog/fly-io-is-hiring-laravel-specialists/"
   },
   {
     "title": "Show HN: Prig – like AWK, but uses Go for “scripting”",
     "url": "https://benhoyt.com/writings/prig/?showhn",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "benhoyt",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30498735"
   },
   {
+    "title": "A new year, a new MDN",
+    "url": "https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/",
+    "upvotes": 140,
+    "author": "Vilkku",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=30514280"
+  },
+  {
     "title": "Launch HN: Onboard",
     "url": "https://onboard.io/",
-    "upvotes": 14,
+    "upvotes": 17,
     "author": "jeffepp",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30514190"
@@ -134,105 +150,89 @@
   {
     "title": "Understanding Higher-Kinded Types",
     "url": "https://danso.ca/blog/higher-kinded-types/",
-    "upvotes": 14,
+    "upvotes": 15,
     "author": "dan-so",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30515286"
   },
   {
-    "title": "A new year, a new MDN",
-    "url": "https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/",
-    "upvotes": 120,
-    "author": "Vilkku",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=30514280"
-  },
-  {
     "title": "Privacy in email communication: we should use encryption by default",
     "url": "https://notes.nicfab.it/en/posts/privacycom/",
-    "upvotes": 109,
+    "upvotes": 113,
     "author": "nicfab",
-    "comments": 86,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=30512491"
   },
   {
     "title": "How to talk to your boss about open source",
     "url": "https://opensource.org/how-to-talk-to-your-boss-about-open-source",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "TangerineDream",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=30514234"
-  },
-  {
-    "title": "Debugging with GDB",
-    "url": "https://felix-knorr.net/blog/using_gdb_directly.html",
-    "upvotes": 8,
-    "author": "MarcellusDrum",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30512302"
-  },
-  {
-    "title": "Welsh Enough: A blend of fatalism and hope in 20th century Wales",
-    "url": "https://www.historytoday.com/archive/review/welsh-enough",
-    "upvotes": 15,
-    "author": "Thevet",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30500574"
   },
   {
     "title": "OpenSSH 8.9",
     "url": "https://www.openssh.com/txt/release-8.9",
-    "upvotes": 54,
+    "upvotes": 57,
     "author": "throw0101a",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30513246"
   },
   {
-    "title": "Less secure apps and your Google Account",
-    "url": "https://support.google.com/accounts/answer/6010255?hl=en",
-    "upvotes": 145,
-    "author": "jerryzh",
-    "comments": 161,
-    "link": "https://news.ycombinator.com/item?id=30513825"
+    "title": "Forty-One False Starts",
+    "url": "https://www.newyorker.com/magazine/1994/07/11/forty-one-false-starts",
+    "upvotes": 9,
+    "author": "Caiero",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30510192"
   },
   {
-    "title": "Compare Tech Salaries Instantly: Introducing the VanHack Tech Salary Calculator",
-    "url": "https://blog.vanhack.com/blog/compare-tech-salaries-instantly-introducing-the-vanhack-tech-salary-calculator/",
-    "upvotes": 21,
-    "author": "mayyvan",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=30515554"
+    "title": "Welsh Enough: A blend of fatalism and hope in 20th century Wales",
+    "url": "https://www.historytoday.com/archive/review/welsh-enough",
+    "upvotes": 16,
+    "author": "Thevet",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30500574"
   },
   {
     "title": "Solid.js feels like what I always wanted React to be",
     "url": "https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/",
-    "upvotes": 465,
+    "upvotes": 472,
     "author": "jamghee",
-    "comments": 332,
+    "comments": 339,
     "link": "https://news.ycombinator.com/item?id=30508524"
+  },
+  {
+    "title": "Less secure apps and your Google Account",
+    "url": "https://support.google.com/accounts/answer/6010255?hl=en",
+    "upvotes": 147,
+    "author": "jerryzh",
+    "comments": 175,
+    "link": "https://news.ycombinator.com/item?id=30513825"
   },
   {
     "title": "MySQL Docker Image for Mac ARM M1",
     "url": "https://www.emmanuelgautier.com/blog/mysql-docker-arm-m1",
-    "upvotes": 7,
+    "upvotes": 11,
     "author": "emmanuelgautier",
-    "comments": 3,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30515412"
   },
   {
     "title": "The Olivetti Programma 101",
     "url": "http://www.curtamania.com/curta/database/brand/olivetti/Olivetti%20Programma%20101/index.html",
-    "upvotes": 25,
+    "upvotes": 29,
     "author": "michaelpinto",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30508047"
   },
   {
-    "title": "When is OAuth2 and Open ID Connect Useful?",
-    "url": "https://www.ory.dev/oauth2-openid-connect-do-you-need-use-cases-examples/",
-    "upvotes": 61,
-    "author": "claystraw",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=30514560"
+    "title": "BLAS-level CPU Performance in 100 Lines of C",
+    "url": "https://cs.stanford.edu/people/shadjis/blas.html",
+    "upvotes": 197,
+    "author": "henning",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=30509893"
   }
 ]
