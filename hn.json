@@ -1,100 +1,64 @@
 [
   {
-    "title": "Google is going to ban “less secure sign in method”",
-    "url": "https://support.google.com/accounts/answer/6010255?hl=en",
-    "upvotes": 84,
-    "author": "jerryzh",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=30513825"
-  },
-  {
     "title": "GNU Taler: an anonymous, taxable payment system using modern cryptography",
     "url": "https://docs.taler.net/",
-    "upvotes": 27,
+    "upvotes": 61,
     "author": "harporoeder",
-    "comments": 2,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=30514122"
   },
   {
-    "title": "Things you don't need JavaScript for",
-    "url": "https://lexoral.com/blog/you-dont-need-js/",
-    "upvotes": 75,
-    "author": "StevenWaterman",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=30512512"
+    "title": "A new year, a new MDN",
+    "url": "https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/",
+    "upvotes": 45,
+    "author": "Vilkku",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=30514280"
   },
   {
-    "title": "Privacy in email communication: we should use encryption by default",
-    "url": "https://notes.nicfab.it/en/posts/privacycom/",
-    "upvotes": 74,
-    "author": "nicfab",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=30512491"
-  },
-  {
-    "title": "Ripe NCC Executive Board Resolution on Provision of Critical Services",
-    "url": "https://www.ripe.net/publications/news/announcements/ripe-ncc-executive-board-resolution-on-provision-of-critical-services",
-    "upvotes": 25,
-    "author": "gearnode",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=30513540"
-  },
-  {
-    "title": "Launch HN: Onboard",
-    "url": "https://onboard.io/",
-    "upvotes": 10,
-    "author": "jeffepp",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30514190"
+    "title": "You probably don't need OAuth2 / OpenID Connect",
+    "url": "https://www.ory.dev/oauth2-openid-connect-do-you-need-use-cases-examples/",
+    "upvotes": 24,
+    "author": "claystraw",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30514560"
   },
   {
     "title": "How much do founders pay themselves? A European data set",
     "url": "https://sifted.eu/articles/startup-founders-salary/",
-    "upvotes": 12,
+    "upvotes": 30,
     "author": "vinnyglennon",
-    "comments": null,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30514209"
   },
   {
-    "title": "Huawei MatePad Paper – eInk Tablet",
-    "url": "https://consumer.huawei.com/en/tablets/matepad-paper/",
-    "upvotes": 139,
-    "author": "gadders",
-    "comments": 139,
-    "link": "https://news.ycombinator.com/item?id=30512486"
+    "title": "Things you don't need JavaScript for",
+    "url": "https://lexoral.com/blog/you-dont-need-js/",
+    "upvotes": 106,
+    "author": "StevenWaterman",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=30512512"
   },
   {
-    "title": "Solid.js feels like what I always wanted React to be",
-    "url": "https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/",
-    "upvotes": 426,
-    "author": "jamghee",
-    "comments": 280,
-    "link": "https://news.ycombinator.com/item?id=30508524"
+    "title": "Less secure apps and your Google Account",
+    "url": "https://support.google.com/accounts/answer/6010255?hl=en",
+    "upvotes": 122,
+    "author": "jerryzh",
+    "comments": 123,
+    "link": "https://news.ycombinator.com/item?id=30513825"
   },
   {
-    "title": "OpenSSH 8.9",
-    "url": "https://www.openssh.com/txt/release-8.9",
-    "upvotes": 24,
-    "author": "throw0101a",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30513246"
-  },
-  {
-    "title": "Fly.io",
-    "url": "https://fly.io/blog/fly-io-is-hiring-laravel-specialists/"
-  },
-  {
-    "title": "BLAS-level CPU Performance in 100 Lines of C",
-    "url": "https://cs.stanford.edu/people/shadjis/blas.html",
-    "upvotes": 174,
-    "author": "henning",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=30509893"
+    "title": "Privacy in email communication: we should use encryption by default",
+    "url": "https://notes.nicfab.it/en/posts/privacycom/",
+    "upvotes": 86,
+    "author": "nicfab",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=30512491"
   },
   {
     "title": "How to talk to your boss about open source",
     "url": "https://opensource.org/how-to-talk-to-your-boss-about-open-source",
-    "upvotes": 4,
+    "upvotes": 14,
     "author": "TangerineDream",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30514234"
@@ -102,137 +66,173 @@
   {
     "title": "Maersk, MSC halt container shipping to and from Russia",
     "url": "https://www.ship-technology.com/news/industry-news/maersk-msc-halt-container-shipping-to-and-from-russia/",
-    "upvotes": 17,
+    "upvotes": 60,
     "author": "geox",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30514293"
+  },
+  {
+    "title": "Launch HN: Onboard",
+    "url": "https://onboard.io/",
+    "upvotes": 14,
+    "author": "jeffepp",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30514190"
+  },
+  {
+    "title": "Huawei MatePad Paper – eInk Tablet",
+    "url": "https://consumer.huawei.com/en/tablets/matepad-paper/",
+    "upvotes": 159,
+    "author": "gadders",
+    "comments": 158,
+    "link": "https://news.ycombinator.com/item?id=30512486"
+  },
+  {
+    "title": "Fly.io",
+    "url": "https://fly.io/blog/fly-io-is-hiring-laravel-specialists/"
+  },
+  {
+    "title": "Solid.js feels like what I always wanted React to be",
+    "url": "https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/",
+    "upvotes": 441,
+    "author": "jamghee",
+    "comments": 301,
+    "link": "https://news.ycombinator.com/item?id=30508524"
+  },
+  {
+    "title": "OpenSSH 8.9",
+    "url": "https://www.openssh.com/txt/release-8.9",
+    "upvotes": 29,
+    "author": "throw0101a",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30513246"
+  },
+  {
+    "title": "Ripe NCC Executive Board Resolution on Provision of Critical Services",
+    "url": "https://www.ripe.net/publications/news/announcements/ripe-ncc-executive-board-resolution-on-provision-of-critical-services",
+    "upvotes": 28,
+    "author": "gearnode",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=30513540"
+  },
+  {
+    "title": "BLAS-level CPU Performance in 100 Lines of C",
+    "url": "https://cs.stanford.edu/people/shadjis/blas.html",
+    "upvotes": 179,
+    "author": "henning",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=30509893"
   },
   {
     "title": "Ask HN: I realise Data Science is not for me and feel depressed",
     "url": "item?id=30513030",
-    "upvotes": 72,
+    "upvotes": 85,
     "author": "boa00",
-    "comments": 67,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=30513030"
+  },
+  {
+    "title": "The Olivetti Programma 101",
+    "url": "http://www.curtamania.com/curta/database/brand/olivetti/Olivetti%20Programma%20101/index.html",
+    "upvotes": 11,
+    "author": "michaelpinto",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30508047"
+  },
+  {
+    "title": "Ericsson workers were kidnapped when telco sent them to negotiate with ISIS",
+    "url": "https://www.datacenterdynamics.com/en/news/ericsson-workers-were-kidnapped-when-telco-sent-them-to-negotiate-with-isis/",
+    "upvotes": 3,
+    "author": "titoCA321",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30514944"
+  },
+  {
+    "title": "Car Dealerships Don’t Want Your Cash–They Want to Give You a Loan",
+    "url": "https://www.wsj.com/articles/car-dealerships-dont-want-your-cashthey-want-to-give-you-a-loan-11646113637",
+    "upvotes": 34,
+    "author": "samsolomon",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=30514090"
   },
   {
     "title": "Nvidia DLSS Source Code Leaked",
     "url": "https://www.techpowerup.com/292479/nvidia-dlss-source-code-leaked",
-    "upvotes": 36,
+    "upvotes": 48,
     "author": "MikusR",
-    "comments": 13,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30513903"
   },
   {
-    "title": "A new year, a new MDN",
-    "url": "https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/",
+    "title": "MIT Chose Ethereum’s PoS as Top Technological Breakthrough",
+    "url": "https://maxbit.cc/mit-chose-ethereums-pos-as-top-technological-breakthrough/",
     "upvotes": 7,
-    "author": "Vilkku",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30514280"
-  },
-  {
-    "title": "Degoogled phones running privacy oriented OS",
-    "url": "https://de-googled.com/",
-    "upvotes": 113,
-    "author": "johndfsgdgdfg",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=30508890"
-  },
-  {
-    "title": "GNUnet 0.16.0 Released",
-    "url": "https://www.gnunet.org/en/news/2022-02-0.16.0.html",
-    "upvotes": 36,
-    "author": "vhsdev",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30513090"
-  },
-  {
-    "title": "Anatomy of a JWT",
-    "url": "https://fusionauth.io/learn/expert-advice/tokens/anatomy-of-jwt",
-    "upvotes": 46,
-    "author": "mooreds",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=30499618"
-  },
-  {
-    "title": "US PTO rules against Univ of California, argues that Broad Inst invented CRISPR",
-    "url": "https://www.scribd.com/document/561762623/106-115-Decision-on-Priority",
-    "upvotes": 197,
-    "author": "dluan",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=30507799"
-  },
-  {
-    "title": "PC-DOS Mode Offered in New CP/M Release",
-    "url": "https://www.z80cpu.eu/mirrors/oldcomputers.dyndns.org/public/pub/manuals/DRI_Micronotes_Vol2_1,2,3_full.pdf",
-    "upvotes": 18,
-    "author": "susam",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30500316"
+    "author": "Brajeshwar",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30514114"
   },
   {
     "title": "Promnesia – A journey in fixing browser history",
     "url": "https://beepb00p.xyz/promnesia.html",
-    "upvotes": 10,
+    "upvotes": 16,
     "author": "throwoutway",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30502544"
   },
   {
-    "title": "Playdate Software Development Kit is now available for free to all",
-    "url": "https://play.date/dev/",
-    "upvotes": 193,
-    "author": "jonah-archive",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=30506543"
+    "title": "Anatomy of a JWT",
+    "url": "https://fusionauth.io/learn/expert-advice/tokens/anatomy-of-jwt",
+    "upvotes": 58,
+    "author": "mooreds",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=30499618"
+  },
+  {
+    "title": "Degoogled phones running privacy oriented OS",
+    "url": "https://de-googled.com/",
+    "upvotes": 119,
+    "author": "johndfsgdgdfg",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=30508890"
+  },
+  {
+    "title": "US PTO rules against Univ of California, argues that Broad Inst invented CRISPR",
+    "url": "https://www.scribd.com/document/561762623/106-115-Decision-on-Priority",
+    "upvotes": 199,
+    "author": "dluan",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=30507799"
+  },
+  {
+    "title": "GNUnet 0.16.0 Released",
+    "url": "https://www.gnunet.org/en/news/2022-02-0.16.0.html",
+    "upvotes": 39,
+    "author": "vhsdev",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30513090"
+  },
+  {
+    "title": "PC-DOS Mode Offered in New CP/M Release",
+    "url": "https://www.z80cpu.eu/mirrors/oldcomputers.dyndns.org/public/pub/manuals/DRI_Micronotes_Vol2_1,2,3_full.pdf",
+    "upvotes": 20,
+    "author": "susam",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30500316"
   },
   {
     "title": "Pokitto: Open-source pocket gaming console",
     "url": "https://www.pokitto.com/",
-    "upvotes": 72,
+    "upvotes": 77,
     "author": "rendall",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=30509945"
   },
   {
     "title": "Why you’re not doing creative work",
     "url": "https://every.to/superorganizers/why-you-re-not-doing-creative-work",
-    "upvotes": 96,
+    "upvotes": 105,
     "author": "dshipper",
-    "comments": 20,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30499649"
-  },
-  {
-    "title": "Serious flaws in the way Samsung phones encrypt key material in TrustZone",
-    "url": "https://twitter.com/matthew_d_green/status/1495935700545454084",
-    "upvotes": 156,
-    "author": "caaqil",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=30509822"
-  },
-  {
-    "title": "Open Web Advocacy",
-    "url": "https://open-web-advocacy.org/",
-    "upvotes": 138,
-    "author": "stack_framer",
-    "comments": 142,
-    "link": "https://news.ycombinator.com/item?id=30507851"
-  },
-  {
-    "title": "Car Dealerships Don’t Want Your Cash–They Want to Give You a Loan",
-    "url": "https://www.wsj.com/articles/car-dealerships-dont-want-your-cashthey-want-to-give-you-a-loan-11646113637",
-    "upvotes": 11,
-    "author": "samsolomon",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30514090"
-  },
-  {
-    "title": "The Radical Woman Behind “Goodnight Moon”",
-    "url": "https://www.newyorker.com/magazine/2022/02/07/the-radical-woman-behind-goodnight-moon",
-    "upvotes": 87,
-    "author": "mhb",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=30499985"
   }
 ]
