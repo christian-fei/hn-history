@@ -2,47 +2,47 @@
   {
     "title": "Show HN: I made a web game called Almost Pong",
     "url": "https://www.lessmilk.com/almost-pong/",
-    "upvotes": 386,
+    "upvotes": 422,
     "author": "lessmilk",
-    "comments": 86,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=30517626"
   },
   {
     "title": "Help Preserve the Internet with Archiveteam's Warrior",
     "url": "https://selfhostedheaven.com/posts/20220228-help-out-archiving/",
-    "upvotes": 23,
+    "upvotes": 31,
     "author": "neoglow",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30524842"
   },
   {
     "title": "Write plain text files",
     "url": "https://sive.rs/plaintext",
-    "upvotes": 433,
+    "upvotes": 458,
     "author": "sivers",
-    "comments": 209,
+    "comments": 223,
     "link": "https://news.ycombinator.com/item?id=30521545"
-  },
-  {
-    "title": "Ask HN: Can you help me remove the marks for the airstrikes from Google Maps?",
-    "url": "item?id=30524637",
-    "upvotes": 107,
-    "author": "wzyoi",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=30524637"
   },
   {
     "title": "Hidetaka Miyazaki sees death as a feature, not a bug",
     "url": "https://www.newyorker.com/culture/persons-of-interest/hidetaka-miyazaki-sees-death-as-a-feature-not-a-bug",
-    "upvotes": 165,
+    "upvotes": 172,
     "author": "evo_9",
-    "comments": 85,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=30522706"
+  },
+  {
+    "title": "Ask HN: Can you help me remove the marks for the airstrikes from Google Maps?",
+    "url": "item?id=30524637",
+    "upvotes": 128,
+    "author": "wzyoi",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=30524637"
   },
   {
     "title": "Lavish Roman mosaic is biggest found in London for 50 years",
     "url": "https://www.theguardian.com/uk-news/2022/feb/22/lavish-roman-mosaic-is-biggest-found-in-london-for-50-years",
-    "upvotes": 48,
+    "upvotes": 54,
     "author": "diodorus",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=30524002"
@@ -50,131 +50,147 @@
   {
     "title": "Creating a bash completion script",
     "url": "https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial",
-    "upvotes": 22,
+    "upvotes": 26,
     "author": "laz_arus",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30524440"
   },
   {
-    "title": "Small statistics page showcase done via sh, Awk, log parsing and cron",
-    "url": "https://s.mkws.sh/",
-    "upvotes": 19,
-    "author": "todsacerdoti",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30524516"
+    "title": "Winning Wordle",
+    "url": "https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb",
+    "upvotes": 163,
+    "author": "monsieurpng",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=30521602"
   },
   {
     "title": "Cunningham's Law",
     "url": "https://meta.wikimedia.org/wiki/Cunningham%27s_Law",
-    "upvotes": 96,
+    "upvotes": 97,
     "author": "corvettez0606",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=30522205"
+  },
+  {
+    "title": "Small statistics page showcase done via sh, Awk, log parsing and cron",
+    "url": "https://s.mkws.sh/",
+    "upvotes": 22,
+    "author": "todsacerdoti",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30524516"
   },
   {
     "title": "Crew",
     "url": "https://jobs.crew.work/jobs/61fa5748c676d0dcb51e0dc3"
   },
   {
-    "title": "Winning Wordle",
-    "url": "https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb",
-    "upvotes": 154,
-    "author": "monsieurpng",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=30521602"
-  },
-  {
-    "title": "Functional programming patterns in Smalltalk",
-    "url": "https://blog.wilcoxd.com/2022/02/21/Functional-Programming-Patterns-In-Smalltalk/",
-    "upvotes": 45,
-    "author": "mpweiher",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=30513940"
-  },
-  {
-    "title": "Pikuma: Isometric Projection in Game Development",
-    "url": "https://pikuma.com/blog/isometric-projection-in-games",
-    "upvotes": 68,
-    "author": "myth_drannon",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30522955"
-  },
-  {
     "title": "Wireshark Labs",
     "url": "https://gaia.cs.umass.edu/kurose_ross/wireshark.php",
-    "upvotes": 132,
+    "upvotes": 140,
     "author": "mooreds",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30519977"
   },
   {
-    "title": "How generics are implemented in Go 1.18",
-    "url": "https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md",
-    "upvotes": 267,
-    "author": "komuW",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=30518094"
-  },
-  {
-    "title": "TCP Middlebox Reflection: Coming to a DDoS Near You",
-    "url": "https://www.akamai.com/blog/security/tcp-middlebox-reflection",
-    "upvotes": 13,
-    "author": "sohkamyung",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30524318"
-  },
-  {
-    "title": "Our Vision for Location-Independent Salaries at Buffer",
-    "url": "https://buffer.com/resources/location-independent-salaries/",
-    "upvotes": 25,
-    "author": "albumdropped",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=30523757"
-  },
-  {
-    "title": "Asian-Americans fight back against school discrimination",
-    "url": "https://www.wsj.com/articles/asian-american-fight-school-discrimination-affirmative-action-racial-justice-admissions-standards-testing-charter-schools-achievement-gap-harvard-supreme-court-11646172518",
-    "upvotes": 264,
-    "author": "kerneloftruth",
-    "comments": 204,
-    "link": "https://news.ycombinator.com/item?id=30523203"
-  },
-  {
-    "title": "The road to success is paved with rejection letters",
-    "url": "https://perceiving-systems.blog/en/news/the-road-to-success-is-paved-with-rejection-letters",
-    "upvotes": 242,
-    "author": "cloudedcordial",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=30485709"
-  },
-  {
     "title": "When volcanoes go bang, submarine cables do what?",
     "url": "https://blog.apnic.net/2022/03/01/when-volcanoes-go-bang-submarine-cables-do-what/",
-    "upvotes": 7,
+    "upvotes": 14,
     "author": "sohkamyung",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30524873"
   },
   {
+    "title": "Functional programming patterns in Smalltalk",
+    "url": "https://blog.wilcoxd.com/2022/02/21/Functional-Programming-Patterns-In-Smalltalk/",
+    "upvotes": 47,
+    "author": "mpweiher",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=30513940"
+  },
+  {
+    "title": "Pikuma: Isometric Projection in Game Development",
+    "url": "https://pikuma.com/blog/isometric-projection-in-games",
+    "upvotes": 70,
+    "author": "myth_drannon",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=30522955"
+  },
+  {
+    "title": "How generics are implemented in Go 1.18",
+    "url": "https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md",
+    "upvotes": 271,
+    "author": "komuW",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=30518094"
+  },
+  {
+    "title": "The Eros Monster",
+    "url": "https://harpers.org/archive/2022/03/the-eros-monster-agnes-callard/",
+    "upvotes": 12,
+    "author": "angledense",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30520281"
+  },
+  {
+    "title": "TCP Middlebox Reflection: Coming to a DDoS Near You",
+    "url": "https://www.akamai.com/blog/security/tcp-middlebox-reflection",
+    "upvotes": 16,
+    "author": "sohkamyung",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30524318"
+  },
+  {
+    "title": "Our Vision for Location-Independent Salaries at Buffer",
+    "url": "https://buffer.com/resources/location-independent-salaries/",
+    "upvotes": 27,
+    "author": "albumdropped",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=30523757"
+  },
+  {
+    "title": "A Private Gentleman: On “The Trials of Harry S. Truman”",
+    "url": "https://lareviewofbooks.org/article/a-private-gentleman-on-the-trials-of-harry-s-truman/",
+    "upvotes": 7,
+    "author": "samclemens",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30514533"
+  },
+  {
+    "title": "The road to success is paved with rejection letters",
+    "url": "https://perceiving-systems.blog/en/news/the-road-to-success-is-paved-with-rejection-letters",
+    "upvotes": 245,
+    "author": "cloudedcordial",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=30485709"
+  },
+  {
     "title": "Credit Suisse asks investors to destroy oligarch loans documents",
     "url": "https://www.ft.com/content/bfea0069-4143-4e4b-accb-9712ce95a282",
-    "upvotes": 71,
+    "upvotes": 83,
     "author": "mrcode007",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30524261"
+  },
+  {
+    "title": "Asian-Americans fight back against school discrimination",
+    "url": "https://www.wsj.com/articles/asian-american-fight-school-discrimination-affirmative-action-racial-justice-admissions-standards-testing-charter-schools-achievement-gap-harvard-supreme-court-11646172518",
+    "upvotes": 269,
+    "author": "kerneloftruth",
+    "comments": 205,
+    "link": "https://news.ycombinator.com/item?id=30523203"
   },
   {
     "title": "IPFS Backed by Decentralized Storage",
     "url": "https://filebase.com/blog/introducing-support-for-ipfs-backed-by-decentralized-storage/",
-    "upvotes": 48,
+    "upvotes": 53,
     "author": "zacincceo",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=30522635"
   },
   {
     "title": "Conscription of Thought",
     "url": "https://newrepublic.com/article/148845/conscription-thought",
-    "upvotes": 17,
+    "upvotes": 18,
     "author": "you-bet",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30520268"
@@ -188,17 +204,9 @@
     "link": "https://news.ycombinator.com/item?id=30515090"
   },
   {
-    "title": "A Private Gentleman: On “The Trials of Harry S. Truman”",
-    "url": "https://lareviewofbooks.org/article/a-private-gentleman-on-the-trials-of-harry-s-truman/",
-    "upvotes": 5,
-    "author": "samclemens",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30514533"
-  },
-  {
     "title": "Employers who violate Colorado’s non-compete laws face stiff new penalties",
     "url": "https://www.gunder.com/news/employers-who-violate-colorados-non-compete-laws-face-stiff-new-penalties-including-jail/",
-    "upvotes": 234,
+    "upvotes": 235,
     "author": "mooreds",
     "comments": 130,
     "link": "https://news.ycombinator.com/item?id=30521927"
@@ -206,23 +214,15 @@
   {
     "title": "A deepening crisis forces physicists to rethink the structure of nature’s laws",
     "url": "https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/",
-    "upvotes": 132,
+    "upvotes": 136,
     "author": "theafh",
-    "comments": 81,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=30516078"
-  },
-  {
-    "title": "MWC 2022: The next Microsoft Pluton Device and PAC technology",
-    "url": "https://blogs.windows.com/windowsexperience/2022/02/28/mwc-2022-the-next-microsoft-pluton-device-pac-technology/",
-    "upvotes": 27,
-    "author": "fomine3",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=30510400"
   },
   {
     "title": "CSS as the back end – Cascading Server Sheets",
     "url": "https://dev.to/thormeier/dont-try-this-at-home-css-as-the-backend-what-3oih",
-    "upvotes": 111,
+    "upvotes": 115,
     "author": "ritabratamaiti",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=30497834"
@@ -230,9 +230,9 @@
   {
     "title": "Trapped in Silicon Valley’s hidden caste system",
     "url": "https://www.wired.com/story/trapped-in-silicon-valleys-hidden-caste-system/",
-    "upvotes": 523,
+    "upvotes": 530,
     "author": "Brajeshwar",
-    "comments": 389,
+    "comments": 391,
     "link": "https://news.ycombinator.com/item?id=30515099"
   }
 ]
