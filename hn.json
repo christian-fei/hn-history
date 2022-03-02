@@ -2,42 +2,50 @@
   {
     "title": "Show HN: I made a web game called Almost Pong",
     "url": "https://www.lessmilk.com/almost-pong/",
-    "upvotes": 230,
+    "upvotes": 267,
     "author": "lessmilk",
-    "comments": 45,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=30517626"
   },
   {
     "title": "Write plain text files",
     "url": "https://sive.rs/plaintext",
-    "upvotes": 347,
+    "upvotes": 375,
     "author": "sivers",
-    "comments": 163,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=30521545"
   },
   {
     "title": "Hidetaka Miyazaki sees death as a feature, not a bug",
     "url": "https://www.newyorker.com/culture/persons-of-interest/hidetaka-miyazaki-sees-death-as-a-feature-not-a-bug",
-    "upvotes": 124,
+    "upvotes": 138,
     "author": "evo_9",
-    "comments": 61,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=30522706"
-  },
-  {
-    "title": "Cunningham's Law",
-    "url": "https://meta.wikimedia.org/wiki/Cunningham%27s_Law",
-    "upvotes": 81,
-    "author": "corvettez0606",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=30522205"
   },
   {
     "title": "Trapped in Silicon Valley’s hidden caste system",
     "url": "https://www.wired.com/story/trapped-in-silicon-valleys-hidden-caste-system/",
-    "upvotes": 476,
+    "upvotes": 493,
     "author": "Brajeshwar",
-    "comments": 359,
+    "comments": 370,
     "link": "https://news.ycombinator.com/item?id=30515099"
+  },
+  {
+    "title": "Creating a bash completion script",
+    "url": "https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial",
+    "upvotes": 8,
+    "author": "laz_arus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30524440"
+  },
+  {
+    "title": "Cunningham's Law",
+    "url": "https://meta.wikimedia.org/wiki/Cunningham%27s_Law",
+    "upvotes": 85,
+    "author": "corvettez0606",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=30522205"
   },
   {
     "title": "Crew",
@@ -46,47 +54,63 @@
   {
     "title": "Functional programming patterns in Smalltalk",
     "url": "https://blog.wilcoxd.com/2022/02/21/Functional-Programming-Patterns-In-Smalltalk/",
-    "upvotes": 29,
+    "upvotes": 34,
     "author": "mpweiher",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30513940"
   },
   {
     "title": "Pikuma: Isometric Projection in Game Development",
     "url": "https://pikuma.com/blog/isometric-projection-in-games",
-    "upvotes": 47,
+    "upvotes": 53,
     "author": "myth_drannon",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30522955"
   },
   {
+    "title": "Lavish Roman mosaic is biggest found in London for 50 years",
+    "url": "https://www.theguardian.com/uk-news/2022/feb/22/lavish-roman-mosaic-is-biggest-found-in-london-for-50-years",
+    "upvotes": 21,
+    "author": "diodorus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30524002"
+  },
+  {
+    "title": "Small statistics page showcase done via sh, Awk, log parsing and cron",
+    "url": "https://s.mkws.sh/",
+    "upvotes": 6,
+    "author": "todsacerdoti",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30524516"
+  },
+  {
     "title": "Winning Wordle",
     "url": "https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb",
-    "upvotes": 129,
+    "upvotes": 136,
     "author": "monsieurpng",
-    "comments": 68,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=30521602"
   },
   {
     "title": "Wireshark Labs",
     "url": "https://gaia.cs.umass.edu/kurose_ross/wireshark.php",
-    "upvotes": 106,
+    "upvotes": 116,
     "author": "mooreds",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=30519977"
   },
   {
     "title": "How generics are implemented in Go 1.18",
     "url": "https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md",
-    "upvotes": 252,
+    "upvotes": 259,
     "author": "komuW",
-    "comments": 103,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=30518094"
   },
   {
     "title": "Zain Nadella, Satya Nadella's son, dies at 26",
     "url": "https://www.ibtimes.com/zain-nadella-microsoft-ceo-satya-nadellas-son-dies-26-3418278",
-    "upvotes": 476,
+    "upvotes": 489,
     "author": "softwarebeware",
     "comments": 105,
     "link": "https://news.ycombinator.com/item?id=30517049"
@@ -94,145 +118,121 @@
   {
     "title": "Asian-Americans fight back against school discrimination",
     "url": "https://www.wsj.com/articles/asian-american-fight-school-discrimination-affirmative-action-racial-justice-admissions-standards-testing-charter-schools-achievement-gap-harvard-supreme-court-11646172518",
-    "upvotes": 204,
+    "upvotes": 230,
     "author": "kerneloftruth",
-    "comments": 161,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=30523203"
   },
   {
-    "title": "Defending Freedom and Democracy Sure Requires an Awful Lot of Censorship",
-    "url": "https://caitlinjohnstone.substack.com/p/defending-freedom-and-democracy-sure",
-    "upvotes": 21,
-    "author": "k1m",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30524431"
-  },
-  {
-    "title": "Employers who violate Colorado’s non-compete laws face stiff new penalties",
-    "url": "https://www.gunder.com/news/employers-who-violate-colorados-non-compete-laws-face-stiff-new-penalties-including-jail/",
-    "upvotes": 223,
-    "author": "mooreds",
-    "comments": 124,
-    "link": "https://news.ycombinator.com/item?id=30521927"
+    "title": "Our Vision for Location-Independent Salaries at Buffer",
+    "url": "https://buffer.com/resources/location-independent-salaries/",
+    "upvotes": 13,
+    "author": "albumdropped",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30523757"
   },
   {
     "title": "The road to success is paved with rejection letters",
     "url": "https://perceiving-systems.blog/en/news/the-road-to-success-is-paved-with-rejection-letters",
-    "upvotes": 227,
+    "upvotes": 231,
     "author": "cloudedcordial",
     "comments": 98,
     "link": "https://news.ycombinator.com/item?id=30485709"
   },
   {
+    "title": "MWC 2022: The next Microsoft Pluton Device and PAC technology",
+    "url": "https://blogs.windows.com/windowsexperience/2022/02/28/mwc-2022-the-next-microsoft-pluton-device-pac-technology/",
+    "upvotes": 24,
+    "author": "fomine3",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30510400"
+  },
+  {
+    "title": "Employers who violate Colorado’s non-compete laws face stiff new penalties",
+    "url": "https://www.gunder.com/news/employers-who-violate-colorados-non-compete-laws-face-stiff-new-penalties-including-jail/",
+    "upvotes": 230,
+    "author": "mooreds",
+    "comments": 127,
+    "link": "https://news.ycombinator.com/item?id=30521927"
+  },
+  {
     "title": "Show HN: Socket – Secure your JavaScript supply chain",
     "url": "https://socket.dev",
-    "upvotes": 97,
+    "upvotes": 101,
     "author": "feross",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=30515090"
-  },
-  {
-    "title": "Ask HN: Who is hiring?",
-    "url": "item?id=30515750",
-    "upvotes": 297,
-    "author": "whoishiring",
-    "comments": 631,
-    "link": "https://news.ycombinator.com/item?id=30515750"
-  },
-  {
-    "title": "Lavish Roman mosaic is biggest found in London for 50 years",
-    "url": "https://www.theguardian.com/uk-news/2022/feb/22/lavish-roman-mosaic-is-biggest-found-in-london-for-50-years",
-    "upvotes": 11,
-    "author": "diodorus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30524002"
   },
   {
     "title": "Conscription of Thought",
     "url": "https://newrepublic.com/article/148845/conscription-thought",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "you-bet",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30520268"
   },
   {
+    "title": "IPFS Backed by Decentralized Storage",
+    "url": "https://filebase.com/blog/introducing-support-for-ipfs-backed-by-decentralized-storage/",
+    "upvotes": 34,
+    "author": "zacincceo",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30522635"
+  },
+  {
     "title": "CSS as the back end – Cascading Server Sheets",
     "url": "https://dev.to/thormeier/dont-try-this-at-home-css-as-the-backend-what-3oih",
-    "upvotes": 102,
+    "upvotes": 105,
     "author": "ritabratamaiti",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30497834"
   },
   {
-    "title": "Credit Suisse asks investors to destroy oligarch loans documents",
-    "url": "https://www.ft.com/content/bfea0069-4143-4e4b-accb-9712ce95a282",
-    "upvotes": 24,
-    "author": "mrcode007",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30524261"
-  },
-  {
     "title": "A deepening crisis forces physicists to rethink the structure of nature’s laws",
     "url": "https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/",
-    "upvotes": 122,
+    "upvotes": 124,
     "author": "theafh",
-    "comments": 73,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=30516078"
-  },
-  {
-    "title": "Secure messengers in war time",
-    "url": "https://nuno.sh/blog/secure-messengers-in-wartime/",
-    "upvotes": 77,
-    "author": "nunogt",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=30522040"
   },
   {
     "title": "Debugging with GDB",
     "url": "https://felix-knorr.net/blog/using_gdb_directly.html",
-    "upvotes": 180,
+    "upvotes": 185,
     "author": "MarcellusDrum",
-    "comments": 72,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=30512302"
   },
   {
     "title": "Launch HN: GrowthBook",
     "url": "https://www.growthbook.io/",
-    "upvotes": 123,
+    "upvotes": 125,
     "author": "combat_wombat",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=30515940"
   },
   {
-    "title": "IPFS Backed by Decentralized Storage",
-    "url": "https://filebase.com/blog/introducing-support-for-ipfs-backed-by-decentralized-storage/",
-    "upvotes": 26,
-    "author": "zacincceo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30522635"
+    "title": "Credit Suisse asks investors to destroy oligarch loans documents",
+    "url": "https://www.ft.com/content/bfea0069-4143-4e4b-accb-9712ce95a282",
+    "upvotes": 29,
+    "author": "mrcode007",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30524261"
   },
   {
-    "title": "Our Vision for Location-Independent Salaries at Buffer",
-    "url": "https://buffer.com/resources/location-independent-salaries/",
-    "upvotes": 7,
-    "author": "albumdropped",
+    "title": "Ask HN: Can you help me remove the marks for the airstrikes from Google Maps?",
+    "url": "item?id=30524637",
+    "upvotes": 5,
+    "author": "wzyoi",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30523757"
+    "link": "https://news.ycombinator.com/item?id=30524637"
   },
   {
     "title": "Show HN: A modular Python TUI framework with a fast and pretty markup language",
     "url": "https://github.com/bczsalba/pytermgui",
     "upvotes": 100,
     "author": "bczsalba",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=30517299"
-  },
-  {
-    "title": "Launch HN: Onboard",
-    "url": "https://onboard.io/",
-    "upvotes": 49,
-    "author": "jeffepp",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=30514190"
   }
 ]
