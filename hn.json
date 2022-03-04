@@ -2,47 +2,63 @@
   {
     "title": "Fire at Ukrainian nuclear plant outside perimeter",
     "url": "https://www.reuters.com/markets/europe/top-wrap-1-europes-largest-nuclear-power-plant-fire-after-russian-attack-mayor-2022-03-04/",
-    "upvotes": 430,
+    "upvotes": 463,
     "author": "andreygrehov",
-    "comments": 245,
+    "comments": 261,
     "link": "https://news.ycombinator.com/item?id=30549116"
   },
   {
     "title": "How “latency numbers everybody should know” decreased from 1990–2020",
     "url": "https://colin-scott.github.io/personal_website/research/interactive_latency.html",
-    "upvotes": 334,
+    "upvotes": 342,
     "author": "isaacimagine",
-    "comments": 146,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=30546995"
-  },
-  {
-    "title": "iPhone 11 Emulated on QEMU",
-    "url": "https://github.com/TrungNguyen1909/qemu-t8030",
-    "upvotes": 207,
-    "author": "homarp",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=30545425"
   },
   {
     "title": "New York Times tech workers vote to certify union",
     "url": "https://www.nytimes.com/2022/03/03/business/media/new-york-times-tech-union.html",
-    "upvotes": 53,
+    "upvotes": 83,
     "author": "hughmandeville",
-    "comments": 8,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30548508"
+  },
+  {
+    "title": "iPhone 11 Emulated on QEMU",
+    "url": "https://github.com/TrungNguyen1909/qemu-t8030",
+    "upvotes": 214,
+    "author": "homarp",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=30545425"
+  },
+  {
+    "title": "The Miseducation of Maria Montessori",
+    "url": "https://www.newyorker.com/books/under-review/the-miseducation-of-maria-montessori",
+    "upvotes": 6,
+    "author": "fortran77",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30550072"
+  },
+  {
+    "title": "What you must know about Memory, Caches, and Shared Memory [pdf]",
+    "url": "https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/parallel_distributed/2018/slides/pdf/memory2.pdf",
+    "upvotes": 8,
+    "author": "jeremysalwen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30549828"
   },
   {
     "title": "How the weak can win – A primer on protracted war",
     "url": "https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/",
-    "upvotes": 93,
+    "upvotes": 101,
     "author": "danso",
-    "comments": 52,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=30548631"
   },
   {
     "title": "USDA Pomological Watercolor Collection",
     "url": "https://naldc.nal.usda.gov/usda_pomological_watercolor?q=&search_field=all_fields",
-    "upvotes": 73,
+    "upvotes": 75,
     "author": "bookofjoe",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30546986"
@@ -52,21 +68,13 @@
     "url": "https://www.pagat.com/beating/doubt.html",
     "upvotes": 44,
     "author": "jasim",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30540196"
-  },
-  {
-    "title": "Harold Hering",
-    "url": "https://en.wikipedia.org/wiki/Harold_Hering",
-    "upvotes": 58,
-    "author": "luu",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=30532329"
   },
   {
     "title": "How I See Numbers",
     "url": "https://www.csun.io/2022/03/03/how-i-see-numbers.html",
-    "upvotes": 184,
+    "upvotes": 186,
     "author": "igpay",
     "comments": 133,
     "link": "https://news.ycombinator.com/item?id=30539292"
@@ -74,26 +82,50 @@
   {
     "title": "43 km line of sight with USB WiFi stick",
     "url": "https://www.qsl.net/9a4qv/WiFi_Ri.htm",
-    "upvotes": 294,
+    "upvotes": 295,
     "author": "NotAWorkNick",
-    "comments": 149,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=30541576"
+  },
+  {
+    "title": "Harold Hering",
+    "url": "https://en.wikipedia.org/wiki/Harold_Hering",
+    "upvotes": 59,
+    "author": "luu",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=30532329"
   },
   {
     "title": "Chimpanzees observed applying and giving medicine",
     "url": "https://www.sapiens.org/biology/chimpanzees-self-medication-wound/",
-    "upvotes": 17,
+    "upvotes": 21,
     "author": "Hooke",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30537674"
   },
   {
     "title": "Launch HN: Slai (YC W22) – Build ML models quickly and deploy them as apps",
     "url": "item?id=30543228",
-    "upvotes": 97,
+    "upvotes": 98,
     "author": "Mernit",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=30543228"
+  },
+  {
+    "title": "Speeding up Go's built-in JSON encoder for large arrays of objects",
+    "url": "https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html",
+    "upvotes": 76,
+    "author": "eatonphil",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=30547067"
+  },
+  {
+    "title": "CPython, C standards, and IEEE 754",
+    "url": "https://lwn.net/SubscriberLink/886516/d835ee6026544345/",
+    "upvotes": 84,
+    "author": "jwilk",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=30545466"
   },
   {
     "title": "On overwriting disks",
@@ -104,39 +136,31 @@
     "link": "https://news.ycombinator.com/item?id=30539968"
   },
   {
-    "title": "Speeding up Go's built-in JSON encoder for large arrays of objects",
-    "url": "https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html",
-    "upvotes": 74,
-    "author": "eatonphil",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=30547067"
-  },
-  {
-    "title": "CPython, C standards, and IEEE 754",
-    "url": "https://lwn.net/SubscriberLink/886516/d835ee6026544345/",
-    "upvotes": 83,
-    "author": "jwilk",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=30545466"
+    "title": "OneSignal",
+    "url": "https://onesignal.com/careers"
   },
   {
     "title": "Better visibility into Linux packet-dropping decisions",
     "url": "https://lwn.net/SubscriberLink/885729/c495a793abeee387/",
-    "upvotes": 101,
+    "upvotes": 104,
     "author": "rwmj",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30544046"
   },
   {
-    "title": "OneSignal",
-    "url": "https://onesignal.com/careers"
+    "title": "The inventor of the screw-in coffin",
+    "url": "https://kottke.org/22/03/the-inventor-of-the-screw-in-coffin",
+    "upvotes": 69,
+    "author": "rafaelc",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=30546953"
   },
   {
     "title": "Brave Talk: Unlimited, private video calls, in browser",
     "url": "https://brave.com/talk/",
-    "upvotes": 99,
+    "upvotes": 105,
     "author": "codetrotter",
-    "comments": 85,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=30547727"
   },
   {
@@ -144,72 +168,64 @@
     "url": "item?id=30540735",
     "upvotes": 138,
     "author": "sachinjain",
-    "comments": 64,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=30540735"
   },
   {
-    "title": "What you must know about Memory, Caches, and Shared Memory [pdf]",
-    "url": "https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/parallel_distributed/2018/slides/pdf/memory2.pdf",
-    "upvotes": 3,
-    "author": "jeremysalwen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30549828"
+    "title": "Ask HN: What are some good keyboards?",
+    "url": "item?id=30549628",
+    "upvotes": 18,
+    "author": "rickrollin",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=30549628"
   },
   {
     "title": "Universal Chiplet Interconnect Express UCIe 1.0 Launched",
     "url": "https://www.servethehome.com/universal-chiplet-interconnect-express-ucie-1-0-launched/",
-    "upvotes": 64,
+    "upvotes": 65,
     "author": "ksec",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=30538809"
   },
   {
-    "title": "The inventor of the screw-in coffin",
-    "url": "https://kottke.org/22/03/the-inventor-of-the-screw-in-coffin",
-    "upvotes": 67,
-    "author": "rafaelc",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=30546953"
-  },
-  {
     "title": "Mpw-Emu: Emulating 1998-Vintage Mac Compilers",
     "url": "https://wuffs.org/blog/emulating-mac-compilers",
-    "upvotes": 45,
+    "upvotes": 47,
     "author": "ingve",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30546602"
-  },
-  {
-    "title": "Ask HN: What are some good keyboards?",
-    "url": "item?id=30549628",
-    "upvotes": 10,
-    "author": "rickrollin",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=30549628"
-  },
-  {
-    "title": "My New Old Macintosh SE/30 Computer",
-    "url": "https://charlieharrington.com/my-new-old-apple-macintosh-se30-computer/",
-    "upvotes": 90,
-    "author": "whatrocks",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=30544629"
-  },
-  {
-    "title": "One Humanity – DOOM 2 Level",
-    "url": "https://romero.com/shop/p/onehumanity",
-    "upvotes": 215,
-    "author": "marcodiego",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=30545680"
   },
   {
     "title": "Nintendo is removing switch emulation videos on Steam Deck from YouTube",
     "url": "https://exputer.com/news/nintendo/switch-emulation-steam-deck/",
-    "upvotes": 197,
+    "upvotes": 201,
     "author": "throwaway2048",
-    "comments": 184,
+    "comments": 191,
     "link": "https://news.ycombinator.com/item?id=30546274"
+  },
+  {
+    "title": "One Humanity – DOOM 2 Level",
+    "url": "https://romero.com/shop/p/onehumanity",
+    "upvotes": 216,
+    "author": "marcodiego",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=30545680"
+  },
+  {
+    "title": "My New Old Macintosh SE/30 Computer",
+    "url": "https://charlieharrington.com/my-new-old-apple-macintosh-se30-computer/",
+    "upvotes": 92,
+    "author": "whatrocks",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=30544629"
+  },
+  {
+    "title": "Split the States",
+    "url": "https://github.com/norvig/pytudes/blob/main/ipynb/SplitStates.ipynb",
+    "upvotes": 62,
+    "author": "tosh",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=30543588"
   },
   {
     "title": "Interop 2022",
@@ -218,21 +234,5 @@
     "author": "feross",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=30543559"
-  },
-  {
-    "title": "Split the States",
-    "url": "https://github.com/norvig/pytudes/blob/main/ipynb/SplitStates.ipynb",
-    "upvotes": 59,
-    "author": "tosh",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=30543588"
-  },
-  {
-    "title": "How international money transfers work",
-    "url": "https://media.ccc.de/v/33c3-8315-a_world_without_blockchain",
-    "upvotes": 177,
-    "author": "rjzzleep",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=30540125"
   }
 ]
