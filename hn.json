@@ -1,64 +1,72 @@
 [
   {
-    "title": "Windows Defender is enough, if you harden it",
-    "url": "https://0ut3r.space/2022/03/06/windows-defender/",
-    "upvotes": 242,
-    "author": "h0ek",
-    "comments": 151,
-    "link": "https://news.ycombinator.com/item?id=30580444"
-  },
-  {
     "title": "My lizard brain is no match for infinite scroll",
     "url": "https://alexanderell.is/posts/infinite-scroll/",
-    "upvotes": 13,
+    "upvotes": 62,
     "author": "otras",
-    "comments": null,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=30582202"
+  },
+  {
+    "title": "Windows Defender is enough, if you harden it",
+    "url": "https://0ut3r.space/2022/03/06/windows-defender/",
+    "upvotes": 257,
+    "author": "h0ek",
+    "comments": 163,
+    "link": "https://news.ycombinator.com/item?id=30580444"
   },
   {
     "title": "The Vintage Beauty of Soviet Control Rooms",
     "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-    "upvotes": 24,
+    "upvotes": 37,
     "author": "ivanvas",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=30581867"
-  },
-  {
-    "title": "Adding a “duress” password with PAM Duress",
-    "url": "https://lwn.net/Articles/867158/",
-    "upvotes": 181,
-    "author": "marcodiego",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=30578938"
   },
   {
     "title": "CockroachDB: The Resilient Geo-Distributed SQL Database",
     "url": "http://muratbuffalo.blogspot.com/2022/03/cockroachdb-resilient-geo-distributed.html",
-    "upvotes": 26,
+    "upvotes": 46,
     "author": "mastabadtomm",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30565223"
+  },
+  {
+    "title": "Adding a “duress” password with PAM Duress",
+    "url": "https://lwn.net/Articles/867158/",
+    "upvotes": 182,
+    "author": "marcodiego",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=30578938"
   },
   {
     "title": "C++ Cheat Sheets",
     "url": "https://hackingcpp.com/cpp/cheat_sheets.html",
-    "upvotes": 103,
+    "upvotes": 114,
     "author": "ibobev",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30579884"
   },
   {
     "title": "The Art of Assembly Language Programming",
     "url": "http://www.phatcode.net/res/223/files/html/toc.html",
-    "upvotes": 90,
+    "upvotes": 95,
     "author": "userbinator",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=30575920"
+  },
+  {
+    "title": "Request Coalescing in Async Rust",
+    "url": "https://fasterthanli.me/articles/request-coalescing-in-async-rust",
+    "upvotes": 51,
+    "author": "ingve",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=30580797"
   },
   {
     "title": "Non blocking and zero downtime ALTER statements in PostgreSQL with pg-osc",
     "url": "https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/",
-    "upvotes": 89,
+    "upvotes": 92,
     "author": "postgresqlDB",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30579847"
@@ -66,59 +74,59 @@
   {
     "title": "The Einstein Telescope",
     "url": "https://www.einsteintelescope.nl/en/",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "belter",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30581136"
   },
   {
-    "title": "Show HN: I made a privacy-first minimalist Backblaze",
-    "url": "https://blobbackup.com",
-    "upvotes": 130,
-    "author": "bimbashrestha",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=30577625"
+    "title": "IBM open sources fully-functional Lego microscope design",
+    "url": "https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf",
+    "upvotes": 416,
+    "author": "Tomte",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=30576285"
   },
   {
     "title": "Dover.com is hiring senior engineers",
     "url": "https://www.dover.com/open-roles/software-engineer"
   },
   {
-    "title": "IBM open sources fully-functional Lego microscope design",
-    "url": "https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf",
-    "upvotes": 412,
-    "author": "Tomte",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=30576285"
+    "title": "Show HN: I made a privacy-first minimalist Backblaze",
+    "url": "https://blobbackup.com",
+    "upvotes": 133,
+    "author": "bimbashrestha",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=30577625"
   },
   {
     "title": "Using email wrong",
     "url": "https://arne.me/blog/youre-using-email-wrong/",
-    "upvotes": 93,
+    "upvotes": 98,
     "author": "abahlo",
-    "comments": 113,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=30579189"
   },
   {
-    "title": "Request Coalescing in Async Rust",
-    "url": "https://fasterthanli.me/articles/request-coalescing-in-async-rust",
-    "upvotes": 35,
-    "author": "ingve",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30580797"
+    "title": "Fractal Interpolation",
+    "url": "https://en.wikipedia.org/wiki/Fractal_compression",
+    "upvotes": 7,
+    "author": "sirnicolaz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30567284"
   },
   {
     "title": "Essential C [pdf]",
     "url": "http://cslibrary.stanford.edu/101/EssentialC.pdf",
-    "upvotes": 91,
+    "upvotes": 94,
     "author": "graderjs",
-    "comments": 36,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=30566118"
   },
   {
     "title": "Commodore 64 – Reverse Engineered BusCard",
     "url": "https://pdbuchan.com/commodore/buscard/buscard.html",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "nickt",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30580843"
@@ -126,113 +134,105 @@
   {
     "title": "A visual proof that neural nets can compute any function",
     "url": "http://neuralnetworksanddeeplearning.com/chap4.html",
-    "upvotes": 217,
+    "upvotes": 219,
     "author": "graderjs",
-    "comments": 156,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=30576943"
   },
   {
     "title": "Cubeast – Cubing the Smart Way",
     "url": "https://www.cubeast.com/",
-    "upvotes": 14,
+    "upvotes": 16,
     "author": "axiomdata316",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=30565409"
   },
   {
     "title": "Why is there a TikTok tracking pixel on UberEats what is this crap?",
     "url": "https://user-images.githubusercontent.com/7585078/156935120-91e35d8f-fed2-4f97-a31e-2460c884db94.png",
-    "upvotes": 299,
+    "upvotes": 311,
     "author": "cmoog",
-    "comments": 130,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=30579320"
   },
   {
     "title": "Just say no to :latest",
     "url": "https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/",
-    "upvotes": 198,
+    "upvotes": 199,
     "author": "kiyanwang",
-    "comments": 112,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=30576443"
   },
   {
     "title": "SymSpell: 1M times faster spelling correction",
     "url": "https://github.com/wolfgarbe/SymSpell",
-    "upvotes": 175,
+    "upvotes": 177,
     "author": "mci",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=30576435"
+  },
+  {
+    "title": "The Battle of the Gauges: The Railway Revolutionised Victorian Britain",
+    "url": "https://www.historytoday.com/archive/great-debates/battle-gauges",
+    "upvotes": 30,
+    "author": "Hooke",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30575126"
+  },
+  {
+    "title": "When families un-adopt a child",
+    "url": "https://www.theatlantic.com/family/archive/2018/11/children-who-have-second-adoptions/575902/",
+    "upvotes": 43,
+    "author": "swiper_lux",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=30566009"
   },
   {
     "title": "Possibility for strong high-latitude cooling under negative emissions",
     "url": "https://www.nature.com/articles/s41467-022-28573-5",
     "upvotes": 70,
     "author": "rgrieselhuber",
-    "comments": 46,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=30578620"
-  },
-  {
-    "title": "The Battle of the Gauges: The Railway Revolutionised Victorian Britain",
-    "url": "https://www.historytoday.com/archive/great-debates/battle-gauges",
-    "upvotes": 26,
-    "author": "Hooke",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30575126"
-  },
-  {
-    "title": "When families un-adopt a child",
-    "url": "https://www.theatlantic.com/family/archive/2018/11/children-who-have-second-adoptions/575902/",
-    "upvotes": 38,
-    "author": "swiper_lux",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=30566009"
   },
   {
     "title": "Interop 2022: browsers working together to improve the web for developers",
     "url": "https://web.dev/interop-2022/",
-    "upvotes": 101,
+    "upvotes": 104,
     "author": "twapi",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=30577372"
   },
   {
     "title": "Zotonic, the Erlang Web Framework",
     "url": "http://zotonic.com/",
-    "upvotes": 85,
+    "upvotes": 87,
     "author": "graderjs",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30577520"
   },
   {
+    "title": "Ryven – Flow-based visual scripting for Python",
+    "url": "https://ryven.org/",
+    "upvotes": 12,
+    "author": "trueduke",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30580569"
+  },
+  {
     "title": "Advanced Programming Languages",
     "url": "https://matt.might.net/articles/best-programming-languages/",
-    "upvotes": 97,
+    "upvotes": 99,
     "author": "graderjs",
-    "comments": 78,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=30576940"
   },
   {
     "title": "What's the risk from fake Yubikeys?",
     "url": "https://shkspr.mobi/blog/2022/03/whats-the-risk-from-fake-yubikeys/",
-    "upvotes": 97,
+    "upvotes": 99,
     "author": "edent",
     "comments": 68,
     "link": "https://news.ycombinator.com/item?id=30577162"
-  },
-  {
-    "title": "Pair Programming Antipatterns",
-    "url": "https://tuple.app/pair-programming-guide/antipatterns",
-    "upvotes": 205,
-    "author": "_ttg",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=30576109"
-  },
-  {
-    "title": "We automatically fixed thousands of Ruby 2.7 deprecation warnings",
-    "url": "https://about.gitlab.com/blog/2021/02/03/how-we-automatically-fixed-hundreds-of-ruby-2-7-deprecation-warnings/",
-    "upvotes": 108,
-    "author": "kiyanwang",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=30576438"
   }
 ]
