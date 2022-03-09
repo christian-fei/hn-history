@@ -2,82 +2,90 @@
   {
     "title": "Bugs in Hello World",
     "url": "https://blog.sunfishcode.online/bugs-in-hello-world/",
-    "upvotes": 175,
+    "upvotes": 197,
     "author": "sizediterable",
-    "comments": 79,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=30611367"
   },
   {
     "title": "PipeWire: A year in review and a look ahead",
     "url": "https://www.collabora.com/news-and-blog/blog/2022/03/08/pipewire-a-year-in-review-look-ahead/",
-    "upvotes": 52,
+    "upvotes": 65,
     "author": "pabs3",
-    "comments": 17,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30611794"
   },
   {
-    "title": "Apple M1 Ultra",
-    "url": "https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/",
-    "upvotes": 1001,
-    "author": "davidbarker",
-    "comments": 660,
-    "link": "https://news.ycombinator.com/item?id=30604470"
+    "title": "Launch HN: 8vdX (YC W22) – Venture debt to complement a seed round",
+    "url": "item?id=30612691",
+    "upvotes": 8,
+    "author": "rchachra",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30612691"
   },
   {
     "title": "It is high time we let go of the Mersenne Twister",
     "url": "https://arxiv.org/abs/1910.06437",
-    "upvotes": 29,
+    "upvotes": 33,
     "author": "rdpintqogeogsaa",
-    "comments": 11,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30611708"
-  },
-  {
-    "title": "Elementary OS is imploding",
-    "url": "https://lunduke.substack.com/p/elementary-os-is-imploding",
-    "upvotes": 71,
-    "author": "josteink",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=30611748"
   },
   {
     "title": "How to get the most out of your 1:1s",
     "url": "https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/",
-    "upvotes": 78,
+    "upvotes": 86,
     "author": "erikwiffin",
-    "comments": 48,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=30593164"
+  },
+  {
+    "title": "Elementary OS is imploding",
+    "url": "https://lunduke.substack.com/p/elementary-os-is-imploding",
+    "upvotes": 89,
+    "author": "josteink",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=30611748"
   },
   {
     "title": "Static torrent website with peer-to-peer queries over BitTorrent on 2M records",
     "url": "https://boredcaveman.xyz/post/0x2_static-torrent-website-p2p-queries.html",
-    "upvotes": 412,
+    "upvotes": 428,
     "author": "voigt",
     "comments": 68,
     "link": "https://news.ycombinator.com/item?id=30605252"
   },
   {
-    "title": "S.e.p.i.a. – Digital voice assistant",
-    "url": "https://sepia-framework.github.io/",
-    "upvotes": 116,
-    "author": "detaro",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=30599513"
-  },
-  {
     "title": "Play Half-Life in the Browser",
     "url": "https://icrazyblaze.github.io/Xash3D-Emscripten/xash-intro.html",
-    "upvotes": 97,
+    "upvotes": 107,
     "author": "dtx1",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=30610434"
+  },
+  {
+    "title": "S.e.p.i.a. – Digital voice assistant",
+    "url": "https://sepia-framework.github.io/",
+    "upvotes": 119,
+    "author": "detaro",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=30599513"
   },
   {
     "title": "A Great Old-Timey Game-Programming Hack",
     "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-    "upvotes": 24,
+    "upvotes": 35,
     "author": "graderjs",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30598849"
+  },
+  {
+    "title": "Show HN: World’s first £3 flat fee",
+    "url": "https://atlantic.money",
+    "upvotes": 65,
+    "author": "wdaareg",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=30612003"
   },
   {
     "title": "Deepnote",
@@ -86,15 +94,23 @@
   {
     "title": "Endurance: Shackleton's lost ship is found in Antarctic",
     "url": "https://www.bbc.com/news/science-environment-60662541",
-    "upvotes": 65,
+    "upvotes": 78,
     "author": "0xedb",
-    "comments": 12,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30611859"
+  },
+  {
+    "title": "Apple M1 Ultra",
+    "url": "https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/",
+    "upvotes": 1014,
+    "author": "davidbarker",
+    "comments": 674,
+    "link": "https://news.ycombinator.com/item?id=30604470"
   },
   {
     "title": "Put an io_uring on it: Exploiting the Linux kernel",
     "url": "https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel",
-    "upvotes": 244,
+    "upvotes": 247,
     "author": "blopeur",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30605356"
@@ -102,137 +118,121 @@
   {
     "title": "The CSV Virtual Table",
     "url": "https://www.sqlite.org/csv.html",
-    "upvotes": 62,
+    "upvotes": 65,
     "author": "cardamomo",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=30610532"
-  },
-  {
-    "title": "Show HN: World’s first £3 flat fee",
-    "url": "https://atlantic.money",
-    "upvotes": 54,
-    "author": "wdaareg",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=30612003"
   },
   {
     "title": "Ask Slashdot: How Powerful Is Your Computer?",
     "url": "https://web.archive.org/web/20001212132500if_/http://slashdot.org/askslashdot/99/02/12/1429236.shtml",
-    "upvotes": 23,
+    "upvotes": 28,
     "author": "mgdlbp",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30611121"
   },
   {
     "title": "I live in the country with the most expensive Apple products on the planet",
     "url": "https://vaghetti.dev/posts/macs/",
-    "upvotes": 48,
+    "upvotes": 52,
     "author": "vaghetti",
-    "comments": 58,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=30610454"
   },
   {
     "title": "Lessons from a tech job search",
     "url": "https://blog.nindalf.com/posts/tech-interview/",
-    "upvotes": 18,
+    "upvotes": 21,
     "author": "nindalf",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=30592572"
   },
   {
+    "title": "Autism diaries – from 10 years ago",
+    "url": "http://oilf.blogspot.com/2022/03/autism-diaries-from-10-years-ago.html",
+    "upvotes": 19,
+    "author": "sturza",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30596864"
+  },
+  {
     "title": "Launch HN: Optery (YC W22) – Remove your personal info from the internet",
     "url": "item?id=30605010",
-    "upvotes": 180,
+    "upvotes": 183,
     "author": "beyondd",
-    "comments": 103,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=30605010"
+  },
+  {
+    "title": "Deepfakes, can you spot them?",
+    "url": "https://detectfakes.media.mit.edu/",
+    "upvotes": 146,
+    "author": "T-A",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=30606263"
   },
   {
     "title": "Charles Csuri, ‘Father of Computer Art,’ Dies at 99",
     "url": "https://www.artnews.com/art-news/news/charles-csuri-dead-1234621107/",
-    "upvotes": 109,
+    "upvotes": 110,
     "author": "pseudolus",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30598762"
   },
   {
-    "title": "Autism diaries – from 10 years ago",
-    "url": "http://oilf.blogspot.com/2022/03/autism-diaries-from-10-years-ago.html",
-    "upvotes": 16,
-    "author": "sturza",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30596864"
-  },
-  {
-    "title": "Deepfakes, can you spot them?",
-    "url": "https://detectfakes.media.mit.edu/",
-    "upvotes": 144,
-    "author": "T-A",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=30606263"
-  },
-  {
     "title": "Low process culture, high process culture",
     "url": "https://cate.blog/2022/02/28/low-process-culture-high-process-culture/",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "firstSpeaker",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=30585209"
   },
   {
-    "title": "Apple Mac Studio",
-    "url": "https://www.apple.com/mac-studio/",
-    "upvotes": 617,
-    "author": "0xedb",
-    "comments": 622,
-    "link": "https://news.ycombinator.com/item?id=30604447"
+    "title": "Running Out of Money When Building Side Projects Helps You Succeed",
+    "url": "https://microfounder.com/blog/urgency",
+    "upvotes": 8,
+    "author": "raunometsa",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30611731"
   },
   {
-    "title": "How can we know if paid search advertising works?",
-    "url": "https://causalinf.substack.com/p/how-can-we-know-if-paid-search-advertising",
-    "upvotes": 143,
-    "author": "ubac",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=30603911"
+    "title": "M1 Ultra Geekbench Score",
+    "url": "https://browser.geekbench.com/v5/cpu/13330272",
+    "upvotes": 176,
+    "author": "carlycue",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=30608457"
   },
   {
     "title": "Ernest Shackleton’s ship Endurance found off coast of Antarctica",
     "url": "https://www.theguardian.com/world/2022/mar/09/ernest-shackleton-wrecked-ship-endurance-antarctic",
-    "upvotes": 14,
+    "upvotes": 16,
     "author": "j4mie",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30612107"
   },
   {
-    "title": "M1 Ultra Geekbench Score",
-    "url": "https://browser.geekbench.com/v5/cpu/13330272",
-    "upvotes": 172,
-    "author": "carlycue",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=30608457"
-  },
-  {
-    "title": "Running Out of Money When Building Side Projects Helps You Succeed",
-    "url": "https://microfounder.com/blog/urgency",
-    "upvotes": 5,
-    "author": "raunometsa",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30611731"
-  },
-  {
-    "title": "The new silent majority: People who don't tweet",
-    "url": "https://www.axios.com/political-polarization-twitter-cable-news-ac9699c6-260d-4141-b511-5c7193566ea1.html",
-    "upvotes": 641,
-    "author": "laurex",
-    "comments": 617,
-    "link": "https://news.ycombinator.com/item?id=30603801"
-  },
-  {
     "title": "It’s time to admit quantum theory has reached a dead end",
     "url": "https://nautil.us/i-just-want-to-know-what-im-made-of-14367/",
-    "upvotes": 191,
+    "upvotes": 195,
     "author": "pseudolus",
-    "comments": 192,
+    "comments": 193,
     "link": "https://news.ycombinator.com/item?id=30607692"
+  },
+  {
+    "title": "Three Pillars of Reproducible Builds",
+    "url": "https://fossa.com/blog/three-pillars-reproducible-builds/",
+    "upvotes": 65,
+    "author": "spatten",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=30604954"
+  },
+  {
+    "title": "WebGPU – All of the cores, none of the canvas",
+    "url": "https://surma.dev/things/webgpu/",
+    "upvotes": 363,
+    "author": "jasim",
+    "comments": 119,
+    "link": "https://news.ycombinator.com/item?id=30600525"
   }
 ]
