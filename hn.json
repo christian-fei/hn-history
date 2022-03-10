@@ -1,40 +1,104 @@
 [
   {
-    "title": "First look: adding type annotations to JavaScript",
-    "url": "https://2ality.com/2022/03/type-annotations-first-look.html",
-    "upvotes": 44,
-    "author": "mariuz",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=30626458"
+    "title": "CXX – A library bridges Rust and C++",
+    "url": "https://cxx.rs/",
+    "upvotes": 17,
+    "author": "synergy20",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30627495"
+  },
+  {
+    "title": "Launch HN: Micro Meat (YC S21) – Technology for scaling cultivated meat",
+    "url": "item?id=30627418",
+    "upvotes": 22,
+    "author": "asmertgen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30627418"
   },
   {
     "title": "Anatomy of AI",
     "url": "https://anatomyof.ai/",
-    "upvotes": 17,
+    "upvotes": 33,
     "author": "elie_CH",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30626924"
+  },
+  {
+    "title": "Launch HN: Kable",
+    "url": "https://www.kable.io/",
+    "upvotes": 11,
+    "author": "asommer12",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30627558"
+  },
+  {
+    "title": "First look: adding type annotations to JavaScript",
+    "url": "https://2ality.com/2022/03/type-annotations-first-look.html",
+    "upvotes": 62,
+    "author": "mariuz",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=30626458"
   },
   {
     "title": "f.lux",
     "url": "https://justgetflux.com/",
-    "upvotes": 60,
+    "upvotes": 117,
     "author": "graderjs",
-    "comments": 37,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=30626803"
+  },
+  {
+    "title": "Controversial impact crater under Greenland’s ice is surprisingly ancient",
+    "url": "https://www.science.org/content/article/impact-crater-under-greenland-s-ice-surprisingly-ancient",
+    "upvotes": 31,
+    "author": "rbanffy",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30626377"
+  },
+  {
+    "title": "Why tensors? A beginner's perspective",
+    "url": "https://mfaizan.github.io/2022/03/08/why-tensors.html",
+    "upvotes": 16,
+    "author": "mfn",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30610238"
+  },
+  {
+    "title": "Inflation Propagates Unevenly",
+    "url": "https://devonzuegel.com/post/inflation-propagates-unevenly",
+    "upvotes": 95,
+    "author": "luu",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=30602072"
   },
   {
     "title": "CAD/CAM constraint-based geometry sketcher for Blender",
     "url": "https://github.com/hlorus/geometry_sketcher",
-    "upvotes": 72,
+    "upvotes": 81,
     "author": "justinclift",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=30625341"
   },
   {
+    "title": "Restoring and attributing ancient texts using deep neural networks",
+    "url": "https://github.com/deepmind/ithaca",
+    "upvotes": 18,
+    "author": "giuliomagnifico",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30626740"
+  },
+  {
+    "title": "You Don't Know GIF – An analysis of a GIF file and some weird GIF features",
+    "url": "https://blog.darrien.dev/posts/you-dont-know-gif",
+    "upvotes": 73,
+    "author": "fagnerbrack",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=30624644"
+  },
+  {
     "title": "A visual introduction to machine learning",
     "url": "http://www.r2d3.us/visual-intro-to-machine-learning-part-1/",
-    "upvotes": 160,
+    "upvotes": 166,
     "author": "fagnerbrack",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30624648"
@@ -42,197 +106,133 @@
   {
     "title": "Why offer an Onion Address rather than just encourage browsing-over-Tor?",
     "url": "https://alecmuffett.com/article/16007",
-    "upvotes": 173,
+    "upvotes": 179,
     "author": "kettunen",
-    "comments": 74,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=30624154"
-  },
-  {
-    "title": "Controversial impact crater under Greenland’s ice is surprisingly ancient",
-    "url": "https://www.science.org/content/article/impact-crater-under-greenland-s-ice-surprisingly-ancient",
-    "upvotes": 16,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30626377"
   },
   {
     "title": "“Compiling” Music",
     "url": "http://lilypond.org/text-input.en.html",
-    "upvotes": 45,
-    "author": "franek",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=30625450"
-  },
-  {
-    "title": "You Don't Know GIF – An analysis of a GIF file and some weird GIF features",
-    "url": "https://blog.darrien.dev/posts/you-dont-know-gif",
     "upvotes": 53,
-    "author": "fagnerbrack",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=30624644"
+    "author": "franek",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=30625450"
   },
   {
     "title": "Algae with three sexes that mate in pairs identified in Japanese river",
     "url": "https://www.sciencedaily.com/releases/2021/07/210712102218.htm",
-    "upvotes": 83,
+    "upvotes": 88,
     "author": "animal_spirits",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=30611407"
   },
   {
-    "title": "Show HN: Space4 – A workplace to help with staying focused and being productive",
-    "url": "https://www.space4.cc/",
-    "upvotes": 34,
-    "author": "patrickz",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=30625797"
-  },
-  {
     "title": "Linux containers in 500 lines of code",
     "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-    "upvotes": 195,
+    "upvotes": 202,
     "author": "graderjs",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=30623372"
   },
   {
-    "title": "Inflation Propagates Unevenly",
-    "url": "https://devonzuegel.com/post/inflation-propagates-unevenly",
-    "upvotes": 70,
-    "author": "luu",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=30602072"
+    "title": "Ask HN: Any weird tips for weight loss?",
+    "url": "item?id=30617118",
+    "upvotes": 210,
+    "author": "fatmoron",
+    "comments": 746,
+    "link": "https://news.ycombinator.com/item?id=30617118"
   },
   {
     "title": "Mealie – a self-hosted recipe manager and meal planner with a RestAPI back end",
     "url": "https://github.com/hay-kot/mealie",
-    "upvotes": 104,
+    "upvotes": 111,
     "author": "robinhoodexe",
-    "comments": 34,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30623852"
   },
   {
-    "title": "Restoring and attributing ancient texts using deep neural networks",
-    "url": "https://github.com/deepmind/ithaca",
-    "upvotes": 9,
-    "author": "giuliomagnifico",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30626740"
-  },
-  {
-    "title": "Ask HN: Any weird tips for weight loss?",
-    "url": "item?id=30617118",
-    "upvotes": 185,
-    "author": "fatmoron",
-    "comments": 700,
-    "link": "https://news.ycombinator.com/item?id=30617118"
-  },
-  {
-    "title": "Consent-O-Matic: Automatic handling of GDPR consent forms",
-    "url": "https://github.com/cavi-au/Consent-O-Matic",
-    "upvotes": 112,
-    "author": "zigzag312",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=30625218"
+    "title": "Show HN: Space4 – A workplace to help with staying focused and being productive",
+    "url": "https://www.space4.cc/",
+    "upvotes": 35,
+    "author": "patrickz",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=30625797"
   },
   {
     "title": "My next main browser: a review of Orion",
     "url": "http://morrick.me/archives/9500",
-    "upvotes": 122,
+    "upvotes": 125,
     "author": "vimy",
-    "comments": 107,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=30610651"
-  },
-  {
-    "title": "Free and open source 2D and 3D game engine",
-    "url": "https://godotengine.org/",
-    "upvotes": 145,
-    "author": "modinfo",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=30622830"
-  },
-  {
-    "title": "Ruby Together",
-    "url": "https://rubytogether.org/",
-    "upvotes": 224,
-    "author": "mooreds",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=30622186"
   },
   {
     "title": "Bitmovin",
     "url": "https://bitmovin.com/careers/"
   },
   {
-    "title": "Donald Knuth on P=NP at CMU-SV",
-    "url": "https://www.youtube.com/watch?v=Ph4hlOzq_pE",
-    "upvotes": 25,
-    "author": "RafelMri",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=30611707"
+    "title": "Free and open source 2D and 3D game engine",
+    "url": "https://godotengine.org/",
+    "upvotes": 153,
+    "author": "modinfo",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=30622830"
+  },
+  {
+    "title": "Consent-O-Matic: Automatic handling of GDPR consent forms",
+    "url": "https://github.com/cavi-au/Consent-O-Matic",
+    "upvotes": 115,
+    "author": "zigzag312",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=30625218"
+  },
+  {
+    "title": "Ruby Together",
+    "url": "https://rubytogether.org/",
+    "upvotes": 229,
+    "author": "mooreds",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=30622186"
   },
   {
     "title": "Some tiny personal programs I've written",
     "url": "https://jvns.ca/blog/2022/03/08/tiny-programs/",
-    "upvotes": 760,
+    "upvotes": 764,
     "author": "atg_abhishek",
-    "comments": 306,
+    "comments": 308,
     "link": "https://news.ycombinator.com/item?id=30614623"
   },
   {
     "title": "A beginner's guide to intermittent fasting",
     "url": "https://jamesclear.com/the-beginners-guide-to-intermittent-fasting",
-    "upvotes": 136,
+    "upvotes": 149,
     "author": "Tomte",
-    "comments": 124,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=30625586"
-  },
-  {
-    "title": "Python built-ins worth learning",
-    "url": "https://treyhunner.com/2019/05/python-builtins-worth-learning/",
-    "upvotes": 229,
-    "author": "type0",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=30621552"
-  },
-  {
-    "title": "Still No Consensus on Testing Private Methods",
-    "url": "https://jesseduffield.com/Testing-Private-Methods/",
-    "upvotes": 52,
-    "author": "zdw",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=30600479"
   },
   {
     "title": "Stainless steel leaches nickel and chromium into foods during cooking",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284091/",
-    "upvotes": 140,
+    "upvotes": 151,
     "author": "yumraj",
-    "comments": 230,
+    "comments": 242,
     "link": "https://news.ycombinator.com/item?id=30621686"
+  },
+  {
+    "title": "Donald Knuth on P=NP at CMU-SV",
+    "url": "https://www.youtube.com/watch?v=Ph4hlOzq_pE",
+    "upvotes": 31,
+    "author": "RafelMri",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30611707"
   },
   {
     "title": "Trunk-and-branches model for scaling infrastructure organizations",
     "url": "https://lethain.com/trunk-and-branches/",
-    "upvotes": 32,
+    "upvotes": 39,
     "author": "wavelander",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30620843"
-  },
-  {
-    "title": "Show HN: PNG to PDF Conversion in the Browser",
-    "url": "https://png.to-pdf.net/",
-    "upvotes": 50,
-    "author": "growt",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=30623798"
-  },
-  {
-    "title": "Accused of cheating, marathon runner Frank Meza's life fell apart",
-    "url": "https://www.lamag.com/citythinkblog/frank-meza-marathon/",
-    "upvotes": 93,
-    "author": "georgecmu",
-    "comments": 125,
-    "link": "https://news.ycombinator.com/item?id=30622770"
   }
 ]
