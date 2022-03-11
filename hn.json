@@ -2,42 +2,50 @@
   {
     "title": "Pockit: A tiny, powerful, modular computer [video]",
     "url": "https://www.youtube.com/watch?v=b3F9OtH2Xx4",
-    "upvotes": 307,
+    "upvotes": 375,
     "author": "rayrag",
-    "comments": 40,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=30615959"
   },
   {
     "title": "Earn-IT threatens encryption and therefore user freedom",
     "url": "https://www.fsf.org/blogs/community/earn-it-threatens-encryption-and-therefore-user-freedom",
-    "upvotes": 691,
+    "upvotes": 716,
     "author": "lelf",
-    "comments": 136,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=30634872"
+  },
+  {
+    "title": "Lessons Learnt Moving a GTK Application from Go to Ada",
+    "url": "https://github.com/SMerrony/dashera/blob/10ab6e4ece8ea1c16ad055c063c5e743d89cd6bc/Docs/LessonsLearnt.md",
+    "upvotes": 26,
+    "author": "ajdude",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30638542"
+  },
+  {
+    "title": "Why do Google use location for language rather than browser settings?",
+    "url": "https://smaller.fish/posts/language",
+    "upvotes": 23,
+    "author": "smallerfish",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=30638590"
   },
   {
     "title": "Twitter makes it harder to choose the old reverse-chronological feed",
     "url": "https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed",
-    "upvotes": 203,
+    "upvotes": 218,
     "author": "Yaina",
-    "comments": 143,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=30635426"
   },
   {
     "title": "StyleNeRF: A Style-Based 3D-Aware Generator for High-Resolution Image Synthesis",
     "url": "http://jiataogu.me/style_nerf/",
-    "upvotes": 55,
+    "upvotes": 58,
     "author": "lnyan",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=30637403"
-  },
-  {
-    "title": "Apple AirTags draining battery of devices close by",
-    "url": "https://annoying.technology/posts/d9d6d289a06def25/",
-    "upvotes": 403,
-    "author": "dewey",
-    "comments": 194,
-    "link": "https://news.ycombinator.com/item?id=30632568"
   },
   {
     "title": "Flowly",
@@ -46,66 +54,90 @@
   {
     "title": "We’re the founders of Substack, we just launched an iOS app. AUA",
     "url": "item?id=30632952",
-    "upvotes": 324,
+    "upvotes": 329,
     "author": "internet_jockey",
-    "comments": 329,
+    "comments": 343,
     "link": "https://news.ycombinator.com/item?id=30632952"
+  },
+  {
+    "title": "Ask HN: Why does the Ruble still holds 50% of its value?",
+    "url": "item?id=30638888",
+    "upvotes": 11,
+    "author": "TekMol",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=30638888"
   },
   {
     "title": "Ws4sqlite: Query SQLite via HTTP",
     "url": "https://github.com/proofrock/ws4sqlite",
-    "upvotes": 65,
+    "upvotes": 69,
     "author": "thunderbong",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=30636796"
   },
   {
-    "title": "Lessons Learnt Moving a GTK Application from Go to Ada",
-    "url": "https://github.com/SMerrony/dashera/blob/10ab6e4ece8ea1c16ad055c063c5e743d89cd6bc/Docs/LessonsLearnt.md",
-    "upvotes": 7,
-    "author": "ajdude",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30638542"
-  },
-  {
-    "title": "Old Age and Creativity",
-    "url": "https://inference-review.com/article/old-age-and-creativity",
-    "upvotes": 63,
-    "author": "drdee",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=30631462"
+    "title": "Just Say No to Central Bank Digital Currencies",
+    "url": "https://theupheaval.substack.com/p/just-say-no-to-cbdcs",
+    "upvotes": 249,
+    "author": "mortenjorck",
+    "comments": 235,
+    "link": "https://news.ycombinator.com/item?id=30634245"
   },
   {
     "title": "Cron best practices",
     "url": "https://blog.sanctum.geek.nz/cron-best-practices/",
-    "upvotes": 36,
+    "upvotes": 44,
     "author": "cuu508",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=30636872"
+  },
+  {
+    "title": "Old Age and Creativity",
+    "url": "https://inference-review.com/article/old-age-and-creativity",
+    "upvotes": 65,
+    "author": "drdee",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=30631462"
   },
   {
     "title": "Investigating Influencer VPN Ads on YouTube [pdf]",
     "url": "https://www.cs.umd.edu/~dml/papers/vpn-ads-oakland22.pdf",
-    "upvotes": 81,
+    "upvotes": 84,
     "author": "zdw",
-    "comments": 47,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=30635989"
-  },
-  {
-    "title": "FreeBSD 13.1 Beta 1",
-    "url": "https://lists.freebsd.org/archives/freebsd-stable/2022-March/000571.html",
-    "upvotes": 51,
-    "author": "todsacerdoti",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=30637770"
   },
   {
     "title": "Ragingbull.com to pay $2.4M for bogus earnings claims, subscription charges",
     "url": "https://www.ftc.gov/news-events/press-releases/2022/03/online-investment-site-pay-more-24-million-bogus-stock-earnings",
-    "upvotes": 132,
+    "upvotes": 133,
     "author": "indus",
-    "comments": 63,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=30634093"
+  },
+  {
+    "title": "FreeBSD 13.1 Beta 1",
+    "url": "https://lists.freebsd.org/archives/freebsd-stable/2022-March/000571.html",
+    "upvotes": 56,
+    "author": "todsacerdoti",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=30637770"
+  },
+  {
+    "title": "Legal Concepts for Founders",
+    "url": "https://handbook.clerky.com",
+    "upvotes": 90,
+    "author": "freediver",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=30627631"
+  },
+  {
+    "title": "Launch HN: Micro Meat (YC S21) – Technology for scaling cultivated meat",
+    "url": "item?id=30627418",
+    "upvotes": 335,
+    "author": "asmertgen",
+    "comments": 171,
+    "link": "https://news.ycombinator.com/item?id=30627418"
   },
   {
     "title": "The Language of the Eyes",
@@ -116,57 +148,25 @@
     "link": "https://news.ycombinator.com/item?id=30613750"
   },
   {
-    "title": "Just Say No to Central Bank Digital Currencies",
-    "url": "https://theupheaval.substack.com/p/just-say-no-to-cbdcs",
-    "upvotes": 225,
-    "author": "mortenjorck",
-    "comments": 218,
-    "link": "https://news.ycombinator.com/item?id=30634245"
-  },
-  {
-    "title": "Legal Concepts for Founders",
-    "url": "https://handbook.clerky.com",
-    "upvotes": 86,
-    "author": "freediver",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=30627631"
-  },
-  {
-    "title": "Launch HN: Micro Meat (YC S21) – Technology for scaling cultivated meat",
-    "url": "item?id=30627418",
-    "upvotes": 331,
-    "author": "asmertgen",
-    "comments": 171,
-    "link": "https://news.ycombinator.com/item?id=30627418"
-  },
-  {
-    "title": "A Voracious Reader: Stalin through his books",
-    "url": "https://drb.ie/articles/a-voracious-reader-2/",
-    "upvotes": 118,
-    "author": "canthandle",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=30632775"
-  },
-  {
     "title": "Phases of Netflix’s real-time data infrastructure",
     "url": "https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01?gi=53e1b7c77613",
-    "upvotes": 122,
+    "upvotes": 125,
     "author": "henryluo",
-    "comments": 26,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=30627489"
   },
   {
-    "title": "AVIF has landed",
-    "url": "https://jakearchibald.com/2020/avif-has-landed/",
-    "upvotes": 119,
-    "author": "andrewstuart",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=30632614"
+    "title": "Apple AirTags draining battery of devices close by",
+    "url": "https://annoying.technology/posts/d9d6d289a06def25/",
+    "upvotes": 411,
+    "author": "dewey",
+    "comments": 199,
+    "link": "https://news.ycombinator.com/item?id=30632568"
   },
   {
     "title": "Computer Randomly Plays Classical Music",
     "url": "https://web.archive.org/web/20080517043731/https://support.microsoft.com/support/kb/articles/Q261/1/86.ASP",
-    "upvotes": 60,
+    "upvotes": 64,
     "author": "nyuszika7h",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30635238"
@@ -174,26 +174,34 @@
   {
     "title": "Launch HN: Kable (YC W22) – All-in-one platform for API products",
     "url": "item?id=30627558",
-    "upvotes": 172,
+    "upvotes": 174,
     "author": "asommer12",
-    "comments": 73,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=30627558"
   },
   {
     "title": "Love and Longing in the Seaweed Album",
     "url": "https://publicdomainreview.org/essay/love-and-longing-in-the-seaweed-album/",
-    "upvotes": 6,
+    "upvotes": 7,
     "author": "apollinaire",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30618431"
   },
   {
-    "title": "A Path to Faster Rendering with Liquid-C",
-    "url": "https://shopify.engineering/refactor-path-to-faster-rendering-liquid-c",
+    "title": "Cadkey or Catia? Boeing’s Billion-Dollar 3D CAD Mistake",
+    "url": "http://tecnetinc.com/Cadkey%20or%20Catia.html",
+    "upvotes": 77,
+    "author": "Blackthorn",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=30631026"
+  },
+  {
+    "title": "Where there’s muck, there’s brass",
+    "url": "https://www.joelonsoftware.com/2007/12/06/where-theres-muck-theres-brass/",
     "upvotes": 14,
-    "author": "oedmarap",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30633736"
+    "author": "Tomte",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30614040"
   },
   {
     "title": "Aligning on Your API Design Using Jobs to Be Done",
@@ -204,35 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=30635675"
   },
   {
-    "title": "Cadkey or Catia? Boeing’s Billion-Dollar 3D CAD Mistake",
-    "url": "http://tecnetinc.com/Cadkey%20or%20Catia.html",
-    "upvotes": 72,
-    "author": "Blackthorn",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=30631026"
-  },
-  {
-    "title": "What Google search isn’t showing you",
-    "url": "https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you",
-    "upvotes": 148,
-    "author": "the_decider",
-    "comments": 131,
-    "link": "https://news.ycombinator.com/item?id=30635720"
-  },
-  {
     "title": "Tradle",
     "url": "https://oec.world/en/tradle/",
-    "upvotes": 426,
+    "upvotes": 431,
     "author": "tantalor",
     "comments": 84,
     "link": "https://news.ycombinator.com/item?id=30630918"
   },
   {
-    "title": "Where there’s muck, there’s brass",
-    "url": "https://www.joelonsoftware.com/2007/12/06/where-theres-muck-theres-brass/",
-    "upvotes": 12,
-    "author": "Tomte",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30614040"
+    "title": "Attackers exploit flaw in web’s security to steal $2M in cryptocurrency",
+    "url": "https://freedom-to-tinker.com/2022/03/09/attackers-exploit-fundamental-flaw-in-the-webs-security-to-steal-2-million-in-cryptocurrency/",
+    "upvotes": 17,
+    "author": "sohkamyung",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30636675"
+  },
+  {
+    "title": "The magic of the Japanese convenience store sandwich",
+    "url": "https://japlanease.com/japanese-convenience-store-sandwich/",
+    "upvotes": 155,
+    "author": "graderjs",
+    "comments": 205,
+    "link": "https://news.ycombinator.com/item?id=30635550"
   }
 ]
