@@ -1,8 +1,16 @@
 [
   {
+    "title": "Inside Putin's Circle",
+    "url": "https://www.ft.com/content/503fb110-f91e-4bed-b6dc-0d09582dd007",
+    "upvotes": 31,
+    "author": "mayiplease",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30645967"
+  },
+  {
     "title": "HeyWhatsThat – Calculate viewshed and panorama for any point on Earth",
     "url": "https://www.heywhatsthat.com/",
-    "upvotes": 230,
+    "upvotes": 250,
     "author": "Rygian",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=30640846"
@@ -10,71 +18,79 @@
   {
     "title": "FoundationDB: A distributed unbundled transactional key value store",
     "url": "http://muratbuffalo.blogspot.com/2022/03/foundationdb-distributed-unbundled.html",
-    "upvotes": 77,
+    "upvotes": 84,
     "author": "eatonphil",
-    "comments": 20,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=30640932"
   },
   {
     "title": "Goldilocks Zone Finder – Find your ideal climate",
     "url": "https://lukechampine.com/goldilocks/",
-    "upvotes": 119,
+    "upvotes": 130,
     "author": "nemo1618",
-    "comments": 96,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=30642612"
+  },
+  {
+    "title": "Pockit: A tiny, powerful, modular computer [video]",
+    "url": "https://www.youtube.com/watch?v=b3F9OtH2Xx4",
+    "upvotes": 1155,
+    "author": "rayrag",
+    "comments": 158,
+    "link": "https://news.ycombinator.com/item?id=30615959"
   },
   {
     "title": "Shopify's Data Science and Engineering Foundations",
     "url": "https://shopify.engineering/shopifys-data-science-engineering-foundations",
-    "upvotes": 84,
+    "upvotes": 90,
     "author": "mooreds",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30643677"
   },
   {
     "title": "Adding HLSL and DirectX Support to Clang and LLVM",
     "url": "https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783",
-    "upvotes": 50,
+    "upvotes": 54,
     "author": "cglong",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30634593"
   },
   {
-    "title": "Pockit: A tiny, powerful, modular computer [video]",
-    "url": "https://www.youtube.com/watch?v=b3F9OtH2Xx4",
-    "upvotes": 1123,
-    "author": "rayrag",
-    "comments": 156,
-    "link": "https://news.ycombinator.com/item?id=30615959"
+    "title": "NY energy grid: Real-time dashboard",
+    "url": "https://www.nyiso.com/real-time-dashboard",
+    "upvotes": 98,
+    "author": "firstbase",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=30642420"
   },
   {
     "title": "Launch HN: Tensil (YC S19) – Open-Source ML Accelerators",
     "url": "item?id=30643520",
-    "upvotes": 36,
+    "upvotes": 39,
     "author": "tdba",
-    "comments": 41,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=30643520"
   },
   {
-    "title": "NY energy grid: Real-time dashboard",
-    "url": "https://www.nyiso.com/real-time-dashboard",
-    "upvotes": 94,
-    "author": "firstbase",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=30642420"
+    "title": "Spotify Outage on March 8",
+    "url": "https://engineering.atspotify.com/2022/03/incident-report-spotify-outage-on-march-8/",
+    "upvotes": 9,
+    "author": "charlieegan3",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30646297"
   },
   {
     "title": "Making RockPro64 a NetBSD Server",
     "url": "https://blog.netbsd.org/tnf/entry/making_rockpro64_a_netbsd_server",
-    "upvotes": 33,
+    "upvotes": 37,
     "author": "todsacerdoti",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30644322"
   },
   {
     "title": "Scripting with Go",
     "url": "https://bitfieldconsulting.com/golang/scripting",
-    "upvotes": 95,
+    "upvotes": 100,
     "author": "synergy20",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=30641883"
@@ -82,157 +98,141 @@
   {
     "title": "Ask HN: Neutral DNS servers?",
     "url": "item?id=30642577",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "NotAWorkNick",
-    "comments": 36,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=30642577"
   },
   {
     "title": "Convert curl commands to code in several languages",
     "url": "https://curlconverter.com/",
-    "upvotes": 185,
+    "upvotes": 188,
     "author": "djhaskin987",
-    "comments": 66,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=30642281"
   },
   {
-    "title": "Stuff Goes Bad: Erlang in Anger",
-    "url": "https://www.erlang-in-anger.com/",
-    "upvotes": 35,
-    "author": "rramadass",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30611319"
-  },
-  {
-    "title": "Awful Library Books",
-    "url": "https://awfullibrarybooks.net/",
-    "upvotes": 27,
-    "author": "cjlm",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=30644463"
+    "title": "Is information the fifth state of matter?",
+    "url": "https://www.zmescience.com/science/news-science/information-energy-mass-equivalence/",
+    "upvotes": 23,
+    "author": "akvadrako",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=30624863"
   },
   {
     "title": "Basis",
     "url": "https://www.workatastartup.com/companies/basis-2"
   },
   {
-    "title": "The 1980s Media Panic over Dungeons and Dragons",
-    "url": "https://www.atlasobscura.com/articles/the-1980s-media-panic-over-dungeons-dragons",
-    "upvotes": 51,
-    "author": "jedwhite",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=30644956"
-  },
-  {
-    "title": "A volumetric display using an acoustically trapped particle",
-    "url": "https://www.youtube.com/watch?v=hCC1C5KIeUA",
-    "upvotes": 47,
-    "author": "mmastrac",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30642954"
+    "title": "Stuff Goes Bad: Erlang in Anger",
+    "url": "https://www.erlang-in-anger.com/",
+    "upvotes": 37,
+    "author": "rramadass",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30611319"
   },
   {
     "title": "You don't ever own an electric vehicle",
     "url": "https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev/",
-    "upvotes": 179,
+    "upvotes": 191,
     "author": "serverlessmom",
-    "comments": 246,
+    "comments": 254,
     "link": "https://news.ycombinator.com/item?id=30637725"
+  },
+  {
+    "title": "Physicists steer chemical reactions by magnetic fields and quantum interference",
+    "url": "https://phys.org/news/2022-03-physicists-chemical-reactions-magnetic-fields.html",
+    "upvotes": 8,
+    "author": "wrycoder",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30616059"
+  },
+  {
+    "title": "Why Single Sign on Sucks",
+    "url": "https://goteleport.com/blog/why-sso-sucks/",
+    "upvotes": 14,
+    "author": "benarent",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30646081"
+  },
+  {
+    "title": "A volumetric display using an acoustically trapped particle",
+    "url": "https://www.youtube.com/watch?v=hCC1C5KIeUA",
+    "upvotes": 55,
+    "author": "mmastrac",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30642954"
+  },
+  {
+    "title": "Roland 50 Studio",
+    "url": "https://roland50.studio/",
+    "upvotes": 222,
+    "author": "risktopark",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=30638634"
   },
   {
     "title": "Launch HN: Stock Unlock (YC W22) – Investment Education for Everyone",
     "url": "item?id=30640295",
     "upvotes": 60,
     "author": "hippofluff",
-    "comments": 81,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=30640295"
   },
   {
-    "title": "Roland 50 Studio",
-    "url": "https://roland50.studio/",
-    "upvotes": 214,
-    "author": "risktopark",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=30638634"
+    "title": "DNS resolution issue in Alpine Linux",
+    "url": "https://christoph.luppri.ch/fixing-dns-resolution-for-ruby-on-alpine-linux",
+    "upvotes": 46,
+    "author": "nelsonmarcos",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=30642632"
   },
   {
     "title": "Barrier: Share mouse and keyboard between computers",
     "url": "https://github.com/debauchee/barrier",
-    "upvotes": 162,
+    "upvotes": 167,
     "author": "some1else",
     "comments": 90,
     "link": "https://news.ycombinator.com/item?id=30639181"
   },
   {
-    "title": "DNS resolution issue in Alpine Linux",
-    "url": "https://christoph.luppri.ch/fixing-dns-resolution-for-ruby-on-alpine-linux",
-    "upvotes": 41,
-    "author": "nelsonmarcos",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=30642632"
-  },
-  {
-    "title": "Learning Standard C++ as a New Language",
-    "url": "https://www.drdobbs.com/learning-standard-c-as-a-new-language/184403651",
-    "upvotes": 51,
-    "author": "pcr910303",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=30625898"
+    "title": "Awful Library Books",
+    "url": "https://awfullibrarybooks.net/",
+    "upvotes": 30,
+    "author": "cjlm",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=30644463"
   },
   {
     "title": "Why does Google use location for language rather than browser settings?",
     "url": "https://smaller.fish/posts/language",
-    "upvotes": 351,
+    "upvotes": 364,
     "author": "smallerfish",
-    "comments": 282,
+    "comments": 288,
     "link": "https://news.ycombinator.com/item?id=30638590"
+  },
+  {
+    "title": "The 1980s Media Panic over Dungeons and Dragons",
+    "url": "https://www.atlasobscura.com/articles/the-1980s-media-panic-over-dungeons-dragons",
+    "upvotes": 60,
+    "author": "jedwhite",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=30644956"
   },
   {
     "title": "CD sales grow for first time since 2004",
     "url": "https://www.axios.com/cd-sales-grow-for-first-time-since-2004-0745a5ce-a2f3-4ed3-8b1e-14b20f0b218e.html",
-    "upvotes": 129,
+    "upvotes": 136,
     "author": "Drew_",
-    "comments": 213,
+    "comments": 221,
     "link": "https://news.ycombinator.com/item?id=30641467"
   },
   {
     "title": "U.S. eliminates human controls requirement for fully automated vehicles",
     "url": "https://www.reuters.com/business/autos-transportation/us-eliminates-human-controls-requirement-fully-automated-vehicles-2022-03-11/",
-    "upvotes": 244,
+    "upvotes": 253,
     "author": "ra7",
-    "comments": 303,
+    "comments": 310,
     "link": "https://news.ycombinator.com/item?id=30640947"
-  },
-  {
-    "title": "Accounting for violent conflict risk in planetary defense decisions",
-    "url": "https://gcrinstitute.org/accounting-for-violent-conflict-risk-in-planetary-defense-decisions/",
-    "upvotes": 61,
-    "author": "pmoriarty",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=30641028"
-  },
-  {
-    "title": "Is information the fifth state of matter?",
-    "url": "https://www.zmescience.com/science/news-science/information-energy-mass-equivalence/",
-    "upvotes": 14,
-    "author": "akvadrako",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30624863"
-  },
-  {
-    "title": "Linux Developer Laptops: Dell's Precision 5500 series reigns supreme",
-    "url": "https://wesmckinney.com/blog/linux-laptop-experience/",
-    "upvotes": 104,
-    "author": "skadamat",
-    "comments": 143,
-    "link": "https://news.ycombinator.com/item?id=30643414"
-  },
-  {
-    "title": "Sudan’s first YC-backed startup helps consumers protect and grow their wealth",
-    "url": "https://techcrunch.com/2022/03/08/sudans-first-yc-backed-startup-is-helping-consumers-protect-and-grow-their-wealth/",
-    "upvotes": 33,
-    "author": "sillybilly",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30642533"
   }
 ]
