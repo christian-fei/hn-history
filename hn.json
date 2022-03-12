@@ -1,34 +1,34 @@
 [
   {
-    "title": "Putin’s Worsening Problems",
-    "url": "https://newlinesmag.com/argument/putins-worsening-problems/",
-    "upvotes": 42,
-    "author": "guildwriter",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30648360"
-  },
-  {
     "title": "How to Design Better APIs",
     "url": "https://r.bluethl.net/how-to-design-better-apis",
-    "upvotes": 76,
+    "upvotes": 89,
     "author": "adrianomartins",
-    "comments": 38,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=30647784"
   },
   {
     "title": "The Art of Plain Text",
     "url": "https://www.netmeister.org/blog/the-art-of-plain-text.html",
-    "upvotes": 41,
+    "upvotes": 44,
     "author": "mooreds",
-    "comments": 19,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=30647692"
+  },
+  {
+    "title": "macOS System Preferences Uses React",
+    "url": "https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/",
+    "upvotes": 11,
+    "author": "ansh_nanda",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30648424"
   },
   {
     "title": "RISC-V J extension – Instructions for JITs",
     "url": "https://github.com/riscv/riscv-j-extension",
-    "upvotes": 55,
+    "upvotes": 57,
     "author": "frankpf",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=30647151"
   },
   {
@@ -42,47 +42,39 @@
   {
     "title": "Pockit: A tiny, powerful, modular computer [video]",
     "url": "https://www.youtube.com/watch?v=b3F9OtH2Xx4",
-    "upvotes": 1378,
+    "upvotes": 1387,
     "author": "rayrag",
-    "comments": 178,
+    "comments": 182,
     "link": "https://news.ycombinator.com/item?id=30615959"
   },
   {
     "title": "HeyWhatsThat – Calculate viewshed and panorama for any point on Earth",
     "url": "https://www.heywhatsthat.com/",
-    "upvotes": 321,
+    "upvotes": 323,
     "author": "Rygian",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=30640846"
   },
   {
     "title": "FoundationDB: A distributed unbundled transactional key value store",
     "url": "http://muratbuffalo.blogspot.com/2022/03/foundationdb-distributed-unbundled.html",
-    "upvotes": 142,
+    "upvotes": 145,
     "author": "eatonphil",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=30640932"
   },
   {
-    "title": "Researchers train an algorithm to interpret pig grunts as emotions",
-    "url": "https://www.cnet.com/science/biology/researchers-figure-out-how-to-interpret-pig-grunts-as-pig-emotions/",
-    "upvotes": 62,
-    "author": "gmays",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=30646658"
-  },
-  {
     "title": "Goldilocks Zone Finder – Find your ideal climate",
     "url": "https://lukechampine.com/goldilocks/",
-    "upvotes": 211,
+    "upvotes": 217,
     "author": "nemo1618",
-    "comments": 142,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=30642612"
   },
   {
     "title": "Physicists steer chemical reactions by magnetic fields and quantum interference",
     "url": "https://phys.org/news/2022-03-physicists-chemical-reactions-magnetic-fields.html",
-    "upvotes": 67,
+    "upvotes": 68,
     "author": "wrycoder",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30616059"
@@ -96,28 +88,20 @@
     "link": "https://news.ycombinator.com/item?id=30643520"
   },
   {
-    "title": "Software-Driven and System-Level Tests Drive Chip Quality",
-    "url": "https://semiengineering.com/software-driven-and-system-level-tests-drive-chip-quality/",
-    "upvotes": 8,
-    "author": "PaulHoule",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30615355"
-  },
-  {
     "title": "Shopify's Data Science and Engineering Foundations",
     "url": "https://shopify.engineering/shopifys-data-science-engineering-foundations",
-    "upvotes": 132,
+    "upvotes": 133,
     "author": "mooreds",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30643677"
   },
   {
-    "title": "Inverse-T History",
-    "url": "http://www.eldacur.com/~brons/NerdCorner/InverseT-History.html",
-    "upvotes": 18,
-    "author": "zdw",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30635810"
+    "title": "Researchers train an algorithm to interpret pig grunts as emotions",
+    "url": "https://www.cnet.com/science/biology/researchers-figure-out-how-to-interpret-pig-grunts-as-pig-emotions/",
+    "upvotes": 63,
+    "author": "gmays",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=30646658"
   },
   {
     "title": "NY energy grid: Real-time dashboard",
@@ -128,25 +112,49 @@
     "link": "https://news.ycombinator.com/item?id=30642420"
   },
   {
-    "title": "Scripting with Go",
-    "url": "https://bitfieldconsulting.com/golang/scripting",
-    "upvotes": 151,
-    "author": "synergy20",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=30641883"
+    "title": "Inverse-T History",
+    "url": "http://www.eldacur.com/~brons/NerdCorner/InverseT-History.html",
+    "upvotes": 18,
+    "author": "zdw",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30635810"
   },
   {
     "title": "You don't ever own an electric vehicle",
     "url": "https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev/",
-    "upvotes": 255,
+    "upvotes": 257,
     "author": "serverlessmom",
-    "comments": 337,
+    "comments": 340,
     "link": "https://news.ycombinator.com/item?id=30637725"
+  },
+  {
+    "title": "Scripting with Go",
+    "url": "https://bitfieldconsulting.com/golang/scripting",
+    "upvotes": 152,
+    "author": "synergy20",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=30641883"
+  },
+  {
+    "title": "Software-Driven and System-Level Tests Drive Chip Quality",
+    "url": "https://semiengineering.com/software-driven-and-system-level-tests-drive-chip-quality/",
+    "upvotes": 8,
+    "author": "PaulHoule",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30615355"
+  },
+  {
+    "title": "Incident report: Spotify outage on March 8",
+    "url": "https://engineering.atspotify.com/2022/03/incident-report-spotify-outage-on-march-8/",
+    "upvotes": 104,
+    "author": "charlieegan3",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=30646297"
   },
   {
     "title": "Consider the Thermometer",
     "url": "https://neverworkintheory.org/2022/03/08/consider-the-thermometer.html",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "pabs3",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30611560"
@@ -156,13 +164,21 @@
     "url": "https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783",
     "upvotes": 94,
     "author": "cglong",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30634593"
+  },
+  {
+    "title": "Making RockPro64 a NetBSD Server",
+    "url": "https://blog.netbsd.org/tnf/entry/making_rockpro64_a_netbsd_server",
+    "upvotes": 63,
+    "author": "todsacerdoti",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=30644322"
   },
   {
     "title": "Why Single Sign on Sucks",
     "url": "https://goteleport.com/blog/why-sso-sucks/",
-    "upvotes": 131,
+    "upvotes": 132,
     "author": "benarent",
     "comments": 92,
     "link": "https://news.ycombinator.com/item?id=30646081"
@@ -172,24 +188,16 @@
     "url": "https://www.thedrive.com/news/44642/imported-1000-hp-hennessey-ram-trx-limited-to-55-mph-over-tax-loophole",
     "upvotes": 65,
     "author": "giuliomagnifico",
-    "comments": 188,
+    "comments": 195,
     "link": "https://news.ycombinator.com/item?id=30644327"
   },
   {
-    "title": "Making RockPro64 a NetBSD Server",
-    "url": "https://blog.netbsd.org/tnf/entry/making_rockpro64_a_netbsd_server",
-    "upvotes": 62,
-    "author": "todsacerdoti",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=30644322"
-  },
-  {
-    "title": "Incident report: Spotify outage on March 8",
-    "url": "https://engineering.atspotify.com/2022/03/incident-report-spotify-outage-on-march-8/",
-    "upvotes": 100,
-    "author": "charlieegan3",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=30646297"
+    "title": "Migrating Thunderbird profiles: A story in three acts",
+    "url": "https://fgiesen.wordpress.com/2011/09/30/migrating-thunderbird-profiles-a-story-in-three-acts/",
+    "upvotes": 5,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30623480"
   },
   {
     "title": "Basis",
@@ -198,7 +206,7 @@
   {
     "title": "A volumetric display using an acoustically trapped particle",
     "url": "https://www.youtube.com/watch?v=hCC1C5KIeUA",
-    "upvotes": 95,
+    "upvotes": 98,
     "author": "mmastrac",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30642954"
@@ -212,27 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=30640295"
   },
   {
-    "title": "Moats for deeptech startups",
-    "url": "https://invertedpassion.com/moats-for-deeptech-startups/",
-    "upvotes": 20,
-    "author": "paraschopra",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30625063"
-  },
-  {
     "title": "Barrier: Share mouse and keyboard between computers",
     "url": "https://github.com/debauchee/barrier",
-    "upvotes": 200,
+    "upvotes": 201,
     "author": "some1else",
-    "comments": 103,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=30639181"
   },
   {
-    "title": "Ask HN: Neutral DNS servers?",
-    "url": "item?id=30642577",
-    "upvotes": 91,
-    "author": "NotAWorkNick",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=30642577"
+    "title": "The Legendary Survival Story of Sir Ernest Shackleton",
+    "url": "https://www.offgridweb.com/survival/the-legendary-survival-story-of-sir-ernest-shackleton/",
+    "upvotes": 3,
+    "author": "gmays",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30648380"
   }
 ]
