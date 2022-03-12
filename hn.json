@@ -1,80 +1,88 @@
 [
   {
+    "title": "Today is Y Combinator's 17th birthday",
+    "url": "https://twitter.com/paulg/status/1502424734679638028",
+    "upvotes": 53,
+    "author": "ElectronShak",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=30650238"
+  },
+  {
     "title": "Inspecting Web Views in macOS",
     "url": "https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/",
-    "upvotes": 372,
+    "upvotes": 380,
     "author": "ansh_nanda",
-    "comments": 105,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=30648424"
   },
   {
     "title": "The tech industry controls CS conference funding. What are the dangers?",
     "url": "https://freedom-to-tinker.com/2022/03/11/the-tech-industry-controls-cs-conference-funding-what-are-the-dangers/",
-    "upvotes": 46,
+    "upvotes": 55,
     "author": "imartin2k",
-    "comments": 26,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=30649729"
-  },
-  {
-    "title": "Today is Y Combinator's 17th birthday",
-    "url": "https://twitter.com/paulg/status/1502424734679638028",
-    "upvotes": 13,
-    "author": "ElectronShak",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30650238"
   },
   {
     "title": "How to Design Better APIs",
     "url": "https://r.bluethl.net/how-to-design-better-apis",
-    "upvotes": 291,
+    "upvotes": 299,
     "author": "adrianomartins",
-    "comments": 137,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=30647784"
   },
   {
     "title": "Pockit: A tiny, powerful, modular computer [video]",
     "url": "https://www.youtube.com/watch?v=b3F9OtH2Xx4",
-    "upvotes": 1658,
+    "upvotes": 1667,
     "author": "rayrag",
-    "comments": 206,
+    "comments": 208,
     "link": "https://news.ycombinator.com/item?id=30615959"
-  },
-  {
-    "title": "Piercing the Cloud Armor – The 8KB Bypass in Google Cloud Platform WAF",
-    "url": "https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf",
-    "upvotes": 40,
-    "author": "robin_reala",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=30649328"
   },
   {
     "title": "Face-to-face interaction enhances learning, innovation",
     "url": "https://news.cornell.edu/stories/2022/03/face-face-interaction-enhances-learning-innovation",
-    "upvotes": 7,
+    "upvotes": 13,
     "author": "caaqil",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30634476"
+  },
+  {
+    "title": "Piercing the Cloud Armor – The 8KB Bypass in Google Cloud Platform WAF",
+    "url": "https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf",
+    "upvotes": 42,
+    "author": "robin_reala",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=30649328"
   },
   {
     "title": "Ask HN: How to quickly animate system sketches and 2D diagrams?",
     "url": "item?id=30631993",
-    "upvotes": 50,
+    "upvotes": 52,
     "author": "pbowyer",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=30631993"
   },
   {
     "title": "John von Neumann Thought He Had the Answers",
     "url": "https://newrepublic.com/article/165581/john-von-neumann-man-from-future-book-review",
-    "upvotes": 29,
+    "upvotes": 32,
     "author": "Hooke",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30622115"
+  },
+  {
+    "title": "RadixSpline: A Single-Pass Learned Index",
+    "url": "https://www.youtube.com/watch?v=or0JXc4UQ-4",
+    "upvotes": 5,
+    "author": "lichtenberger",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30617139"
   },
   {
     "title": "RISC-V J extension – Instructions for JITs",
     "url": "https://github.com/riscv/riscv-j-extension",
-    "upvotes": 105,
+    "upvotes": 106,
     "author": "frankpf",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=30647151"
@@ -90,7 +98,7 @@
   {
     "title": "The egg carton traces its origins to the early 20th century",
     "url": "https://invention.si.edu/egg-citing-inventions",
-    "upvotes": 11,
+    "upvotes": 12,
     "author": "magnifique",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30631717"
@@ -98,23 +106,31 @@
   {
     "title": "Goldilocks Zone Finder – Find your ideal climate",
     "url": "https://lukechampine.com/goldilocks/",
-    "upvotes": 275,
+    "upvotes": 280,
     "author": "nemo1618",
-    "comments": 161,
+    "comments": 164,
     "link": "https://news.ycombinator.com/item?id=30642612"
   },
   {
     "title": "The Art of Plain Text",
     "url": "https://www.netmeister.org/blog/the-art-of-plain-text.html",
-    "upvotes": 97,
+    "upvotes": 99,
     "author": "mooreds",
-    "comments": 55,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=30647692"
+  },
+  {
+    "title": "Pull Request File Tree Feedback",
+    "url": "https://github.com/github/feedback/discussions/12341",
+    "upvotes": 97,
+    "author": "isbadawi",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=30647047"
   },
   {
     "title": "Neurosymbolic Programming",
     "url": "https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf",
-    "upvotes": 52,
+    "upvotes": 53,
     "author": "YeGoblynQueenne",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30631907"
@@ -122,18 +138,18 @@
   {
     "title": "Functional Web App",
     "url": "https://fwa.dev/",
-    "upvotes": 16,
+    "upvotes": 17,
     "author": "craigkerstiens",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=30634496"
   },
   {
-    "title": "Pull Request File Tree Feedback",
-    "url": "https://github.com/github/feedback/discussions/12341",
-    "upvotes": 95,
-    "author": "isbadawi",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=30647047"
+    "title": "Why Modern Movies Suck",
+    "url": "https://www.youtube.com/watch?v=Dnuqp4_K7ik",
+    "upvotes": 67,
+    "author": "jdkee",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=30649814"
   },
   {
     "title": "Launch HN: Tensil (YC S19) – Open-Source ML Accelerators",
@@ -144,28 +160,12 @@
     "link": "https://news.ycombinator.com/item?id=30643520"
   },
   {
-    "title": "The Drunk Men I Drive Around Every Night",
-    "url": "https://slate.com/human-interest/2020/02/ride-sharing-designated-driver-alcohol-effects-uber-lyft.html",
-    "upvotes": 82,
-    "author": "serverlessmom",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=30612066"
-  },
-  {
     "title": "Scripting with Go",
     "url": "https://bitfieldconsulting.com/golang/scripting",
-    "upvotes": 189,
+    "upvotes": 192,
     "author": "synergy20",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=30641883"
-  },
-  {
-    "title": "Why Modern Movies Suck",
-    "url": "https://www.youtube.com/watch?v=Dnuqp4_K7ik",
-    "upvotes": 57,
-    "author": "jdkee",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=30649814"
   },
   {
     "title": "Shopify's Data Science and Engineering Foundations",
@@ -176,25 +176,25 @@
     "link": "https://news.ycombinator.com/item?id=30643677"
   },
   {
-    "title": "The Legendary Survival Story of Sir Ernest Shackleton",
-    "url": "https://www.offgridweb.com/survival/the-legendary-survival-story-of-sir-ernest-shackleton/",
-    "upvotes": 38,
-    "author": "gmays",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=30648380"
-  },
-  {
     "title": "Physicists steer chemical reactions by magnetic fields and quantum interference",
     "url": "https://phys.org/news/2022-03-physicists-chemical-reactions-magnetic-fields.html",
-    "upvotes": 87,
+    "upvotes": 89,
     "author": "wrycoder",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30616059"
   },
   {
+    "title": "The Legendary Survival Story of Sir Ernest Shackleton",
+    "url": "https://www.offgridweb.com/survival/the-legendary-survival-story-of-sir-ernest-shackleton/",
+    "upvotes": 39,
+    "author": "gmays",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=30648380"
+  },
+  {
     "title": "A volumetric display using an acoustically trapped particle",
     "url": "https://www.youtube.com/watch?v=hCC1C5KIeUA",
-    "upvotes": 136,
+    "upvotes": 140,
     "author": "mmastrac",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30642954"
@@ -202,9 +202,9 @@
   {
     "title": "To avoid Finland’s tax a 1,000HP imported Hennessey RAM is limited to 55MPH",
     "url": "https://www.thedrive.com/news/44642/imported-1000-hp-hennessey-ram-trx-limited-to-55-mph-over-tax-loophole",
-    "upvotes": 102,
+    "upvotes": 103,
     "author": "giuliomagnifico",
-    "comments": 317,
+    "comments": 322,
     "link": "https://news.ycombinator.com/item?id=30644327"
   },
   {
@@ -218,7 +218,7 @@
   {
     "title": "Adding HLSL and DirectX Support to Clang and LLVM",
     "url": "https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783",
-    "upvotes": 117,
+    "upvotes": 118,
     "author": "cglong",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=30634593"
@@ -226,17 +226,17 @@
   {
     "title": "Launch HN: Stock Unlock (YC W22) – Investment Education for Everyone",
     "url": "item?id=30640295",
-    "upvotes": 86,
+    "upvotes": 87,
     "author": "hippofluff",
     "comments": 101,
     "link": "https://news.ycombinator.com/item?id=30640295"
   },
   {
-    "title": "What Is a Law of Nature?",
-    "url": "https://aeon.co/essays/natural-laws-cant-be-broken-but-can-they-be-defined",
-    "upvotes": 7,
-    "author": "furrowedbrow",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30635852"
+    "title": "The Drunk Men I Drive Around Every Night",
+    "url": "https://slate.com/human-interest/2020/02/ride-sharing-designated-driver-alcohol-effects-uber-lyft.html",
+    "upvotes": 84,
+    "author": "serverlessmom",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=30612066"
   }
 ]
