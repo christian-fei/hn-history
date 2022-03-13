@@ -2,103 +2,111 @@
   {
     "title": "EU to make it mandatory to use customer-replaceable batteries in household items",
     "url": "https://www.eevblog.com/forum/dodgy-technology/not-dodgy-at-all-and-long-overdue-user-replaceable-batteries/",
-    "upvotes": 78,
+    "upvotes": 169,
     "author": "Tomte",
-    "comments": 45,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=30660953"
   },
   {
     "title": "Telegram Cooperates with FSB",
     "url": "https://pdmnews.ru/25704/",
-    "upvotes": 16,
+    "upvotes": 61,
     "author": "EugeneOZ",
-    "comments": null,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30661335"
   },
   {
     "title": "The global streaming boom is creating a translator shortage",
     "url": "https://restofworld.org/2021/lost-in-translation-the-global-streaming-boom-is-creating-a-translator-shortage/",
-    "upvotes": 21,
+    "upvotes": 28,
     "author": "donohoe",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30660971"
+  },
+  {
+    "title": "Why Kubernetes is important for the future of data platforms",
+    "url": "https://mertkavi.com/why-kubernetes-is-important-for-the-future-of-data-platforms/",
+    "upvotes": 20,
+    "author": "mertkavi",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30661120"
   },
   {
     "title": "Storing UTC is not a silver bullet",
     "url": "https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/",
-    "upvotes": 140,
+    "upvotes": 152,
     "author": "nickkell",
-    "comments": 105,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=30659164"
   },
   {
     "title": "To Save C, We Must Save ABI",
     "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
-    "upvotes": 39,
+    "upvotes": 52,
     "author": "ingve",
-    "comments": 19,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=30660528"
   },
   {
     "title": "A digital circuit simulator written in sed",
     "url": "https://fideo.info/wiki.lua/blog/sed-circuit-simulator",
-    "upvotes": 52,
+    "upvotes": 59,
     "author": "curiousfab",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30660203"
   },
   {
-    "title": "Pipe Logic",
-    "url": "https://www.linusakesson.net/programming/pipelogic/index.php",
-    "upvotes": 6,
-    "author": "elteto",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30661379"
+    "title": "LiBlast: A Libre Multiplayer FPS Game Built with Godot 4 and Blender",
+    "url": "https://codeberg.org/unfa/Liblast",
+    "upvotes": 61,
+    "author": "homarp",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=30660000"
+  },
+  {
+    "title": "S2: Computational geometry and spatial indexing on the sphere",
+    "url": "https://github.com/google/s2geometry",
+    "upvotes": 8,
+    "author": "ofou",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30661478"
   },
   {
     "title": "Qgis2threejs: Visualize DEM Maps and 3D Vector Data on Web",
     "url": "https://github.com/minorua/Qgis2threejs",
-    "upvotes": 12,
+    "upvotes": 14,
     "author": "ArtWomb",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30660948"
   },
   {
-    "title": "Why Kubernetes is important for the future of data platforms",
-    "url": "https://mertkavi.com/why-kubernetes-is-important-for-the-future-of-data-platforms/",
-    "upvotes": 6,
-    "author": "mertkavi",
+    "title": "Pipe Logic",
+    "url": "https://www.linusakesson.net/programming/pipelogic/index.php",
+    "upvotes": 8,
+    "author": "elteto",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30661120"
-  },
-  {
-    "title": "LiBlast: A Libre Multiplayer FPS Game Built with Godot 4 and Blender",
-    "url": "https://codeberg.org/unfa/Liblast",
-    "upvotes": 51,
-    "author": "homarp",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30660000"
-  },
-  {
-    "title": "The Future of Kubernetes",
-    "url": "https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022",
-    "upvotes": 66,
-    "author": "kiyanwang",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=30660534"
+    "link": "https://news.ycombinator.com/item?id=30661379"
   },
   {
     "title": "Adam Smith did not mean what he is often made to say",
     "url": "https://www.theatlantic.com/magazine/archive/1998/03/todays-most-mischievous-misquotation/377072/",
-    "upvotes": 55,
+    "upvotes": 64,
     "author": "agomez314",
-    "comments": 33,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=30631605"
+  },
+  {
+    "title": "The Future of Kubernetes",
+    "url": "https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022",
+    "upvotes": 79,
+    "author": "kiyanwang",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=30660534"
   },
   {
     "title": "Show HN: I made my personal website a Pokémon-style minigame using Phaser 3",
     "url": "https://arielroffe.quest/",
-    "upvotes": 338,
+    "upvotes": 344,
     "author": "cartucho1",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=30656961"
@@ -106,7 +114,7 @@
   {
     "title": "Show HN: Self-hosted service for creating random avatars",
     "url": "https://github.com/frncsdrk/avatar",
-    "upvotes": 19,
+    "upvotes": 23,
     "author": "frncsdrk",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30660316"
@@ -114,129 +122,121 @@
   {
     "title": "Stories of reaching Staff-plus engineering roles",
     "url": "https://staffeng.com/",
-    "upvotes": 61,
+    "upvotes": 69,
     "author": "walterbell",
-    "comments": 34,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=30659096"
-  },
-  {
-    "title": "The Art of the Reading Nook",
-    "url": "https://www.spectator.co.uk/article/the-art-of-the-reading-nook",
-    "upvotes": 10,
-    "author": "prismatic",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30636433"
   },
   {
     "title": "Manim – Python library for creating mathematical animations",
     "url": "https://www.manim.community/",
-    "upvotes": 53,
+    "upvotes": 65,
     "author": "sytelus",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=30658390"
   },
   {
-    "title": "Telegram Trilateration: Abusing “People Near Me” and tracking people's location",
-    "url": "https://github.com/jkctech/Telegram-Trilateration",
-    "upvotes": 67,
-    "author": "gaius_baltar",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=30646124"
+    "title": "The Art of the Reading Nook",
+    "url": "https://www.spectator.co.uk/article/the-art-of-the-reading-nook",
+    "upvotes": 14,
+    "author": "prismatic",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30636433"
   },
   {
-    "title": "Finnish govt agency warns of unusual aircraft GPS interference",
-    "url": "https://www.bleepingcomputer.com/news/technology/finnish-govt-agency-warns-of-unusual-aircraft-gps-interference/",
-    "upvotes": 177,
-    "author": "danboarder",
-    "comments": 119,
-    "link": "https://news.ycombinator.com/item?id=30658644"
-  },
-  {
-    "title": "Show HN: Graphsignal – Machine learning profiler for training and inference",
-    "url": "https://graphsignal.com/",
-    "upvotes": 23,
-    "author": "dmitrim",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30628618"
+    "title": "Cycling Art, Energy, and Locomotion",
+    "url": "https://publicdomainreview.org/collection/cycling-art/",
+    "upvotes": 3,
+    "author": "Hooke",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30648787"
   },
   {
     "title": "Snmalloc: High-performance message passing based allocator",
     "url": "https://github.com/microsoft/snmalloc",
-    "upvotes": 11,
+    "upvotes": 16,
     "author": "homarp",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30659690"
   },
   {
+    "title": "Telegram Trilateration: Abusing “People Near Me” and tracking people's location",
+    "url": "https://github.com/jkctech/Telegram-Trilateration",
+    "upvotes": 74,
+    "author": "gaius_baltar",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=30646124"
+  },
+  {
+    "title": "Finnish govt agency warns of unusual aircraft GPS interference",
+    "url": "https://www.bleepingcomputer.com/news/technology/finnish-govt-agency-warns-of-unusual-aircraft-gps-interference/",
+    "upvotes": 191,
+    "author": "danboarder",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=30658644"
+  },
+  {
     "title": "We must return to an economy fueled by innovation, rather than disruption",
     "url": "https://greg-satell.medium.com/how-the-uber-economy-is-killing-innovation-prosperity-and-entrepreneurship-7222982cd457",
-    "upvotes": 189,
+    "upvotes": 211,
     "author": "version_five",
-    "comments": 204,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=30658835"
+  },
+  {
+    "title": "Show HN: Graphsignal – Machine learning profiler for training and inference",
+    "url": "https://graphsignal.com/",
+    "upvotes": 25,
+    "author": "dmitrim",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30628618"
+  },
+  {
+    "title": "Ask HN: Alternatives to DuckDuckGo?",
+    "url": "item?id=30661009",
+    "upvotes": 11,
+    "author": "bArray",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30661009"
+  },
+  {
+    "title": "Fish 3.4.0 Released",
+    "url": "https://github.com/fish-shell/fish-shell/releases/tag/3.4.0",
+    "upvotes": 15,
+    "author": "robin_reala",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30660587"
   },
   {
     "title": "Ask HN: What ML platform are you using?",
     "url": "item?id=30658324",
-    "upvotes": 100,
+    "upvotes": 107,
     "author": "speedylight",
-    "comments": 50,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=30658324"
-  },
-  {
-    "title": "Ask HN: Alternatives to 1Password",
-    "url": "item?id=30658936",
-    "upvotes": 66,
-    "author": "vasachi",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=30658936"
   },
   {
     "title": "Securely Yours, Love Password Managers",
     "url": "https://cyberlit.co/blog/securely-yours-love-password-managers",
-    "upvotes": 19,
+    "upvotes": 22,
     "author": "mooreds",
-    "comments": 14,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=30635676"
+  },
+  {
+    "title": "Ask HN: Alternatives to 1Password",
+    "url": "item?id=30658936",
+    "upvotes": 69,
+    "author": "vasachi",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=30658936"
   },
   {
     "title": "Texas man wins $75K suing telemarketers for illegal robo-calls",
     "url": "https://www.chron.com/business/article/Robocalls-Texas-Austin-lawsuit-Do-Not-Call-list-16989419.php",
-    "upvotes": 127,
+    "upvotes": 140,
     "author": "walterbell",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=30658321"
-  },
-  {
-    "title": "Building Password Purgatory with Cloudflare Pages and Workers",
-    "url": "https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers/",
-    "upvotes": 98,
-    "author": "robin_reala",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=30623986"
-  },
-  {
-    "title": "The case for induction cooking",
-    "url": "https://www.nytimes.com/2022/03/11/dining/induction-cooking.html",
-    "upvotes": 282,
-    "author": "mathieutd",
-    "comments": 517,
-    "link": "https://news.ycombinator.com/item?id=30654693"
-  },
-  {
-    "title": ".NET Myths Dispelled",
-    "url": "https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27?gi=7ef0cf441b4f",
-    "upvotes": 327,
-    "author": "geekydev",
-    "comments": 394,
-    "link": "https://news.ycombinator.com/item?id=30654114"
-  },
-  {
-    "title": "Show HN: French Republican Calendar based on equinoxes",
-    "url": "https://frcal.qt.ax/",
-    "upvotes": 25,
-    "author": "quantum5",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30658487"
   }
 ]
