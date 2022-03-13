@@ -2,31 +2,47 @@
   {
     "title": "The Future of Kubernetes",
     "url": "https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022",
-    "upvotes": 38,
+    "upvotes": 55,
     "author": "kiyanwang",
-    "comments": 13,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=30660534"
   },
   {
     "title": "Storing UTC is not a silver bullet",
     "url": "https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/",
-    "upvotes": 108,
+    "upvotes": 125,
     "author": "nickkell",
-    "comments": 89,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=30659164"
+  },
+  {
+    "title": "The global streaming boom is creating a translator shortage",
+    "url": "https://restofworld.org/2021/lost-in-translation-the-global-streaming-boom-is-creating-a-translator-shortage/",
+    "upvotes": 6,
+    "author": "donohoe",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30660971"
   },
   {
     "title": "A digital circuit simulator written in sed",
     "url": "https://fideo.info/wiki.lua/blog/sed-circuit-simulator",
-    "upvotes": 34,
+    "upvotes": 40,
     "author": "curiousfab",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30660203"
   },
   {
+    "title": "To Save C, We Must Save ABI",
+    "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
+    "upvotes": 22,
+    "author": "ingve",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30660528"
+  },
+  {
     "title": "LiBlast: A Libre Multiplayer FPS Game Built with Godot 4 and Blender",
     "url": "https://codeberg.org/unfa/Liblast",
-    "upvotes": 31,
+    "upvotes": 37,
     "author": "homarp",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30660000"
@@ -34,31 +50,23 @@
   {
     "title": "Adam Smith did not mean what he is often made to say",
     "url": "https://www.theatlantic.com/magazine/archive/1998/03/todays-most-mischievous-misquotation/377072/",
-    "upvotes": 35,
+    "upvotes": 39,
     "author": "agomez314",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=30631605"
   },
   {
     "title": "Show HN: I made my personal website a Pokémon-style minigame using Phaser 3",
     "url": "https://arielroffe.quest/",
-    "upvotes": 314,
+    "upvotes": 317,
     "author": "cartucho1",
-    "comments": 54,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=30656961"
-  },
-  {
-    "title": "To Save C, We Must Save ABI",
-    "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
-    "upvotes": 10,
-    "author": "ingve",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30660528"
   },
   {
     "title": "Show HN: Self-hosted service for creating random avatars",
     "url": "https://github.com/frncsdrk/avatar",
-    "upvotes": 13,
+    "upvotes": 15,
     "author": "frncsdrk",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30660316"
@@ -66,15 +74,23 @@
   {
     "title": "Stories of reaching Staff-plus engineering roles",
     "url": "https://staffeng.com/",
-    "upvotes": 45,
+    "upvotes": 51,
     "author": "walterbell",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30659096"
   },
   {
+    "title": "Manim – Python library for creating mathematical animations",
+    "url": "https://www.manim.community/",
+    "upvotes": 39,
+    "author": "sytelus",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=30658390"
+  },
+  {
     "title": "Telegram Trilateration: Abusing “People Near Me” and tracking people's location",
     "url": "https://github.com/jkctech/Telegram-Trilateration",
-    "upvotes": 53,
+    "upvotes": 60,
     "author": "gaius_baltar",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=30646124"
@@ -82,71 +98,55 @@
   {
     "title": "Finnish govt agency warns of unusual aircraft GPS interference",
     "url": "https://www.bleepingcomputer.com/news/technology/finnish-govt-agency-warns-of-unusual-aircraft-gps-interference/",
-    "upvotes": 151,
+    "upvotes": 160,
     "author": "danboarder",
-    "comments": 107,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=30658644"
   },
   {
     "title": "We must return to an economy fueled by innovation, rather than disruption",
     "url": "https://greg-satell.medium.com/how-the-uber-economy-is-killing-innovation-prosperity-and-entrepreneurship-7222982cd457",
-    "upvotes": 160,
+    "upvotes": 170,
     "author": "version_five",
-    "comments": 161,
+    "comments": 174,
     "link": "https://news.ycombinator.com/item?id=30658835"
-  },
-  {
-    "title": "Shader Park: A JavaScript library for creating interactive procedural shaders",
-    "url": "https://shaderpark.com/",
-    "upvotes": 139,
-    "author": "Pulcinella",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=30655287"
-  },
-  {
-    "title": "Manim – Python library for creating mathematical animations",
-    "url": "https://www.manim.community/",
-    "upvotes": 27,
-    "author": "sytelus",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=30658390"
-  },
-  {
-    "title": "Ask HN: What ML platform are you using?",
-    "url": "item?id=30658324",
-    "upvotes": 86,
-    "author": "speedylight",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=30658324"
-  },
-  {
-    "title": "Securely Yours, Love Password Managers",
-    "url": "https://cyberlit.co/blog/securely-yours-love-password-managers",
-    "upvotes": 14,
-    "author": "mooreds",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=30635676"
   },
   {
     "title": "The Art of the Reading Nook",
     "url": "https://www.spectator.co.uk/article/the-art-of-the-reading-nook",
-    "upvotes": 3,
+    "upvotes": 5,
     "author": "prismatic",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30636433"
   },
   {
+    "title": "Securely Yours, Love Password Managers",
+    "url": "https://cyberlit.co/blog/securely-yours-love-password-managers",
+    "upvotes": 17,
+    "author": "mooreds",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=30635676"
+  },
+  {
+    "title": "Ask HN: What ML platform are you using?",
+    "url": "item?id=30658324",
+    "upvotes": 91,
+    "author": "speedylight",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=30658324"
+  },
+  {
     "title": "Building Password Purgatory with Cloudflare Pages and Workers",
     "url": "https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers/",
-    "upvotes": 94,
+    "upvotes": 97,
     "author": "robin_reala",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=30623986"
   },
   {
     "title": "Texas man wins $75K suing telemarketers for illegal robo-calls",
     "url": "https://www.chron.com/business/article/Robocalls-Texas-Austin-lawsuit-Do-Not-Call-list-16989419.php",
-    "upvotes": 99,
+    "upvotes": 110,
     "author": "walterbell",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30658321"
@@ -154,34 +154,50 @@
   {
     "title": "The case for induction cooking",
     "url": "https://www.nytimes.com/2022/03/11/dining/induction-cooking.html",
-    "upvotes": 273,
+    "upvotes": 275,
     "author": "mathieutd",
-    "comments": 492,
+    "comments": 496,
     "link": "https://news.ycombinator.com/item?id=30654693"
-  },
-  {
-    "title": "Smart-TV blocklist for Pi-Hole",
-    "url": "https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt",
-    "upvotes": 362,
-    "author": "LeoPanthera",
-    "comments": 192,
-    "link": "https://news.ycombinator.com/item?id=30655479"
   },
   {
     "title": ".NET Myths Dispelled",
     "url": "https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27?gi=7ef0cf441b4f",
-    "upvotes": 311,
+    "upvotes": 312,
     "author": "geekydev",
-    "comments": 374,
+    "comments": 378,
     "link": "https://news.ycombinator.com/item?id=30654114"
+  },
+  {
+    "title": "Ask HN: Alternatives to 1Password",
+    "url": "item?id=30658936",
+    "upvotes": 49,
+    "author": "vasachi",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=30658936"
+  },
+  {
+    "title": "Show HN: French Republican Calendar based on equinoxes",
+    "url": "https://frcal.qt.ax/",
+    "upvotes": 20,
+    "author": "quantum5",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30658487"
   },
   {
     "title": "Experimental investigation of orangutans’ sharp stone tool behaviours",
     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263343",
-    "upvotes": 36,
+    "upvotes": 37,
     "author": "tintinnabula",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30631445"
+  },
+  {
+    "title": "Fscom Switch Shell",
+    "url": "https://abbbi.github.io/fscom/",
+    "upvotes": 23,
+    "author": "todsacerdoti",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30631798"
   },
   {
     "title": "Soar",
@@ -192,49 +208,33 @@
     "link": "https://news.ycombinator.com/item?id=30635406"
   },
   {
-    "title": "Fscom Switch Shell",
-    "url": "https://abbbi.github.io/fscom/",
-    "upvotes": 22,
-    "author": "todsacerdoti",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30631798"
-  },
-  {
-    "title": "Show HN: French Republican Calendar based on equinoxes",
-    "url": "https://frcal.qt.ax/",
-    "upvotes": 16,
-    "author": "quantum5",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30658487"
-  },
-  {
-    "title": "Ask HN: Alternatives to 1Password",
-    "url": "item?id=30658936",
-    "upvotes": 42,
-    "author": "vasachi",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=30658936"
-  },
-  {
     "title": "Samsung and Omnivision Claim Smallest Camera Pixels",
     "url": "https://spectrum.ieee.org/cmos-image-sensor-pixel",
-    "upvotes": 24,
+    "upvotes": 26,
     "author": "sohkamyung",
-    "comments": 12,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30635450"
   },
   {
     "title": "A non-standard book list for software developers",
     "url": "https://mihaiolteanu.me/books.html",
-    "upvotes": 381,
+    "upvotes": 386,
     "author": "molteanu",
-    "comments": 91,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=30651273"
+  },
+  {
+    "title": "Shader Park: A JavaScript library for creating interactive procedural shaders",
+    "url": "https://shaderpark.com/",
+    "upvotes": 142,
+    "author": "Pulcinella",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=30655287"
   },
   {
     "title": "A short conversation with a bank",
     "url": "https://newsletter.danhon.com/archive/s11e09-a-short-conversation-with-a-bank/",
-    "upvotes": 471,
+    "upvotes": 476,
     "author": "fremden",
     "comments": 281,
     "link": "https://news.ycombinator.com/item?id=30631728"
