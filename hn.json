@@ -2,47 +2,47 @@
   {
     "title": "PartialExecuter: Reducing WebAssembly size by exploring all executions in LLVM",
     "url": "https://leaningtech.com/reducing-webassembly-size-by-exploring-all-executions-in-llvm/",
-    "upvotes": 127,
+    "upvotes": 146,
     "author": "apignotti",
-    "comments": 41,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=30686919"
   },
   {
     "title": "DigitalOcean acquires CSS-tricks",
     "url": "https://css-tricks.com/css-tricks-is-joining-digitalocean/",
-    "upvotes": 474,
+    "upvotes": 492,
     "author": "nilsandrey",
-    "comments": 123,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=30684594"
-  },
-  {
-    "title": "OpenSSL security advisory: Infinite loop reachable when parsing certificates",
-    "url": "https://www.openssl.org/news/secadv/20220315.txt",
-    "upvotes": 39,
-    "author": "psanford",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30687678"
   },
   {
     "title": "Go 1.18 Released",
     "url": "https://github.com/golang/go/releases/tag/go1.18",
-    "upvotes": 81,
+    "upvotes": 164,
     "author": "mjlee",
-    "comments": 20,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=30688208"
+  },
+  {
+    "title": "OpenSSL security advisory: Infinite loop reachable when parsing certificates",
+    "url": "https://www.openssl.org/news/secadv/20220315.txt",
+    "upvotes": 57,
+    "author": "psanford",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30687678"
   },
   {
     "title": "Popular Tibetan singer Tsewang Norbu dies of self-immolation protest",
     "url": "https://tchrd.org/popular-tibetan-singer-tsewang-norbu-dies-of-self-immolation-protest/",
-    "upvotes": 70,
+    "upvotes": 125,
     "author": "ilamont",
-    "comments": 23,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=30688013"
   },
   {
     "title": "Strype, a Python frame-based editor",
     "url": "https://microbit.org/news/2022-02-24/introducing-strype-a-framebased-editor/",
-    "upvotes": 50,
+    "upvotes": 56,
     "author": "marianoguerra",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30687040"
@@ -50,10 +50,18 @@
   {
     "title": "TinyRenderer – how OpenGL works: software rendering in 500 lines of code",
     "url": "https://github.com/ssloy/tinyrenderer/wiki",
-    "upvotes": 67,
+    "upvotes": 83,
     "author": "graderjs",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30686163"
+  },
+  {
+    "title": "Google Domains is out of beta",
+    "url": "https://domains.google/learn/out-of-beta/",
+    "upvotes": 33,
+    "author": "Garbage",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=30688552"
   },
   {
     "title": "Emerge tools",
@@ -62,177 +70,169 @@
   {
     "title": "Oxidation makes tea black",
     "url": "https://www.sophiescuppatea.com/blogs/news/oxidation-makes-tea-black",
-    "upvotes": 41,
+    "upvotes": 49,
     "author": "cmogni1",
-    "comments": 18,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=30686854"
+  },
+  {
+    "title": "System – A resource that aims to explain how everything in the world is related",
+    "url": "https://www.system.com",
+    "upvotes": 13,
+    "author": "daniellenewnham",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30670612"
   },
   {
     "title": "Launch HN: Vimmerse (YC W22) – Platform and SDKs to create and play 3D video",
     "url": "item?id=30686027",
-    "upvotes": 34,
+    "upvotes": 35,
     "author": "jillboyce",
-    "comments": 9,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30686027"
-  },
-  {
-    "title": "Popular Patreon creators are being hit with Vimeo price hikes",
-    "url": "https://www.theverge.com/2022/3/15/22979126/vimeo-patreon-creators-price-increase",
-    "upvotes": 128,
-    "author": "usermi",
-    "comments": 122,
-    "link": "https://news.ycombinator.com/item?id=30686704"
   },
   {
     "title": "Physics in Clojure: Elliptical Paths",
     "url": "https://twitter.com/sritchie/status/1503220063264026629",
-    "upvotes": 52,
+    "upvotes": 62,
     "author": "tosh",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30671167"
   },
   {
-    "title": "Tree cover loss – 2001-2020",
-    "url": "https://www.globalforestwatch.org/map/",
-    "upvotes": 61,
-    "author": "itstaken",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=30686866"
+    "title": "A flexible, lightweight, spin-lock barrier",
+    "url": "https://nullprogram.com/blog/2022/03/13/",
+    "upvotes": 37,
+    "author": "kencausey",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=30671979"
   },
   {
     "title": "Osm.el – OpenStreetMap Viewer for Emacs",
     "url": "https://github.com/minad/osm",
-    "upvotes": 198,
+    "upvotes": 203,
     "author": "okasaki",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=30682841"
+  },
+  {
+    "title": "Tree cover loss – 2001-2020",
+    "url": "https://www.globalforestwatch.org/map/",
+    "upvotes": 69,
+    "author": "itstaken",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=30686866"
   },
   {
     "title": "Arm to drop up to 15 percent of staff, about 1k people",
     "url": "https://www.theregister.com/2022/03/15/arm_job_cuts/",
-    "upvotes": 135,
+    "upvotes": 147,
     "author": "analyst_9",
-    "comments": 57,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=30684888"
   },
   {
-    "title": "A flexible, lightweight, spin-lock barrier",
-    "url": "https://nullprogram.com/blog/2022/03/13/",
-    "upvotes": 30,
-    "author": "kencausey",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30671979"
+    "title": "Popular Patreon creators are being hit with Vimeo price hikes",
+    "url": "https://www.theverge.com/2022/3/15/22979126/vimeo-patreon-creators-price-increase",
+    "upvotes": 137,
+    "author": "usermi",
+    "comments": 139,
+    "link": "https://news.ycombinator.com/item?id=30686704"
   },
   {
     "title": "Launch HN: Method Financial (YC S19) – API to embed debt repayment into your app",
     "url": "item?id=30685921",
-    "upvotes": 22,
+    "upvotes": 25,
     "author": "joseb",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30685921"
   },
   {
-    "title": "Ask HN: Is there a pure SMS based UI?",
-    "url": "item?id=30685223",
-    "upvotes": 40,
-    "author": "joshcramer",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=30685223"
+    "title": "Vim Reference Guide",
+    "url": "https://learnbyexample.github.io/vim_reference/Introduction.html",
+    "upvotes": 112,
+    "author": "asicsp",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=30684232"
   },
   {
     "title": "How on earth I became an entrepreneur",
     "url": "https://www.deepsouthventures.com/how-on-earth/",
-    "upvotes": 150,
+    "upvotes": 155,
     "author": "herbertl",
-    "comments": 61,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=30671111"
-  },
-  {
-    "title": "Vim Reference Guide",
-    "url": "https://learnbyexample.github.io/vim_reference/Introduction.html",
-    "upvotes": 102,
-    "author": "asicsp",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=30684232"
-  },
-  {
-    "title": "Arti – An implementation of Tor in Rust",
-    "url": "https://blog.torproject.org/arti_010_released/",
-    "upvotes": 274,
-    "author": "solanav",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=30683879"
-  },
-  {
-    "title": "Light mode, Dark mode, and Gen-Z mode?",
-    "url": "https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode",
-    "upvotes": 286,
-    "author": "beweinreich",
-    "comments": 261,
-    "link": "https://news.ycombinator.com/item?id=30685587"
-  },
-  {
-    "title": "CIA black site detainee served as training prop to teach torture techniques",
-    "url": "https://www.theguardian.com/law/2022/mar/14/cia-black-site-detainee-training-prop-torture-techniques",
-    "upvotes": 275,
-    "author": "LittleMoveBig",
-    "comments": 160,
-    "link": "https://news.ycombinator.com/item?id=30685066"
-  },
-  {
-    "title": "Delightful React file/directory structure",
-    "url": "https://www.joshwcomeau.com/react/file-structure/",
-    "upvotes": 56,
-    "author": "joshwcomeau",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=30684777"
-  },
-  {
-    "title": "Odisha labourer who started YouTube channel in lockdown earns lakhs",
-    "url": "https://www.news18.com/news/buzz/odisha-tribal-labourer-who-started-channel-in-lockdown-earns-lakhs-from-youtube-3932672.html",
-    "upvotes": 25,
-    "author": "krisgenre",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30668774"
   },
   {
     "title": "Lawmakers Probe Early Release of Top RU Cybercrook",
     "url": "https://krebsonsecurity.com/2022/03/lawmakers-probe-early-release-of-top-ru-cybercrook/",
-    "upvotes": 12,
+    "upvotes": 17,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30686851"
   },
   {
-    "title": "Android 12 forces you to choose a default browser unless you disable Chrome",
-    "url": "https://old.reddit.com/r/GooglePixel/comments/qc02y1/android_12_forces_you_to_choose_a_default_browser/",
-    "upvotes": 196,
-    "author": "notRobot",
-    "comments": 151,
-    "link": "https://news.ycombinator.com/item?id=30684289"
+    "title": "Arti – An implementation of Tor in Rust",
+    "url": "https://blog.torproject.org/arti_010_released/",
+    "upvotes": 282,
+    "author": "solanav",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=30683879"
+  },
+  {
+    "title": "Ask HN: Is there a pure SMS based UI?",
+    "url": "item?id=30685223",
+    "upvotes": 52,
+    "author": "joshcramer",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=30685223"
+  },
+  {
+    "title": "CIA black site detainee served as training prop to teach torture techniques",
+    "url": "https://www.theguardian.com/law/2022/mar/14/cia-black-site-detainee-training-prop-torture-techniques",
+    "upvotes": 301,
+    "author": "LittleMoveBig",
+    "comments": 188,
+    "link": "https://news.ycombinator.com/item?id=30685066"
+  },
+  {
+    "title": "Delightful React file/directory structure",
+    "url": "https://www.joshwcomeau.com/react/file-structure/",
+    "upvotes": 61,
+    "author": "joshwcomeau",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=30684777"
+  },
+  {
+    "title": "Light mode, Dark mode, and Gen-Z mode?",
+    "url": "https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode",
+    "upvotes": 301,
+    "author": "beweinreich",
+    "comments": 279,
+    "link": "https://news.ycombinator.com/item?id=30685587"
   },
   {
     "title": "Monorepos done right",
     "url": "https://felixmulder.com/writing/2022/03/12/Monorepos-done-right.html",
-    "upvotes": 91,
+    "upvotes": 99,
     "author": "fixel",
-    "comments": 82,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=30664891"
   },
   {
-    "title": "AMD Fires Back with 7 New Chips",
-    "url": "https://www.tomshardware.com/news/amd-ryzen-7-5800x3d-5700X-Ryzen-5-5600-5500-4600G-4500-4100",
-    "upvotes": 121,
-    "author": "ItsTotallyOn",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=30685100"
+    "title": "Odisha labourer who started YouTube channel in lockdown earns lakhs",
+    "url": "https://www.news18.com/news/buzz/odisha-tribal-labourer-who-started-channel-in-lockdown-earns-lakhs-from-youtube-3932672.html",
+    "upvotes": 28,
+    "author": "krisgenre",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30668774"
   },
   {
-    "title": "The fake Twitter account of “Marina Ovsyannikova”",
-    "url": "https://davidallengreen.com/2022/03/the-fake-twitter-account-of-marina-ovsyannikova-and-how-to-spot-such-fakes/",
-    "upvotes": 126,
-    "author": "esquivalience",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=30685858"
+    "title": "Android 12 forces you to choose a default browser unless you disable Chrome",
+    "url": "https://old.reddit.com/r/GooglePixel/comments/qc02y1/android_12_forces_you_to_choose_a_default_browser/",
+    "upvotes": 205,
+    "author": "notRobot",
+    "comments": 164,
+    "link": "https://news.ycombinator.com/item?id=30684289"
   }
 ]
