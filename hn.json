@@ -1,96 +1,88 @@
 [
   {
+    "title": "Fuchsia IDL Overview",
+    "url": "https://fuchsia.dev/fuchsia-src/concepts/fidl/overview",
+    "upvotes": 40,
+    "author": "todsacerdoti",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=30707696"
+  },
+  {
     "title": "California bill would let parents sue social media companies",
     "url": "https://www.latimes.com/business/technology/story/2022-03-16/california-bill-would-let-parents-sue-social-media-companies-for-addicting-kids",
-    "upvotes": 66,
+    "upvotes": 75,
     "author": "prostoalex",
-    "comments": 35,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=30707095"
   },
   {
-    "title": "Fuchsia IDL Overview",
-    "url": "https://fuchsia.dev/fuchsia-src/concepts/fidl/overview",
-    "upvotes": 28,
-    "author": "todsacerdoti",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30707696"
+    "title": "Does Wordle Prove That We Can Have Nice Things on the Internet?",
+    "url": "https://www.newyorker.com/tech/annals-of-technology/does-wordle-prove-that-we-can-have-nice-things-on-the-internet",
+    "upvotes": 19,
+    "author": "caaqil",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=30707891"
+  },
+  {
+    "title": "TUIs",
+    "url": "https://github.com/rothgar/awesome-tuis",
+    "upvotes": 222,
+    "author": "andrewstuart",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=30704923"
   },
   {
     "title": "Deno Is Webby",
     "url": "https://blog.jim-nielsen.com/2022/deno-is-webby-pt-2/",
-    "upvotes": 287,
+    "upvotes": 294,
     "author": "todsacerdoti",
-    "comments": 152,
+    "comments": 154,
     "link": "https://news.ycombinator.com/item?id=30703531"
   },
   {
     "title": "How our free plan stays free",
     "url": "https://tailscale.com/blog/free-plan/",
-    "upvotes": 484,
+    "upvotes": 495,
     "author": "tosh",
     "comments": 150,
     "link": "https://news.ycombinator.com/item?id=30701451"
   },
   {
-    "title": "TUIs",
-    "url": "https://github.com/rothgar/awesome-tuis",
-    "upvotes": 199,
-    "author": "andrewstuart",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=30704923"
+    "title": "US Copyright Office refuses application with AI algorithm named as author",
+    "url": "https://ipkitten.blogspot.com/2022/02/us-copyright-office-refuses-to-register.html",
+    "upvotes": 285,
+    "author": "ilamont",
+    "comments": 141,
+    "link": "https://news.ycombinator.com/item?id=30702117"
   },
   {
     "title": "Prepare for the future with Google Analytics 4",
     "url": "https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/",
-    "upvotes": 74,
+    "upvotes": 82,
     "author": "WalterSobchak",
-    "comments": 70,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=30706829"
-  },
-  {
-    "title": "US Copyright Office refuses application with AI algorithm named as author",
-    "url": "https://ipkitten.blogspot.com/2022/02/us-copyright-office-refuses-to-register.html",
-    "upvotes": 277,
-    "author": "ilamont",
-    "comments": 139,
-    "link": "https://news.ycombinator.com/item?id=30702117"
   },
   {
     "title": "My boundaries as an open source developer",
     "url": "https://joeldenning.com/?p=29",
-    "upvotes": 272,
+    "upvotes": 279,
     "author": "cakeplease",
-    "comments": 159,
+    "comments": 162,
     "link": "https://news.ycombinator.com/item?id=30701251"
-  },
-  {
-    "title": "Deliberately optimizing for harm",
-    "url": "https://www.science.org/content/blog-post/deliberately-optimizing-harm",
-    "upvotes": 409,
-    "author": "herodotus",
-    "comments": 248,
-    "link": "https://news.ycombinator.com/item?id=30698803"
   },
   {
     "title": "The Asymmetry of Open Source",
     "url": "https://matt.life/writing/the-asymmetry-of-open-source",
-    "upvotes": 29,
+    "upvotes": 32,
     "author": "mholt",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30706650"
-  },
-  {
-    "title": "Does Wordle Prove That We Can Have Nice Things on the Internet?",
-    "url": "https://www.newyorker.com/tech/annals-of-technology/does-wordle-prove-that-we-can-have-nice-things-on-the-internet",
-    "upvotes": 4,
-    "author": "caaqil",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30707891"
   },
   {
     "title": "Typography is impossible",
     "url": "https://medium.engineering/typography-is-impossible-5872b0c7f891?gi=14f21e50b8a9",
-    "upvotes": 174,
+    "upvotes": 178,
     "author": "pmoriarty",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=30702208"
@@ -98,51 +90,59 @@
   {
     "title": "I found a security issue on a competitor, got fired and served a summons",
     "url": "https://accidhacker.wordpress.com/2022/03/16/i-found-a-security-issue-on-a-competitor-got-fired-and-served-a-summons/",
-    "upvotes": 262,
+    "upvotes": 272,
     "author": "accidhacker",
-    "comments": 258,
+    "comments": 267,
     "link": "https://news.ycombinator.com/item?id=30706014"
   },
   {
-    "title": "Contributing to Complex Projects",
-    "url": "https://mitchellh.com/writing/contributing-to-complex-projects",
-    "upvotes": 35,
-    "author": "komuW",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30683500"
+    "title": "Ask HN: Anyone have stock option horror stories?",
+    "url": "item?id=30706743",
+    "upvotes": 87,
+    "author": "leet_thow",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=30706743"
+  },
+  {
+    "title": "Antiproton Orbiting Helium Ion",
+    "url": "https://arstechnica.com/science/2022/03/absolutely-bonkers-experiment-measures-antiproton-orbiting-helium-ion/",
+    "upvotes": 166,
+    "author": "hexo",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=30700633"
+  },
+  {
+    "title": "Levels of Technical Leadership",
+    "url": "https://dr-knz.net/levels-of-technical-leadership.html",
+    "upvotes": 113,
+    "author": "firstSpeaker",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=30670397"
   },
   {
     "title": "Flexport Is Hiring Machine Learning Engineers to Make Global Trade Seamless",
     "url": "https://flexport.com/careers"
   },
   {
-    "title": "Antiproton Orbiting Helium Ion",
-    "url": "https://arstechnica.com/science/2022/03/absolutely-bonkers-experiment-measures-antiproton-orbiting-helium-ion/",
-    "upvotes": 163,
-    "author": "hexo",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=30700633"
+    "title": "Contributing to Complex Projects",
+    "url": "https://mitchellh.com/writing/contributing-to-complex-projects",
+    "upvotes": 36,
+    "author": "komuW",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30683500"
   },
   {
-    "title": "Levels of Technical Leadership",
-    "url": "https://dr-knz.net/levels-of-technical-leadership.html",
-    "upvotes": 112,
-    "author": "firstSpeaker",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=30670397"
-  },
-  {
-    "title": "Ask HN: Anyone have stock option horror stories?",
-    "url": "item?id=30706743",
-    "upvotes": 73,
-    "author": "leet_thow",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=30706743"
+    "title": "Macro Shots Taken Inside Instruments",
+    "url": "https://fstoppers.com/commercial/pictures-unbelievable-macro-shots-taken-inside-instruments-6129",
+    "upvotes": 45,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30696594"
   },
   {
     "title": "Decision: Red Hat, Inc. vs. Daniel Pocock / Software Freedom Institute SA",
     "url": "https://www.adrforum.com/DomainDecisions/1980642.htm",
-    "upvotes": 94,
+    "upvotes": 96,
     "author": "jaboutboul",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=30702991"
@@ -150,31 +150,31 @@
   {
     "title": "Technical Debt: How do you get out of the bottleneck?",
     "url": "https://martinfowler.com/articles/bottlenecks-of-scaleups/01-tech-debt.html#exit",
-    "upvotes": 52,
+    "upvotes": 56,
     "author": "nilsandrey",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30681918"
-  },
-  {
-    "title": "Macro Shots Taken Inside Instruments",
-    "url": "https://fstoppers.com/commercial/pictures-unbelievable-macro-shots-taken-inside-instruments-6129",
-    "upvotes": 40,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30696594"
   },
   {
     "title": "Speed boost achievement unlocked on Docker Desktop 4.6 for Mac",
     "url": "https://www.docker.com/blog/speed-boost-achievement-unlocked-on-docker-desktop-4-6-for-mac/",
-    "upvotes": 141,
+    "upvotes": 142,
     "author": "ingve",
-    "comments": 98,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=30701963"
+  },
+  {
+    "title": "How to make an IBM 1311 disk drive move around the floor",
+    "url": "https://retrocomputing.stackexchange.com/a/16291/6854",
+    "upvotes": 8,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30698421"
   },
   {
     "title": "Rome, Zombie City",
     "url": "https://www.historytoday.com/archive/review/rome-zombie-city",
-    "upvotes": 22,
+    "upvotes": 23,
     "author": "apollinaire",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30693536"
@@ -182,55 +182,55 @@
   {
     "title": "Launch HN: Sarus (YC W22) – Work on sensitive data with differential privacy",
     "url": "item?id=30698215",
-    "upvotes": 111,
+    "upvotes": 112,
     "author": "maximeago",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=30698215"
   },
   {
-    "title": "How to make an IBM 1311 disk drive move around the floor",
-    "url": "https://retrocomputing.stackexchange.com/a/16291/6854",
-    "upvotes": 6,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30698421"
-  },
-  {
     "title": "The Beautiful Mind-Bending of Stanislaw Lem",
     "url": "https://www.newyorker.com/culture/culture-desk/the-beautiful-mind-bending-of-stanislaw-lem",
-    "upvotes": 175,
+    "upvotes": 179,
     "author": "bryanrasmussen",
-    "comments": 65,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=30699766"
-  },
-  {
-    "title": "US Federal Reserve raises interest rates for first time since 2018",
-    "url": "https://www.theguardian.com/business/2022/mar/16/us-federal-reserve-interest-rates-inflation",
-    "upvotes": 392,
-    "author": "clove",
-    "comments": 569,
-    "link": "https://news.ycombinator.com/item?id=30702823"
   },
   {
     "title": "libmill - Go-style concurrency in C",
     "url": "http://libmill.org/index.html",
-    "upvotes": 169,
+    "upvotes": 171,
     "author": "graderjs",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=30699829"
+  },
+  {
+    "title": "US Federal Reserve raises interest rates for first time since 2018",
+    "url": "https://www.theguardian.com/business/2022/mar/16/us-federal-reserve-interest-rates-inflation",
+    "upvotes": 399,
+    "author": "clove",
+    "comments": 575,
+    "link": "https://news.ycombinator.com/item?id=30702823"
+  },
+  {
+    "title": "Hacker News personal ranking app",
+    "url": "https://github.com/joelgrus/hackernews",
+    "upvotes": 4,
+    "author": "graderjs",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30707800"
   },
   {
     "title": "Famous Navy UFO video was camera glare, evidence suggests",
     "url": "https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/",
-    "upvotes": 287,
+    "upvotes": 291,
     "author": "mromanuk",
-    "comments": 308,
+    "comments": 309,
     "link": "https://news.ycombinator.com/item?id=30702319"
   },
   {
     "title": "How to make Docker images even smaller",
     "url": "https://symflower.com/en/company/blog/2022/complete-guide-on-shrinking-container-images/",
-    "upvotes": 86,
+    "upvotes": 89,
     "author": "tosh",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=30703202"
