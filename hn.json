@@ -1,80 +1,120 @@
 [
   {
-    "title": "Scan of the Month: Food Packaging",
-    "url": "https://www.scanofthemonth.com/scans/food-packaging",
-    "upvotes": 241,
-    "author": "aemreunal",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=30717785"
-  },
-  {
-    "title": "Google open sources solar atmospheric water generator",
-    "url": "https://github.com/google/h2e_technical_documentation",
-    "upvotes": 374,
-    "author": "johmathe",
-    "comments": 185,
-    "link": "https://news.ycombinator.com/item?id=30714506"
+    "title": "Multiple Vulnerabilities in PfSense",
+    "url": "https://www.cybersecurity-help.cz/vdb/SB2022031507",
+    "upvotes": 31,
+    "author": "pelasaco",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30719013"
   },
   {
     "title": "Building games through natural language using OpenAI’s code-DaVinci model",
     "url": "https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/",
-    "upvotes": 15,
+    "upvotes": 30,
     "author": "dahjelle",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30717773"
+  },
+  {
+    "title": "Google open sources solar atmospheric water generator",
+    "url": "https://github.com/google/h2e_technical_documentation",
+    "upvotes": 392,
+    "author": "johmathe",
+    "comments": 187,
+    "link": "https://news.ycombinator.com/item?id=30714506"
+  },
+  {
+    "title": "Uchronia: The Alternate History List",
+    "url": "http://www.uchronia.net/",
+    "upvotes": 11,
+    "author": "raleighm",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30718976"
+  },
+  {
+    "title": "Food Packaging",
+    "url": "https://www.scanofthemonth.com/scans/food-packaging",
+    "upvotes": 261,
+    "author": "aemreunal",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=30717785"
   },
   {
     "title": "Hot-code reloading on macOS/arm64 with Zig",
     "url": "http://www.jakubkonka.com/2022/03/16/hcs-zig.html",
-    "upvotes": 167,
+    "upvotes": 174,
     "author": "syrusakbary",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=30716177"
+  },
+  {
+    "title": "Red imported fire ants cover inaccessible surfaces to facilitate food search",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1744-7917.12891",
+    "upvotes": 23,
+    "author": "_Microft",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30696898"
   },
   {
     "title": "Shadertoy Apple I Emulator",
     "url": "https://www.shadertoy.com/view/tlX3W7",
-    "upvotes": 8,
+    "upvotes": 13,
     "author": "weinzierl",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30718854"
   },
   {
-    "title": "Red imported fire ants cover inaccessible surfaces to facilitate food search",
-    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1744-7917.12891",
-    "upvotes": 19,
-    "author": "_Microft",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30696898"
-  },
-  {
     "title": "Kaitai Struct: A new way to develop parsers for binary structures",
     "url": "https://kaitai.io/",
-    "upvotes": 170,
+    "upvotes": 174,
     "author": "marcodiego",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=30715406"
   },
   {
-    "title": "Zotero 6",
-    "url": "https://www.zotero.org/blog/zotero-6/",
-    "upvotes": 656,
-    "author": "Schiphol",
-    "comments": 139,
-    "link": "https://news.ycombinator.com/item?id=30714121"
+    "title": "Lagrange points solved one of physics' biggest problems",
+    "url": "https://www.space.com/lagrange-points-solve-major-physics-problem",
+    "upvotes": 11,
+    "author": "Hooke",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30718708"
+  },
+  {
+    "title": "Building a blog from scratch in 2022 using Hugo, Docker and a bit of Python",
+    "url": "https://blog.ioces.com/matt/posts/everything-old-is-new-again/",
+    "upvotes": 8,
+    "author": "shoobs",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30718757"
   },
   {
     "title": "Browser in the Browser",
     "url": "https://mrd0x.com/browser-in-the-browser-phishing-attack/",
-    "upvotes": 162,
+    "upvotes": 173,
     "author": "jcynix",
-    "comments": 101,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=30697329"
+  },
+  {
+    "title": "Zotero 6",
+    "url": "https://www.zotero.org/blog/zotero-6/",
+    "upvotes": 671,
+    "author": "Schiphol",
+    "comments": 140,
+    "link": "https://news.ycombinator.com/item?id=30714121"
+  },
+  {
+    "title": "Paaster – Secure by default end to end encrypted pastebin",
+    "url": "https://github.com/WardPearce/paaster",
+    "upvotes": 19,
+    "author": "wardpearce",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30718440"
   },
   {
     "title": "Physically Based Rendering: From theory to implementation",
     "url": "https://www.pbr-book.org/3ed-2018/contents",
-    "upvotes": 203,
+    "upvotes": 204,
     "author": "alasr",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=30714104"
@@ -82,157 +122,117 @@
   {
     "title": "Launch HN: AirMyne (YC W22) – Capturing CO2 from air at industrial scale",
     "url": "item?id=30712229",
-    "upvotes": 155,
+    "upvotes": 157,
     "author": "markcyffka",
-    "comments": 150,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=30712229"
   },
   {
     "title": "A Summary of OAuth 2.0 Attack Methods",
     "url": "https://tutorialboy24.blogspot.com/2022/01/a-summary-of-oauth-20-attack-methods.html",
-    "upvotes": 29,
+    "upvotes": 33,
     "author": "Cyberdevil",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30717470"
   },
   {
-    "title": "Multiple Vulnerabilities in PfSense",
-    "url": "https://www.cybersecurity-help.cz/vdb/SB2022031507",
-    "upvotes": 3,
-    "author": "pelasaco",
+    "title": "Everyday Magic in the Middle Ages",
+    "url": "https://www.medievalists.net/2021/09/everyday-magic-middle-ages/",
+    "upvotes": 13,
+    "author": "drdee",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30719013"
+    "link": "https://news.ycombinator.com/item?id=30718457"
   },
   {
     "title": "MySQL now shows its thread names at OS level for better troubleshooting",
     "url": "https://tanelpoder.com/posts/mysql-now-shows-thread-names-at-os-level/",
-    "upvotes": 92,
+    "upvotes": 97,
     "author": "tanelpoder",
-    "comments": 27,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=30715336"
   },
   {
-    "title": "Everyday Magic in the Middle Ages",
-    "url": "https://www.medievalists.net/2021/09/everyday-magic-middle-ages/",
-    "upvotes": 10,
-    "author": "drdee",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30718457"
+    "title": "US State Privacy Legislation Tracker",
+    "url": "https://iapp.org/resources/article/us-state-privacy-legislation-tracker/",
+    "upvotes": 52,
+    "author": "mooreds",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=30716346"
+  },
+  {
+    "title": "Photography is not Objective, Art is a Set of Choices",
+    "url": "https://aaronhertzmann.com/2022/03/17/photography-is-not-objective.html",
+    "upvotes": 83,
+    "author": "smbv",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=30716128"
+  },
+  {
+    "title": "Bridgetown - progressive site generator and framework, powered by Ruby",
+    "url": "https://www.bridgetownrb.com/",
+    "upvotes": 60,
+    "author": "obahareth",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30716727"
   },
   {
     "title": "XBUS Modular Electric Vehicle",
     "url": "https://electricbrands.de/en/myxbus/",
     "upvotes": 17,
     "author": "gmac",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30708669"
   },
   {
-    "title": "Paaster – Secure by default end to end encrypted pastebin",
-    "url": "https://github.com/WardPearce/paaster",
-    "upvotes": 14,
-    "author": "wardpearce",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30718440"
-  },
-  {
-    "title": "Uchronia: The Alternate History List",
-    "url": "http://www.uchronia.net/",
-    "upvotes": 3,
-    "author": "raleighm",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30718976"
-  },
-  {
-    "title": "US State Privacy Legislation Tracker",
-    "url": "https://iapp.org/resources/article/us-state-privacy-legislation-tracker/",
-    "upvotes": 50,
-    "author": "mooreds",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=30716346"
-  },
-  {
-    "title": "Lagrange points solved one of physics' biggest problems",
-    "url": "https://www.space.com/lagrange-points-solve-major-physics-problem",
-    "upvotes": 6,
-    "author": "Hooke",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30718708"
-  },
-  {
-    "title": "Photography is not Objective, Art is a Set of Choices",
-    "url": "https://aaronhertzmann.com/2022/03/17/photography-is-not-objective.html",
-    "upvotes": 82,
-    "author": "smbv",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=30716128"
-  },
-  {
-    "title": "Bridgetown - progressive site generator and framework, powered by Ruby",
-    "url": "https://www.bridgetownrb.com/",
-    "upvotes": 58,
-    "author": "obahareth",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=30716727"
-  },
-  {
-    "title": "The succession drama at Scholastic",
-    "url": "https://www.vanityfair.com/style/2022/03/inside-the-succession-drama-at-scholastic",
-    "upvotes": 57,
-    "author": "bryanrasmussen",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=30696217"
+    "title": "Intel financialized and lost leadership in semiconductor fabrication",
+    "url": "https://www.ineteconomics.org/perspectives/blog/how-intel-financialized-and-lost-leadership-in-semiconductor-fabrication",
+    "upvotes": 223,
+    "author": "kloch",
+    "comments": 223,
+    "link": "https://news.ycombinator.com/item?id=30715268"
   },
   {
     "title": "Compound",
     "url": "https://jobs.ashbyhq.com/compound"
   },
   {
-    "title": "Intel financialized and lost leadership in semiconductor fabrication",
-    "url": "https://www.ineteconomics.org/perspectives/blog/how-intel-financialized-and-lost-leadership-in-semiconductor-fabrication",
-    "upvotes": 217,
-    "author": "kloch",
-    "comments": 220,
-    "link": "https://news.ycombinator.com/item?id=30715268"
-  },
-  {
-    "title": "Building a blog from scratch in 2022 using Hugo, Docker and a bit of Python",
-    "url": "https://blog.ioces.com/matt/posts/everything-old-is-new-again/",
-    "upvotes": 4,
-    "author": "shoobs",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30718757"
-  },
-  {
-    "title": "Linux on an M1 Mac",
-    "url": "https://twitter.com/AsahiLinux/status/1504626783240736768",
-    "upvotes": 176,
-    "author": "haxiomic",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=30717758"
+    "title": "The succession drama at Scholastic",
+    "url": "https://www.vanityfair.com/style/2022/03/inside-the-succession-drama-at-scholastic",
+    "upvotes": 57,
+    "author": "bryanrasmussen",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=30696217"
   },
   {
     "title": "Drawing a map of the customer organization",
     "url": "https://www.skmurphy.com/blog/2022/03/14/drawing-a-map-of-the-customer-organization/",
-    "upvotes": 4,
+    "upvotes": 6,
     "author": "skmurphy",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30693104"
   },
   {
     "title": "Each Firefox download has a unique identifier",
     "url": "https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/",
-    "upvotes": 399,
+    "upvotes": 413,
     "author": "gslin",
-    "comments": 251,
+    "comments": 267,
     "link": "https://news.ycombinator.com/item?id=30715163"
   },
   {
     "title": "Space-based ballistic missile defense: a multidimensional analysis",
     "url": "https://dspace.mit.edu/bitstream/handle/1721.1/83072/15001760.pdf;sequence=1",
-    "upvotes": 36,
+    "upvotes": 39,
     "author": "Cieplak",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30698410"
+  },
+  {
+    "title": "Linux on an M1 Mac",
+    "url": "https://twitter.com/AsahiLinux/status/1504626783240736768",
+    "upvotes": 194,
+    "author": "haxiomic",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=30717758"
   }
 ]
