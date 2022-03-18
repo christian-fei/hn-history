@@ -1,91 +1,99 @@
 [
   {
+    "title": "Mozilla and Open Web Docs Working Together on MDN",
+    "url": "https://hacks.mozilla.org/2022/03/mozilla-and-open-web-docs-working-together-on-mdn/",
+    "upvotes": 28,
+    "author": "Vinnl",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30720171"
+  },
+  {
     "title": "Random number generator enhancements for Linux 5.17 and 5.18",
     "url": "https://www.zx2c4.com/projects/linux-rng-5.17-5.18/",
-    "upvotes": 29,
+    "upvotes": 50,
     "author": "CyberRabbi",
-    "comments": 3,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30719804"
   },
   {
     "title": "Down the mechanical keyboard rabbit hole",
     "url": "https://fowlie.github.io/2022/02/25/keyboards-rabbit-hole/",
-    "upvotes": 60,
+    "upvotes": 73,
     "author": "fowlie",
-    "comments": 90,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=30719263"
-  },
-  {
-    "title": "Building games through natural language using OpenAI’s code-DaVinci model",
-    "url": "https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/",
-    "upvotes": 104,
-    "author": "dahjelle",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=30717773"
   },
   {
     "title": "An AI designed keyboard layout",
     "url": "https://github.com/MadRabbit/halmak",
-    "upvotes": 26,
+    "upvotes": 38,
     "author": "michidk",
-    "comments": 23,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=30719826"
   },
   {
-    "title": "Mozilla and Open Web Docs Working Together on MDN",
-    "url": "https://hacks.mozilla.org/2022/03/mozilla-and-open-web-docs-working-together-on-mdn/",
-    "upvotes": 5,
-    "author": "Vinnl",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30720171"
+    "title": "Building games through natural language using OpenAI’s code-DaVinci model",
+    "url": "https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/",
+    "upvotes": 114,
+    "author": "dahjelle",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=30717773"
   },
   {
     "title": "Lagrange points solved one of physics' biggest problems",
     "url": "https://www.space.com/lagrange-points-solve-major-physics-problem",
-    "upvotes": 48,
+    "upvotes": 59,
     "author": "Hooke",
-    "comments": 16,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=30718708"
-  },
-  {
-    "title": "Hot-code reloading on macOS/arm64 with Zig",
-    "url": "http://www.jakubkonka.com/2022/03/16/hcs-zig.html",
-    "upvotes": 208,
-    "author": "syrusakbary",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=30716177"
-  },
-  {
-    "title": "Apple I Emulator",
-    "url": "https://www.shadertoy.com/view/tlX3W7",
-    "upvotes": 43,
-    "author": "weinzierl",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=30718854"
-  },
-  {
-    "title": "Kaitai Struct: A new way to develop parsers for binary structures",
-    "url": "https://kaitai.io/",
-    "upvotes": 204,
-    "author": "marcodiego",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=30715406"
   },
   {
     "title": "Meteorites that helped form Earth may have formed in the Outer solar-system",
     "url": "https://www.sciencedaily.com/releases/2022/03/220312103005.htm",
-    "upvotes": 9,
+    "upvotes": 15,
     "author": "News-Dog",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30696873"
   },
   {
+    "title": "Hot-code reloading on macOS/arm64 with Zig",
+    "url": "http://www.jakubkonka.com/2022/03/16/hcs-zig.html",
+    "upvotes": 217,
+    "author": "syrusakbary",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=30716177"
+  },
+  {
+    "title": "Kaitai Struct: A new way to develop parsers for binary structures",
+    "url": "https://kaitai.io/",
+    "upvotes": 213,
+    "author": "marcodiego",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=30715406"
+  },
+  {
+    "title": "Apple I Emulator",
+    "url": "https://www.shadertoy.com/view/tlX3W7",
+    "upvotes": 46,
+    "author": "weinzierl",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=30718854"
+  },
+  {
     "title": "Building a blog from scratch in 2022 using Hugo, Docker and a bit of Python",
     "url": "https://blog.ioces.com/matt/posts/everything-old-is-new-again/",
-    "upvotes": 33,
+    "upvotes": 37,
     "author": "shoobs",
-    "comments": 31,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30718757"
+  },
+  {
+    "title": "Apple M1 Ultra's 64-Core GPU Fails to Dethrone the Mighty RTX 3090",
+    "url": "https://www.tomshardware.com/news/apple-m1-ultra-rtx-3090-benchmarks",
+    "upvotes": 42,
+    "author": "magoghm",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=30719654"
   },
   {
     "title": "OneSignal",
@@ -94,39 +102,39 @@
   {
     "title": "Food Packaging",
     "url": "https://www.scanofthemonth.com/scans/food-packaging",
-    "upvotes": 310,
+    "upvotes": 316,
     "author": "aemreunal",
-    "comments": 81,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=30717785"
   },
   {
     "title": "Fire ants cover inaccessible surfaces with particles to aid food search",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1744-7917.12891",
-    "upvotes": 35,
+    "upvotes": 39,
     "author": "_Microft",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30696898"
   },
   {
+    "title": "Everyday Magic in the Middle Ages",
+    "url": "https://www.medievalists.net/2021/09/everyday-magic-middle-ages/",
+    "upvotes": 40,
+    "author": "drdee",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=30718457"
+  },
+  {
     "title": "Uchronia: The Alternate History List",
     "url": "http://www.uchronia.net/",
-    "upvotes": 35,
+    "upvotes": 36,
     "author": "raleighm",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30718976"
   },
   {
-    "title": "Everyday Magic in the Middle Ages",
-    "url": "https://www.medievalists.net/2021/09/everyday-magic-middle-ages/",
-    "upvotes": 34,
-    "author": "drdee",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=30718457"
-  },
-  {
     "title": "Launch HN: AirMyne (YC W22) – Capturing CO2 from air at industrial scale",
     "url": "item?id=30712229",
-    "upvotes": 165,
+    "upvotes": 168,
     "author": "markcyffka",
     "comments": 158,
     "link": "https://news.ycombinator.com/item?id=30712229"
@@ -134,9 +142,9 @@
   {
     "title": "Multiple Vulnerabilities in PfSense",
     "url": "https://www.cybersecurity-help.cz/vdb/SB2022031507",
-    "upvotes": 88,
+    "upvotes": 95,
     "author": "pelasaco",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=30719013"
   },
   {
@@ -144,8 +152,16 @@
     "url": "https://tanelpoder.com/posts/mysql-now-shows-thread-names-at-os-level/",
     "upvotes": 115,
     "author": "tanelpoder",
-    "comments": 36,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=30715336"
+  },
+  {
+    "title": "Google open sources solar atmospheric water generator",
+    "url": "https://github.com/google/h2e_technical_documentation",
+    "upvotes": 431,
+    "author": "johmathe",
+    "comments": 206,
+    "link": "https://news.ycombinator.com/item?id=30714506"
   },
   {
     "title": "A Summary of OAuth 2.0 Attack Methods",
@@ -156,83 +172,67 @@
     "link": "https://news.ycombinator.com/item?id=30717470"
   },
   {
-    "title": "Cognition versus Programming: The Big Two – Why TDD?",
-    "url": "https://danielbmarkham.com/cognition-versus-programming-the-big-two/",
-    "upvotes": 17,
-    "author": "todsacerdoti",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=30696842"
-  },
-  {
-    "title": "Google open sources solar atmospheric water generator",
-    "url": "https://github.com/google/h2e_technical_documentation",
-    "upvotes": 428,
-    "author": "johmathe",
-    "comments": 201,
-    "link": "https://news.ycombinator.com/item?id=30714506"
-  },
-  {
-    "title": "Apple M1 Ultra's 64-Core GPU Fails to Dethrone the Mighty RTX 3090",
-    "url": "https://www.tomshardware.com/news/apple-m1-ultra-rtx-3090-benchmarks",
-    "upvotes": 22,
-    "author": "magoghm",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30719654"
-  },
-  {
-    "title": "Magritte’s Prophetic Surrealism",
-    "url": "https://bostonreview.net/articles/magrittes-prophetic-surrealism/",
-    "upvotes": 8,
-    "author": "prismatic",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30707609"
-  },
-  {
     "title": "US State Privacy Legislation Tracker",
     "url": "https://iapp.org/resources/article/us-state-privacy-legislation-tracker/",
-    "upvotes": 63,
+    "upvotes": 66,
     "author": "mooreds",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30716346"
   },
   {
-    "title": "Find and edit CSL citation styles",
-    "url": "https://editor.citationstyles.org/about/",
-    "upvotes": 7,
-    "author": "teleforce",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30698419"
+    "title": "Magritte’s Prophetic Surrealism",
+    "url": "https://bostonreview.net/articles/magrittes-prophetic-surrealism/",
+    "upvotes": 12,
+    "author": "prismatic",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30707609"
+  },
+  {
+    "title": "Should you work fixed hours, even if you have a flexible schedule?",
+    "url": "https://remote.ma/2022/03/16/should-you-work-fixed-hours/",
+    "upvotes": 5,
+    "author": "elazzabi_",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=30719953"
   },
   {
     "title": "Photography is not Objective, Art is a Set of Choices",
     "url": "https://aaronhertzmann.com/2022/03/17/photography-is-not-objective.html",
     "upvotes": 97,
     "author": "smbv",
-    "comments": 67,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=30716128"
   },
   {
-    "title": "XBUS Modular Electric Vehicle",
-    "url": "https://electricbrands.de/en/myxbus/",
-    "upvotes": 33,
-    "author": "gmac",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=30708669"
+    "title": "Cognition versus Programming: The Big Two – Why TDD?",
+    "url": "https://danielbmarkham.com/cognition-versus-programming-the-big-two/",
+    "upvotes": 17,
+    "author": "todsacerdoti",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=30696842"
   },
   {
     "title": "Paaster – Secure by default end to end encrypted pastebin",
     "url": "https://github.com/WardPearce/paaster",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "wardpearce",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=30718440"
+  },
+  {
+    "title": "XBUS Modular Electric Vehicle",
+    "url": "https://electricbrands.de/en/myxbus/",
+    "upvotes": 35,
+    "author": "gmac",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=30708669"
   },
   {
     "title": "Each Firefox download has a unique identifier",
     "url": "https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/",
-    "upvotes": 501,
+    "upvotes": 511,
     "author": "gslin",
-    "comments": 340,
+    "comments": 347,
     "link": "https://news.ycombinator.com/item?id=30715163"
   }
 ]
