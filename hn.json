@@ -2,75 +2,47 @@
   {
     "title": "OpenBSD/arm64 on Apple M1 systems",
     "url": "https://marc.info/?l=openbsd-arm&m=164768992119719&w=2",
-    "upvotes": 240,
+    "upvotes": 252,
     "author": "brynet",
-    "comments": 32,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30734527"
   },
   {
     "title": "When Double Precision Is Not Enough",
     "url": "https://adambaskerville.github.io/posts/LespEigenvalues/",
-    "upvotes": 63,
+    "upvotes": 70,
     "author": "leonry",
-    "comments": 32,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=30735871"
   },
   {
     "title": "Show HN: A game that tests how well you know your local area",
     "url": "https://backofyourhand.com/51.89863,-8.47039",
-    "upvotes": 295,
+    "upvotes": 324,
     "author": "adamlynch",
-    "comments": 118,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=30733339"
   },
   {
     "title": "Gas pumps happen to be about as insecure as your typical router",
     "url": "https://myfox8.com/news/north-carolina/high-point/its-apparently-easy-to-bypass-a-gas-pump-and-steal-400-gallons-or-more/",
-    "upvotes": 243,
+    "upvotes": 250,
     "author": "homarp",
-    "comments": 135,
+    "comments": 138,
     "link": "https://news.ycombinator.com/item?id=30733337"
   },
   {
     "title": "A DARPA Perspective on Artificial Intelligence [pdf]",
     "url": "https://www.darpa.mil/attachments/AIFull.pdf",
-    "upvotes": 58,
+    "upvotes": 68,
     "author": "nulluint",
-    "comments": 10,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30735800"
-  },
-  {
-    "title": "Data Mesh Architecture",
-    "url": "https://www.datamesh-architecture.com",
-    "upvotes": 58,
-    "author": "aiobe",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30721198"
-  },
-  {
-    "title": "Streak",
-    "url": "https://www.streak.com/careers/head-of-ops"
-  },
-  {
-    "title": "The Boschian Horror of ‘Elden Ring’",
-    "url": "https://artreview.com/the-boschian-horror-of-elden-ring/",
-    "upvotes": 191,
-    "author": "keiferski",
-    "comments": 137,
-    "link": "https://news.ycombinator.com/item?id=30733108"
-  },
-  {
-    "title": "BGP Implemented in Go",
-    "url": "https://github.com/osrg/gobgp",
-    "upvotes": 78,
-    "author": "eatonphil",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=30734712"
   },
   {
     "title": "Launch HN: Livedocs",
     "url": "https://livedocs.com",
-    "upvotes": 51,
+    "upvotes": 52,
     "author": "arsalanb",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30735058"
@@ -78,18 +50,62 @@
   {
     "title": "Arizona moves to ban recording video of police",
     "url": "https://www.fox10phoenix.com/news/arizona-house-approves-ban-on-close-up-videotaping-of-police-officers",
-    "upvotes": 59,
+    "upvotes": 108,
     "author": "Eddy_Viscosity2",
-    "comments": 47,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=30737311"
+  },
+  {
+    "title": "Streak",
+    "url": "https://www.streak.com/careers/head-of-ops"
+  },
+  {
+    "title": "Data Mesh Architecture",
+    "url": "https://www.datamesh-architecture.com",
+    "upvotes": 62,
+    "author": "aiobe",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30721198"
+  },
+  {
+    "title": "The Boschian Horror of ‘Elden Ring’",
+    "url": "https://artreview.com/the-boschian-horror-of-elden-ring/",
+    "upvotes": 194,
+    "author": "keiferski",
+    "comments": 143,
+    "link": "https://news.ycombinator.com/item?id=30733108"
+  },
+  {
+    "title": "Jailed baby gene scientist ‘should be made responsible’ for the children",
+    "url": "https://www.thetimes.co.uk/article/jailed-baby-gene-scientist-he-jiankui-should-be-made-responsible-for-the-children-q7s3j9mlf",
+    "upvotes": 22,
+    "author": "acqbu",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30737707"
+  },
+  {
+    "title": "BGP Implemented in Go",
+    "url": "https://github.com/osrg/gobgp",
+    "upvotes": 80,
+    "author": "eatonphil",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=30734712"
   },
   {
     "title": "Show HN: `Git add -p` with multiple buckets",
     "url": "https://github.com/aleclearmind/split-patch",
-    "upvotes": 40,
+    "upvotes": 43,
     "author": "aleclm",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=30735294"
+  },
+  {
+    "title": "Structured Concurrency",
+    "url": "https://250bpm.com/blog:71/",
+    "upvotes": 15,
+    "author": "pcr910303",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30720980"
   },
   {
     "title": "Compilers: The Old New Security Frontier [pdf]",
@@ -100,12 +116,12 @@
     "link": "https://news.ycombinator.com/item?id=30714717"
   },
   {
-    "title": "Structured Concurrency",
-    "url": "https://250bpm.com/blog:71/",
-    "upvotes": 13,
-    "author": "pcr910303",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30720980"
+    "title": "It’s Like GPT-3 but for Code – Fun, Fast, and Full of Flaws",
+    "url": "https://www.wired.com/story/openai-copilot-autocomplete-for-code/",
+    "upvotes": 70,
+    "author": "nsoonhui",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=30695509"
   },
   {
     "title": "Kiwink: Visible Light Communication via phone camera/flash",
@@ -116,20 +132,20 @@
     "link": "https://news.ycombinator.com/item?id=30734808"
   },
   {
-    "title": "It’s Like GPT-3 but for Code – Fun, Fast, and Full of Flaws",
-    "url": "https://www.wired.com/story/openai-copilot-autocomplete-for-code/",
-    "upvotes": 69,
-    "author": "nsoonhui",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=30695509"
-  },
-  {
     "title": "Modern Turbo Vision 2.0",
     "url": "https://github.com/magiblot/tvision",
-    "upvotes": 184,
+    "upvotes": 186,
     "author": "begoon",
-    "comments": 71,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=30732274"
+  },
+  {
+    "title": "Apple’s Universal Control",
+    "url": "https://500ish.com/it-really-just-works-d359cfcdffe6?gi=5e5236274b4e",
+    "upvotes": 219,
+    "author": "imartin2k",
+    "comments": 219,
+    "link": "https://news.ycombinator.com/item?id=30731983"
   },
   {
     "title": "The Inca Used Knots to Tell Stories",
@@ -140,14 +156,6 @@
     "link": "https://news.ycombinator.com/item?id=30733873"
   },
   {
-    "title": "Apple’s Universal Control",
-    "url": "https://500ish.com/it-really-just-works-d359cfcdffe6?gi=5e5236274b4e",
-    "upvotes": 216,
-    "author": "imartin2k",
-    "comments": 216,
-    "link": "https://news.ycombinator.com/item?id=30731983"
-  },
-  {
     "title": "Pokete: Terminal based Pokemon like game",
     "url": "https://github.com/lxgr-linux/pokete",
     "upvotes": 99,
@@ -156,83 +164,75 @@
     "link": "https://news.ycombinator.com/item?id=30732942"
   },
   {
-    "title": "Documenting Sony Memory Stick",
-    "url": "https://dmitry.gr/?r=05.Projects&proj=31.%20Memory%20Stick",
-    "upvotes": 194,
-    "author": "elvis70",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=30731682"
-  },
-  {
     "title": "Fish 3.4.0",
     "url": "https://fishshell.com/docs/current/relnotes.html",
-    "upvotes": 152,
+    "upvotes": 158,
     "author": "denisw",
-    "comments": 66,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=30734072"
   },
   {
-    "title": "A 9-line summary of textbook physics",
-    "url": "https://www.motionmountain.net/9lines.html",
-    "upvotes": 212,
-    "author": "PrettyPebble",
-    "comments": 137,
-    "link": "https://news.ycombinator.com/item?id=30733666"
+    "title": "The Steamboat Inventors: The First Generation",
+    "url": "https://technicshistory.com/2022/03/18/the-steamboat-inventors-the-first-generation/",
+    "upvotes": 4,
+    "author": "cfmcdonald",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30719138"
+  },
+  {
+    "title": "Dogs might be anxious for the same reasons as humans",
+    "url": "https://www.science.org/content/article/your-dog-might-be-anxious-same-reasons-you-are",
+    "upvotes": 34,
+    "author": "whack",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=30736488"
   },
   {
     "title": "Christopher Alexander has died",
     "url": "https://www.cnu.org/publicsquare/2022/03/18/christopher-alexander-1936-2022",
-    "upvotes": 405,
+    "upvotes": 413,
     "author": "voisin",
-    "comments": 105,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=30727052"
+  },
+  {
+    "title": "A 9-line summary of textbook physics",
+    "url": "https://www.motionmountain.net/9lines.html",
+    "upvotes": 215,
+    "author": "PrettyPebble",
+    "comments": 141,
+    "link": "https://news.ycombinator.com/item?id=30733666"
+  },
+  {
+    "title": "Qualcomm: From Satellites to CDMA to Snapdragons",
+    "url": "https://thehistoryofcomputing.net/qualcomm-from-satellites-to-cdma-to-snapdragons",
+    "upvotes": 5,
+    "author": "LaserPineapple",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30737191"
+  },
+  {
+    "title": "First images from James Webb telescope exceed expectations",
+    "url": "https://cosmosmagazine.com/space/exploration/first-photos-james-webb-telescope/",
+    "upvotes": 710,
+    "author": "mooreds",
+    "comments": 234,
+    "link": "https://news.ycombinator.com/item?id=30729109"
+  },
+  {
+    "title": "Random Word Generator in Bash",
+    "url": "https://danielbmarkham.com/random-word-generator-in-bash/",
+    "upvotes": 12,
+    "author": "todsacerdoti",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30735436"
   },
   {
     "title": "Xmake and C/C++ Package Management",
     "url": "https://github.com/xmake-io/xmake/wiki/Xmake-and-Cplusplus--Package-Management",
     "upvotes": 27,
     "author": "danny0z",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=30696061"
-  },
-  {
-    "title": "First images from James Webb telescope exceed expectations",
-    "url": "https://cosmosmagazine.com/space/exploration/first-photos-james-webb-telescope/",
-    "upvotes": 704,
-    "author": "mooreds",
-    "comments": 233,
-    "link": "https://news.ycombinator.com/item?id=30729109"
-  },
-  {
-    "title": "Random Word Generator in Bash",
-    "url": "https://danielbmarkham.com/random-word-generator-in-bash/",
-    "upvotes": 11,
-    "author": "todsacerdoti",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30735436"
-  },
-  {
-    "title": "Show HN: Tinder4Cats",
-    "url": "https://tinder4cats.com",
-    "upvotes": 88,
-    "author": "theolivenbaum",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=30732147"
-  },
-  {
-    "title": "A Manifesto for the Metaverse",
-    "url": "https://tiltingatwindmills.dev/a-manifesto-for-the-metaverse/",
-    "upvotes": 20,
-    "author": "imgabe",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=30709411"
-  },
-  {
-    "title": "Dogs might be anxious for the same reasons as humans",
-    "url": "https://www.science.org/content/article/your-dog-might-be-anxious-same-reasons-you-are",
-    "upvotes": 27,
-    "author": "whack",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=30736488"
   }
 ]
