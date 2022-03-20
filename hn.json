@@ -1,40 +1,24 @@
 [
   {
-    "title": "Rust's Unsafe Pointer Types Need an Overhaul",
-    "url": "https://gankra.github.io/blah/fix-rust-pointers/",
-    "upvotes": 82,
-    "author": "faitswulff",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=30739557"
-  },
-  {
-    "title": "A Letter to Microsoft for Not Attributing Authors of the Edge Flatpak App",
-    "url": "https://theevilskeleton.gitlab.io/2022/03/19/a-letter-to-microsoft-for-not-attributing-authors-of-the-edge-flatpak-application.html",
-    "upvotes": 51,
-    "author": "kirbyfan64sos",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=30739839"
-  },
-  {
-    "title": "The Secret Sounds of ‘Dune’: Rice Krispies and Marianne Faithfull",
-    "url": "https://www.nytimes.com/2022/03/16/movies/dune-denis-villeneuve-sound.html",
-    "upvotes": 59,
-    "author": "pseudolus",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=30738735"
-  },
-  {
     "title": "Study on quality of sleep when pet cats choose location of slumber",
     "url": "https://www.spoon-tamago.com/2022/03/09/cat-sleep-study/",
-    "upvotes": 91,
+    "upvotes": 96,
     "author": "sohkamyung",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30738478"
   },
   {
+    "title": "The secret sounds of Dune: Rice Krispies and Marianne Faithfull",
+    "url": "https://www.nytimes.com/2022/03/16/movies/dune-denis-villeneuve-sound.html",
+    "upvotes": 61,
+    "author": "pseudolus",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=30738735"
+  },
+  {
     "title": "OpenBSD/arm64 on Apple M1 systems",
     "url": "https://marc.info/?l=openbsd-arm&m=164768992119719&w=2",
-    "upvotes": 343,
+    "upvotes": 346,
     "author": "brynet",
     "comments": 83,
     "link": "https://news.ycombinator.com/item?id=30734527"
@@ -42,50 +26,66 @@
   {
     "title": "Why America can’t build quickly anymore",
     "url": "https://fullstackeconomics.com/why-america-cant-build-big-things-any-more/",
-    "upvotes": 289,
+    "upvotes": 296,
     "author": "burlesona",
-    "comments": 433,
+    "comments": 439,
     "link": "https://news.ycombinator.com/item?id=30734062"
   },
   {
-    "title": "Strategy Is Not X",
+    "title": "Strategy is not X",
     "url": "https://www.umr.io/blog/strategy-is-not-x",
-    "upvotes": 11,
+    "upvotes": 13,
     "author": "umerf",
-    "comments": null,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30719787"
-  },
-  {
-    "title": "A DARPA Perspective on Artificial Intelligence [pdf]",
-    "url": "https://www.darpa.mil/attachments/AIFull.pdf",
-    "upvotes": 143,
-    "author": "nulluint",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=30735800"
   },
   {
     "title": "Evolved Virtual Creatures",
     "url": "https://karlsims.com/evolved-virtual-creatures.html",
-    "upvotes": 18,
+    "upvotes": 23,
     "author": "sirnicolaz",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30719801"
   },
   {
     "title": "NYC allows citizens to report idling vehicles in exchange for a cut of the fines",
     "url": "https://www.nytimes.com/2022/03/19/nyregion/clean-air-idle-car.html",
-    "upvotes": 163,
+    "upvotes": 176,
     "author": "robszumski",
-    "comments": 186,
+    "comments": 193,
     "link": "https://news.ycombinator.com/item?id=30738715"
+  },
+  {
+    "title": "A DARPA Perspective on Artificial Intelligence [pdf]",
+    "url": "https://www.darpa.mil/attachments/AIFull.pdf",
+    "upvotes": 146,
+    "author": "nulluint",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=30735800"
+  },
+  {
+    "title": "The Only Unbreakable Law [video]",
+    "url": "https://www.youtube.com/watch?v=5IUj1EZwpJY",
+    "upvotes": 50,
+    "author": "ivank",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=30708458"
   },
   {
     "title": "Fzf – a command-line fuzzy finder",
     "url": "https://github.com/junegunn/fzf",
-    "upvotes": 99,
+    "upvotes": 105,
     "author": "ewuhic",
-    "comments": 26,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=30736518"
+  },
+  {
+    "title": "A letter to Microsoft for not attributing authors of the Edge Flatpak app",
+    "url": "https://theevilskeleton.gitlab.io/2022/03/19/a-letter-to-microsoft-for-not-attributing-authors-of-the-edge-flatpak-application.html",
+    "upvotes": 58,
+    "author": "kirbyfan64sos",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=30739839"
   },
   {
     "title": "Launch HN: Livedocs",
@@ -100,53 +100,61 @@
     "url": "https://adambaskerville.github.io/posts/LespEigenvalues/",
     "upvotes": 118,
     "author": "leonry",
-    "comments": 61,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=30735871"
   },
   {
     "title": "Just some red flags. No big deal. Just ignore them",
     "url": "https://rachelbythebay.com/w/2020/05/22/boarded/",
-    "upvotes": 88,
+    "upvotes": 90,
     "author": "wglb",
-    "comments": 61,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=30739030"
   },
   {
     "title": "Show HN: I made a CLI tool that turns pixels into emojis",
     "url": "https://github.com/ahhhh6980/Mosaic",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "caramellow",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30739304"
   },
   {
-    "title": "The Only Unbreakable Law [video]",
-    "url": "https://www.youtube.com/watch?v=5IUj1EZwpJY",
-    "upvotes": 45,
-    "author": "ivank",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=30708458"
+    "title": "Rust's unsafe pointer types need an overhaul",
+    "url": "https://gankra.github.io/blah/fix-rust-pointers/",
+    "upvotes": 97,
+    "author": "faitswulff",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=30739557"
   },
   {
     "title": "Data Mesh Architecture",
     "url": "https://www.datamesh-architecture.com",
-    "upvotes": 99,
+    "upvotes": 103,
     "author": "aiobe",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=30721198"
+  },
+  {
+    "title": "George Hotz against the institutions",
+    "url": "https://return.life/2022/03/07/george-hotz-comma-ride-or-die/",
+    "upvotes": 19,
+    "author": "ryeguy_24",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30738763"
   },
   {
     "title": "Dogs are good models for human psychiatric disorders, study argues",
     "url": "https://www.science.org/content/article/your-dog-might-be-anxious-same-reasons-you-are",
     "upvotes": 68,
     "author": "whack",
-    "comments": 92,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=30736488"
   },
   {
     "title": "Show HN: `Git add -p` with multiple buckets",
     "url": "https://github.com/aleclearmind/split-patch",
-    "upvotes": 77,
+    "upvotes": 78,
     "author": "aleclm",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=30735294"
@@ -154,7 +162,7 @@
   {
     "title": "Tired of waiting for driverless vehicles? Head to a farm",
     "url": "https://apnews.com/article/technology-business-iowa-driverless-cars-waterloo-7943feea0d2eccc563e2399f26942a91",
-    "upvotes": 10,
+    "upvotes": 11,
     "author": "RickJWagner",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30721007"
@@ -162,14 +170,6 @@
   {
     "title": "Streak",
     "url": "https://www.streak.com/careers/head-of-ops"
-  },
-  {
-    "title": "A record-setting 19th-century adventure was the result of a bet",
-    "url": "https://www.atlasobscura.com/articles/annie-kopchovsky-londonderry-cyclist",
-    "upvotes": 4,
-    "author": "Thevet",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30729820"
   },
   {
     "title": "Structured Concurrency",
@@ -180,17 +180,9 @@
     "link": "https://news.ycombinator.com/item?id=30720980"
   },
   {
-    "title": "Ride or Die: George Hotz Against the Institutions",
-    "url": "https://return.life/2022/03/07/george-hotz-comma-ride-or-die/",
-    "upvotes": 14,
-    "author": "ryeguy_24",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30738763"
-  },
-  {
     "title": "BGP Implemented in Go",
     "url": "https://github.com/osrg/gobgp",
-    "upvotes": 117,
+    "upvotes": 118,
     "author": "eatonphil",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=30734712"
@@ -198,31 +190,31 @@
   {
     "title": "Show HN: A game that tests how well you know your local area",
     "url": "https://backofyourhand.com/51.89863,-8.47039",
-    "upvotes": 477,
+    "upvotes": 485,
     "author": "adamlynch",
-    "comments": 181,
+    "comments": 183,
     "link": "https://news.ycombinator.com/item?id=30733339"
   },
   {
     "title": "Ask HN: What book changed your life?",
     "url": "item?id=30734709",
-    "upvotes": 260,
+    "upvotes": 267,
     "author": "tomrod",
-    "comments": 337,
+    "comments": 350,
     "link": "https://news.ycombinator.com/item?id=30734709"
   },
   {
-    "title": "It’s Like GPT-3 but for Code – Fun, Fast, and Full of Flaws",
-    "url": "https://www.wired.com/story/openai-copilot-autocomplete-for-code/",
-    "upvotes": 87,
-    "author": "nsoonhui",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=30695509"
+    "title": "A record-setting 19th-century adventure was the result of a bet",
+    "url": "https://www.atlasobscura.com/articles/annie-kopchovsky-londonderry-cyclist",
+    "upvotes": 4,
+    "author": "Thevet",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30729820"
   },
   {
     "title": "Compilers: The Old New Security Frontier [pdf]",
     "url": "https://grsecurity.net/Compilers_The_Old_New_Security_Frontier_BlueHat_IL_2022.pdf",
-    "upvotes": 56,
+    "upvotes": 57,
     "author": "zdw",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30714717"
@@ -230,9 +222,17 @@
   {
     "title": "The Inca Used Knots to Tell Stories",
     "url": "https://lithub.com/how-the-inca-used-knots-to-tell-stories/",
-    "upvotes": 77,
+    "upvotes": 78,
     "author": "bryanrasmussen",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30733873"
+  },
+  {
+    "title": "Qualcomm: From Satellites to CDMA to Snapdragons",
+    "url": "https://thehistoryofcomputing.net/qualcomm-from-satellites-to-cdma-to-snapdragons",
+    "upvotes": 27,
+    "author": "LaserPineapple",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=30737191"
   }
 ]
