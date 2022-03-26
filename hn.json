@@ -2,103 +2,111 @@
   {
     "title": "Running GUI apps within Docker containers",
     "url": "https://www.trickster.dev/post/running-gui-apps-within-docker-containers/",
-    "upvotes": 86,
+    "upvotes": 116,
     "author": "rl1987",
-    "comments": 30,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=30810410"
   },
   {
     "title": "`COPY –chmod` reduced the size of my container image by 35%",
     "url": "https://blog.vamc19.dev/posts/dockerfile-copy-chmod/",
-    "upvotes": 366,
+    "upvotes": 387,
     "author": "unmole",
-    "comments": 89,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=30808945"
-  },
-  {
-    "title": "V",
-    "url": "https://github.com/vlang/v",
-    "upvotes": 17,
-    "author": "u1tron",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30810920"
   },
   {
     "title": "Brewster Kahle and the Internet Archive still working to democratize knowledge",
     "url": "https://www.niemanlab.org/2022/03/after-25-years-brewster-kahle-and-the-internet-archive-are-still-working-to-democratize-knowledge/",
-    "upvotes": 9,
+    "upvotes": 20,
     "author": "ingve",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30810852"
-  },
-  {
-    "title": "Nvidia Research Turns 2D Photos into 3D Scenes",
-    "url": "https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/",
-    "upvotes": 416,
-    "author": "bcaulfield",
-    "comments": 192,
-    "link": "https://news.ycombinator.com/item?id=30806925"
-  },
-  {
-    "title": "Evaluation of science advice during the Covid-19 pandemic in Sweden",
-    "url": "https://www.nature.com/articles/s41599-022-01097-5",
-    "upvotes": 34,
-    "author": "areoform",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=30810534"
   },
   {
     "title": "Running servers",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunningServersNotTrivial",
-    "upvotes": 3,
+    "upvotes": 12,
     "author": "rognjen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30810980"
   },
   {
+    "title": "The Guide to Onboarding Software Engineers",
+    "url": "https://leadership.garden/onboarding-engineers/",
+    "upvotes": 13,
+    "author": "ochronus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30810786"
+  },
+  {
+    "title": "Evaluation of science advice during the Covid-19 pandemic in Sweden",
+    "url": "https://www.nature.com/articles/s41599-022-01097-5",
+    "upvotes": 46,
+    "author": "areoform",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=30810534"
+  },
+  {
+    "title": "Mourning as a Remote Team",
+    "url": "https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team",
+    "upvotes": 3,
+    "author": "asyncscrum",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30811187"
+  },
+  {
     "title": "A case study in early-stage startup execution",
     "url": "https://www.wave.com/en/blog/early-execution/",
-    "upvotes": 53,
+    "upvotes": 64,
     "author": "luu",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=30799146"
   },
   {
     "title": "Old Spleens Suck",
     "url": "https://sarahconstantin.substack.com/p/old-spleens-suck",
-    "upvotes": 178,
+    "upvotes": 181,
     "author": "benkuhn",
-    "comments": 73,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=30807680"
-  },
-  {
-    "title": "Scientists find microplastics in blood for first time",
-    "url": "https://phys.org/news/2022-03-scientists-microplastics-blood.html",
-    "upvotes": 44,
-    "author": "smusamashah",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30810626"
-  },
-  {
-    "title": "Geothermal Plants Could Unlock Vast Supplies of Lithium in the American West",
-    "url": "https://singularityhub.com/2022/03/23/how-geothermal-plants-could-solve-americas-lithium-supply-crunch-boost-ev-battery-industry/",
-    "upvotes": 37,
-    "author": "RafelMri",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=30809654"
   },
   {
     "title": "FDA Approves First CRISPR Cows for Beef",
     "url": "https://modernfarmer.com/2022/03/fda-crispr-cows-for-beef/",
-    "upvotes": 59,
+    "upvotes": 65,
     "author": "Ice_cream_suit",
-    "comments": 107,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=30809293"
+  },
+  {
+    "title": "Geothermal Plants Could Unlock Vast Supplies of Lithium in the American West",
+    "url": "https://singularityhub.com/2022/03/23/how-geothermal-plants-could-solve-americas-lithium-supply-crunch-boost-ev-battery-industry/",
+    "upvotes": 41,
+    "author": "RafelMri",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=30809654"
+  },
+  {
+    "title": "Crossrail update on the Elizabeth line’s opening plans",
+    "url": "https://www.ianvisits.co.uk/articles/crossrail-update-on-the-elizabeth-line-opening-plans-53030/",
+    "upvotes": 17,
+    "author": "zeristor",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=30810198"
+  },
+  {
+    "title": "Scientists find microplastics in blood for first time",
+    "url": "https://phys.org/news/2022-03-scientists-microplastics-blood.html",
+    "upvotes": 52,
+    "author": "smusamashah",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=30810626"
   },
   {
     "title": "Sometimes We Suck",
     "url": "https://blog.flickr.net/en/2005/07/21/sometimes-we-suck/",
-    "upvotes": 68,
+    "upvotes": 70,
     "author": "sangeeth96",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30788578"
@@ -106,103 +114,103 @@
   {
     "title": "An Apple Original on DVD: The Definitive Unboxing and UX Review",
     "url": "https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-definitive-unboxing-and-ux-review/",
-    "upvotes": 59,
+    "upvotes": 62,
     "author": "robbiet480",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30809226"
   },
   {
-    "title": "Crossrail update on the Elizabeth line’s opening plans",
-    "url": "https://www.ianvisits.co.uk/articles/crossrail-update-on-the-elizabeth-line-opening-plans-53030/",
-    "upvotes": 13,
-    "author": "zeristor",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=30810198"
-  },
-  {
     "title": "Document your mistakes and then try to block them in the future",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DocumentMistakesThenBlockThem",
-    "upvotes": 40,
+    "upvotes": 46,
     "author": "zdw",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30791425"
   },
   {
-    "title": "Uthash – C macros for hash tables and more",
-    "url": "https://github.com/troydhanson/uthash",
-    "upvotes": 48,
-    "author": "maydemir",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=30808107"
-  },
-  {
-    "title": "Groundbreaking set for bridge billed as world's largest wildlife crossing",
-    "url": "https://abc7.com/wildlife-crossing-101-freeway-bridge-groundbreaking/11680134/",
-    "upvotes": 55,
-    "author": "opisthenar84",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=30808901"
+    "title": "New Male Birth Control Pill Effectively Prevents Pregnancy Without Side Effects",
+    "url": "https://scitechdaily.com/new-male-birth-control-pill-effectively-prevents-pregnancy-without-side-effects/",
+    "upvotes": 59,
+    "author": "metaph6",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=30810547"
   },
   {
     "title": "You Try Constricting Your Prey and Breathing at the Same Time",
     "url": "https://www.theatlantic.com/science/archive/2022/03/how-boa-constrictor-snakes-eat-prey/627607/",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "fortran77",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30802508"
+  },
+  {
+    "title": "Groundbreaking set for bridge billed as world's largest wildlife crossing",
+    "url": "https://abc7.com/wildlife-crossing-101-freeway-bridge-groundbreaking/11680134/",
+    "upvotes": 59,
+    "author": "opisthenar84",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=30808901"
+  },
+  {
+    "title": "Uthash – C macros for hash tables and more",
+    "url": "https://github.com/troydhanson/uthash",
+    "upvotes": 50,
+    "author": "maydemir",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=30808107"
   },
   {
     "title": "Launch HN: Azuki (YC W22) – All-you-can-read manga subscription",
     "url": "item?id=30804169",
     "upvotes": 178,
     "author": "BasouKazuma",
-    "comments": 121,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=30804169"
   },
   {
-    "title": "New Male Birth Control Pill Effectively Prevents Pregnancy Without Side Effects",
-    "url": "https://scitechdaily.com/new-male-birth-control-pill-effectively-prevents-pregnancy-without-side-effects/",
-    "upvotes": 47,
-    "author": "metaph6",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=30810547"
+    "title": "Nvidia Research Turns 2D Photos into 3D Scenes",
+    "url": "https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/",
+    "upvotes": 419,
+    "author": "bcaulfield",
+    "comments": 196,
+    "link": "https://news.ycombinator.com/item?id=30806925"
+  },
+  {
+    "title": "SDL_sound 2.0",
+    "url": "https://github.com/icculus/SDL_sound/releases/tag/v2.0.1",
+    "upvotes": 16,
+    "author": "ingve",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30810629"
   },
   {
     "title": "Stronger hands lengthen your life",
     "url": "https://www.axios.com/hand-grip-strength-falling-deaths-8dfd77a1-0561-41be-8359-12532af948ce.html",
-    "upvotes": 125,
+    "upvotes": 127,
     "author": "HiroProtagonist",
     "comments": 106,
     "link": "https://news.ycombinator.com/item?id=30807138"
   },
   {
-    "title": "SDL_sound 2.0",
-    "url": "https://github.com/icculus/SDL_sound/releases/tag/v2.0.1",
-    "upvotes": 12,
-    "author": "ingve",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30810629"
+    "title": "Unexpected space weather causing the reentry of 38 Starlink satellites",
+    "url": "https://eartharxiv.org/repository/view/3208/",
+    "upvotes": 42,
+    "author": "yashi",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=30809759"
   },
   {
     "title": "I built a receipt printer for GitHub issues",
     "url": "https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/",
-    "upvotes": 727,
+    "upvotes": 730,
     "author": "horsellama",
-    "comments": 154,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=30803589"
-  },
-  {
-    "title": "Unexpected space weather causing the reentry of 38 Starlink satellites",
-    "url": "https://eartharxiv.org/repository/view/3208/",
-    "upvotes": 38,
-    "author": "yashi",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=30809759"
   },
   {
     "title": "Kani Rust Verifier – a bit-precise model-checker for Rust",
     "url": "https://model-checking.github.io/kani/",
-    "upvotes": 119,
+    "upvotes": 121,
     "author": "pabs3",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30786511"
@@ -210,15 +218,15 @@
   {
     "title": "Vulnerability in Honda's Remote Keyless System",
     "url": "https://github.com/nonamecoder/CVE-2022-27254",
-    "upvotes": 393,
+    "upvotes": 395,
     "author": "belter",
-    "comments": 178,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=30804702"
   },
   {
     "title": "Mounting evidence for a 95 GeV Higgs boson",
     "url": "https://arxiv.org/abs/2203.13180",
-    "upvotes": 76,
+    "upvotes": 77,
     "author": "kloch",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30807022"
@@ -226,17 +234,9 @@
   {
     "title": "Librdkafka – An Apache Kafka C/C++ client library",
     "url": "https://github.com/edenhill/librdkafka",
-    "upvotes": 47,
+    "upvotes": 48,
     "author": "maydemir",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30787254"
-  },
-  {
-    "title": "Bashing the Bash – Replacing Shell Scripts with Python",
-    "url": "https://medium.com/capital-one-tech/bashing-the-bash-replacing-shell-scripts-with-python-d8d201bc0989",
-    "upvotes": 75,
-    "author": "itamarst",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=30801878"
   }
 ]
