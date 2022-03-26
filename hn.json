@@ -2,111 +2,123 @@
   {
     "title": "Mourning loss as a remote team",
     "url": "https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team",
-    "upvotes": 457,
+    "upvotes": 502,
     "author": "asyncscrum",
-    "comments": 130,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=30811187"
   },
   {
     "title": "Raygui – A simple and easy-to-use immediate-mode GUI library",
     "url": "https://github.com/raysan5/raygui",
-    "upvotes": 22,
+    "upvotes": 32,
     "author": "maydemir",
-    "comments": 3,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30813000"
   },
   {
     "title": "Show HN: A website to find public pianos",
     "url": "https://pianos.pub/",
-    "upvotes": 89,
+    "upvotes": 101,
     "author": "qrv3w",
-    "comments": 34,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30811648"
   },
   {
     "title": "Why we need lisp machines",
     "url": "https://fultonsramblings.substack.com/p/why-we-need-lisp-machines",
-    "upvotes": 84,
+    "upvotes": 96,
     "author": "otacust",
-    "comments": 81,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=30811592"
+  },
+  {
+    "title": "The counterintuitive rise of Python in scientific computing",
+    "url": "https://cerfacs.fr/coop/fortran-vs-python",
+    "upvotes": 32,
+    "author": "leonry",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=30812086"
+  },
+  {
+    "title": "Basis",
+    "url": "https://www.workatastartup.com/companies/basis-2"
   },
   {
     "title": "Running GUI apps within Docker containers",
     "url": "https://www.trickster.dev/post/running-gui-apps-within-docker-containers/",
-    "upvotes": 196,
+    "upvotes": 202,
     "author": "rl1987",
     "comments": 70,
     "link": "https://news.ycombinator.com/item?id=30810410"
   },
   {
-    "title": "Brewster Kahle and the Internet Archive still working to democratize knowledge",
-    "url": "https://www.niemanlab.org/2022/03/after-25-years-brewster-kahle-and-the-internet-archive-are-still-working-to-democratize-knowledge/",
-    "upvotes": 92,
-    "author": "ingve",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=30810852"
-  },
-  {
     "title": "`COPY –chmod` reduced the size of my container image by 35%",
     "url": "https://blog.vamc19.dev/posts/dockerfile-copy-chmod/",
-    "upvotes": 466,
+    "upvotes": 473,
     "author": "unmole",
     "comments": 134,
     "link": "https://news.ycombinator.com/item?id=30808945"
   },
   {
-    "title": "Running servers and services well is not trivial",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunningServersNotTrivial",
-    "upvotes": 59,
-    "author": "rognjen",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=30810980"
+    "title": "Brewster Kahle and the Internet Archive still working to democratize knowledge",
+    "url": "https://www.niemanlab.org/2022/03/after-25-years-brewster-kahle-and-the-internet-archive-are-still-working-to-democratize-knowledge/",
+    "upvotes": 95,
+    "author": "ingve",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=30810852"
   },
   {
     "title": "Show HN: GUI Applications in Podman on Wayland",
     "url": "https://github.com/mody5bundle/capps",
-    "upvotes": 27,
+    "upvotes": 36,
     "author": "moody5bundle",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30811661"
   },
   {
-    "title": "The Guide to Onboarding Software Engineers",
-    "url": "https://leadership.garden/onboarding-engineers/",
-    "upvotes": 95,
-    "author": "ochronus",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=30810786"
-  },
-  {
-    "title": "Ask HN: What do you do when competition signs up for your service?",
-    "url": "item?id=30812066",
-    "upvotes": 52,
-    "author": "nyellin",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=30812066"
-  },
-  {
-    "title": "Humanly Traversable Wormholes",
-    "url": "https://arxiv.org/abs/2008.06618",
-    "upvotes": 12,
-    "author": "nabla9",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30812638"
+    "title": "Running servers and services well is not trivial",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunningServersNotTrivial",
+    "upvotes": 64,
+    "author": "rognjen",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=30810980"
   },
   {
     "title": "Starting Over – A FOSS proposal for a new type of OS for a new type of computer",
     "url": "https://archive.fosdem.org/2021/schedule/event/new_type_of_computer/",
-    "upvotes": 25,
+    "upvotes": 35,
     "author": "gjvc",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30811899"
   },
   {
+    "title": "Humanly Traversable Wormholes",
+    "url": "https://arxiv.org/abs/2008.06618",
+    "upvotes": 16,
+    "author": "nabla9",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30812638"
+  },
+  {
+    "title": "Ask HN: What do you do when competition signs up for your service?",
+    "url": "item?id=30812066",
+    "upvotes": 65,
+    "author": "nyellin",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=30812066"
+  },
+  {
+    "title": "The Guide to Onboarding Software Engineers",
+    "url": "https://leadership.garden/onboarding-engineers/",
+    "upvotes": 101,
+    "author": "ochronus",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=30810786"
+  },
+  {
     "title": "Typebot: A conversational form builder that you can self-host",
     "url": "https://github.com/baptisteArno/typebot.io",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "thunderbong",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30811499"
@@ -114,129 +126,113 @@
   {
     "title": "State of OSS Monetization",
     "url": "item?id=30813031",
-    "upvotes": 13,
+    "upvotes": 20,
     "author": "joergrech",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30813031"
   },
   {
     "title": "Pamplona Bull Runs Reveal Dynamics of Crowds in Danger",
     "url": "https://www.scientificamerican.com/article/pamplona-bull-runs-reveal-dynamics-of-crowds-in-danger/",
-    "upvotes": 13,
+    "upvotes": 15,
     "author": "pseudolus",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30800501"
   },
   {
     "title": "FDA Approves First CRISPR Cows for Beef",
     "url": "https://modernfarmer.com/2022/03/fda-crispr-cows-for-beef/",
-    "upvotes": 131,
+    "upvotes": 137,
     "author": "Ice_cream_suit",
-    "comments": 207,
+    "comments": 215,
     "link": "https://news.ycombinator.com/item?id=30809293"
-  },
-  {
-    "title": "Geothermal Plants Could Unlock Vast Supplies of Lithium in the American West",
-    "url": "https://singularityhub.com/2022/03/23/how-geothermal-plants-could-solve-americas-lithium-supply-crunch-boost-ev-battery-industry/",
-    "upvotes": 80,
-    "author": "RafelMri",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=30809654"
-  },
-  {
-    "title": "Disabling automatic refresh for Snap from store",
-    "url": "https://forum.snapcraft.io/t/disabling-automatic-refresh-for-snap-from-store/707",
-    "upvotes": 99,
-    "author": "ccmcarey",
-    "comments": 122,
-    "link": "https://news.ycombinator.com/item?id=30811520"
   },
   {
     "title": "The 5-year journey to bring restartable sequences to Linux",
     "url": "https://www.efficios.com/blog/2019/02/08/linux-restartable-sequences/",
-    "upvotes": 7,
+    "upvotes": 9,
     "author": "gbrown_",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30800152"
   },
   {
+    "title": "Geothermal Plants Could Unlock Vast Supplies of Lithium in the American West",
+    "url": "https://singularityhub.com/2022/03/23/how-geothermal-plants-could-solve-americas-lithium-supply-crunch-boost-ev-battery-industry/",
+    "upvotes": 81,
+    "author": "RafelMri",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=30809654"
+  },
+  {
     "title": "A case study in early-stage startup execution",
     "url": "https://www.wave.com/en/blog/early-execution/",
-    "upvotes": 84,
+    "upvotes": 86,
     "author": "luu",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=30799146"
   },
   {
+    "title": "Disabling automatic refresh for Snap from store",
+    "url": "https://forum.snapcraft.io/t/disabling-automatic-refresh-for-snap-from-store/707",
+    "upvotes": 101,
+    "author": "ccmcarey",
+    "comments": 127,
+    "link": "https://news.ycombinator.com/item?id=30811520"
+  },
+  {
     "title": "An Apple Original on DVD: The Definitive Unboxing and UX Review",
     "url": "https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-definitive-unboxing-and-ux-review/",
-    "upvotes": 85,
+    "upvotes": 90,
     "author": "robbiet480",
-    "comments": 41,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=30809226"
+  },
+  {
+    "title": "Slint: Native GUI Toolkit for Rust, C++ or JavaScript",
+    "url": "https://github.com/slint-ui/slint",
+    "upvotes": 40,
+    "author": "surrTurr",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=30810533"
   },
   {
     "title": "You Try Constricting Your Prey and Breathing at the Same Time",
     "url": "https://www.theatlantic.com/science/archive/2022/03/how-boa-constrictor-snakes-eat-prey/627607/",
-    "upvotes": 50,
+    "upvotes": 51,
     "author": "fortran77",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30802508"
   },
   {
+    "title": "Crossrail update on the Elizabeth line’s opening plans",
+    "url": "https://www.ianvisits.co.uk/articles/crossrail-update-on-the-elizabeth-line-opening-plans-53030/",
+    "upvotes": 39,
+    "author": "zeristor",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=30810198"
+  },
+  {
     "title": "Scientists find microplastics in blood for first time",
     "url": "https://phys.org/news/2022-03-scientists-microplastics-blood.html",
-    "upvotes": 118,
+    "upvotes": 125,
     "author": "smusamashah",
-    "comments": 74,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=30810626"
   },
   {
     "title": "Document your mistakes and then try to block them in the future",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DocumentMistakesThenBlockThem",
-    "upvotes": 74,
+    "upvotes": 76,
     "author": "zdw",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=30791425"
-  },
-  {
-    "title": "Crossrail update on the Elizabeth line’s opening plans",
-    "url": "https://www.ianvisits.co.uk/articles/crossrail-update-on-the-elizabeth-line-opening-plans-53030/",
-    "upvotes": 37,
-    "author": "zeristor",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=30810198"
   },
   {
     "title": "SDL_sound 2.0",
     "url": "https://github.com/icculus/SDL_sound/releases/tag/v2.0.1",
-    "upvotes": 69,
+    "upvotes": 74,
     "author": "ingve",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30810629"
-  },
-  {
-    "title": "Sometimes We Suck",
-    "url": "https://blog.flickr.net/en/2005/07/21/sometimes-we-suck/",
-    "upvotes": 85,
-    "author": "sangeeth96",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=30788578"
-  },
-  {
-    "title": "Report about space weather causing reentry of Starlink satellites in February",
-    "url": "https://eartharxiv.org/repository/view/3208/",
-    "upvotes": 64,
-    "author": "yashi",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=30809759"
-  },
-  {
-    "title": "Slint: Native GUI Toolkit for Rust, C++ or JavaScript",
-    "url": "https://github.com/slint-ui/slint",
-    "upvotes": 31,
-    "author": "surrTurr",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=30810533"
   }
 ]
