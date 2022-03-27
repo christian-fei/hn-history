@@ -1,24 +1,24 @@
 [
   {
-    "title": "A userspace WireGuard client that exposes itself as a proxy",
-    "url": "https://github.com/octeep/wireproxy",
-    "upvotes": 105,
-    "author": "octeep",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=30816135"
-  },
-  {
     "title": "What made the NES so interesting?",
     "url": "https://nicole.express/2022/the-nes-as-an-artifact.html",
-    "upvotes": 44,
+    "upvotes": 58,
     "author": "zdw",
-    "comments": 11,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30816668"
+  },
+  {
+    "title": "A userspace WireGuard client that exposes itself as a proxy",
+    "url": "https://github.com/octeep/wireproxy",
+    "upvotes": 113,
+    "author": "octeep",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=30816135"
   },
   {
     "title": "Axial-Flux Motor with a PCB Stator Is Ripe for an Electrified World",
     "url": "https://spectrum.ieee.org/axial-flux",
-    "upvotes": 66,
+    "upvotes": 69,
     "author": "sohkamyung",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=30816149"
@@ -26,39 +26,47 @@
   {
     "title": "Mourning loss as a remote team",
     "url": "https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team",
-    "upvotes": 1020,
+    "upvotes": 1029,
     "author": "asyncscrum",
-    "comments": 328,
+    "comments": 329,
     "link": "https://news.ycombinator.com/item?id=30811187"
   },
   {
     "title": "Python 3.11 in the Web Browser",
     "url": "https://2022.pycon.de/program/SBCNDY/",
-    "upvotes": 186,
+    "upvotes": 190,
     "author": "tosh",
-    "comments": 72,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=30815122"
   },
   {
     "title": "Fossil: Battery Included Git Alternative",
     "url": "https://fossil-scm.org/home/doc/trunk/www/index.wiki",
-    "upvotes": 97,
+    "upvotes": 101,
     "author": "cassepipe",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=30815693"
   },
   {
+    "title": "Kotlin for JavaScript",
+    "url": "https://kotlinlang.org/docs/js-overview.html",
+    "upvotes": 9,
+    "author": "surrTurr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30817065"
+  },
+  {
     "title": "With Category Theory, Mathematics Escapes from Equality",
     "url": "https://www.quantamagazine.org/with-category-theory-mathematics-escapes-from-equality-20191010/",
-    "upvotes": 59,
+    "upvotes": 62,
     "author": "sebg",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=30809385"
   },
   {
     "title": "Raygui – A simple and easy-to-use immediate-mode GUI library",
     "url": "https://github.com/raysan5/raygui",
-    "upvotes": 175,
+    "upvotes": 179,
     "author": "maydemir",
     "comments": 83,
     "link": "https://news.ycombinator.com/item?id=30813000"
@@ -66,26 +74,42 @@
   {
     "title": "Show HN: A website to find public pianos",
     "url": "https://pianos.pub/",
-    "upvotes": 240,
+    "upvotes": 242,
     "author": "qrv3w",
-    "comments": 73,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=30811648"
+  },
+  {
+    "title": "Andrej Karpathy: TikTok is scary good. It's digital crack",
+    "url": "https://twitter.com/karpathy/status/1507893647341142016",
+    "upvotes": 39,
+    "author": "mfiguiere",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=30817017"
   },
   {
     "title": "Ask HN: If you used to be socially awkward and shy, how did you improve?",
     "url": "item?id=30814248",
-    "upvotes": 285,
+    "upvotes": 294,
     "author": "dondraper36",
-    "comments": 314,
+    "comments": 320,
     "link": "https://news.ycombinator.com/item?id=30814248"
   },
   {
     "title": "Launch HN: Koko (YC W22 Nonprofit) – Online Suicide Prevention Kit",
     "url": "item?id=30813527",
-    "upvotes": 142,
+    "upvotes": 143,
     "author": "robertrmorris",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=30813527"
+  },
+  {
+    "title": "The counterintuitive rise of Python in scientific computing",
+    "url": "https://cerfacs.fr/coop/fortran-vs-python",
+    "upvotes": 174,
+    "author": "leonry",
+    "comments": 216,
+    "link": "https://news.ycombinator.com/item?id=30812086"
   },
   {
     "title": "The RP2040 Stamp",
@@ -96,41 +120,25 @@
     "link": "https://news.ycombinator.com/item?id=30788460"
   },
   {
-    "title": "The counterintuitive rise of Python in scientific computing",
-    "url": "https://cerfacs.fr/coop/fortran-vs-python",
-    "upvotes": 172,
-    "author": "leonry",
-    "comments": 214,
-    "link": "https://news.ycombinator.com/item?id=30812086"
-  },
-  {
-    "title": "Andrej Karpathy: TikTok is scary good. It's digital crack",
-    "url": "https://twitter.com/karpathy/status/1507893647341142016",
-    "upvotes": 28,
-    "author": "mfiguiere",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=30817017"
+    "title": "Programmable Notes",
+    "url": "https://maggieappleton.com/programmatic-notes",
+    "upvotes": 47,
+    "author": "MaysonL",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30814964"
   },
   {
     "title": "The Dec/Compaq Turbo Laser 6 AlphaServer KN7CH Processor",
     "url": "https://www.cpushack.com/2022/03/26/the-dec-compaq-turbo-laser-6-alphaserver-kn7ch-processor/",
     "upvotes": 35,
     "author": "picture",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30815557"
-  },
-  {
-    "title": "Programmable Notes",
-    "url": "https://maggieappleton.com/programmatic-notes",
-    "upvotes": 44,
-    "author": "MaysonL",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30814964"
   },
   {
     "title": "How to Build a Minimum Lovable Product",
     "url": "https://userpilot.com/blog/build-minimum-lovable-mlp-product/",
-    "upvotes": 91,
+    "upvotes": 94,
     "author": "dundalk03",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=30799083"
@@ -138,18 +146,10 @@
   {
     "title": "Demoing Our Displays",
     "url": "https://simulavr.com/blog/demoing-our-displays/",
-    "upvotes": 39,
+    "upvotes": 42,
     "author": "nyberg",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30810001"
-  },
-  {
-    "title": "On infinite decimal expansions, missing numbers, and generating functions",
-    "url": "https://www.onethirteenth.net/2021/07/on-infinite-decimal-expansions-missing.html",
-    "upvotes": 5,
-    "author": "gone35",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30787203"
   },
   {
     "title": "Starting Over – A FOSS proposal for a new type of OS for a new type of computer",
@@ -160,36 +160,36 @@
     "link": "https://news.ycombinator.com/item?id=30811899"
   },
   {
-    "title": "Why and how we use primitive maps",
-    "url": "https://tech.trivago.com/post/2022-03-09-why-and-how-we-use-primitive-maps/",
-    "upvotes": 13,
-    "author": "skilled",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30799818"
-  },
-  {
-    "title": "GifDub",
-    "url": "https://johnjohnston.neocities.org/gifdub.html",
-    "upvotes": 8,
-    "author": "indigodaddy",
+    "title": "On infinite decimal expansions, missing numbers, and generating functions",
+    "url": "https://www.onethirteenth.net/2021/07/on-infinite-decimal-expansions-missing.html",
+    "upvotes": 5,
+    "author": "gone35",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30809578"
+    "link": "https://news.ycombinator.com/item?id=30787203"
   },
   {
     "title": "Why we need Lisp machines",
     "url": "https://fultonsramblings.substack.com/p/why-we-need-lisp-machines",
     "upvotes": 194,
     "author": "otacust",
-    "comments": 163,
+    "comments": 166,
     "link": "https://news.ycombinator.com/item?id=30811592"
   },
   {
-    "title": "Show HN: Wachy – A UI for eBPF-based performance debugging",
-    "url": "https://rubrikinc.github.io/wachy/",
-    "upvotes": 68,
-    "author": "vivek-jain",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30812988"
+    "title": "Why and how we use primitive maps",
+    "url": "https://tech.trivago.com/post/2022-03-09-why-and-how-we-use-primitive-maps/",
+    "upvotes": 14,
+    "author": "skilled",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30799818"
+  },
+  {
+    "title": "GifDub",
+    "url": "https://johnjohnston.neocities.org/gifdub.html",
+    "upvotes": 9,
+    "author": "indigodaddy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30809578"
   },
   {
     "title": "Basis",
@@ -198,18 +198,26 @@
   {
     "title": "Test Microwave for Radiation Leakage",
     "url": "https://ismymicrowaveleaking.isotropic.us/",
-    "upvotes": 51,
+    "upvotes": 52,
     "author": "uber1geek",
-    "comments": 70,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=30813766"
   },
   {
     "title": "A Freelancer's Forty-Three Years in the American Health-Care System",
     "url": "https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system",
-    "upvotes": 18,
+    "upvotes": 19,
     "author": "mitchbob",
-    "comments": 4,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=30815945"
+  },
+  {
+    "title": "Show HN: Wachy – A UI for eBPF-based performance debugging",
+    "url": "https://rubrikinc.github.io/wachy/",
+    "upvotes": 70,
+    "author": "vivek-jain",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30812988"
   },
   {
     "title": "Solar Orbiter passes historically close to sun on Saturday",
@@ -220,19 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=30813548"
   },
   {
-    "title": "PCLSRing: Keeping Process State Modular",
-    "url": "http://fare.tunes.org/tmp/emergent/pclsr.htm",
-    "upvotes": 12,
-    "author": "gbrown_",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30800414"
-  },
-  {
     "title": "Humanly Traversable Wormholes",
     "url": "https://arxiv.org/abs/2008.06618",
     "upvotes": 85,
     "author": "nabla9",
-    "comments": 60,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=30812638"
   }
 ]
