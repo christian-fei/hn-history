@@ -2,71 +2,63 @@
   {
     "title": "Fuchsia Workstation",
     "url": "https://fuchsia.dev/fuchsia-src/development/build/build_workstation",
-    "upvotes": 161,
+    "upvotes": 173,
     "author": "timsneath",
-    "comments": 120,
+    "comments": 159,
     "link": "https://news.ycombinator.com/item?id=30827210"
   },
   {
     "title": "Show HN: I'm writing a free book called Computer Networks from Scratch",
     "url": "https://www.networksfromscratch.com",
-    "upvotes": 507,
+    "upvotes": 527,
     "author": "sarchertech",
-    "comments": 98,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=30824357"
   },
   {
     "title": "What is money, anyway?",
     "url": "https://www.lynalden.com/what-is-money/",
-    "upvotes": 246,
+    "upvotes": 258,
     "author": "cyber_kinetist",
-    "comments": 153,
+    "comments": 174,
     "link": "https://news.ycombinator.com/item?id=30825505"
   },
   {
-    "title": "A *magical* AWS serverless developer experience",
+    "title": "A magical AWS serverless developer experience",
     "url": "https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/",
-    "upvotes": 75,
+    "upvotes": 88,
     "author": "ptrik",
-    "comments": 32,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=30827038"
   },
   {
     "title": "When I was labeled a ‘troubled’ teen, I obliged",
     "url": "https://www.nytimes.com/2021/01/12/well/family/teen-tough-love-programs.html",
-    "upvotes": 106,
+    "upvotes": 112,
     "author": "jasonhansel",
-    "comments": 97,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=30819756"
-  },
-  {
-    "title": "The Cons Microprocessor [pdf]",
-    "url": "https://dspace.mit.edu/bitstream/handle/1721.1/41115/AI_WP_080.pdf",
-    "upvotes": 18,
-    "author": "gjvc",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30819084"
   },
   {
     "title": "Countering threats from North Korea",
     "url": "https://blog.google/threat-analysis-group/countering-threats-north-korea/",
-    "upvotes": 292,
+    "upvotes": 298,
     "author": "arkadiyt",
-    "comments": 121,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=30822370"
   },
   {
-    "title": "Fornjot – The world needs another CAD program",
-    "url": "https://github.com/hannobraun/Fornjot",
-    "upvotes": 95,
-    "author": "maydemir",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=30825429"
+    "title": "Firefox UI/UX History",
+    "url": "https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history",
+    "upvotes": 355,
+    "author": "black7375",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=30820894"
   },
   {
     "title": "PHP Filter_var Shenanigans",
     "url": "https://pwning.systems/posts/php_filter_var_shenanigans/",
-    "upvotes": 42,
+    "upvotes": 47,
     "author": "mkeeter",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=30811842"
@@ -74,31 +66,39 @@
   {
     "title": "Running Cross-Account Workflows with AWS Step Functions and Amazon API Gateway",
     "url": "https://aws.amazon.com/blogs/compute/running-cross-account-workflows-with-aws-step-functions-and-amazon-api-gateway/",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "kiyanwang",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30811980"
   },
   {
-    "title": "Firefox UI/UX History",
-    "url": "https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history",
-    "upvotes": 351,
-    "author": "black7375",
-    "comments": 132,
-    "link": "https://news.ycombinator.com/item?id=30820894"
+    "title": "The Cons Microprocessor [pdf]",
+    "url": "https://dspace.mit.edu/bitstream/handle/1721.1/41115/AI_WP_080.pdf",
+    "upvotes": 20,
+    "author": "gjvc",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30819084"
+  },
+  {
+    "title": "Fornjot – The world needs another CAD program",
+    "url": "https://github.com/hannobraun/Fornjot",
+    "upvotes": 104,
+    "author": "maydemir",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=30825429"
   },
   {
     "title": "What’s behind that enigmatic smile?",
     "url": "https://thecritic.co.uk/whats-behind-that-enigmatic-smile/",
-    "upvotes": 6,
+    "upvotes": 8,
     "author": "prismatic",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30817714"
   },
   {
     "title": "How to write a linter using tree-sitter in an hour",
     "url": "https://siraben.dev/2022/03/22/tree-sitter-linter.html",
-    "upvotes": 208,
+    "upvotes": 214,
     "author": "siraben",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30822544"
@@ -106,114 +106,122 @@
   {
     "title": "Bubblewrap: Unprivileged sandboxing tool for Linux",
     "url": "https://github.com/containers/bubblewrap",
-    "upvotes": 163,
+    "upvotes": 164,
     "author": "varbhat",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=30823164"
-  },
-  {
-    "title": "A Year of BonsaiDb: A retrospective and looking to the future",
-    "url": "https://bonsaidb.io/blog/one-year-anniversary/",
-    "upvotes": 52,
-    "author": "lukastyrychtr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30800272"
-  },
-  {
-    "title": "Show HN: RaveForce – An OpenAI Gym style toolkit for music generation experiment",
-    "url": "https://github.com/chaosprint/RaveForce",
-    "upvotes": 14,
-    "author": "chaosprint",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30819646"
   },
   {
     "title": "Drawing a circle, point-by-point, without floating point support",
     "url": "https://yurichev.com/news/20220322_circle/",
-    "upvotes": 45,
+    "upvotes": 48,
     "author": "threeme3",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30787020"
   },
   {
-    "title": "I hate what video games have become",
-    "url": "https://ivanca.tumblr.com/post/679923341152468992/i-hate-what-video-games-have-become",
-    "upvotes": 159,
-    "author": "mattigames",
-    "comments": 184,
-    "link": "https://news.ycombinator.com/item?id=30825405"
+    "title": "A Year of BonsaiDb: A retrospective and looking to the future",
+    "url": "https://bonsaidb.io/blog/one-year-anniversary/",
+    "upvotes": 55,
+    "author": "lukastyrychtr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30800272"
   },
   {
     "title": "New type of ultraviolet light makes indoor air as safe as outdoors",
     "url": "https://www.cuimc.columbia.edu/news/new-type-ultraviolet-light-makes-indoor-air-safe-outdoors",
-    "upvotes": 119,
+    "upvotes": 124,
     "author": "solarmist",
-    "comments": 86,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=30823426"
+  },
+  {
+    "title": "Marginalia Search: 1 Year",
+    "url": "https://memex.marginalia.nu/log/49-marginalia-1-year.gmi",
+    "upvotes": 106,
+    "author": "georgehill",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=30823481"
   },
   {
     "title": "Key Security in a Passwordless World",
     "url": "https://fultonsramblings.substack.com/p/key-security-in-a-passwordless-world",
-    "upvotes": 11,
+    "upvotes": 12,
     "author": "mooreds",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30812153"
+  },
+  {
+    "title": "Show HN: RaveForce – An OpenAI Gym style toolkit for music generation experiment",
+    "url": "https://github.com/chaosprint/RaveForce",
+    "upvotes": 16,
+    "author": "chaosprint",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30819646"
   },
   {
     "title": "The BITE Model of Authoritarian Control",
     "url": "https://www.proquest.com/docview/2476570146/",
     "upvotes": 77,
     "author": "WaitWaitWha",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=30825012"
   },
   {
-    "title": "Marginalia Search: 1 Year",
-    "url": "https://memex.marginalia.nu/log/49-marginalia-1-year.gmi",
-    "upvotes": 103,
-    "author": "georgehill",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=30823481"
+    "title": "Identities in Higher Calculus and Special Functions",
+    "url": "https://fractional-calculus.com/",
+    "upvotes": 3,
+    "author": "cpp_frog",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30811979"
   },
   {
     "title": "USPS Service Standards Maps",
     "url": "https://postalpro.usps.com/ppro-tools/service-standards-maps",
-    "upvotes": 115,
+    "upvotes": 116,
     "author": "zdw",
-    "comments": 55,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=30822685"
   },
   {
     "title": "The Vacuum Tube’s Forgotten Rival",
     "url": "https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival",
-    "upvotes": 199,
+    "upvotes": 201,
     "author": "bangonkeyboard",
-    "comments": 68,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=30821096"
   },
   {
     "title": "Due Diligence survival guide",
     "url": "https://jacquesmattheij.com/due-diligence-survival-guide/",
-    "upvotes": 23,
+    "upvotes": 25,
     "author": "jka",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30787342"
   },
   {
     "title": "Ask HN: Which book can attract anyone towards your field of study?",
     "url": "item?id=30822339",
-    "upvotes": 423,
+    "upvotes": 439,
     "author": "debanjan16",
-    "comments": 198,
+    "comments": 204,
     "link": "https://news.ycombinator.com/item?id=30822339"
   },
   {
     "title": "The Tao of Acme",
     "url": "https://benghancock.github.io/blog/2022/tao-of-acme.html",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "black_knight",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30822743"
+  },
+  {
+    "title": "I hate what video games have become",
+    "url": "https://ivanca.tumblr.com/post/679923341152468992/i-hate-what-video-games-have-become",
+    "upvotes": 169,
+    "author": "mattigames",
+    "comments": 217,
+    "link": "https://news.ycombinator.com/item?id=30825405"
   },
   {
     "title": "EasyPost",
@@ -222,17 +230,9 @@
   {
     "title": "Omega Swatch Speedmaster",
     "url": "https://www.swatch.com/pl-pl/bioceramic-moonswatch.html",
-    "upvotes": 71,
+    "upvotes": 75,
     "author": "kwikiel",
-    "comments": 113,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=30810726"
-  },
-  {
-    "title": "Thundernetes makes it easy to run your game servers on Kubernetes",
-    "url": "https://github.com/PlayFab/thundernetes",
-    "upvotes": 60,
-    "author": "pjmlp",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=30811847"
   }
 ]
