@@ -1,67 +1,83 @@
 [
   {
-    "title": "Fuchsia Workstation",
-    "url": "https://fuchsia.dev/fuchsia-src/development/build/build_workstation",
-    "upvotes": 200,
-    "author": "timsneath",
-    "comments": 218,
-    "link": "https://news.ycombinator.com/item?id=30827210"
-  },
-  {
     "title": "Show HN: I'm writing a free book called Computer Networks from Scratch",
     "url": "https://www.networksfromscratch.com",
-    "upvotes": 564,
+    "upvotes": 583,
     "author": "sarchertech",
-    "comments": 103,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=30824357"
+  },
+  {
+    "title": "Oxide on My Wrist: Hubris on PineTime was the best worst idea",
+    "url": "https://artemis.sh/2022/03/28/oxide-hubris-on-pinetime.html",
+    "upvotes": 12,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30828884"
   },
   {
     "title": "What is money, anyway?",
     "url": "https://www.lynalden.com/what-is-money/",
-    "upvotes": 285,
+    "upvotes": 295,
     "author": "cyber_kinetist",
-    "comments": 197,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=30825505"
+  },
+  {
+    "title": "Fuchsia Workstation",
+    "url": "https://fuchsia.dev/fuchsia-src/development/build/build_workstation",
+    "upvotes": 206,
+    "author": "timsneath",
+    "comments": 239,
+    "link": "https://news.ycombinator.com/item?id=30827210"
   },
   {
     "title": "Hacker Interview: Gummo",
     "url": "https://www.youtube.com/watch?v=g6igTJXcqvo",
-    "upvotes": 16,
+    "upvotes": 20,
     "author": "miobrien",
-    "comments": 3,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30812145"
   },
   {
     "title": "A magical AWS serverless developer experience",
     "url": "https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/",
-    "upvotes": 102,
+    "upvotes": 109,
     "author": "ptrik",
     "comments": 75,
     "link": "https://news.ycombinator.com/item?id=30827038"
   },
   {
-    "title": "Countering threats from North Korea",
-    "url": "https://blog.google/threat-analysis-group/countering-threats-north-korea/",
-    "upvotes": 309,
-    "author": "arkadiyt",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=30822370"
-  },
-  {
     "title": "When I was labeled a ‘troubled’ teen, I obliged",
     "url": "https://www.nytimes.com/2021/01/12/well/family/teen-tough-love-programs.html",
-    "upvotes": 121,
+    "upvotes": 123,
     "author": "jasonhansel",
-    "comments": 115,
+    "comments": 116,
     "link": "https://news.ycombinator.com/item?id=30819756"
+  },
+  {
+    "title": "Countering threats from North Korea",
+    "url": "https://blog.google/threat-analysis-group/countering-threats-north-korea/",
+    "upvotes": 312,
+    "author": "arkadiyt",
+    "comments": 131,
+    "link": "https://news.ycombinator.com/item?id=30822370"
   },
   {
     "title": "Firefox UI/UX History",
     "url": "https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history",
-    "upvotes": 377,
+    "upvotes": 384,
     "author": "black7375",
     "comments": 145,
     "link": "https://news.ycombinator.com/item?id=30820894"
+  },
+  {
+    "title": "Fornjot – The world needs another CAD program",
+    "url": "https://github.com/hannobraun/Fornjot",
+    "upvotes": 125,
+    "author": "maydemir",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=30825429"
   },
   {
     "title": "The Cons Microprocessor [pdf]",
@@ -72,25 +88,17 @@
     "link": "https://news.ycombinator.com/item?id=30819084"
   },
   {
-    "title": "Fornjot – The world needs another CAD program",
-    "url": "https://github.com/hannobraun/Fornjot",
-    "upvotes": 119,
-    "author": "maydemir",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=30825429"
-  },
-  {
     "title": "PHP Filter_var Shenanigans",
     "url": "https://pwning.systems/posts/php_filter_var_shenanigans/",
-    "upvotes": 51,
+    "upvotes": 54,
     "author": "mkeeter",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=30811842"
   },
   {
     "title": "Drawing a circle, point-by-point, without floating point support",
     "url": "https://yurichev.com/news/20220322_circle/",
-    "upvotes": 61,
+    "upvotes": 67,
     "author": "threeme3",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30787020"
@@ -98,58 +106,42 @@
   {
     "title": "How to write a linter using tree-sitter in an hour",
     "url": "https://siraben.dev/2022/03/22/tree-sitter-linter.html",
-    "upvotes": 225,
+    "upvotes": 227,
     "author": "siraben",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30822544"
   },
   {
-    "title": "Running Cross-Account Workflows with AWS Step Functions and Amazon API Gateway",
-    "url": "https://aws.amazon.com/blogs/compute/running-cross-account-workflows-with-aws-step-functions-and-amazon-api-gateway/",
-    "upvotes": 26,
-    "author": "kiyanwang",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30811980"
-  },
-  {
     "title": "Bubblewrap: Unprivileged sandboxing tool for Linux",
     "url": "https://github.com/containers/bubblewrap",
-    "upvotes": 169,
+    "upvotes": 170,
     "author": "varbhat",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=30823164"
   },
   {
-    "title": "Identities in Higher Calculus and Special Functions",
-    "url": "https://fractional-calculus.com/",
-    "upvotes": 9,
-    "author": "cpp_frog",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30811979"
+    "title": "Running Cross-Account Workflows with AWS Step Functions and Amazon API Gateway",
+    "url": "https://aws.amazon.com/blogs/compute/running-cross-account-workflows-with-aws-step-functions-and-amazon-api-gateway/",
+    "upvotes": 25,
+    "author": "kiyanwang",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30811980"
   },
   {
     "title": "A Year of BonsaiDb: A retrospective and looking to the future",
     "url": "https://bonsaidb.io/blog/one-year-anniversary/",
-    "upvotes": 59,
+    "upvotes": 61,
     "author": "lukastyrychtr",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30800272"
   },
   {
     "title": "Due Diligence survival guide",
     "url": "https://jacquesmattheij.com/due-diligence-survival-guide/",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "jka",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30787342"
-  },
-  {
-    "title": "What’s behind that enigmatic smile?",
-    "url": "https://thecritic.co.uk/whats-behind-that-enigmatic-smile/",
-    "upvotes": 11,
-    "author": "prismatic",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30817714"
   },
   {
     "title": "Marginalia Search: 1 Year",
@@ -160,9 +152,17 @@
     "link": "https://news.ycombinator.com/item?id=30823481"
   },
   {
+    "title": "Identities in Higher Calculus and Special Functions",
+    "url": "https://fractional-calculus.com/",
+    "upvotes": 10,
+    "author": "cpp_frog",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30811979"
+  },
+  {
     "title": "New type of ultraviolet light makes indoor air as safe as outdoors",
     "url": "https://www.cuimc.columbia.edu/news/new-type-ultraviolet-light-makes-indoor-air-safe-outdoors",
-    "upvotes": 125,
+    "upvotes": 128,
     "author": "solarmist",
     "comments": 97,
     "link": "https://news.ycombinator.com/item?id=30823426"
@@ -172,60 +172,56 @@
     "url": "https://postalpro.usps.com/ppro-tools/service-standards-maps",
     "upvotes": 122,
     "author": "zdw",
-    "comments": 58,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=30822685"
   },
   {
     "title": "The BITE Model of Authoritarian Control",
     "url": "https://www.proquest.com/docview/2476570146/",
-    "upvotes": 78,
+    "upvotes": 80,
     "author": "WaitWaitWha",
-    "comments": 22,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=30825012"
-  },
-  {
-    "title": "Show HN: RaveForce – An OpenAI Gym style toolkit for music generation experiment",
-    "url": "https://github.com/chaosprint/RaveForce",
-    "upvotes": 19,
-    "author": "chaosprint",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30819646"
   },
   {
     "title": "The Vacuum Tube’s Forgotten Rival",
     "url": "https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival",
-    "upvotes": 207,
+    "upvotes": 208,
     "author": "bangonkeyboard",
-    "comments": 71,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=30821096"
   },
   {
     "title": "Ask HN: Which book can attract anyone towards your field of study?",
     "url": "item?id=30822339",
-    "upvotes": 462,
+    "upvotes": 468,
     "author": "debanjan16",
-    "comments": 224,
+    "comments": 225,
     "link": "https://news.ycombinator.com/item?id=30822339"
+  },
+  {
+    "title": "Show HN: RaveForce – An OpenAI Gym style toolkit for music generation experiment",
+    "url": "https://github.com/chaosprint/RaveForce",
+    "upvotes": 20,
+    "author": "chaosprint",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30819646"
+  },
+  {
+    "title": "Key Security in a Passwordless World",
+    "url": "https://fultonsramblings.substack.com/p/key-security-in-a-passwordless-world",
+    "upvotes": 14,
+    "author": "mooreds",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=30812153"
   },
   {
     "title": "The Tao of Acme",
     "url": "https://benghancock.github.io/blog/2022/tao-of-acme.html",
     "upvotes": 59,
     "author": "black_knight",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=30822743"
-  },
-  {
-    "title": "Key Security in a Passwordless World",
-    "url": "https://fultonsramblings.substack.com/p/key-security-in-a-passwordless-world",
-    "upvotes": 13,
-    "author": "mooreds",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=30812153"
-  },
-  {
-    "title": "EasyPost",
-    "url": "https://www.easypost.com/careers"
   },
   {
     "title": "Thundernetes makes it easy to run your game servers on Kubernetes",
@@ -234,5 +230,13 @@
     "author": "pjmlp",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=30811847"
+  },
+  {
+    "title": "Killed by Microsoft",
+    "url": "https://killedbymicrosoft.info",
+    "upvotes": 404,
+    "author": "sandebert",
+    "comments": 309,
+    "link": "https://news.ycombinator.com/item?id=30822584"
   }
 ]
