@@ -1,40 +1,64 @@
 [
   {
-    "title": "A History of 'Hup,' the Jump Sound in Every Video Game",
-    "url": "https://www.wired.com/story/hup-history-jump-sound-video-games/",
-    "upvotes": 74,
-    "author": "Tomte",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=30864616"
-  },
-  {
     "title": "Setting up and running the MAME emulation of the Minitel 2",
     "url": "https://blog.jgc.org/2022/04/setting-up-and-running-mame-emulation.html",
-    "upvotes": 9,
+    "upvotes": 24,
     "author": "jgrahamc",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30888451"
   },
   {
-    "title": "QOI – The Quite OK Image Format",
-    "url": "https://qoiformat.org/",
-    "upvotes": 183,
-    "author": "rrauenza",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=30885668"
+    "title": "A History of 'Hup,' the Jump Sound in Every Video Game",
+    "url": "https://www.wired.com/story/hup-history-jump-sound-video-games/",
+    "upvotes": 87,
+    "author": "Tomte",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=30864616"
+  },
+  {
+    "title": "Lifetime Annotations for C++",
+    "url": "https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377",
+    "upvotes": 23,
+    "author": "akling",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30888172"
+  },
+  {
+    "title": "Minimodem – general-purpose software audio FSK modem",
+    "url": "http://www.whence.com/minimodem/",
+    "upvotes": 4,
+    "author": "marcodiego",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30888879"
+  },
+  {
+    "title": "PacketStreamer: Capture and aggregate network traffic across multiple hosts",
+    "url": "https://github.com/deepfence/PacketStreamer",
+    "upvotes": 11,
+    "author": "noboruma",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30888295"
   },
   {
     "title": "Hints for Writing Unix Tools",
     "url": "https://monkey.org/~marius/unix-tools-hints.html",
-    "upvotes": 54,
+    "upvotes": 63,
     "author": "ducktective",
-    "comments": 21,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=30858484"
+  },
+  {
+    "title": "QOI – The Quite OK Image Format",
+    "url": "https://qoiformat.org/",
+    "upvotes": 192,
+    "author": "rrauenza",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=30885668"
   },
   {
     "title": "MIT-0 License",
     "url": "https://github.com/aws/mit-0",
-    "upvotes": 194,
+    "upvotes": 203,
     "author": "rudedogg",
     "comments": 129,
     "link": "https://news.ycombinator.com/item?id=30885078"
@@ -42,83 +66,115 @@
   {
     "title": "I Couldn’t Get over My Brother’s Death",
     "url": "https://nautil.us/why-i-couldnt-get-over-my-brothers-death-15795/",
-    "upvotes": 128,
+    "upvotes": 138,
     "author": "dnetesn",
-    "comments": 79,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=30865730"
   },
   {
     "title": "Vim Color Schemes",
     "url": "https://vimcolorschemes.com/",
-    "upvotes": 148,
+    "upvotes": 153,
     "author": "auraham",
-    "comments": 76,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=30885471"
   },
   {
-    "title": "Show HN: I gamified a habit tracker to fight procrastination",
-    "url": "https://habitsgarden.com",
-    "upvotes": 72,
-    "author": "marclou",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=30886183"
-  },
-  {
-    "title": "Yet Another GitHub Profile Generator",
-    "url": "https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/",
-    "upvotes": 38,
-    "author": "lukastyrychtr",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=30886620"
-  },
-  {
-    "title": "A few things to know before stealing my 914",
-    "url": "https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/",
-    "upvotes": 1377,
-    "author": "garrepi",
-    "comments": 394,
-    "link": "https://news.ycombinator.com/item?id=30878489"
+    "title": "I Lost $150K in a Day",
+    "url": "https://www.youngmoney.co/p/gone-sixty-seconds",
+    "upvotes": 35,
+    "author": "yarapavan",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=30888641"
   },
   {
     "title": "Hypercontext",
     "url": "https://www.ycombinator.com/companies/hypercontext/jobs/io4qhGu-senior-software-engineer-backend"
   },
   {
-    "title": "PacketStreamer: Capture and aggregate network traffic across multiple hosts",
-    "url": "https://github.com/deepfence/PacketStreamer",
-    "upvotes": 5,
-    "author": "noboruma",
+    "title": "Yet Another GitHub Profile Generator",
+    "url": "https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/",
+    "upvotes": 47,
+    "author": "lukastyrychtr",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=30886620"
+  },
+  {
+    "title": "Show HN: I gamified a habit tracker to fight procrastination",
+    "url": "https://habitsgarden.com",
+    "upvotes": 78,
+    "author": "marclou",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=30886183"
+  },
+  {
+    "title": "A few things to know before stealing my 914",
+    "url": "https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/",
+    "upvotes": 1381,
+    "author": "garrepi",
+    "comments": 396,
+    "link": "https://news.ycombinator.com/item?id=30878489"
+  },
+  {
+    "title": "Psychedelics May Ease Cancer Patients’ Depression, Anxiety",
+    "url": "https://www.washingtonpost.com/health/2022/04/02/cancer-psychedelics-psilocybin-anxiety-depression/",
+    "upvotes": 9,
+    "author": "andrewl",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30888295"
+    "link": "https://news.ycombinator.com/item?id=30888741"
   },
   {
     "title": "An elegant bamboo structure in Vietnam",
     "url": "https://kottke.org/22/04/an-elegant-bamboo-structure-in-vietnam",
-    "upvotes": 54,
+    "upvotes": 64,
     "author": "jdkee",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=30885979"
+  },
+  {
+    "title": "How Mary-kay wilmers became Britain’s most influential editor",
+    "url": "https://www.nytimes.com/2019/10/24/magazine/london-review-of-books-mary-kay-wilmers.html",
+    "upvotes": 8,
+    "author": "Tomte",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30859206"
+  },
+  {
+    "title": "A Series of Unfortunate Bugs [video]",
+    "url": "https://www.youtube.com/watch?v=jTTf_sUUhaQ",
+    "upvotes": 5,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30871743"
   },
   {
     "title": "A database for 2022",
     "url": "https://tailscale.com/blog/database-for-2022/",
-    "upvotes": 506,
+    "upvotes": 516,
     "author": "tosh",
-    "comments": 225,
+    "comments": 232,
     "link": "https://news.ycombinator.com/item?id=30883015"
   },
   {
-    "title": "Hidden Italy: The Forbidden Cyclopean Ruins",
-    "url": "https://www.richardcassaro.com/hidden-italy-the-forbidden-cyclopean-ruins-of-giants-from-atlantis/",
+    "title": "Faster Sorting with Go Generics",
+    "url": "https://eli.thegreenplace.net/2022/faster-sorting-with-go-generics/",
+    "upvotes": 4,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30888125"
+  },
+  {
+    "title": "Linux-Xlnx – The official Linux kernel from Xilinx",
+    "url": "https://github.com/Xilinx/linux-xlnx",
     "upvotes": 17,
-    "author": "hairytrog",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=30856457"
+    "author": "maydemir",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=30886837"
   },
   {
     "title": "Scientists Discover Specific Neurons Involved in Making Memories",
     "url": "https://www.discovermagazine.com/the-sciences/scientists-discover-specific-neurons-involved-in-making-memories",
-    "upvotes": 34,
+    "upvotes": 39,
     "author": "prostoalex",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30867430"
@@ -126,113 +182,57 @@
   {
     "title": "YouTube cancelled my Nextcloud installation how-to",
     "url": "https://mccormick.cx/news/entries/youtube-cancelled-my-nextcloud-how-to-video",
-    "upvotes": 207,
+    "upvotes": 227,
     "author": "chr15m",
-    "comments": 88,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=30886834"
-  },
-  {
-    "title": "Linux-Xlnx – The official Linux kernel from Xilinx",
-    "url": "https://github.com/Xilinx/linux-xlnx",
-    "upvotes": 13,
-    "author": "maydemir",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30886837"
-  },
-  {
-    "title": "A Series of Unfortunate Bugs [video]",
-    "url": "https://www.youtube.com/watch?v=jTTf_sUUhaQ",
-    "upvotes": 3,
-    "author": "luu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30871743"
-  },
-  {
-    "title": "How Mary-kay wilmers became Britain’s most influential editor",
-    "url": "https://www.nytimes.com/2019/10/24/magazine/london-review-of-books-mary-kay-wilmers.html",
-    "upvotes": 4,
-    "author": "Tomte",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30859206"
   },
   {
     "title": "Fresh – visual assembly language IDE with built-in FASM assembler",
     "url": "https://fresh.flatassembler.net/",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "pabs3",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30885786"
   },
   {
-    "title": "Study conspiracy theories with compassion",
-    "url": "https://www.nature.com/articles/d41586-022-00879-w",
-    "upvotes": 79,
-    "author": "pseudolus",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=30859796"
+    "title": "HTML5-based physics simulation for building and animating springy creations",
+    "url": "https://peterfidelman.github.io/constructor/",
+    "upvotes": 5,
+    "author": "xdze2",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30887695"
   },
   {
-    "title": "Choose your status game wisely",
-    "url": "https://ofdollarsanddata.com/choose-your-status-game-wisely/",
-    "upvotes": 291,
-    "author": "throw0101a",
-    "comments": 249,
-    "link": "https://news.ycombinator.com/item?id=30853985"
-  },
-  {
-    "title": "Ask HN: Who wants to collaborate?",
-    "url": "item?id=30885956",
-    "upvotes": 81,
-    "author": "cloudsec9",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=30885956"
-  },
-  {
-    "title": "Show HN: A plain-text file format for todos and check lists",
-    "url": "item?id=30879327",
-    "upvotes": 402,
-    "author": "jotaen",
-    "comments": 156,
-    "link": "https://news.ycombinator.com/item?id=30879327"
-  },
-  {
-    "title": "Useful Shell Prompt",
-    "url": "https://solovyov.net/blog/2020/useful-shell-prompt/",
-    "upvotes": 38,
-    "author": "webmaven",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=30858478"
+    "title": "Watching the World Wrecking",
+    "url": "https://lifeboat.substack.com/p/watching-the-world-wrecking",
+    "upvotes": 104,
+    "author": "vitabenes",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=30886610"
   },
   {
     "title": "Collaborative programming in remote-first environment",
     "url": "https://vtorosyan.github.io/collaborative-programming/",
-    "upvotes": 32,
+    "upvotes": 36,
     "author": "vtorosyan",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=30866490"
   },
   {
-    "title": "Watching the World Wrecking",
-    "url": "https://lifeboat.substack.com/p/watching-the-world-wrecking",
-    "upvotes": 97,
-    "author": "vitabenes",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=30886610"
+    "title": "Useful Shell Prompt",
+    "url": "https://solovyov.net/blog/2020/useful-shell-prompt/",
+    "upvotes": 41,
+    "author": "webmaven",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=30858478"
   },
   {
-    "title": "Spacewar Is 60 Today",
-    "url": "https://www.masswerk.at/spacewar/",
-    "upvotes": 9,
-    "author": "masswerk",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30886497"
-  },
-  {
-    "title": "The Scottish Play",
-    "url": "https://en.wikipedia.org/wiki/The_Scottish_play",
-    "upvotes": 52,
-    "author": "pepys",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=30873590"
+    "title": "Choose your status game wisely",
+    "url": "https://ofdollarsanddata.com/choose-your-status-game-wisely/",
+    "upvotes": 292,
+    "author": "throw0101a",
+    "comments": 255,
+    "link": "https://news.ycombinator.com/item?id=30853985"
   }
 ]
