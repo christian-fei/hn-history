@@ -2,55 +2,63 @@
   {
     "title": "HTTP Feeds",
     "url": "https://www.http-feeds.org/",
-    "upvotes": 60,
+    "upvotes": 73,
     "author": "mcp_",
-    "comments": 16,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30904220"
   },
   {
     "title": "How we secure Monzo's banking platform",
     "url": "https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform/",
-    "upvotes": 48,
+    "upvotes": 65,
     "author": "coffeefuel",
-    "comments": 6,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30876527"
   },
   {
     "title": "Apple's whitelist of the 250k auto-completable domains in iOS",
     "url": "https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url",
-    "upvotes": 166,
+    "upvotes": 181,
     "author": "varenc",
-    "comments": 70,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=30903246"
   },
   {
     "title": "Cython Is 20",
     "url": "http://blog.behnel.de/posts/cython-is-20/",
-    "upvotes": 18,
+    "upvotes": 29,
     "author": "geococcyxc",
-    "comments": null,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30904430"
-  },
-  {
-    "title": "Due to failure in the IT system, it is not possible to run any trains today",
-    "url": "https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html",
-    "upvotes": 505,
-    "author": "ar0",
-    "comments": 253,
-    "link": "https://news.ycombinator.com/item?id=30901009"
   },
   {
     "title": "OwnTracks – keep track of your own location",
     "url": "https://owntracks.org/",
-    "upvotes": 44,
+    "upvotes": 56,
     "author": "pabs3",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=30904003"
+  },
+  {
+    "title": "Those HTML Attributes You Never Use",
+    "url": "https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/",
+    "upvotes": 30,
+    "author": "makaimc",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30887445"
+  },
+  {
+    "title": "Due to failure in the IT system, it is not possible to run any trains today",
+    "url": "https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html",
+    "upvotes": 521,
+    "author": "ar0",
+    "comments": 267,
+    "link": "https://news.ycombinator.com/item?id=30901009"
   },
   {
     "title": "“Can it run Doom” will never be the same, thanks to new ray-tracing mod",
     "url": "https://arstechnica.com/gaming/2022/04/doom-1-1993-gets-full-ray-tracing-dlss-support-in-fan-made-patch/",
-    "upvotes": 198,
+    "upvotes": 202,
     "author": "jay_kyburz",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=30901247"
@@ -58,95 +66,71 @@
   {
     "title": "Boopkit: eBPF backdoor",
     "url": "https://github.com/kris-nova/boopkit",
-    "upvotes": 50,
+    "upvotes": 55,
     "author": "DyslexicAtheist",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30903356"
   },
   {
-    "title": "Exploring Neural Networks Visually in the Browser",
-    "url": "https://cprimozic.net/blog/neural-network-experiments-and-visualizations/",
-    "upvotes": 23,
-    "author": "Ameo",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30895478"
-  },
-  {
     "title": "How to Keep 600 Kilograms of Kazakh Highly Enriched Uranium Safe",
     "url": "https://warontherocks.com/2022/04/project-sapphire-how-to-keep-600-tons-of-kazakh-highly-enriched-uranium-safe/",
-    "upvotes": 72,
+    "upvotes": 75,
     "author": "sbmthakur",
-    "comments": 42,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=30902890"
+  },
+  {
+    "title": "The Personal Security Checklist",
+    "url": "https://github.com/Lissy93/personal-security-checklist",
+    "upvotes": 129,
+    "author": "mcrump",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=30902426"
   },
   {
     "title": "Improving NGINX Performance with Kernel TLS and SSL_sendfile",
     "url": "https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/",
-    "upvotes": 106,
+    "upvotes": 110,
     "author": "limoce",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=30902744"
   },
   {
-    "title": "The Personal Security Checklist",
-    "url": "https://github.com/Lissy93/personal-security-checklist",
-    "upvotes": 116,
-    "author": "mcrump",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=30902426"
-  },
-  {
-    "title": "Those HTML Attributes You Never Use",
-    "url": "https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/",
-    "upvotes": 8,
-    "author": "makaimc",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30887445"
+    "title": "Exploring Neural Networks Visually in the Browser",
+    "url": "https://cprimozic.net/blog/neural-network-experiments-and-visualizations/",
+    "upvotes": 26,
+    "author": "Ameo",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30895478"
   },
   {
     "title": "Some interesting malware I found",
     "url": "https://bobbiechen.com/blog/2022/4/3/some-interesting-malware",
-    "upvotes": 157,
+    "upvotes": 166,
     "author": "bobbiechen",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30901141"
   },
   {
-    "title": "When Mongols Set Out to Conquer the World, There Was One Limiting Factor: Grass",
-    "url": "https://www.historynet.com/mongols-on-the-march-the-logistics-of-grass/",
-    "upvotes": 93,
-    "author": "benbreen",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=30886110"
-  },
-  {
-    "title": "We don’t use a staging environment",
-    "url": "https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment",
-    "upvotes": 362,
-    "author": "Chris86",
-    "comments": 309,
-    "link": "https://news.ycombinator.com/item?id=30899362"
+    "title": "Theion sulphur crystal batteries promise breakthrough in energy density",
+    "url": "https://www.whichev.net/2022/03/29/theion-sulphur-crystal-batteries-promise-breakthrough-in-energy-density/",
+    "upvotes": 39,
+    "author": "danboarder",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=30903209"
   },
   {
     "title": "Learn about Concept Maps",
     "url": "https://cmap.ihmc.us/docs/learn.php",
-    "upvotes": 53,
+    "upvotes": 55,
     "author": "Tomte",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30903140"
   },
   {
-    "title": "Theion sulphur crystal batteries promise breakthrough in energy density",
-    "url": "https://www.whichev.net/2022/03/29/theion-sulphur-crystal-batteries-promise-breakthrough-in-energy-density/",
-    "upvotes": 33,
-    "author": "danboarder",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=30903209"
-  },
-  {
     "title": "Women and their hair transformed South Korea",
     "url": "https://www.atlasobscura.com/articles/women-hair-wigs-south-korea",
-    "upvotes": 39,
+    "upvotes": 42,
     "author": "Thevet",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30890645"
@@ -154,26 +138,34 @@
   {
     "title": "AppleSqueezer GS: A Modern Apple ][ Accelerator",
     "url": "https://www.applesqueezer.com",
-    "upvotes": 79,
+    "upvotes": 80,
     "author": "pcr910303",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30901749"
   },
   {
     "title": "Why are 2D vector graphics so much harder than 3D?",
     "url": "https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/",
-    "upvotes": 98,
+    "upvotes": 102,
     "author": "thesephist",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=30901537"
   },
   {
-    "title": "YC-backed uBiome is basically Theranos-lite",
-    "url": "https://twitter.com/Carnage4Life/status/1510683233347796992",
-    "upvotes": 239,
-    "author": "donsupreme",
-    "comments": 142,
-    "link": "https://news.ycombinator.com/item?id=30899352"
+    "title": "When Mongols Set Out to Conquer the World, There Was One Limiting Factor: Grass",
+    "url": "https://www.historynet.com/mongols-on-the-march-the-logistics-of-grass/",
+    "upvotes": 96,
+    "author": "benbreen",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=30886110"
+  },
+  {
+    "title": "Study Tips from Richard Feynman",
+    "url": "https://piggsboson.medium.com/5-powerful-study-tips-from-richard-feynman-f7a94dbb35fd",
+    "upvotes": 156,
+    "author": "takiwatanga",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=30900420"
   },
   {
     "title": "Ontario's Computer: The Burroughs ICON",
@@ -184,59 +176,67 @@
     "link": "https://news.ycombinator.com/item?id=30894348"
   },
   {
-    "title": "Study Tips from Richard Feynman",
-    "url": "https://piggsboson.medium.com/5-powerful-study-tips-from-richard-feynman-f7a94dbb35fd",
-    "upvotes": 150,
-    "author": "takiwatanga",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=30900420"
-  },
-  {
-    "title": "Stanford researchers solve the mystery of the dancing droplets",
-    "url": "https://news.stanford.edu/2015/03/11/dancing-droplets-prakash-031115/",
-    "upvotes": 14,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30864607"
-  },
-  {
     "title": "Infrastructure as Code Should Feel",
     "url": "https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/",
-    "upvotes": 21,
+    "upvotes": 22,
     "author": "tutunak",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30904019"
   },
   {
     "title": "Elektronika MK-61",
     "url": "https://elektronika.su/en/calculators/elektronika-mk-61/",
-    "upvotes": 60,
+    "upvotes": 63,
     "author": "auvi",
-    "comments": 21,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30865226"
+  },
+  {
+    "title": "Stanford researchers solve the mystery of the dancing droplets",
+    "url": "https://news.stanford.edu/2015/03/11/dancing-droplets-prakash-031115/",
+    "upvotes": 15,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30864607"
+  },
+  {
+    "title": "Are we running out of resources?",
+    "url": "https://tokcast-bretthall-31ddc0.netlify.app/2022/03/are-we-running-out-of-resources/",
+    "upvotes": 5,
+    "author": "randomperson_24",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30904478"
   },
   {
     "title": "How to Live a Happy Life",
     "url": "https://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant",
-    "upvotes": 78,
+    "upvotes": 81,
     "author": "ed",
-    "comments": 49,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=30899312"
   },
   {
     "title": "I like unusual books. Here’s what I’d read – if I had time",
     "url": "https://www.washingtonpost.com/books/2022/03/30/secret-book-list/",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "miobrien",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30882273"
   },
   {
     "title": "A project with a single 11,000-line code file",
     "url": "https://austinhenley.com/blog/11000lines.html",
-    "upvotes": 435,
+    "upvotes": 442,
     "author": "todsacerdoti",
-    "comments": 285,
+    "comments": 288,
     "link": "https://news.ycombinator.com/item?id=30898803"
+  },
+  {
+    "title": "Einstein versus the Physical Review",
+    "url": "https://physicstoday.scitation.org/doi/10.1063/1.2117822",
+    "upvotes": 66,
+    "author": "agnosticmantis",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30900857"
   }
 ]
