@@ -1,64 +1,84 @@
 [
   {
-    "title": "Persepolis of ancient Persia rendered in WebGL",
-    "url": "https://persepolis.getty.edu",
-    "upvotes": 359,
-    "author": "avestura",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=30965352"
-  },
-  {
     "title": "An Account of the Shanghai Lockdown",
     "url": "https://jaapgrolleman.com/shanghais-stunning-fall-from-grace/",
-    "upvotes": 68,
+    "upvotes": 104,
     "author": "user_named",
-    "comments": 51,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=30966378"
+  },
+  {
+    "title": "Persepolis of ancient Persia rendered in WebGL",
+    "url": "https://persepolis.getty.edu",
+    "upvotes": 388,
+    "author": "avestura",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=30965352"
   },
   {
     "title": "Reliably Send an HTTP Request as a User Leaves a Page",
     "url": "https://css-tricks.com/send-an-http-request-on-page-exit/",
-    "upvotes": 139,
+    "upvotes": 151,
     "author": "fagnerbrack",
-    "comments": 63,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=30942555"
   },
   {
     "title": "Dall-E 2 illustrations of Twitter bios",
     "url": "https://twitter.com/nickcammarata/status/1511861061988892675",
-    "upvotes": 665,
+    "upvotes": 673,
     "author": "manesioz",
-    "comments": 293,
+    "comments": 298,
     "link": "https://news.ycombinator.com/item?id=30961385"
   },
   {
     "title": "Mozilla Thunderbird Beta now supports Matrix chat",
     "url": "https://matrix.org/blog/2022/04/08/this-week-in-matrix-2022-04-08#thunderbird",
-    "upvotes": 337,
+    "upvotes": 344,
     "author": "jakecopp",
-    "comments": 115,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=30963723"
+  },
+  {
+    "title": "Manara",
+    "url": "https://manara.breezy.hr/p/1cebbb12d138"
   },
   {
     "title": "I Believe Zig Has Function Colors",
     "url": "https://gavinhoward.com/2022/04/i-believe-zig-has-function-colors/",
-    "upvotes": 50,
+    "upvotes": 54,
     "author": "ghoward",
-    "comments": 41,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=30965805"
+  },
+  {
+    "title": "Pwning the Bcm61650",
+    "url": "https://blog.xilokar.info/pwning-the-bcm61650.html",
+    "upvotes": 19,
+    "author": "kogir",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30951215"
   },
   {
     "title": "The Unexpected Importance of the Trailing Slash",
     "url": "https://tookmund.com/2022/04/importance-of-the-trailing-slash",
-    "upvotes": 86,
+    "upvotes": 91,
     "author": "pabs3",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=30965200"
+  },
+  {
+    "title": "A tsunami wiped out ancient communities in the Atacama Desert 3,800 years ago",
+    "url": "https://arstechnica.com/science/2022/04/a-tsunami-wiped-out-ancient-communities-the-atacama-desert-3800-years-ago/",
+    "upvotes": 7,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30955318"
   },
   {
     "title": "Show HN: 3D model file thumbnails for Windows Explorer",
     "url": "https://github.com/EYHN/space-thumbnails",
-    "upvotes": 29,
+    "upvotes": 34,
     "author": "eyhn",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=30966099"
@@ -66,26 +86,34 @@
   {
     "title": "rand",
     "url": "https://www.thingsquare.com/blog/articles/rand-may-call-malloc/",
-    "upvotes": 153,
+    "upvotes": 156,
     "author": "adunk",
-    "comments": 53,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=30942146"
   },
   {
     "title": "Frank Oz Says Sesame Street Has Gone Downhill. Is He Right?",
     "url": "https://www.fatherly.com/play/frank-oz-says-sesame-street-has-gone-downhill-is-he-right/",
-    "upvotes": 12,
+    "upvotes": 15,
     "author": "gjvc",
-    "comments": 13,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=30966323"
   },
   {
     "title": "Turning back the clock: Human skin cells de-aged by 30 years in trial",
     "url": "https://news.sky.com/story/turning-back-the-clock-human-skin-cells-de-aged-by-30-years-in-trial-12584866",
-    "upvotes": 336,
+    "upvotes": 338,
     "author": "thunderbong",
-    "comments": 139,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=30960470"
+  },
+  {
+    "title": "Drone footage of Tesla factory",
+    "url": "https://twitter.com/alexandrosM/status/1510008990368878592",
+    "upvotes": 336,
+    "author": "gmays",
+    "comments": 232,
+    "link": "https://news.ycombinator.com/item?id=30961370"
   },
   {
     "title": "Bill Jolitz has died",
@@ -96,29 +124,9 @@
     "link": "https://news.ycombinator.com/item?id=30963686"
   },
   {
-    "title": "Pwning the Bcm61650",
-    "url": "https://blog.xilokar.info/pwning-the-bcm61650.html",
-    "upvotes": 14,
-    "author": "kogir",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30951215"
-  },
-  {
-    "title": "Drone footage of Tesla factory",
-    "url": "https://twitter.com/alexandrosM/status/1510008990368878592",
-    "upvotes": 331,
-    "author": "gmays",
-    "comments": 225,
-    "link": "https://news.ycombinator.com/item?id=30961370"
-  },
-  {
-    "title": "Stacker",
-    "url": "https://www.stackerhq.com/careers"
-  },
-  {
     "title": "NotepadNext: A cross-platform reimplementation of Notepad++",
     "url": "https://github.com/dail8859/NotepadNext",
-    "upvotes": 359,
+    "upvotes": 363,
     "author": "Acrobatic_Road",
     "comments": 237,
     "link": "https://news.ycombinator.com/item?id=30959025"
@@ -126,23 +134,23 @@
   {
     "title": "Multicomputation: A Fourth Paradigm for Theoretical Science",
     "url": "https://writings.stephenwolfram.com/2021/09/multicomputation-a-fourth-paradigm-for-theoretical-science/",
-    "upvotes": 20,
+    "upvotes": 23,
     "author": "RafelMri",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30965828"
   },
   {
     "title": "Always tell kids the truth",
     "url": "https://www.outsideonline.com/culture/active-families/tell-your-kids-truth/",
-    "upvotes": 69,
+    "upvotes": 73,
     "author": "mooreds",
-    "comments": 141,
+    "comments": 145,
     "link": "https://news.ycombinator.com/item?id=30964453"
   },
   {
     "title": "The United States Digital Corps",
     "url": "https://digitalcorps.gsa.gov/about/",
-    "upvotes": 326,
+    "upvotes": 328,
     "author": "tomrod",
     "comments": 268,
     "link": "https://news.ycombinator.com/item?id=30958919"
@@ -150,89 +158,81 @@
   {
     "title": "Electronics Flea Market",
     "url": "https://www.electronicsfleamarket.com/",
-    "upvotes": 43,
+    "upvotes": 44,
     "author": "bittercynic",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=30965183"
   },
   {
-    "title": "Provisioning and Automating High Availability Postgres",
-    "url": "https://www.youtube.com/watch?v=KHPo9G6NCq4",
-    "upvotes": 11,
-    "author": "luu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30953394"
-  },
-  {
     "title": "Nsh, a unified router style CLI for OpenBSD",
     "url": "https://github.com/yellowman/nsh",
-    "upvotes": 37,
+    "upvotes": 43,
     "author": "somat",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=30942489"
   },
   {
-    "title": "A naked skydive inspired a way to keep pilots oriented in flight",
-    "url": "https://www.military.com/history/how-naked-skydive-inspired-way-keep-pilots-oriented-flight.html",
-    "upvotes": 208,
-    "author": "gscott",
-    "comments": 156,
-    "link": "https://news.ycombinator.com/item?id=30959126"
-  },
-  {
     "title": "GitHub Text of government takedown notices as received",
     "url": "https://github.com/github/gov-takedowns",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "harporoeder",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=30965610"
+  },
+  {
+    "title": "A naked skydive inspired a way to keep pilots oriented in flight",
+    "url": "https://www.military.com/history/how-naked-skydive-inspired-way-keep-pilots-oriented-flight.html",
+    "upvotes": 209,
+    "author": "gscott",
+    "comments": 158,
+    "link": "https://news.ycombinator.com/item?id=30959126"
   },
   {
     "title": "B773 at Paris on Apr 5th, airplane did not respond to commands",
     "url": "https://avherald.com/h?article=4f700fec",
-    "upvotes": 180,
+    "upvotes": 181,
     "author": "dz0ny",
-    "comments": 162,
+    "comments": 164,
     "link": "https://news.ycombinator.com/item?id=30960544"
+  },
+  {
+    "title": "Provisioning and Automating High Availability Postgres",
+    "url": "https://www.youtube.com/watch?v=KHPo9G6NCq4",
+    "upvotes": 12,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30953394"
   },
   {
     "title": "Changing jobs during the Great Resignation",
     "url": "https://www.adamconrad.dev/blog/changing-jobs-during-the-great-resignation/",
-    "upvotes": 183,
+    "upvotes": 190,
     "author": "acconrad",
-    "comments": 335,
+    "comments": 342,
     "link": "https://news.ycombinator.com/item?id=30959875"
   },
   {
     "title": "Show HN: Glicol - A Graph-Oriented Live Coding Language/DSP Lib Written in Rust",
     "url": "https://github.com/chaosprint/glicol",
-    "upvotes": 13,
+    "upvotes": 16,
     "author": "chaosprint",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30942074"
   },
   {
     "title": "Money Stuff is Linear-ish",
     "url": "https://danielstone.substack.com/p/money-stuff-is-linear-ish",
-    "upvotes": 162,
+    "upvotes": 163,
     "author": "Amorymeltzer",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=30942574"
   },
   {
-    "title": "AI predicts if and when someone will experience cardiac arrest",
-    "url": "https://hub.jhu.edu/2022/04/07/trayanova-artificial-intelligence-cardiac-arrhythmia/",
-    "upvotes": 85,
-    "author": "hhs",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=30962559"
-  },
-  {
     "title": "Twitter accounts dropping “.eth” from usernames",
     "url": "https://gist.github.com/travisbrown/ddea062402cc22cc2aba78bff4d9c95f",
-    "upvotes": 271,
+    "upvotes": 274,
     "author": "ilamont",
-    "comments": 297,
+    "comments": 303,
     "link": "https://news.ycombinator.com/item?id=30958870"
   }
 ]
