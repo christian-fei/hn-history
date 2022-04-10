@@ -1,87 +1,111 @@
 [
   {
-    "title": "Super Simple Storage Service",
-    "url": "http://www.supersimplestorageservice.com/",
-    "upvotes": 423,
-    "author": "jamespwilliams",
-    "comments": 148,
-    "link": "https://news.ycombinator.com/item?id=30972694"
-  },
-  {
     "title": "Fossil of dinosaur killed in asteroid strike found, scientists claim",
     "url": "https://www.bbc.com/news/science-environment-61013740",
-    "upvotes": 126,
+    "upvotes": 132,
     "author": "Hooke",
-    "comments": 10,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30964937"
   },
   {
     "title": "Heaps: A free, open-source and cross-platform game engine",
     "url": "https://heaps.io/index.html",
-    "upvotes": 377,
+    "upvotes": 383,
     "author": "technophiliac",
-    "comments": 61,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=30970934"
   },
   {
     "title": "SMTP protocol basics from scratch in Go: receiving email from Gmail",
     "url": "https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html",
-    "upvotes": 112,
+    "upvotes": 121,
     "author": "eatonphil",
-    "comments": 36,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=30973460"
+  },
+  {
+    "title": "How Intelligent Are Cats?",
+    "url": "http://messybeast.com/intelligence.htm",
+    "upvotes": 5,
+    "author": "maxmouchet",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30975378"
   },
   {
     "title": "Ask HN: How to improve as a struggling junior swe?",
     "url": "item?id=30974544",
-    "upvotes": 77,
+    "upvotes": 83,
     "author": "3a2d29",
-    "comments": 70,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=30974544"
-  },
-  {
-    "title": "The Huge Endeavor to Produce a Tiny Microchip",
-    "url": "https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html",
-    "upvotes": 40,
-    "author": "pseudolus",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30955568"
   },
   {
     "title": "What is the Eurodollar System?",
     "url": "https://research.rabobank.com/markets/en/documents/279278_2475340_yourollover-dollar.pdf",
-    "upvotes": 35,
+    "upvotes": 42,
     "author": "walterbell",
-    "comments": 10,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30974598"
+  },
+  {
+    "title": "The Huge Endeavor to Produce a Tiny Microchip",
+    "url": "https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html",
+    "upvotes": 41,
+    "author": "pseudolus",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30955568"
   },
   {
     "title": "Google says AI generated content is against guidelines",
     "url": "https://www.searchenginejournal.com/google-says-ai-generated-content-is-against-guidelines/444916/",
-    "upvotes": 208,
+    "upvotes": 212,
     "author": "rolph",
-    "comments": 163,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=30969620"
   },
   {
-    "title": "Ask HN: Why do password managers have TOTP?",
-    "url": "item?id=30974585",
-    "upvotes": 47,
-    "author": "daenz",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=30974585"
+    "title": "In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments in Coups",
+    "url": "https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601",
+    "upvotes": 25,
+    "author": "gscott",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=30975194"
+  },
+  {
+    "title": "A basic introduction to NumPy's einsum",
+    "url": "https://ajcr.net/Basic-guide-to-einsum/",
+    "upvotes": 101,
+    "author": "s1291",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=30972389"
   },
   {
     "title": "Deepnote",
     "url": "https://deepnote.com/join-us"
   },
   {
-    "title": "A basic introduction to NumPy's einsum",
-    "url": "https://ajcr.net/Basic-guide-to-einsum/",
-    "upvotes": 97,
-    "author": "s1291",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=30972389"
+    "title": "Ask HN: Why do password managers have TOTP?",
+    "url": "item?id=30974585",
+    "upvotes": 50,
+    "author": "daenz",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=30974585"
+  },
+  {
+    "title": "What happens in your dog’s brain when you speak",
+    "url": "https://www.science.org/content/article/here-s-what-happens-your-dog-s-brain-when-you-speak",
+    "upvotes": 67,
+    "author": "rbanffy",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=30954991"
+  },
+  {
+    "title": "Bore: A simple CLI tool for making tunnels to localhost",
+    "url": "https://github.com/ekzhang/bore",
+    "upvotes": 206,
+    "author": "willmorrison",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=30970720"
   },
   {
     "title": "m.u.g.e.n. 2D Fighting Game Engine",
@@ -92,68 +116,68 @@
     "link": "https://news.ycombinator.com/item?id=30971704"
   },
   {
-    "title": "Bore: A simple CLI tool for making tunnels to localhost",
-    "url": "https://github.com/ekzhang/bore",
-    "upvotes": 203,
-    "author": "willmorrison",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=30970720"
-  },
-  {
-    "title": "What happens in your dog’s brain when you speak",
-    "url": "https://www.science.org/content/article/here-s-what-happens-your-dog-s-brain-when-you-speak",
-    "upvotes": 64,
-    "author": "rbanffy",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=30954991"
+    "title": "Quaise Energy – Unlocking the true power of clean geothermal energy",
+    "url": "https://www.quaise.energy",
+    "upvotes": 88,
+    "author": "xojoc",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=30972073"
   },
   {
     "title": "Killing the Command message: should we use Events or Documents?",
     "url": "http://vanguardea.com/killing-the-command-message-should-we-use-events-or-documents/",
-    "upvotes": 11,
+    "upvotes": 12,
     "author": "laerus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30954165"
   },
   {
-    "title": "Quaise Energy – Unlocking the true power of clean geothermal energy",
-    "url": "https://www.quaise.energy",
-    "upvotes": 87,
-    "author": "xojoc",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=30972073"
-  },
-  {
-    "title": "I need to find an apartment",
-    "url": "https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html",
-    "upvotes": 310,
-    "author": "mattrighetti",
-    "comments": 274,
-    "link": "https://news.ycombinator.com/item?id=30968721"
-  },
-  {
-    "title": "In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments in Coups",
-    "url": "https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601",
-    "upvotes": 12,
-    "author": "gscott",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30975194"
-  },
-  {
     "title": "3D Software Rendering Technology of 1998's Thief: The Dark Project",
     "url": "https://nothings.org/gamedev/thief_rendering.html",
-    "upvotes": 5,
+    "upvotes": 9,
     "author": "wooosh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30966251"
   },
   {
-    "title": "The Backdoor That Keeps Russian Oil Flowing into Europe",
-    "url": "https://www.bloombergquint.com/gadfly/ukraine-war-this-backdoor-keeps-russian-oil-flowing-into-europe",
-    "upvotes": 58,
-    "author": "krzyk",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=30974775"
+    "title": "I need to find an apartment",
+    "url": "https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html",
+    "upvotes": 311,
+    "author": "mattrighetti",
+    "comments": 277,
+    "link": "https://news.ycombinator.com/item?id=30968721"
+  },
+  {
+    "title": "Zim – The Zsh configuration framework with blazing speed and modular extensions",
+    "url": "https://zimfw.sh/",
+    "upvotes": 8,
+    "author": "coldblues",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=30974880"
+  },
+  {
+    "title": "Starting Your Computer Music Journey with Clojure and Overtone in Emacs",
+    "url": "https://savo.rocks/posts/starting-your-computer-music-journey-with-clojure-and-overtone-in-emacs/",
+    "upvotes": 99,
+    "author": "ThisIsSavo",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=30971282"
+  },
+  {
+    "title": "The Unravelling of an Expert on Serial Killers",
+    "url": "https://www.newyorker.com/magazine/2022/04/11/the-unravelling-of-an-expert-on-serial-killers",
+    "upvotes": 66,
+    "author": "benbreen",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=30965459"
+  },
+  {
+    "title": "Turn Photos into 3D Models",
+    "url": "https://www.r3dphoto.app/",
+    "upvotes": 72,
+    "author": "omarfarooq",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=30971542"
   },
   {
     "title": "Developer's confession: Why Philae crashed",
@@ -164,39 +188,7 @@
     "link": "https://news.ycombinator.com/item?id=30955745"
   },
   {
-    "title": "Starting Your Computer Music Journey with Clojure and Overtone in Emacs",
-    "url": "https://savo.rocks/posts/starting-your-computer-music-journey-with-clojure-and-overtone-in-emacs/",
-    "upvotes": 98,
-    "author": "ThisIsSavo",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=30971282"
-  },
-  {
-    "title": "The Unravelling of an Expert on Serial Killers",
-    "url": "https://www.newyorker.com/magazine/2022/04/11/the-unravelling-of-an-expert-on-serial-killers",
-    "upvotes": 65,
-    "author": "benbreen",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=30965459"
-  },
-  {
-    "title": "Turn Photos into 3D Models",
-    "url": "https://www.r3dphoto.app/",
-    "upvotes": 71,
-    "author": "omarfarooq",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=30971542"
-  },
-  {
-    "title": "Zim – The Zsh configuration framework with blazing speed and modular extensions",
-    "url": "https://zimfw.sh/",
-    "upvotes": 7,
-    "author": "coldblues",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30974880"
-  },
-  {
-    "title": "In 1980, an Earthquake Destroyed an Italian Town–and Revealed Another",
+    "title": "In 1980 an Earthquake Destroyed an Italian Town and Revealed Another",
     "url": "https://www.atlasobscura.com/articles/conza-buried-town-italy",
     "upvotes": 55,
     "author": "Thevet",
@@ -206,33 +198,41 @@
   {
     "title": "Visi On by VisiCorp – The obscure first full GUI for the IBM PC",
     "url": "http://toastytech.com/guis/vision.html",
-    "upvotes": 92,
+    "upvotes": 93,
     "author": "jug",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=30969234"
   },
   {
+    "title": "Show HN: Turn any data into a fast analytical API",
+    "url": "https://columns.ai/dev",
+    "upvotes": 23,
+    "author": "caoxhua",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30955002"
+  },
+  {
     "title": "How to control the metacognition process of programming?",
     "url": "https://lambdaisland.com/blog/2022-02-17-the-fg-command",
-    "upvotes": 88,
+    "upvotes": 91,
     "author": "harperlee",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=30955203"
+  },
+  {
+    "title": "Reverse-engineering the LM185 voltage reference chip and its bandgap reference",
+    "url": "https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html",
+    "upvotes": 91,
+    "author": "picture",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=30970599"
   },
   {
     "title": "Ham Biscuit on",
     "url": "https://ericwbailey.design/writing/ham-biscuit-on/",
     "upvotes": 45,
     "author": "takiwatanga",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30971626"
-  },
-  {
-    "title": "Show HN: Turn any data into a fast analytical API",
-    "url": "https://columns.ai/dev",
-    "upvotes": 21,
-    "author": "caoxhua",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=30955002"
   }
 ]
