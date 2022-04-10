@@ -2,34 +2,34 @@
   {
     "title": "Super Simple Storage Service",
     "url": "http://www.supersimplestorageservice.com/",
-    "upvotes": 254,
+    "upvotes": 266,
     "author": "jamespwilliams",
-    "comments": 87,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=30972694"
-  },
-  {
-    "title": "Atlassian products have been down for 4 days",
-    "url": "https://status.atlassian.com",
-    "upvotes": 130,
-    "author": "Corrado",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=30973808"
   },
   {
     "title": "Heaps: A free, open-source and cross-platform game engine",
     "url": "https://heaps.io/index.html",
-    "upvotes": 284,
+    "upvotes": 293,
     "author": "technophiliac",
-    "comments": 49,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=30970934"
   },
   {
     "title": "SMTP protocol basics from scratch in Go: receiving email from Gmail",
     "url": "https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html",
-    "upvotes": 33,
+    "upvotes": 40,
     "author": "eatonphil",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=30973460"
+  },
+  {
+    "title": "Fossil of dinosaur killed in asteroid strike found, scientists claim",
+    "url": "https://www.bbc.com/news/science-environment-61013740",
+    "upvotes": 22,
+    "author": "Hooke",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30964937"
   },
   {
     "title": "A basic introduction to NumPy's einsum",
@@ -42,7 +42,7 @@
   {
     "title": "What happens in your dog’s brain when you speak",
     "url": "https://www.science.org/content/article/here-s-what-happens-your-dog-s-brain-when-you-speak",
-    "upvotes": 25,
+    "upvotes": 30,
     "author": "rbanffy",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30954991"
@@ -58,23 +58,23 @@
   {
     "title": "m.u.g.e.n. 2D Fighting Game Engine",
     "url": "http://www.elecbyte.com/mugendocs-11b1/mugen.html",
-    "upvotes": 90,
+    "upvotes": 93,
     "author": "tomsonj",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=30971704"
   },
   {
     "title": "Google says AI generated content is against guidelines",
     "url": "https://www.searchenginejournal.com/google-says-ai-generated-content-is-against-guidelines/444916/",
-    "upvotes": 156,
+    "upvotes": 163,
     "author": "rolph",
-    "comments": 130,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=30969620"
   },
   {
     "title": "Bore: A simple CLI tool for making tunnels to localhost",
     "url": "https://github.com/ekzhang/bore",
-    "upvotes": 161,
+    "upvotes": 164,
     "author": "willmorrison",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=30970720"
@@ -82,7 +82,7 @@
   {
     "title": "In 1980, an Earthquake Destroyed an Italian Town–and Revealed Another",
     "url": "https://www.atlasobscura.com/articles/conza-buried-town-italy",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "Thevet",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30963329"
@@ -90,47 +90,55 @@
   {
     "title": "Starting Your Computer Music Journey with Clojure and Overtone in Emacs",
     "url": "https://savo.rocks/posts/starting-your-computer-music-journey-with-clojure-and-overtone-in-emacs/",
-    "upvotes": 75,
+    "upvotes": 77,
     "author": "ThisIsSavo",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30971282"
   },
   {
+    "title": "The Unravelling of an Expert on Serial Killers",
+    "url": "https://www.newyorker.com/magazine/2022/04/11/the-unravelling-of-an-expert-on-serial-killers",
+    "upvotes": 48,
+    "author": "benbreen",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=30965459"
+  },
+  {
+    "title": "I need to find an apartment",
+    "url": "https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html",
+    "upvotes": 283,
+    "author": "mattrighetti",
+    "comments": 254,
+    "link": "https://news.ycombinator.com/item?id=30968721"
+  },
+  {
+    "title": "Atlassian products have been down for 4 days",
+    "url": "https://status.atlassian.com",
+    "upvotes": 162,
+    "author": "Corrado",
+    "comments": 114,
+    "link": "https://news.ycombinator.com/item?id=30973808"
+  },
+  {
+    "title": "Reverse-engineering the LM185 voltage reference chip and its bandgap reference",
+    "url": "https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html",
+    "upvotes": 83,
+    "author": "picture",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=30970599"
+  },
+  {
     "title": "Show HN: Turn any data into a fast analytical API",
     "url": "https://columns.ai/dev",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "caoxhua",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30955002"
   },
   {
-    "title": "The Unravelling of an Expert on Serial Killers",
-    "url": "https://www.newyorker.com/magazine/2022/04/11/the-unravelling-of-an-expert-on-serial-killers",
-    "upvotes": 44,
-    "author": "benbreen",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=30965459"
-  },
-  {
-    "title": "Reverse-engineering the LM185 voltage reference chip and its bandgap reference",
-    "url": "https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html",
-    "upvotes": 81,
-    "author": "picture",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=30970599"
-  },
-  {
-    "title": "I need to find an apartment",
-    "url": "https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html",
-    "upvotes": 281,
-    "author": "mattrighetti",
-    "comments": 252,
-    "link": "https://news.ycombinator.com/item?id=30968721"
-  },
-  {
     "title": "Turn Photos into 3D Models",
     "url": "https://www.r3dphoto.app/",
-    "upvotes": 46,
+    "upvotes": 47,
     "author": "omarfarooq",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=30971542"
@@ -140,36 +148,60 @@
     "url": "https://www.tesorio.com/careers#job-openings"
   },
   {
-    "title": "How to control the metacognition process of programming?",
-    "url": "https://lambdaisland.com/blog/2022-02-17-the-fg-command",
-    "upvotes": 79,
-    "author": "harperlee",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=30955203"
-  },
-  {
     "title": "Tenacity and Life Lessons through the 33% rule",
     "url": "https://www.vincentntang.com/tenacity-and-life-lessons/",
-    "upvotes": 24,
+    "upvotes": 27,
     "author": "Kagerjay",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30965446"
   },
   {
+    "title": "A terminal with UI like visual code",
+    "url": "https://github.com/zebulon75018/vcterm",
+    "upvotes": 23,
+    "author": "zebulon75018",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=30973010"
+  },
+  {
+    "title": "How to control the metacognition process of programming?",
+    "url": "https://lambdaisland.com/blog/2022-02-17-the-fg-command",
+    "upvotes": 80,
+    "author": "harperlee",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=30955203"
+  },
+  {
     "title": "Ham Biscuit on",
     "url": "https://ericwbailey.design/writing/ham-biscuit-on/",
-    "upvotes": 33,
+    "upvotes": 35,
     "author": "takiwatanga",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=30971626"
   },
   {
-    "title": "Fossil of dinosaur killed in asteroid strike found, scientists claim",
-    "url": "https://www.bbc.com/news/science-environment-61013740",
-    "upvotes": 6,
-    "author": "Hooke",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30964937"
+    "title": "Visi On by VisiCorp – The obscure first full GUI for the IBM PC",
+    "url": "http://toastytech.com/guis/vision.html",
+    "upvotes": 80,
+    "author": "jug",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=30969234"
+  },
+  {
+    "title": "Research on whether reading fiction makes you nicer",
+    "url": "https://lithub.com/its-official-according-to-science-reading-fiction-makes-you-nicer/",
+    "upvotes": 53,
+    "author": "ohjeez",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=30971197"
+  },
+  {
+    "title": "Show HN: tmux.nvim – turning Neovim into a terminal multiplexer",
+    "url": "https://github.com/spywhere/tmux.nvim",
+    "upvotes": 34,
+    "author": "spywhere",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=30971946"
   },
   {
     "title": "What Happens When Twelve Thousand Game Developers Converge?",
@@ -180,51 +212,11 @@
     "link": "https://news.ycombinator.com/item?id=30973169"
   },
   {
-    "title": "Visi On by VisiCorp – The obscure first full GUI for the IBM PC",
-    "url": "http://toastytech.com/guis/vision.html",
-    "upvotes": 79,
-    "author": "jug",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=30969234"
-  },
-  {
-    "title": "Research on whether reading fiction makes you nicer",
-    "url": "https://lithub.com/its-official-according-to-science-reading-fiction-makes-you-nicer/",
-    "upvotes": 52,
-    "author": "ohjeez",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=30971197"
-  },
-  {
-    "title": "A terminal with UI like visual code",
-    "url": "https://github.com/zebulon75018/vcterm",
-    "upvotes": 20,
-    "author": "zebulon75018",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=30973010"
-  },
-  {
-    "title": "Show HN: tmux.nvim – turning Neovim into a terminal multiplexer",
-    "url": "https://github.com/spywhere/tmux.nvim",
-    "upvotes": 32,
-    "author": "spywhere",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=30971946"
-  },
-  {
-    "title": "Slide Rule Simulator Emulator Replica Collection",
-    "url": "https://www.sliderules.org/",
-    "upvotes": 65,
-    "author": "petercooper",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=30955676"
-  },
-  {
     "title": "MIT graduate students vote to unionize",
     "url": "https://thetech.com/2022/04/08/grad-students-unionize",
-    "upvotes": 592,
+    "upvotes": 597,
     "author": "Metacelsus",
-    "comments": 344,
+    "comments": 351,
     "link": "https://news.ycombinator.com/item?id=30967375"
   },
   {
@@ -232,7 +224,15 @@
     "url": "https://simonsarris.substack.com/p/patina-and-intimacy",
     "upvotes": 151,
     "author": "simonsarris",
-    "comments": 81,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=30967427"
+  },
+  {
+    "title": "The Gambler's Fallacy Is Not a Fallacy",
+    "url": "https://www.kevindorst.com/stranger_apologies/the-gamblers-fallacy-is-not-a-fallacy",
+    "upvotes": 16,
+    "author": "goldenkey",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30973324"
   }
 ]
