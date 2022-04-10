@@ -2,39 +2,39 @@
   {
     "title": "An Ode to Apple’s Hide My Email",
     "url": "https://empty.coffee/an-ode-to-apples-hide-my-email/",
-    "upvotes": 227,
+    "upvotes": 254,
     "author": "mlapida",
-    "comments": 113,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=30979563"
   },
   {
     "title": "Achievement unlocked: rustc segfault",
     "url": "https://gist.github.com/luqmana/be1af5b64d2cda5a533e3e23a7830b44",
-    "upvotes": 75,
+    "upvotes": 96,
     "author": "bcantrill",
-    "comments": 13,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=30980984"
-  },
-  {
-    "title": "The Joy of Small Projects",
-    "url": "https://schroer.ca/2022/04/10/the-joy-of-small-projects/",
-    "upvotes": 94,
-    "author": "dschroer",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=30980307"
   },
   {
     "title": "My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing",
     "url": "https://castel.dev/post/research-workflow/",
-    "upvotes": 28,
+    "upvotes": 40,
     "author": "todsacerdoti",
-    "comments": 9,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=30981592"
+  },
+  {
+    "title": "The Joy of Small Projects",
+    "url": "https://schroer.ca/2022/04/10/the-joy-of-small-projects/",
+    "upvotes": 107,
+    "author": "dschroer",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=30980307"
   },
   {
     "title": "Pinry: A Selfhosted Alternative to Pinterest",
     "url": "https://github.com/pinry/pinry",
-    "upvotes": 28,
+    "upvotes": 35,
     "author": "thunderbong",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30981280"
@@ -42,81 +42,89 @@
   {
     "title": "WeekToDo – Free Minimalist Weekly Planner App",
     "url": "https://weektodo.me/",
-    "upvotes": 143,
+    "upvotes": 148,
     "author": "evo_9",
-    "comments": 43,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=30979251"
   },
   {
     "title": "What Is Rust's Unsafe?",
     "url": "https://nora.codes/post/what-is-rusts-unsafe/",
-    "upvotes": 91,
+    "upvotes": 98,
     "author": "luu",
-    "comments": 41,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=30979484"
+  },
+  {
+    "title": "A stupid joke resulting in a silly news cycle",
+    "url": "https://kiwiziti.com/~matt/timberlake/",
+    "upvotes": 110,
+    "author": "mcovalt",
+    "comments": 115,
+    "link": "https://news.ycombinator.com/item?id=30979256"
   },
   {
     "title": "C72: A port of the earliest C compiler to x86",
     "url": "https://github.com/vegesm/c72",
-    "upvotes": 13,
+    "upvotes": 21,
     "author": "marcodiego",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30981549"
   },
   {
-    "title": "Socratic Models – Composing Zero-Shot Multimodal Reasoning with Language",
-    "url": "https://socraticmodels.github.io/",
-    "upvotes": 61,
-    "author": "parsadotsh",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=30978927"
-  },
-  {
     "title": "New Chinese GPU Maker Moore Threads Unveils the MTT S60 GPU",
     "url": "https://www.geeks3d.com/20220401/new-chinese-gpu-maker-moore-threads-unveils-the-mtt-s60-graphics-card-with-vulkan-opengl-and-direct3d-support/",
-    "upvotes": 81,
+    "upvotes": 92,
     "author": "lelf",
-    "comments": 90,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=30977920"
-  },
-  {
-    "title": "GTK4 Matrix Client",
-    "url": "https://github.com/diamondburned/gotktrix",
-    "upvotes": 83,
-    "author": "ushakov",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=30978726"
   },
   {
     "title": "Locutus: A platform for building decentralized apps, from the creator of Freenet",
     "url": "https://github.com/freenet/locutus",
-    "upvotes": 61,
+    "upvotes": 64,
     "author": "sanity31415",
-    "comments": 29,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=30979002"
   },
   {
     "title": "Am I too old to become a professional programmer?",
     "url": "https://ehmatthes.github.io/pcc_2e/finding_employment/age_in_tech/",
-    "upvotes": 13,
+    "upvotes": 19,
     "author": "takiwatanga",
-    "comments": 4,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30981254"
   },
   {
-    "title": "A stupid joke resulting in a silly news cycle",
-    "url": "https://kiwiziti.com/~matt/timberlake/",
-    "upvotes": 100,
-    "author": "mcovalt",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=30979256"
+    "title": "GTK4 Matrix Client",
+    "url": "https://github.com/diamondburned/gotktrix",
+    "upvotes": 86,
+    "author": "ushakov",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=30978726"
+  },
+  {
+    "title": "Socratic Models – Composing Zero-Shot Multimodal Reasoning with Language",
+    "url": "https://socraticmodels.github.io/",
+    "upvotes": 64,
+    "author": "parsadotsh",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=30978927"
+  },
+  {
+    "title": "USB receiver for the IBM SK-8807 Infrared-only keyboard",
+    "url": "https://github.com/brandonwu/sk-8807-teensy",
+    "upvotes": 16,
+    "author": "walterbell",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30966244"
   },
   {
     "title": "Wanderwort",
     "url": "https://en.wikipedia.org/wiki/Wanderwort",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "benbreen",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=30968534"
   },
   {
@@ -126,113 +134,105 @@
   {
     "title": "On the Idea of an Adirondack Mountains National Park",
     "url": "https://www.adirondackalmanack.com/2021/11/on-the-idea-of-an-adirondack-mountains-national-park.html",
-    "upvotes": 36,
+    "upvotes": 38,
     "author": "rntn",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=30966116"
   },
   {
+    "title": "Selfies Before a Selfie",
+    "url": "https://www.sciencemuseumgroup.org.uk/blog/the-whole-picture-selfies-before-selfie/",
+    "upvotes": 4,
+    "author": "elpg101",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30981759"
+  },
+  {
     "title": "Heresy",
     "url": "http://paulgraham.com/heresy.html",
-    "upvotes": 584,
+    "upvotes": 606,
     "author": "prtkgpt",
-    "comments": 937,
+    "comments": 970,
     "link": "https://news.ycombinator.com/item?id=30977147"
-  },
-  {
-    "title": "USB receiver for the IBM SK-8807 Infrared-only keyboard",
-    "url": "https://github.com/brandonwu/sk-8807-teensy",
-    "upvotes": 10,
-    "author": "walterbell",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30966244"
-  },
-  {
-    "title": "Estimating PaLM's Training Cost",
-    "url": "https://blog.heim.xyz/palm-training-cost/",
-    "upvotes": 33,
-    "author": "Brajeshwar",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=30979009"
   },
   {
     "title": "Silly Image Compression Idea",
     "url": "https://snufk.in/blog/silly-compression.html",
-    "upvotes": 16,
+    "upvotes": 19,
     "author": "sn_fk_n",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=30979085"
   },
   {
+    "title": "Estimating PaLM's Training Cost",
+    "url": "https://blog.heim.xyz/palm-training-cost/",
+    "upvotes": 34,
+    "author": "Brajeshwar",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=30979009"
+  },
+  {
     "title": "Eero Pro 6E and Eero 6 Review: Fast and Easy",
     "url": "https://evanmccann.net/blog/2022/4/eero-6-plus-and-eero-pro-6e-review",
-    "upvotes": 41,
+    "upvotes": 43,
     "author": "ec109685",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=30965772"
   },
   {
     "title": "W3M Rocks",
     "url": "http://w3m.rocks/",
-    "upvotes": 176,
+    "upvotes": 177,
     "author": "marttt",
-    "comments": 83,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=30975532"
+  },
+  {
+    "title": "Taking Flight Without a Smart Phone",
+    "url": "https://devtails.xyz/taking-flight-without-a-smart-phone",
+    "upvotes": 21,
+    "author": "devtailz",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=30979975"
+  },
+  {
+    "title": "PSA: React 18 calls code twice in strict dev mode to detect side effects",
+    "url": "https://reactjs.org/docs/strict-mode.html#detecting-unexpected-side-effects",
+    "upvotes": 79,
+    "author": "tomduncalf",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=30976040"
   },
   {
     "title": "∑ Xah Code",
     "url": "http://xahlee.info/",
-    "upvotes": 125,
+    "upvotes": 126,
     "author": "tsujp",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=30976337"
   },
   {
     "title": "Restored F80 compiler code for CP/M",
     "url": "https://github.com/nikitinprior/dF80",
-    "upvotes": 57,
+    "upvotes": 60,
     "author": "elvis70",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=30977164"
   },
   {
-    "title": "PSA: React 18 calls code twice in strict dev mode to detect side effects",
-    "url": "https://reactjs.org/docs/strict-mode.html#detecting-unexpected-side-effects",
-    "upvotes": 73,
-    "author": "tomduncalf",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=30976040"
-  },
-  {
-    "title": "Taking Flight Without a Smart Phone",
-    "url": "https://devtails.xyz/taking-flight-without-a-smart-phone",
-    "upvotes": 16,
-    "author": "devtailz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30979975"
-  },
-  {
     "title": "Ask HN: What are the next internet infra problems?",
     "url": "item?id=30976594",
-    "upvotes": 64,
+    "upvotes": 67,
     "author": "vabahe7646",
-    "comments": 124,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=30976594"
-  },
-  {
-    "title": "ThorCon: Cheap, reliable, CO2-free electric power",
-    "url": "https://thorconpower.com/economics/",
-    "upvotes": 76,
-    "author": "NumberWangMan",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=30979225"
   },
   {
     "title": "Tell HN: Startups harvesting GitHub commit emails for marketing purposes",
     "url": "item?id=30977883",
-    "upvotes": 124,
+    "upvotes": 132,
     "author": "fouric",
-    "comments": 67,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=30977883"
   }
 ]
