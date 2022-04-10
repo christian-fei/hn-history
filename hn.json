@@ -2,83 +2,91 @@
   {
     "title": "Super Simple Storage Service",
     "url": "http://www.supersimplestorageservice.com/",
-    "upvotes": 383,
+    "upvotes": 397,
     "author": "jamespwilliams",
-    "comments": 128,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=30972694"
   },
   {
     "title": "Fossil of dinosaur killed in asteroid strike found, scientists claim",
     "url": "https://www.bbc.com/news/science-environment-61013740",
-    "upvotes": 108,
+    "upvotes": 114,
     "author": "Hooke",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30964937"
-  },
-  {
-    "title": "What is the Eurodollar System?",
-    "url": "https://research.rabobank.com/markets/en/documents/279278_2475340_yourollover-dollar.pdf",
-    "upvotes": 23,
-    "author": "walterbell",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=30974598"
   },
   {
     "title": "Heaps: A free, open-source and cross-platform game engine",
     "url": "https://heaps.io/index.html",
-    "upvotes": 355,
+    "upvotes": 365,
     "author": "technophiliac",
-    "comments": 57,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=30970934"
+  },
+  {
+    "title": "What is the Eurodollar System?",
+    "url": "https://research.rabobank.com/markets/en/documents/279278_2475340_yourollover-dollar.pdf",
+    "upvotes": 29,
+    "author": "walterbell",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=30974598"
   },
   {
     "title": "SMTP protocol basics from scratch in Go: receiving email from Gmail",
     "url": "https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html",
     "upvotes": 102,
     "author": "eatonphil",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=30973460"
   },
   {
     "title": "Ask HN: How to improve as a struggling junior swe?",
     "url": "item?id=30974544",
-    "upvotes": 58,
+    "upvotes": 66,
     "author": "3a2d29",
-    "comments": 48,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=30974544"
+  },
+  {
+    "title": "The Huge Endeavor to Produce a Tiny Microchip",
+    "url": "https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html",
+    "upvotes": 32,
+    "author": "pseudolus",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30955568"
   },
   {
     "title": "Deepnote",
     "url": "https://deepnote.com/join-us"
   },
   {
-    "title": "The Huge Endeavor to Produce a Tiny Microchip",
-    "url": "https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html",
-    "upvotes": 27,
-    "author": "pseudolus",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30955568"
-  },
-  {
     "title": "Google says AI generated content is against guidelines",
     "url": "https://www.searchenginejournal.com/google-says-ai-generated-content-is-against-guidelines/444916/",
-    "upvotes": 200,
+    "upvotes": 204,
     "author": "rolph",
-    "comments": 156,
+    "comments": 161,
     "link": "https://news.ycombinator.com/item?id=30969620"
+  },
+  {
+    "title": "Ask HN: Why do password managers have TOTP?",
+    "url": "item?id=30974585",
+    "upvotes": 35,
+    "author": "daenz",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=30974585"
   },
   {
     "title": "A basic introduction to NumPy's einsum",
     "url": "https://ajcr.net/Basic-guide-to-einsum/",
-    "upvotes": 85,
+    "upvotes": 88,
     "author": "s1291",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=30972389"
   },
   {
     "title": "m.u.g.e.n. 2D Fighting Game Engine",
     "url": "http://www.elecbyte.com/mugendocs-11b1/mugen.html",
-    "upvotes": 117,
+    "upvotes": 119,
     "author": "tomsonj",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=30971704"
@@ -86,15 +94,23 @@
   {
     "title": "What happens in your dog’s brain when you speak",
     "url": "https://www.science.org/content/article/here-s-what-happens-your-dog-s-brain-when-you-speak",
-    "upvotes": 58,
+    "upvotes": 61,
     "author": "rbanffy",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=30954991"
+  },
+  {
+    "title": "The Backdoor That Keeps Russian Oil Flowing into Europe",
+    "url": "https://www.bloombergquint.com/gadfly/ukraine-war-this-backdoor-keeps-russian-oil-flowing-into-europe",
+    "upvotes": 35,
+    "author": "krzyk",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=30974775"
   },
   {
     "title": "Quaise Energy – Unlocking the true power of clean geothermal energy",
     "url": "https://www.quaise.energy",
-    "upvotes": 85,
+    "upvotes": 86,
     "author": "xojoc",
     "comments": 63,
     "link": "https://news.ycombinator.com/item?id=30972073"
@@ -102,39 +118,15 @@
   {
     "title": "Bore: A simple CLI tool for making tunnels to localhost",
     "url": "https://github.com/ekzhang/bore",
-    "upvotes": 194,
+    "upvotes": 196,
     "author": "willmorrison",
-    "comments": 60,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=30970720"
-  },
-  {
-    "title": "Killing the Command message: should we use Events or Documents?",
-    "url": "http://vanguardea.com/killing-the-command-message-should-we-use-events-or-documents/",
-    "upvotes": 5,
-    "author": "laerus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30954165"
-  },
-  {
-    "title": "The Backdoor That Keeps Russian Oil Flowing into Europe",
-    "url": "https://www.bloombergquint.com/gadfly/ukraine-war-this-backdoor-keeps-russian-oil-flowing-into-europe",
-    "upvotes": 24,
-    "author": "krzyk",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=30974775"
-  },
-  {
-    "title": "Developer's confession: Why Philae crashed",
-    "url": "https://publications.computer.org/computer-magazine/2018/11/15/philae-rosetta-crash-landing-churyumov-gerasimenko-comet-six-lessons/",
-    "upvotes": 18,
-    "author": "cubefox",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30955745"
   },
   {
     "title": "In 1980, an Earthquake Destroyed an Italian Town–and Revealed Another",
     "url": "https://www.atlasobscura.com/articles/conza-buried-town-italy",
-    "upvotes": 54,
+    "upvotes": 55,
     "author": "Thevet",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30963329"
@@ -142,26 +134,58 @@
   {
     "title": "Starting Your Computer Music Journey with Clojure and Overtone in Emacs",
     "url": "https://savo.rocks/posts/starting-your-computer-music-journey-with-clojure-and-overtone-in-emacs/",
-    "upvotes": 95,
+    "upvotes": 96,
     "author": "ThisIsSavo",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=30971282"
   },
   {
+    "title": "Developer's confession: Why Philae crashed",
+    "url": "https://publications.computer.org/computer-magazine/2018/11/15/philae-rosetta-crash-landing-churyumov-gerasimenko-comet-six-lessons/",
+    "upvotes": 18,
+    "author": "cubefox",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=30955745"
+  },
+  {
+    "title": "Killing the Command message: should we use Events or Documents?",
+    "url": "http://vanguardea.com/killing-the-command-message-should-we-use-events-or-documents/",
+    "upvotes": 7,
+    "author": "laerus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30954165"
+  },
+  {
+    "title": "I need to find an apartment",
+    "url": "https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html",
+    "upvotes": 300,
+    "author": "mattrighetti",
+    "comments": 272,
+    "link": "https://news.ycombinator.com/item?id=30968721"
+  },
+  {
+    "title": "A Vanishing Nova: Uranographia Britannica",
+    "url": "https://publicdomainreview.org/collection/bevis-uranographia/",
+    "upvotes": 3,
+    "author": "prismatic",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30963401"
+  },
+  {
     "title": "The Unravelling of an Expert on Serial Killers",
     "url": "https://www.newyorker.com/magazine/2022/04/11/the-unravelling-of-an-expert-on-serial-killers",
-    "upvotes": 61,
+    "upvotes": 62,
     "author": "benbreen",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=30965459"
   },
   {
-    "title": "I need to find an apartment",
-    "url": "https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html",
-    "upvotes": 297,
-    "author": "mattrighetti",
-    "comments": 270,
-    "link": "https://news.ycombinator.com/item?id=30968721"
+    "title": "Turn Photos into 3D Models",
+    "url": "https://www.r3dphoto.app/",
+    "upvotes": 67,
+    "author": "omarfarooq",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=30971542"
   },
   {
     "title": "On Floating Upstream",
@@ -172,14 +196,6 @@
     "link": "https://news.ycombinator.com/item?id=30965669"
   },
   {
-    "title": "Turn Photos into 3D Models",
-    "url": "https://www.r3dphoto.app/",
-    "upvotes": 64,
-    "author": "omarfarooq",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=30971542"
-  },
-  {
     "title": "Show HN: Turn any data into a fast analytical API",
     "url": "https://columns.ai/dev",
     "upvotes": 21,
@@ -188,51 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=30955002"
   },
   {
-    "title": "I'm Not Sure I've Ever Enjoyed Programming",
-    "url": "item?id=30974726",
-    "upvotes": 13,
-    "author": "Alekhine",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=30974726"
-  },
-  {
-    "title": "Ask HN: Why do password managers have TOTP?",
-    "url": "item?id=30974585",
-    "upvotes": 33,
-    "author": "daenz",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=30974585"
-  },
-  {
     "title": "Visi On by VisiCorp – The obscure first full GUI for the IBM PC",
     "url": "http://toastytech.com/guis/vision.html",
-    "upvotes": 90,
+    "upvotes": 92,
     "author": "jug",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=30969234"
+  },
+  {
+    "title": "How to control the metacognition process of programming?",
+    "url": "https://lambdaisland.com/blog/2022-02-17-the-fg-command",
+    "upvotes": 86,
+    "author": "harperlee",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=30955203"
   },
   {
     "title": "Ham Biscuit on",
     "url": "https://ericwbailey.design/writing/ham-biscuit-on/",
     "upvotes": 43,
     "author": "takiwatanga",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=30971626"
   },
   {
-    "title": "How to control the metacognition process of programming?",
-    "url": "https://lambdaisland.com/blog/2022-02-17-the-fg-command",
-    "upvotes": 85,
-    "author": "harperlee",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=30955203"
-  },
-  {
-    "title": "What Happens When Twelve Thousand Game Developers Converge?",
-    "url": "https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge",
-    "upvotes": 29,
-    "author": "mitchbob",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=30973169"
+    "title": "Reverse-engineering the LM185 voltage reference chip and its bandgap reference",
+    "url": "https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html",
+    "upvotes": 87,
+    "author": "picture",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=30970599"
   }
 ]
