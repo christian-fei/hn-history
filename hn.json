@@ -2,58 +2,66 @@
   {
     "title": "Etsy Strike",
     "url": "https://etsystrike.org/",
-    "upvotes": 446,
+    "upvotes": 513,
     "author": "KarlKemp",
-    "comments": 223,
+    "comments": 255,
     "link": "https://news.ycombinator.com/item?id=30989344"
   },
   {
     "title": "How FAANG etc. architect their recommendation systems at scale",
     "url": "https://blog.fennel.ai/p/real-world-recommendation-system",
-    "upvotes": 85,
+    "upvotes": 113,
     "author": "nikhilgarg28",
-    "comments": 25,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=30991392"
+  },
+  {
+    "title": "Is my advice too mercenary?",
+    "url": "https://jacobian.org/2022/apr/11/mercenary/",
+    "upvotes": 32,
+    "author": "Tangiest",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=30992409"
   },
   {
     "title": "Cats in zero-g lose their auto-righting reflex",
     "url": "https://www.youtube.com/watch?v=O9XtK6R1QAk",
-    "upvotes": 19,
+    "upvotes": 32,
     "author": "carabiner",
-    "comments": 9,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30990575"
   },
   {
     "title": "Show HN: How to compile C/C++ for WASM, pure Clang, no libs, no framework",
     "url": "https://github.com/ern0/howto-wasm-minimal",
-    "upvotes": 30,
+    "upvotes": 43,
     "author": "ern0",
-    "comments": 13,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=30991235"
-  },
-  {
-    "title": "DeepMind’s New Language Model, Chinchilla",
-    "url": "https://www.marktechpost.com/2022/04/09/check-out-this-deepminds-new-language-model-chinchilla-70b-parameters-which-significantly-outperforms-gopher-280b-and-gpt-3-175b-on-a-large-range-of-downstream-evaluation-tasks/",
-    "upvotes": 154,
-    "author": "georgehill",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=30987885"
   },
   {
     "title": "How and why Daily is using Rust for our WebRTC APIs",
     "url": "https://www.daily.co/blog/how-and-why-daily-is-using-rust-for-our-webrtc-apis/",
-    "upvotes": 62,
+    "upvotes": 71,
     "author": "vr000m",
-    "comments": 15,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30990297"
   },
   {
     "title": "I must announce the immediate end of service of SSLPing",
     "url": "https://sslping.com",
-    "upvotes": 480,
+    "upvotes": 492,
     "author": "WelcomeShorty",
-    "comments": 188,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=30985514"
+  },
+  {
+    "title": "DeepMind’s New Language Model, Chinchilla",
+    "url": "https://www.marktechpost.com/2022/04/09/check-out-this-deepminds-new-language-model-chinchilla-70b-parameters-which-significantly-outperforms-gopher-280b-and-gpt-3-175b-on-a-large-range-of-downstream-evaluation-tasks/",
+    "upvotes": 160,
+    "author": "georgehill",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=30987885"
   },
   {
     "title": "Pachyderm Is Hiring SDET&Build/Release Eng to Power the Data-Centric AI Platform",
@@ -62,23 +70,23 @@
   {
     "title": "Elementary Audio: a modern platform for writing high performance audio software",
     "url": "https://www.elementary.audio/",
-    "upvotes": 28,
+    "upvotes": 35,
     "author": "davidbarker",
-    "comments": 14,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=30990874"
   },
   {
     "title": "More Fakery",
     "url": "https://www.science.org/content/blog-post/more-fakery",
-    "upvotes": 71,
+    "upvotes": 78,
     "author": "rossdavidh",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=30988120"
   },
   {
     "title": "Tonight we’re gonna log on like it's 1979",
     "url": "http://oldvcr.blogspot.com/2022/04/tonight-were-gonna-log-on-like-its-1979.html",
-    "upvotes": 68,
+    "upvotes": 71,
     "author": "zdw",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=30988647"
@@ -86,111 +94,127 @@
   {
     "title": "Show HN: A poem inside HTTP response headers",
     "url": "https://ja.cob.land/http2-204-a-poem",
-    "upvotes": 26,
+    "upvotes": 39,
     "author": "jacobevelyn",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30955838"
-  },
-  {
-    "title": "I liked the idea of carbon offsets until I tried to explain it",
-    "url": "https://climateer.substack.com/p/avoided-emissions",
-    "upvotes": 255,
-    "author": "gk1",
-    "comments": 231,
-    "link": "https://news.ycombinator.com/item?id=30988390"
   },
   {
     "title": "Atlassian: We estimate the rebuilding effort to last for up to 2 more weeks",
     "url": "https://twitter.com/kjartanmuller/status/1513462616030683138",
-    "upvotes": 101,
+    "upvotes": 134,
     "author": "tosh",
-    "comments": 28,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=30990697"
+  },
+  {
+    "title": "I liked the idea of carbon offsets until I tried to explain it",
+    "url": "https://climateer.substack.com/p/avoided-emissions",
+    "upvotes": 267,
+    "author": "gk1",
+    "comments": 246,
+    "link": "https://news.ycombinator.com/item?id=30988390"
+  },
+  {
+    "title": "Why a Slide Rule Works",
+    "url": "https://www.johndcook.com/blog/2022/04/10/why-a-slide-rule-works/",
+    "upvotes": 42,
+    "author": "zdw",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=30988667"
   },
   {
     "title": "Researchers home in on possible “day zero” for Antikythera mechanism",
     "url": "https://arstechnica.com/science/2022/04/researchers-home-in-on-possible-day-zero-for-antikythera-mechanism/",
-    "upvotes": 63,
+    "upvotes": 66,
     "author": "dangle1",
-    "comments": 79,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=30989255"
   },
   {
     "title": "A Convo with Rocket Lab’s Peter Beck on Reusability, Launch Demand, and More",
     "url": "https://payloadspace.com/qa-peter-beck/",
-    "upvotes": 22,
+    "upvotes": 24,
     "author": "aml183",
-    "comments": 7,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=30989905"
-  },
-  {
-    "title": "Why a Slide Rule Works",
-    "url": "https://www.johndcook.com/blog/2022/04/10/why-a-slide-rule-works/",
-    "upvotes": 37,
-    "author": "zdw",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=30988667"
   },
   {
     "title": "Apple starts manufacturing iPhone 13 in India",
     "url": "https://www.reuters.com/technology/apple-starts-manufacturing-iphone-13-india-2022-04-11/",
-    "upvotes": 147,
+    "upvotes": 168,
     "author": "nradov",
-    "comments": 127,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=30989355"
   },
   {
-    "title": "Node.js packages don't deserve trust",
-    "url": "https://josephg.com/blog/node-sandbox/",
-    "upvotes": 335,
-    "author": "lewisjoe",
-    "comments": 268,
-    "link": "https://news.ycombinator.com/item?id=30988034"
-  },
-  {
-    "title": "Ask HN: Where can I see many examples of real companies' software architecture?",
-    "url": "item?id=30986893",
-    "upvotes": 302,
-    "author": "PeledYuval",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=30986893"
+    "title": "Show HN: Multiplayer Demo Built with Elixir",
+    "url": "https://multiplayer.dev",
+    "upvotes": 16,
+    "author": "wenbo",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30992587"
   },
   {
     "title": "An Art Revolution, Made with Scissors and Glue",
     "url": "https://www.nytimes.com/interactive/2021/01/29/arts/design/juan-gris-cubism-collage.html",
-    "upvotes": 13,
+    "upvotes": 17,
     "author": "apollinaire",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=30984426"
   },
   {
+    "title": "Node.js packages don't deserve trust",
+    "url": "https://josephg.com/blog/node-sandbox/",
+    "upvotes": 344,
+    "author": "lewisjoe",
+    "comments": 282,
+    "link": "https://news.ycombinator.com/item?id=30988034"
+  },
+  {
+    "title": "Ask HN: Where can I see many examples of real companies' software architecture?",
+    "url": "item?id=30986893",
+    "upvotes": 312,
+    "author": "PeledYuval",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=30986893"
+  },
+  {
     "title": "Tour of Parser-Printers: Introduction",
     "url": "https://www.pointfree.co/episodes/ep185-tour-of-parser-printers-introduction",
-    "upvotes": 25,
+    "upvotes": 34,
     "author": "mbw234",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30990463"
   },
   {
-    "title": "A story about planning for Desert Storm",
-    "url": "http://www.dupuyinstitute.org/blog/2022/04/06/a-story-about-planning-for-desert-storm/",
-    "upvotes": 58,
-    "author": "bibliographer",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=30987122"
+    "title": "Security Comics",
+    "url": "https://securityzines.com/#comics",
+    "upvotes": 7,
+    "author": "segudev",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30991368"
   },
   {
     "title": "Psychedelic frees up depressed brain, study shows",
     "url": "https://www.bbc.co.uk/news/health-61070591",
-    "upvotes": 26,
+    "upvotes": 42,
     "author": "bencollier49",
-    "comments": null,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=30991278"
+  },
+  {
+    "title": "A story about planning for Desert Storm",
+    "url": "http://www.dupuyinstitute.org/blog/2022/04/06/a-story-about-planning-for-desert-storm/",
+    "upvotes": 59,
+    "author": "bibliographer",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=30987122"
   },
   {
     "title": "The Power of Narrative",
     "url": "https://nautil.us/the-power-of-narrative-15975/",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "dnetesn",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=30976067"
@@ -198,41 +222,17 @@
   {
     "title": "Protect domains that do not send email",
     "url": "https://www.gov.uk/guidance/protect-domains-that-dont-send-email",
-    "upvotes": 151,
+    "upvotes": 163,
     "author": "zinekeller",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=30988355"
   },
   {
     "title": "One of the most popular activities in non-industrial societies: doing nothing",
     "url": "https://twitter.com/mnvrsngh/status/1510978995269029888",
-    "upvotes": 41,
+    "upvotes": 52,
     "author": "mooreds",
-    "comments": 21,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=30990224"
-  },
-  {
-    "title": "The Mathematics of Artificial Intelligence",
-    "url": "https://arxiv.org/abs/2203.08890",
-    "upvotes": 153,
-    "author": "ofou",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=30984662"
-  },
-  {
-    "title": "The Unreasonable Effectiveness of Quasirandom Sequences",
-    "url": "http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/",
-    "upvotes": 14,
-    "author": "lnyan",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30976200"
-  },
-  {
-    "title": "Ask HN: Best practices for editing remote code locally?",
-    "url": "item?id=30987770",
-    "upvotes": 80,
-    "author": "E_Evan",
-    "comments": 122,
-    "link": "https://news.ycombinator.com/item?id=30987770"
   }
 ]
