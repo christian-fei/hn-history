@@ -1,96 +1,120 @@
 [
   {
-    "title": "Why Pebble Failed",
+    "title": "Google announced its free ACME server",
+    "url": "https://cloud.google.com/blog/products/identity-security/automate-public-certificate-lifecycle-management-via--acme-client-api",
+    "upvotes": 45,
+    "author": "tvvocold",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=30997735"
+  },
+  {
+    "title": "Success and Failure at Pebble",
     "url": "https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232",
-    "upvotes": 196,
+    "upvotes": 233,
     "author": "zsid",
-    "comments": 136,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=30995487"
+  },
+  {
+    "title": "The Endgames of Bad Faith Communication",
+    "url": "https://consilienceproject.org/endgames-of-bad-communication/",
+    "upvotes": 40,
+    "author": "Thersites",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=30997666"
   },
   {
     "title": "Get familiar with workspaces",
     "url": "https://go.dev/blog/get-familiar-with-workspaces",
-    "upvotes": 105,
+    "upvotes": 111,
     "author": "rbanffy",
-    "comments": 50,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=30995029"
   },
   {
     "title": "Medusa is a device that allows connecting of old computers to modern displays",
     "url": "http://medusa-sc.org/index.php?title=Description",
-    "upvotes": 99,
+    "upvotes": 101,
     "author": "doener",
-    "comments": 46,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=30994637"
   },
   {
     "title": "Impressions from a first-time Mac user",
     "url": "https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/",
-    "upvotes": 166,
+    "upvotes": 174,
     "author": "loganmarchione",
-    "comments": 402,
+    "comments": 427,
     "link": "https://news.ycombinator.com/item?id=30993350"
   },
   {
     "title": "Real World Recommendation System",
     "url": "https://blog.fennel.ai/p/real-world-recommendation-system",
-    "upvotes": 280,
+    "upvotes": 290,
     "author": "nikhilgarg28",
-    "comments": 124,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=30991392"
+  },
+  {
+    "title": "Why the past 10 years of American life have been uniquely stupid",
+    "url": "https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/",
+    "upvotes": 150,
+    "author": "pseudolus",
+    "comments": 158,
+    "link": "https://news.ycombinator.com/item?id=30992322"
   },
   {
     "title": "Etsy Strike",
     "url": "https://etsystrike.org/",
-    "upvotes": 960,
+    "upvotes": 975,
     "author": "KarlKemp",
-    "comments": 488,
+    "comments": 491,
     "link": "https://news.ycombinator.com/item?id=30989344"
   },
   {
     "title": "Europe is investing heavily in trains",
     "url": "https://www.nytimes.com/2022/04/05/travel/europe-trains.html",
-    "upvotes": 387,
+    "upvotes": 400,
     "author": "prostoalex",
-    "comments": 356,
+    "comments": 370,
     "link": "https://news.ycombinator.com/item?id=30993881"
-  },
-  {
-    "title": "Why the past 10 years of American life have been uniquely stupid",
-    "url": "https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/",
-    "upvotes": 126,
-    "author": "pseudolus",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=30992322"
   },
   {
     "title": "Show HN: How to compile C/C++ for WASM, pure Clang, no libs, no framework",
     "url": "https://github.com/ern0/howto-wasm-minimal",
-    "upvotes": 149,
+    "upvotes": 157,
     "author": "ern0",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=30991235"
   },
   {
+    "title": "Lagrange, a beautiful Gemini client, for Android",
+    "url": "https://skyjake.github.io/fdroid/repo/",
+    "upvotes": 3,
+    "author": "rguiscard",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=30998033"
+  },
+  {
     "title": "Show HN: Multiplayer Demo Built with Elixir",
     "url": "https://multiplayer.dev",
-    "upvotes": 159,
+    "upvotes": 162,
     "author": "wenbo",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=30992587"
   },
   {
     "title": "The Apple-1's shift-register memory",
     "url": "https://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html",
-    "upvotes": 48,
+    "upvotes": 51,
     "author": "kens",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=30995051"
   },
   {
     "title": "Weightless cats – Do space cats land on their feet?",
     "url": "https://www.youtube.com/watch?v=O9XtK6R1QAk",
-    "upvotes": 144,
+    "upvotes": 146,
     "author": "carabiner",
     "comments": 145,
     "link": "https://news.ycombinator.com/item?id=30990575"
@@ -98,34 +122,18 @@
   {
     "title": "The Evolution of Indoor Climate",
     "url": "https://constructionphysics.substack.com/p/the-evolution-of-indoor-climate-part",
-    "upvotes": 12,
+    "upvotes": 16,
     "author": "manholio",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30965649"
   },
   {
     "title": "Elementary Audio: a modern platform for writing high performance audio software",
     "url": "https://www.elementary.audio/",
-    "upvotes": 113,
+    "upvotes": 115,
     "author": "davidbarker",
-    "comments": 71,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=30990874"
-  },
-  {
-    "title": "William Gaddis: Below Deck on the Ship of Fools",
-    "url": "https://bookbrat.substack.com/p/william-gaddis-below-deck-on-the",
-    "upvotes": 8,
-    "author": "bryanrasmussen",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=30974668"
-  },
-  {
-    "title": "The Endgames of Bad Faith Communication",
-    "url": "https://consilienceproject.org/endgames-of-bad-communication/",
-    "upvotes": 5,
-    "author": "Thersites",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=30997666"
   },
   {
     "title": "HireArt",
@@ -134,7 +142,7 @@
   {
     "title": "Security Comics",
     "url": "https://securityzines.com/#comics",
-    "upvotes": 107,
+    "upvotes": 113,
     "author": "segudev",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=30991368"
@@ -142,15 +150,39 @@
   {
     "title": "Researchers home in on possible “day zero” for Antikythera mechanism",
     "url": "https://arstechnica.com/science/2022/04/researchers-home-in-on-possible-day-zero-for-antikythera-mechanism/",
-    "upvotes": 120,
+    "upvotes": 123,
     "author": "dangle1",
-    "comments": 109,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=30989255"
+  },
+  {
+    "title": "William Gaddis: Below Deck on the Ship of Fools",
+    "url": "https://bookbrat.substack.com/p/william-gaddis-below-deck-on-the",
+    "upvotes": 10,
+    "author": "bryanrasmussen",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=30974668"
+  },
+  {
+    "title": "-h –Help -help Help –? –?",
+    "url": "https://blog.craftyguy.net/cmdline-help/",
+    "upvotes": 83,
+    "author": "todsacerdoti",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=30991834"
+  },
+  {
+    "title": "DeepMind’s New Language Model, Chinchilla",
+    "url": "https://www.marktechpost.com/2022/04/09/check-out-this-deepminds-new-language-model-chinchilla-70b-parameters-which-significantly-outperforms-gopher-280b-and-gpt-3-175b-on-a-large-range-of-downstream-evaluation-tasks/",
+    "upvotes": 212,
+    "author": "georgehill",
+    "comments": 131,
+    "link": "https://news.ycombinator.com/item?id=30987885"
   },
   {
     "title": "More Fakery",
     "url": "https://www.science.org/content/blog-post/more-fakery",
-    "upvotes": 130,
+    "upvotes": 133,
     "author": "rossdavidh",
     "comments": 62,
     "link": "https://news.ycombinator.com/item?id=30988120"
@@ -158,81 +190,49 @@
   {
     "title": "Yog’s Law and Self-Publishing",
     "url": "https://whatever.scalzi.com/2014/06/20/yogs-law-and-self-publishing/",
-    "upvotes": 4,
+    "upvotes": 6,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30975888"
   },
   {
-    "title": "-h –Help -help Help –? –?",
-    "url": "https://blog.craftyguy.net/cmdline-help/",
-    "upvotes": 76,
-    "author": "todsacerdoti",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=30991834"
-  },
-  {
-    "title": "DeepMind’s New Language Model, Chinchilla",
-    "url": "https://www.marktechpost.com/2022/04/09/check-out-this-deepminds-new-language-model-chinchilla-70b-parameters-which-significantly-outperforms-gopher-280b-and-gpt-3-175b-on-a-large-range-of-downstream-evaluation-tasks/",
-    "upvotes": 210,
-    "author": "georgehill",
-    "comments": 131,
-    "link": "https://news.ycombinator.com/item?id=30987885"
+    "title": "Cathode Ray Television",
+    "url": "http://www.r-type.org/articles/art-344.htm",
+    "upvotes": 35,
+    "author": "takiwatanga",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=30975849"
   },
   {
     "title": "Intuit asked Mailchimp employees to pay medical costs out of pocket",
     "url": "https://twitter.com/dvsch/status/1458813237651247109",
-    "upvotes": 307,
+    "upvotes": 316,
     "author": "luu",
-    "comments": 228,
+    "comments": 238,
     "link": "https://news.ycombinator.com/item?id=30992602"
   },
   {
     "title": "How and why Daily is using Rust for our WebRTC APIs",
     "url": "https://www.daily.co/blog/how-and-why-daily-is-using-rust-for-our-webrtc-apis/",
-    "upvotes": 116,
+    "upvotes": 118,
     "author": "vr000m",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=30990297"
   },
   {
-    "title": "Cathode Ray Television",
-    "url": "http://www.r-type.org/articles/art-344.htm",
-    "upvotes": 32,
-    "author": "takiwatanga",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=30975849"
+    "title": "Negative dentries, 20 years later",
+    "url": "https://lwn.net/SubscriberLink/890025/16c8b2a4f8bf3340/",
+    "upvotes": 36,
+    "author": "bitcharmer",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=30993527"
   },
   {
     "title": "I liked the idea of carbon offsets until I tried to explain it",
     "url": "https://climateer.substack.com/p/avoided-emissions",
-    "upvotes": 345,
+    "upvotes": 354,
     "author": "gk1",
-    "comments": 338,
+    "comments": 351,
     "link": "https://news.ycombinator.com/item?id=30988390"
-  },
-  {
-    "title": "Negative dentries, 20 years later",
-    "url": "https://lwn.net/SubscriberLink/890025/16c8b2a4f8bf3340/",
-    "upvotes": 33,
-    "author": "bitcharmer",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=30993527"
-  },
-  {
-    "title": "Atlassian: We estimate the rebuilding effort to last for up to 2 more weeks",
-    "url": "https://twitter.com/kjartanmuller/status/1513462616030683138",
-    "upvotes": 410,
-    "author": "tosh",
-    "comments": 208,
-    "link": "https://news.ycombinator.com/item?id=30990697"
-  },
-  {
-    "title": "Praising Maple Sugar in the Early American Republic",
-    "url": "https://daily.jstor.org/praising-maple-sugar-in-the-early-american-republic/",
-    "upvotes": 18,
-    "author": "samclemens",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=30973370"
   }
 ]
