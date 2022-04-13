@@ -2,15 +2,15 @@
   {
     "title": "U+237C ⍼ Right Angle with Downwards Zigzag Arrow",
     "url": "https://ionathan.ch/2022/04/09/angzarr.html",
-    "upvotes": 19,
+    "upvotes": 62,
     "author": "cbzbc",
-    "comments": 2,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31012865"
   },
   {
     "title": "Create hand-drawn GIFs on paper",
     "url": "https://www.eatmy.art/",
-    "upvotes": 72,
+    "upvotes": 86,
     "author": "trueduke",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31012269"
@@ -18,39 +18,39 @@
   {
     "title": "Git security vulnerability announced",
     "url": "https://github.blog/2022-04-12-git-security-vulnerability-announced/",
-    "upvotes": 400,
+    "upvotes": 408,
     "author": "delsarto",
-    "comments": 206,
+    "comments": 209,
     "link": "https://news.ycombinator.com/item?id=31009675"
   },
   {
     "title": "A System-Witch’s Package Manager Murder Mystery",
     "url": "https://artemis.sh/2022/04/11/package-manager-murder-mystery.html",
-    "upvotes": 24,
+    "upvotes": 31,
     "author": "todsacerdoti",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30987106"
-  },
-  {
-    "title": "Ana is a Python, PHP, and C inspired dynamically typed scripting language",
-    "url": "https://github.com/analang/ana",
-    "upvotes": 59,
-    "author": "ryanmccullagh",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=31011613"
   },
   {
     "title": "Insider Trading at Coinbase",
     "url": "https://twitter.com/cobie/status/1513874972552355846",
-    "upvotes": 88,
+    "upvotes": 106,
     "author": "Shadonototra",
-    "comments": 43,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=31012462"
+  },
+  {
+    "title": "Ana is a Python, PHP, and C inspired dynamically typed scripting language",
+    "url": "https://github.com/analang/ana",
+    "upvotes": 64,
+    "author": "ryanmccullagh",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=31011613"
   },
   {
     "title": "Lisperanto – Experimental in browser IDE",
     "url": "https://uprun.github.io/lisperanto/",
-    "upvotes": 14,
+    "upvotes": 18,
     "author": "uprun",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=31000021"
@@ -58,7 +58,7 @@
   {
     "title": "Rules of Spycraft",
     "url": "https://grugq.github.io/resources/Dulles%20on%20Tradecraft.pdf",
-    "upvotes": 44,
+    "upvotes": 51,
     "author": "Tomte",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=31011610"
@@ -66,7 +66,7 @@
   {
     "title": "BBEdit is 30 years old today",
     "url": "https://groups.google.com/g/comp.sys.mac.announce/c/gvPGyuX3UCs",
-    "upvotes": 312,
+    "upvotes": 314,
     "author": "sndean",
     "comments": 87,
     "link": "https://news.ycombinator.com/item?id=31008290"
@@ -74,25 +74,33 @@
   {
     "title": "Never hose out a Honda Element",
     "url": "https://fifthelementcamping.com/never-hose-it-out",
-    "upvotes": 301,
+    "upvotes": 306,
     "author": "gkop",
-    "comments": 184,
+    "comments": 188,
     "link": "https://news.ycombinator.com/item?id=31008275"
+  },
+  {
+    "title": "Conway's Game of Life – Mathematics and Construction [pdf]",
+    "url": "https://conwaylife.com/book/conway_life_book.pdf",
+    "upvotes": 40,
+    "author": "ColinWright",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=31000502"
   },
   {
     "title": "New",
     "url": "https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/",
-    "upvotes": 537,
+    "upvotes": 548,
     "author": "grappler",
-    "comments": 163,
+    "comments": 166,
     "link": "https://news.ycombinator.com/item?id=31009313"
   },
   {
     "title": "Web3: A VC-funded gig economy of securities fraud",
     "url": "https://davidgerard.co.uk/blockchain/2022/04/11/web3-a-vc-funded-gig-economy-of-securities-violations/",
-    "upvotes": 103,
+    "upvotes": 113,
     "author": "mhoad",
-    "comments": 66,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=31011894"
   },
   {
@@ -100,129 +108,105 @@
     "url": "https://www.svix.com/careers/"
   },
   {
-    "title": "Conway's Game of Life – Mathematics and Construction [pdf]",
-    "url": "https://conwaylife.com/book/conway_life_book.pdf",
-    "upvotes": 34,
-    "author": "ColinWright",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31000502"
-  },
-  {
     "title": "When to use generics",
     "url": "https://go.dev/blog/when-generics",
     "upvotes": 181,
     "author": "mfrw",
-    "comments": 111,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=31008141"
   },
   {
     "title": "Mgmt – Next generation distributed, event-driven, parallel config management",
     "url": "https://github.com/purpleidea/mgmt",
-    "upvotes": 17,
+    "upvotes": 19,
     "author": "pabs3",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30998872"
-  },
-  {
-    "title": "Shine: A super fast fixed-point MP3 encoder",
-    "url": "https://github.com/toots/shine",
-    "upvotes": 82,
-    "author": "poser-boy",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=30998693"
-  },
-  {
-    "title": "A few things to try with DALL·E",
-    "url": "https://www.bramadams.dev/projects/dalle-tricks",
-    "upvotes": 118,
-    "author": "_bramses",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=31009129"
-  },
-  {
-    "title": "Harder Drive: Hard drives we didn't want or need [video]",
-    "url": "https://www.youtube.com/watch?v=JcJSW7Rprio",
-    "upvotes": 200,
-    "author": "davidfactorial",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=30974165"
   },
   {
     "title": "Taiwan should use “broken nest”, destroy TSMC in Chinese invasion: US military",
     "url": "https://www.datacenterdynamics.com/en/news/taiwan-should-adopt-a-broken-nest-policy-and-destroy-tsmc-in-wake-of-any-chinese-invasion-suggests-us-military-paper/",
-    "upvotes": 25,
+    "upvotes": 32,
     "author": "rntn",
-    "comments": 19,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=31012442"
+  },
+  {
+    "title": "A few things to try with DALL·E",
+    "url": "https://www.bramadams.dev/projects/dalle-tricks",
+    "upvotes": 121,
+    "author": "_bramses",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=31009129"
+  },
+  {
+    "title": "Shine: A super fast fixed-point MP3 encoder",
+    "url": "https://github.com/toots/shine",
+    "upvotes": 83,
+    "author": "poser-boy",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=30998693"
+  },
+  {
+    "title": "Harder Drive: Hard drives we didn't want or need [video]",
+    "url": "https://www.youtube.com/watch?v=JcJSW7Rprio",
+    "upvotes": 204,
+    "author": "davidfactorial",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=30974165"
   },
   {
     "title": "Wikipedia RFC to stop accepting cryptocurrencies passes by majority vote",
     "url": "https://meta.wikimedia.org/wiki/Requests_for_comment/Stop_accepting_cryptocurrency_donations",
-    "upvotes": 155,
+    "upvotes": 164,
     "author": "SwimSwimHungry",
-    "comments": 149,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=31011083"
   },
   {
     "title": "Heroic Newsboy Funerals",
     "url": "https://daily.jstor.org/heroic-newsboy-funerals/",
-    "upvotes": 18,
+    "upvotes": 19,
     "author": "samclemens",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=30998223"
   },
   {
-    "title": "The world’s largest bee and the cautionary tale of its rediscovery",
-    "url": "https://www.atlasobscura.com/articles/worlds-largest-bee",
-    "upvotes": 86,
-    "author": "Petiver",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=30997385"
-  },
-  {
     "title": "Command Line Programs for the Blind",
     "url": "http://www.eklhad.net/philosophy.html",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "spencerwgreene",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=30999207"
+  },
+  {
+    "title": "The world’s largest bee and the cautionary tale of its rediscovery",
+    "url": "https://www.atlasobscura.com/articles/worlds-largest-bee",
+    "upvotes": 87,
+    "author": "Petiver",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=30997385"
   },
   {
     "title": "Eden",
     "url": "https://github.com/facebookexperimental/eden",
-    "upvotes": 550,
+    "upvotes": 555,
     "author": "tosh",
-    "comments": 196,
+    "comments": 197,
     "link": "https://news.ycombinator.com/item?id=31006003"
-  },
-  {
-    "title": "Minimalist dependency injection in Python",
-    "url": "https://oddbit.dev/post/python/di-python/",
-    "upvotes": 27,
-    "author": "BerislavLopac",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=30986433"
   },
   {
     "title": "Human brain compresses working memories into low-res ‘summaries’",
     "url": "https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/",
-    "upvotes": 591,
+    "upvotes": 595,
     "author": "nihkolberg",
-    "comments": 290,
+    "comments": 295,
     "link": "https://news.ycombinator.com/item?id=31002179"
-  },
-  {
-    "title": "Broadband cables to be routed through water pipes in new trial",
-    "url": "https://eandt.theiet.org/content/articles/2022/04/broadband-cables-to-be-routed-through-water-pipes-in-new-trial/",
-    "upvotes": 56,
-    "author": "OJFord",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=30986999"
   },
   {
     "title": "Show HN: I made a website for you to travel the world in first-person POV",
     "url": "https://www.explordle.com/map/wor",
-    "upvotes": 284,
+    "upvotes": 291,
     "author": "eddieweng",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=30970911"
@@ -230,9 +214,25 @@
   {
     "title": "RaidForums gets raided, alleged admin arrested",
     "url": "https://krebsonsecurity.com/2022/04/raidforums-get-raided-alleged-admin-arrested/",
-    "upvotes": 281,
+    "upvotes": 282,
     "author": "picture",
     "comments": 165,
     "link": "https://news.ycombinator.com/item?id=31005770"
+  },
+  {
+    "title": "Playing with DALL-E 2",
+    "url": "https://www.lesswrong.com/posts/r99tazGiLgzqFX7ka/playing-with-dall-e-2",
+    "upvotes": 258,
+    "author": "nahuel0x",
+    "comments": 146,
+    "link": "https://news.ycombinator.com/item?id=30989613"
+  },
+  {
+    "title": "WireGuard multihop available in the Mullvad app",
+    "url": "https://mullvad.net/en/blog/2022/3/10/wireguard-multihop-now-easy-available-app/",
+    "upvotes": 350,
+    "author": "qalter",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=31005209"
   }
 ]
