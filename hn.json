@@ -1,56 +1,64 @@
 [
   {
+    "title": "The New York Times compels the Wordle Archive project to be shut down",
+    "url": "https://www.devangthakkar.com/wordle_archive/",
+    "upvotes": 29,
+    "author": "Santosh83",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=31024767"
+  },
+  {
     "title": "Making Rust a Better Fit for Cheri and Other Platforms",
     "url": "https://tratt.net/laurie/blog/2022/making_rust_a_better_fit_for_cheri_and_other_platforms.html",
-    "upvotes": 36,
+    "upvotes": 41,
     "author": "ltratt",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=31024127"
   },
   {
     "title": "Three areas where Google Search lags behind competitors: code, cooking, travel",
     "url": "https://www.surgehq.ai//blog/google-search-is-falling-behind",
-    "upvotes": 416,
+    "upvotes": 428,
     "author": "swethmandava",
-    "comments": 273,
+    "comments": 276,
     "link": "https://news.ycombinator.com/item?id=31020229"
   },
   {
     "title": "Facebook open sources Lexical, an extensible text editor library",
     "url": "https://lexical.dev/",
-    "upvotes": 259,
+    "upvotes": 264,
     "author": "crousto",
-    "comments": 101,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=31019778"
   },
   {
     "title": "Why is selling software so weird?",
     "url": "https://www.zeptonaut.com/posts/selling-software-is-weird/",
-    "upvotes": 100,
+    "upvotes": 106,
     "author": "zeptonaut22",
-    "comments": 54,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=31014847"
-  },
-  {
-    "title": "Incident with GitHub Actions and Codespaces",
-    "url": "https://www.githubstatus.com/incidents/vxvyrmy9w1vp",
-    "upvotes": 94,
-    "author": "taubek",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=31023695"
   },
   {
     "title": "Why I quit this battle",
     "url": "https://badmodems.com/Why.htm",
-    "upvotes": 181,
+    "upvotes": 186,
     "author": "Flollop",
-    "comments": 81,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=31021652"
+  },
+  {
+    "title": "Incident with GitHub Actions and Codespaces",
+    "url": "https://www.githubstatus.com/incidents/vxvyrmy9w1vp",
+    "upvotes": 101,
+    "author": "taubek",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=31023695"
   },
   {
     "title": "How EEx Turns Your Template into HTML",
     "url": "https://www.mitchellhanberg.com/how-eex-turns-your-template-into-html/",
-    "upvotes": 50,
+    "upvotes": 54,
     "author": "bo0tzz",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=30992719"
@@ -58,42 +66,42 @@
   {
     "title": "You’re muted – or are you? Videoconferencing apps may listen when mic is off",
     "url": "https://news.wisc.edu/youre-muted-or-are-you-videoconferencing-apps-may-listen-even-when-mic-is-off/",
-    "upvotes": 419,
+    "upvotes": 424,
     "author": "sizzle",
-    "comments": 328,
+    "comments": 329,
     "link": "https://news.ycombinator.com/item?id=31017098"
   },
   {
     "title": "New Covid nasal spray outperforms current antibody treatments in mice",
     "url": "https://news.northwestern.edu/stories/2022/04/new-covid-19-nasal-spray-outperforms-current-antibody-treatments-in-mice/",
-    "upvotes": 29,
+    "upvotes": 40,
     "author": "geox",
-    "comments": 13,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=31024458"
   },
   {
     "title": "Why Ruby Has Symbols",
     "url": "https://dmitrytsepelev.dev/why-has-ruby-symbols",
-    "upvotes": 9,
+    "upvotes": 13,
     "author": "dmitrytsepelev",
-    "comments": 4,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31024363"
-  },
-  {
-    "title": "Inside the longest Atlassian outage",
-    "url": "https://newsletter.pragmaticengineer.com/p/scoop-atlassian",
-    "upvotes": 1067,
-    "author": "andyjohnson0",
-    "comments": 687,
-    "link": "https://news.ycombinator.com/item?id=31015813"
   },
   {
     "title": "Large-Scale Matrix Factorization on TPUs",
     "url": "https://ai.googleblog.com/2022/04/large-scale-matrix-factorization-on-tpus.html",
-    "upvotes": 23,
+    "upvotes": 27,
     "author": "RafelMri",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=31023909"
+  },
+  {
+    "title": "Inside the longest Atlassian outage",
+    "url": "https://newsletter.pragmaticengineer.com/p/scoop-atlassian",
+    "upvotes": 1075,
+    "author": "andyjohnson0",
+    "comments": 690,
+    "link": "https://news.ycombinator.com/item?id=31015813"
   },
   {
     "title": "Sturdy",
@@ -102,95 +110,103 @@
   {
     "title": "Apple's M1 Ultra comes with a 32MB TLB bottleneck",
     "url": "https://twitter.com/VadimYuryev/status/1514295682777059329",
-    "upvotes": 224,
+    "upvotes": 229,
     "author": "retskrad",
-    "comments": 123,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=31020484"
+  },
+  {
+    "title": "The Low Base Rate Problem",
+    "url": "https://www.evanmiller.org/the-low-base-rate-problem.html",
+    "upvotes": 6,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31000595"
   },
   {
     "title": "My Life as a Mentalist",
     "url": "https://www.zocalopublicsquare.org/2022/04/07/where-i-go-my-life-as-a-mentalist/chronicles/where-i-go/",
-    "upvotes": 51,
+    "upvotes": 55,
     "author": "crapvoter",
-    "comments": 60,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=31022746"
-  },
-  {
-    "title": "Plutonium and poetry: Where Trinity and Oppenheimer's reading habits met",
-    "url": "https://discover.lanl.gov/news/0714-oppenheimer-literature",
-    "upvotes": 8,
-    "author": "benbreen",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31005586"
   },
   {
     "title": "OpenMower – Open-source robot lawn mower [video]",
     "url": "https://www.youtube.com/watch?v=BSF04i3zNGw",
-    "upvotes": 157,
+    "upvotes": 165,
     "author": "nargella",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=31014160"
   },
   {
     "title": "Creating a TP-Link Router Backup Editor for the Web",
     "url": "https://jahed.dev/2021/12/21/creating-a-tp-link-router-backup-editor-for-the-web/",
-    "upvotes": 7,
+    "upvotes": 8,
     "author": "ignitionmonkey",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=30983535"
   },
   {
-    "title": "Insect Hotel",
-    "url": "https://en.wikipedia.org/wiki/Insect_hotel",
-    "upvotes": 182,
-    "author": "keiferski",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=31000852"
+    "title": "Elon Musk Launches $43B Hostile Takeover of Twitter",
+    "url": "https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter",
+    "upvotes": 97,
+    "author": "zegl",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=31025061"
   },
   {
     "title": "Tailscale Authentication for Minecraft",
     "url": "https://tailscale.com/blog/tailscale-auth-minecraft/",
-    "upvotes": 38,
+    "upvotes": 43,
     "author": "syrusakbary",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=31019634"
   },
   {
+    "title": "Plutonium and poetry: Where Trinity and Oppenheimer's reading habits met",
+    "url": "https://discover.lanl.gov/news/0714-oppenheimer-literature",
+    "upvotes": 9,
+    "author": "benbreen",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31005586"
+  },
+  {
+    "title": "Insect Hotel",
+    "url": "https://en.wikipedia.org/wiki/Insect_hotel",
+    "upvotes": 184,
+    "author": "keiferski",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=31000852"
+  },
+  {
     "title": "Scientists are worried about the W Boson: 'Something is amiss'",
     "url": "https://www.cnet.com/science/why-scientists-are-worried-about-the-w-boson-something-is-amiss/",
-    "upvotes": 91,
+    "upvotes": 95,
     "author": "hsnewman",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=30977931"
   },
   {
     "title": "A new heat engine with no moving parts is as efficient as a steam turbine",
     "url": "https://news.mit.edu/2022/thermal-heat-engine-0413",
-    "upvotes": 544,
+    "upvotes": 547,
     "author": "WithinReason",
-    "comments": 229,
+    "comments": 230,
     "link": "https://news.ycombinator.com/item?id=31016120"
   },
   {
     "title": "Doom Cacowards",
     "url": "https://doomwiki.org/wiki/Cacowards",
-    "upvotes": 83,
+    "upvotes": 86,
     "author": "ecliptik",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=30998562"
   },
   {
-    "title": "The “fifth wheel” parallel parking tool that never hit it big",
-    "url": "https://www.hagerty.com/media/automotive-history/parallel-parking-made-easy-1930s-style/",
-    "upvotes": 62,
-    "author": "vsurabhi",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=30986566"
-  },
-  {
     "title": "The state of static analysis in the GCC 12 compiler",
     "url": "https://developers.redhat.com/articles/2022/04/12/state-static-analysis-gcc-12-compiler",
-    "upvotes": 106,
+    "upvotes": 107,
     "author": "edelsohn",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=31006720"
@@ -198,41 +214,25 @@
   {
     "title": "Jimmy Carter's White House Solar Panels",
     "url": "https://www.powerhome.com/the-journey-of-jimmy-carters-solar-panels/",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "doener",
     "comments": 85,
     "link": "https://news.ycombinator.com/item?id=31019349"
   },
   {
-    "title": "Computers Can Be Understood",
-    "url": "https://blog.nelhage.com/post/computers-can-be-understood/",
-    "upvotes": 40,
-    "author": "tbodt",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=31022479"
-  },
-  {
     "title": "Ask HN: Have you created programs for only your personal use?",
     "url": "item?id=31018836",
-    "upvotes": 323,
+    "upvotes": 332,
     "author": "smarri",
-    "comments": 500,
+    "comments": 507,
     "link": "https://news.ycombinator.com/item?id=31018836"
   },
   {
-    "title": "Push Options: Control Gitlab CI/CD and Merges with Git Push",
-    "url": "https://docs.gitlab.com/ee/user/project/push_options.html",
-    "upvotes": 70,
-    "author": "CaliforniaKarl",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=30996427"
-  },
-  {
-    "title": "Job hunting while day-jobbing",
-    "url": "https://code.maiamccormick.com/2021/06/27/job-hunting.html",
-    "upvotes": 126,
-    "author": "luu",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=31007660"
+    "title": "Computers Can Be Understood",
+    "url": "https://blog.nelhage.com/post/computers-can-be-understood/",
+    "upvotes": 44,
+    "author": "tbodt",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=31022479"
   }
 ]
