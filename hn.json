@@ -2,55 +2,63 @@
   {
     "title": "Brendan Gregg is leaving Netflix",
     "url": "https://www.brendangregg.com/blog/2022-04-15/netflix-farewell-1.html",
-    "upvotes": 80,
+    "upvotes": 120,
     "author": "heinrichhartman",
-    "comments": 10,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=31051662"
+  },
+  {
+    "title": "Zig self hosted compiler is now capable of building itself",
+    "url": "https://github.com/ziglang/zig/pull/11442",
+    "upvotes": 37,
+    "author": "marcthe12",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31052029"
   },
   {
     "title": "The Principles of Deep Learning Theory",
     "url": "https://arxiv.org/abs/2106.10165",
-    "upvotes": 32,
+    "upvotes": 39,
     "author": "Anon84",
-    "comments": 12,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=31051540"
   },
   {
     "title": "When hiring developers, have the candidate read existing code",
     "url": "https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/",
-    "upvotes": 674,
+    "upvotes": 691,
     "author": "ewag",
-    "comments": 383,
+    "comments": 388,
     "link": "https://news.ycombinator.com/item?id=31047409"
   },
   {
     "title": "Calculating Pi on the 4004",
     "url": "https://mark.engineer/2022/04/calculating-pi-digits-on-first-intel-microprocessor-intel-4004/",
-    "upvotes": 12,
+    "upvotes": 18,
     "author": "jamesy0ung",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=31051635"
   },
   {
     "title": "Heroku Security Notification",
     "url": "https://status.heroku.com/incidents/2413",
-    "upvotes": 297,
+    "upvotes": 302,
     "author": "chizhik-pyzhik",
-    "comments": 65,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=31048646"
   },
   {
     "title": "A drug that cures alcoholism may be the next anti-anxiety medication",
     "url": "https://www.tus.ac.jp/en/mediarelations/archive/20220414_3208.html",
-    "upvotes": 121,
+    "upvotes": 130,
     "author": "rustoo",
-    "comments": 70,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=31049242"
   },
   {
     "title": "The Attribution Stack: How to Make Budget Decisions in a Post-iOS14 World",
     "url": "https://www.reforge.com/blog/marketing-attribution-stack-after-ios14",
-    "upvotes": 15,
+    "upvotes": 17,
     "author": "hammer_mt",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31024705"
@@ -60,91 +68,83 @@
     "url": "https://bristle.notion.site/Careers-Bristle-f7a66759282a4a1195cbafdce00a8722"
   },
   {
-    "title": "Anatomy of the Presidential Motorcade",
-    "url": "https://www.thedrive.com/the-war-zone/4518/the-fascinating-anatomy-of-the-presidential-motorcade",
-    "upvotes": 27,
-    "author": "Tomte",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=31037417"
-  },
-  {
     "title": "Attack campaign involving stolen OAuth tokens issued to third-party integrators",
     "url": "https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/",
-    "upvotes": 225,
+    "upvotes": 230,
     "author": "heyoni",
-    "comments": 57,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=31046791"
+  },
+  {
+    "title": "Anatomy of the Presidential Motorcade",
+    "url": "https://www.thedrive.com/the-war-zone/4518/the-fascinating-anatomy-of-the-presidential-motorcade",
+    "upvotes": 29,
+    "author": "Tomte",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=31037417"
   },
   {
     "title": "Re-implementing an old DOS game in C++ 17",
     "url": "https://lethalguitar.wordpress.com/2019/05/28/re-implementing-an-old-dos-game-in-c-17/",
-    "upvotes": 166,
+    "upvotes": 171,
     "author": "mariuz",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=31046598"
-  },
-  {
-    "title": "Welcome 2030 You'll Own Nothing Have No Privacy and Life Has Never Been Crueler",
-    "url": "https://cryptofireside.com/welcome-to-2030-you-will-own-nothing-have-no-privacy-and-life-has-never-been-crueler-13ff87dc129c",
-    "upvotes": 19,
-    "author": "goindeep",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=31050866"
   },
   {
     "title": "Continuous Looper",
     "url": "https://beijaflor.io/blog/04-2022/rust-audio-experiments-5/",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "lukastyrychtr",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=31039176"
   },
   {
     "title": "Intel deprecates SGX on Core series processors",
     "url": "https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/12th-generation-intel-core-processors-datasheet-volume-1-of-2/004/deprecated-technologies/",
-    "upvotes": 110,
+    "upvotes": 113,
     "author": "thinkmassive",
-    "comments": 99,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=31047888"
   },
   {
     "title": "Replacement power supply for the Toshiba T1200 laptop computer",
     "url": "https://github.com/BasicCode/Toshiba-T1200-PSU",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "elvis70",
-    "comments": 9,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31025865"
   },
   {
     "title": "Bits of History, Words of Advice",
     "url": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "bokchoi",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=31045174"
   },
   {
-    "title": "One-line drawings",
-    "url": "https://schollz.com/blog/one-line/",
-    "upvotes": 97,
-    "author": "qrv3w",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=31040588"
+    "title": "Apple’s risky, yearslong effort to design its own silicon is paying off",
+    "url": "https://www.wsj.com/articles/the-chips-that-rebooted-the-mac-11650081649",
+    "upvotes": 30,
+    "author": "carlycue",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=31051509"
   },
   {
-    "title": "I Avoid Async/Await",
-    "url": "https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e",
-    "upvotes": 79,
-    "author": "kiyanwang",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=31050650"
+    "title": "One-line drawings",
+    "url": "https://schollz.com/blog/one-line/",
+    "upvotes": 101,
+    "author": "qrv3w",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=31040588"
   },
   {
     "title": "Twitter board adopts poison pill after Musk’s $43B bid to buy company",
     "url": "https://www.cnbc.com/2022/04/15/twitter-board-adopts-poison-pill-after-musks-43-billion-offer-to-buy-company.html",
-    "upvotes": 590,
+    "upvotes": 594,
     "author": "grogu88",
-    "comments": 908,
+    "comments": 912,
     "link": "https://news.ycombinator.com/item?id=31043439"
   },
   {
@@ -158,81 +158,81 @@
   {
     "title": "Moreutils: A collection of Unix tools that nobody thought to write long ago",
     "url": "https://joeyh.name/code/moreutils/",
-    "upvotes": 533,
+    "upvotes": 534,
     "author": "escot",
-    "comments": 228,
+    "comments": 229,
     "link": "https://news.ycombinator.com/item?id=31043655"
   },
   {
     "title": "MIT Engineers Create New Material Stronger Than Steel and Light as Plastic",
     "url": "https://scitechdaily.com/mit-engineers-create-the-impossible-new-material-that-is-stronger-than-steel-and-as-light-as-plastic/",
-    "upvotes": 18,
+    "upvotes": 21,
     "author": "leothekim",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=31051481"
   },
   {
     "title": "The Nostalgia Pendulum: A rolling 30-year cycle of pop culture trends",
     "url": "https://thepatterning.com/2017/02/13/the-nostalgia-pendulum-a-rolling-30-year-cycle-of-pop-culture-trends/",
-    "upvotes": 36,
+    "upvotes": 39,
     "author": "richardanaya",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31037095"
   },
   {
-    "title": "Apple’s risky, yearslong effort to design its own silicon is paying off",
-    "url": "https://www.wsj.com/articles/the-chips-that-rebooted-the-mac-11650081649",
-    "upvotes": 16,
-    "author": "carlycue",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31051509"
-  },
-  {
-    "title": "My take on Elon's offer for Twitter",
-    "url": "https://twitter.com/yishan/status/1514938507407421440",
-    "upvotes": 503,
-    "author": "slg",
-    "comments": 455,
-    "link": "https://news.ycombinator.com/item?id=31044693"
+    "title": "Mac App Store Ransomware",
+    "url": "https://mjtsai.com/blog/2022/04/15/mac-app-store-ransomware/",
+    "upvotes": 87,
+    "author": "bangonkeyboard",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=31046415"
   },
   {
     "title": "Evaluating Ruby in Ruby",
     "url": "https://iliabylich.github.io/2020/01/25/evaluating-ruby-in-ruby.html",
     "upvotes": 40,
     "author": "cribbles",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31025141"
   },
   {
-    "title": "Mac App Store Ransomware",
-    "url": "https://mjtsai.com/blog/2022/04/15/mac-app-store-ransomware/",
-    "upvotes": 80,
-    "author": "bangonkeyboard",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=31046415"
+    "title": "I Avoid Async/Await",
+    "url": "https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e",
+    "upvotes": 85,
+    "author": "kiyanwang",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=31050650"
   },
   {
     "title": "The History of Franz and Lisp",
     "url": "https://ieeexplore.ieee.org/document/9740557",
-    "upvotes": 87,
+    "upvotes": 89,
     "author": "lisper",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=31044510"
+  },
+  {
+    "title": "My take on Elon's offer for Twitter",
+    "url": "https://twitter.com/yishan/status/1514938507407421440",
+    "upvotes": 508,
+    "author": "slg",
+    "comments": 472,
+    "link": "https://news.ycombinator.com/item?id=31044693"
   },
   {
     "title": "Ten members of international stock manipulation ring charged in Manhattan",
     "url": "https://www.justice.gov/usao-sdny/pr/ten-members-international-stock-manipulation-ring-charged-manhattan-federal-court",
-    "upvotes": 269,
+    "upvotes": 270,
     "author": "mzs",
     "comments": 149,
     "link": "https://news.ycombinator.com/item?id=31044629"
   },
   {
-    "title": "One-Handed Keyboard",
-    "url": "https://tipykeyboard.com/en/home/",
-    "upvotes": 5,
-    "author": "pseingatl",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31050827"
+    "title": "We lost 54k GitHub stars",
+    "url": "https://httpie.io/blog/stardust",
+    "upvotes": 1807,
+    "author": "todsacerdoti",
+    "comments": 642,
+    "link": "https://news.ycombinator.com/item?id=31033758"
   }
 ]
