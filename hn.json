@@ -2,71 +2,87 @@
   {
     "title": "Zig self hosted compiler is now capable of building itself",
     "url": "https://github.com/ziglang/zig/pull/11442",
-    "upvotes": 286,
+    "upvotes": 334,
     "author": "marcthe12",
-    "comments": 39,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=31052029"
   },
   {
     "title": "A Census of Minecraft Servers",
     "url": "https://blog.bithole.dev/mcmap.html",
-    "upvotes": 74,
+    "upvotes": 94,
     "author": "sidedishes",
-    "comments": 10,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=31052254"
+  },
+  {
+    "title": "Show HN: Golang FFmpeg wrapper for simple Video I/O and Webcam Streaming",
+    "url": "https://github.com/AlexEidt/Vidio",
+    "upvotes": 26,
+    "author": "crypt0lution",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31053274"
+  },
+  {
+    "title": "Researchers Discover New Cell Type in Human Lung with Regenerative Properties",
+    "url": "https://www.pennmedicine.org/news/news-releases/2022/april/penn-researchers-discover-new-cell-type-in-human-lung-with-regenerative-properties",
+    "upvotes": 26,
+    "author": "NickRandom",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=31053044"
   },
   {
     "title": "Self-calibrating USB Paper Tape Reader",
     "url": "http://www.e-basteln.de/computing/papertape/overview/",
-    "upvotes": 51,
+    "upvotes": 68,
     "author": "_Microft",
-    "comments": 6,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31052263"
   },
   {
     "title": "The Principles of Deep Learning Theory",
     "url": "https://arxiv.org/abs/2106.10165",
-    "upvotes": 87,
+    "upvotes": 100,
     "author": "Anon84",
-    "comments": 72,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=31051540"
-  },
-  {
-    "title": "Make Scientific Posters Easier Than Using PowerPoint",
-    "url": "https://app.biorender.com/#new-poster",
-    "upvotes": 21,
-    "author": "flybrand",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=31039321"
   },
   {
     "title": "Seashore: Easy to use Mac OS X image editing application for the rest of us",
     "url": "https://github.com/robaho/seashore",
-    "upvotes": 42,
+    "upvotes": 58,
     "author": "tosh",
-    "comments": 17,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=31051991"
   },
   {
-    "title": "Researchers Discover New Cell Type in Human Lung with Regenerative Properties",
-    "url": "https://www.pennmedicine.org/news/news-releases/2022/april/penn-researchers-discover-new-cell-type-in-human-lung-with-regenerative-properties",
-    "upvotes": 7,
-    "author": "NickRandom",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31053044"
+    "title": "Make Scientific Posters Easier Than Using PowerPoint",
+    "url": "https://app.biorender.com/#new-poster",
+    "upvotes": 27,
+    "author": "flybrand",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=31039321"
   },
   {
     "title": "Gambit – open-source tools for doing computation in game theory",
     "url": "http://www.gambit-project.org/",
-    "upvotes": 32,
+    "upvotes": 36,
     "author": "lixtra",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=31037842"
+  },
+  {
+    "title": "Wordle and Grep",
+    "url": "https://leancrew.com/all-this/2022/02/wordle-and-grep/",
+    "upvotes": 9,
+    "author": "tosh",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=31053135"
   },
   {
     "title": "Calculating Pi on the 4004",
     "url": "https://mark.engineer/2022/04/calculating-pi-digits-on-first-intel-microprocessor-intel-4004/",
-    "upvotes": 44,
+    "upvotes": 49,
     "author": "jamesy0ung",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31051635"
@@ -74,163 +90,147 @@
   {
     "title": "Heroku Security Notification",
     "url": "https://status.heroku.com/incidents/2413",
-    "upvotes": 347,
+    "upvotes": 353,
     "author": "chizhik-pyzhik",
-    "comments": 87,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=31048646"
-  },
-  {
-    "title": "Wordle and Grep",
-    "url": "https://leancrew.com/all-this/2022/02/wordle-and-grep/",
-    "upvotes": 3,
-    "author": "tosh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31053135"
   },
   {
     "title": "A drug that cures alcoholism may be the next anti-anxiety medication",
     "url": "https://www.tus.ac.jp/en/mediarelations/archive/20220414_3208.html",
-    "upvotes": 162,
+    "upvotes": 167,
     "author": "rustoo",
-    "comments": 100,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=31049242"
+  },
+  {
+    "title": "I Avoid Async/Await",
+    "url": "https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e",
+    "upvotes": 123,
+    "author": "kiyanwang",
+    "comments": 155,
+    "link": "https://news.ycombinator.com/item?id=31050650"
   },
   {
     "title": "Bristle",
     "url": "https://bristle.notion.site/Careers-Bristle-f7a66759282a4a1195cbafdce00a8722"
   },
   {
-    "title": "I Avoid Async/Await",
-    "url": "https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e",
-    "upvotes": 114,
-    "author": "kiyanwang",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=31050650"
-  },
-  {
-    "title": "When hiring developers, have the candidate read existing code",
-    "url": "https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/",
-    "upvotes": 787,
-    "author": "ewag",
-    "comments": 435,
-    "link": "https://news.ycombinator.com/item?id=31047409"
+    "title": "What's in your hands? 3D Reconstruction of Generic Objects in Hands",
+    "url": "https://judyye.github.io/ihoi/",
+    "upvotes": 6,
+    "author": "lnyan",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31036900"
   },
   {
     "title": "The Attribution Stack: How to Make Budget Decisions in a Post-iOS14 World",
     "url": "https://www.reforge.com/blog/marketing-attribution-stack-after-ios14",
-    "upvotes": 34,
+    "upvotes": 38,
     "author": "hammer_mt",
-    "comments": 6,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=31024705"
   },
   {
-    "title": "Birds Aren’t Real took on the conspiracy theorists",
-    "url": "https://www.theguardian.com/us-news/2022/apr/14/the-lunacy-is-getting-more-intense-how-birds-arent-real-took-on-the-conspiracy-theorists",
-    "upvotes": 54,
-    "author": "Tomte",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=31052086"
+    "title": "When hiring developers, have the candidate read existing code",
+    "url": "https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/",
+    "upvotes": 802,
+    "author": "ewag",
+    "comments": 445,
+    "link": "https://news.ycombinator.com/item?id=31047409"
   },
   {
     "title": "Continuous Looper",
     "url": "https://beijaflor.io/blog/04-2022/rust-audio-experiments-5/",
-    "upvotes": 43,
+    "upvotes": 46,
     "author": "lukastyrychtr",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=31039176"
   },
   {
-    "title": "Twitter Should Open Up the Algorithm",
-    "url": "https://every.to/divinations/elon-is-right-twitter-should-open-up-the-algorithm",
-    "upvotes": 58,
-    "author": "dshipper",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=31051925"
+    "title": "Researchers Gain New Understanding from Simple AI",
+    "url": "https://www.quantamagazine.org/researchers-glimpse-how-ai-gets-so-good-at-language-processing-20220414/",
+    "upvotes": 4,
+    "author": "takiwatanga",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31053019"
+  },
+  {
+    "title": "Monitoring the kernel.org Transparency Log for a year",
+    "url": "https://linderud.dev/blog/monitoring-the-kernel.org-transparency-log-for-a-year/",
+    "upvotes": 4,
+    "author": "mdb31",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31053003"
   },
   {
     "title": "Netflix End of Series 1",
     "url": "https://www.brendangregg.com/blog/2022-04-15/netflix-farewell-1.html",
-    "upvotes": 194,
+    "upvotes": 208,
     "author": "heinrichhartman",
-    "comments": 50,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=31051662"
+  },
+  {
+    "title": "Birds Aren’t Real took on the conspiracy theorists",
+    "url": "https://www.theguardian.com/us-news/2022/apr/14/the-lunacy-is-getting-more-intense-how-birds-arent-real-took-on-the-conspiracy-theorists",
+    "upvotes": 70,
+    "author": "Tomte",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=31052086"
+  },
+  {
+    "title": "Tipy – One Hand Keyboard",
+    "url": "https://tipykeyboard.com/en/home/",
+    "upvotes": 44,
+    "author": "pseingatl",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=31050827"
   },
   {
     "title": "Anatomy of the Presidential Motorcade",
     "url": "https://www.thedrive.com/the-war-zone/4518/the-fascinating-anatomy-of-the-presidential-motorcade",
-    "upvotes": 39,
+    "upvotes": 42,
     "author": "Tomte",
-    "comments": 55,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=31037417"
   },
   {
     "title": "‘What a brutal business’: pop stars on life after the spotlight moves on",
     "url": "https://www.theguardian.com/music/2022/apr/16/pop-stars-spotlight-bob-geldof-robbie-williams-lisa-maffia",
-    "upvotes": 38,
+    "upvotes": 49,
     "author": "Michelangelo11",
-    "comments": 13,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=31051827"
   },
   {
     "title": "Replacement power supply for the Toshiba T1200 laptop computer",
     "url": "https://github.com/BasicCode/Toshiba-T1200-PSU",
-    "upvotes": 63,
+    "upvotes": 66,
     "author": "elvis70",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31025865"
   },
   {
     "title": "MIT Engineers Create New Material Stronger Than Steel and Light as Plastic",
     "url": "https://scitechdaily.com/mit-engineers-create-the-impossible-new-material-that-is-stronger-than-steel-and-as-light-as-plastic/",
-    "upvotes": 65,
+    "upvotes": 77,
     "author": "leothekim",
-    "comments": 30,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=31051481"
-  },
-  {
-    "title": "Bits of History, Words of Advice",
-    "url": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html",
-    "upvotes": 19,
-    "author": "bokchoi",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31045174"
-  },
-  {
-    "title": "One-line drawings",
-    "url": "https://schollz.com/blog/one-line/",
-    "upvotes": 127,
-    "author": "qrv3w",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=31040588"
-  },
-  {
-    "title": "Tipy – One Hand Keyboard",
-    "url": "https://tipykeyboard.com/en/home/",
-    "upvotes": 38,
-    "author": "pseingatl",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=31050827"
   },
   {
     "title": "Apple’s risky, yearslong effort to design its own silicon is paying off",
     "url": "https://www.wsj.com/articles/the-chips-that-rebooted-the-mac-11650081649",
-    "upvotes": 72,
+    "upvotes": 86,
     "author": "carlycue",
-    "comments": 84,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=31051509"
-  },
-  {
-    "title": "Twitter board adopts poison pill after Musk’s $43B bid to buy company",
-    "url": "https://www.cnbc.com/2022/04/15/twitter-board-adopts-poison-pill-after-musks-43-billion-offer-to-buy-company.html",
-    "upvotes": 623,
-    "author": "grogu88",
-    "comments": 966,
-    "link": "https://news.ycombinator.com/item?id=31043439"
   },
   {
     "title": "Shirky.com is gone",
     "url": "https://web.archive.org/web/20060208093032/http://www.shirky.com/writings/powerlaw_weblog.html",
-    "upvotes": 292,
+    "upvotes": 298,
     "author": "lkrubner",
     "comments": 126,
     "link": "https://news.ycombinator.com/item?id=31038660"
