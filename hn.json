@@ -2,39 +2,39 @@
   {
     "title": "When hiring developers, have the candidate read existing code",
     "url": "https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/",
-    "upvotes": 538,
+    "upvotes": 558,
     "author": "ewag",
-    "comments": 335,
+    "comments": 347,
     "link": "https://news.ycombinator.com/item?id=31047409"
-  },
-  {
-    "title": "Heroku Security Notification",
-    "url": "https://status.heroku.com/incidents/2413",
-    "upvotes": 249,
-    "author": "chizhik-pyzhik",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=31048646"
   },
   {
     "title": "I Avoid Async/Await",
     "url": "https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e",
-    "upvotes": 22,
+    "upvotes": 38,
     "author": "kiyanwang",
-    "comments": 7,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=31050650"
+  },
+  {
+    "title": "Heroku Security Notification",
+    "url": "https://status.heroku.com/incidents/2413",
+    "upvotes": 259,
+    "author": "chizhik-pyzhik",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=31048646"
   },
   {
     "title": "A drug that cures alcoholism may be the next anti-anxiety medication",
     "url": "https://www.tus.ac.jp/en/mediarelations/archive/20220414_3208.html",
-    "upvotes": 90,
+    "upvotes": 96,
     "author": "rustoo",
-    "comments": 48,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=31049242"
   },
   {
     "title": "Moreutils: A collection of Unix tools that nobody thought to write long ago",
     "url": "https://joeyh.name/code/moreutils/",
-    "upvotes": 509,
+    "upvotes": 517,
     "author": "escot",
     "comments": 218,
     "link": "https://news.ycombinator.com/item?id=31043655"
@@ -42,15 +42,15 @@
   {
     "title": "My take on Elon's offer for Twitter",
     "url": "https://twitter.com/yishan/status/1514938507407421440",
-    "upvotes": 433,
+    "upvotes": 451,
     "author": "slg",
-    "comments": 382,
+    "comments": 395,
     "link": "https://news.ycombinator.com/item?id=31044693"
   },
   {
     "title": "Attack campaign involving stolen OAuth tokens issued to third-party integrators",
     "url": "https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/",
-    "upvotes": 198,
+    "upvotes": 202,
     "author": "heyoni",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=31046791"
@@ -58,63 +58,71 @@
   {
     "title": "Ten members of international stock manipulation ring charged in Manhattan",
     "url": "https://www.justice.gov/usao-sdny/pr/ten-members-international-stock-manipulation-ring-charged-manhattan-federal-court",
-    "upvotes": 260,
+    "upvotes": 261,
     "author": "mzs",
-    "comments": 134,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=31044629"
   },
   {
     "title": "Re-implementing an old DOS game in C++ 17",
     "url": "https://lethalguitar.wordpress.com/2019/05/28/re-implementing-an-old-dos-game-in-c-17/",
-    "upvotes": 146,
+    "upvotes": 152,
     "author": "mariuz",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=31046598"
-  },
-  {
-    "title": "Intel deprecates SGX on Core series processors",
-    "url": "https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/12th-generation-intel-core-processors-datasheet-volume-1-of-2/004/deprecated-technologies/",
-    "upvotes": 99,
-    "author": "thinkmassive",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=31047888"
-  },
-  {
-    "title": "Replacement power supply for the Toshiba T1200 laptop computer",
-    "url": "https://github.com/BasicCode/Toshiba-T1200-PSU",
-    "upvotes": 36,
-    "author": "elvis70",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=31025865"
   },
   {
     "title": "Anatomy of the Presidential Motorcade",
     "url": "https://www.thedrive.com/the-war-zone/4518/the-fascinating-anatomy-of-the-presidential-motorcade",
-    "upvotes": 7,
+    "upvotes": 12,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31037417"
   },
   {
-    "title": "Twitter board adopts poison pill after Musk’s $43B bid to buy company",
-    "url": "https://www.cnbc.com/2022/04/15/twitter-board-adopts-poison-pill-after-musks-43-billion-offer-to-buy-company.html",
-    "upvotes": 574,
-    "author": "grogu88",
-    "comments": 875,
-    "link": "https://news.ycombinator.com/item?id=31043439"
+    "title": "Intel deprecates SGX on Core series processors",
+    "url": "https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/12th-generation-intel-core-processors-datasheet-volume-1-of-2/004/deprecated-technologies/",
+    "upvotes": 102,
+    "author": "thinkmassive",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=31047888"
+  },
+  {
+    "title": "Replacement power supply for the Toshiba T1200 laptop computer",
+    "url": "https://github.com/BasicCode/Toshiba-T1200-PSU",
+    "upvotes": 39,
+    "author": "elvis70",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31025865"
+  },
+  {
+    "title": "Bits of History, Words of Advice",
+    "url": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html",
+    "upvotes": 4,
+    "author": "bokchoi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31045174"
   },
   {
     "title": "Tax the Land",
     "url": "https://www.vox.com/policy-and-politics/22951092/land-tax-housing-crisis",
-    "upvotes": 163,
+    "upvotes": 172,
     "author": "iNic",
-    "comments": 378,
+    "comments": 383,
     "link": "https://news.ycombinator.com/item?id=31039451"
+  },
+  {
+    "title": "Twitter board adopts poison pill after Musk’s $43B bid to buy company",
+    "url": "https://www.cnbc.com/2022/04/15/twitter-board-adopts-poison-pill-after-musks-43-billion-offer-to-buy-company.html",
+    "upvotes": 580,
+    "author": "grogu88",
+    "comments": 885,
+    "link": "https://news.ycombinator.com/item?id=31043439"
   },
   {
     "title": "One-line drawings",
     "url": "https://schollz.com/blog/one-line/",
-    "upvotes": 76,
+    "upvotes": 81,
     "author": "qrv3w",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31040588"
@@ -122,33 +130,33 @@
   {
     "title": "Shirky.com is gone",
     "url": "https://web.archive.org/web/20060208093032/http://www.shirky.com/writings/powerlaw_weblog.html",
-    "upvotes": 270,
+    "upvotes": 272,
     "author": "lkrubner",
     "comments": 113,
     "link": "https://news.ycombinator.com/item?id=31038660"
   },
   {
-    "title": "The Nostalgia Pendulum: A rolling 30-year cycle of pop culture trends",
-    "url": "https://thepatterning.com/2017/02/13/the-nostalgia-pendulum-a-rolling-30-year-cycle-of-pop-culture-trends/",
-    "upvotes": 27,
-    "author": "richardanaya",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=31037095"
-  },
-  {
     "title": "Continuous Looper",
     "url": "https://beijaflor.io/blog/04-2022/rust-audio-experiments-5/",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "lukastyrychtr",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31039176"
   },
   {
+    "title": "The Nostalgia Pendulum: A rolling 30-year cycle of pop culture trends",
+    "url": "https://thepatterning.com/2017/02/13/the-nostalgia-pendulum-a-rolling-30-year-cycle-of-pop-culture-trends/",
+    "upvotes": 28,
+    "author": "richardanaya",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=31037095"
+  },
+  {
     "title": "DuckDuckGo Removes Pirate Sites and YouTube-DL from Its Search Results",
     "url": "https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/",
-    "upvotes": 715,
+    "upvotes": 730,
     "author": "TangerineDream",
-    "comments": 360,
+    "comments": 365,
     "link": "https://news.ycombinator.com/item?id=31044587"
   },
   {
@@ -162,7 +170,7 @@
   {
     "title": "Show HN: A small Hypercard stack running as a PWA",
     "url": "https://hypercardsimulator.com/Account/Coffee",
-    "upvotes": 84,
+    "upvotes": 87,
     "author": "hyperhello",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=31041205"
@@ -170,15 +178,15 @@
   {
     "title": "The History of Franz and Lisp",
     "url": "https://ieeexplore.ieee.org/document/9740557",
-    "upvotes": 78,
+    "upvotes": 79,
     "author": "lisper",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31044510"
   },
   {
     "title": "Two-qubit silicon quantum processor with operation fidelity exceeding 99%",
     "url": "https://www.science.org/doi/10.1126/sciadv.abn5130",
-    "upvotes": 100,
+    "upvotes": 103,
     "author": "sizzle",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=31044211"
@@ -186,7 +194,7 @@
   {
     "title": "How to draw sub cutaways in MS Paint",
     "url": "http://www.hisutton.com/How%20to%20draw%20sub%20cutaways%20in%20MS%20Paint.html",
-    "upvotes": 136,
+    "upvotes": 137,
     "author": "mNovak",
     "comments": 49,
     "link": "https://news.ycombinator.com/item?id=31043766"
@@ -202,15 +210,23 @@
   {
     "title": "We lost 54k GitHub stars",
     "url": "https://httpie.io/blog/stardust",
-    "upvotes": 1797,
+    "upvotes": 1801,
     "author": "todsacerdoti",
     "comments": 639,
     "link": "https://news.ycombinator.com/item?id=31033758"
   },
   {
+    "title": "Mac App Store Ransomware",
+    "url": "https://mjtsai.com/blog/2022/04/15/mac-app-store-ransomware/",
+    "upvotes": 51,
+    "author": "bangonkeyboard",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=31046415"
+  },
+  {
     "title": "Elon Musk makes $43B unsolicited bid to take Twitter private",
     "url": "https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter",
-    "upvotes": 2712,
+    "upvotes": 2713,
     "author": "zegl",
     "comments": 3024,
     "link": "https://news.ycombinator.com/item?id=31025061"
@@ -218,25 +234,9 @@
   {
     "title": "Overengineered Japanese Mechanical Pencils [video]",
     "url": "https://www.youtube.com/watch?v=PESa3Du3udY",
-    "upvotes": 302,
+    "upvotes": 306,
     "author": "jkellermann",
-    "comments": 81,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=31024600"
-  },
-  {
-    "title": "Mac App Store Ransomware",
-    "url": "https://mjtsai.com/blog/2022/04/15/mac-app-store-ransomware/",
-    "upvotes": 46,
-    "author": "bangonkeyboard",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31046415"
-  },
-  {
-    "title": "XHTTP: An HTTP server library in a single C file",
-    "url": "https://github.com/cozis/xHTTP",
-    "upvotes": 38,
-    "author": "cozis",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=31047082"
   }
 ]
