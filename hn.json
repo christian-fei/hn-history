@@ -2,23 +2,23 @@
   {
     "title": "Framework Laptop Mainboard",
     "url": "https://github.com/FrameworkComputer/Mainboard",
-    "upvotes": 205,
+    "upvotes": 255,
     "author": "hecanjog",
-    "comments": 54,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=31089677"
   },
   {
     "title": "De-AMP: Cutting out Google and enhancing privacy",
     "url": "https://brave.com/privacy-updates/18-de-amp/",
-    "upvotes": 551,
+    "upvotes": 573,
     "author": "w0ts0n",
-    "comments": 243,
+    "comments": 247,
     "link": "https://news.ycombinator.com/item?id=31085051"
   },
   {
     "title": "Mapr: Native cross platform maps in Rust using WebGPU",
     "url": "https://github.com/maplibre/maplibre-rs",
-    "upvotes": 88,
+    "upvotes": 103,
     "author": "adamnemecek",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=31086087"
@@ -26,57 +26,65 @@
   {
     "title": "Testing consistency of rqlite",
     "url": "https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md",
-    "upvotes": 54,
+    "upvotes": 63,
     "author": "otoolep",
-    "comments": 12,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=31089363"
-  },
-  {
-    "title": "Leaked Game Boy emulators for Switch were made by Nintendo, experts suggest",
-    "url": "https://arstechnica.com/gaming/2022/04/leaked-game-boy-emulators-for-switch-were-made-by-nintendo-experts-suggest/",
-    "upvotes": 119,
-    "author": "takiwatanga",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=31087262"
-  },
-  {
-    "title": "Show HN: Make your PDF look scanned in browser",
-    "url": "https://lookscanned.io",
-    "upvotes": 415,
-    "author": "seedgou",
-    "comments": 144,
-    "link": "https://news.ycombinator.com/item?id=31083432"
   },
   {
     "title": "The absurd complexity of server-side rendering",
     "url": "https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984",
-    "upvotes": 81,
+    "upvotes": 107,
     "author": "takiwatanga",
-    "comments": 65,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=31087795"
+  },
+  {
+    "title": "Show HN: Make your PDF look scanned in browser",
+    "url": "https://lookscanned.io",
+    "upvotes": 428,
+    "author": "seedgou",
+    "comments": 149,
+    "link": "https://news.ycombinator.com/item?id=31083432"
+  },
+  {
+    "title": "Leaked Game Boy emulators for Switch were made by Nintendo, experts suggest",
+    "url": "https://arstechnica.com/gaming/2022/04/leaked-game-boy-emulators-for-switch-were-made-by-nintendo-experts-suggest/",
+    "upvotes": 124,
+    "author": "takiwatanga",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=31087262"
   },
   {
     "title": "Can you be sure to clear a line at Tetris?",
     "url": "https://a3nm.net/blog/adversarial_tetris.html",
-    "upvotes": 83,
+    "upvotes": 89,
     "author": "a3_nm",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31087923"
   },
   {
     "title": "WebAssembly 2.0 First Working Draft",
     "url": "https://www.w3.org/TR/wasm-core-2/",
-    "upvotes": 135,
+    "upvotes": 153,
     "author": "syrusakbary",
-    "comments": 61,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=31086217"
+  },
+  {
+    "title": "HackerRank",
+    "url": "https://github.com/sympy/sympy_doc",
+    "upvotes": 126,
+    "author": "kilovoltaire",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=31087175"
   },
   {
     "title": "Planting Undetectable Backdoors in Machine Learning Models",
     "url": "https://arxiv.org/abs/2204.06974",
-    "upvotes": 149,
+    "upvotes": 152,
     "author": "belter",
-    "comments": 36,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=31064787"
   },
   {
@@ -84,155 +92,147 @@
     "url": "https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
   },
   {
-    "title": "Minisleep – A Tiny Wiki Engine",
-    "url": "http://halestrom.net/darksleep/software/minisleep/",
-    "upvotes": 62,
-    "author": "merlinscholz",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=31087726"
-  },
-  {
     "title": "Netlify Edge Functions: A new serverless runtime powered by Deno",
     "url": "https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions",
-    "upvotes": 219,
+    "upvotes": 229,
     "author": "csmajorfive",
-    "comments": 110,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=31084301"
   },
   {
     "title": "Bad but interesting mathematical notation idea",
     "url": "https://blog.plover.com/math/se/notation.html",
-    "upvotes": 63,
+    "upvotes": 73,
     "author": "johndcook",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31087533"
   },
   {
-    "title": "HackerRank",
-    "url": "https://github.com/sympy/sympy_doc",
-    "upvotes": 94,
-    "author": "kilovoltaire",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=31087175"
-  },
-  {
-    "title": "Broadcom introduces Wi-Fi 7 chipset solutions",
-    "url": "https://linuxgizmos.com/broadcom-introduces-worlds-first-wi-fi-7-chipset-solutions/",
-    "upvotes": 18,
-    "author": "teleforce",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31060452"
+    "title": "Minisleep – A Tiny Wiki Engine",
+    "url": "http://halestrom.net/darksleep/software/minisleep/",
+    "upvotes": 68,
+    "author": "merlinscholz",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=31087726"
   },
   {
     "title": "How we upgraded our 4TB Postgres database",
     "url": "https://retool.com/blog/how-we-upgraded-postgresql-database/",
-    "upvotes": 261,
+    "upvotes": 273,
     "author": "mrbabbage",
-    "comments": 145,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=31084147"
   },
   {
-    "title": "There’s more to mathematics than rigour and proofs",
-    "url": "https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/",
-    "upvotes": 80,
-    "author": "_ttg",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=31086970"
+    "title": "Broadcom introduces Wi-Fi 7 chipset solutions",
+    "url": "https://linuxgizmos.com/broadcom-introduces-worlds-first-wi-fi-7-chipset-solutions/",
+    "upvotes": 21,
+    "author": "teleforce",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31060452"
   },
   {
     "title": "Show HN: I built a simulator for personal finance",
     "url": "https://projectionlab.com",
-    "upvotes": 159,
+    "upvotes": 175,
     "author": "scubakid",
-    "comments": 69,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=31083093"
   },
   {
     "title": "How DALL-E 2 Works",
     "url": "https://www.assemblyai.com/blog/how-dall-e-2-actually-works/",
-    "upvotes": 185,
+    "upvotes": 191,
     "author": "SleekEagle",
-    "comments": 138,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=31084312"
+  },
+  {
+    "title": "There’s more to mathematics than rigour and proofs",
+    "url": "https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/",
+    "upvotes": 82,
+    "author": "_ttg",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=31086970"
   },
   {
     "title": "Stitch It in Time: GAN-Based Facial Editing of Real Videos",
     "url": "https://stitch-time.github.io/",
-    "upvotes": 44,
+    "upvotes": 50,
     "author": "monort",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=31087606"
+  },
+  {
+    "title": "ANSi Web Browser concept",
+    "url": "https://www.cambus.net/ansi-web-browser-concept/",
+    "upvotes": 8,
+    "author": "marttt",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31067713"
   },
   {
     "title": "Show HN: Emacs Configuration Generator",
     "url": "https://emacs.amodernist.com/",
-    "upvotes": 222,
+    "upvotes": 227,
     "author": "daptaq",
-    "comments": 84,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=31083515"
   },
   {
     "title": "YDB – An open-source Distributed SQL Database",
     "url": "https://ydb.tech",
-    "upvotes": 342,
+    "upvotes": 348,
     "author": "diimdeep",
-    "comments": 282,
+    "comments": 287,
     "link": "https://news.ycombinator.com/item?id=31081272"
   },
   {
     "title": "Google Docs will “warn you away from inappropriate words”?",
     "url": "https://twitter.com/pmarca/status/1516463416885399554",
-    "upvotes": 301,
+    "upvotes": 318,
     "author": "memish",
-    "comments": 568,
+    "comments": 589,
     "link": "https://news.ycombinator.com/item?id=31086310"
+  },
+  {
+    "title": "The x86 architecture is the weirdo",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20040914-00/?p=37873",
+    "upvotes": 90,
+    "author": "signa11",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=31078969"
+  },
+  {
+    "title": "Canada bans foreign home buyers for two years",
+    "url": "https://www.axios.com/canada-foreign-home-buyers-ban-589fdf10-844f-4160-afe0-e8452df92fa8.html",
+    "upvotes": 649,
+    "author": "cwwc",
+    "comments": 854,
+    "link": "https://news.ycombinator.com/item?id=31081417"
   },
   {
     "title": "Clojure and Doom Emacs on a brand new M1 computer",
     "url": "https://www.arthurbrrs.me/clojure-doom-emacs-m1",
-    "upvotes": 81,
+    "upvotes": 82,
     "author": "tosh",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=31064724"
   },
   {
-    "title": "Canada bans foreign home buyers for two years",
-    "url": "https://www.axios.com/canada-foreign-home-buyers-ban-589fdf10-844f-4160-afe0-e8452df92fa8.html",
-    "upvotes": 642,
-    "author": "cwwc",
-    "comments": 843,
-    "link": "https://news.ycombinator.com/item?id=31081417"
+    "title": "Ask HN: How do you keep track of software requirements and test them?",
+    "url": "item?id=31083131",
+    "upvotes": 151,
+    "author": "lovehatesoft",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=31083131"
   },
   {
     "title": "Serially-attached SD for old PalmOS devices",
     "url": "http://dmitry.gr/?r=05.Projects&proj=32.%20SASD",
-    "upvotes": 75,
+    "upvotes": 76,
     "author": "dmitrygr",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=31084804"
-  },
-  {
-    "title": "The x86 architecture is the weirdo",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20040914-00/?p=37873",
-    "upvotes": 84,
-    "author": "signa11",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=31078969"
-  },
-  {
-    "title": "Show HN: Employees.fyi – Easily compare U.S. workforce demographic data",
-    "url": "https://employees.fyi",
-    "upvotes": 78,
-    "author": "employeesfyi",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=31062815"
-  },
-  {
-    "title": "Ask HN: How do you keep track of software requirements and test them?",
-    "url": "item?id=31083131",
-    "upvotes": 145,
-    "author": "lovehatesoft",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=31083131"
   }
 ]
