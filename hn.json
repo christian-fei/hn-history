@@ -1,8 +1,16 @@
 [
   {
+    "title": "DALL·E 2 and The Origin of Vibe Shifts",
+    "url": "https://every.to/divinations/dall-e-2-and-the-origin-of-vibe-shifts",
+    "upvotes": 27,
+    "author": "dshipper",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31130672"
+  },
+  {
     "title": "Magic-trace – High-resolution traces of what a process is doing",
     "url": "https://github.com/janestreet/magic-trace",
-    "upvotes": 691,
+    "upvotes": 697,
     "author": "cgaebel",
     "comments": 126,
     "link": "https://news.ycombinator.com/item?id=31121319"
@@ -10,55 +18,55 @@
   {
     "title": "How SHA-256 Works Step-by-Step",
     "url": "https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/",
-    "upvotes": 72,
+    "upvotes": 76,
     "author": "kyleShropshire",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=31129484"
   },
   {
     "title": "Hacker News Guidelines",
     "url": "https://news.ycombinator.com/newsguidelines.html",
-    "upvotes": 82,
+    "upvotes": 97,
     "author": "tomrod",
-    "comments": 45,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=31128903"
-  },
-  {
-    "title": "DALL·E 2 and The Origin of Vibe Shifts",
-    "url": "https://every.to/divinations/dall-e-2-and-the-origin-of-vibe-shifts",
-    "upvotes": 12,
-    "author": "dshipper",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31130672"
-  },
-  {
-    "title": "Algorithms for Decision Making [pdf]",
-    "url": "https://algorithmsbook.com/files/dm.pdf",
-    "upvotes": 339,
-    "author": "mindcrime",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=31123683"
   },
   {
     "title": "Restoring Vintage Computers",
     "url": "https://www.curiousmarc.com/",
-    "upvotes": 21,
+    "upvotes": 25,
     "author": "defied",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=31107446"
+  },
+  {
+    "title": "Algorithms for Decision Making [pdf]",
+    "url": "https://algorithmsbook.com/files/dm.pdf",
+    "upvotes": 344,
+    "author": "mindcrime",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=31123683"
   },
   {
     "title": "Melting KiCad",
     "url": "https://mitxela.com/projects/melting_kicad",
-    "upvotes": 198,
+    "upvotes": 205,
     "author": "donquichotte",
-    "comments": 54,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=31108652"
+  },
+  {
+    "title": "Casync – A Content-Addressable Data Synchronization Tool",
+    "url": "https://github.com/systemd/casync",
+    "upvotes": 8,
+    "author": "mmmmkay",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31130975"
   },
   {
     "title": "What's new in CPUs since the 80s?",
     "url": "https://danluu.com/new-cpu-features/",
-    "upvotes": 183,
+    "upvotes": 185,
     "author": "snvzz",
     "comments": 83,
     "link": "https://news.ycombinator.com/item?id=31093430"
@@ -66,17 +74,17 @@
   {
     "title": "JavaScript Garbage Collection with WebAssembly Is Possible Today",
     "url": "https://jott.live/markdown/js_gc_in_wasm",
-    "upvotes": 51,
+    "upvotes": 55,
     "author": "PainfullyNormal",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=31107591"
   },
   {
     "title": "It is physically impossible to exceed the weight limit for a small flat-rate box",
     "url": "https://twitter.com/PaulMSherman/status/1516936733769801734",
-    "upvotes": 220,
+    "upvotes": 225,
     "author": "MVorlm",
-    "comments": 138,
+    "comments": 145,
     "link": "https://news.ycombinator.com/item?id=31116024"
   },
   {
@@ -84,13 +92,13 @@
     "url": "https://blog.ergaster.org/post/20220422-decentralised-local-first-applications/",
     "upvotes": 17,
     "author": "pabs3",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=31130511"
   },
   {
     "title": "How to Build a Homelab",
     "url": "https://haydenjames.io/home-lab-beginners-guide-hardware/",
-    "upvotes": 146,
+    "upvotes": 148,
     "author": "ashitlerferad",
     "comments": 131,
     "link": "https://news.ycombinator.com/item?id=31094301"
@@ -98,33 +106,41 @@
   {
     "title": "Show HN: Prevent your computer sleeping with just a webpage",
     "url": "https://nosleep.page/",
-    "upvotes": 182,
+    "upvotes": 184,
     "author": "bradleyjkemp",
-    "comments": 97,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=31123522"
+  },
+  {
+    "title": "Build a Spring Reverb",
+    "url": "https://web.archive.org/web/20180304003126/https://tapeop.com/interviews/119/build-your-own-spring-reverb/",
+    "upvotes": 7,
+    "author": "brudgers",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31104959"
   },
   {
     "title": "Letter from the Carnation Company",
     "url": "https://www.pleacher.com/mp/mlessons/calculus/carnat.html",
     "upvotes": 171,
     "author": "zdw",
-    "comments": 45,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=31122542"
   },
   {
     "title": "Google’s AI-powered ‘inclusive warnings’ feature is very broken",
     "url": "https://www.vice.com/en/article/v7dk8m/googles-ai-powered-inclusive-warnings-feature-is-very-broken",
-    "upvotes": 503,
+    "upvotes": 507,
     "author": "signor_bosco",
-    "comments": 839,
+    "comments": 846,
     "link": "https://news.ycombinator.com/item?id=31123323"
   },
   {
     "title": "Lazarus – Professional Free Pascal Rad IDE",
     "url": "https://www.lazarus-ide.org/",
-    "upvotes": 15,
+    "upvotes": 16,
     "author": "pabs3",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=31130067"
   },
   {
@@ -136,69 +152,53 @@
     "link": "https://news.ycombinator.com/item?id=31102991"
   },
   {
-    "title": "The Front-End Developer's Guide to the Terminal",
-    "url": "https://www.joshwcomeau.com/javascript/terminal-for-js-devs/",
-    "upvotes": 24,
-    "author": "PainfullyNormal",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=31107606"
-  },
-  {
     "title": "Smarking",
     "url": "https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76"
   },
   {
-    "title": "Casync – A Content-Addressable Data Synchronization Tool",
-    "url": "https://github.com/systemd/casync",
-    "upvotes": 4,
-    "author": "mmmmkay",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31130975"
-  },
-  {
     "title": "Got food cravings? What’s living in your gut may be responsible",
     "url": "https://www.pitt.edu/pittwire/features-articles/food-cravings-pitt-study",
-    "upvotes": 178,
+    "upvotes": 181,
     "author": "gmays",
-    "comments": 97,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=31123374"
   },
   {
-    "title": "Build a Spring Reverb",
-    "url": "https://web.archive.org/web/20180304003126/https://tapeop.com/interviews/119/build-your-own-spring-reverb/",
-    "upvotes": 4,
-    "author": "brudgers",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31104959"
+    "title": "The Front-End Developer's Guide to the Terminal",
+    "url": "https://www.joshwcomeau.com/javascript/terminal-for-js-devs/",
+    "upvotes": 26,
+    "author": "PainfullyNormal",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=31107606"
   },
   {
     "title": "An overview of version control in programming",
     "url": "https://lemire.me/blog/2022/04/21/an-overview-of-version-control-in-programming/",
-    "upvotes": 65,
+    "upvotes": 67,
     "author": "ashvardanian",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=31113011"
   },
   {
+    "title": "Ask HN: Best way to learn about computing history?",
+    "url": "item?id=31095360",
+    "upvotes": 181,
+    "author": "Tmkly",
+    "comments": 137,
+    "link": "https://news.ycombinator.com/item?id=31095360"
+  },
+  {
     "title": "Snapchat’s product is booming",
     "url": "https://bigtechnology.substack.com/p/why-snapchats-product-is-booming",
-    "upvotes": 137,
+    "upvotes": 139,
     "author": "kantrowitz",
     "comments": 133,
     "link": "https://news.ycombinator.com/item?id=31121811"
   },
   {
-    "title": "Ask HN: Best way to learn about computing history?",
-    "url": "item?id=31095360",
-    "upvotes": 176,
-    "author": "Tmkly",
-    "comments": 135,
-    "link": "https://news.ycombinator.com/item?id=31095360"
-  },
-  {
     "title": "Thinner on Paper",
     "url": "https://thelampmagazine.com/2022/04/21/thinner-on-paper/",
-    "upvotes": 38,
+    "upvotes": 39,
     "author": "nopg",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31128011"
@@ -206,10 +206,18 @@
   {
     "title": "Ribbit Scheme bootstraps with Posix shell while supporting TCO, call/cc and GC",
     "url": "https://github.com/udem-dlteam/ribbit/commit/14077d111425c8472dd5a0e865462dea70a8d206",
-    "upvotes": 52,
+    "upvotes": 55,
     "author": "feeley",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31096771"
+  },
+  {
+    "title": "Interfaces for Ambient Computing",
+    "url": "https://ai.googleblog.com/2022/04/hidden-interfaces-for-ambient-computing.html",
+    "upvotes": 11,
+    "author": "RafelMri",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31130272"
   },
   {
     "title": "The Weird and Wonderful World of AI Art",
@@ -222,17 +230,9 @@
   {
     "title": "SketchUp for iPad: 3D Visualization on iPad",
     "url": "https://www.sketchup.com/products/sketchup-for-ipad",
-    "upvotes": 80,
+    "upvotes": 81,
     "author": "Tomte",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=31106536"
-  },
-  {
-    "title": "Ask HN: Are there any rural tech communities?",
-    "url": "item?id=31126749",
-    "upvotes": 123,
-    "author": "dkarp",
-    "comments": 227,
-    "link": "https://news.ycombinator.com/item?id=31126749"
   }
 ]
