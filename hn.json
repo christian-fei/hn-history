@@ -1,50 +1,66 @@
 [
   {
+    "title": "Redox OS 0.7.0",
+    "url": "https://www.redox-os.org/news/release-0.7.0/",
+    "upvotes": 73,
+    "author": "jackpot51",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=31200377"
+  },
+  {
     "title": "Bits of Advice I Wish I Had Known",
     "url": "https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/",
-    "upvotes": 122,
+    "upvotes": 214,
     "author": "npalli",
-    "comments": 57,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=31199300"
   },
   {
     "title": "OpenRA: Open-source RTS game engine for games such as Command and Conquer",
     "url": "https://github.com/OpenRA/OpenRA",
-    "upvotes": 205,
+    "upvotes": 223,
     "author": "trymas",
-    "comments": 52,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=31197091"
   },
   {
     "title": "Snap launches its first drone",
     "url": "https://pixy.com/",
-    "upvotes": 414,
+    "upvotes": 428,
     "author": "ovenchips",
-    "comments": 324,
+    "comments": 340,
     "link": "https://news.ycombinator.com/item?id=31194962"
   },
   {
     "title": "Details emerge of Air France B777 landing incident",
     "url": "https://www.aerotime.aero/articles/30863-air-france-boeing-777-incident-bea-update",
-    "upvotes": 77,
+    "upvotes": 90,
     "author": "jtc331",
-    "comments": 48,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=31198442"
   },
   {
     "title": "2022 Mac Studio",
     "url": "http://hrtapps.com/blogs/20220427/",
-    "upvotes": 181,
+    "upvotes": 196,
     "author": "selimnairb",
-    "comments": 111,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=31195914"
+  },
+  {
+    "title": "Airbnb’s design to live and work anywhere",
+    "url": "https://news.airbnb.com/airbnbs-design-to-live-and-work-anywhere/",
+    "upvotes": 6,
+    "author": "mji",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31200650"
   },
   {
     "title": "Overgrowth: Open-Source Announcement",
     "url": "http://blog.wolfire.com/2022/04/Overgrowth-Open-Source-Announcement",
-    "upvotes": 103,
+    "upvotes": 116,
     "author": "kjeetgill",
-    "comments": 21,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=31164287"
   },
   {
@@ -52,187 +68,171 @@
     "url": "https://deepsource.io/jobs/listing/senior-site-reliability-engineer/4289150004/"
   },
   {
-    "title": "New links found between musical training and cognitive ability",
-    "url": "https://neurosciencenews.com/musical-training-cognition-20467/",
-    "upvotes": 256,
-    "author": "prostoalex",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=31193455"
+    "title": "The Twelve-Factor App",
+    "url": "https://12factor.net/",
+    "upvotes": 49,
+    "author": "tosh",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=31198956"
   },
   {
-    "title": "Compostable fungi-based replacement for styrofoam",
-    "url": "https://www.soma.eco/our-materials",
-    "upvotes": 141,
-    "author": "gruuya",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=31165988"
+    "title": "New links found between musical training and cognitive ability",
+    "url": "https://neurosciencenews.com/musical-training-cognition-20467/",
+    "upvotes": 268,
+    "author": "prostoalex",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=31193455"
   },
   {
     "title": "E Ink Gallery 3",
     "url": "https://www.eink.com/news.html?type=releasedetail&id=2645&year=2022&page=1",
-    "upvotes": 314,
+    "upvotes": 319,
     "author": "retSava",
-    "comments": 274,
+    "comments": 278,
     "link": "https://news.ycombinator.com/item?id=31191850"
-  },
-  {
-    "title": "The Twelve-Factor App",
-    "url": "https://12factor.net/",
-    "upvotes": 31,
-    "author": "tosh",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=31198956"
-  },
-  {
-    "title": "Core dumps, feedback loops, and a game of telephone",
-    "url": "https://dubroy.com/blog/core-dumps-feedback-loops-and-a-game-of-telephone/",
-    "upvotes": 36,
-    "author": "pdubroy",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=31196271"
-  },
-  {
-    "title": "Ask HN: Do you find it challenging to talk to your users?",
-    "url": "item?id=31178577",
-    "upvotes": 67,
-    "author": "atomiomi",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=31178577"
-  },
-  {
-    "title": "Gnome patent troll stripped of patent rights",
-    "url": "https://blog.opensource.org/gnome-patent-troll-stripped-of-patent-rights/",
-    "upvotes": 470,
-    "author": "reedciccio",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=31197044"
-  },
-  {
-    "title": "Actor system for the JVM developed by Electronic Arts",
-    "url": "https://www.orbit.cloud/orbit/",
-    "upvotes": 198,
-    "author": "dmux",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=31192795"
-  },
-  {
-    "title": "Show HN: Searchable offline archive of browser history",
-    "url": "https://github.com/crisdosyago/Diskernet",
-    "upvotes": 11,
-    "author": "graderjs",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31165688"
-  },
-  {
-    "title": "I built an open-source, AI-powered solar panel that's 95% optimal",
-    "url": "https://www.jackogrady.me/reinforcement-learning-solar/research-summary",
-    "upvotes": 38,
-    "author": "rl_for_energy",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=31197170"
-  },
-  {
-    "title": "Distilling the Real Cost of Production Garbage Collectors [pdf]",
-    "url": "https://users.cecs.anu.edu.au/~steveb/pubs/papers/lbo-ispass-2022.pdf",
-    "upvotes": 82,
-    "author": "mjb",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=31192261"
-  },
-  {
-    "title": "Hide a photo inside another photo",
-    "url": "https://www.avestura.dev/blog/hide-a-photo-inside-another-photo",
-    "upvotes": 47,
-    "author": "avestura",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=31197897"
-  },
-  {
-    "title": "Show HN: Free 30-year financial statements visualization",
-    "url": "https://www.fintopea.com",
-    "upvotes": 200,
-    "author": "raymondmoay",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=31192956"
-  },
-  {
-    "title": "Hacking attractiveness biases in hiring? The role of beautifying photo-filters",
-    "url": "https://www.emerald.com/insight/content/doi/10.1108/MD-06-2021-0747/full/html",
-    "upvotes": 57,
-    "author": "temp8964",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=31197505"
-  },
-  {
-    "title": "What is a molten salt reactor?",
-    "url": "https://www.thmsr.com/en/overview/",
-    "upvotes": 82,
-    "author": "matt_the_bass",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=31187423"
   },
   {
     "title": "“A Sword Was Seen in the Sky”: A True and Wonderful Narrative",
     "url": "https://publicdomainreview.org/collection/a-true-and-wonderful-narrative/",
-    "upvotes": 5,
+    "upvotes": 14,
     "author": "benbreen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31182479"
   },
   {
-    "title": "A Driver on the GPU",
-    "url": "https://www.basnieuwenhuizen.nl/a-driver-on-the-gpu/",
-    "upvotes": 63,
-    "author": "sph",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=31177508"
+    "title": "Compostable fungi-based replacement for styrofoam",
+    "url": "https://www.soma.eco/our-materials",
+    "upvotes": 145,
+    "author": "gruuya",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=31165988"
+  },
+  {
+    "title": "Core dumps, feedback loops, and a game of telephone",
+    "url": "https://dubroy.com/blog/core-dumps-feedback-loops-and-a-game-of-telephone/",
+    "upvotes": 45,
+    "author": "pdubroy",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31196271"
+  },
+  {
+    "title": "Increasing the surface area of blogging",
+    "url": "https://tomcritchlow.com/2022/04/21/new-rss/",
+    "upvotes": 7,
+    "author": "edavis",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31186346"
+  },
+  {
+    "title": "Hacking attractiveness biases in hiring? The role of beautifying photo-filters",
+    "url": "https://www.emerald.com/insight/content/doi/10.1108/MD-06-2021-0747/full/html",
+    "upvotes": 71,
+    "author": "temp8964",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=31197505"
+  },
+  {
+    "title": "Ask HN: Do you find it challenging to talk to your users?",
+    "url": "item?id=31178577",
+    "upvotes": 77,
+    "author": "atomiomi",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=31178577"
+  },
+  {
+    "title": "I built an open-source, AI-powered solar panel that's 95% optimal",
+    "url": "https://www.jackogrady.me/reinforcement-learning-solar/research-summary",
+    "upvotes": 48,
+    "author": "rl_for_energy",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=31197170"
+  },
+  {
+    "title": "Actor system for the JVM developed by Electronic Arts",
+    "url": "https://www.orbit.cloud/orbit/",
+    "upvotes": 204,
+    "author": "dmux",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=31192795"
+  },
+  {
+    "title": "Gnome patent troll stripped of patent rights",
+    "url": "https://blog.opensource.org/gnome-patent-troll-stripped-of-patent-rights/",
+    "upvotes": 484,
+    "author": "reedciccio",
+    "comments": 145,
+    "link": "https://news.ycombinator.com/item?id=31197044"
+  },
+  {
+    "title": "Show HN: Free 30-year financial statements visualization",
+    "url": "https://www.fintopea.com",
+    "upvotes": 204,
+    "author": "raymondmoay",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=31192956"
+  },
+  {
+    "title": "Distilling the Real Cost of Production Garbage Collectors [pdf]",
+    "url": "https://users.cecs.anu.edu.au/~steveb/pubs/papers/lbo-ispass-2022.pdf",
+    "upvotes": 83,
+    "author": "mjb",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=31192261"
+  },
+  {
+    "title": "What is a molten salt reactor?",
+    "url": "https://www.thmsr.com/en/overview/",
+    "upvotes": 87,
+    "author": "matt_the_bass",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=31187423"
   },
   {
     "title": "Adversarial Pair Programming",
     "url": "https://stakedy.com/long/adversarial-pair-programming.html",
-    "upvotes": 6,
+    "upvotes": 14,
     "author": "toricalea",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=31187977"
   },
   {
-    "title": "What Is the Fediverse?",
-    "url": "https://framatube.org/videos/watch/4294a720-f263-4ea4-9392-cf9cea4d5277",
-    "upvotes": 153,
-    "author": "booteille",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=31192737"
+    "title": "Hide a photo inside another photo",
+    "url": "https://www.avestura.dev/blog/hide-a-photo-inside-another-photo",
+    "upvotes": 49,
+    "author": "avestura",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=31197897"
   },
   {
     "title": "Strategies and patterns of gray hat social media automation",
     "url": "https://www.trickster.dev/post/strategies-and-patterns-of-gray-hat-social-media-automation/",
-    "upvotes": 15,
+    "upvotes": 23,
     "author": "rl1987",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31165523"
   },
   {
+    "title": "A Driver on the GPU",
+    "url": "https://www.basnieuwenhuizen.nl/a-driver-on-the-gpu/",
+    "upvotes": 64,
+    "author": "sph",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=31177508"
+  },
+  {
+    "title": "What Is the Fediverse?",
+    "url": "https://framatube.org/videos/watch/4294a720-f263-4ea4-9392-cf9cea4d5277",
+    "upvotes": 155,
+    "author": "booteille",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=31192737"
+  },
+  {
     "title": "Balloon detects first signs of a ‘sound tunnel’ in the sky",
     "url": "https://www.science.org/content/article/balloon-detects-first-signs-sound-tunnel-sky",
-    "upvotes": 146,
+    "upvotes": 149,
     "author": "amichail",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=31192307"
-  },
-  {
-    "title": "Letter from a Young Distributist: Georgism and Distributism",
-    "url": "https://progressandpoverty.substack.com/p/letter-from-a-young-distributist",
-    "upvotes": 72,
-    "author": "brightly-salty",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=31191328"
-  },
-  {
-    "title": "Tell HN: By default, New Relic will start collecting production log data on 5/3",
-    "url": "item?id=31195476",
-    "upvotes": 188,
-    "author": "ed",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=31195476"
   }
 ]
