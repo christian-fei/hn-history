@@ -1,104 +1,120 @@
 [
   {
-    "title": "The Five Secrets for Getting Hired After Fifty",
-    "url": "https://www.aarp.org/work/job-search/getting-hired-after-50/",
-    "upvotes": 42,
-    "author": "legrande",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=31217439"
-  },
-  {
     "title": "Experience Report: 6 months of Go",
     "url": "https://typesanitizer.com/blog/go-experience-report.html",
-    "upvotes": 78,
+    "upvotes": 103,
     "author": "eatonphil",
-    "comments": 50,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=31217032"
+  },
+  {
+    "title": "I've Used All the Notebooks",
+    "url": "https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/",
+    "upvotes": 15,
+    "author": "thcipriani",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31218232"
   },
   {
     "title": "Did the W-boson just “break the standard model”?",
     "url": "http://backreaction.blogspot.com/2022/04/did-w-boson-just-break-standard-model.html",
-    "upvotes": 167,
+    "upvotes": 171,
     "author": "IdealeZahlen",
-    "comments": 140,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=31215891"
+  },
+  {
+    "title": "The Five Secrets for Getting Hired After Fifty",
+    "url": "https://www.aarp.org/work/job-search/getting-hired-after-50/",
+    "upvotes": 58,
+    "author": "legrande",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=31217439"
   },
   {
     "title": "Run Python in Your HTML via Pyodide",
     "url": "https://pyscript.net/",
-    "upvotes": 47,
+    "upvotes": 59,
     "author": "gripfx",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31217337"
   },
   {
     "title": "Holy Duck! Fast Analysis with DuckDB and Pyarrow",
     "url": "https://tech.gerardbentley.com/python/data/intermediate/2022/04/26/holy-duck.html",
-    "upvotes": 18,
+    "upvotes": 26,
     "author": "amrrs",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=31217782"
   },
   {
     "title": "Doctree",
     "url": "https://github.com/sourcegraph/doctree",
-    "upvotes": 43,
+    "upvotes": 49,
     "author": "tosh",
-    "comments": 16,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31203384"
   },
   {
-    "title": "ZX Spectrum: Q&A with some of the folks who worked on legendary PC",
-    "url": "https://www.theregister.com/2022/04/30/zx_at_40/",
-    "upvotes": 67,
-    "author": "sohkamyung",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=31215843"
+    "title": "What Was Wrong with SML?",
+    "url": "https://blog.plover.com/prog/haskell/sml-defects.html",
+    "upvotes": 11,
+    "author": "rdpintqogeogsaa",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31217920"
   },
   {
     "title": "Achieving 5M persistent connections with Project Loom virtual threads",
     "url": "https://github.com/ebarlas/project-loom-c5m",
-    "upvotes": 242,
+    "upvotes": 246,
     "author": "genzer",
-    "comments": 106,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=31214253"
   },
   {
     "title": "How do you power a rocket engine?",
     "url": "https://everydayastronaut.com/rocket-engine-cycles/",
-    "upvotes": 127,
+    "upvotes": 133,
     "author": "Jarlakxen",
-    "comments": 42,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=31215149"
-  },
-  {
-    "title": "Watch Venus and Jupiter as they converge for this weekend’s great conjunction",
-    "url": "https://astronomynow.com/2022/04/27/watch-venus-and-jupiter-as-they-converge-for-this-weekends-great-conjunction/",
-    "upvotes": 28,
-    "author": "Kaibeezy",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=31215141"
   },
   {
     "title": "Formula E Gen3: The world’s most efficient race car",
     "url": "https://www.engadget.com/formula-e-gen-e-electric-race-car-164542680.html",
-    "upvotes": 20,
+    "upvotes": 24,
     "author": "RickJWagner",
-    "comments": 2,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=31203994"
+  },
+  {
+    "title": "ZX Spectrum: Q&A with some of the folks who worked on legendary PC",
+    "url": "https://www.theregister.com/2022/04/30/zx_at_40/",
+    "upvotes": 68,
+    "author": "sohkamyung",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=31215843"
+  },
+  {
+    "title": "Watch Venus and Jupiter as they converge for this weekend’s great conjunction",
+    "url": "https://astronomynow.com/2022/04/27/watch-venus-and-jupiter-as-they-converge-for-this-weekends-great-conjunction/",
+    "upvotes": 30,
+    "author": "Kaibeezy",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31215141"
   },
   {
     "title": "How to Corrupt an SQLite Database File",
     "url": "https://sqlite.org/howtocorrupt.html",
-    "upvotes": 188,
+    "upvotes": 191,
     "author": "segfaultbuserr",
-    "comments": 98,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=31214131"
   },
   {
     "title": "GitBOM: Enabling Universal Artifact Traceability in Software Supply Chains",
     "url": "https://gitbom.dev/resources/whitepaper/",
-    "upvotes": 5,
+    "upvotes": 6,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31217977"
@@ -106,15 +122,23 @@
   {
     "title": "Privacy Friendly Apps – improved privacy protection on the smartphone",
     "url": "https://secuso.aifb.kit.edu/english/105.php",
-    "upvotes": 90,
+    "upvotes": 93,
     "author": "manveru",
-    "comments": 35,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=31215123"
+  },
+  {
+    "title": "Majority of mathematicians hail from just 24 scientific ‘families’",
+    "url": "https://www.nature.com/articles/nature.2016.20491",
+    "upvotes": 6,
+    "author": "bryanrasmussen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31189899"
   },
   {
     "title": "Best practices for optimizing Lambda functions",
     "url": "https://cloudash.dev/blog/best-practices-for-optimizing-lambda-functions",
-    "upvotes": 91,
+    "upvotes": 97,
     "author": "makaimc",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=31215328"
@@ -122,7 +146,7 @@
   {
     "title": "Tobii Pro Glasses 3",
     "url": "https://www.tobiipro.com/product-listing/tobii-pro-glasses-3/",
-    "upvotes": 74,
+    "upvotes": 75,
     "author": "punnerud",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=31215247"
@@ -130,109 +154,85 @@
   {
     "title": "A Rust match made in hell",
     "url": "https://fasterthanli.me/articles/a-rust-match-made-in-hell",
-    "upvotes": 44,
+    "upvotes": 52,
     "author": "mooreds",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=31216080"
-  },
-  {
-    "title": "Epic is asking a court to stop Google from yanking Bandcamp off the Play Store",
-    "url": "https://www.theverge.com/2022/4/29/23048059/epic-games-google-bandcamp-play-store",
-    "upvotes": 69,
-    "author": "grmnygrmny2",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=31216670"
-  },
-  {
-    "title": "The Economics of Seinfeld",
-    "url": "http://yadayadayadaecon.com/",
-    "upvotes": 54,
-    "author": "herbertl",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=31213969"
   },
   {
     "title": "OneSignal",
     "url": "https://onesignal.com/careers"
   },
   {
+    "title": "The Economics of Seinfeld",
+    "url": "http://yadayadayadaecon.com/",
+    "upvotes": 58,
+    "author": "herbertl",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=31213969"
+  },
+  {
     "title": "Zaplib post-mortem",
     "url": "https://zaplib.com/docs/blog_post_mortem.html",
-    "upvotes": 98,
+    "upvotes": 99,
     "author": "azalemeth",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31214521"
   },
   {
-    "title": "What Was Wrong with SML?",
-    "url": "https://blog.plover.com/prog/haskell/sml-defects.html",
-    "upvotes": 3,
-    "author": "rdpintqogeogsaa",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31217920"
-  },
-  {
     "title": "Explorer – A library to bring dataframes to Elixir",
     "url": "https://www.cigrainger.com/posts/introducing-explorer/",
-    "upvotes": 107,
+    "upvotes": 109,
     "author": "ahamez",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=31190376"
+  },
+  {
+    "title": "Counting set bits in an interesting way",
+    "url": "http://www.robalni.org/posts/20220428-counting-set-bits-in-an-interesting-way.txt",
+    "upvotes": 51,
+    "author": "robalni",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=31194765"
+  },
+  {
+    "title": "Epic is asking a court to stop Google from yanking Bandcamp off the Play Store",
+    "url": "https://www.theverge.com/2022/4/29/23048059/epic-games-google-bandcamp-play-store",
+    "upvotes": 73,
+    "author": "grmnygrmny2",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=31216670"
   },
   {
     "title": "Prioritization as a Superpower",
     "url": "https://nbt.substack.com/p/prioritization-as-a-superpower",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "firstSpeaker",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=31214935"
   },
   {
-    "title": "Counting set bits in an interesting way",
-    "url": "http://www.robalni.org/posts/20220428-counting-set-bits-in-an-interesting-way.txt",
-    "upvotes": 49,
-    "author": "robalni",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=31194765"
-  },
-  {
     "title": "ClojureRS – Clojure interpreter implemented in Rust",
     "url": "https://github.com/clojure-rs/ClojureRS",
-    "upvotes": 104,
+    "upvotes": 106,
     "author": "capableweb",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=31214294"
+  },
+  {
+    "title": "Ask HN: Beyond AWS/Azure/GCP, what cloud providers should I know more about?",
+    "url": "item?id=31218268",
+    "upvotes": 10,
+    "author": "tomrod",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31218268"
   },
   {
     "title": "Create a positive feedback loop to become motivated",
     "url": "https://www.deprocrastination.co/blog/create-a-positive-feedback-loop-to-become-motivated",
-    "upvotes": 146,
+    "upvotes": 149,
     "author": "vitabenes",
-    "comments": 57,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=31189937"
-  },
-  {
-    "title": "Natural Language Processing with Prolog in the IBM Watson System",
-    "url": "https://www.cs.nmsu.edu/ALP/2011/03/natural-language-processing-with-prolog-in-the-ibm-watson-system/",
-    "upvotes": 48,
-    "author": "martinlaz",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=31214604"
-  },
-  {
-    "title": "Principles of Efficient Congestion Pricing",
-    "url": "https://www.vtpi.org/vickrey.htm",
-    "upvotes": 31,
-    "author": "Diesel555",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=31216026"
-  },
-  {
-    "title": "How to Be an Incipit",
-    "url": "https://www.berfrois.com/2022/04/paul-vacca-how-to-be-an-incipit/",
-    "upvotes": 33,
-    "author": "magda_wang",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31211624"
   }
 ]
