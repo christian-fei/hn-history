@@ -1,64 +1,72 @@
 [
   {
-    "title": "How do you power a rocket engine?",
-    "url": "https://everydayastronaut.com/rocket-engine-cycles/",
-    "upvotes": 44,
-    "author": "Jarlakxen",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31215149"
-  },
-  {
     "title": "Did the W-boson just “break the standard model”?",
     "url": "http://backreaction.blogspot.com/2022/04/did-w-boson-just-break-standard-model.html",
-    "upvotes": 8,
+    "upvotes": 25,
     "author": "IdealeZahlen",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=31215891"
+  },
+  {
+    "title": "How do you power a rocket engine?",
+    "url": "https://everydayastronaut.com/rocket-engine-cycles/",
+    "upvotes": 53,
+    "author": "Jarlakxen",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31215149"
   },
   {
     "title": "Experiment to achieve 5M persistent connections with Project Loom",
     "url": "https://github.com/ebarlas/project-loom-c5m",
-    "upvotes": 133,
+    "upvotes": 139,
     "author": "genzer",
-    "comments": 45,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=31214253"
   },
   {
     "title": "Privacy Friendly Apps – improved privacy protection on the smartphone",
     "url": "https://secuso.aifb.kit.edu/english/105.php",
-    "upvotes": 28,
+    "upvotes": 35,
     "author": "manveru",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31215123"
-  },
-  {
-    "title": "Top Navy Admiral Wants Rust-Free Ships",
-    "url": "https://gcaptain.com/rusting-fleet-top-us-navy-admiral-cno-rust/",
-    "upvotes": 56,
-    "author": "tomohawk",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=31215180"
   },
   {
     "title": "How to Corrupt an SQLite Database File",
     "url": "https://sqlite.org/howtocorrupt.html",
-    "upvotes": 105,
+    "upvotes": 113,
     "author": "segfaultbuserr",
-    "comments": 38,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=31214131"
+  },
+  {
+    "title": "Principles of Efficient Congestion Pricing",
+    "url": "https://www.vtpi.org/vickrey.htm",
+    "upvotes": 5,
+    "author": "Diesel555",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31216026"
   },
   {
     "title": "Tobii Pro Glasses 3",
     "url": "https://www.tobiipro.com/product-listing/tobii-pro-glasses-3/",
-    "upvotes": 23,
+    "upvotes": 25,
     "author": "punnerud",
-    "comments": 13,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=31215247"
+  },
+  {
+    "title": "Top Navy Admiral Wants Rust-Free Ships",
+    "url": "https://gcaptain.com/rusting-fleet-top-us-navy-admiral-cno-rust/",
+    "upvotes": 61,
+    "author": "tomohawk",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=31215180"
   },
   {
     "title": "Explorer – A library to bring dataframes to Elixir",
     "url": "https://www.cigrainger.com/posts/introducing-explorer/",
-    "upvotes": 49,
+    "upvotes": 58,
     "author": "ahamez",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=31190376"
@@ -68,121 +76,129 @@
     "url": "https://onesignal.com/careers"
   },
   {
-    "title": "Zaplib: A Startup Post Mortem",
-    "url": "https://zaplib.com/docs/blog_post_mortem.html",
-    "upvotes": 44,
-    "author": "azalemeth",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=31214521"
-  },
-  {
-    "title": "ClojureRS – Clojure interpreter implemented in Rust",
-    "url": "https://github.com/clojure-rs/ClojureRS",
-    "upvotes": 64,
-    "author": "capableweb",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=31214294"
-  },
-  {
     "title": "Best practices for optimizing Lambda functions",
     "url": "https://cloudash.dev/blog/best-practices-for-optimizing-lambda-functions",
-    "upvotes": 12,
+    "upvotes": 14,
     "author": "makaimc",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31215328"
   },
   {
+    "title": "Zaplib: A Startup Post Mortem",
+    "url": "https://zaplib.com/docs/blog_post_mortem.html",
+    "upvotes": 49,
+    "author": "azalemeth",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=31214521"
+  },
+  {
+    "title": "Prioritization as a Superpower",
+    "url": "https://nbt.substack.com/p/prioritization-as-a-superpower",
+    "upvotes": 20,
+    "author": "firstSpeaker",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31214935"
+  },
+  {
+    "title": "ClojureRS – Clojure interpreter implemented in Rust",
+    "url": "https://github.com/clojure-rs/ClojureRS",
+    "upvotes": 67,
+    "author": "capableweb",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=31214294"
+  },
+  {
     "title": "Natural Language Processing with Prolog in the IBM Watson System",
     "url": "https://www.cs.nmsu.edu/ALP/2011/03/natural-language-processing-with-prolog-in-the-ibm-watson-system/",
-    "upvotes": 22,
+    "upvotes": 24,
     "author": "martinlaz",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=31214604"
   },
   {
-    "title": "Prioritization as a Superpower",
-    "url": "https://nbt.substack.com/p/prioritization-as-a-superpower",
-    "upvotes": 15,
-    "author": "firstSpeaker",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31214935"
-  },
-  {
-    "title": "Show HN: Alternative Google Analytics Dashboard",
-    "url": "https://gaclient.com",
-    "upvotes": 26,
-    "author": "rajasimon",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=31190547"
-  },
-  {
     "title": "Founding Uber SRE",
     "url": "https://lethain.com/founding-uber-sre/",
-    "upvotes": 180,
+    "upvotes": 185,
     "author": "earthboundkid",
-    "comments": 75,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=31199551"
   },
   {
     "title": "Ask HN: Teach me something new",
     "url": "item?id=31204611",
-    "upvotes": 262,
+    "upvotes": 268,
     "author": "trifit",
-    "comments": 459,
+    "comments": 476,
     "link": "https://news.ycombinator.com/item?id=31204611"
   },
   {
     "title": "Create a positive feedback loop to become motivated",
     "url": "https://www.deprocrastination.co/blog/create-a-positive-feedback-loop-to-become-motivated",
-    "upvotes": 85,
+    "upvotes": 92,
     "author": "vitabenes",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=31189937"
-  },
-  {
-    "title": "Counting set bits in an interesting way",
-    "url": "http://www.robalni.org/posts/20220428-counting-set-bits-in-an-interesting-way.txt",
-    "upvotes": 13,
-    "author": "robalni",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=31194765"
   },
   {
     "title": "Why train when you can optimize?",
     "url": "https://justinmeiners.github.io/why-train-when-you-can-optimize/",
-    "upvotes": 132,
+    "upvotes": 136,
     "author": "sicp-enjoyer",
-    "comments": 50,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=31205689"
   },
   {
     "title": "Exposed by a Strava KOM: The Many Lives of a Fake Pro Cyclist",
     "url": "https://cyclingtips.com/2022/04/exposed-by-a-strava-kom-the-many-lives-of-a-fake-pro-cyclist/",
-    "upvotes": 99,
+    "upvotes": 101,
     "author": "altStoner",
-    "comments": 29,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=31213059"
-  },
-  {
-    "title": "Workers discover ‘unprecedented’ Phoenician necropolis in southern Spain",
-    "url": "https://www.theguardian.com/world/2022/apr/26/unprecedented-phoenician-necropolis-osuna-spain",
-    "upvotes": 114,
-    "author": "diodorus",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=31212506"
   },
   {
     "title": "Programming Languages: Application and Interpretation",
     "url": "http://cs.brown.edu/courses/cs173/2012/book/",
-    "upvotes": 44,
+    "upvotes": 49,
     "author": "webmaven",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=31214018"
+  },
+  {
+    "title": "Optimization solvers: missing link for fully open-source energy system modeling",
+    "url": "https://drive.google.com/file/d/1uwkf_b9WQU2PogcWL_ST7xkn4EMCPz9s/view",
+    "upvotes": 31,
+    "author": "eisa01",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=31214239"
+  },
+  {
+    "title": "Workers discover ‘unprecedented’ Phoenician necropolis in southern Spain",
+    "url": "https://www.theguardian.com/world/2022/apr/26/unprecedented-phoenician-necropolis-osuna-spain",
+    "upvotes": 117,
+    "author": "diodorus",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=31212506"
+  },
+  {
+    "title": "Show HN: Alternative Google Analytics Dashboard",
+    "url": "https://gaclient.com",
+    "upvotes": 28,
+    "author": "rajasimon",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=31190547"
+  },
+  {
+    "title": "Counting set bits in an interesting way",
+    "url": "http://www.robalni.org/posts/20220428-counting-set-bits-in-an-interesting-way.txt",
+    "upvotes": 15,
+    "author": "robalni",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=31194765"
   },
   {
     "title": "Talk Like a Systems Engineer: Yaks All the Way Down",
     "url": "https://flameeyes.blog/2022/04/26/engineering-jargon-yaks/",
-    "upvotes": 146,
+    "upvotes": 147,
     "author": "Aissen",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=31165617"
@@ -190,49 +206,33 @@
   {
     "title": "What keeps earth from collapsing in on itself like at the end of a star's life?",
     "url": "http://scienceline.ucsb.edu/getkey.php?key=2451",
-    "upvotes": 22,
+    "upvotes": 23,
     "author": "gigglesupstairs",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=31214347"
-  },
-  {
-    "title": "Optimization solvers: missing link for fully open-source energy system modeling",
-    "url": "https://drive.google.com/file/d/1uwkf_b9WQU2PogcWL_ST7xkn4EMCPz9s/view",
-    "upvotes": 25,
-    "author": "eisa01",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=31214239"
   },
   {
     "title": "Beginner-friendly guide to use Tailwind CSS with Jekyll",
     "url": "https://mzrn.sh/2022/04/09/starting-a-blank-jekyll-site-with-tailwind-css-in-2022/",
-    "upvotes": 25,
+    "upvotes": 30,
     "author": "mzrnsh",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=31214161"
   },
   {
     "title": "Union and intersection contracts are hard",
     "url": "https://www.tweag.io/blog/2022-04-28-union-intersection-contracts/",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "ingve",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31189380"
   },
   {
-    "title": "Nearly the hottest place on Earth, India swelters under intense heat wave",
-    "url": "https://www.accuweather.com/en/weather-forecasts/nearly-the-hottest-place-on-earth-india-swelters-amid-brutal-heat-wave/1179824",
-    "upvotes": 197,
-    "author": "bryanrasmussen",
-    "comments": 186,
-    "link": "https://news.ycombinator.com/item?id=31213995"
-  },
-  {
     "title": "Paris suspends electric bus fleet after two fires",
     "url": "https://www.lemonde.fr/en/france/article/2022/04/29/paris-suspends-electric-bus-fleet-after-two-fires_5981956_7.html",
-    "upvotes": 48,
+    "upvotes": 51,
     "author": "jjensen",
-    "comments": 23,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=31213281"
   }
 ]
