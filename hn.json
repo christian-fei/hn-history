@@ -2,23 +2,39 @@
   {
     "title": "We think this cool study we found is flawed. Help us reproduce it",
     "url": "https://pudding.cool/2022/04/random/",
-    "upvotes": 368,
+    "upvotes": 389,
     "author": "colinprince",
-    "comments": 169,
+    "comments": 186,
     "link": "https://news.ycombinator.com/item?id=31222642"
   },
   {
     "title": "The Niche Programmer",
     "url": "https://ano.ee/blog/the-niche-programmer",
-    "upvotes": 82,
+    "upvotes": 104,
     "author": "Borkdude",
-    "comments": 27,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=31223614"
+  },
+  {
+    "title": "Removing characters from strings faster with AVX-512",
+    "url": "https://lemire.me/blog/2022/04/28/removing-characters-from-strings-faster-with-avx-512/",
+    "upvotes": 6,
+    "author": "mdb31",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31224756"
+  },
+  {
+    "title": "I accidentally loaned all my money to the US government",
+    "url": "https://beanlog.vercel.app/ibonds",
+    "upvotes": 252,
+    "author": "beanlog",
+    "comments": 168,
+    "link": "https://news.ycombinator.com/item?id=31222506"
   },
   {
     "title": "Ancient Genes for Symbiosis Hint at Mitochondria’s Origins",
     "url": "https://www.quantamagazine.org/ancient-genes-for-symbiosis-hint-at-mitochondrias-origins-20220426/",
-    "upvotes": 31,
+    "upvotes": 34,
     "author": "bryanrasmussen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31224088"
@@ -26,63 +42,47 @@
   {
     "title": "The awake ape: Why people sleep less than their primate relatives",
     "url": "https://knowablemagazine.org/article/society/2022/why-people-sleep-less-than-primate-relatives",
-    "upvotes": 24,
+    "upvotes": 28,
     "author": "giuliomagnifico",
-    "comments": 8,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=31224180"
-  },
-  {
-    "title": "I accidentally loaned all my money to the US government",
-    "url": "https://beanlog.vercel.app/ibonds",
-    "upvotes": 217,
-    "author": "beanlog",
-    "comments": 160,
-    "link": "https://news.ycombinator.com/item?id=31222506"
   },
   {
     "title": "Internet Archive joins opposition to the “SMART Copyright Act”",
     "url": "http://blog.archive.org/2022/03/29/internet-archive-joins-opposition-to-the-smart-copyright-act/",
-    "upvotes": 513,
+    "upvotes": 521,
     "author": "raybb",
-    "comments": 132,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=31220422"
+  },
+  {
+    "title": "Modern Pandas",
+    "url": "https://tomaugspurger.github.io/method-chaining.html",
+    "upvotes": 21,
+    "author": "radus",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31223952"
   },
   {
     "title": "Review: Stanley Parable: Ultra Deluxe is a mandatory game for comedy fans",
     "url": "https://arstechnica.com/gaming/2022/04/review-stanley-parable-ultra-deluxe-is-a-mandatory-game-for-comedy-fans/",
-    "upvotes": 114,
+    "upvotes": 119,
     "author": "Zaplanincan",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=31190230"
   },
   {
-    "title": "Noto emoji, a new black and white emoji font with less color",
-    "url": "https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html",
-    "upvotes": 446,
-    "author": "Vinnl",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=31218434"
-  },
-  {
     "title": "Software Jailbreak for Any Kindle",
     "url": "https://www.mobileread.com/forums/showthread.php?t=346037",
-    "upvotes": 277,
+    "upvotes": 282,
     "author": "woliveirajr",
-    "comments": 119,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=31220553"
-  },
-  {
-    "title": "Modern Pandas",
-    "url": "https://tomaugspurger.github.io/method-chaining.html",
-    "upvotes": 14,
-    "author": "radus",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31223952"
   },
   {
     "title": "PocketBook Dissassembly and Root",
     "url": "https://wxcafe.net/posts/pocketbook_dissassembly_and_root/",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "muscaw",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31224341"
@@ -90,102 +90,110 @@
   {
     "title": "My startup is broken",
     "url": "https://caseysoftware.com/blog/my-startup-is-broken",
-    "upvotes": 45,
+    "upvotes": 50,
     "author": "caseysoftware",
-    "comments": 24,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=31193863"
   },
   {
-    "title": "Limitations of DALL-E",
-    "url": "https://twitter.com/benjamin_hilton/status/1520032772072607747",
-    "upvotes": 192,
-    "author": "amrrs",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=31218915"
+    "title": "Where Do Research Problems Come From?",
+    "url": "https://tratt.net/laurie/blog/2022/where_do_research_problems_come_from.html",
+    "upvotes": 13,
+    "author": "ltratt",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31223751"
   },
   {
     "title": "Adopting Matrix at the Gnome Foundation",
     "url": "https://blog.ergaster.org/post/20220425-adopting-matrix/",
-    "upvotes": 43,
+    "upvotes": 47,
     "author": "erlend_sh",
-    "comments": 15,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=31222857"
-  },
-  {
-    "title": "Pseudo-Random Number Generation Using Generative Adversarial Networks",
-    "url": "https://arxiv.org/abs/1810.00378",
-    "upvotes": 11,
-    "author": "cpeterso",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31213530"
-  },
-  {
-    "title": "Show HN: I'm building the “chess.com” of speed cubing",
-    "url": "https://www.cubedesk.io/home",
-    "upvotes": 91,
-    "author": "kashnote",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=31221898"
   },
   {
     "title": "Xfig",
     "url": "http://mcj.sourceforge.net/",
-    "upvotes": 33,
+    "upvotes": 36,
     "author": "jabajabadu",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=31222924"
+  },
+  {
+    "title": "Show HN: I'm building the “chess.com” of speed cubing",
+    "url": "https://www.cubedesk.io/home",
+    "upvotes": 93,
+    "author": "kashnote",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=31221898"
+  },
+  {
+    "title": "Pseudo-Random Number Generation Using Generative Adversarial Networks",
+    "url": "https://arxiv.org/abs/1810.00378",
+    "upvotes": 14,
+    "author": "cpeterso",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31213530"
   },
   {
     "title": "1974 Sinclair Scientific Calculator Repair and Restoration",
     "url": "https://retrorepairsandrefurbs.com/2022/04/29/1974-sinclair-scientific-calculator-repair-restoration/",
     "upvotes": 51,
     "author": "elvis70",
-    "comments": 13,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31222421"
+  },
+  {
+    "title": "Long-awaited accelerator ready to explore origins of elements",
+    "url": "https://www.nature.com/articles/d41586-022-00711-5",
+    "upvotes": 17,
+    "author": "pseudolus",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31223504"
   },
   {
     "title": "Raycast",
     "url": "https://www.raycast.com/careers"
   },
   {
-    "title": "Where Do Research Problems Come From?",
-    "url": "https://tratt.net/laurie/blog/2022/where_do_research_problems_come_from.html",
-    "upvotes": 10,
-    "author": "ltratt",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31223751"
-  },
-  {
-    "title": "The confounding politics of camping in America",
-    "url": "https://www.newyorker.com/books/under-review/the-confounding-politics-of-camping-in-america",
-    "upvotes": 53,
-    "author": "Thevet",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=31212494"
-  },
-  {
-    "title": "Long-awaited accelerator ready to explore origins of elements",
-    "url": "https://www.nature.com/articles/d41586-022-00711-5",
-    "upvotes": 15,
-    "author": "pseudolus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31223504"
+    "title": "Noto emoji, a new black and white emoji font with less color",
+    "url": "https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html",
+    "upvotes": 446,
+    "author": "Vinnl",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=31218434"
   },
   {
     "title": "Disney's writer wage theft, a year on",
     "url": "https://pluralistic.net/2022/04/30/disney-still-must-pay/",
-    "upvotes": 106,
+    "upvotes": 120,
     "author": "gryson",
-    "comments": 24,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=31222968"
   },
   {
-    "title": "The X-Ray Tech That Reveals Chip Designs",
-    "url": "https://spectrum.ieee.org/chip-x-ray",
-    "upvotes": 9,
-    "author": "giuliomagnifico",
+    "title": "The confounding politics of camping in America",
+    "url": "https://www.newyorker.com/books/under-review/the-confounding-politics-of-camping-in-america",
+    "upvotes": 55,
+    "author": "Thevet",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=31212494"
+  },
+  {
+    "title": "The Steamboat Inventors: The First Generation",
+    "url": "https://technicshistory.com/2022/03/18/the-steamboat-inventors-the-first-generation/",
+    "upvotes": 12,
+    "author": "cfmcdonald",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31223715"
+    "link": "https://news.ycombinator.com/item?id=31222099"
+  },
+  {
+    "title": "OpenFeature – open standard for feature flags",
+    "url": "https://openfeature.dev/",
+    "upvotes": 16,
+    "author": "kiyanwang",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31223429"
   },
   {
     "title": "Principles of Distributed Computing",
@@ -196,20 +204,20 @@
     "link": "https://news.ycombinator.com/item?id=31212542"
   },
   {
-    "title": "OpenFeature – open standard for feature flags",
-    "url": "https://openfeature.dev/",
-    "upvotes": 13,
-    "author": "kiyanwang",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=31223429"
+    "title": "Create YouTube playlists as links without having to log into YouTube",
+    "url": "https://playlists.at/youtube/",
+    "upvotes": 59,
+    "author": "nevernothing",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=31221260"
   },
   {
-    "title": "The Steamboat Inventors: The First Generation",
-    "url": "https://technicshistory.com/2022/03/18/the-steamboat-inventors-the-first-generation/",
-    "upvotes": 10,
-    "author": "cfmcdonald",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31222099"
+    "title": "GnuCash",
+    "url": "https://www.gnucash.org/",
+    "upvotes": 269,
+    "author": "je_bailey",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=31219754"
   },
   {
     "title": "Eero Saarinen’s secret wartime role in the White House",
@@ -220,19 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=31213301"
   },
   {
-    "title": "Create YouTube playlists as links without having to log into YouTube",
-    "url": "https://playlists.at/youtube/",
-    "upvotes": 54,
-    "author": "nevernothing",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=31221260"
-  },
-  {
-    "title": "GnuCash",
-    "url": "https://www.gnucash.org/",
-    "upvotes": 264,
-    "author": "je_bailey",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=31219754"
+    "title": "Mapping the “catscape” formed by a population of pet cats with outdoor access",
+    "url": "https://www.nature.com/articles/s41598-022-09694-9",
+    "upvotes": 58,
+    "author": "lode",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=31203687"
   }
 ]
