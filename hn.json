@@ -1,56 +1,48 @@
 [
   {
-    "title": "Unauthorized gem takeover for some gems",
-    "url": "https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79",
-    "upvotes": 189,
-    "author": "mooreds",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=31298435"
-  },
-  {
     "title": "Web Development for Beginners – A Curriculum",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
-    "upvotes": 59,
+    "upvotes": 90,
     "author": "ibobev",
-    "comments": 7,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=31299716"
   },
   {
-    "title": "When Buying the Dip Doesn’t Work: An Analysis of the Dot-Com Crash",
+    "title": "When buying the dip doesn’t work: An analysis of the dot-com crash",
     "url": "https://endlessmetrics.substack.com/p/when-buying-the-dip-doesnt-work-an",
-    "upvotes": 33,
+    "upvotes": 50,
     "author": "makaimc",
-    "comments": 9,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=31287464"
   },
   {
     "title": "Xilem: An Architecture for UI in Rust",
     "url": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html",
-    "upvotes": 280,
+    "upvotes": 292,
     "author": "raphlinus",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=31297550"
   },
   {
-    "title": "Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability",
+    "title": "Flash Boys 2.0: Frontrunning, transaction reordering, and consensus instability",
     "url": "https://arxiv.org/abs/1904.05234",
-    "upvotes": 54,
+    "upvotes": 57,
     "author": "lawrenceyan",
-    "comments": 6,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=31286890"
   },
   {
-    "title": "Apple's Director of Machine Learning Resigns Due to Return to Office Work",
+    "title": "Apple's director of machine learning resigns due to return to office work",
     "url": "https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/",
-    "upvotes": 557,
+    "upvotes": 596,
     "author": "carlycue",
-    "comments": 303,
+    "comments": 333,
     "link": "https://news.ycombinator.com/item?id=31298313"
   },
   {
     "title": "Some CUDA programming fun with Julia",
     "url": "https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html",
-    "upvotes": 69,
+    "upvotes": 75,
     "author": "cancandan",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=31298218"
@@ -58,47 +50,55 @@
   {
     "title": "Show HN: Weron – A Peer-to-Peer VPN Based on WebRTC Written in Go",
     "url": "https://github.com/pojntfx/weron",
-    "upvotes": 106,
+    "upvotes": 114,
     "author": "pojntfx",
-    "comments": 29,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=31297917"
+  },
+  {
+    "title": "How many Linux commands can a 7 year old learn?",
+    "url": "https://thejavaguy.org/posts/008-my-kid-learned-bash-in-one-hour/",
+    "upvotes": 53,
+    "author": "ivanche",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=31285143"
   },
   {
     "title": "Eve Online is getting Microsoft Excel support",
     "url": "https://www.theverge.com/2022/5/6/23059064/eve-online-fanfest-microsoft-excel",
-    "upvotes": 161,
+    "upvotes": 166,
     "author": "skilled",
-    "comments": 77,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=31293066"
   },
   {
-    "title": "How many Linux commands can 7 year old learn?",
-    "url": "https://thejavaguy.org/posts/008-my-kid-learned-bash-in-one-hour/",
-    "upvotes": 44,
-    "author": "ivanche",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=31285143"
+    "title": "Unauthorized gem takeover for some gems",
+    "url": "https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79",
+    "upvotes": 195,
+    "author": "mooreds",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=31298435"
+  },
+  {
+    "title": "Exporting Data from Old Gear Through LCD Sniffing",
+    "url": "https://hackaday.com/2022/05/05/exporting-data-from-old-gear-through-lcd-sniffing/",
+    "upvotes": 20,
+    "author": "rcarmo",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31281937"
   },
   {
     "title": "Show HN: I made Ankify that converts notes to Anki cards",
     "url": "https://ankify.krxiang.com/",
-    "upvotes": 110,
+    "upvotes": 111,
     "author": "kangruixiang",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=31294306"
   },
   {
-    "title": "Exporting Data from Old Gear Through LCD Sniffing",
-    "url": "https://hackaday.com/2022/05/05/exporting-data-from-old-gear-through-lcd-sniffing/",
-    "upvotes": 17,
-    "author": "rcarmo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31281937"
-  },
-  {
     "title": "Show HN: I made a browser-based RTS game",
     "url": "https://www.battle-of-flags.com",
-    "upvotes": 163,
+    "upvotes": 170,
     "author": "Gluten",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=31296227"
@@ -106,25 +106,33 @@
   {
     "title": "Meta-Perceptual Helmets",
     "url": "http://www.connolly-cleary.com/Home/helmets.html",
-    "upvotes": 108,
+    "upvotes": 111,
     "author": "beefman",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=31296699"
   },
   {
-    "title": "Robots Are Writing Poetry, and Many People Can’t Tell the Difference",
+    "title": "Robots are writing poetry, and many people can’t tell the difference",
     "url": "https://thewalrus.ca/ai-poetry/",
-    "upvotes": 31,
+    "upvotes": 35,
     "author": "pseudolus",
-    "comments": 25,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=31298899"
+  },
+  {
+    "title": "When is a ‘tank’ not a tank?",
+    "url": "https://acoup.blog/2022/05/06/collections-when-is-a-tank-not-a-tank/",
+    "upvotes": 119,
+    "author": "picture",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=31288566"
   },
   {
     "title": "Okular – Universal document viewer",
     "url": "https://okular.kde.org/",
-    "upvotes": 139,
+    "upvotes": 149,
     "author": "Tomte",
-    "comments": 38,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=31294580"
   },
   {
@@ -132,107 +140,99 @@
     "url": "https://careers.atob.com"
   },
   {
+    "title": "Extreme depth-of-field light field camera thanks to an extinct marine arthropod",
+    "url": "http://image-sensors-world.blogspot.com/2022/05/extreme-depth-of-field-light-field.html",
+    "upvotes": 56,
+    "author": "giuliomagnifico",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=31270957"
+  },
+  {
     "title": "I made a virtual bookshelf",
     "url": "https://petargyurov.com/bookshelf/",
-    "upvotes": 275,
+    "upvotes": 276,
     "author": "petargyurov",
     "comments": 87,
     "link": "https://news.ycombinator.com/item?id=31293727"
   },
   {
-    "title": "When is a ‘tank’ not a tank?",
-    "url": "https://acoup.blog/2022/05/06/collections-when-is-a-tank-not-a-tank/",
-    "upvotes": 110,
-    "author": "picture",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=31288566"
-  },
-  {
-    "title": "Extreme depth-of-field light field camera thanks to an extinct marine arthropod",
-    "url": "http://image-sensors-world.blogspot.com/2022/05/extreme-depth-of-field-light-field.html",
-    "upvotes": 51,
-    "author": "giuliomagnifico",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=31270957"
-  },
-  {
     "title": "Singapore Government Tech Stack",
     "url": "https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html",
-    "upvotes": 217,
+    "upvotes": 220,
     "author": "korginator",
-    "comments": 58,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=31294414"
   },
   {
-    "title": "New Assembly Like Programming Language?",
-    "url": "https://github.com/wellang/well",
-    "upvotes": 15,
-    "author": "__Oblivion__",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=31299841"
-  },
-  {
-    "title": "California Targets Loud Exhaust with Sound Activated Cameras",
-    "url": "https://www.autoweek.com/news/technology/a39906304/california-targets-loud-exhaust-with-sound-activated-camera-enforcement/",
-    "upvotes": 80,
-    "author": "t23",
-    "comments": 130,
-    "link": "https://news.ycombinator.com/item?id=31299641"
+    "title": "Plague, Crisis, and Science During the London Caterpillar Outbreak of 1782",
+    "url": "https://www.cambridge.org/core/journals/historical-journal/article/plague-crisis-and-scientific-authority-during-the-london-caterpillar-outbreak-of-1782/446D4AA3D0A3D10544B7195422B820E5",
+    "upvotes": 5,
+    "author": "Petiver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31279816"
   },
   {
     "title": "Roland TR-808 Cowbell Rebuild",
     "url": "http://www.frisnit.com/roland-tr-808-cowbell-rebuild/",
-    "upvotes": 166,
+    "upvotes": 167,
     "author": "herendin",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=31293668"
+  },
+  {
+    "title": "AMD doubles the number of CPU cores it offers to Chromebooks",
+    "url": "https://arstechnica.com/gadgets/2022/05/hp-acer-chromebooks-claim-multitasking-boost-with-new-core-heavy-amd-cpus/",
+    "upvotes": 103,
+    "author": "scrummy",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=31282949"
+  },
+  {
+    "title": "Swarm of micro flying robots in the wild",
+    "url": "https://www.science.org/doi/10.1126/scirobotics.abm5954",
+    "upvotes": 4,
+    "author": "mactitan",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31300502"
   },
   {
     "title": "Deletionpedia: Rescuing articles from Wikipedia's deletionism",
     "url": "https://deletionpedia.org/en/Main_Page",
-    "upvotes": 214,
+    "upvotes": 218,
     "author": "DerekBickerton",
-    "comments": 196,
+    "comments": 203,
     "link": "https://news.ycombinator.com/item?id=31297057"
-  },
-  {
-    "title": "RSS Feed Best Practices",
-    "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
-    "upvotes": 183,
-    "author": "nalgeon",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=31293488"
   },
   {
     "title": "Seed-firing drones are planting 40k trees every day to fight deforestation",
     "url": "https://www.euronews.com/green/2022/05/04/this-australian-start-up-wants-to-fight-deforestation-with-an-army-of-drones",
-    "upvotes": 153,
+    "upvotes": 162,
     "author": "ashitlerferad",
     "comments": 101,
     "link": "https://news.ycombinator.com/item?id=31284664"
   },
   {
-    "title": "Your phone may soon replace many of your passwords",
-    "url": "https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/",
-    "upvotes": 115,
-    "author": "todsacerdoti",
-    "comments": 239,
-    "link": "https://news.ycombinator.com/item?id=31294316"
-  },
-  {
     "title": "Learning modern Linux: A handbook for the cloud native practitioner",
     "url": "https://www.oreilly.com/library/view/learning-modern-linux/9781098108939/",
-    "upvotes": 146,
+    "upvotes": 151,
     "author": "teleforce",
-    "comments": 45,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=31283991"
+  },
+  {
+    "title": "Your phone may soon replace many of your passwords",
+    "url": "https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/",
+    "upvotes": 121,
+    "author": "todsacerdoti",
+    "comments": 251,
+    "link": "https://news.ycombinator.com/item?id=31294316"
   },
   {
     "title": "'Rater' is paid $10 hourly to teach Google's algorithm",
     "url": "https://finance.yahoo.com/news/google-raters-paid-to-teach-algorithm-204308901.html",
-    "upvotes": 94,
+    "upvotes": 99,
     "author": "exz",
-    "comments": 90,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=31285671"
   }
 ]
