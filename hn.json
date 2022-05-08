@@ -1,24 +1,32 @@
 [
   {
+    "title": "“I don't know the numbers”: a math puzzle",
+    "url": "https://alexanderell.is/posts/numbers-game/",
+    "upvotes": 26,
+    "author": "otras",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=31308423"
+  },
+  {
     "title": "PowerToys – open-source Windows utilities",
     "url": "https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows",
-    "upvotes": 380,
+    "upvotes": 398,
     "author": "thunderbong",
-    "comments": 224,
+    "comments": 227,
     "link": "https://news.ycombinator.com/item?id=31304777"
   },
   {
     "title": "Emerging evidence that mindfulness can sometimes increase selfish tendencies",
     "url": "https://www.bbc.com/worklife/article/20220302-how-mindfulness-can-make-you-a-darker-person",
-    "upvotes": 141,
+    "upvotes": 158,
     "author": "matthewheath",
-    "comments": 98,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=31306000"
   },
   {
     "title": "Kiss Linux",
     "url": "https://web.archive.org/web/20200528200318/https://k1ss.org/",
-    "upvotes": 24,
+    "upvotes": 31,
     "author": "peter_d_sherman",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31307846"
@@ -26,23 +34,23 @@
   {
     "title": "Behold GoldenEye 007 with four screens – dream come true or travesty?",
     "url": "https://www.theverge.com/2022/5/5/23058787/goldeneye-007-nintendo-64-no-screen-cheating-museum-computing-history",
-    "upvotes": 61,
+    "upvotes": 71,
     "author": "Tomte",
-    "comments": 38,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=31285569"
   },
   {
-    "title": "“I don't know the numbers”: a math puzzle",
-    "url": "https://alexanderell.is/posts/numbers-game/",
-    "upvotes": 5,
-    "author": "otras",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31308423"
+    "title": "Use fzf for tmux session switching",
+    "url": "https://waylonwalker.com/tmux-fzf-session-jump/",
+    "upvotes": 24,
+    "author": "samesense",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31308099"
   },
   {
     "title": "RustBelt: Securing the Foundations of the Rust Programming Language",
     "url": "https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31307006"
@@ -50,182 +58,174 @@
   {
     "title": "Tidbyt hardware display device: a review",
     "url": "https://macwright.com/2022/03/11/tidbyt-review.html",
-    "upvotes": 67,
+    "upvotes": 73,
     "author": "ingve",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=31306135"
-  },
-  {
-    "title": "Use fzf for tmux session switching",
-    "url": "https://waylonwalker.com/tmux-fzf-session-jump/",
-    "upvotes": 15,
-    "author": "samesense",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31308099"
   },
   {
     "title": "Show HN: Wordle in Python using literate programming",
     "url": "https://jiby.tech/project/literate_wordle/wordle.html",
-    "upvotes": 52,
+    "upvotes": 58,
     "author": "FrenchyJiby",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=31306340"
   },
   {
-    "title": "Compiling an OpenBSD kernel 50% faster",
-    "url": "https://flak.tedunangst.com/post/compiling-an-openbsd-kernel-50-faster",
-    "upvotes": 16,
-    "author": "ingve",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31307925"
-  },
-  {
     "title": "Scapy: Low level packet hacking toolkit for Python",
     "url": "https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/",
-    "upvotes": 163,
+    "upvotes": 167,
     "author": "rl1987",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=31304178"
   },
   {
-    "title": "Vitamin D and Depression",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/",
-    "upvotes": 135,
-    "author": "pmoriarty",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=31306177"
+    "title": "Compiling an OpenBSD kernel 50% faster",
+    "url": "https://flak.tedunangst.com/post/compiling-an-openbsd-kernel-50-faster",
+    "upvotes": 21,
+    "author": "ingve",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31307925"
   },
   {
     "title": "Tell HN: I was permanently banned from eBay in one hour",
     "url": "item?id=31305341",
-    "upvotes": 282,
+    "upvotes": 315,
     "author": "bannedfromebay",
-    "comments": 235,
+    "comments": 245,
     "link": "https://news.ycombinator.com/item?id=31305341"
+  },
+  {
+    "title": "Vitamin D and Depression",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/",
+    "upvotes": 144,
+    "author": "pmoriarty",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=31306177"
+  },
+  {
+    "title": "Show HN: CaskDB – project to teach you building a key value store",
+    "url": "https://github.com/avinassh/py-caskdb",
+    "upvotes": 93,
+    "author": "avinassh",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=31304897"
   },
   {
     "title": "Pixabay has royalty free music you can use for free",
     "url": "https://pixabay.com/",
-    "upvotes": 155,
+    "upvotes": 163,
     "author": "schleck8",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31303216"
   },
   {
-    "title": "Show HN: CaskDB – project to teach you building a key value store",
-    "url": "https://github.com/avinassh/py-caskdb",
-    "upvotes": 85,
-    "author": "avinassh",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31304897"
+    "title": "VSCode – Markdown Edition",
+    "url": "https://blog.dendron.so/notes/upyp4ow9fkpwvu50n8wsvnp/",
+    "upvotes": 110,
+    "author": "kevinslin",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=31304441"
   },
   {
     "title": "Courier",
     "url": "https://jobs.lever.co/trycourier"
   },
   {
-    "title": "VSCode – Markdown Edition",
-    "url": "https://blog.dendron.so/notes/upyp4ow9fkpwvu50n8wsvnp/",
-    "upvotes": 101,
-    "author": "kevinslin",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=31304441"
+    "title": "Analysis of noise on construction sites of high-rise buildings",
+    "url": "https://content.iospress.com/download/work/wor0553?id=work%2Fwor0553",
+    "upvotes": 6,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31290873"
   },
   {
     "title": "Multiple assignment and tuple unpacking improve Python code readability",
     "url": "https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/",
-    "upvotes": 139,
+    "upvotes": 142,
     "author": "bjourne",
     "comments": 79,
     "link": "https://news.ycombinator.com/item?id=31303463"
   },
   {
+    "title": "No Fixed Address Bank Account",
+    "url": "https://www.hsbc.co.uk/help/money-worries/no-fixed-address/",
+    "upvotes": 204,
+    "author": "acqbu",
+    "comments": 265,
+    "link": "https://news.ycombinator.com/item?id=31302310"
+  },
+  {
+    "title": "Umami: Own Your Website Analytics",
+    "url": "https://umami.is/",
+    "upvotes": 15,
+    "author": "memorable",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31284853"
+  },
+  {
     "title": "Feeling uncomfortable when leaving phone at home shouldn't be normal",
     "url": "https://vaidik.bearblog.dev/feeling-uncomfortable-when-leaving-phone-at-home-shouldnt-be-normal/",
-    "upvotes": 179,
+    "upvotes": 183,
     "author": "apson",
-    "comments": 275,
+    "comments": 283,
     "link": "https://news.ycombinator.com/item?id=31306315"
   },
   {
-    "title": "No Fixed Address Bank Account",
-    "url": "https://www.hsbc.co.uk/help/money-worries/no-fixed-address/",
-    "upvotes": 200,
-    "author": "acqbu",
-    "comments": 259,
-    "link": "https://news.ycombinator.com/item?id=31302310"
+    "title": "Below Antarctic ice, a giant groundwater system",
+    "url": "https://earthsky.org/earth/below-antarctic-ice-giant-groundwater-system/",
+    "upvotes": 19,
+    "author": "Brajeshwar",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31287758"
   },
   {
     "title": "Specific Brain Cells Linked to Parkinson's Disease",
     "url": "https://www.the-scientist.com/news-opinion/specific-brain-cells-linked-to-parkinson-s-disease-69988",
     "upvotes": 71,
     "author": "elorant",
-    "comments": 11,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=31303846"
-  },
-  {
-    "title": "The End of Industrial Society",
-    "url": "https://palladiummag.com/2021/03/24/the-end-of-industrial-society/",
-    "upvotes": 123,
-    "author": "CryptoPunk",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=31304539"
-  },
-  {
-    "title": "Below Antarctic ice, a giant groundwater system",
-    "url": "https://earthsky.org/earth/below-antarctic-ice-giant-groundwater-system/",
-    "upvotes": 14,
-    "author": "Brajeshwar",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=31287758"
   },
   {
     "title": "What happens if Twitter gets encrypted DMs?",
     "url": "https://getsession.org/blog",
-    "upvotes": 50,
+    "upvotes": 53,
     "author": "DerekBickerton",
-    "comments": 42,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=31305672"
   },
   {
-    "title": "Half a million people watch me study on TikTok",
-    "url": "https://www.bbc.com/news/education-61305442",
-    "upvotes": 175,
-    "author": "vitabenes",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=31284747"
-  },
-  {
-    "title": "The triple dot syntax",
-    "url": "https://2ality.com/2022/05/rest-vs-spread.html",
-    "upvotes": 47,
-    "author": "kiyanwang",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=31293198"
-  },
-  {
-    "title": "The Spy Among Us",
-    "url": "https://magazine.utoronto.ca/campus/history/the-spy-among-us-pat-bayly-camp-x/",
-    "upvotes": 16,
-    "author": "collapse",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31292161"
+    "title": "The End of Industrial Society",
+    "url": "https://palladiummag.com/2021/03/24/the-end-of-industrial-society/",
+    "upvotes": 124,
+    "author": "CryptoPunk",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=31304539"
   },
   {
     "title": "Lessons learned from the recent job hunt",
     "url": "https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/",
-    "upvotes": 135,
+    "upvotes": 142,
     "author": "edent",
-    "comments": 204,
+    "comments": 207,
     "link": "https://news.ycombinator.com/item?id=31302572"
   },
   {
-    "title": "Umami: Own Your Website Analytics",
-    "url": "https://umami.is/",
-    "upvotes": 7,
-    "author": "memorable",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=31284853"
+    "title": "Half a million people watch me study on TikTok",
+    "url": "https://www.bbc.com/news/education-61305442",
+    "upvotes": 181,
+    "author": "vitabenes",
+    "comments": 114,
+    "link": "https://news.ycombinator.com/item?id=31284747"
+  },
+  {
+    "title": "The Spy Among Us",
+    "url": "https://magazine.utoronto.ca/campus/history/the-spy-among-us-pat-bayly-camp-x/",
+    "upvotes": 17,
+    "author": "collapse",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31292161"
   },
   {
     "title": "Show HN: Automedia – a tool for managing bitrot and formats in media libraries",
