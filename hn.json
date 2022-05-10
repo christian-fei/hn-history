@@ -2,71 +2,55 @@
   {
     "title": "I'm all-in on server-side SQLite",
     "url": "https://fly.io/blog/all-in-on-sqlite-litestream/",
-    "upvotes": 469,
+    "upvotes": 515,
     "author": "dpeck",
-    "comments": 158,
+    "comments": 181,
     "link": "https://news.ycombinator.com/item?id=31318708"
   },
   {
     "title": "UST Stablecoin Loses Dollar Peg",
     "url": "https://www.coindesk.com/business/2022/05/09/ust-stablecoin-falls-below-dollar-peg-for-second-time-in-48-hours/",
-    "upvotes": 43,
+    "upvotes": 102,
     "author": "prostoalex",
-    "comments": 27,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=31321021"
   },
   {
     "title": "Yep, I created the new Avatar font",
     "url": "https://swelltype.com/yep-i-created-the-new-avatar-font/",
-    "upvotes": 427,
+    "upvotes": 436,
     "author": "krustyburger",
-    "comments": 163,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=31316372"
-  },
-  {
-    "title": "A CEO's Guide to Emacs",
-    "url": "https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html",
-    "upvotes": 36,
-    "author": "pedrodelfino",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=31320610"
   },
   {
     "title": "Webb Telescope Image Sharpness Check",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2022/04/Webb_in_full_focus",
-    "upvotes": 33,
+    "upvotes": 55,
     "author": "perihelions",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=31319768"
+  },
+  {
+    "title": "A CEO's Guide to Emacs",
+    "url": "https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html",
+    "upvotes": 43,
+    "author": "pedrodelfino",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=31320610"
   },
   {
     "title": "AV1 Video Codec",
     "url": "https://aomedia.org/av1/",
-    "upvotes": 49,
+    "upvotes": 57,
     "author": "doener",
-    "comments": 35,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=31319885"
-  },
-  {
-    "title": "Writing HTML sucks and No-code doesn't help",
-    "url": "https://rogovoy.me/blog/writing-html-sucks",
-    "upvotes": 68,
-    "author": "kirillrogovoy",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=31314093"
-  },
-  {
-    "title": "Using Java's Project Loom to build more reliable distributed systems",
-    "url": "https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/",
-    "upvotes": 123,
-    "author": "CHY872",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=31314006"
   },
   {
     "title": "Show HN: A Spatial Environment for Python",
     "url": "https://python.natto.dev/",
-    "upvotes": 13,
+    "upvotes": 23,
     "author": "paulshen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31320335"
@@ -74,165 +58,181 @@
   {
     "title": "Day trader army loses all the money it made in meme-stock era",
     "url": "https://www.bloomberg.com/news/articles/2022-05-08/day-trader-army-loses-all-the-money-it-made-in-meme-stock-era",
-    "upvotes": 116,
+    "upvotes": 134,
     "author": "lalaland1125",
-    "comments": 163,
+    "comments": 182,
     "link": "https://news.ycombinator.com/item?id=31319920"
-  },
-  {
-    "title": "Food Deserts in America",
-    "url": "https://moveforhunger.org/harsh-reality-food-deserts-america",
-    "upvotes": 16,
-    "author": "pmoriarty",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=31320703"
-  },
-  {
-    "title": "Flexport",
-    "url": "https://flexport.com/careers"
-  },
-  {
-    "title": "The Radioactive Boy Scout",
-    "url": "https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/",
-    "upvotes": 53,
-    "author": "SQL2219",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=31318248"
   },
   {
     "title": "Patenting Your Perpetual Motion Machine",
     "url": "https://unmakeme.com/2022/05/09/patenting-your-perpetual-motion-machine/",
-    "upvotes": 7,
+    "upvotes": 17,
     "author": "johbal",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=31314122"
+  },
+  {
+    "title": "Using Java's Project Loom to build more reliable distributed systems",
+    "url": "https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/",
+    "upvotes": 130,
+    "author": "CHY872",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=31314006"
+  },
+  {
+    "title": "Writing HTML sucks and No-code doesn't help",
+    "url": "https://rogovoy.me/blog/writing-html-sucks",
+    "upvotes": 73,
+    "author": "kirillrogovoy",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=31314093"
+  },
+  {
+    "title": "The Radioactive Boy Scout",
+    "url": "https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/",
+    "upvotes": 55,
+    "author": "SQL2219",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=31318248"
   },
   {
     "title": "Reincarnating the 6502 Using Flexible TFT Tech for IoT",
     "url": "https://fuse.wikichip.org/news/6648/reincarnating-the-6502-using-flexible-tft-tech-for-iot/",
     "upvotes": 55,
     "author": "rbanffy",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31317372"
   },
   {
-    "title": "Syncing files between browser and disk using Yjs and the File System Access API",
-    "url": "https://motif.land/blog/syncing-text-files-using-yjs-and-the-file-system-access-api",
-    "upvotes": 65,
-    "author": "mfester",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=31315717"
-  },
-  {
-    "title": "On Creating a Social Network",
-    "url": "https://0xff.nu/social-network",
-    "upvotes": 4,
-    "author": "lcnmrn",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31321246"
-  },
-  {
-    "title": "Flares from black hole binaries: black hole shadows via light-curve tomography",
-    "url": "https://arxiv.org/abs/2112.05829",
-    "upvotes": 32,
-    "author": "PaulHoule",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31318574"
-  },
-  {
-    "title": "Differentiable Signed Distance Function Rendering",
-    "url": "http://rgl.epfl.ch/publications/Vicini2022SDF",
-    "upvotes": 150,
-    "author": "lnyan",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=31314051"
-  },
-  {
-    "title": "I’m going to miss you, but I am taking a sabbatical",
-    "url": "https://kottke.org/22/05/announcement-im-going-to-miss-you-but-i-am-taking-a-sabbatical",
-    "upvotes": 239,
-    "author": "gaws",
-    "comments": 107,
-    "link": "https://news.ycombinator.com/item?id=31316602"
-  },
-  {
-    "title": "Bridging Web 2 and Web 3: an identity perspective",
-    "url": "https://yenkel.dev/posts/bridging-web-2-and-web-3-an-identity-perspective",
-    "upvotes": 5,
-    "author": "yenkel",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31313202"
-  },
-  {
-    "title": "Preview, the Mac app people forget about",
-    "url": "https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about",
-    "upvotes": 380,
-    "author": "curiousBadger",
-    "comments": 251,
-    "link": "https://news.ycombinator.com/item?id=31315110"
-  },
-  {
-    "title": "Beyond message passing: A physics-inspired paradigm for graph neural networks",
-    "url": "https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/",
-    "upvotes": 64,
-    "author": "andreyk",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=31317596"
-  },
-  {
-    "title": "The Making Of Grand Theft Auto",
-    "url": "https://www.youtube.com/watch?v=7vWSi44ZTSw",
-    "upvotes": 156,
-    "author": "chha",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=31313449"
-  },
-  {
-    "title": "The Two Generals Problem",
-    "url": "https://haydenjames.io/the-two-generals-problem/",
-    "upvotes": 10,
-    "author": "ashitlerferad",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31309960"
+    "title": "Flexport",
+    "url": "https://flexport.com/careers"
   },
   {
     "title": "A Dutch city testing the future of urban life",
     "url": "https://www.bbc.com/future/article/20220404-the-dutch-city-experimenting-with-the-future-of-urban-life",
-    "upvotes": 127,
+    "upvotes": 131,
     "author": "lelf",
     "comments": 115,
     "link": "https://news.ycombinator.com/item?id=31314654"
   },
   {
-    "title": "Knitters got knotted in a purity spiral",
-    "url": "https://unherd.com/2020/01/cast-out-how-knitting-fell-into-a-purity-spiral/",
-    "upvotes": 172,
-    "author": "Tomte",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=31315237"
+    "title": "The Two Generals Problem",
+    "url": "https://haydenjames.io/the-two-generals-problem/",
+    "upvotes": 13,
+    "author": "ashitlerferad",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=31309960"
+  },
+  {
+    "title": "Flares from black hole binaries: black hole shadows via light-curve tomography",
+    "url": "https://arxiv.org/abs/2112.05829",
+    "upvotes": 34,
+    "author": "PaulHoule",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31318574"
+  },
+  {
+    "title": "On Creating a Social Network",
+    "url": "https://0xff.nu/social-network",
+    "upvotes": 5,
+    "author": "lcnmrn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31321246"
+  },
+  {
+    "title": "Differentiable Signed Distance Function Rendering",
+    "url": "http://rgl.epfl.ch/publications/Vicini2022SDF",
+    "upvotes": 153,
+    "author": "lnyan",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=31314051"
+  },
+  {
+    "title": "I’m going to miss you, but I am taking a sabbatical",
+    "url": "https://kottke.org/22/05/announcement-im-going-to-miss-you-but-i-am-taking-a-sabbatical",
+    "upvotes": 248,
+    "author": "gaws",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=31316602"
+  },
+  {
+    "title": "Preview, the Mac app people forget about",
+    "url": "https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about",
+    "upvotes": 391,
+    "author": "curiousBadger",
+    "comments": 255,
+    "link": "https://news.ycombinator.com/item?id=31315110"
+  },
+  {
+    "title": "Project Denver",
+    "url": "https://en.wikipedia.org/wiki/Project_Denver",
+    "upvotes": 5,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31307646"
+  },
+  {
+    "title": "The Making Of Grand Theft Auto",
+    "url": "https://www.youtube.com/watch?v=7vWSi44ZTSw",
+    "upvotes": 158,
+    "author": "chha",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=31313449"
+  },
+  {
+    "title": "Beyond message passing: A physics-inspired paradigm for graph neural networks",
+    "url": "https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/",
+    "upvotes": 68,
+    "author": "andreyk",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=31317596"
+  },
+  {
+    "title": "Syncing files between browser and disk using Yjs and the File System Access API",
+    "url": "https://motif.land/blog/syncing-text-files-using-yjs-and-the-file-system-access-api",
+    "upvotes": 69,
+    "author": "mfester",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=31315717"
+  },
+  {
+    "title": "Bridging Web 2 and Web 3: an identity perspective",
+    "url": "https://yenkel.dev/posts/bridging-web-2-and-web-3-an-identity-perspective",
+    "upvotes": 7,
+    "author": "yenkel",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31313202"
+  },
+  {
+    "title": "Show HN: Pythondocs.xyz – Live search for Python documentation",
+    "url": "https://pythondocs.xyz/",
+    "upvotes": 48,
+    "author": "danosull",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=31317911"
   },
   {
     "title": "Configuring My Machines with Bashtard",
     "url": "https://www.tyil.nl/post/2022/05/07/configuring-my-machines-with-bashtard/",
     "upvotes": 20,
     "author": "tyil",
-    "comments": 22,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=31303237"
   },
   {
-    "title": "Show HN: Pythondocs.xyz – Live search for Python documentation",
-    "url": "https://pythondocs.xyz/",
-    "upvotes": 47,
-    "author": "danosull",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=31317911"
+    "title": "Knitters got knotted in a purity spiral",
+    "url": "https://unherd.com/2020/01/cast-out-how-knitting-fell-into-a-purity-spiral/",
+    "upvotes": 172,
+    "author": "Tomte",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=31315237"
   },
   {
-    "title": "Ask HN: Why does nobody support h.265/HEVC anymore?",
-    "url": "item?id=31317989",
-    "upvotes": 109,
-    "author": "formerly_proven",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=31317989"
+    "title": "MVC frameworks aren't dinosaurs but sharks",
+    "url": "https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks",
+    "upvotes": 273,
+    "author": "j4mie",
+    "comments": 201,
+    "link": "https://news.ycombinator.com/item?id=31313894"
   }
 ]
