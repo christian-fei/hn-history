@@ -2,49 +2,57 @@
   {
     "title": "Nvidia releases open-source GPU kernel-modules",
     "url": "https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/",
-    "upvotes": 534,
+    "upvotes": 641,
     "author": "ghishadow",
-    "comments": 113,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=31344981"
   },
   {
     "title": "Flutter 3",
     "url": "https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release",
-    "upvotes": 154,
+    "upvotes": 183,
     "author": "tosh",
-    "comments": 73,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=31344863"
-  },
-  {
-    "title": "Passenger with “no idea how to fly” lands plane after pilot incapacitated",
-    "url": "https://www.cbsnews.com/news/passenger-lands-plane-palm-beach-airport-pilot-medical-emergency/",
-    "upvotes": 476,
-    "author": "prostoalex",
-    "comments": 334,
-    "link": "https://news.ycombinator.com/item?id=31341698"
   },
   {
     "title": "Some Notes on 'Asshat'",
     "url": "https://www.merriam-webster.com/words-at-play/some-notes-on-asshat-word-history",
-    "upvotes": 42,
+    "upvotes": 64,
     "author": "hashamali",
-    "comments": 16,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=31345163"
+  },
+  {
+    "title": "Passenger with “no idea how to fly” lands plane after pilot incapacitated",
+    "url": "https://www.cbsnews.com/news/passenger-lands-plane-palm-beach-airport-pilot-medical-emergency/",
+    "upvotes": 506,
+    "author": "prostoalex",
+    "comments": 348,
+    "link": "https://news.ycombinator.com/item?id=31341698"
   },
   {
     "title": "Markdoc: Stripe's Markdown-based authoring framework",
     "url": "https://markdoc.io",
-    "upvotes": 511,
+    "upvotes": 532,
     "author": "colinclerk",
-    "comments": 103,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=31341083"
+  },
+  {
+    "title": "How to get rid of gerrymandering: the math is surprising",
+    "url": "https://demodexio.substack.com/p/how-to-get-rid-of-gerrymandering",
+    "upvotes": 31,
+    "author": "lkrubner",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=31345478"
   },
   {
     "title": "Android Chrome 99 expands Certificate Transparency, breaking all MitM dev tools",
     "url": "https://httptoolkit.tech/blog/chrome-android-certificate-transparency/",
-    "upvotes": 186,
+    "upvotes": 191,
     "author": "pimterry",
-    "comments": 94,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=31341997"
   },
   {
@@ -52,187 +60,179 @@
     "url": "https://www.easypost.com/careers"
   },
   {
+    "title": "Nvidia Linux Open GPU Kernel Module Source",
+    "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+    "upvotes": 31,
+    "author": "crecker",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=31345439"
+  },
+  {
     "title": "Meta Is Transferring Jest to the OpenJS Foundation",
     "url": "https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/",
-    "upvotes": 177,
+    "upvotes": 191,
     "author": "jimmy2020",
-    "comments": 62,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=31342425"
   },
   {
     "title": "When old historic maps overlap with modern political maps",
     "url": "https://twitter.com/Valen10Francois/status/1524040709862576131",
-    "upvotes": 308,
+    "upvotes": 316,
     "author": "yread",
-    "comments": 116,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=31339552"
   },
   {
-    "title": "Nvidia Linux Open GPU Kernel Module Source",
-    "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
-    "upvotes": 20,
-    "author": "crecker",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31345439"
-  },
-  {
-    "title": "Our Experience Porting the YJIT Ruby Compiler to Rust",
-    "url": "https://shopify.engineering/porting-yjit-ruby-compiler-to-rust",
-    "upvotes": 60,
-    "author": "thunderbong",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=31344065"
-  },
-  {
-    "title": "European Commission prefers breaking privacy to protecting kids",
-    "url": "https://www.lightbluetouchpaper.org/2022/05/11/european-commission-prefers-breaking-privacy-to-protecting-kids/",
-    "upvotes": 236,
-    "author": "gnufx",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=31341249"
-  },
-  {
-    "title": "Master of Orion",
-    "url": "https://www.filfre.net/2020/01/master-of-orion/",
-    "upvotes": 104,
-    "author": "simonebrunozzi",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=31311150"
+    "title": "Red Hat RHEL 9 release",
+    "url": "https://www.redhat.com/en/about/press-releases/red-hat-defines-new-epicenter-innovation-red-hat-enterprise-linux-9",
+    "upvotes": 12,
+    "author": "ossusermivami",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31345872"
   },
   {
     "title": "Minnesota Wants to Ban Under-18s from User-Generated Content Services",
     "url": "https://blog.ericgoldman.org/archives/2022/05/minnesota-wants-to-ban-under-18s-from-user-generated-content-services.htm",
-    "upvotes": 32,
+    "upvotes": 48,
     "author": "germinalphrase",
-    "comments": 28,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=31344426"
   },
   {
-    "title": "How to get rid of gerrymandering: the math is surprising",
-    "url": "https://demodexio.substack.com/p/how-to-get-rid-of-gerrymandering",
-    "upvotes": 14,
-    "author": "lkrubner",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=31345478"
+    "title": "European Commission prefers breaking privacy to protecting kids",
+    "url": "https://www.lightbluetouchpaper.org/2022/05/11/european-commission-prefers-breaking-privacy-to-protecting-kids/",
+    "upvotes": 251,
+    "author": "gnufx",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=31341249"
   },
   {
-    "title": "Hard to See: How trauma became synonymous with authenticity",
-    "url": "https://reallifemag.com/hard-to-see/",
-    "upvotes": 23,
-    "author": "acsillag",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31321750"
+    "title": "Our Experience Porting the YJIT Ruby Compiler to Rust",
+    "url": "https://shopify.engineering/porting-yjit-ruby-compiler-to-rust",
+    "upvotes": 70,
+    "author": "thunderbong",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=31344065"
+  },
+  {
+    "title": "Master of Orion",
+    "url": "https://www.filfre.net/2020/01/master-of-orion/",
+    "upvotes": 109,
+    "author": "simonebrunozzi",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=31311150"
+  },
+  {
+    "title": "Regina Rexx Interpreter",
+    "url": "https://regina-rexx.sourceforge.io/",
+    "upvotes": 8,
+    "author": "rbanffy",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31345972"
   },
   {
     "title": "Windows Terminal Source Code",
     "url": "https://github.com/microsoft/terminal",
-    "upvotes": 50,
+    "upvotes": 57,
     "author": "anderspitman",
-    "comments": 35,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=31343461"
-  },
-  {
-    "title": "I/O 2022",
-    "url": "https://blog.google/technology/developers/io-2022/",
-    "upvotes": 133,
-    "author": "todsacerdoti",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=31343463"
   },
   {
     "title": "Converting Integers to Floats Using Hyperfocus",
     "url": "https://blog.m-ou.se/floats/",
-    "upvotes": 42,
+    "upvotes": 48,
     "author": "pingiun",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=31325921"
   },
   {
-    "title": "Regina Rexx Interpreter",
-    "url": "https://regina-rexx.sourceforge.io/",
-    "upvotes": 5,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31345972"
+    "title": "Hard to See: How trauma became synonymous with authenticity",
+    "url": "https://reallifemag.com/hard-to-see/",
+    "upvotes": 29,
+    "author": "acsillag",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31321750"
   },
   {
     "title": "Soil: The world beneath our feet",
     "url": "https://www.theguardian.com/environment/2022/may/07/secret-world-beneath-our-feet-mind-blowing-key-to-planets-future",
-    "upvotes": 127,
+    "upvotes": 130,
     "author": "ljf",
-    "comments": 45,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=31301928"
+  },
+  {
+    "title": "We're all living on it. But what is The Edge?",
+    "url": "https://whitep4nth3r.com/blog/what-is-the-edge-serverless-functions/",
+    "upvotes": 9,
+    "author": "stichers",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31312530"
   },
   {
     "title": "My story on “worse is better”",
     "url": "https://www.sigbus.info/worse-is-better",
-    "upvotes": 161,
+    "upvotes": 162,
     "author": "rui314",
-    "comments": 57,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=31339826"
   },
   {
     "title": "Cameras and Open Source Smartphones: It’s Complicated",
     "url": "https://puri.sm/posts/cameras-its-complicated/",
-    "upvotes": 89,
+    "upvotes": 92,
     "author": "claudiojulio",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=31341393"
   },
   {
+    "title": "I/O 2022",
+    "url": "https://blog.google/technology/developers/io-2022/",
+    "upvotes": 139,
+    "author": "todsacerdoti",
+    "comments": 162,
+    "link": "https://news.ycombinator.com/item?id=31343463"
+  },
+  {
+    "title": "WordPress’ market share is shrinking",
+    "url": "https://joost.blog/wordpress-market-share-shrinking/",
+    "upvotes": 9,
+    "author": "adamcarson",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31345749"
+  },
+  {
+    "title": "Master at Arms Merit Badge – Boy Scouts Hand to Hand Combat [pdf]",
+    "url": "https://web.archive.org/web/20211101051546if_/http://bsatroop883.com/wp-content/uploads/2015/11/Master-at-Arms.pdf",
+    "upvotes": 51,
+    "author": "83457",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=31344293"
+  },
+  {
     "title": "BERTopic: The Future of Topic Modeling",
     "url": "https://www.pinecone.io/learn/bertopic/",
-    "upvotes": 81,
+    "upvotes": 83,
     "author": "gk1",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31341250"
   },
   {
-    "title": "Master at Arms Merit Badge – Boy Scouts Hand to Hand Combat [pdf]",
-    "url": "https://web.archive.org/web/20211101051546if_/http://bsatroop883.com/wp-content/uploads/2015/11/Master-at-Arms.pdf",
-    "upvotes": 45,
-    "author": "83457",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=31344293"
+    "title": "AI-engineered enzyme eats entire plastic containers",
+    "url": "https://www.chemistryworld.com/news/ai-engineered-enzyme-eats-entire-plastic-containers/4015620.article",
+    "upvotes": 40,
+    "author": "gmays",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31342409"
   },
   {
     "title": "On $600B of Y Combinator startup success",
     "url": "https://jaredheyman.medium.com/on-600b-of-y-combinator-startup-success-fc85b2076d0d",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "merename",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=31342443"
-  },
-  {
-    "title": "AI-engineered enzyme eats entire plastic containers",
-    "url": "https://www.chemistryworld.com/news/ai-engineered-enzyme-eats-entire-plastic-containers/4015620.article",
-    "upvotes": 37,
-    "author": "gmays",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=31342409"
-  },
-  {
-    "title": "HugoConf 2022 – The free, online conference for everything Hugo",
-    "url": "https://hugoconf.io/",
-    "upvotes": 34,
-    "author": "mneumegen",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=31343294"
-  },
-  {
-    "title": "Why I Quit Google’s WebAssembly Team, and How It Made Me Sick",
-    "url": "https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1",
-    "upvotes": 332,
-    "author": "kevingadd",
-    "comments": 245,
-    "link": "https://news.ycombinator.com/item?id=31341442"
-  },
-  {
-    "title": "Ask HN: Options for handling state at the edge?",
-    "url": "item?id=31342436",
-    "upvotes": 44,
-    "author": "CaptainJustin",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=31342436"
   }
 ]
