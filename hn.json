@@ -2,23 +2,39 @@
   {
     "title": "Can we make a black hole? And if we could, what could we do with it?",
     "url": "http://backreaction.blogspot.com/2022/05/can-we-make-black-hole-and-if-we-could.html",
-    "upvotes": 38,
+    "upvotes": 52,
     "author": "nsoonhui",
-    "comments": 26,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=31377395"
+  },
+  {
+    "title": "Whistleblower on baby formula production plant tied to outbreak",
+    "url": "https://www.foodsafetynews.com/2022/04/former-employee-blows-whistle-on-baby-formula-production-plant-tied-to-outbreak/",
+    "upvotes": 17,
+    "author": "droopyEyelids",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=31377991"
   },
   {
     "title": "Safer Enums in Go",
     "url": "https://npf.io/2022/05/safer-enums/",
-    "upvotes": 36,
+    "upvotes": 49,
     "author": "tempodox",
-    "comments": 31,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=31377025"
+  },
+  {
+    "title": "Coffeezilla, the YouTuber Exposing Crypto Scams",
+    "url": "https://www.newyorker.com/news/letter-from-the-southwest/coffeezilla-the-youtuber-exposing-crypto-scams",
+    "upvotes": 28,
+    "author": "mitchbob",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31377405"
   },
   {
     "title": "Tilde.town is a computer meant for sharing",
     "url": "https://tilde.town/",
-    "upvotes": 161,
+    "upvotes": 174,
     "author": "memorable",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=31375646"
@@ -26,42 +42,54 @@
   {
     "title": "Why to Start a Startup in a Bad Economy",
     "url": "http://www.paulgraham.com/badeconomy.html",
-    "upvotes": 88,
+    "upvotes": 101,
     "author": "karimf",
-    "comments": 48,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=31375945"
   },
   {
     "title": "Comparing the C FFI overhead on various languages",
     "url": "https://github.com/dyu/ffi-overhead",
-    "upvotes": 28,
+    "upvotes": 34,
     "author": "generichuman",
-    "comments": 16,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=31376679"
   },
   {
     "title": "Dokku – Free Heroku Alternative",
     "url": "https://dokku.com/",
-    "upvotes": 65,
+    "upvotes": 77,
     "author": "punnerud",
-    "comments": 27,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=31376241"
   },
   {
     "title": "Ultimaker and Makerbot merge to form new 3D printing company",
     "url": "https://press.ultimaker.com/makerbot-and-ultimaker-agree-to-merge-to-accelerate-global-adoption-of-additive-manufacturing/",
-    "upvotes": 35,
+    "upvotes": 38,
     "author": "ChuckMcM",
-    "comments": 13,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=31358590"
   },
   {
     "title": "“Reddit is being funded by a fake company”",
     "url": "https://old.reddit.com/r/conspiracytheories/comments/up1cwf/reddit_is_being_funded_by_a_fake_company/",
-    "upvotes": 56,
+    "upvotes": 112,
     "author": "mik3y",
-    "comments": 11,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=31377380"
+  },
+  {
+    "title": "OneSignal",
+    "url": "https://onesignal.com/careers"
+  },
+  {
+    "title": "Thinking in an Array Language",
+    "url": "https://github.com/razetime/ngn-k-tutorial/blob/main/c-thinking-in-k.md",
+    "upvotes": 11,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31377262"
   },
   {
     "title": "Cursor Dance Party",
@@ -72,29 +100,25 @@
     "link": "https://news.ycombinator.com/item?id=31374364"
   },
   {
-    "title": "OneSignal",
-    "url": "https://onesignal.com/careers"
+    "title": "A PDF zine readable in any plain text editor, and it's also an MP3 [pdf]",
+    "url": "http://lab6.com/1",
+    "upvotes": 93,
+    "author": "marttt",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=31375013"
   },
   {
     "title": "A clean start for the web",
     "url": "https://macwright.com/2020/08/22/clean-starts-for-the-web.html",
-    "upvotes": 252,
+    "upvotes": 256,
     "author": "dannyow",
-    "comments": 127,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=31373643"
-  },
-  {
-    "title": "A PDF zine readable in any plain text editor, and it's also an MP3 [pdf]",
-    "url": "http://lab6.com/1",
-    "upvotes": 86,
-    "author": "marttt",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=31375013"
   },
   {
     "title": "Making fifty TIC-80 carts in a weekend",
     "url": "https://blinry.org/50-tic80-carts/",
-    "upvotes": 109,
+    "upvotes": 114,
     "author": "memorable",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31374855"
@@ -102,31 +126,63 @@
   {
     "title": "Zero-downtime Django migrations",
     "url": "https://cheigh.me/blog/posts/2022-05-10-enforcing-zero-downtime-django-migrations.html",
-    "upvotes": 15,
+    "upvotes": 19,
     "author": "cryvate1284",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31331849"
   },
   {
+    "title": "The strange detention of EU diplomats returning from Tehran",
+    "url": "https://responsiblestatecraft.org/2022/05/14/the-strange-detention-of-eu-diplomats-returning-from-tehran/",
+    "upvotes": 3,
+    "author": "nnx",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31377824"
+  },
+  {
+    "title": "Ask HN: What are examples of companies that died by the hands of Big Tech?",
+    "url": "item?id=31377826",
+    "upvotes": 9,
+    "author": "pHollda",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=31377826"
+  },
+  {
     "title": "Is It Safe to Ship Thousands of Electric Cars on Big Ships?",
     "url": "https://www.autoweek.com/news/industry-news/a39951439/is-it-safe-to-ship-thousands-of-electric-cars-on-big-ships/",
-    "upvotes": 58,
+    "upvotes": 63,
     "author": "helsinkiandrew",
-    "comments": 116,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=31375352"
+  },
+  {
+    "title": "Shell to install 100K charge points in the UK by 2030",
+    "url": "https://www.electrive.com/2022/05/12/shell-to-install-100k-charge-points-in-the-uk-by-2030/",
+    "upvotes": 19,
+    "author": "clouddrover",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=31377672"
   },
   {
     "title": "T cells block nerve cell regeneration with age, but can be reversed – mice study",
     "url": "https://www.imperial.ac.uk/news/236418/cells-block-nerve-cell-regeneration-with/",
-    "upvotes": 123,
+    "upvotes": 127,
     "author": "mrtedbear",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=31373801"
+  },
+  {
+    "title": "Pirate Site Blocking Is Making Its Way into Free Trade Agreements",
+    "url": "https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/",
+    "upvotes": 8,
+    "author": "dp-hackernews",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31378200"
   },
   {
     "title": "ZFS Without a Server Using the Nvidia BlueField-2 DPU",
     "url": "https://www.servethehome.com/zfs-without-a-server-using-the-nvidia-bluefield-2-dpu-nvme-arm-aic-iscsi/",
-    "upvotes": 75,
+    "upvotes": 76,
     "author": "walterbell",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=31374373"
@@ -134,105 +190,49 @@
   {
     "title": "The first image of Earth taken from outer space",
     "url": "https://www.vintag.es/2022/02/first-photo-from-space.html",
-    "upvotes": 79,
+    "upvotes": 81,
     "author": "pmoriarty",
-    "comments": 21,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=31374352"
   },
   {
     "title": "The Apple GPU and the impossible bug",
     "url": "https://rosenzweig.io/blog/asahi-gpu-part-5.html",
-    "upvotes": 893,
+    "upvotes": 897,
     "author": "stefan_",
     "comments": 90,
     "link": "https://news.ycombinator.com/item?id=31367365"
   },
   {
-    "title": "Shell to install 100K charge points in the UK by 2030",
-    "url": "https://www.electrive.com/2022/05/12/shell-to-install-100k-charge-points-in-the-uk-by-2030/",
-    "upvotes": 6,
-    "author": "clouddrover",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31377672"
-  },
-  {
     "title": "Soundies",
     "url": "https://en.wikipedia.org/wiki/Soundies",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "bookofjoe",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31361244"
   },
   {
     "title": "Breakthrough discovery of the one-way superconductor?",
     "url": "https://scitechdaily.com/breakthrough-discovery-of-the-one-way-superconductor-thought-to-be-impossible/",
-    "upvotes": 52,
+    "upvotes": 55,
     "author": "benglish11",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=31371792"
-  },
-  {
-    "title": "IQ scores are falling and have been for decades",
-    "url": "https://www.cnn.com/2018/06/13/health/falling-iq-scores-study-intl/index.html",
-    "upvotes": 110,
-    "author": "SQL2219",
-    "comments": 149,
-    "link": "https://news.ycombinator.com/item?id=31376634"
   },
   {
     "title": "Show HN: A Full-Stack Web Framework for Go",
     "url": "https://github.com/livebud/bud",
-    "upvotes": 470,
+    "upvotes": 474,
     "author": "matthewmueller",
-    "comments": 84,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=31371340"
   },
   {
     "title": "Meal of a lifetime: what to eat at every age",
     "url": "https://www.theguardian.com/lifeandstyle/2022/may/14/meal-of-a-lifetime-what-to-eat-at-every-age",
-    "upvotes": 39,
-    "author": "nigerian1981",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=31376420"
-  },
-  {
-    "title": "Luna Cryptocurrency Collapse: How UST Broke",
-    "url": "https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/",
-    "upvotes": 350,
-    "author": "CharlesW",
-    "comments": 713,
-    "link": "https://news.ycombinator.com/item?id=31371900"
-  },
-  {
-    "title": "Why Dopamine Makes People More Impulsive",
-    "url": "https://knowingneurons.com/2016/03/10/dopamine-makes-people-impulsive/",
-    "upvotes": 70,
-    "author": "yamrzou",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=31373386"
-  },
-  {
-    "title": "Random Restaurant",
-    "url": "https://twitter.com/_restaurant_bot",
     "upvotes": 44,
-    "author": "mindingnever",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=31369739"
-  },
-  {
-    "title": "Better.com Founder/CEO Personally Liable for $750M SoftBank Loan",
-    "url": "https://techcrunch.com/2022/05/13/better-com-ceo-vishal-garg-750m-cash-infusion-from-softbank/",
-    "upvotes": 85,
-    "author": "boeingUH60",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=31375463"
-  },
-  {
-    "title": "A portable wind turbine the size of a water bottle",
-    "url": "https://singularityhub.com/2022/05/11/this-mini-portable-wind-turbine-is-the-size-of-a-water-bottle-and-charges-devices-in-under-an-hour/",
-    "upvotes": 71,
-    "author": "RafelMri",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=31373903"
+    "author": "nigerian1981",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=31376420"
   }
 ]
