@@ -1,64 +1,92 @@
 [
   {
+    "title": "Fly.io: The Reclaimer of Heroku's Magic",
+    "url": "https://christine.website/blog/fly.io-heroku-replacement",
+    "upvotes": 60,
+    "author": "sealeck",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=31390506"
+  },
+  {
     "title": "Total Eclipse of the Moon: 2022 May 16",
     "url": "https://astro.ukho.gov.uk/eclipse/1212022/",
-    "upvotes": 101,
+    "upvotes": 117,
     "author": "perihelions",
-    "comments": 14,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31389797"
   },
   {
     "title": "The weird Hewlett Packard FreeDOS option",
     "url": "https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/",
-    "upvotes": 54,
+    "upvotes": 85,
     "author": "erik",
-    "comments": 4,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=31389893"
+  },
+  {
+    "title": "The Modern JavaScript Tutorial",
+    "url": "https://javascript.info/",
+    "upvotes": 24,
+    "author": "Hbruz0",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31390742"
   },
   {
     "title": "Japanese audio brand Onkyo files for bankruptcy",
     "url": "https://asia.nikkei.com/Business/Companies/Classic-Japanese-audio-brand-Onkyo-files-for-bankruptcy",
-    "upvotes": 168,
+    "upvotes": 182,
     "author": "ksec",
-    "comments": 116,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=31388277"
   },
   {
-    "title": "Fly.io: The Reclaimer of Heroku's Magic",
-    "url": "https://christine.website/blog/fly.io-heroku-replacement",
-    "upvotes": 19,
-    "author": "sealeck",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=31390506"
+    "title": "BuildZoom",
+    "url": "https://jobs.lever.co/buildzoom"
   },
   {
     "title": "The problem with Bitcoin miners",
     "url": "https://paulbutler.org/2022/the-problem-with-bitcoin-miners/",
-    "upvotes": 157,
+    "upvotes": 179,
     "author": "paulgb",
-    "comments": 139,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=31389647"
   },
   {
     "title": "Sleep Helps Process Emotions",
     "url": "https://www.unibe.ch/news/media_news/media_relations_e/media_releases/2022/media_releases_2022/how_sleep_helps_to_process_emotions/index_eng.html",
-    "upvotes": 16,
+    "upvotes": 25,
     "author": "laurex",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=31390111"
   },
   {
+    "title": "Breaking into the black box of artificial intelligence",
+    "url": "https://www.nature.com/articles/d41586-022-00858-1",
+    "upvotes": 13,
+    "author": "rntn",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=31390564"
+  },
+  {
+    "title": "Taskwarrior",
+    "url": "https://taskwarrior.org/",
+    "upvotes": 10,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31390728"
+  },
+  {
     "title": "Sound Blaster",
     "url": "http://www.vgmpf.com/Wiki/index.php?title=Sound_Blaster_(DOS)",
-    "upvotes": 59,
+    "upvotes": 63,
     "author": "elvis70",
-    "comments": 42,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=31387693"
   },
   {
     "title": "Introduction to Microsoft Excel",
     "url": "https://www.youtube.com/watch?v=kOO31qFmi9A",
-    "upvotes": 35,
+    "upvotes": 42,
     "author": "belter",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31382024"
@@ -66,31 +94,15 @@
   {
     "title": "Minoan Language Linear A Linked to Linear B in Groundbreaking Research",
     "url": "https://greekreporter.com/2022/04/20/minoan-language-linear-a-linear-b/",
-    "upvotes": 153,
+    "upvotes": 158,
     "author": "clouddrover",
-    "comments": 54,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=31387233"
-  },
-  {
-    "title": "GNU Data Language",
-    "url": "https://github.com/gnudatalanguage/gdl",
-    "upvotes": 50,
-    "author": "tosh",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=31388677"
-  },
-  {
-    "title": "Soupault 4.0.0: as extensible as Jekyll, still statically linked",
-    "url": "https://soupault.app/blog/soupault-4.0.0-release/",
-    "upvotes": 11,
-    "author": "dmbaturin",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31390220"
   },
   {
     "title": "Cron-based backup for SQLite",
     "url": "https://litestream.io/alternatives/cron/",
-    "upvotes": 310,
+    "upvotes": 314,
     "author": "davnicwil",
     "comments": 71,
     "link": "https://news.ycombinator.com/item?id=31386330"
@@ -102,87 +114,87 @@
   {
     "title": "My experience with exporting Postgres RDS partitioned tables to S3",
     "url": "https://geopet85.github.io/2022/05/15/rds-partitioned-tables-export.html",
-    "upvotes": 22,
+    "upvotes": 25,
     "author": "higeorge13",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=31389442"
   },
   {
+    "title": "GNU Data Language",
+    "url": "https://github.com/gnudatalanguage/gdl",
+    "upvotes": 52,
+    "author": "tosh",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=31388677"
+  },
+  {
+    "title": "Soupault 4.0.0: as extensible as Jekyll, still statically linked",
+    "url": "https://soupault.app/blog/soupault-4.0.0-release/",
+    "upvotes": 14,
+    "author": "dmbaturin",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31390220"
+  },
+  {
     "title": "Human genetic engineering is coming",
     "url": "https://www.theglobeandmail.com/opinion/article-human-genetic-engineering-is-coming-we-must-discuss-the-social-and/",
-    "upvotes": 19,
+    "upvotes": 24,
     "author": "acqbu",
-    "comments": 14,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=31382947"
+  },
+  {
+    "title": "“Carbon Bombs” – Mapping key fossil fuel projects",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0301421522001756",
+    "upvotes": 38,
+    "author": "julosflb",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31389645"
   },
   {
     "title": "Mainboard Terminal – A Retro-Style Computer with a Modern Core",
     "url": "https://github.com/penk/MainboardTerminal",
-    "upvotes": 142,
+    "upvotes": 145,
     "author": "ingve",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=31387055"
   },
   {
     "title": "Golang Diaries: Generics",
     "url": "https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics",
-    "upvotes": 101,
+    "upvotes": 102,
     "author": "ciprian_craciun",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=31387312"
   },
   {
     "title": "The overengineered solution to my pigeon problem",
     "url": "https://maxnagy.com/posts/pigeons/",
-    "upvotes": 190,
+    "upvotes": 192,
     "author": "maxmunzel",
-    "comments": 80,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=31377985"
   },
   {
     "title": "Liberating out-of-copyright photos from SmartFrame's DRM",
     "url": "https://shkspr.mobi/blog/2022/05/liberating-out-of-copyright-photos-from-smartframes-drm/",
-    "upvotes": 123,
+    "upvotes": 125,
     "author": "edent",
-    "comments": 30,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=31387092"
-  },
-  {
-    "title": "Run your home on a Raspberry Pi",
-    "url": "https://changelog.com/podcast/489",
-    "upvotes": 40,
-    "author": "mateusfreira",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=31388870"
-  },
-  {
-    "title": "Breaking into the black box of artificial intelligence",
-    "url": "https://www.nature.com/articles/d41586-022-00858-1",
-    "upvotes": 4,
-    "author": "rntn",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31390564"
-  },
-  {
-    "title": "See's Candies is Warren Buffett’s ‘dream’ investment",
-    "url": "https://thehustle.co/how-a-small-candy-company-became-warren-buffetts-dream-investment/",
-    "upvotes": 92,
-    "author": "Anon84",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=31388223"
   },
   {
     "title": "Jabra denies support for Elite 85t Bluetooth earbuds on computers",
     "url": "item?id=31388163",
-    "upvotes": 171,
+    "upvotes": 177,
     "author": "wawawiwa",
-    "comments": 128,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=31388163"
   },
   {
     "title": "Towards a Learning-Based Query Optimizer",
     "url": "https://engineering.databloom.ai/2022/05/towards-learning-based-query-optimizer.html",
-    "upvotes": 6,
+    "upvotes": 8,
     "author": "2pk03",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31376141"
@@ -190,49 +202,33 @@
   {
     "title": "A Modern Space Cadet",
     "url": "https://stevelosh.com/blog/2012/10/a-modern-space-cadet/",
-    "upvotes": 4,
+    "upvotes": 6,
     "author": "behnamoh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31390668"
   },
   {
-    "title": "Who owns the copyright to my medical images?",
-    "url": "https://shkspr.mobi/blog/2018/11/who-owns-the-copyright-to-my-medical-images/",
-    "upvotes": 105,
-    "author": "jlund-molfese",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=31387962"
+    "title": "Ask HN: Why are people in real life so different?",
+    "url": "item?id=31388731",
+    "upvotes": 96,
+    "author": "samh748",
+    "comments": 142,
+    "link": "https://news.ycombinator.com/item?id=31388731"
   },
   {
     "title": "Web Scraping with Python",
     "url": "https://www.scrapingbee.com/blog/web-scraping-101-with-python/",
-    "upvotes": 147,
+    "upvotes": 151,
     "author": "daolf",
-    "comments": 62,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=31387248"
   },
   {
-    "title": "Own your calendar and contacts with OpenBSD, Baïkal, and FOSS Android",
-    "url": "https://baak6.com/baikal-openbsd-fossdroid/",
-    "upvotes": 140,
-    "author": "baak6",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=31386619"
-  },
-  {
-    "title": "Ask HN: Why are people in real life so different?",
-    "url": "item?id=31388731",
-    "upvotes": 86,
-    "author": "samh748",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=31388731"
-  },
-  {
-    "title": "“Carbon Bombs” – Mapping key fossil fuel projects",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0301421522001756",
-    "upvotes": 30,
-    "author": "julosflb",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31389645"
+    "title": "See's Candies is Warren Buffett’s ‘dream’ investment",
+    "url": "https://thehustle.co/how-a-small-candy-company-became-warren-buffetts-dream-investment/",
+    "upvotes": 96,
+    "author": "Anon84",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=31388223"
   }
 ]
