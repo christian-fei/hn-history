@@ -1,184 +1,204 @@
 [
   {
-    "title": "The Julia language has a number of correctness flaws",
+    "title": "Correctness and composability bugs in the Julia ecosystem",
     "url": "https://yuri.is/not-julia/",
-    "upvotes": 406,
+    "upvotes": 442,
     "author": "benjojo12",
-    "comments": 167,
+    "comments": 191,
     "link": "https://news.ycombinator.com/item?id=31396861"
+  },
+  {
+    "title": "Court Ruling shows the GPL is both copyright license and contractual agreement",
+    "url": "https://sfconservancy.org/news/2022/may/16/vizio-remand-win/",
+    "upvotes": 61,
+    "author": "pabs3",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31399580"
   },
   {
     "title": "Almost all searches on my independent search engine are now from SEO spam bots",
     "url": "https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/",
-    "upvotes": 445,
+    "upvotes": 464,
     "author": "m-i-l",
-    "comments": 263,
+    "comments": 280,
     "link": "https://news.ycombinator.com/item?id=31395231"
   },
   {
     "title": "JSON and Virtual Columns in SQLite",
     "url": "https://antonz.org/json-virtual-columns/",
-    "upvotes": 149,
+    "upvotes": 160,
     "author": "todsacerdoti",
-    "comments": 31,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=31396578"
   },
   {
     "title": "Cats learn the names of their friend cats in their daily lives",
     "url": "https://www.nature.com/articles/s41598-022-10261-5",
-    "upvotes": 163,
+    "upvotes": 177,
     "author": "michaelwm",
-    "comments": 90,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=31396198"
-  },
-  {
-    "title": "OpenTelemetry Traces and PostgreSQL",
-    "url": "https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/",
-    "upvotes": 94,
-    "author": "carlotasoto",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=31397145"
   },
   {
     "title": "Ansible 2.13",
     "url": "https://github.com/ansible/ansible/blob/stable-2.13/changelogs/CHANGELOG-v2.13.rst",
-    "upvotes": 47,
+    "upvotes": 58,
     "author": "gtirloni",
-    "comments": 21,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=31398516"
   },
   {
-    "title": "The ‘flawed five’ engineering productivity metrics",
-    "url": "https://leaddev.com/reporting-metrics/flawed-five-engineering-productivity-metrics",
-    "upvotes": 19,
-    "author": "aard",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=31399312"
+    "title": "Chaingrep",
+    "url": "https://chaingrep.notion.site/chaingrep/Chaingrep-is-hiring-a2868f107f3849ab84e85ff109748d4f"
+  },
+  {
+    "title": "OpenTelemetry Traces and PostgreSQL",
+    "url": "https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/",
+    "upvotes": 98,
+    "author": "carlotasoto",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=31397145"
   },
   {
     "title": "Wp-SQLite: WordPress running on an SQLite database",
     "url": "https://github.com/stokry/wp-sqlite",
-    "upvotes": 82,
+    "upvotes": 87,
     "author": "lsferreira42",
-    "comments": 42,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=31396732"
-  },
-  {
-    "title": "Nearly 20% of active Twitter accounts are fake or spam",
-    "url": "https://sparktoro.com/blog/sparktoro-followerwonk-joint-twitter-analysis-19-42-of-active-accounts-are-fake-or-spam/",
-    "upvotes": 321,
-    "author": "iamflimflam1",
-    "comments": 263,
-    "link": "https://news.ycombinator.com/item?id=31397137"
   },
   {
     "title": "$3B in Bitcoin was sold in a last-ditch attempt to save UST from collapse",
     "url": "https://www.cnbc.com/2022/05/16/what-happened-to-the-bitcoin-reserve-behind-terras-ust-stablecoin.html",
-    "upvotes": 112,
+    "upvotes": 145,
     "author": "SirLJ",
-    "comments": 93,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=31398261"
+  },
+  {
+    "title": "Nearly 20% of active Twitter accounts are fake or spam",
+    "url": "https://sparktoro.com/blog/sparktoro-followerwonk-joint-twitter-analysis-19-42-of-active-accounts-are-fake-or-spam/",
+    "upvotes": 351,
+    "author": "iamflimflam1",
+    "comments": 279,
+    "link": "https://news.ycombinator.com/item?id=31397137"
   },
   {
     "title": "Puzzling Quantum Scenario Appears Not to Conserve Energy",
     "url": "https://www.quantamagazine.org/puzzling-quantum-scenario-appears-not-to-conserve-energy-20220516/",
-    "upvotes": 44,
+    "upvotes": 48,
     "author": "theafh",
-    "comments": 15,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31397107"
-  },
-  {
-    "title": "Not a single car was sold in Shanghai last month",
-    "url": "https://www.bloomberg.com/news/articles/2022-05-16/not-a-single-car-was-sold-in-shanghai-last-month",
-    "upvotes": 216,
-    "author": "danso",
-    "comments": 210,
-    "link": "https://news.ycombinator.com/item?id=31395967"
   },
   {
     "title": "Tell HN: Discord Ignores Right to Erasure",
     "url": "item?id=31397156",
-    "upvotes": 148,
+    "upvotes": 177,
     "author": "btdmaster",
-    "comments": 41,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=31397156"
-  },
-  {
-    "title": "Court Ruling shows the GPL is both copyright license and contractual agreement",
-    "url": "https://sfconservancy.org/news/2022/may/16/vizio-remand-win/",
-    "upvotes": 9,
-    "author": "pabs3",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31399580"
   },
   {
     "title": "The Modos Paper Laptop",
     "url": "https://www.modos.tech/blog/modos-paper-laptop",
-    "upvotes": 216,
+    "upvotes": 227,
     "author": "robin_reala",
-    "comments": 168,
+    "comments": 173,
     "link": "https://news.ycombinator.com/item?id=31394226"
   },
   {
     "title": "Web3 is just expensive P2P",
     "url": "https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/",
-    "upvotes": 358,
+    "upvotes": 374,
     "author": "mritzmann",
-    "comments": 226,
+    "comments": 236,
     "link": "https://news.ycombinator.com/item?id=31396329"
-  },
-  {
-    "title": "VoCore – Coin-Sized Linux Computer",
-    "url": "https://vocore.io/",
-    "upvotes": 104,
-    "author": "cbzbc",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=31395379"
   },
   {
     "title": "Stealing checks worth millions and pwning a bank",
     "url": "https://www.jhaddix.com/post/stealing-checks-worth-millions-pwning-a-bank",
-    "upvotes": 54,
+    "upvotes": 62,
     "author": "vbisbest",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=31395851"
+  },
+  {
+    "title": "VoCore – Coin-Sized Linux Computer",
+    "url": "https://vocore.io/",
+    "upvotes": 108,
+    "author": "cbzbc",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=31395379"
   },
   {
     "title": "Apollo Spacecraft Premodulation Processor Teardown",
     "url": "https://twitter.com/kenshirriff/status/1525134870179094528",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "kloch",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31388500"
+  },
+  {
+    "title": "Tesla FSD Beta almost causes a head-on collision [video]",
+    "url": "https://www.youtube.com/watch?v=zDEWi2nC-Wg",
+    "upvotes": 87,
+    "author": "ra7",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=31398021"
   },
   {
     "title": "New DigitalOcean Pricing",
     "url": "https://www.digitalocean.com/try/new-pricing",
-    "upvotes": 216,
+    "upvotes": 233,
     "author": "smitop",
-    "comments": 191,
+    "comments": 203,
     "link": "https://news.ycombinator.com/item?id=31396794"
+  },
+  {
+    "title": "Release Date Update from the KSP2 Team",
+    "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/208209-release-date-update-from-the-ksp2-team/",
+    "upvotes": 9,
+    "author": "obi1kenobi",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31399675"
+  },
+  {
+    "title": "The ‘flawed five’ engineering productivity metrics",
+    "url": "https://leaddev.com/reporting-metrics/flawed-five-engineering-productivity-metrics",
+    "upvotes": 32,
+    "author": "aard",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=31399312"
   },
   {
     "title": "Linux for Networking Professionals",
     "url": "https://github.com/PacktPublishing/Linux-for-Networking-Professionals",
-    "upvotes": 104,
+    "upvotes": 107,
     "author": "teleforce",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=31384895"
   },
   {
-    "title": "Tesla FSD Beta almost causes a head-on collision [video]",
-    "url": "https://www.youtube.com/watch?v=zDEWi2nC-Wg",
-    "upvotes": 56,
-    "author": "ra7",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=31398021"
+    "title": "Shopify Invests in Research for Ruby at Scale",
+    "url": "https://shopify.engineering/shopify-ruby-at-scale-research-investment",
+    "upvotes": 15,
+    "author": "chrisseaton",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31397964"
+  },
+  {
+    "title": "Show HN: What dogs can eat?",
+    "url": "https://www.pawmenow.com/what-dogs-can-eat/",
+    "upvotes": 17,
+    "author": "biancamuche",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=31397635"
   },
   {
     "title": "Coloring computers: non-electronic computers that work when you color them acco",
     "url": "https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/",
-    "upvotes": 193,
+    "upvotes": 197,
     "author": "todsacerdoti",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=31393501"
@@ -186,53 +206,33 @@
   {
     "title": "Networking FreeDOS",
     "url": "http://wisdomtree.info/dos/dostcpip.htm",
-    "upvotes": 55,
+    "upvotes": 60,
     "author": "indigodaddy",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31385274"
   },
   {
-    "title": "Release Date Update from the KSP2 Team",
-    "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/208209-release-date-update-from-the-ksp2-team/",
-    "upvotes": 4,
-    "author": "obi1kenobi",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31399675"
-  },
-  {
-    "title": "Raycast",
-    "url": "https://raycast.com/careers"
-  },
-  {
     "title": "The operational relational schema paradigm",
     "url": "https://planetscale.com/blog/the-operational-relational-schema-paradigm",
-    "upvotes": 10,
+    "upvotes": 11,
     "author": "kiyanwang",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31386516"
   },
   {
-    "title": "Show HN: What dogs can eat?",
-    "url": "https://www.pawmenow.com/what-dogs-can-eat/",
-    "upvotes": 12,
-    "author": "biancamuche",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=31397635"
+    "title": "Advanced Techniques for Reducing Emacs Startup Time",
+    "url": "https://blog.d46.us/advanced-emacs-startup/",
+    "upvotes": 95,
+    "author": "Tomte",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=31394001"
   },
   {
     "title": "Candlelit Console patch set to the OpenBSD framebuffer console",
     "url": "https://undeadly.org/cgi?action=article;sid=20220516093712",
-    "upvotes": 30,
+    "upvotes": 33,
     "author": "bsdly-pitrh",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=31395081"
-  },
-  {
-    "title": "Advanced Techniques for Reducing Emacs Startup Time",
-    "url": "https://blog.d46.us/advanced-emacs-startup/",
-    "upvotes": 91,
-    "author": "Tomte",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=31394001"
   }
 ]
