@@ -1,94 +1,58 @@
 [
   {
-    "title": "Introduction to Compilers and Language Design",
-    "url": "https://www3.nd.edu/~dthain/compilerbook/",
-    "upvotes": 83,
-    "author": "fcambus",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31388741"
+    "title": "Git ignores .gitignore with .gitignore in .gitignore",
+    "url": "https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/",
+    "upvotes": 44,
+    "author": "Tomte",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=31420268"
   },
   {
     "title": "How fast SSDs slow to a crawl: thermal throttling",
     "url": "https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/",
-    "upvotes": 31,
+    "upvotes": 39,
     "author": "gtufano",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=31419934"
   },
   {
-    "title": "3D Math Primer for Graphics and Game Development 2nd Edition",
-    "url": "https://gamemath.com/book/intro.html",
-    "upvotes": 75,
-    "author": "thread_id",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=31419494"
-  },
-  {
-    "title": "Git ignores .gitignore with .gitignore in .gitignore",
-    "url": "https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/",
-    "upvotes": 17,
-    "author": "Tomte",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=31420268"
-  },
-  {
-    "title": "Kindle, ePub, and Amazon’s love of reinventing wheels",
-    "url": "https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/",
-    "upvotes": 131,
-    "author": "prostoalex",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=31418791"
-  },
-  {
-    "title": "NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality",
+    "title": "NaturalSpeech: End-to-end text to speech synthesis with human-level quality",
     "url": "https://speechresearch.github.io/naturalspeech/",
-    "upvotes": 221,
+    "upvotes": 229,
     "author": "phsilva",
-    "comments": 68,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=31416098"
-  },
-  {
-    "title": "Doe Invests Half a Billion to De-Risk Cheaper Energy Storage",
-    "url": "https://www.solarpaces.org/doe-invests-half-a-billion-to-de-risk-cheaper-energy-storage/",
-    "upvotes": 30,
-    "author": "cinquemb",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=31419661"
-  },
-  {
-    "title": "bcachefs: Principles of Operation [pdf]",
-    "url": "https://bcachefs.org/bcachefs-principles-of-operation.pdf",
-    "upvotes": 62,
-    "author": "pabs3",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=31419120"
-  },
-  {
-    "title": "Verdn",
-    "url": "https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer"
   },
   {
     "title": "Bringing Bcachefs to Linux Mainline",
     "url": "https://lwn.net/SubscriberLink/895266/08dde553840fd74b/",
-    "upvotes": 74,
+    "upvotes": 82,
     "author": "pabs3",
-    "comments": 3,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31419121"
   },
   {
     "title": "Solar-powered desalination device wins MIT $100K competition",
     "url": "https://news.mit.edu/2022/100k-competition-nona-0516",
-    "upvotes": 194,
+    "upvotes": 200,
     "author": "rawgabbit",
-    "comments": 91,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=31417554"
+  },
+  {
+    "title": "Introduction to Compilers and Language Design",
+    "url": "https://www3.nd.edu/~dthain/compilerbook/",
+    "upvotes": 89,
+    "author": "fcambus",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=31388741"
   },
   {
     "title": "Everything you ever wanted to know about terminals",
     "url": "http://xn--rpa.cc/irl/term.html",
-    "upvotes": 294,
+    "upvotes": 302,
     "author": "melissalobos",
-    "comments": 139,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=31415937"
   },
   {
@@ -96,16 +60,8 @@
     "url": "https://www.plagiarismtoday.com/2022/05/09/plagiarism-today-plagiarized-in-a-plagiarism-atonement-essay/",
     "upvotes": 160,
     "author": "notmysql_",
-    "comments": 122,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=31416987"
-  },
-  {
-    "title": "Gophie – modern gopher client for Windows, Mac, Linux",
-    "url": "https://gophie.org/",
-    "upvotes": 116,
-    "author": "nateb2022",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=31417839"
   },
   {
     "title": "Launch HN: Infra",
@@ -116,20 +72,64 @@
     "link": "https://news.ycombinator.com/item?id=31410688"
   },
   {
+    "title": "Verdn",
+    "url": "https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer"
+  },
+  {
+    "title": "Gophie – modern gopher client for Windows, Mac, Linux",
+    "url": "https://gophie.org/",
+    "upvotes": 120,
+    "author": "nateb2022",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=31417839"
+  },
+  {
     "title": "When Your Smart ID Card Reader Comes with Malware",
     "url": "https://krebsonsecurity.com/2022/05/when-your-smart-id-card-reader-comes-with-malware/",
-    "upvotes": 73,
+    "upvotes": 76,
     "author": "todsacerdoti",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=31418208"
+  },
+  {
+    "title": "3D Math Primer for Graphics and Game Development 2nd Edition",
+    "url": "https://gamemath.com/book/intro.html",
+    "upvotes": 79,
+    "author": "thread_id",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=31419494"
   },
   {
     "title": "The Unix-Haters Handbook",
     "url": "https://web.mit.edu/~simsong/www/ugh.pdf",
-    "upvotes": 109,
+    "upvotes": 114,
     "author": "naetius",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=31417690"
+  },
+  {
+    "title": "I want an iPhone Mini-sized Android phone",
+    "url": "https://smallandroidphone.com/",
+    "upvotes": 1481,
+    "author": "erohead",
+    "comments": 920,
+    "link": "https://news.ycombinator.com/item?id=31411191"
+  },
+  {
+    "title": "Why Northern Ireland has no flag",
+    "url": "https://samenright.com/2022/05/16/northern-ireland-is-the-only-country-in-the-world-without-a-flag/",
+    "upvotes": 68,
+    "author": "MajesticFrogBoy",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=31397577"
+  },
+  {
+    "title": "EightBit-Atari-Fonts: Fonts generated from bitmaps from Atari 8bit computers",
+    "url": "https://github.com/TheRobotFactory/EightBit-Atari-Fonts",
+    "upvotes": 6,
+    "author": "lnyan",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31420182"
   },
   {
     "title": "Calculating Go type sets is harder than you think",
@@ -140,89 +140,81 @@
     "link": "https://news.ycombinator.com/item?id=31395161"
   },
   {
-    "title": "I want an iPhone Mini-sized Android phone",
-    "url": "https://smallandroidphone.com/",
-    "upvotes": 1472,
-    "author": "erohead",
-    "comments": 917,
-    "link": "https://news.ycombinator.com/item?id=31411191"
-  },
-  {
-    "title": "Why the GPL is great for business",
-    "url": "https://www.socallinuxexpo.org/scale/19x/presentations/why-gpl-great-business",
-    "upvotes": 32,
-    "author": "pabs3",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31419190"
-  },
-  {
-    "title": "EightBit-Atari-Fonts: Fonts generated from bitmaps from Atari 8bit computers",
-    "url": "https://github.com/TheRobotFactory/EightBit-Atari-Fonts",
-    "upvotes": 4,
-    "author": "lnyan",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31420182"
-  },
-  {
     "title": "A dev's thoughts on developer productivity",
     "url": "https://about.sourcegraph.com/blog/developer-productivity-thoughts/",
-    "upvotes": 255,
+    "upvotes": 259,
     "author": "raviparikh",
-    "comments": 74,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=31414681"
+  },
+  {
+    "title": "Pegasus Mail Newsflashes",
+    "url": "http://www.pmail.com/newsflash.htm",
+    "upvotes": 6,
+    "author": "edward",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31420433"
+  },
+  {
+    "title": "Kindle, ePub, and Amazon’s love of reinventing wheels",
+    "url": "https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/",
+    "upvotes": 137,
+    "author": "prostoalex",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=31418791"
   },
   {
     "title": "Ask HN: Mailing list providers with global deliverability?",
     "url": "item?id=31418908",
     "upvotes": 30,
     "author": "srkirk",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31418908"
   },
   {
-    "title": "Why Northern Ireland has no flag",
-    "url": "https://samenright.com/2022/05/16/northern-ireland-is-the-only-country-in-the-world-without-a-flag/",
-    "upvotes": 62,
-    "author": "MajesticFrogBoy",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=31397577"
+    "title": "Gimp 3 Beta Released",
+    "url": "https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/",
+    "upvotes": 107,
+    "author": "pabs3",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=31419214"
   },
   {
     "title": "The Multistate Battle over the Colorado River",
     "url": "https://nymag.com/intelligencer/2022/04/the-multistate-battle-over-the-colorado-river.html",
-    "upvotes": 30,
+    "upvotes": 31,
     "author": "pseudolus",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=31388697"
   },
   {
     "title": "Heroku CI and Review App Secrets Compromised",
     "url": "item?id=31417993",
-    "upvotes": 171,
+    "upvotes": 175,
     "author": "himeexcelanta",
-    "comments": 55,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=31417993"
   },
   {
     "title": "NASA fed some Apollo 11 lunar samples to cockroaches and mice",
     "url": "https://www.cnn.com/2019/07/29/us/nasa-lunar-samples-testing-scn-trnd/index.html",
-    "upvotes": 33,
+    "upvotes": 35,
     "author": "lelf",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31388667"
   },
   {
-    "title": "Gimp 3 Beta Released",
-    "url": "https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/",
-    "upvotes": 97,
-    "author": "pabs3",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=31419214"
+    "title": "Comparing Graviton",
+    "url": "https://www.percona.com/blog/comparing-graviton-performance-to-arm-and-intel-for-mysql/",
+    "upvotes": 5,
+    "author": "ArdelleF",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31420073"
   },
   {
     "title": "Husky, Datadog's Third-Generation Event Store",
     "url": "https://www.datadoghq.com/blog/engineering/introducing-husky/",
-    "upvotes": 123,
+    "upvotes": 130,
     "author": "louis-paul",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=31416843"
@@ -230,9 +222,17 @@
   {
     "title": "Gato – A Generalist Agent",
     "url": "https://arxiv.org/abs/2205.06175",
-    "upvotes": 124,
+    "upvotes": 125,
     "author": "deltree7",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=31415478"
+  },
+  {
+    "title": "Improving the foundation of our falling sand simulator",
+    "url": "https://jason.today/falling-improved",
+    "upvotes": 87,
+    "author": "jasonjmcghee",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=31393104"
   }
 ]
