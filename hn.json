@@ -1,32 +1,40 @@
 [
   {
+    "title": "How fast SSDs slow to a crawl: thermal throttling",
+    "url": "https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/",
+    "upvotes": 20,
+    "author": "gtufano",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31419934"
+  },
+  {
+    "title": "3D Math Primer for Graphics and Game Development 2nd Edition",
+    "url": "https://gamemath.com/book/intro.html",
+    "upvotes": 45,
+    "author": "thread_id",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31419494"
+  },
+  {
+    "title": "Introduction to Compilers and Language Design",
+    "url": "https://www3.nd.edu/~dthain/compilerbook/",
+    "upvotes": 22,
+    "author": "fcambus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31388741"
+  },
+  {
     "title": "Kindle, ePub, and Amazon’s love of reinventing wheels",
     "url": "https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/",
-    "upvotes": 101,
+    "upvotes": 114,
     "author": "prostoalex",
-    "comments": 58,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=31418791"
-  },
-  {
-    "title": "NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality",
-    "url": "https://speechresearch.github.io/naturalspeech/",
-    "upvotes": 189,
-    "author": "phsilva",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=31416098"
-  },
-  {
-    "title": "bcachefs: Principles of Operation [pdf]",
-    "url": "https://bcachefs.org/bcachefs-principles-of-operation.pdf",
-    "upvotes": 42,
-    "author": "pabs3",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=31419120"
   },
   {
     "title": "Bringing Bcachefs to Linux Mainline",
     "url": "https://lwn.net/SubscriberLink/895266/08dde553840fd74b/",
-    "upvotes": 41,
+    "upvotes": 60,
     "author": "pabs3",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31419121"
@@ -34,9 +42,9 @@
   {
     "title": "Doe Invests Half a Billion to De-Risk Cheaper Energy Storage",
     "url": "https://www.solarpaces.org/doe-invests-half-a-billion-to-de-risk-cheaper-energy-storage/",
-    "upvotes": 11,
+    "upvotes": 20,
     "author": "cinquemb",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=31419661"
   },
   {
@@ -44,49 +52,57 @@
     "url": "https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer"
   },
   {
-    "title": "3D Math Primer for Graphics and Game Development 2nd Edition",
-    "url": "https://gamemath.com/book/intro.html",
-    "upvotes": 21,
-    "author": "thread_id",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31419494"
+    "title": "NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality",
+    "url": "https://speechresearch.github.io/naturalspeech/",
+    "upvotes": 200,
+    "author": "phsilva",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=31416098"
+  },
+  {
+    "title": "bcachefs: Principles of Operation [pdf]",
+    "url": "https://bcachefs.org/bcachefs-principles-of-operation.pdf",
+    "upvotes": 49,
+    "author": "pabs3",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=31419120"
   },
   {
     "title": "Solar-powered desalination device wins MIT $100K competition",
     "url": "https://news.mit.edu/2022/100k-competition-nona-0516",
-    "upvotes": 177,
+    "upvotes": 185,
     "author": "rawgabbit",
-    "comments": 78,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=31417554"
   },
   {
     "title": "Plagiarized in a plagiarism atonement essay",
     "url": "https://www.plagiarismtoday.com/2022/05/09/plagiarism-today-plagiarized-in-a-plagiarism-atonement-essay/",
-    "upvotes": 143,
+    "upvotes": 148,
     "author": "notmysql_",
-    "comments": 92,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=31416987"
   },
   {
     "title": "Everything you ever wanted to know about terminals",
     "url": "http://xn--rpa.cc/irl/term.html",
-    "upvotes": 277,
+    "upvotes": 282,
     "author": "melissalobos",
-    "comments": 129,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=31415937"
   },
   {
     "title": "Gophie – modern gopher client for Windows, Mac, Linux",
     "url": "https://gophie.org/",
-    "upvotes": 105,
+    "upvotes": 109,
     "author": "nateb2022",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=31417839"
   },
   {
     "title": "Launch HN: Infra",
     "url": "https://github.com/infrahq/infra",
-    "upvotes": 121,
+    "upvotes": 122,
     "author": "jmorgan",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=31410688"
@@ -94,127 +110,111 @@
   {
     "title": "When Your Smart ID Card Reader Comes with Malware",
     "url": "https://krebsonsecurity.com/2022/05/when-your-smart-id-card-reader-comes-with-malware/",
-    "upvotes": 62,
+    "upvotes": 68,
     "author": "todsacerdoti",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31418208"
-  },
-  {
-    "title": "Calculating Go type sets is harder than you think",
-    "url": "https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/",
-    "upvotes": 43,
-    "author": "Merovius",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=31395161"
   },
   {
     "title": "Why the GPL is great for business",
     "url": "https://www.socallinuxexpo.org/scale/19x/presentations/why-gpl-great-business",
-    "upvotes": 18,
+    "upvotes": 23,
     "author": "pabs3",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=31419190"
   },
   {
     "title": "Why Northern Ireland has no flag",
     "url": "https://samenright.com/2022/05/16/northern-ireland-is-the-only-country-in-the-world-without-a-flag/",
-    "upvotes": 52,
+    "upvotes": 56,
     "author": "MajesticFrogBoy",
-    "comments": 35,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=31397577"
+  },
+  {
+    "title": "Calculating Go type sets is harder than you think",
+    "url": "https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/",
+    "upvotes": 44,
+    "author": "Merovius",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=31395161"
   },
   {
     "title": "The Unix-Haters Handbook",
     "url": "https://web.mit.edu/~simsong/www/ugh.pdf",
-    "upvotes": 90,
+    "upvotes": 95,
     "author": "naetius",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=31417690"
   },
   {
-    "title": "How fast SSDs slow to a crawl: thermal throttling",
-    "url": "https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/",
-    "upvotes": 3,
-    "author": "gtufano",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31419934"
+    "title": "I want an iPhone Mini-sized Android phone",
+    "url": "https://smallandroidphone.com/",
+    "upvotes": 1458,
+    "author": "erohead",
+    "comments": 900,
+    "link": "https://news.ycombinator.com/item?id=31411191"
   },
   {
     "title": "The Tough Legacy of Ulrike Meinhof",
     "url": "https://medium.com/latterly/the-tough-legacy-of-ulrike-meinhof-af1387dace69",
-    "upvotes": 17,
+    "upvotes": 21,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31388486"
   },
   {
-    "title": "I want an iPhone Mini-sized Android phone",
-    "url": "https://smallandroidphone.com/",
-    "upvotes": 1445,
-    "author": "erohead",
-    "comments": 893,
-    "link": "https://news.ycombinator.com/item?id=31411191"
-  },
-  {
     "title": "A dev's thoughts on developer productivity",
     "url": "https://about.sourcegraph.com/blog/developer-productivity-thoughts/",
-    "upvotes": 234,
+    "upvotes": 243,
     "author": "raviparikh",
-    "comments": 69,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=31414681"
   },
   {
-    "title": "Gimp 3 Beta Released",
-    "url": "https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/",
-    "upvotes": 73,
-    "author": "pabs3",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=31419214"
+    "title": "The Multistate Battle over the Colorado River",
+    "url": "https://nymag.com/intelligencer/2022/04/the-multistate-battle-over-the-colorado-river.html",
+    "upvotes": 27,
+    "author": "pseudolus",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=31388697"
   },
   {
     "title": "Ask HN: Mailing list providers with global deliverability?",
     "url": "item?id=31418908",
-    "upvotes": 22,
+    "upvotes": 24,
     "author": "srkirk",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=31418908"
   },
   {
-    "title": "The Multistate Battle over the Colorado River",
-    "url": "https://nymag.com/intelligencer/2022/04/the-multistate-battle-over-the-colorado-river.html",
-    "upvotes": 23,
-    "author": "pseudolus",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=31388697"
-  },
-  {
-    "title": "Heroku CI and Review App Secrets Compromised",
-    "url": "item?id=31417993",
-    "upvotes": 156,
-    "author": "himeexcelanta",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=31417993"
+    "title": "Gimp 3 Beta Released",
+    "url": "https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/",
+    "upvotes": 80,
+    "author": "pabs3",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=31419214"
   },
   {
     "title": "NASA fed some Apollo 11 lunar samples to cockroaches and mice",
     "url": "https://www.cnn.com/2019/07/29/us/nasa-lunar-samples-testing-scn-trnd/index.html",
-    "upvotes": 30,
+    "upvotes": 33,
     "author": "lelf",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=31388667"
   },
   {
-    "title": "Let's build a distributed Postgres proof of concept",
-    "url": "https://notes.eatonphil.com/distributed-postgres.html",
-    "upvotes": 243,
-    "author": "eatonphil",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=31412923"
+    "title": "Heroku CI and Review App Secrets Compromised",
+    "url": "item?id=31417993",
+    "upvotes": 161,
+    "author": "himeexcelanta",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=31417993"
   },
   {
     "title": "Husky, Datadog's Third-Generation Event Store",
     "url": "https://www.datadoghq.com/blog/engineering/introducing-husky/",
-    "upvotes": 111,
+    "upvotes": 115,
     "author": "louis-paul",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=31416843"
@@ -222,7 +222,7 @@
   {
     "title": "Comby - Structural code search and replace for every language",
     "url": "https://comby.dev/",
-    "upvotes": 168,
+    "upvotes": 172,
     "author": "WallyFunk",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=31413533"
@@ -230,9 +230,9 @@
   {
     "title": "Gato – A Generalist Agent",
     "url": "https://arxiv.org/abs/2205.06175",
-    "upvotes": 114,
+    "upvotes": 118,
     "author": "deltree7",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=31415478"
   }
 ]
