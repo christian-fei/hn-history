@@ -2,23 +2,31 @@
   {
     "title": "Outhorse Your Email",
     "url": "https://www.visiticeland.com/outhorse-your-email/",
-    "upvotes": 75,
+    "upvotes": 119,
     "author": "eorri",
-    "comments": 17,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=31432573"
   },
   {
     "title": "Happy Birthday, Libera Chat",
     "url": "https://libera.chat/news/happy-birthday-libera-chat",
-    "upvotes": 163,
+    "upvotes": 173,
     "author": "mcwhy",
-    "comments": 81,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=31431287"
+  },
+  {
+    "title": "You Eat a Credit’s Card Worth of Plastic Every Week",
+    "url": "https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/",
+    "upvotes": 22,
+    "author": "dnetesn",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=31432648"
   },
   {
     "title": "Show HN: HelloInbox – Ultimate email deliverability checklist and toolkit",
     "url": "https://www.helloinbox.email",
-    "upvotes": 64,
+    "upvotes": 67,
     "author": "ismaelyws",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=31431825"
@@ -26,79 +34,79 @@
   {
     "title": "Duck Chess",
     "url": "https://duckchess.com/",
-    "upvotes": 300,
+    "upvotes": 313,
     "author": "colinprince",
-    "comments": 57,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=31429290"
   },
   {
     "title": "FairEmail stopping development after Google falsely flags app as spyware",
     "url": "https://forum.xda-developers.com/t/closed-app-5-0-fairemail-fully-featured-open-source-privacy-oriented-email-app.3824168/page-1087#post-86909853",
-    "upvotes": 100,
+    "upvotes": 128,
     "author": "worble",
-    "comments": 24,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=31432334"
-  },
-  {
-    "title": "You Eat a Credit’s Card Worth of Plastic Every Week",
-    "url": "https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/",
-    "upvotes": 6,
-    "author": "dnetesn",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31432648"
   },
   {
     "title": "The Rust Borrow Checker – A Deep Dive",
     "url": "https://www.infoq.com/presentations/rust-borrow-checker/",
-    "upvotes": 22,
+    "upvotes": 27,
     "author": "chhhuang",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31432005"
   },
   {
     "title": "YC W22 Stablegains is being sued for losing $42m in funds from 4878 customers",
     "url": "https://twitter.com/FatManTerra/status/1527153694218797058",
-    "upvotes": 254,
+    "upvotes": 273,
     "author": "donsupreme",
-    "comments": 180,
+    "comments": 185,
     "link": "https://news.ycombinator.com/item?id=31431224"
   },
   {
     "title": "Plastic-eating enzyme could eliminate billions of tons of landfill waste",
     "url": "https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/",
-    "upvotes": 322,
+    "upvotes": 325,
     "author": "FrankyHollywood",
-    "comments": 243,
+    "comments": 248,
     "link": "https://news.ycombinator.com/item?id=31427011"
   },
   {
     "title": "My thoughts about Fly.io",
     "url": "https://blog.hartleybrody.com/thoughts-on-flyio/",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "hartleybrody",
-    "comments": 35,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=31413483"
   },
   {
     "title": "The Delicious Origins of the Domesticated Blueberry",
     "url": "https://daily.jstor.org/delicious-origins-of-domesticated-blueberry/",
-    "upvotes": 17,
+    "upvotes": 18,
     "author": "nkurz",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=31395921"
   },
   {
     "title": "Korg NTS-2 DIY oscilloscope and wave generator kit",
     "url": "https://www.korg.com/us/products/dj/nts_2_pt/index.php",
-    "upvotes": 87,
+    "upvotes": 91,
     "author": "dtagames",
-    "comments": 30,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=31395352"
+  },
+  {
+    "title": "My real life use-case for generics in Go: API for client-side pagination",
+    "url": "https://vladimir.varank.in/notes/2022/05/a-real-life-use-case-for-generics-in-go-api-for-client-side-pagination/",
+    "upvotes": 13,
+    "author": "varankinv",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31416896"
   },
   {
     "title": "Missing TLS intermediate certificates can create mysterious browser problems",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/web/TLSIntermediateCertHell",
-    "upvotes": 43,
+    "upvotes": 47,
     "author": "zdw",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=31430969"
@@ -106,111 +114,87 @@
   {
     "title": "Steps towards debugging and resolving Android bootloops",
     "url": "https://johannes.truschnigg.info/writing/2022-05_android_bootloop_debugging/",
-    "upvotes": 9,
+    "upvotes": 11,
     "author": "c0l0",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31413919"
   },
   {
-    "title": "Parmigiano Reggiano makers embedding tiny trackers in rind to fight cheese fraud",
-    "url": "https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label",
-    "upvotes": 229,
-    "author": "zdw",
-    "comments": 264,
-    "link": "https://news.ycombinator.com/item?id=31426700"
-  },
-  {
-    "title": "My real life use-case for generics in Go: API for client-side pagination",
-    "url": "https://vladimir.varank.in/notes/2022/05/a-real-life-use-case-for-generics-in-go-api-for-client-side-pagination/",
-    "upvotes": 11,
-    "author": "varankinv",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31416896"
-  },
-  {
     "title": "AI and Machine Learning – The Basics",
     "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
-    "upvotes": 133,
+    "upvotes": 135,
     "author": "sblank",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=31412110"
-  },
-  {
-    "title": "Zstandard Worked Example",
-    "url": "https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html",
-    "upvotes": 157,
-    "author": "stargrave",
     "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=31411714"
+    "link": "https://news.ycombinator.com/item?id=31412110"
   },
   {
     "title": "How to make video calls almost as good as face-to-face",
     "url": "https://www.benkuhn.net/vc/",
-    "upvotes": 99,
+    "upvotes": 104,
     "author": "outworlder",
-    "comments": 70,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=31416508"
+  },
+  {
+    "title": "Owl: OCaml Scientific Computing",
+    "url": "https://ocaml.xyz/",
+    "upvotes": 51,
+    "author": "lnyan",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=31430030"
   },
   {
     "title": "Does communication matter in technical interviews? Here's the data",
     "url": "https://blog.interviewing.io/does-communication-matter-in-technical-interviewing-we-looked-at-100k-interviews-to-find-out/",
-    "upvotes": 42,
+    "upvotes": 45,
     "author": "leeny",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=31423699"
   },
   {
     "title": "Long-Term Building in Japan",
     "url": "https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/",
-    "upvotes": 104,
+    "upvotes": 107,
     "author": "tosh",
-    "comments": 83,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=31428481"
-  },
-  {
-    "title": "Owl: OCaml Scientific Computing",
-    "url": "https://ocaml.xyz/",
-    "upvotes": 48,
-    "author": "lnyan",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=31430030"
-  },
-  {
-    "title": "Engineers investigating NASA’s Voyager 1 telemetry data",
-    "url": "https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data",
-    "upvotes": 187,
-    "author": "jedwhite",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=31430170"
   },
   {
     "title": "Billing systems are a nightmare for engineers",
     "url": "https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers",
-    "upvotes": 675,
+    "upvotes": 680,
     "author": "Rafsark",
-    "comments": 330,
+    "comments": 333,
     "link": "https://news.ycombinator.com/item?id=31424450"
+  },
+  {
+    "title": "Engineers investigating NASA’s Voyager 1 telemetry data",
+    "url": "https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data",
+    "upvotes": 189,
+    "author": "jedwhite",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=31430170"
   },
   {
     "title": "Software Engineering Insights from 10 Years at Google",
     "url": "https://addyosmani.com/blog/software-eng-10-years/",
-    "upvotes": 110,
+    "upvotes": 114,
     "author": "feross",
-    "comments": 81,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=31428708"
   },
   {
     "title": ".NET 7 introduces Native AOT",
     "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/",
-    "upvotes": 65,
+    "upvotes": 69,
     "author": "DeathArrow",
-    "comments": 26,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=31431387"
   },
   {
     "title": "Enzyme Electric Fields",
     "url": "https://www.science.org/content/blog-post/enzyme-electric-fields",
-    "upvotes": 14,
+    "upvotes": 15,
     "author": "_Microft",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=31411747"
@@ -218,25 +202,37 @@
   {
     "title": "I spent two years launching tiny projects",
     "url": "https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects",
-    "upvotes": 784,
+    "upvotes": 789,
     "author": "tinyprojects",
     "comments": 174,
     "link": "https://news.ycombinator.com/item?id=31421364"
   },
   {
-    "title": "Maude Overview",
-    "url": "http://maude.cs.illinois.edu/w/index.php/Maude_Overview",
-    "upvotes": 22,
-    "author": "memorable",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31387109"
-  },
-  {
     "title": "Direct observation of the dead-cone effect in quantum chromodynamics",
     "url": "https://www.nature.com/articles/s41586-022-04572-w",
-    "upvotes": 54,
+    "upvotes": 56,
     "author": "rntn",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=31428279"
+  },
+  {
+    "title": "Ask HN: Thoughts on being “boring”",
+    "url": "item?id=31427696",
+    "upvotes": 193,
+    "author": "bckr",
+    "comments": 162,
+    "link": "https://news.ycombinator.com/item?id=31427696"
+  },
+  {
+    "title": "The Modern Gamer's Guide to Running Morrowind",
+    "url": "https://serif-7.github.io/posts/openmw/",
+    "upvotes": 60,
+    "author": "Alekhine",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=31427630"
+  },
+  {
+    "title": "Rescale",
+    "url": "https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
   }
 ]
