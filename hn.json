@@ -1,40 +1,48 @@
 [
   {
-    "title": "PSA: Serious Security Vulnerability in Tor Browser",
+    "title": "Security Vulnerability in Tor Browser",
     "url": "https://darknetlive.com/post/psa-security-vuln-in-tor-browser/",
-    "upvotes": 69,
+    "upvotes": 99,
     "author": "Vladimof",
-    "comments": 24,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=31509777"
   },
   {
     "title": "Show HN: Muse 2.0 with local-first sync",
     "url": "https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/",
-    "upvotes": 30,
+    "upvotes": 49,
     "author": "adamwiggins",
-    "comments": 84,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=31494498"
-  },
-  {
-    "title": "Minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows",
-    "url": "https://minikube.sigs.k8s.io/docs/",
-    "upvotes": 48,
-    "author": "gjvc",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=31509011"
   },
   {
     "title": "Ask HN: What game do you wish existed?",
     "url": "item?id=31503201",
-    "upvotes": 551,
+    "upvotes": 571,
     "author": "jharohit",
-    "comments": 1362,
+    "comments": 1416,
     "link": "https://news.ycombinator.com/item?id=31503201"
+  },
+  {
+    "title": "Minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows",
+    "url": "https://minikube.sigs.k8s.io/docs/",
+    "upvotes": 57,
+    "author": "gjvc",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=31509011"
+  },
+  {
+    "title": "Bolt announces layoffs",
+    "url": "https://www.bolt.com/blog/message-from-bolt-ceo",
+    "upvotes": 111,
+    "author": "Lapz",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=31507599"
   },
   {
     "title": "Python utility for tracking third party dependencies within a library",
     "url": "https://github.com/IBM/import-tracker",
-    "upvotes": 124,
+    "upvotes": 128,
     "author": "prashantgupta24",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=31507106"
@@ -44,41 +52,33 @@
     "url": "https://www.paperspace.com/careers#open-positions"
   },
   {
-    "title": "Bolt announces layoffs",
-    "url": "https://www.bolt.com/blog/message-from-bolt-ceo",
-    "upvotes": 79,
-    "author": "Lapz",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=31507599"
-  },
-  {
     "title": "Show HN: Arctype, a cross-platform database GUI for developers and teams",
     "url": "https://arctype.com/",
-    "upvotes": 77,
+    "upvotes": 91,
     "author": "justindeguzman",
-    "comments": 24,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=31508850"
   },
   {
     "title": "DARPA moving forward with nuclear thermal engine design",
     "url": "https://orbitalindex.com/archive/2022-05-25-Issue-170/",
-    "upvotes": 139,
+    "upvotes": 143,
     "author": "tectonic",
-    "comments": 59,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=31505883"
   },
   {
     "title": "Go: Functional Options Are Slow",
     "url": "https://www.evanjones.ca/go-functional-options-slow.html",
-    "upvotes": 17,
+    "upvotes": 28,
     "author": "zdw",
-    "comments": null,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=31500378"
   },
   {
     "title": "8-bit number to binary string",
     "url": "https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010",
-    "upvotes": 31,
+    "upvotes": 36,
     "author": "modinfo",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31509028"
@@ -86,47 +86,47 @@
   {
     "title": "figlet – a program for making large letters out of ordinary text",
     "url": "http://www.figlet.org/",
-    "upvotes": 85,
+    "upvotes": 94,
     "author": "pmoriarty",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=31506724"
+  },
+  {
+    "title": "InSight's Final Selfie",
+    "url": "https://www.jpl.nasa.gov/images/pia25287-insights-final-selfie",
+    "upvotes": 10,
+    "author": "lelf",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31510147"
   },
   {
     "title": "Show HN: VideoMentions – Search YouTube based on the spoken words in videos",
     "url": "https://videomentions.com/search",
-    "upvotes": 204,
+    "upvotes": 208,
     "author": "kellenmace",
-    "comments": 80,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=31504002"
-  },
-  {
-    "title": "Google has been DDoSing Sourcehut for over a year",
-    "url": "https://drewdevault.com/2022/05/25/Google-has-been-DDoSing-sourcehut.html",
-    "upvotes": 275,
-    "author": "Tomte",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=31508000"
   },
   {
     "title": "May 2022 core update releasing for Google Search",
     "url": "https://developers.google.com/search/blog/2022/05/may-2022-core-update",
-    "upvotes": 60,
+    "upvotes": 63,
     "author": "taubek",
-    "comments": 37,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=31507232"
   },
   {
     "title": "Zettelkasten, linking your thinking, and Nick Milo's search for ground",
     "url": "https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/",
-    "upvotes": 75,
+    "upvotes": 78,
     "author": "taurusnoises",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31507132"
   },
   {
     "title": "An interactive browser-based zine creator",
     "url": "http://unicornycopia.com/ezm/",
-    "upvotes": 22,
+    "upvotes": 27,
     "author": "memorable",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31502376"
@@ -134,31 +134,39 @@
   {
     "title": "The benefits of “low tech” user interfaces",
     "url": "https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83",
-    "upvotes": 321,
+    "upvotes": 326,
     "author": "marban",
-    "comments": 350,
+    "comments": 356,
     "link": "https://news.ycombinator.com/item?id=31502193"
   },
   {
     "title": "Tell HN: I made $1000 with my app and now making $500/mo",
     "url": "item?id=31508009",
-    "upvotes": 335,
+    "upvotes": 358,
     "author": "strongpigeon",
-    "comments": 111,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=31508009"
   },
   {
     "title": "CRISPR tomatoes genetically engineered to be richer in Vitamin D",
     "url": "https://newatlas.com/science/tomatoes-crispr-genetic-engineering-vitamin-d/",
-    "upvotes": 67,
+    "upvotes": 77,
     "author": "lelf",
-    "comments": 49,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=31508084"
+  },
+  {
+    "title": "Annotated implementation of microKanren: an embeddable logic language",
+    "url": "https://github.com/ashton314/muKanren_reading",
+    "upvotes": 54,
+    "author": "ashton314",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=31505986"
   },
   {
     "title": "Our build and release infrastructure, and upcoming updates",
     "url": "https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html",
-    "upvotes": 97,
+    "upvotes": 100,
     "author": "grammers",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=31504175"
@@ -166,73 +174,65 @@
   {
     "title": "GameShell: A game to learn or teach the Unix shell",
     "url": "https://github.com/phyver/GameShell",
-    "upvotes": 161,
+    "upvotes": 170,
     "author": "asicsp",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=31502917"
   },
   {
-    "title": "Annotated implementation of microKanren: an embeddable logic language",
-    "url": "https://github.com/ashton314/muKanren_reading",
-    "upvotes": 48,
-    "author": "ashton314",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=31505986"
-  },
-  {
     "title": "SonoBus: High-quality, low-latency peer-to-peer audio",
     "url": "https://www.sonobus.net/",
-    "upvotes": 70,
+    "upvotes": 73,
     "author": "lazyjeff",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=31505323"
-  },
-  {
-    "title": "SwiftUI in 2022",
-    "url": "https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/",
-    "upvotes": 258,
-    "author": "mpweiher",
-    "comments": 182,
-    "link": "https://news.ycombinator.com/item?id=31504354"
   },
   {
     "title": "A Kernel Hacker Meets Fuchsia OS",
     "url": "https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html",
-    "upvotes": 230,
+    "upvotes": 237,
     "author": "chrisdinn",
-    "comments": 191,
+    "comments": 198,
     "link": "https://news.ycombinator.com/item?id=31497827"
+  },
+  {
+    "title": "SwiftUI in 2022",
+    "url": "https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/",
+    "upvotes": 262,
+    "author": "mpweiher",
+    "comments": 186,
+    "link": "https://news.ycombinator.com/item?id=31504354"
   },
   {
     "title": "Are You Sure You Want to Use MMAP in Your Database Management System? [pdf]",
     "url": "http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf",
-    "upvotes": 78,
+    "upvotes": 83,
     "author": "chhhuang",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=31504052"
   },
   {
     "title": "Credit Scores Can Run – and Ruin – Our Lives",
     "url": "https://thewalrus.ca/credit-score-canada/",
-    "upvotes": 152,
+    "upvotes": 162,
     "author": "pseudolus",
-    "comments": 273,
+    "comments": 281,
     "link": "https://news.ycombinator.com/item?id=31502432"
+  },
+  {
+    "title": "Making macOS Behave Itself",
+    "url": "https://danmackinlay.name/notebook/macos_hacks.html",
+    "upvotes": 41,
+    "author": "behnamoh",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=31507082"
   },
   {
     "title": "The New York Times is wrong about Haiti",
     "url": "https://vodoueconomics.substack.com/p/the-new-york-times-is-wrong-about",
-    "upvotes": 149,
+    "upvotes": 162,
     "author": "jseliger",
-    "comments": 131,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=31506622"
-  },
-  {
-    "title": "Lizard – efficient compression with fast decompression",
-    "url": "https://github.com/inikep/lizard",
-    "upvotes": 47,
-    "author": "pabs3",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=31500640"
   }
 ]
