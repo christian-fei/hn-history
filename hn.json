@@ -2,31 +2,23 @@
   {
     "title": "SwiftUI in 2022",
     "url": "https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/",
-    "upvotes": 37,
+    "upvotes": 84,
     "author": "mpweiher",
-    "comments": 28,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=31504354"
   },
   {
     "title": "Show HN: VideoMentions – Search YouTube based on the spoken words in videos",
     "url": "https://videomentions.com/search",
-    "upvotes": 59,
+    "upvotes": 69,
     "author": "kellenmace",
-    "comments": 22,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=31504002"
-  },
-  {
-    "title": "A Kernel Hacker Meets Fuchsia OS",
-    "url": "https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html",
-    "upvotes": 255,
-    "author": "kerneis",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=31502257"
   },
   {
     "title": "Our build and release infrastructure, and upcoming updates",
     "url": "https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html",
-    "upvotes": 34,
+    "upvotes": 41,
     "author": "grammers",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=31504175"
@@ -34,115 +26,155 @@
   {
     "title": "The benefits of “low tech” user interfaces",
     "url": "https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83",
-    "upvotes": 174,
+    "upvotes": 189,
     "author": "marban",
-    "comments": 170,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=31502193"
-  },
-  {
-    "title": "GameShell: A game to learn or teach the Unix shell",
-    "url": "https://github.com/phyver/GameShell",
-    "upvotes": 69,
-    "author": "asicsp",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=31502917"
   },
   {
     "title": "Ask HN: What game you wished existed?",
     "url": "item?id=31503201",
-    "upvotes": 33,
+    "upvotes": 70,
     "author": "jharohit",
-    "comments": 141,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=31503201"
+  },
+  {
+    "title": "GameShell: A game to learn or teach the Unix shell",
+    "url": "https://github.com/phyver/GameShell",
+    "upvotes": 78,
+    "author": "asicsp",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=31502917"
   },
   {
     "title": "Supersonic CO2 flow during champagne cork popping",
     "url": "https://aip.scitation.org/doi/10.1063/5.0089774",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "goatsneez",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=31503588"
   },
   {
     "title": "History of 127/8 as localhost/loopback addresses",
     "url": "https://elists.isoc.org/pipermail/internet-history/2021-January/006912.html",
-    "upvotes": 67,
+    "upvotes": 71,
     "author": "chha",
-    "comments": 38,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=31502276"
+  },
+  {
+    "title": "A Kernel Hacker Meets Fuchsia OS",
+    "url": "https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html",
+    "upvotes": 119,
+    "author": "chrisdinn",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=31497827"
   },
   {
     "title": "Credit Scores Can Run – and Ruin – Our Lives",
     "url": "https://thewalrus.ca/credit-score-canada/",
-    "upvotes": 61,
+    "upvotes": 73,
     "author": "pseudolus",
-    "comments": 96,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=31502432"
+  },
+  {
+    "title": "The great junk transfer is coming",
+    "url": "https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/",
+    "upvotes": 386,
+    "author": "prostoalex",
+    "comments": 330,
+    "link": "https://news.ycombinator.com/item?id=31499766"
   },
   {
     "title": "GiveCampus",
     "url": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
   },
   {
-    "title": "The great junk transfer is coming",
-    "url": "https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/",
-    "upvotes": 373,
-    "author": "prostoalex",
-    "comments": 318,
-    "link": "https://news.ycombinator.com/item?id=31499766"
-  },
-  {
-    "title": "HTTPS Everywhere will sunset in January 2023",
-    "url": "https://www.eff.org/https-everywhere/set-https-default-your-browser",
-    "upvotes": 106,
-    "author": "gslin",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=31503451"
-  },
-  {
-    "title": "Statement on 4 Years of GDPR",
-    "url": "https://noyb.eu/en/statement-4-years-gdpr",
-    "upvotes": 69,
-    "author": "starsep",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=31501897"
-  },
-  {
-    "title": "Updated Proton, Unified Protection",
-    "url": "https://proton.me/news/updated-proton",
-    "upvotes": 49,
-    "author": "jacooper",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=31503241"
-  },
-  {
     "title": "Are You Sure You Want to Use MMAP in Your Database Management System? [pdf]",
     "url": "http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf",
-    "upvotes": 10,
+    "upvotes": 14,
     "author": "chhhuang",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31504052"
   },
   {
-    "title": "Alan Turing using math to repair his bike",
-    "url": "http://mathmutation.blogspot.com/2022/05/278-bicycle-repair-man.html",
-    "upvotes": 71,
-    "author": "johndcook",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=31482247"
+    "title": "HTTPS Everywhere will sunset in January 2023",
+    "url": "https://www.eff.org/https-everywhere/set-https-default-your-browser",
+    "upvotes": 138,
+    "author": "gslin",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=31503451"
+  },
+  {
+    "title": "Statement on 4 Years of GDPR",
+    "url": "https://noyb.eu/en/statement-4-years-gdpr",
+    "upvotes": 75,
+    "author": "starsep",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=31501897"
   },
   {
     "title": "Snapcast – Synchronous multi-room audio player",
     "url": "https://github.com/badaix/snapcast",
-    "upvotes": 24,
+    "upvotes": 34,
     "author": "mafro",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=31502845"
+  },
+  {
+    "title": "Alan Turing using math to repair his bike",
+    "url": "http://mathmutation.blogspot.com/2022/05/278-bicycle-repair-man.html",
+    "upvotes": 77,
+    "author": "johndcook",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=31482247"
+  },
+  {
+    "title": "‘Making History’ Review: Writers of the Permanent Record",
+    "url": "https://www.wsj.com/articles/making-history-book-review-writers-of-the-permanent-record-11653058211",
+    "upvotes": 7,
+    "author": "diodorus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31472173"
+  },
+  {
+    "title": "The Tunitcha mountains of Arizona may be related to the word “Khan”",
+    "url": "https://old.reddit.com/r/etymology/comments/uvfrs0/the_tunitcha_mountains_of_arizona_may_be_related/",
+    "upvotes": 21,
+    "author": "benbreen",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31481813"
+  },
+  {
+    "title": "Scalable polymer films for sustainable moisture harvesting in arid environments",
+    "url": "https://www.nature.com/articles/s41467-022-30505-2",
+    "upvotes": 31,
+    "author": "origgm",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=31502545"
+  },
+  {
+    "title": "Updated Proton, Unified Protection",
+    "url": "https://proton.me/news/updated-proton",
+    "upvotes": 56,
+    "author": "jacooper",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=31503241"
+  },
+  {
+    "title": "Ask HN: How do you organize your routine?",
+    "url": "item?id=31503770",
+    "upvotes": 36,
+    "author": "Sectumbra",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=31503770"
   },
   {
     "title": "Life Monitor",
     "url": "https://kevinkle.in/posts/2022-05-21-life_monitor/",
-    "upvotes": 59,
+    "upvotes": 62,
     "author": "kkleindev",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=31477851"
@@ -150,71 +182,47 @@
   {
     "title": "Show HN: Dress Circle – IMDB for UK Theatre",
     "url": "https://www.dresscircle.co.uk",
-    "upvotes": 59,
+    "upvotes": 62,
     "author": "thehodge",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=31501928"
   },
   {
-    "title": "The Tunitcha mountains of Arizona may be related to the word “Khan”",
-    "url": "https://old.reddit.com/r/etymology/comments/uvfrs0/the_tunitcha_mountains_of_arizona_may_be_related/",
-    "upvotes": 16,
-    "author": "benbreen",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31481813"
-  },
-  {
-    "title": "Scalable polymer films for sustainable moisture harvesting in arid environments",
-    "url": "https://www.nature.com/articles/s41467-022-30505-2",
-    "upvotes": 26,
-    "author": "origgm",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=31502545"
-  },
-  {
     "title": "CSS: Absolutely positioning things relatively",
     "url": "https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b",
-    "upvotes": 92,
+    "upvotes": 97,
     "author": "ben-morris",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=31501344"
   },
   {
     "title": "Jasonette – Native App over HTTP",
     "url": "https://jasonette.com/",
-    "upvotes": 107,
+    "upvotes": 110,
     "author": "thunderbong",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=31500939"
-  },
-  {
-    "title": "This is the Way: Invisible Jenkins",
-    "url": "https://netfoundry.io/this-is-the-way-invisible-jenkins/",
-    "upvotes": 18,
-    "author": "PLG88",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=31503429"
-  },
-  {
-    "title": "Ask HN: How do you organize your routine?",
-    "url": "item?id=31503770",
-    "upvotes": 21,
-    "author": "Sectumbra",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=31503770"
   },
   {
     "title": "Not My Job",
     "url": "https://blog.dbsmasher.com/2022/05/24/not-my-job.html",
-    "upvotes": 150,
+    "upvotes": 158,
     "author": "sebg",
     "comments": 91,
     "link": "https://news.ycombinator.com/item?id=31499802"
   },
   {
+    "title": "This is the Way: Invisible Jenkins",
+    "url": "https://netfoundry.io/this-is-the-way-invisible-jenkins/",
+    "upvotes": 21,
+    "author": "PLG88",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=31503429"
+  },
+  {
     "title": "Naur on Programming as Theory Building",
     "url": "https://pages.cs.wisc.edu/~remzi/Naur.pdf",
-    "upvotes": 50,
+    "upvotes": 53,
     "author": "jaytaylor",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31500174"
@@ -222,17 +230,9 @@
   {
     "title": "Make Tracker Tunes in the Browser",
     "url": "https://www.stef.be/bassoontracker/",
-    "upvotes": 112,
+    "upvotes": 118,
     "author": "WorldPeas",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=31499629"
-  },
-  {
-    "title": "Estoppel",
-    "url": "https://ente.io/blog/r/estoppel/",
-    "upvotes": 16,
-    "author": "mnvrth",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=31502748"
   }
 ]
