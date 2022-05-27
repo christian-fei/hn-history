@@ -1,32 +1,32 @@
 [
   {
-    "title": "GoodWill ransomware forces victims to donate to the poor",
-    "url": "https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/",
-    "upvotes": 94,
-    "author": "rdpintqogeogsaa",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=31527446"
-  },
-  {
     "title": "Microsoft Windows operating system talks to 291 hosts and 2,764 IPs",
     "url": "https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/",
-    "upvotes": 60,
+    "upvotes": 96,
     "author": "pmoriarty",
-    "comments": 22,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=31527621"
+  },
+  {
+    "title": "GoodWill ransomware forces victims to donate to the poor",
+    "url": "https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/",
+    "upvotes": 107,
+    "author": "rdpintqogeogsaa",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=31527446"
   },
   {
     "title": "How I Built Zig-SQLite",
     "url": "https://rischmann.fr/blog/how-i-built-zig-sqlite",
-    "upvotes": 53,
+    "upvotes": 66,
     "author": "Sphax",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=31527559"
   },
   {
     "title": "Magical SVG Techniques",
     "url": "https://www.smashingmagazine.com/2022/05/magical-svg-techniques/",
-    "upvotes": 28,
+    "upvotes": 42,
     "author": "marban",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31502186"
@@ -34,87 +34,91 @@
   {
     "title": "Show HN: A Reddit style site to discuss podcast episodes",
     "url": "https://podbabble.com/",
-    "upvotes": 27,
+    "upvotes": 31,
     "author": "wolframhempel",
-    "comments": 21,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=31527544"
+  },
+  {
+    "title": "The Svix Webhook Service",
+    "url": "https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs"
   },
   {
     "title": "Ultra compact GAN ATX power supply delivers up to 250 Watts",
     "url": "https://www.cnx-software.com/2022/05/26/ultra-compact-gan-atx-power-supply-delivers-up-to-250-watts/",
-    "upvotes": 204,
+    "upvotes": 212,
     "author": "zdw",
-    "comments": 107,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=31525505"
   },
   {
     "title": "Internet drama in Canada",
     "url": "https://www.nytimes.com/2022/05/26/technology/canada-internet-service.html",
-    "upvotes": 155,
+    "upvotes": 162,
     "author": "ChrisArchitect",
-    "comments": 116,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=31525792"
   },
   {
     "title": "Organice: An implementation of Org mode without the dependency of Emacs",
     "url": "https://github.com/200ok-ch/organice",
-    "upvotes": 108,
+    "upvotes": 112,
     "author": "Tomte",
-    "comments": 28,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=31526231"
-  },
-  {
-    "title": "Today’s JavaScript, from an outsider’s perspective",
-    "url": "https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/",
-    "upvotes": 178,
-    "author": "ddtaylor",
-    "comments": 170,
-    "link": "https://news.ycombinator.com/item?id=31526370"
   },
   {
     "title": "NPM security update: Attack campaign using stolen OAuth tokens",
     "url": "https://github.blog/2022-05-26-npm-security-update-oauth-tokens/",
-    "upvotes": 137,
+    "upvotes": 138,
     "author": "todsacerdoti",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31526044"
+  },
+  {
+    "title": "Today’s JavaScript, from an outsider’s perspective",
+    "url": "https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/",
+    "upvotes": 182,
+    "author": "ddtaylor",
+    "comments": 185,
+    "link": "https://news.ycombinator.com/item?id=31526370"
   },
   {
     "title": "What are the odds that some idiot will name his mutex ether-rot-mutex",
     "url": "http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html",
-    "upvotes": 214,
+    "upvotes": 216,
     "author": "walterbell",
-    "comments": 111,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=31524669"
-  },
-  {
-    "title": "Kirkbride Plan",
-    "url": "https://en.wikipedia.org/wiki/Kirkbride_Plan",
-    "upvotes": 21,
-    "author": "drdee",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=31514214"
-  },
-  {
-    "title": "In search of the least viewed article on Wikipedia",
-    "url": "http://colinmorris.github.io/blog/unpopular-wiki-articles",
-    "upvotes": 116,
-    "author": "ot",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=31524943"
   },
   {
     "title": "AWS SNS vs. SQS – Main Differences",
     "url": "https://blog.serverlessq.com/aws-sns-vs-sqs-what-are-the-main-differences",
-    "upvotes": 23,
+    "upvotes": 32,
     "author": "adrianomartins",
-    "comments": 4,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31527215"
+  },
+  {
+    "title": "In search of the least viewed article on Wikipedia",
+    "url": "http://colinmorris.github.io/blog/unpopular-wiki-articles",
+    "upvotes": 117,
+    "author": "ot",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=31524943"
+  },
+  {
+    "title": "Kirkbride Plan",
+    "url": "https://en.wikipedia.org/wiki/Kirkbride_Plan",
+    "upvotes": 22,
+    "author": "drdee",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31514214"
   },
   {
     "title": "Cannoli: The Fast QEMU Tracer",
     "url": "https://margin.re/blog/cannoli-the-fast-qemu-tracer.aspx",
-    "upvotes": 63,
+    "upvotes": 66,
     "author": "zdw",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=31526002"
@@ -122,15 +126,15 @@
   {
     "title": "Rash of parts thefts is leaving Freightliner trucks inoperable",
     "url": "https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck",
-    "upvotes": 106,
+    "upvotes": 107,
     "author": "zu03776",
-    "comments": 94,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=31524597"
   },
   {
     "title": "The Data-Oriented Design Process for Game Development",
     "url": "https://www.computer.org/csdl/magazine/co/2022/05/09771161/1DeEYnefsoU",
-    "upvotes": 17,
+    "upvotes": 19,
     "author": "ibobev",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31510432"
@@ -140,16 +144,40 @@
     "url": "https://benn.substack.com/p/the-end-of-big-data",
     "upvotes": 160,
     "author": "swyx",
-    "comments": 93,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=31515938"
   },
   {
     "title": "Microsoft to Reportedly Recognize Raven Software’s Union After Aquisition",
     "url": "https://game-news24.com/2022/05/26/microsoft-to-reportedly-recognize-raven-software-s-union-after-acquisition/",
-    "upvotes": 14,
+    "upvotes": 16,
     "author": "ddtaylor",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=31526862"
+  },
+  {
+    "title": "What is end-to-end encryption and how does it work?",
+    "url": "https://proton.me/blog/what-is-end-to-end-encryption",
+    "upvotes": 11,
+    "author": "davesailer",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31512113"
+  },
+  {
+    "title": "Connection reuse may route traffic to malicious servers",
+    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1763632",
+    "upvotes": 9,
+    "author": "pabs3",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31527306"
+  },
+  {
+    "title": "Mental time travel: a hierarchical memory for reinforcement learning agents",
+    "url": "https://arxiv.org/abs/2105.14039",
+    "upvotes": 43,
+    "author": "kordlessagain",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=31514138"
   },
   {
     "title": "Ghost in the Shellcode",
@@ -160,49 +188,25 @@
     "link": "https://news.ycombinator.com/item?id=31504879"
   },
   {
-    "title": "Connection reuse may route traffic to malicious servers",
-    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1763632",
-    "upvotes": 7,
-    "author": "pabs3",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31527306"
-  },
-  {
-    "title": "Mental time travel: a hierarchical memory for reinforcement learning agents",
-    "url": "https://arxiv.org/abs/2105.14039",
-    "upvotes": 42,
-    "author": "kordlessagain",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=31514138"
-  },
-  {
-    "title": "The Truth about Inflation",
-    "url": "https://economicsfromthetopdown.com/2021/11/24/the-truth-about-inflation/",
-    "upvotes": 72,
-    "author": "szeptik",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=31525941"
-  },
-  {
     "title": "GitHub Is Down Again",
     "url": "https://www.githubstatus.com/incidents/zhtplv7zd052",
-    "upvotes": 104,
+    "upvotes": 107,
     "author": "derkoe",
-    "comments": 38,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=31527008"
   },
   {
-    "title": "AlloyDB for PostgreSQL under the hood: Columnar engine",
-    "url": "https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine",
-    "upvotes": 89,
-    "author": "eatonphil",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=31523581"
+    "title": "Taxi: A language for documenting data models and the contracts of APIs",
+    "url": "https://docs.taxilang.org/",
+    "upvotes": 61,
+    "author": "mmastrac",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=31524950"
   },
   {
     "title": "SQLite 3 Fiddle",
     "url": "https://sqlite.org/fiddle/",
-    "upvotes": 693,
+    "upvotes": 695,
     "author": "sgbeal",
     "comments": 123,
     "link": "https://news.ycombinator.com/item?id=31518618"
@@ -210,18 +214,18 @@
   {
     "title": "Terminal.Gui – Cross Platform Terminal UI Toolkit for .NET",
     "url": "https://github.com/migueldeicaza/gui.cs",
-    "upvotes": 99,
+    "upvotes": 100,
     "author": "mariuz",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=31523474"
   },
   {
-    "title": "Taxi: A language for documenting data models and the contracts of APIs",
-    "url": "https://docs.taxilang.org/",
-    "upvotes": 58,
-    "author": "mmastrac",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=31524950"
+    "title": "AlloyDB for PostgreSQL under the hood: Columnar engine",
+    "url": "https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine",
+    "upvotes": 91,
+    "author": "eatonphil",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=31523581"
   },
   {
     "title": "It's done in hardware so it's cheap",
@@ -230,13 +234,5 @@
     "author": "todsacerdoti",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=31523480"
-  },
-  {
-    "title": "A Design History of Childhood",
-    "url": "https://www.themarginalian.org/2013/03/18/century-of-the-child-moma-book/",
-    "upvotes": 8,
-    "author": "prismatic",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31498388"
   }
 ]
