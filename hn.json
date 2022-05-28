@@ -2,55 +2,71 @@
   {
     "title": "FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go",
     "url": "https://github.com/richardartoul/tsdb-layer",
-    "upvotes": 40,
+    "upvotes": 83,
     "author": "richieartoul",
-    "comments": 2,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31540521"
   },
   {
     "title": "Reverse engineering Xiaomi air purifier NFC stickers",
     "url": "https://www.flamingo-tech.nl/2022/05/27/this-is-how-they-do-it/",
-    "upvotes": 30,
+    "upvotes": 43,
     "author": "thunderbong",
-    "comments": 9,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=31540394"
   },
   {
     "title": "New discovery about distant galaxies: Stars are heavier than we thought",
     "url": "https://nbi.ku.dk/english/news/news22/new-discovery-about-distant-galaxies-stars-are-heavier-than-we-thought/",
-    "upvotes": 10,
+    "upvotes": 24,
     "author": "DeusExMachina",
-    "comments": null,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=31540540"
+  },
+  {
+    "title": "Why developers seem to only build luxury housing",
+    "url": "https://ggwash.org/view/68496/why-are-developers-only-building-luxury-housing",
+    "upvotes": 28,
+    "author": "mooreds",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=31540281"
   },
   {
     "title": "FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall",
     "url": "https://www.firezone.dev/",
-    "upvotes": 81,
+    "upvotes": 95,
     "author": "punnerud",
-    "comments": 22,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=31539386"
   },
   {
     "title": "How Do Video Games Stay in Sync?",
     "url": "https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f",
-    "upvotes": 93,
+    "upvotes": 116,
     "author": "whack",
-    "comments": 52,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=31512257"
+  },
+  {
+    "title": "Notes on Concurrency Bugs",
+    "url": "https://danluu.com/concurrency-bugs/",
+    "upvotes": 17,
+    "author": "zdw",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=31514822"
   },
   {
     "title": "Neon – Serverless Postgres",
     "url": "https://neon.tech",
-    "upvotes": 484,
+    "upvotes": 502,
     "author": "nikolay",
-    "comments": 227,
+    "comments": 229,
     "link": "https://news.ycombinator.com/item?id=31536827"
   },
   {
     "title": "Odd DNS Requests that are Normal",
     "url": "https://isc.sans.edu/diary/Odd+DNS+Requests+that+are+Normal/24844",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "pmoriarty",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31540307"
@@ -58,33 +74,25 @@
   {
     "title": "Terraform should have remained stateless",
     "url": "https://www.bejarano.io/terraform-stateless/",
-    "upvotes": 293,
+    "upvotes": 301,
     "author": "ricardbejarano",
-    "comments": 234,
+    "comments": 241,
     "link": "https://news.ycombinator.com/item?id=31537319"
-  },
-  {
-    "title": "Notes on Concurrency Bugs",
-    "url": "https://danluu.com/concurrency-bugs/",
-    "upvotes": 10,
-    "author": "zdw",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=31514822"
   },
   {
     "title": "Building the most inaccessible site with a perfect Lighthouse score",
     "url": "https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/",
-    "upvotes": 87,
+    "upvotes": 90,
     "author": "farazzz",
-    "comments": 23,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=31538475"
   },
   {
     "title": "Marginalia Goes Open Source",
     "url": "https://memex.marginalia.nu/log/58-marginalia-open-source.gmi",
-    "upvotes": 275,
+    "upvotes": 283,
     "author": "georgehill",
-    "comments": 58,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=31536626"
   },
   {
@@ -92,49 +100,73 @@
     "url": "https://onesignal.com/careers"
   },
   {
+    "title": "Google Has Banned the Training of Deepfakes in Colab",
+    "url": "https://www.unite.ai/google-has-banned-the-training-of-deepfakes-in-colab/",
+    "upvotes": 66,
+    "author": "Hard_Space",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=31538595"
+  },
+  {
     "title": "A declarative desktop UI framework for Rust built on GTK and GTK-rs",
     "url": "https://github.com/bodil/vgtk",
-    "upvotes": 64,
+    "upvotes": 69,
     "author": "tempodox",
-    "comments": 32,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=31538800"
+  },
+  {
+    "title": "Translating images into bird's-eye-view maps",
+    "url": "https://www.amazon.science/blog/translating-images-into-birds-eye-view-maps",
+    "upvotes": 7,
+    "author": "reckel",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31519423"
+  },
+  {
+    "title": "Success determined by ability to speak, ability to write, and quality of ideas",
+    "url": "https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html",
+    "upvotes": 29,
+    "author": "gmays",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=31540492"
   },
   {
     "title": "In Obscurity",
     "url": "https://droctothorpe.github.io/posts/2022/05/in-obscurity/",
-    "upvotes": 46,
+    "upvotes": 50,
     "author": "droctothorpe",
-    "comments": 17,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=31529383"
-  },
-  {
-    "title": "Google Has Banned the Training of Deepfakes in Colab",
-    "url": "https://www.unite.ai/google-has-banned-the-training-of-deepfakes-in-colab/",
-    "upvotes": 58,
-    "author": "Hard_Space",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=31538595"
   },
   {
     "title": "Open and Free Plant Identification API",
     "url": "https://plantnet.org/en/",
-    "upvotes": 152,
+    "upvotes": 157,
     "author": "animal_spirits",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31537487"
   },
   {
-    "title": "Success determined by ability to speak, ability to write, and quality of ideas",
-    "url": "https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html",
-    "upvotes": 18,
-    "author": "gmays",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=31540492"
+    "title": "Rhapsody Rabbit and Cat Concerto",
+    "url": "https://www.youtube.com/watch?v=DARLjh197qQ",
+    "upvotes": 14,
+    "author": "gus_massa",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31504652"
+  },
+  {
+    "title": "Exposure of fake Chinese tube amplifier",
+    "url": "https://www.stereonet.com/forums/topic/246417-exposure-of-fake-chinese-tube-amplifier-nobsound-ms-10d-mkii/",
+    "upvotes": 17,
+    "author": "skanderbm",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31540550"
   },
   {
     "title": "Jumbo Stay",
     "url": "https://en.wikipedia.org/wiki/Jumbo_Stay",
-    "upvotes": 100,
+    "upvotes": 104,
     "author": "jka",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=31516587"
@@ -142,97 +174,65 @@
   {
     "title": "Reasons to ditch Chrome and use Firefox",
     "url": "https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html",
-    "upvotes": 285,
+    "upvotes": 316,
     "author": "ddtaylor",
-    "comments": 219,
+    "comments": 233,
     "link": "https://news.ycombinator.com/item?id=31538482"
-  },
-  {
-    "title": "Nvidia adds liquid-cooled GPUs",
-    "url": "https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/",
-    "upvotes": 114,
-    "author": "bcaulfield",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=31511014"
-  },
-  {
-    "title": "Dark Moon: The Inevitable Collapse of Luna",
-    "url": "https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/",
-    "upvotes": 186,
-    "author": "IdEntities",
-    "comments": 160,
-    "link": "https://news.ycombinator.com/item?id=31536048"
-  },
-  {
-    "title": "Online Spirograph Tool",
-    "url": "https://nathanfriend.io/inspiral-web/",
-    "upvotes": 91,
-    "author": "eygt",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=31526908"
-  },
-  {
-    "title": "Rhapsody Rabbit and Cat Concerto",
-    "url": "https://www.youtube.com/watch?v=DARLjh197qQ",
-    "upvotes": 8,
-    "author": "gus_massa",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31504652"
   },
   {
     "title": "How the Saitama backdoor uses DNS tunnelling",
     "url": "https://blog.malwarebytes.com/threat-intelligence/2022/05/how-the-saitama-backdoor-uses-dns-tunnelling/",
-    "upvotes": 5,
+    "upvotes": 7,
     "author": "dlgtho",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31539958"
   },
   {
-    "title": "Show HN: Self-Hosted Maps Stack",
-    "url": "https://maps.ellenhp.me/",
-    "upvotes": 174,
-    "author": "ellenhp",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=31536217"
+    "title": "Nvidia adds liquid-cooled GPUs",
+    "url": "https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/",
+    "upvotes": 122,
+    "author": "bcaulfield",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=31511014"
   },
   {
-    "title": "Why developers seem to only build luxury housing",
-    "url": "https://ggwash.org/view/68496/why-are-developers-only-building-luxury-housing",
-    "upvotes": 4,
-    "author": "mooreds",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31540281"
-  },
-  {
-    "title": "The story behind Beethoven's “Ode to Joy”",
-    "url": "https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/",
-    "upvotes": 120,
-    "author": "bekind",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=31526172"
+    "title": "Online Spirograph Tool",
+    "url": "https://nathanfriend.io/inspiral-web/",
+    "upvotes": 97,
+    "author": "eygt",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=31526908"
   },
   {
     "title": "Musikcube, a cross-platform, terminal-based library, player and server",
     "url": "https://github.com/clangen/musikcube",
-    "upvotes": 46,
+    "upvotes": 47,
     "author": "Zaplanincan",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=31516365"
   },
   {
-    "title": "Lost “canceled” Squaresoft game 3156 Coro Coro located and preserved",
-    "url": "https://www.gamingalexandria.com/wp/2022/05/lost-canceled-squaresoft-game-3156-coro-coro-located-and-preserved/",
-    "upvotes": 123,
-    "author": "ecliptik",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=31536069"
+    "title": "I don't trust papers out of “Top Labs” anymore",
+    "url": "https://reddit.com/r/MachineLearning/comments/uyratt/d_i_dont_really_trust_papers_out_of_top_labs/",
+    "upvotes": 31,
+    "author": "zeebeecee",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=31539982"
   },
   {
     "title": "OpenBSD 7.1",
     "url": "https://www.openbsd.org/71.html",
-    "upvotes": 48,
+    "upvotes": 56,
     "author": "pmoriarty",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=31539822"
+  },
+  {
+    "title": "Naturalprover: Grounded Mathematical Proof Generation with Language Models",
+    "url": "https://arxiv.org/abs/2205.12910",
+    "upvotes": 24,
+    "author": "PaulHoule",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31519334"
   }
 ]
