@@ -1,238 +1,238 @@
 [
   {
+    "title": "FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go",
+    "url": "https://github.com/richardartoul/tsdb-layer",
+    "upvotes": 40,
+    "author": "richieartoul",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31540521"
+  },
+  {
+    "title": "Reverse engineering Xiaomi air purifier NFC stickers",
+    "url": "https://www.flamingo-tech.nl/2022/05/27/this-is-how-they-do-it/",
+    "upvotes": 30,
+    "author": "thunderbong",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=31540394"
+  },
+  {
+    "title": "New discovery about distant galaxies: Stars are heavier than we thought",
+    "url": "https://nbi.ku.dk/english/news/news22/new-discovery-about-distant-galaxies-stars-are-heavier-than-we-thought/",
+    "upvotes": 10,
+    "author": "DeusExMachina",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31540540"
+  },
+  {
     "title": "FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall",
     "url": "https://www.firezone.dev/",
-    "upvotes": 68,
+    "upvotes": 81,
     "author": "punnerud",
-    "comments": 18,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31539386"
   },
   {
     "title": "How Do Video Games Stay in Sync?",
     "url": "https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f",
-    "upvotes": 80,
+    "upvotes": 93,
     "author": "whack",
-    "comments": 41,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=31512257"
   },
   {
     "title": "Neon – Serverless Postgres",
     "url": "https://neon.tech",
-    "upvotes": 465,
+    "upvotes": 484,
     "author": "nikolay",
-    "comments": 218,
+    "comments": 227,
     "link": "https://news.ycombinator.com/item?id=31536827"
-  },
-  {
-    "title": "FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go",
-    "url": "https://github.com/richardartoul/tsdb-layer",
-    "upvotes": 4,
-    "author": "richieartoul",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31540521"
-  },
-  {
-    "title": "Terraform should have remained stateless",
-    "url": "https://www.bejarano.io/terraform-stateless/",
-    "upvotes": 286,
-    "author": "ricardbejarano",
-    "comments": 231,
-    "link": "https://news.ycombinator.com/item?id=31537319"
   },
   {
     "title": "Odd DNS Requests that are Normal",
     "url": "https://isc.sans.edu/diary/Odd+DNS+Requests+that+are+Normal/24844",
-    "upvotes": 5,
+    "upvotes": 9,
     "author": "pmoriarty",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31540307"
   },
   {
+    "title": "Terraform should have remained stateless",
+    "url": "https://www.bejarano.io/terraform-stateless/",
+    "upvotes": 293,
+    "author": "ricardbejarano",
+    "comments": 234,
+    "link": "https://news.ycombinator.com/item?id=31537319"
+  },
+  {
+    "title": "Notes on Concurrency Bugs",
+    "url": "https://danluu.com/concurrency-bugs/",
+    "upvotes": 10,
+    "author": "zdw",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31514822"
+  },
+  {
     "title": "Building the most inaccessible site with a perfect Lighthouse score",
     "url": "https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/",
-    "upvotes": 83,
+    "upvotes": 87,
     "author": "farazzz",
-    "comments": 17,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=31538475"
   },
   {
     "title": "Marginalia Goes Open Source",
     "url": "https://memex.marginalia.nu/log/58-marginalia-open-source.gmi",
-    "upvotes": 268,
+    "upvotes": 275,
     "author": "georgehill",
-    "comments": 54,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=31536626"
-  },
-  {
-    "title": "A declarative desktop UI framework for Rust built on GTK and GTK-rs",
-    "url": "https://github.com/bodil/vgtk",
-    "upvotes": 57,
-    "author": "tempodox",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=31538800"
-  },
-  {
-    "title": "In Obscurity",
-    "url": "https://droctothorpe.github.io/posts/2022/05/in-obscurity/",
-    "upvotes": 39,
-    "author": "droctothorpe",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=31529383"
   },
   {
     "title": "OneSignal",
     "url": "https://onesignal.com/careers"
   },
   {
+    "title": "A declarative desktop UI framework for Rust built on GTK and GTK-rs",
+    "url": "https://github.com/bodil/vgtk",
+    "upvotes": 64,
+    "author": "tempodox",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=31538800"
+  },
+  {
+    "title": "In Obscurity",
+    "url": "https://droctothorpe.github.io/posts/2022/05/in-obscurity/",
+    "upvotes": 46,
+    "author": "droctothorpe",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=31529383"
+  },
+  {
+    "title": "Google Has Banned the Training of Deepfakes in Colab",
+    "url": "https://www.unite.ai/google-has-banned-the-training-of-deepfakes-in-colab/",
+    "upvotes": 58,
+    "author": "Hard_Space",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31538595"
+  },
+  {
     "title": "Open and Free Plant Identification API",
     "url": "https://plantnet.org/en/",
-    "upvotes": 148,
+    "upvotes": 152,
     "author": "animal_spirits",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31537487"
   },
   {
-    "title": "Google Has Banned the Training of Deepfakes in Colab",
-    "url": "https://www.unite.ai/google-has-banned-the-training-of-deepfakes-in-colab/",
-    "upvotes": 39,
-    "author": "Hard_Space",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31538595"
+    "title": "Success determined by ability to speak, ability to write, and quality of ideas",
+    "url": "https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html",
+    "upvotes": 18,
+    "author": "gmays",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31540492"
   },
   {
-    "title": "Notes on Concurrency Bugs",
-    "url": "https://danluu.com/concurrency-bugs/",
-    "upvotes": 4,
-    "author": "zdw",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31514822"
-  },
-  {
-    "title": "Online Spirograph Tool",
-    "url": "https://nathanfriend.io/inspiral-web/",
-    "upvotes": 87,
-    "author": "eygt",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=31526908"
+    "title": "Jumbo Stay",
+    "url": "https://en.wikipedia.org/wiki/Jumbo_Stay",
+    "upvotes": 100,
+    "author": "jka",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=31516587"
   },
   {
     "title": "Reasons to ditch Chrome and use Firefox",
     "url": "https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html",
-    "upvotes": 270,
+    "upvotes": 285,
     "author": "ddtaylor",
-    "comments": 209,
+    "comments": 219,
     "link": "https://news.ycombinator.com/item?id=31538482"
   },
   {
     "title": "Nvidia adds liquid-cooled GPUs",
     "url": "https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/",
-    "upvotes": 113,
+    "upvotes": 114,
     "author": "bcaulfield",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=31511014"
   },
   {
-    "title": "Jumbo Stay",
-    "url": "https://en.wikipedia.org/wiki/Jumbo_Stay",
-    "upvotes": 97,
-    "author": "jka",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=31516587"
-  },
-  {
     "title": "Dark Moon: The Inevitable Collapse of Luna",
     "url": "https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/",
-    "upvotes": 181,
+    "upvotes": 186,
     "author": "IdEntities",
-    "comments": 154,
+    "comments": 160,
     "link": "https://news.ycombinator.com/item?id=31536048"
   },
   {
-    "title": "Show HN: Self-Hosted Maps Stack",
-    "url": "https://maps.ellenhp.me/",
-    "upvotes": 172,
-    "author": "ellenhp",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=31536217"
+    "title": "Online Spirograph Tool",
+    "url": "https://nathanfriend.io/inspiral-web/",
+    "upvotes": 91,
+    "author": "eygt",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=31526908"
   },
   {
-    "title": "The story behind Beethoven's “Ode to Joy”",
-    "url": "https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/",
-    "upvotes": 119,
-    "author": "bekind",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=31526172"
-  },
-  {
-    "title": "Musikcube, a cross-platform, terminal-based library, player and server",
-    "url": "https://github.com/clangen/musikcube",
-    "upvotes": 45,
-    "author": "Zaplanincan",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=31516365"
-  },
-  {
-    "title": "OpenBSD 7.1",
-    "url": "https://www.openbsd.org/71.html",
-    "upvotes": 43,
-    "author": "pmoriarty",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31539822"
-  },
-  {
-    "title": "Lost “canceled” Squaresoft game 3156 Coro Coro located and preserved",
-    "url": "https://www.gamingalexandria.com/wp/2022/05/lost-canceled-squaresoft-game-3156-coro-coro-located-and-preserved/",
-    "upvotes": 120,
-    "author": "ecliptik",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=31536069"
-  },
-  {
-    "title": "Rhapsody Rabbit and Cat Concerto – Side by Side",
+    "title": "Rhapsody Rabbit and Cat Concerto",
     "url": "https://www.youtube.com/watch?v=DARLjh197qQ",
-    "upvotes": 5,
+    "upvotes": 8,
     "author": "gus_massa",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31504652"
   },
   {
-    "title": "Naturalprover: Grounded Mathematical Proof Generation with Language Models",
-    "url": "https://arxiv.org/abs/2205.12910",
-    "upvotes": 19,
-    "author": "PaulHoule",
+    "title": "How the Saitama backdoor uses DNS tunnelling",
+    "url": "https://blog.malwarebytes.com/threat-intelligence/2022/05/how-the-saitama-backdoor-uses-dns-tunnelling/",
+    "upvotes": 5,
+    "author": "dlgtho",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31519334"
+    "link": "https://news.ycombinator.com/item?id=31539958"
   },
   {
-    "title": "Ariel Ekblaw on building beautiful architecture in space",
-    "url": "https://news.mit.edu/2022/ariel-ekblaw-architecture-space-0511",
-    "upvotes": 29,
-    "author": "bryanrasmussen",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31538123"
+    "title": "Show HN: Self-Hosted Maps Stack",
+    "url": "https://maps.ellenhp.me/",
+    "upvotes": 174,
+    "author": "ellenhp",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=31536217"
   },
   {
-    "title": "Clement Lefebvre: The Man Behind Linux Mint",
-    "url": "http://staging.computerworld.in/interview/clement-lefebvre-man-behind-linux-mint",
-    "upvotes": 42,
-    "author": "davesailer",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=31511853"
-  },
-  {
-    "title": "Success is determined by your ability to speak, write and quality of your ideas",
-    "url": "https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html",
+    "title": "Why developers seem to only build luxury housing",
+    "url": "https://ggwash.org/view/68496/why-are-developers-only-building-luxury-housing",
     "upvotes": 4,
-    "author": "gmays",
+    "author": "mooreds",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31540492"
+    "link": "https://news.ycombinator.com/item?id=31540281"
   },
   {
-    "title": "Investing in lighting did great things for my mental and physical health",
-    "url": "https://www.bramadams.dev/projects/invest-in-lights",
-    "upvotes": 242,
-    "author": "_bramses",
-    "comments": 188,
-    "link": "https://news.ycombinator.com/item?id=31536414"
+    "title": "The story behind Beethoven's “Ode to Joy”",
+    "url": "https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/",
+    "upvotes": 120,
+    "author": "bekind",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=31526172"
+  },
+  {
+    "title": "Musikcube, a cross-platform, terminal-based library, player and server",
+    "url": "https://github.com/clangen/musikcube",
+    "upvotes": 46,
+    "author": "Zaplanincan",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=31516365"
+  },
+  {
+    "title": "Lost “canceled” Squaresoft game 3156 Coro Coro located and preserved",
+    "url": "https://www.gamingalexandria.com/wp/2022/05/lost-canceled-squaresoft-game-3156-coro-coro-located-and-preserved/",
+    "upvotes": 123,
+    "author": "ecliptik",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=31536069"
+  },
+  {
+    "title": "OpenBSD 7.1",
+    "url": "https://www.openbsd.org/71.html",
+    "upvotes": 48,
+    "author": "pmoriarty",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31539822"
   }
 ]
