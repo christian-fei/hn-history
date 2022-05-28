@@ -2,23 +2,31 @@
   {
     "title": "Terraform should have remained stateless",
     "url": "https://www.bejarano.io/terraform-stateless/",
-    "upvotes": 166,
+    "upvotes": 174,
     "author": "ricardbejarano",
-    "comments": 135,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=31537319"
   },
   {
     "title": "Neon – Serverless Postgres",
     "url": "https://neon.tech",
-    "upvotes": 244,
+    "upvotes": 254,
     "author": "nikolay",
-    "comments": 122,
+    "comments": 134,
     "link": "https://news.ycombinator.com/item?id=31536827"
+  },
+  {
+    "title": "Blocklist of all Facebook domains",
+    "url": "https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all",
+    "upvotes": 8,
+    "author": "ddtaylor",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31538630"
   },
   {
     "title": "Marginalia Goes Open Source",
     "url": "https://memex.marginalia.nu/log/58-marginalia-open-source.gmi",
-    "upvotes": 172,
+    "upvotes": 177,
     "author": "georgehill",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=31536626"
@@ -26,41 +34,41 @@
   {
     "title": "Jumbo Stay",
     "url": "https://en.wikipedia.org/wiki/Jumbo_Stay",
-    "upvotes": 41,
+    "upvotes": 45,
     "author": "jka",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=31516587"
   },
   {
-    "title": "Nvidia adds liquid-cooled GPUs",
-    "url": "https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/",
-    "upvotes": 62,
-    "author": "bcaulfield",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=31511014"
-  },
-  {
     "title": "Open and Free Plant Identification API",
     "url": "https://plantnet.org/en/",
-    "upvotes": 61,
+    "upvotes": 70,
     "author": "animal_spirits",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=31537487"
   },
   {
+    "title": "Nvidia adds liquid-cooled GPUs",
+    "url": "https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/",
+    "upvotes": 64,
+    "author": "bcaulfield",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=31511014"
+  },
+  {
     "title": "Knots 3D – Learn how to tie over 150 useful knots",
     "url": "https://knots3d.com/",
-    "upvotes": 461,
+    "upvotes": 465,
     "author": "kosasbest",
-    "comments": 112,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=31532199"
   },
   {
     "title": "Show HN: Self-Hosted Maps Stack",
     "url": "https://maps.ellenhp.me/",
-    "upvotes": 127,
+    "upvotes": 128,
     "author": "ellenhp",
-    "comments": 40,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=31536217"
   },
   {
@@ -70,41 +78,57 @@
   {
     "title": "Dark Moon: The Inevitable Collapse of Luna",
     "url": "https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/",
-    "upvotes": 124,
+    "upvotes": 129,
     "author": "IdEntities",
-    "comments": 84,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=31536048"
-  },
-  {
-    "title": "Lost “canceled” Squaresoft game 3156 Coro Coro located and preserved",
-    "url": "https://www.gamingalexandria.com/wp/2022/05/lost-canceled-squaresoft-game-3156-coro-coro-located-and-preserved/",
-    "upvotes": 88,
-    "author": "ecliptik",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=31536069"
   },
   {
     "title": "Online Spirograph Tool",
     "url": "https://nathanfriend.io/inspiral-web/",
-    "upvotes": 10,
+    "upvotes": 14,
     "author": "eygt",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31526908"
   },
   {
+    "title": "Reasons to ditch Chrome and use Firefox",
+    "url": "https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html",
+    "upvotes": 30,
+    "author": "ddtaylor",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31538482"
+  },
+  {
+    "title": "Lost “canceled” Squaresoft game 3156 Coro Coro located and preserved",
+    "url": "https://www.gamingalexandria.com/wp/2022/05/lost-canceled-squaresoft-game-3156-coro-coro-located-and-preserved/",
+    "upvotes": 92,
+    "author": "ecliptik",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=31536069"
+  },
+  {
+    "title": "Musikcube, a cross-platform, terminal-based library, player and server",
+    "url": "https://github.com/clangen/musikcube",
+    "upvotes": 13,
+    "author": "Zaplanincan",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31516365"
+  },
+  {
     "title": "The story behind Beethoven's “Ode to Joy”",
     "url": "https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/",
-    "upvotes": 74,
+    "upvotes": 75,
     "author": "bekind",
-    "comments": 20,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=31526172"
   },
   {
     "title": "RED is suing Nikon for infringing on its video compression patents",
     "url": "https://nikonrumors.com/2022/05/26/red-is-suing-nikon-for-infringing-on-its-video-compression-patents.aspx/",
-    "upvotes": 198,
+    "upvotes": 201,
     "author": "giuliomagnifico",
-    "comments": 203,
+    "comments": 204,
     "link": "https://news.ycombinator.com/item?id=31532285"
   },
   {
@@ -116,84 +140,76 @@
     "link": "https://news.ycombinator.com/item?id=31535034"
   },
   {
+    "title": "Architecture Notes: Datasette",
+    "url": "https://architecturenotes.co/datasette-simon-willison/",
+    "upvotes": 287,
+    "author": "pcr910303",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=31530690"
+  },
+  {
     "title": "Clement Lefebvre: The Man Behind Linux Mint",
     "url": "http://staging.computerworld.in/interview/clement-lefebvre-man-behind-linux-mint",
     "upvotes": 22,
     "author": "davesailer",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=31511853"
-  },
-  {
-    "title": "Architecture Notes: Datasette",
-    "url": "https://architecturenotes.co/datasette-simon-willison/",
-    "upvotes": 282,
-    "author": "pcr910303",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=31530690"
-  },
-  {
-    "title": "Musikcube, a cross-platform, terminal-based library, player and server",
-    "url": "https://github.com/clangen/musikcube",
-    "upvotes": 8,
-    "author": "Zaplanincan",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=31516365"
   },
   {
     "title": "Investing in lighting did great things for my mental and physical health",
     "url": "https://www.bramadams.dev/projects/invest-in-lights",
-    "upvotes": 190,
+    "upvotes": 192,
     "author": "_bramses",
-    "comments": 146,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=31536414"
+  },
+  {
+    "title": "An uroboros program with 100 programming languages",
+    "url": "https://github.com/mame/quine-relay",
+    "upvotes": 75,
+    "author": "rvnx",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31536320"
   },
   {
     "title": "What would a recession mean for developers?",
     "url": "https://blog.boot.dev/news/what-would-a-recession-do-to-developers/",
     "upvotes": 69,
     "author": "wagslane",
-    "comments": 50,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=31537290"
-  },
-  {
-    "title": "Ariel Ekblaw on building beautiful architecture in space",
-    "url": "https://news.mit.edu/2022/ariel-ekblaw-architecture-space-0511",
-    "upvotes": 4,
-    "author": "bryanrasmussen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31538123"
   },
   {
     "title": "Web scraping with Python open knowledge",
     "url": "https://github.com/reanalytics-databoutique/webscraping-open-project",
-    "upvotes": 178,
+    "upvotes": 179,
     "author": "PigiVinci83",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=31531694"
   },
   {
-    "title": "An uroboros program with 100 programming languages",
-    "url": "https://github.com/mame/quine-relay",
-    "upvotes": 71,
-    "author": "rvnx",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=31536320"
-  },
-  {
-    "title": "Snort – Network Intrusion Detection and Prevention System",
-    "url": "https://www.snort.org/",
-    "upvotes": 103,
-    "author": "pmoriarty",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=31534316"
-  },
-  {
     "title": "Tell HN: My early access eBook over iOS made $120k in 1 year",
     "url": "item?id=31534988",
-    "upvotes": 239,
+    "upvotes": 244,
     "author": "jordanmorgan10",
-    "comments": 54,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=31534988"
+  },
+  {
+    "title": "How to read mathematics",
+    "url": "https://www.people.vcu.edu/~dcranston/490/handouts/math-read.html",
+    "upvotes": 112,
+    "author": "penguin_booze",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=31533125"
+  },
+  {
+    "title": "Ariel Ekblaw on building beautiful architecture in space",
+    "url": "https://news.mit.edu/2022/ariel-ekblaw-architecture-space-0511",
+    "upvotes": 5,
+    "author": "bryanrasmussen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31538123"
   },
   {
     "title": "Nim: Curated Packages",
@@ -204,35 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=31536044"
   },
   {
-    "title": "How to read mathematics",
-    "url": "https://www.people.vcu.edu/~dcranston/490/handouts/math-read.html",
-    "upvotes": 110,
-    "author": "penguin_booze",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=31533125"
-  },
-  {
     "title": "High performance individuals and teams",
     "url": "https://pablasso.com/high-performance-individuals-and-teams/",
-    "upvotes": 119,
+    "upvotes": 121,
     "author": "ivanvas",
-    "comments": 42,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=31532878"
   },
   {
-    "title": "Reasons to ditch Chrome and use Firefox",
-    "url": "https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html",
-    "upvotes": 7,
-    "author": "ddtaylor",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31538482"
-  },
-  {
-    "title": "Flexible diffusion modeling of long videos",
-    "url": "https://plai.cs.ubc.ca/2022/05/20/flexible-diffusion-modeling-of-long-videos/",
-    "upvotes": 55,
-    "author": "thorum",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=31536019"
+    "title": "Snort – Network Intrusion Detection and Prevention System",
+    "url": "https://www.snort.org/",
+    "upvotes": 105,
+    "author": "pmoriarty",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=31534316"
   }
 ]
