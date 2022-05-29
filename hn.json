@@ -2,31 +2,31 @@
   {
     "title": "My students cheated... a lot",
     "url": "https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html",
-    "upvotes": 508,
+    "upvotes": 564,
     "author": "benjyhirsch",
-    "comments": 472,
+    "comments": 500,
     "link": "https://news.ycombinator.com/item?id=31544634"
+  },
+  {
+    "title": "A tool to render and upscale Sierra adventure game background images",
+    "url": "https://github.com/eviltrout/agi-upscale",
+    "upvotes": 23,
+    "author": "todsacerdoti",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=31546334"
   },
   {
     "title": "Earthworms after rain",
     "url": "https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/",
-    "upvotes": 74,
+    "upvotes": 83,
     "author": "thunderbong",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=31545324"
   },
   {
-    "title": "A tool to render and upscale Sierra adventure game background images",
-    "url": "https://github.com/eviltrout/agi-upscale",
-    "upvotes": 13,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31546334"
-  },
-  {
     "title": "System Font Stack",
     "url": "https://systemfontstack.com",
-    "upvotes": 236,
+    "upvotes": 245,
     "author": "SenHeng",
     "comments": 128,
     "link": "https://news.ycombinator.com/item?id=31543054"
@@ -34,63 +34,71 @@
   {
     "title": "Make formal verification and provably correct software practical and mainstream",
     "url": "https://github.com/magmide/magmide",
-    "upvotes": 126,
+    "upvotes": 129,
     "author": "peanutcrisis",
-    "comments": 81,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=31543953"
-  },
-  {
-    "title": "In defense of coding interviews",
-    "url": "https://biggestfish.substack.com/p/in-defense-of-coding-interviews",
-    "upvotes": 55,
-    "author": "lilfrost",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=31544997"
   },
   {
     "title": "Once in a Lifetime",
     "url": "https://www.ethanhein.com/wp/2022/once-in-a-lifetime/",
-    "upvotes": 92,
+    "upvotes": 99,
     "author": "troydavis",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=31542502"
   },
   {
-    "title": "Werner Herzog eats his shoe",
-    "url": "https://en.wikipedia.org/wiki/Werner_Herzog_Eats_His_Shoe",
-    "upvotes": 11,
-    "author": "graderjs",
+    "title": "Chaos: The real problem with quantum mechanics",
+    "url": "http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html",
+    "upvotes": 32,
+    "author": "firebaze",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=31544372"
+  },
+  {
+    "title": "Transform any text into a patent application",
+    "url": "https://lav.io/2014/05/transform-any-text-into-a-patent-application/",
+    "upvotes": 9,
+    "author": "behnamoh",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31538866"
+    "link": "https://news.ycombinator.com/item?id=31546380"
+  },
+  {
+    "title": "In defense of coding interviews",
+    "url": "https://biggestfish.substack.com/p/in-defense-of-coding-interviews",
+    "upvotes": 59,
+    "author": "lilfrost",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=31544997"
   },
   {
     "title": "I'm retiring from the engineering profession",
     "url": "https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession",
-    "upvotes": 62,
+    "upvotes": 73,
     "author": "ThatGeoGuy",
-    "comments": 35,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=31545142"
+  },
+  {
+    "title": "Werner Herzog eats his shoe",
+    "url": "https://en.wikipedia.org/wiki/Werner_Herzog_Eats_His_Shoe",
+    "upvotes": 19,
+    "author": "graderjs",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31538866"
   },
   {
     "title": "Understanding Bloom filters by building one",
     "url": "https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "nalgeon",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=31545399"
   },
   {
-    "title": "Chaos: The real problem with quantum mechanics",
-    "url": "http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html",
-    "upvotes": 23,
-    "author": "firebaze",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31544372"
-  },
-  {
     "title": "Adding rollback netplay to a Game Boy Advance game from 2005: Part 1",
     "url": "https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game",
-    "upvotes": 87,
+    "upvotes": 89,
     "author": "vore",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31543579"
@@ -98,10 +106,34 @@
   {
     "title": "Building a threat intelligence feed using the Twitter API and a bit of code",
     "url": "https://grimminck.medium.com/building-a-threat-intelligence-feed-using-the-twitter-api-and-a-bit-of-code-5787808e32ef",
-    "upvotes": 51,
+    "upvotes": 52,
     "author": "Robbedoes",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31544816"
+  },
+  {
+    "title": "GitHub Star History Graph",
+    "url": "https://star-history.com",
+    "upvotes": 137,
+    "author": "bokenator",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=31542234"
+  },
+  {
+    "title": "Time Series and FoundationDB",
+    "url": "https://github.com/richardartoul/tsdb-layer",
+    "upvotes": 231,
+    "author": "richieartoul",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=31540521"
+  },
+  {
+    "title": "Paginating Requests in APIs",
+    "url": "https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c",
+    "upvotes": 219,
+    "author": "exemel_hn",
+    "comments": 161,
+    "link": "https://news.ycombinator.com/item?id=31541070"
   },
   {
     "title": "Debugging a mysterious Python crash",
@@ -112,65 +144,25 @@
     "link": "https://news.ycombinator.com/item?id=31545168"
   },
   {
-    "title": "GitHub Star History Graph",
-    "url": "https://star-history.com",
-    "upvotes": 137,
-    "author": "bokenator",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=31542234"
-  },
-  {
-    "title": "Time Series and FoundationDB",
-    "url": "https://github.com/richardartoul/tsdb-layer",
-    "upvotes": 229,
-    "author": "richieartoul",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=31540521"
-  },
-  {
-    "title": "Transform any text into a patent application",
-    "url": "https://lav.io/2014/05/transform-any-text-into-a-patent-application/",
-    "upvotes": 4,
-    "author": "behnamoh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31546380"
-  },
-  {
-    "title": "Paginating Requests in APIs",
-    "url": "https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c",
-    "upvotes": 217,
-    "author": "exemel_hn",
-    "comments": 159,
-    "link": "https://news.ycombinator.com/item?id=31541070"
-  },
-  {
     "title": "Print an Arduino-powered color mechanical television",
     "url": "https://spectrum.ieee.org/mechanical-tv",
-    "upvotes": 42,
+    "upvotes": 43,
     "author": "sohkamyung",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=31511958"
   },
   {
-    "title": "Reverse engineering Xiaomi air purifier NFC stickers",
-    "url": "https://www.flamingo-tech.nl/2022/05/27/this-is-how-they-do-it/",
-    "upvotes": 201,
-    "author": "thunderbong",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=31540394"
-  },
-  {
     "title": "Linux kernel RNG enhancements for 5.19",
     "url": "https://twitter.com/EdgeSecurity/status/1528494394604761094",
-    "upvotes": 94,
+    "upvotes": 95,
     "author": "zx2c4",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=31517231"
   },
   {
     "title": "Show HN: Memlink, a self-contained web page in a link",
     "url": "https://meml.ink/MTsxfGZpZzpNZW1MaW5rOzU7MjtjfGgyOkluLW1lbW9yeSBtaWNybyB3ZWIgcGFnZXM7NTszO2N8cDpNZW1MaW5rcyBhcmUgc2VsZi1jb250YWluZWQsIG1pY3JvIHdlYnNpdGVzIHRoYXQgYXJlIGZ1bGx5IGdlbmVyYXRlZCBhdCB0aGUgZWRnZS58cDpVc2UgYSBNZW1MaW5rIHRvIGVhc2lseSBzaGFyZSBsaXN0cyBvZiBsaW5rcywgY29udGFjdCBkZXRhaWxzLCBwcm9qZWN0IG92ZXJ2aWV3cywgYW5kIHNvIG11Y2ggbW9yZS58aDM6VGhlIGxpbmsgaXMgdGhlIHdlYiBwYWdlLjsxOzN8cDpNZW1saW5rIHBhZ2VzIGFyZSBjb21wb3NlZCBvZiBibG9ja3MgdGhhdCBjYW4gYmUgYWRkZWQsIHJlbW92ZWQsIGFuZCByZWFycmFuZ2VkIHRvIG1ha2UgdW5pcXVlIGFuZCBjcmVhdGl2ZSBjb250ZW50LnxwOkNyZWF0ZSB5b3VyIG93biBNZW1saW5rIG5vdyBieSBjbGlja2luZyBFZGl0IHRoaXMgcGFnZSBiZWxvdy4g",
-    "upvotes": 105,
+    "upvotes": 108,
     "author": "throwaway413",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=31540616"
@@ -178,18 +170,34 @@
   {
     "title": "Making pip installs a little less slow",
     "url": "https://pythonspeed.com/articles/faster-pip-installs/",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "zdw",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31526001"
   },
   {
     "title": "SplinterDB: High performance embedded key-value store",
     "url": "https://github.com/vmware/splinterdb",
-    "upvotes": 75,
+    "upvotes": 76,
     "author": "ridruejo",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=31515765"
+  },
+  {
+    "title": "The Weight I Carry",
+    "url": "https://www.theatlantic.com/health/archive/2019/01/weight-loss-essay-tomlinson/579832/",
+    "upvotes": 13,
+    "author": "Tomte",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=31539017"
+  },
+  {
+    "title": "What Was the Wiretap?",
+    "url": "https://www.thenation.com/article/culture/the-listeners-wiretap-history-review/",
+    "upvotes": 27,
+    "author": "samclemens",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31537702"
   },
   {
     "title": "Ciaramella DSP web playground",
@@ -200,39 +208,35 @@
     "link": "https://news.ycombinator.com/item?id=31538686"
   },
   {
+    "title": "Persist or let it go: a study of entrepreneurial decision making",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0883902622000222?via%3Dihub",
+    "upvotes": 101,
+    "author": "sgfgross",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=31541320"
+  },
+  {
     "title": "Code quality only matters in context",
     "url": "https://www.adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html",
     "upvotes": 108,
     "author": "behnamoh",
-    "comments": 61,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=31537655"
   },
   {
-    "title": "The Weight I Carry",
-    "url": "https://www.theatlantic.com/health/archive/2019/01/weight-loss-essay-tomlinson/579832/",
-    "upvotes": 11,
-    "author": "Tomte",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=31539017"
+    "title": "Ampere Announces 5nm Arm Server CPU",
+    "url": "https://www.servethehome.com/ampere-announces-5nm-arm-server-cpu-ampereone/",
+    "upvotes": 58,
+    "author": "ksec",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=31541858"
   },
   {
-    "title": "Metron C++ to Verilog Translator Tutorial",
-    "url": "https://aappleby.github.io/Metron/tutorial/",
-    "upvotes": 6,
-    "author": "aappleby",
+    "title": "Fearful Symmetry: Inkblot Books",
+    "url": "https://publicdomainreview.org/collection/inkblot-books/",
+    "upvotes": 18,
+    "author": "prismatic",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31538111"
-  },
-  {
-    "title": "What Was the Wiretap?",
-    "url": "https://www.thenation.com/article/culture/the-listeners-wiretap-history-review/",
-    "upvotes": 26,
-    "author": "samclemens",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31537702"
-  },
-  {
-    "title": "QuestDB",
-    "url": "https://questdb.io/careers"
+    "link": "https://news.ycombinator.com/item?id=31544050"
   }
 ]
