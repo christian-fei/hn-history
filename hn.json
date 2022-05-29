@@ -2,39 +2,39 @@
   {
     "title": "In praise of the humble Sheffield stand",
     "url": "https://twitter.com/BrixtonHatter/status/1493299809574342659",
-    "upvotes": 99,
+    "upvotes": 125,
     "author": "_dain_",
-    "comments": 59,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=31551854"
   },
   {
     "title": "Why does this code execute more slowly after strength-reducing multiplications?",
     "url": "https://stackoverflow.com/questions/72306573/why-does-this-code-execute-more-slowly-after-strength-reducing-multiplications-t",
-    "upvotes": 212,
+    "upvotes": 227,
     "author": "ttsiodras",
-    "comments": 59,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=31549050"
-  },
-  {
-    "title": "Lisp, Smalltalk, and the power of symmetry",
-    "url": "https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/",
-    "upvotes": 35,
-    "author": "behnamoh",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=31552349"
   },
   {
     "title": "Privacy first, open source home automation",
     "url": "https://www.home-assistant.io/blog/2022/05/16/home-assistant-os-release-8/",
-    "upvotes": 39,
+    "upvotes": 61,
     "author": "balaji1",
-    "comments": 16,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=31552100"
+  },
+  {
+    "title": "Lisp, Smalltalk, and the power of symmetry",
+    "url": "https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/",
+    "upvotes": 42,
+    "author": "behnamoh",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=31552349"
   },
   {
     "title": "Electronic Catan LCD Tiles",
     "url": "https://coliniuliano.ca/projects/catan-tiles/",
-    "upvotes": 402,
+    "upvotes": 414,
     "author": "jsnell",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=31548268"
@@ -42,27 +42,35 @@
   {
     "title": "Ray-optics: a web app to simulate the reflection and refraction of light",
     "url": "https://ricktu288.github.io/ray-optics/",
-    "upvotes": 57,
+    "upvotes": 62,
     "author": "lnyan",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=31540214"
+  },
+  {
+    "title": "Setting up a Pi Hole made my home network faster",
+    "url": "https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/",
+    "upvotes": 180,
+    "author": "pmoriarty",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=31549238"
   },
   {
     "title": "BuildZoom",
     "url": "https://jobs.lever.co/buildzoom"
   },
   {
-    "title": "Setting up a Pi Hole made my home network faster",
-    "url": "https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/",
-    "upvotes": 165,
-    "author": "pmoriarty",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=31549238"
+    "title": "Print an Arduino-Powered Color Mechanical Television",
+    "url": "https://spectrum.ieee.org/mechanical-tv",
+    "upvotes": 13,
+    "author": "Sandman",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31526871"
   },
   {
     "title": "Vanishing fore-edge paintings",
     "url": "https://www.foredgefrost.co.uk",
-    "upvotes": 48,
+    "upvotes": 54,
     "author": "whatami",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=31551037"
@@ -70,79 +78,87 @@
   {
     "title": "AKAI MPC 3000: The Best Drum Machine of All Time",
     "url": "https://audiojive.com/akai-mpc-3000/",
-    "upvotes": 26,
+    "upvotes": 30,
     "author": "midislack",
-    "comments": 8,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=31551544"
-  },
-  {
-    "title": "Graviton 3: First Impressions",
-    "url": "https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/",
-    "upvotes": 127,
-    "author": "ingve",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=31548989"
-  },
-  {
-    "title": "TinyPilot: Build a KVM over IP for Under $100",
-    "url": "https://tinypilotkvm.com/blog/build-a-kvm-over-ip-under-100",
-    "upvotes": 93,
-    "author": "Brajeshwar",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=31549368"
-  },
-  {
-    "title": "Falsehoods Programmers Believe About Search",
-    "url": "https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/",
-    "upvotes": 31,
-    "author": "ddtaylor",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=31551262"
   },
   {
     "title": "Building a Budget Homelab NAS Server",
     "url": "https://mtlynch.io/budget-nas/",
-    "upvotes": 256,
+    "upvotes": 268,
     "author": "mtlynch",
-    "comments": 225,
+    "comments": 228,
     "link": "https://news.ycombinator.com/item?id=31548829"
+  },
+  {
+    "title": "TinyPilot: Build a KVM over IP for Under $100",
+    "url": "https://tinypilotkvm.com/blog/build-a-kvm-over-ip-under-100",
+    "upvotes": 101,
+    "author": "Brajeshwar",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=31549368"
+  },
+  {
+    "title": "Graviton 3: First Impressions",
+    "url": "https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/",
+    "upvotes": 130,
+    "author": "ingve",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=31548989"
+  },
+  {
+    "title": "Squid and Octopus Genome Studies Reveal How Cephalopods’ Unique Traits Evolved",
+    "url": "https://www.mbl.edu/news/squid-and-octopus-genome-studies-reveal-how-cephalopods-unique-traits-evolved",
+    "upvotes": 15,
+    "author": "Hooke",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31545042"
+  },
+  {
+    "title": "What Is the Web Revival?",
+    "url": "https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival",
+    "upvotes": 9,
+    "author": "spansoa",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31552476"
+  },
+  {
+    "title": "Falsehoods Programmers Believe About Search",
+    "url": "https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/",
+    "upvotes": 34,
+    "author": "ddtaylor",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=31551262"
   },
   {
     "title": "Make Your Own Chips for Free",
     "url": "https://efabless.com/open_shuttle_program",
-    "upvotes": 64,
+    "upvotes": 71,
     "author": "obl",
-    "comments": 37,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=31550900"
+  },
+  {
+    "title": "The real story of Pinocchio",
+    "url": "https://www.smithsonianmag.com/travel/the-real-pinocchio-180980027/",
+    "upvotes": 33,
+    "author": "Digit-Al",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31538693"
   },
   {
     "title": "MEGA65 – Evolution, Part 1",
     "url": "https://devdef.blogspot.com/2022/05/mega65-evolution-part-1.html",
-    "upvotes": 16,
+    "upvotes": 18,
     "author": "ibobev",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=31551627"
   },
   {
-    "title": "The real story of Pinocchio",
-    "url": "https://www.smithsonianmag.com/travel/the-real-pinocchio-180980027/",
-    "upvotes": 29,
-    "author": "Digit-Al",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=31538693"
-  },
-  {
-    "title": "Print an Arduino-Powered Color Mechanical Television",
-    "url": "https://spectrum.ieee.org/mechanical-tv",
-    "upvotes": 7,
-    "author": "Sandman",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31526871"
-  },
-  {
     "title": "Pixar's notes on Rigid Body Simulation",
     "url": "https://graphics.pixar.com/pbm2001/pdf/notesg.pdf",
-    "upvotes": 75,
+    "upvotes": 82,
     "author": "cpp_frog",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=31549631"
@@ -150,89 +166,73 @@
   {
     "title": "Warp: Lightweight Multi-Key Transactions for Key-Value Stores",
     "url": "http://muratbuffalo.blogspot.com/2022/05/warp-lightweight-multi-key-transactions.html",
-    "upvotes": 22,
+    "upvotes": 26,
     "author": "yagizdegirmenci",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=31551221"
-  },
-  {
-    "title": "Arc Browser Company: Chrome and Safari face a new challenger",
-    "url": "https://www.bloomberg.com/news/features/2022-05-27/google-chrome-and-apple-safari-challenged-by-browser-upstart",
-    "upvotes": 68,
-    "author": "cpeterso",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=31544988"
   },
   {
     "title": "Modern football through the lens of René Girard",
     "url": "https://xandfootball.substack.com/p/modern-football-through-the-lens",
-    "upvotes": 29,
+    "upvotes": 32,
     "author": "Niklas96",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=31528088"
-  },
-  {
-    "title": "The age of the fast self-checkout lane is over",
-    "url": "https://devnull.land/bye-fast-checkout-lanes",
-    "upvotes": 10,
-    "author": "julianlam",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=31551718"
   },
   {
     "title": "Food security and the coming storm",
     "url": "https://www.eurasiagroup.net/live-post/food-security",
-    "upvotes": 131,
+    "upvotes": 137,
     "author": "rntn",
-    "comments": 202,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=31548281"
   },
   {
     "title": "Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go",
     "url": "https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html",
-    "upvotes": 43,
+    "upvotes": 46,
     "author": "todsacerdoti",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31549797"
   },
   {
+    "title": "Arc Browser Company: Chrome and Safari face a new challenger",
+    "url": "https://www.bloomberg.com/news/features/2022-05-27/google-chrome-and-apple-safari-challenged-by-browser-upstart",
+    "upvotes": 73,
+    "author": "cpeterso",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=31544988"
+  },
+  {
     "title": "Learn the logic of great typography",
     "url": "https://learnui.design/tools/typography-tutorial.html",
-    "upvotes": 161,
+    "upvotes": 165,
     "author": "marban",
-    "comments": 53,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=31528601"
   },
   {
     "title": "The saga of Apple’s troubled mixed reality headset",
     "url": "https://arstechnica.com/gadgets/2022/05/the-full-saga-of-apples-troubled-mixed-reality-headset-has-been-revealed/",
-    "upvotes": 90,
+    "upvotes": 96,
     "author": "andyjohnson0",
-    "comments": 120,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=31548344"
+  },
+  {
+    "title": "Show HN: Spanish Basic",
+    "url": "https://www.vainilla.app/",
+    "upvotes": 10,
+    "author": "sandes",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31551887"
   },
   {
     "title": "Study claims Amazon, Apple, Google, Meta, Microsoft work to derail data rules",
     "url": "https://www.theregister.com/2022/05/27/big_tech_privacy/",
-    "upvotes": 259,
+    "upvotes": 274,
     "author": "LinuxBender",
-    "comments": 141,
+    "comments": 147,
     "link": "https://news.ycombinator.com/item?id=31549237"
-  },
-  {
-    "title": "New study finds significant amount of HFO degradation product in drinking water",
-    "url": "https://hydrocarbons21.com/new-german-study-finds-significant-amount-of-hfo-degradation-product-tfa-in-drinking-water/",
-    "upvotes": 74,
-    "author": "doener",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=31548234"
-  },
-  {
-    "title": "Metrication timeline",
-    "url": "https://ukma.org.uk/press/metrication-timeline/",
-    "upvotes": 46,
-    "author": "tosh",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=31548949"
   }
 ]
