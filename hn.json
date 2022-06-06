@@ -2,155 +2,187 @@
   {
     "title": "Plain text, with lines",
     "url": "http://akkartik.name/lines.html",
-    "upvotes": 326,
+    "upvotes": 351,
     "author": "mpweiher",
-    "comments": 103,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=31637910"
   },
   {
     "title": "The true cost of linked lists",
     "url": "http://ykarroum.com/2022/05/30/true-cost-list/",
-    "upvotes": 110,
+    "upvotes": 130,
     "author": "karroum",
-    "comments": 86,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=31638746"
+  },
+  {
+    "title": "Yandex Founder and CEO, Arkady Volozh, Sanctioned by the EU",
+    "url": "https://ir.yandex/press-releases?year=2022",
+    "upvotes": 22,
+    "author": "ushakov",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31640470"
   },
   {
     "title": "The Surreal Case of a CIA Hacker’s Revenge",
     "url": "https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge",
-    "upvotes": 35,
+    "upvotes": 64,
     "author": "jbegley",
-    "comments": 18,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=31639354"
+  },
+  {
+    "title": "Arc and Mutex in Rust",
+    "url": "https://itsallaboutthebit.com/arc-mutex/",
+    "upvotes": 35,
+    "author": "bshanks",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=31628027"
+  },
+  {
+    "title": "Probability and Statistics Cookbook",
+    "url": "https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf",
+    "upvotes": 17,
+    "author": "cpp_frog",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31640229"
   },
   {
     "title": "In Defense of OpenStreetMap's Data Model",
     "url": "https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data",
-    "upvotes": 103,
+    "upvotes": 114,
     "author": "SteveCoast",
-    "comments": 52,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=31638648"
   },
   {
     "title": "Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1",
     "url": "https://worthdoingbadly.com/hv/",
-    "upvotes": 137,
+    "upvotes": 146,
     "author": "transpute",
-    "comments": 48,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=31638173"
-  },
-  {
-    "title": "Arc and Mutex in Rust",
-    "url": "https://itsallaboutthebit.com/arc-mutex/",
-    "upvotes": 18,
-    "author": "bshanks",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31628027"
-  },
-  {
-    "title": "No-op statements syntactically valid only since Python X.Y",
-    "url": "https://github.com/jwilk/python-syntax-errors",
-    "upvotes": 197,
-    "author": "pabs3",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=31637428"
   },
   {
     "title": "Video codecs and 4k",
     "url": "https://scalibq.wordpress.com/2022/06/04/video-codecs-and-4k/",
-    "upvotes": 22,
+    "upvotes": 30,
     "author": "zdw",
-    "comments": 6,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=31631308"
   },
   {
     "title": "Amino acids found in asteroid samples collected by Japan's Hayabusa2 probe",
     "url": "https://english.kyodonews.net/news/2022/06/9a7dbced6c3a-amino-acids-found-in-asteroid-samples-collected-by-hayabusa2-probe.html",
-    "upvotes": 154,
+    "upvotes": 170,
     "author": "jiocrag",
-    "comments": 31,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=31637664"
   },
   {
-    "title": "Absolute truths I unlearned as junior developer",
-    "url": "https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/",
-    "upvotes": 337,
-    "author": "ddtaylor",
-    "comments": 178,
-    "link": "https://news.ycombinator.com/item?id=31636812"
+    "title": "No-op statements syntactically valid only since Python X.Y",
+    "url": "https://github.com/jwilk/python-syntax-errors",
+    "upvotes": 210,
+    "author": "pabs3",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=31637428"
   },
   {
     "title": "Kable",
     "url": "http://kable.io/"
   },
   {
-    "title": "Probability and Statistics Cookbook",
-    "url": "https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf",
-    "upvotes": 7,
-    "author": "cpp_frog",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31640229"
+    "title": "Absolute truths I unlearned as junior developer",
+    "url": "https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/",
+    "upvotes": 355,
+    "author": "ddtaylor",
+    "comments": 184,
+    "link": "https://news.ycombinator.com/item?id=31636812"
   },
   {
-    "title": "GraphCDN is now Stellate and we’ve raised $30M to build the global data graph",
-    "url": "https://stellate.co/blog/graphcdn-is-now-stellate",
-    "upvotes": 40,
-    "author": "mxstbr",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=31639024"
-  },
-  {
-    "title": "The Metaphysics of Morrowind",
-    "url": "https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/",
-    "upvotes": 28,
-    "author": "kqr",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=31628766"
+    "title": "Show HN: WunderGraph – open-source API Developer Toolkit",
+    "url": "item?id=31639879",
+    "upvotes": 36,
+    "author": "jensneuse",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=31639879"
   },
   {
     "title": "Python 3.11 Performance Benchmarks Are Looking Fantastic",
     "url": "https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks",
-    "upvotes": 35,
+    "upvotes": 58,
     "author": "HieronymusBosch",
-    "comments": null,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=31640049"
+  },
+  {
+    "title": "The Metaphysics of Morrowind",
+    "url": "https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/",
+    "upvotes": 33,
+    "author": "kqr",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31628766"
+  },
+  {
+    "title": "Oxygen.jl: A breath of fresh air for programming web apps in Julia",
+    "url": "https://forem.julialang.org/ndortega/oxygenjl-a-breath-of-fresh-air-for-programming-web-apps-in-julia-454d",
+    "upvotes": 18,
+    "author": "logankilpatrick",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31639788"
+  },
+  {
+    "title": "GraphCDN is now Stellate and we’ve raised $30M to build the global data graph",
+    "url": "https://stellate.co/blog/graphcdn-is-now-stellate",
+    "upvotes": 46,
+    "author": "mxstbr",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=31639024"
+  },
+  {
+    "title": "Seeing how odor is processed in the brain",
+    "url": "https://www.u-tokyo.ac.jp/focus/en/press/z0508_00222.html",
+    "upvotes": 4,
+    "author": "NickRandom",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31629203"
   },
   {
     "title": "Dashy – A self-hosted homepage for your homelab",
     "url": "https://github.com/Lissy93/dashy",
-    "upvotes": 315,
+    "upvotes": 317,
     "author": "mmmmkay",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=31636036"
   },
   {
-    "title": "What is a programmable programming language?",
-    "url": "https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/",
-    "upvotes": 101,
-    "author": "behnamoh",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=31637082"
-  },
-  {
     "title": "It's time to bring back the AIM away message",
     "url": "https://www.wired.com/story/bring-back-the-aim-away-message/",
-    "upvotes": 142,
+    "upvotes": 153,
     "author": "fortran77",
-    "comments": 95,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=31627427"
   },
   {
     "title": "Telegram reportedly surrendered user data to authorities",
     "url": "https://www.androidpolice.com/telegram-germany-user-data-surrendered/",
-    "upvotes": 61,
+    "upvotes": 75,
     "author": "heikrana",
-    "comments": 46,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=31639232"
+  },
+  {
+    "title": "What is a programmable programming language?",
+    "url": "https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/",
+    "upvotes": 105,
+    "author": "behnamoh",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=31637082"
   },
   {
     "title": "Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools",
     "url": "https://github.com/tinygo-org/tinygo",
-    "upvotes": 148,
+    "upvotes": 152,
     "author": "gilad",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=31636642"
@@ -158,81 +190,49 @@
   {
     "title": "Scientists Discover Ways of Making Old Blood New Again",
     "url": "https://news.cuanschutz.edu/news-stories/scientists-discover-ways-of-making-old-blood-new-again",
-    "upvotes": 171,
+    "upvotes": 176,
     "author": "birriel",
-    "comments": 73,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=31636246"
-  },
-  {
-    "title": "Carbon dioxide now more than 50% higher than pre-industrial levels",
-    "url": "https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels",
-    "upvotes": 198,
-    "author": "ingve",
-    "comments": 285,
-    "link": "https://news.ycombinator.com/item?id=31638058"
-  },
-  {
-    "title": "Show HN: WunderGraph – open-source API Developer Toolkit",
-    "url": "item?id=31639879",
-    "upvotes": 18,
-    "author": "jensneuse",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=31639879"
   },
   {
     "title": "Show HN: Seal – Verifiable timestamp for your private ideas",
     "url": "https://docs.planet.ink/data/seal/",
-    "upvotes": 86,
+    "upvotes": 89,
     "author": "losfair",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=31637150"
-  },
-  {
-    "title": "Symphonic Metal Bands: Nerdiness vs. Kickassery – A Statistical Analysis",
-    "url": "https://medium.com/@WolframHempel_82303/symphonic-metal-bands-nerdiness-vs-kickassery-a-statistical-analysis-7c6ec4064286",
-    "upvotes": 60,
-    "author": "wolframhempel",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=31630193"
-  },
-  {
-    "title": "Oxygen.jl: A breath of fresh air for programming web apps in Julia",
-    "url": "https://forem.julialang.org/ndortega/oxygenjl-a-breath-of-fresh-air-for-programming-web-apps-in-julia-454d",
-    "upvotes": 6,
-    "author": "logankilpatrick",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31639788"
   },
   {
     "title": "Source code for 4kb demoscene production “Elevated” released",
     "url": "https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip",
-    "upvotes": 134,
+    "upvotes": 139,
     "author": "ddtaylor",
-    "comments": 51,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=31636482"
   },
   {
     "title": "Dubious Ways to Compute the Zeros of a Polynomial",
     "url": "https://blogs.mathworks.com/cleve/2016/06/27/19-dubious-ways-to-compute-the-zeros-of-a-polynomial/",
-    "upvotes": 26,
+    "upvotes": 29,
     "author": "vector_spaces",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=31628780"
+  },
+  {
+    "title": "Symphonic Metal Bands: Nerdiness vs. Kickassery – A Statistical Analysis",
+    "url": "https://medium.com/@WolframHempel_82303/symphonic-metal-bands-nerdiness-vs-kickassery-a-statistical-analysis-7c6ec4064286",
+    "upvotes": 61,
+    "author": "wolframhempel",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=31630193"
   },
   {
     "title": "Manim: Animation engine for explanatory math videos",
     "url": "https://github.com/3b1b/manim",
-    "upvotes": 89,
+    "upvotes": 93,
     "author": "gilad",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=31636657"
-  },
-  {
-    "title": "Imagine there’s no human error",
-    "url": "https://surfingcomplexity.blog/2022/05/30/imagine-theres-no-human-error/",
-    "upvotes": 30,
-    "author": "kiyanwang",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=31629470"
   }
 ]
