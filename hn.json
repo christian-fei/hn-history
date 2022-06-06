@@ -1,175 +1,207 @@
 [
   {
-    "title": "The Toxic Grind",
-    "url": "https://vadimkravcenko.com/shorts/the-toxic-grind/",
-    "upvotes": 22,
-    "author": "bndr",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=31641418"
+    "title": "Graduate Student’s Side Project Proves Prime Number Conjecture",
+    "url": "https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/",
+    "upvotes": 77,
+    "author": "theafh",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31640297"
+  },
+  {
+    "title": "Probability and Statistics Cookbook",
+    "url": "https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf",
+    "upvotes": 59,
+    "author": "cpp_frog",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31640229"
+  },
+  {
+    "title": "Is Everything an MLM?",
+    "url": "https://annehelen.substack.com/p/is-everything-an-mlm",
+    "upvotes": 13,
+    "author": "myth_drannon",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=31641761"
   },
   {
     "title": "Plain text, with lines",
     "url": "http://akkartik.name/lines.html",
-    "upvotes": 372,
+    "upvotes": 401,
     "author": "mpweiher",
-    "comments": 120,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=31637910"
   },
   {
     "title": "The true cost of linked lists",
     "url": "http://ykarroum.com/2022/05/30/true-cost-list/",
-    "upvotes": 144,
+    "upvotes": 154,
     "author": "karroum",
-    "comments": 114,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=31638746"
-  },
-  {
-    "title": "Probability and Statistics Cookbook",
-    "url": "https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf",
-    "upvotes": 34,
-    "author": "cpp_frog",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31640229"
   },
   {
     "title": "Arc and Mutex in Rust",
     "url": "https://itsallaboutthebit.com/arc-mutex/",
-    "upvotes": 54,
+    "upvotes": 61,
     "author": "bshanks",
-    "comments": 21,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=31628027"
-  },
-  {
-    "title": "Graduate Student’s Side Project Proves Prime Number Conjecture",
-    "url": "https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/",
-    "upvotes": 30,
-    "author": "theafh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31640297"
   },
   {
     "title": "In Defense of OpenStreetMap's Data Model",
     "url": "https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data",
-    "upvotes": 126,
+    "upvotes": 136,
     "author": "SteveCoast",
-    "comments": 63,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=31638648"
   },
   {
     "title": "Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1",
     "url": "https://worthdoingbadly.com/hv/",
-    "upvotes": 160,
+    "upvotes": 169,
     "author": "transpute",
-    "comments": 64,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=31638173"
-  },
-  {
-    "title": "Oxygen.jl: A breath of fresh air for programming web apps in Julia",
-    "url": "https://forem.julialang.org/ndortega/oxygenjl-a-breath-of-fresh-air-for-programming-web-apps-in-julia-454d",
-    "upvotes": 28,
-    "author": "logankilpatrick",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=31639788"
   },
   {
     "title": "Video codecs and 4k",
     "url": "https://scalibq.wordpress.com/2022/06/04/video-codecs-and-4k/",
-    "upvotes": 35,
+    "upvotes": 45,
     "author": "zdw",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=31631308"
+  },
+  {
+    "title": "Small Modular Reactors Exacerbate Challenges of Nuclear Waste",
+    "url": "https://news.stanford.edu/2022/05/30/small-modular-reactors-produce-high-levels-nuclear-waste/",
+    "upvotes": 35,
+    "author": "dtagames",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=31639398"
+  },
+  {
+    "title": "Oxygen.jl: A breath of fresh air for programming web apps in Julia",
+    "url": "https://forem.julialang.org/ndortega/oxygenjl-a-breath-of-fresh-air-for-programming-web-apps-in-julia-454d",
+    "upvotes": 34,
+    "author": "logankilpatrick",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=31639788"
   },
   {
     "title": "Amino acids found in asteroid samples collected by Japan's Hayabusa2 probe",
     "url": "https://english.kyodonews.net/news/2022/06/9a7dbced6c3a-amino-acids-found-in-asteroid-samples-collected-by-hayabusa2-probe.html",
-    "upvotes": 181,
+    "upvotes": 190,
     "author": "jiocrag",
-    "comments": 57,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=31637664"
-  },
-  {
-    "title": "No-op statements syntactically valid only since Python X.Y",
-    "url": "https://github.com/jwilk/python-syntax-errors",
-    "upvotes": 216,
-    "author": "pabs3",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=31637428"
   },
   {
     "title": "Kable",
     "url": "http://kable.io/"
   },
   {
-    "title": "The Surreal Case of a CIA Hacker’s Revenge",
-    "url": "https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge",
-    "upvotes": 73,
-    "author": "jbegley",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=31639354"
+    "title": "No-op statements syntactically valid only since Python X.Y",
+    "url": "https://github.com/jwilk/python-syntax-errors",
+    "upvotes": 223,
+    "author": "pabs3",
+    "comments": 112,
+    "link": "https://news.ycombinator.com/item?id=31637428"
+  },
+  {
+    "title": "Is social audio already dead?",
+    "url": "https://thehustle.co/06062022-social-audio/",
+    "upvotes": 53,
+    "author": "marban",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=31639002"
   },
   {
     "title": "Absolute truths I unlearned as junior developer",
     "url": "https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/",
-    "upvotes": 371,
+    "upvotes": 376,
     "author": "ddtaylor",
-    "comments": 190,
+    "comments": 191,
     "link": "https://news.ycombinator.com/item?id=31636812"
   },
   {
     "title": "Python 3.11 Performance Benchmarks Are Looking Fantastic",
     "url": "https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks",
-    "upvotes": 85,
+    "upvotes": 98,
     "author": "HieronymusBosch",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=31640049"
-  },
-  {
-    "title": "The Metaphysics of Morrowind",
-    "url": "https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/",
-    "upvotes": 35,
-    "author": "kqr",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=31628766"
-  },
-  {
-    "title": "It's time to bring back the AIM away message",
-    "url": "https://www.wired.com/story/bring-back-the-aim-away-message/",
-    "upvotes": 160,
-    "author": "fortran77",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=31627427"
-  },
-  {
-    "title": "What is a programmable programming language?",
-    "url": "https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/",
-    "upvotes": 107,
-    "author": "behnamoh",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=31637082"
-  },
-  {
-    "title": "Scientists Discover Ways of Making Old Blood New Again",
-    "url": "https://news.cuanschutz.edu/news-stories/scientists-discover-ways-of-making-old-blood-new-again",
-    "upvotes": 180,
-    "author": "birriel",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=31636246"
-  },
-  {
-    "title": "Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools",
-    "url": "https://github.com/tinygo-org/tinygo",
-    "upvotes": 154,
-    "author": "gilad",
     "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=31636642"
+    "link": "https://news.ycombinator.com/item?id=31640049"
   },
   {
     "title": "Seeing how odor is processed in the brain",
     "url": "https://www.u-tokyo.ac.jp/focus/en/press/z0508_00222.html",
-    "upvotes": 4,
+    "upvotes": 7,
     "author": "NickRandom",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31629203"
+  },
+  {
+    "title": "The foundations of modern end-to-end encryption: Signatures",
+    "url": "https://kerkour.com/signatures-modern-end-to-end-encryption",
+    "upvotes": 4,
+    "author": "z0mbie42",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31641417"
+  },
+  {
+    "title": "The Metaphysics of Morrowind",
+    "url": "https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/",
+    "upvotes": 36,
+    "author": "kqr",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=31628766"
+  },
+  {
+    "title": "A CIA hacker’s revenge",
+    "url": "https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge",
+    "upvotes": 86,
+    "author": "jbegley",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=31639354"
+  },
+  {
+    "title": "How to open a safe",
+    "url": "https://github.com/H4ckd4ddy/bypass-sentry-safe",
+    "upvotes": 39,
+    "author": "seasicksteve",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31638697"
+  },
+  {
+    "title": "It's time to bring back the AIM away message",
+    "url": "https://www.wired.com/story/bring-back-the-aim-away-message/",
+    "upvotes": 164,
+    "author": "fortran77",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=31627427"
+  },
+  {
+    "title": "Scientists Discover Ways of Making Old Blood New Again",
+    "url": "https://news.cuanschutz.edu/news-stories/scientists-discover-ways-of-making-old-blood-new-again",
+    "upvotes": 185,
+    "author": "birriel",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=31636246"
+  },
+  {
+    "title": "What is a programmable programming language?",
+    "url": "https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/",
+    "upvotes": 111,
+    "author": "behnamoh",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=31637082"
+  },
+  {
+    "title": "Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools",
+    "url": "https://github.com/tinygo-org/tinygo",
+    "upvotes": 155,
+    "author": "gilad",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=31636642"
   },
   {
     "title": "Manim: Animation engine for explanatory math videos",
@@ -182,57 +214,25 @@
   {
     "title": "Source code for 4kb demoscene production “Elevated” released",
     "url": "https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip",
-    "upvotes": 146,
+    "upvotes": 147,
     "author": "ddtaylor",
-    "comments": 58,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=31636482"
   },
   {
     "title": "Show HN: Seal – Verifiable timestamp for your private ideas",
     "url": "https://docs.planet.ink/data/seal/",
-    "upvotes": 90,
+    "upvotes": 96,
     "author": "losfair",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=31637150"
   },
   {
-    "title": "Dubious Ways to Compute the Zeros of a Polynomial",
-    "url": "https://blogs.mathworks.com/cleve/2016/06/27/19-dubious-ways-to-compute-the-zeros-of-a-polynomial/",
-    "upvotes": 32,
-    "author": "vector_spaces",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=31628780"
-  },
-  {
-    "title": "Symphonic Metal Bands: Nerdiness vs. Kickassery – A Statistical Analysis",
-    "url": "https://medium.com/@WolframHempel_82303/symphonic-metal-bands-nerdiness-vs-kickassery-a-statistical-analysis-7c6ec4064286",
-    "upvotes": 62,
-    "author": "wolframhempel",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=31630193"
-  },
-  {
-    "title": "Imagine there’s no human error",
-    "url": "https://surfingcomplexity.blog/2022/05/30/imagine-theres-no-human-error/",
-    "upvotes": 34,
-    "author": "kiyanwang",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=31629470"
-  },
-  {
-    "title": "How to Open a Safe",
-    "url": "https://github.com/H4ckd4ddy/bypass-sentry-safe",
-    "upvotes": 17,
-    "author": "seasicksteve",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31638697"
-  },
-  {
-    "title": "The Design and Implementation of the NetBSD RC.d System [pdf]",
-    "url": "http://www.mewburn.net/luke/papers/rc.d.pdf",
-    "upvotes": 38,
-    "author": "todsacerdoti",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=31637755"
+    "title": "The Toxic Grind",
+    "url": "https://vadimkravcenko.com/shorts/the-toxic-grind/",
+    "upvotes": 44,
+    "author": "bndr",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=31641418"
   }
 ]
