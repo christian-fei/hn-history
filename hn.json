@@ -1,32 +1,40 @@
 [
   {
-    "title": "Tool to demo the Danish Unemployment algorithm",
-    "url": "https://ledighedsalgoritmen.dk/",
-    "upvotes": 32,
-    "author": "bryanrasmussen",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=31723110"
-  },
-  {
     "title": "Show HN: A way to torture an interviewer",
     "url": "item?id=31723446",
-    "upvotes": 12,
+    "upvotes": 41,
     "author": "jpegqs",
-    "comments": 3,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=31723446"
+  },
+  {
+    "title": "Tool to demo the Danish Unemployment algorithm",
+    "url": "https://ledighedsalgoritmen.dk/",
+    "upvotes": 38,
+    "author": "bryanrasmussen",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=31723110"
   },
   {
     "title": "Fresh – Next-gen web framework",
     "url": "https://fresh.deno.dev/",
-    "upvotes": 474,
+    "upvotes": 483,
     "author": "exists",
-    "comments": 199,
+    "comments": 209,
     "link": "https://news.ycombinator.com/item?id=31720110"
+  },
+  {
+    "title": "Tether is starting to depeg from USD again",
+    "url": "https://ftx.com/trade/USDT/USD",
+    "upvotes": 50,
+    "author": "rsp1984",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=31723438"
   },
   {
     "title": "Using TinyCC to compile Linux",
     "url": "https://github.com/seyko2/tccboot",
-    "upvotes": 20,
+    "upvotes": 26,
     "author": "jesprenj",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31723061"
@@ -34,63 +42,71 @@
   {
     "title": "Mammals can breathe through their intestines",
     "url": "https://www.science.org/content/article/mammals-can-breathe-through-their-intestines",
-    "upvotes": 122,
+    "upvotes": 126,
     "author": "FeaturelessBug",
-    "comments": 72,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=31721077"
   },
   {
     "title": "The Six Forces That Fuel Friendship",
     "url": "https://www.theatlantic.com/family/archive/2022/06/six-ways-make-maintain-friends/661232/",
-    "upvotes": 19,
+    "upvotes": 27,
     "author": "throw0101c",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=31713720"
+  },
+  {
+    "title": "GitHub Actions Is Down",
+    "url": "https://github.community/t/my-workflow-says-that-github-actions-is-down-but-the-status-is-green/256066",
+    "upvotes": 30,
+    "author": "fagnerbrack",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=31723418"
   },
   {
     "title": "Toyota unveils 8.7 kWh battery for residential applications",
     "url": "https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/",
-    "upvotes": 198,
+    "upvotes": 204,
     "author": "xbmcuser",
-    "comments": 220,
+    "comments": 226,
     "link": "https://news.ycombinator.com/item?id=31720472"
   },
   {
     "title": "Vintage Computing",
     "url": "https://www.glitchwrks.com/vintage.html",
-    "upvotes": 33,
+    "upvotes": 35,
     "author": "peter_d_sherman",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31711081"
   },
   {
-    "title": "GitHub Actions Is Down",
-    "url": "https://github.community/t/my-workflow-says-that-github-actions-is-down-but-the-status-is-green/256066",
-    "upvotes": 14,
-    "author": "fagnerbrack",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31723418"
-  },
-  {
-    "title": "Google Will Eat Itself",
-    "url": "https://www.gwei.org/index.php",
-    "upvotes": 160,
-    "author": "slater",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=31719002"
-  },
-  {
     "title": "Comparison of Data Lake Table Formats",
     "url": "https://www.dremio.com/subsurface/comparison-of-data-lake-table-formats-iceberg-hudi-and-delta-lake/",
-    "upvotes": 6,
+    "upvotes": 10,
     "author": "anhldbk",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31723103"
   },
   {
+    "title": "Major crypto lender Celsius freezes withdrawals as markets tumble",
+    "url": "https://www.reuters.com/technology/crypto-firm-celsius-pauses-all-transfers-withdrawals-between-accounts-2022-06-13/",
+    "upvotes": 36,
+    "author": "pseudolus",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=31723286"
+  },
+  {
+    "title": "Google Will Eat Itself",
+    "url": "https://www.gwei.org/index.php",
+    "upvotes": 166,
+    "author": "slater",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=31719002"
+  },
+  {
     "title": "Audioserve: Simple personal server to serve audio files from directories",
     "url": "https://github.com/izderadicka/audioserve",
-    "upvotes": 36,
+    "upvotes": 39,
     "author": "indigodaddy",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=31713047"
@@ -98,79 +114,103 @@
   {
     "title": "Inside the world of hostage negotiation",
     "url": "https://www.theguardian.com/news/2019/jan/25/business-of-kidnapping-inside-the-secret-world-of-hostage-negotiation-ransom-insurance",
-    "upvotes": 13,
+    "upvotes": 15,
     "author": "marban",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=31713205"
+  },
+  {
+    "title": "Why championship chess sets are so expensive",
+    "url": "https://twitter.com/BusinessInsider/status/1534308483314733059",
+    "upvotes": 4,
+    "author": "yarapavan",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31713390"
+  },
+  {
+    "title": "Redis To Go is shutting down",
+    "url": "https://redistogo.com/",
+    "upvotes": 10,
+    "author": "captn3m0",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=31722465"
   },
   {
     "title": "How a Saxophonist Tricked the KGB by Encrypting Secrets in Music",
     "url": "https://www.wired.com/story/merryl-goldberg-music-encryption-ussr-phantom-orchestra/",
-    "upvotes": 44,
+    "upvotes": 45,
     "author": "pseudolus",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=31714774"
   },
   {
-    "title": "Aleph.js – Fullstack Framework in Deno",
-    "url": "https://github.com/alephjs/aleph.js",
-    "upvotes": 53,
-    "author": "modinfo",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=31720549"
-  },
-  {
-    "title": "Major crypto lender Celsius freezes withdrawals as markets tumble",
-    "url": "https://www.reuters.com/technology/crypto-firm-celsius-pauses-all-transfers-withdrawals-between-accounts-2022-06-13/",
+    "title": "Life after Guantanamo: 'We are still in jail'",
+    "url": "https://www.bbc.com/news/world-us-canada-61609417",
     "upvotes": 15,
-    "author": "pseudolus",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31723286"
+    "author": "prashantsengar",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31723482"
   },
   {
-    "title": "Foone reverse engineering Skifree",
+    "title": "Reverse engineering Skifree",
     "url": "https://twitter.com/Foone/status/1536053690368348160",
-    "upvotes": 165,
+    "upvotes": 168,
     "author": "todsacerdoti",
-    "comments": 77,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=31718756"
   },
   {
-    "title": "“Cell Tower” Word Game",
-    "url": "https://www.andrewt.net/puzzles/cell-tower/?p=1",
-    "upvotes": 41,
-    "author": "colinprince",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=31720165"
+    "title": "Aleph.js – Fullstack Framework in Deno",
+    "url": "https://github.com/alephjs/aleph.js",
+    "upvotes": 54,
+    "author": "modinfo",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=31720549"
   },
   {
     "title": "Show HN: Reddit search engine for startup founders",
     "url": "https://gummysearch.com/*",
-    "upvotes": 53,
+    "upvotes": 59,
     "author": "thefedoration",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31720251"
   },
   {
+    "title": "How Trustpilot Extorts Businesses",
+    "url": "https://medium.com/@ryanbadger/how-trustpilot-extorts-businesses-91ca4b6a6f62",
+    "upvotes": 9,
+    "author": "czue",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31723751"
+  },
+  {
+    "title": "“Cell Tower” Word Game",
+    "url": "https://www.andrewt.net/puzzles/cell-tower/?p=1",
+    "upvotes": 42,
+    "author": "colinprince",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=31720165"
+  },
+  {
+    "title": "Mptcp: Moving laptop from GBit to wireless without applications noticing?",
+    "url": "https://www.redhat.com/en/blog/using-multipath-tcp-better-survive-outages-and-increase-bandwidth",
+    "upvotes": 43,
+    "author": "globalc",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=31720238"
+  },
+  {
     "title": "Why did InterlockedIncrement/Decrement only return the sign of the result?",
     "url": "https://devblogs.microsoft.com/oldnewthing/20040506-00/?p=39463",
-    "upvotes": 52,
+    "upvotes": 53,
     "author": "userbinator",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=31712241"
   },
   {
-    "title": "Mptcp: Moving laptop from GBit to wireless without applications noticing?",
-    "url": "https://www.redhat.com/en/blog/using-multipath-tcp-better-survive-outages-and-increase-bandwidth",
-    "upvotes": 40,
-    "author": "globalc",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=31720238"
-  },
-  {
     "title": "Vetting the Cargo",
     "url": "https://lwn.net/SubscriberLink/897435/3f00904f520a1956/",
-    "upvotes": 50,
+    "upvotes": 54,
     "author": "tta",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=31719532"
@@ -180,59 +220,23 @@
     "url": "https://www.economist.com/science-and-technology/2022/06/09/technology-used-by-spies-is-detecting-pesky-moths",
     "upvotes": 11,
     "author": "sohkamyung",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=31713640"
-  },
-  {
-    "title": "Finally, no bid on mortgage-backed securities",
-    "url": "https://notoriousrob.com/2022/06/finally-no-bid-on-mbs/",
-    "upvotes": 163,
-    "author": "harambae",
-    "comments": 248,
-    "link": "https://news.ycombinator.com/item?id=31720183"
-  },
-  {
-    "title": "Taking on Good Technical Debt",
-    "url": "https://matt-rickard.com/good-technical-debt/",
-    "upvotes": 46,
-    "author": "rckrd",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=31705759"
   },
   {
     "title": "New UUID Formats",
     "url": "https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html",
-    "upvotes": 444,
+    "upvotes": 449,
     "author": "swyx",
-    "comments": 132,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=31715119"
-  },
-  {
-    "title": "Lilium achieves first main wing transition for all-electric aircraft [video]",
-    "url": "https://www.youtube.com/watch?v=QNl0DDUnp0E",
-    "upvotes": 419,
-    "author": "tomohawk",
-    "comments": 348,
-    "link": "https://news.ycombinator.com/item?id=31715067"
   },
   {
     "title": "Umka: A statically typed embeddable scripting language",
     "url": "https://github.com/vtereshkov/umka-lang",
-    "upvotes": 57,
+    "upvotes": 60,
     "author": "mr_ms",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=31718181"
-  },
-  {
-    "title": "BuildZoom",
-    "url": "https://jobs.lever.co/buildzoom"
-  },
-  {
-    "title": "15.ai",
-    "url": "https://15.ai/",
-    "upvotes": 471,
-    "author": "memorable",
-    "comments": 165,
-    "link": "https://news.ycombinator.com/item?id=31711118"
   }
 ]
