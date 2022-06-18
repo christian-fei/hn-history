@@ -2,31 +2,31 @@
   {
     "title": "Show HN: A central bank simulator game with a realistic economic model",
     "url": "https://benoitessiambre.com/macro.html",
-    "upvotes": 354,
+    "upvotes": 385,
     "author": "BenoitEssiambre",
-    "comments": 151,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=31785199"
-  },
-  {
-    "title": "Laddering a Chimney [video]",
-    "url": "https://www.youtube.com/watch?v=E-a27xwcLfU",
-    "upvotes": 111,
-    "author": "chha",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=31784637"
   },
   {
     "title": "Scott Aaronson will work at OpenAI for a 1 year sabbatical",
     "url": "https://scottaaronson.blog/?p=6484",
-    "upvotes": 36,
+    "upvotes": 59,
     "author": "2mol",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31787038"
+  },
+  {
+    "title": "Laddering a Chimney [video]",
+    "url": "https://www.youtube.com/watch?v=E-a27xwcLfU",
+    "upvotes": 117,
+    "author": "chha",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=31784637"
   },
   {
     "title": "The most satisfying checkbox",
     "url": "https://www.andy.works/words/the-most-satisfying-checkbox",
-    "upvotes": 464,
+    "upvotes": 471,
     "author": "feross",
     "comments": 204,
     "link": "https://news.ycombinator.com/item?id=31781110"
@@ -34,143 +34,159 @@
   {
     "title": "Keysight UXR 110GHz Oscilloscope Teardown [video]",
     "url": "https://www.youtube.com/watch?v=DXYje2B04xE",
-    "upvotes": 21,
+    "upvotes": 29,
     "author": "112233",
-    "comments": 16,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31774734"
   },
   {
     "title": "Retrofitting Temporal Memory Safety on C++",
     "url": "https://v8.dev/blog/retrofitting-temporal-memory-safety-on-c++",
-    "upvotes": 55,
+    "upvotes": 60,
     "author": "feross",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=31762574"
   },
   {
     "title": "Fyne, a cross-platform GUI toolkit written in Go",
     "url": "https://fyne.io",
-    "upvotes": 95,
+    "upvotes": 100,
     "author": "tomcam",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=31785556"
-  },
-  {
-    "title": "Show HN: Unsubscan – Free and offline mailing list unsubscription tool",
-    "url": "https://github.com/LGUG2Z/unsubscan",
-    "upvotes": 50,
-    "author": "bsnnkv",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31786324"
-  },
-  {
-    "title": "CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot",
-    "url": "https://github.com/sarsko/CreuSAT",
-    "upvotes": 266,
-    "author": "ingve",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=31780128"
-  },
-  {
-    "title": "Recently discovered drawings for Statue of Liberty hint at a last-minute change",
-    "url": "https://www.smithsonianmag.com/history/original-drawings-statue-liberty-discovered-180974618/",
-    "upvotes": 46,
-    "author": "lisper",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=31785507"
-  },
-  {
-    "title": "Physicists link two time crystals in seemingly impossible experiment",
-    "url": "https://www.space.com/time-crystals-linked",
-    "upvotes": 121,
-    "author": "galaxyLogic",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=31766804"
   },
   {
     "title": "The practical guide to incident management",
     "url": "https://incident.io/guide/",
-    "upvotes": 10,
+    "upvotes": 17,
     "author": "lawrjone",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=31764680"
   },
   {
+    "title": "CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot",
+    "url": "https://github.com/sarsko/CreuSAT",
+    "upvotes": 270,
+    "author": "ingve",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=31780128"
+  },
+  {
+    "title": "Show HN: Unsubscan – Free and offline mailing list unsubscription tool",
+    "url": "https://github.com/LGUG2Z/unsubscan",
+    "upvotes": 51,
+    "author": "bsnnkv",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=31786324"
+  },
+  {
+    "title": "Physicists link two time crystals in seemingly impossible experiment",
+    "url": "https://www.space.com/time-crystals-linked",
+    "upvotes": 124,
+    "author": "galaxyLogic",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=31766804"
+  },
+  {
+    "title": "Recently discovered drawings for Statue of Liberty hint at a last-minute change",
+    "url": "https://www.smithsonianmag.com/history/original-drawings-statue-liberty-discovered-180974618/",
+    "upvotes": 47,
+    "author": "lisper",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=31785507"
+  },
+  {
     "title": "Vale: Fast, safe, and easy programming language",
     "url": "https://vale.dev/",
-    "upvotes": 95,
+    "upvotes": 110,
     "author": "memorable",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=31786487"
   },
   {
     "title": "Online privacy: to what extent should you try to go dark?",
     "url": "https://cyb3rsecurity.tips/p/-online-privacy-to-what-extent-should",
-    "upvotes": 82,
+    "upvotes": 85,
     "author": "nunorbatista",
-    "comments": 68,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=31785084"
   },
   {
     "title": "Moth wing–inspired sound absorbing wallpaper in sight after breakthrough",
     "url": "https://phys.org/news/2022-06-moth-winginspired-absorbing-wallpaper-sight.html",
-    "upvotes": 55,
+    "upvotes": 60,
     "author": "thedday",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=31769803"
   },
   {
-    "title": "Slope: A hackable hobby programming language",
-    "url": "https://slope.colorfield.space/",
-    "upvotes": 70,
-    "author": "creative_spirit",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=31782985"
+    "title": "Bullshit Jobs",
+    "url": "https://en.wikipedia.org/wiki/Bullshit_Jobs",
+    "upvotes": 15,
+    "author": "ppjim",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31787557"
+  },
+  {
+    "title": "Show HN: Lockable – sync locks for distributed systems",
+    "url": "https://lockable.dev",
+    "upvotes": 30,
+    "author": "keyless_",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=31764026"
   },
   {
     "title": "Identify Birds by Their Chirp",
     "url": "https://merlin.allaboutbirds.org/",
-    "upvotes": 37,
+    "upvotes": 41,
     "author": "Group_B",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=31785736"
   },
   {
-    "title": "Ante: A low-level functional language",
-    "url": "https://antelang.org/",
-    "upvotes": 362,
-    "author": "cheesestain",
-    "comments": 177,
-    "link": "https://news.ycombinator.com/item?id=31775216"
+    "title": "Slope: A hackable hobby programming language",
+    "url": "https://slope.colorfield.space/",
+    "upvotes": 75,
+    "author": "creative_spirit",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=31782985"
   },
   {
-    "title": "The Celera 500L passenger plane gets hydrogen powertrain",
-    "url": "https://newatlas.com/aircraft/otto-zeroavia-celera-hydrogen/",
-    "upvotes": 101,
-    "author": "clouddrover",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=31764685"
+    "title": "Ante: A low-level functional language",
+    "url": "https://antelang.org/",
+    "upvotes": 364,
+    "author": "cheesestain",
+    "comments": 179,
+    "link": "https://news.ycombinator.com/item?id=31775216"
   },
   {
     "title": "Littr – Link aggregator inspired by Reddit and HN using ActivityPub federation",
     "url": "https://littr.me/",
-    "upvotes": 82,
+    "upvotes": 88,
     "author": "giancarlostoro",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=31785966"
   },
   {
+    "title": "The Celera 500L passenger plane gets hydrogen powertrain",
+    "url": "https://newatlas.com/aircraft/otto-zeroavia-celera-hydrogen/",
+    "upvotes": 102,
+    "author": "clouddrover",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=31764685"
+  },
+  {
     "title": "Redbean 2.0 turned into more than a hobby project",
     "url": "https://justine.lol/redbean2/",
-    "upvotes": 944,
+    "upvotes": 946,
     "author": "jart",
-    "comments": 196,
+    "comments": 195,
     "link": "https://news.ycombinator.com/item?id=31764521"
   },
   {
     "title": "Parallel Search Speeds Up Time Travel Debugging by 4x",
     "url": "https://undo.io/resources/parallel-search-speeds-time-travel-debugging-4x/",
-    "upvotes": 64,
+    "upvotes": 65,
     "author": "mark_undoio",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31783019"
@@ -184,15 +200,15 @@
     "url": "https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/",
     "upvotes": 111,
     "author": "MtNeerJK81",
-    "comments": 72,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=31781234"
   },
   {
     "title": "Do we need a better understanding of 'progress'?",
     "url": "https://www.bbc.com/future/article/20220615-do-we-need-a-better-understanding-of-progress",
-    "upvotes": 79,
+    "upvotes": 83,
     "author": "pmoriarty",
-    "comments": 62,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=31764663"
   },
   {
@@ -204,35 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=31780669"
   },
   {
-    "title": "Making the collective knowledge of chemistry open and machine actionable",
-    "url": "https://www.nature.com/articles/s41557-022-00910-7",
-    "upvotes": 97,
-    "author": "bryanrasmussen",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=31745934"
-  },
-  {
-    "title": "Leaked Amazon memo warns the company is running out of people to hire",
-    "url": "https://www.vox.com/recode/23170900/leaked-amazon-memo-warehouses-hiring-shortage",
-    "upvotes": 566,
-    "author": "Umofomia",
-    "comments": 631,
-    "link": "https://news.ycombinator.com/item?id=31778909"
-  },
-  {
     "title": "Ask HN: Best dev tool pitches of all time?",
     "url": "item?id=31782200",
-    "upvotes": 240,
+    "upvotes": 249,
     "author": "swyx",
-    "comments": 103,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=31782200"
   },
   {
     "title": "How to make sense of ancient Greek colours",
     "url": "http://kiwihellenist.blogspot.com/2020/05/ancient-greek-colours.html",
-    "upvotes": 37,
+    "upvotes": 39,
     "author": "benbreen",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31783645"
   }
 ]
