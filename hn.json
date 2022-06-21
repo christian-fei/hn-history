@@ -1,82 +1,90 @@
 [
   {
-    "title": "GitHub Copilot is generally available",
-    "url": "https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/",
-    "upvotes": 356,
-    "author": "sammorrowdrums",
-    "comments": 337,
-    "link": "https://news.ycombinator.com/item?id=31825742"
-  },
-  {
     "title": "Deno raises $21M",
     "url": "https://deno.com/blog/series-a",
-    "upvotes": 152,
+    "upvotes": 222,
     "author": "0xedb",
-    "comments": 67,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=31827387"
   },
   {
-    "title": "Cloudflare outage on June 21, 2022",
-    "url": "https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/",
-    "upvotes": 502,
-    "author": "jgrahamc",
-    "comments": 153,
-    "link": "https://news.ycombinator.com/item?id=31823132"
+    "title": "GitHub Copilot is generally available",
+    "url": "https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/",
+    "upvotes": 394,
+    "author": "sammorrowdrums",
+    "comments": 382,
+    "link": "https://news.ycombinator.com/item?id=31825742"
+  },
+  {
+    "title": "X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass",
+    "url": "https://developer.x-plane.com/2022/02/x-plane-12-flight-model-update-supersonic-transition-delta-wings-and-mass-properties/",
+    "upvotes": 52,
+    "author": "Alupis",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=31827301"
   },
   {
     "title": "The French repairability index – one year after its implementation [pdf]",
     "url": "https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf",
-    "upvotes": 34,
+    "upvotes": 55,
     "author": "giuliomagnifico",
-    "comments": null,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=31827340"
+  },
+  {
+    "title": "Cloudflare outage on June 21, 2022",
+    "url": "https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/",
+    "upvotes": 515,
+    "author": "jgrahamc",
+    "comments": 157,
+    "link": "https://news.ycombinator.com/item?id=31823132"
   },
   {
     "title": "Show HN: Avo – Build Ruby on Rails apps faster",
     "url": "https://avohq.io/",
-    "upvotes": 188,
+    "upvotes": 195,
     "author": "adrianthedev",
-    "comments": 93,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=31824877"
   },
   {
     "title": "Wikimedia Enterprise announces Google and Internet Archive as first customers",
     "url": "https://wikimediafoundation.org/news/2022/06/21/wikimedia-enterprise-announces-google-and-internet-archive-first-customers/",
-    "upvotes": 47,
+    "upvotes": 66,
     "author": "abbe98",
-    "comments": 28,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=31826651"
   },
   {
-    "title": "X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass",
-    "url": "https://developer.x-plane.com/2022/02/x-plane-12-flight-model-update-supersonic-transition-delta-wings-and-mass-properties/",
-    "upvotes": 24,
-    "author": "Alupis",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31827301"
+    "title": "HDMI Firewall",
+    "url": "https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md",
+    "upvotes": 12,
+    "author": "zdw",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31828193"
   },
   {
     "title": "Artistic Radiance Fields",
     "url": "https://www.cs.cornell.edu/projects/arf/",
-    "upvotes": 84,
+    "upvotes": 93,
     "author": "Mizza",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=31825177"
   },
   {
     "title": "One-liner for running queries against CSV files with SQLite",
     "url": "https://til.simonwillison.net/sqlite/one-line-csv-operations",
-    "upvotes": 521,
+    "upvotes": 549,
     "author": "jdblair",
-    "comments": 87,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=31824030"
   },
   {
     "title": "One year as a solo dev building open-source data tools without funding",
     "url": "https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html",
-    "upvotes": 465,
+    "upvotes": 475,
     "author": "revorad",
-    "comments": 96,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=31821914"
   },
   {
@@ -86,47 +94,63 @@
   {
     "title": "Launch HN: Dioptra (YC W22) – Improve ML models by improving their training data",
     "url": "item?id=31825473",
-    "upvotes": 29,
+    "upvotes": 30,
     "author": "farahg",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=31825473"
   },
   {
-    "title": "Aerosolization of C. difficile after flushing toilets: the role of toilet lids",
-    "url": "https://www.journalofhospitalinfection.com/article/S0195-6701(11)00339-2/fulltext",
-    "upvotes": 7,
-    "author": "bookofjoe",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31827805"
-  },
-  {
     "title": "Show HN: We made an experiment to test if Bionic Reading helps you read faster",
     "url": "https://blog.readwise.io/does-bionic-reading-actually-work/",
-    "upvotes": 54,
+    "upvotes": 61,
     "author": "hoodwink",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=31826204"
   },
   {
     "title": "An Early Run-In with Censors Led Rod Serling to ‘The Twilight Zone’",
     "url": "https://www.smithsonianmag.com/arts-culture/early-run-censors-led-rod-serling-twilight-zone-180971837/",
-    "upvotes": 43,
+    "upvotes": 51,
     "author": "drdee",
-    "comments": 23,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=31812424"
+  },
+  {
+    "title": "Failure Is the Mother of Invention",
+    "url": "https://www.wsj.com/articles/build-book-review-failure-is-the-mother-of-invention-11655495722",
+    "upvotes": 16,
+    "author": "prostoalex",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31812533"
   },
   {
     "title": "Variations of Two-Transistor Circuits: A Tribute to the Versatility of MOSFETs",
     "url": "https://www.researchgate.net/publication/354364068_Fifty_Nifty_Variations_of_Two-Transistor_Circuits_A_tribute_to_the_versatility_of_MOSFETs",
-    "upvotes": 57,
+    "upvotes": 60,
     "author": "jrwan",
-    "comments": 17,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=31824893"
+  },
+  {
+    "title": "Aerosolization of C. difficile after flushing toilets: the role of toilet lids",
+    "url": "https://www.journalofhospitalinfection.com/article/S0195-6701(11)00339-2/fulltext",
+    "upvotes": 44,
+    "author": "bookofjoe",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=31827805"
+  },
+  {
+    "title": "A Life of One’s Own: Marion Milner",
+    "url": "https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/",
+    "upvotes": 10,
+    "author": "wyndham",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31826631"
   },
   {
     "title": "Show HN: Akedo – Retro gaming and coding platform",
     "url": "https://akedo.app",
-    "upvotes": 88,
+    "upvotes": 92,
     "author": "yrandom",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=31823898"
@@ -134,95 +158,71 @@
   {
     "title": "GitHub Copilot for individuals available without waitlist, with free trial",
     "url": "https://github.com/features/copilot",
-    "upvotes": 106,
+    "upvotes": 110,
     "author": "aoeuid",
-    "comments": 103,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=31825661"
-  },
-  {
-    "title": "A Life of One’s Own: Marion Milner",
-    "url": "https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/",
-    "upvotes": 7,
-    "author": "wyndham",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31826631"
-  },
-  {
-    "title": "Failure Is the Mother of Invention",
-    "url": "https://www.wsj.com/articles/build-book-review-failure-is-the-mother-of-invention-11655495722",
-    "upvotes": 10,
-    "author": "prostoalex",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31812533"
-  },
-  {
-    "title": "The Journey of Three African Wild Dogs",
-    "url": "https://www.nytimes.com/2022/06/20/science/african-wild-dogs-zambia.html",
-    "upvotes": 25,
-    "author": "Brajeshwar",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=31825415"
-  },
-  {
-    "title": "How to Build a Notion Clone with Strapi v4 and Next.js",
-    "url": "https://strapi.io/blog/how-to-build-a-notion-clone-with-strapi-v4-and-next-js-part-1-of-2",
-    "upvotes": 33,
-    "author": "dessireugarte",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=31825676"
   },
   {
     "title": "How we made data aggregation on PostgreSQL better and faster",
     "url": "https://www.timescale.com/blog/how-we-made-data-aggregation-better-and-faster-on-postgresql-with-timescaledb-2-7/",
-    "upvotes": 121,
+    "upvotes": 128,
     "author": "carlotasoto",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=31823592"
+  },
+  {
+    "title": "Tagging Along with Italy’s Unexploded Bomb–Hunters",
+    "url": "https://www.atlasobscura.com/articles/italy-unexploded-ordnance",
+    "upvotes": 6,
+    "author": "CapitalistCartr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31811035"
   },
   {
     "title": "Map Projection Transitions",
     "url": "https://www.jasondavies.com/maps/transition/",
-    "upvotes": 138,
+    "upvotes": 145,
     "author": "walterbell",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=31808785"
   },
   {
     "title": "RISC-V announces first new specifications of 2022 adding to 16 ratified in 2021",
     "url": "https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/",
-    "upvotes": 144,
+    "upvotes": 151,
     "author": "snvzz",
-    "comments": 68,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=31822456"
   },
   {
-    "title": "Editing Means Writing Less",
-    "url": "https://www.bramadams.dev/projects/editing-means-writing-less",
-    "upvotes": 14,
-    "author": "_bramses",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=31818767"
+    "title": "The Journey of Three African Wild Dogs",
+    "url": "https://www.nytimes.com/2022/06/20/science/african-wild-dogs-zambia.html",
+    "upvotes": 26,
+    "author": "Brajeshwar",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=31825415"
   },
   {
     "title": "Get Paid to Contribute to Urllib3",
     "url": "https://sethmlarson.dev/blog/get-paid-to-contribute-to-urllib3",
-    "upvotes": 64,
+    "upvotes": 69,
     "author": "todsacerdoti",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=31823702"
   },
   {
-    "title": "Why Casanova Continues to Seduce Us",
-    "url": "https://www.newyorker.com/magazine/2022/06/27/why-casanova-continues-to-seduce-us-leo-damrosch-adventurer",
-    "upvotes": 28,
-    "author": "pepys",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=31825858"
+    "title": "Editing Means Writing Less",
+    "url": "https://www.bramadams.dev/projects/editing-means-writing-less",
+    "upvotes": 18,
+    "author": "_bramses",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=31818767"
   },
   {
     "title": "Modern phoenix: The bird brought back from extinction in Japan",
     "url": "https://phys.org/news/2022-06-modern-phoenix-bird-brought-extinction.html",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "rntn",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=31822803"
@@ -230,9 +230,9 @@
   {
     "title": "Timing Attacks",
     "url": "https://timing.attacks.cr.yp.to/",
-    "upvotes": 171,
+    "upvotes": 174,
     "author": "rdpintqogeogsaa",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=31821507"
   }
 ]
