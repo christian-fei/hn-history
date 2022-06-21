@@ -1,132 +1,140 @@
 [
   {
+    "title": "One-liner for running queries against CSV files with SQLite",
+    "url": "https://til.simonwillison.net/sqlite/one-line-csv-operations",
+    "upvotes": 55,
+    "author": "jdblair",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31824030"
+  },
+  {
     "title": "One year as a solo dev building open-source data tools without funding",
     "url": "https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html",
-    "upvotes": 295,
+    "upvotes": 327,
     "author": "revorad",
-    "comments": 58,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=31821914"
+  },
+  {
+    "title": "Laundry symbols make no sense",
+    "url": "https://uxdesign.cc/laundry-symbols-make-no-sense-154a0c10dbe0",
+    "upvotes": 35,
+    "author": "allenwhsu",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=31823485"
+  },
+  {
+    "title": "How we made data aggregation on PostgreSQL better and faster",
+    "url": "https://www.timescale.com/blog/how-we-made-data-aggregation-better-and-faster-on-postgresql-with-timescaledb-2-7/",
+    "upvotes": 49,
+    "author": "carlotasoto",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=31823592"
   },
   {
     "title": "RISC-V announces first new specifications of 2022 adding to 16 ratified in 2021",
     "url": "https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/",
-    "upvotes": 79,
+    "upvotes": 86,
     "author": "snvzz",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=31822456"
   },
   {
-    "title": "How we made data aggregation on PostgreSQL better and faster",
-    "url": "https://www.timescale.com/blog/how-we-made-data-aggregation-better-and-faster-on-postgresql-with-timescaledb-2-7/",
-    "upvotes": 32,
-    "author": "carlotasoto",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31823592"
-  },
-  {
-    "title": "The Psychology of not wanting to know [pdf]",
-    "url": "https://www.apa.org/pubs/journals/releases/rev-rev0000055.pdf",
-    "upvotes": 53,
-    "author": "amitmina",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=31822587"
+    "title": "Show HN: Akedo – Retro gaming and coding platform",
+    "url": "https://akedo.app",
+    "upvotes": 14,
+    "author": "yrandom",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31823898"
   },
   {
     "title": "Cloudflare outage on June 21, 2022",
     "url": "https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/",
-    "upvotes": 135,
+    "upvotes": 189,
     "author": "jgrahamc",
-    "comments": 58,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=31823132"
   },
   {
-    "title": "Timing Attacks",
-    "url": "https://timing.attacks.cr.yp.to/",
-    "upvotes": 111,
-    "author": "rdpintqogeogsaa",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=31821507"
+    "title": "The Psychology of not wanting to know",
+    "url": "https://www.apa.org/pubs/journals/releases/rev-rev0000055.pdf",
+    "upvotes": 66,
+    "author": "amitmina",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=31822587"
   },
   {
     "title": "Map Projection Transitions",
     "url": "https://www.jasondavies.com/maps/transition/",
-    "upvotes": 45,
+    "upvotes": 54,
     "author": "walterbell",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=31808785"
   },
   {
-    "title": "A look at search engines with their own indexes",
-    "url": "https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/",
-    "upvotes": 195,
-    "author": "tintedfireglass",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=31820149"
-  },
-  {
-    "title": "One-liner for running queries against CSV files with SQLite",
-    "url": "https://til.simonwillison.net/sqlite/one-line-csv-operations",
-    "upvotes": 4,
-    "author": "jdblair",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31824030"
+    "title": "Timing Attacks",
+    "url": "https://timing.attacks.cr.yp.to/",
+    "upvotes": 120,
+    "author": "rdpintqogeogsaa",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31821507"
   },
   {
     "title": "Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines",
     "url": "https://www.pachyderm.com/careers/#positions"
   },
   {
-    "title": "Laundry symbols make no sense",
-    "url": "https://uxdesign.cc/laundry-symbols-make-no-sense-154a0c10dbe0",
-    "upvotes": 12,
-    "author": "allenwhsu",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31823485"
-  },
-  {
     "title": "Automated text/email reminders for volunteers",
     "url": "https://volunteerreminder.com/",
-    "upvotes": 6,
+    "upvotes": 11,
     "author": "ellesundberg",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=31823617"
   },
   {
-    "title": "Show HN: Akedo – Retro gaming and coding platform",
-    "url": "https://akedo.app",
-    "upvotes": 4,
-    "author": "yrandom",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31823898"
+    "title": "Zoom.us is down",
+    "url": "https://us02web.zoom.us/wc/join/",
+    "upvotes": 34,
+    "author": "rkwasny",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=31824096"
+  },
+  {
+    "title": "A look at search engines with their own indexes",
+    "url": "https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/",
+    "upvotes": 201,
+    "author": "tintedfireglass",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=31820149"
   },
   {
     "title": "Microvium Is Small",
     "url": "https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/",
-    "upvotes": 132,
+    "upvotes": 136,
     "author": "eatonphil",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=31819728"
   },
   {
-    "title": "“When It Rains, It Pours”: The Morton Salt Girl",
-    "url": "https://historydaily.org/history-morton-salt-girl-umbrella",
-    "upvotes": 284,
-    "author": "aw1621107",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=31817184"
-  },
-  {
     "title": "Map Data: False Assumptions Programmers Make",
     "url": "https://solutionspace.blog/2022/06/18/map-data-v-false-assumptions-programmers-make/",
-    "upvotes": 87,
+    "upvotes": 92,
     "author": "samwillis",
-    "comments": 53,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=31797121"
   },
   {
-    "title": "Writing for Distributed Teams",
+    "title": "Beginner's Series to Rust",
+    "url": "https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/",
+    "upvotes": 14,
+    "author": "philonoist",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31824185"
+  },
+  {
+    "title": "Writing for distributed teams",
     "url": "https://vickiboykis.com/2021/07/17/writing-for-distributed-teams/",
-    "upvotes": 59,
+    "upvotes": 63,
     "author": "Tomte",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31807809"
@@ -134,105 +142,97 @@
   {
     "title": "Hybrid Concrete/Symbolic Testing",
     "url": "https://gist.github.com/Zac-HD/28a81c7fc9c73637eba4b2f675bb3b5a",
-    "upvotes": 5,
+    "upvotes": 6,
     "author": "apsec112",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31801310"
   },
   {
-    "title": "Contra Wirecutter on the IKEA air purifier",
-    "url": "https://dynomight.net/ikea-purifier/",
-    "upvotes": 1329,
-    "author": "Ariarule",
-    "comments": 639,
-    "link": "https://news.ycombinator.com/item?id=31812259"
+    "title": "The Move Programming Language",
+    "url": "https://move-language.github.io/move/",
+    "upvotes": 19,
+    "author": "noch",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=31809276"
   },
   {
     "title": "Microsoft Donated Money to Gnome: Remember How They Attacked Open Source Before",
     "url": "https://nixsanctuary.com/microsoft-donated-money-to-gnome-lets-remember-how-they-attacked-open-source-before/",
-    "upvotes": 62,
+    "upvotes": 76,
     "author": "nxss",
-    "comments": 58,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=31823445"
   },
   {
-    "title": "NFS: The Early Years",
-    "url": "https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/",
-    "upvotes": 152,
-    "author": "chmaynard",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=31817380"
-  },
-  {
-    "title": "The Move Programming Language",
-    "url": "https://move-language.github.io/move/",
-    "upvotes": 14,
-    "author": "noch",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=31809276"
-  },
-  {
-    "title": "Checkbox Olympics",
-    "url": "https://checkboxolympics.com/",
-    "upvotes": 122,
-    "author": "Gedxx",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=31797988"
-  },
-  {
-    "title": "The biocultural origins and dispersal of domestic chickens",
-    "url": "https://www.pnas.org/doi/full/10.1073/pnas.2121978119",
-    "upvotes": 18,
-    "author": "diodorus",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31806553"
-  },
-  {
-    "title": "Does one simple rule underlie learning in the brain?",
-    "url": "https://actu.epfl.ch/news/does-one-simple-rule-underlie-learning-in-the-brai/",
-    "upvotes": 61,
-    "author": "ofou",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=31819980"
-  },
-  {
-    "title": "We are removing the option to create new subscriptions",
-    "url": "https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/",
-    "upvotes": 1348,
-    "author": "mritzmann",
-    "comments": 381,
-    "link": "https://news.ycombinator.com/item?id=31810104"
+    "title": "Contra Wirecutter on the IKEA air purifier",
+    "url": "https://dynomight.net/ikea-purifier/",
+    "upvotes": 1341,
+    "author": "Ariarule",
+    "comments": 644,
+    "link": "https://news.ycombinator.com/item?id=31812259"
   },
   {
     "title": "Safety features of the Hare programming language",
     "url": "https://harelang.org/blog/2022-06-21-safety-features/",
-    "upvotes": 10,
+    "upvotes": 18,
     "author": "ddevault",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31823622"
   },
   {
-    "title": "Super Planet Crash – A game of gravity",
-    "url": "https://stefanom.org/spc/index.html",
-    "upvotes": 98,
-    "author": "pndy",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=31797352"
+    "title": "The biocultural origins and dispersal of domestic chickens",
+    "url": "https://www.pnas.org/doi/full/10.1073/pnas.2121978119",
+    "upvotes": 22,
+    "author": "diodorus",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31806553"
   },
   {
-    "title": "A Macintosh History",
-    "url": "https://systemtalk.org/post/macintosh-history-8603/",
-    "upvotes": 53,
-    "author": "WillFlux",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=31808647"
+    "title": "Checkbox Olympics",
+    "url": "https://checkboxolympics.com/",
+    "upvotes": 126,
+    "author": "Gedxx",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=31797988"
+  },
+  {
+    "title": "Does one simple rule underlie learning in the brain?",
+    "url": "https://actu.epfl.ch/news/does-one-simple-rule-underlie-learning-in-the-brai/",
+    "upvotes": 67,
+    "author": "ofou",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=31819980"
+  },
+  {
+    "title": "We are removing the option to create new subscriptions",
+    "url": "https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/",
+    "upvotes": 1356,
+    "author": "mritzmann",
+    "comments": 386,
+    "link": "https://news.ycombinator.com/item?id=31810104"
   },
   {
     "title": "Sufficiently Advanced Testing",
     "url": "https://zhd.dev/sufficiently/",
-    "upvotes": 21,
+    "upvotes": 23,
     "author": "apsec112",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31800711"
+  },
+  {
+    "title": "A Macintosh History",
+    "url": "https://systemtalk.org/post/macintosh-history-8603/",
+    "upvotes": 56,
+    "author": "WillFlux",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=31808647"
+  },
+  {
+    "title": "Mnist Demo Compiled On-the-Fly to WebAssembly in the Browser",
+    "url": "https://mnist-demo.glitch.me",
+    "upvotes": 44,
+    "author": "brrrrrm",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=31819286"
   }
 ]
