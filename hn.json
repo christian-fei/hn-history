@@ -1,32 +1,32 @@
 [
   {
-    "title": "Explaining Code Using ASCII Art",
-    "url": "https://blog.regehr.org/archives/1653",
-    "upvotes": 90,
-    "author": "behnamoh",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=31891226"
+    "title": "Whatever hit the Moon in March, it left a double crater",
+    "url": "https://www.theregister.com/2022/06/25/chinese_rocket_moon_crash_pic/",
+    "upvotes": 36,
+    "author": "laktak",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=31873061"
   },
   {
     "title": "Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT",
     "url": "https://github.com/felipeleivav/yboard",
-    "upvotes": 43,
+    "upvotes": 49,
     "author": "selknam",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=31891608"
   },
   {
-    "title": "Whatever hit the Moon in March, it left a double crater",
-    "url": "https://www.theregister.com/2022/06/25/chinese_rocket_moon_crash_pic/",
-    "upvotes": 27,
-    "author": "laktak",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=31873061"
+    "title": "Explaining Code Using ASCII Art",
+    "url": "https://blog.regehr.org/archives/1653",
+    "upvotes": 98,
+    "author": "behnamoh",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=31891226"
   },
   {
     "title": "Lenses",
     "url": "https://www.fpcomplete.com/haskell/tutorial/lens/",
-    "upvotes": 83,
+    "upvotes": 87,
     "author": "Gadiguibou",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=31890781"
@@ -34,41 +34,49 @@
   {
     "title": "Adding Modules to C in 10 Lines of Code [pdf]",
     "url": "https://nwcpp.org/talks/2022/modules_in_c.pdf",
-    "upvotes": 34,
+    "upvotes": 39,
     "author": "pmarin",
-    "comments": 10,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=31881413"
+  },
+  {
+    "title": "Notes on OpenSSL remote memory corruption by Guido Vranken",
+    "url": "https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/",
+    "upvotes": 38,
+    "author": "pentestercrab",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31891090"
+  },
+  {
+    "title": "The Seiko TV watch",
+    "url": "https://sabukaru.online/articles/the-watch-for-which-james-bond-gave-up-his-rolex-the-seiko-tv-watch",
+    "upvotes": 249,
+    "author": "jjjjjjjjjjjjjjj",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=31874318"
   },
   {
     "title": "Two types of privacy",
     "url": "https://seirdy.one/posts/2022/06/25/two-types-of-privacy/",
     "upvotes": 53,
     "author": "notriddle",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=31891132"
   },
   {
-    "title": "Notes on OpenSSL remote memory corruption by Guido Vranken",
-    "url": "https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/",
-    "upvotes": 33,
-    "author": "pentestercrab",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31891090"
-  },
-  {
-    "title": "The Seiko TV watch",
-    "url": "https://sabukaru.online/articles/the-watch-for-which-james-bond-gave-up-his-rolex-the-seiko-tv-watch",
-    "upvotes": 244,
-    "author": "jjjjjjjjjjjjjjj",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=31874318"
+    "title": "Linx – Reveals invisible links within JavaScript files",
+    "url": "https://github.com/riza/linx",
+    "upvotes": 5,
+    "author": "r1z4",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31892581"
   },
   {
     "title": "What's New in Python 3.11?",
     "url": "https://deepsource.io/blog/python-3-11-whats-new/",
-    "upvotes": 225,
+    "upvotes": 230,
     "author": "sanketsaurav",
-    "comments": 172,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=31888624"
   },
   {
@@ -76,24 +84,32 @@
     "url": "http://neugierig.org/software/blog/2022/06/wasm-c++.html",
     "upvotes": 47,
     "author": "mariuz",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=31890894"
-  },
-  {
-    "title": "What does an idle CPU do?",
-    "url": "https://manybutfinite.com/post/what-does-an-idle-cpu-do/",
-    "upvotes": 285,
-    "author": "ivanvas",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=31887202"
   },
   {
     "title": "Going Critical",
     "url": "https://meltingasphalt.com/interactive/going-critical/",
-    "upvotes": 27,
+    "upvotes": 30,
     "author": "ranko",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=31834256"
+  },
+  {
+    "title": "Condemning the Deployment of GPT-4chan",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdh3Pgh0sGrYtRihBu-GPN7FSQoODBLvF7dVAFLZk2iuMgoLw/viewform?fbzx=1650213417672418119",
+    "upvotes": 19,
+    "author": "py4",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=31892421"
+  },
+  {
+    "title": "Nikon Z9 Disassembly and Teardown",
+    "url": "https://kolarivision.com/nikon-z9-disassembly-and-teardown/",
+    "upvotes": 73,
+    "author": "giuliomagnifico",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=31877173"
   },
   {
     "title": "Top startups in Chicago",
@@ -104,44 +120,44 @@
     "link": "https://news.ycombinator.com/item?id=31890701"
   },
   {
-    "title": "Nikon Z9 Disassembly and Teardown",
-    "url": "https://kolarivision.com/nikon-z9-disassembly-and-teardown/",
-    "upvotes": 72,
-    "author": "giuliomagnifico",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=31877173"
+    "title": "Ask HN: What is your Kubernetes nightmare?",
+    "url": "item?id=31892384",
+    "upvotes": 12,
+    "author": "wg0",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=31892384"
   },
   {
-    "title": "Condemning the Deployment of GPT-4chan",
-    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdh3Pgh0sGrYtRihBu-GPN7FSQoODBLvF7dVAFLZk2iuMgoLw/viewform?fbzx=1650213417672418119",
-    "upvotes": 13,
-    "author": "py4",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=31892421"
+    "title": "Pure: A static analysis file format checker",
+    "url": "https://github.com/ronomon/pure",
+    "upvotes": 3,
+    "author": "slimsag",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31872994"
   },
   {
     "title": "PyPI: Python packets steal AWS keys from users",
     "url": "https://blog.sonatype.com/python-packages-upload-your-aws-keys-env-vars-secrets-to-web",
-    "upvotes": 135,
+    "upvotes": 138,
     "author": "modinfo",
-    "comments": 57,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=31888075"
-  },
-  {
-    "title": "‘Blade Runner’ at 40",
-    "url": "https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/",
-    "upvotes": 338,
-    "author": "gumby",
-    "comments": 355,
-    "link": "https://news.ycombinator.com/item?id=31887748"
   },
   {
     "title": "Hyperphysics: Musical Instruments",
     "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/Music/musinscon.html#c1",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "brudgers",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=31880123"
+  },
+  {
+    "title": "‘Blade Runner’ at 40",
+    "url": "https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/",
+    "upvotes": 339,
+    "author": "gumby",
+    "comments": 355,
+    "link": "https://news.ycombinator.com/item?id=31887748"
   },
   {
     "title": "Video PreTraining",
@@ -152,12 +168,12 @@
     "link": "https://news.ycombinator.com/item?id=31889142"
   },
   {
-    "title": "Book Review: Disrupting the Game",
-    "url": "https://clever.bearblog.dev/book-review-disrupting-the-game/",
-    "upvotes": 11,
-    "author": "memorable",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31880489"
+    "title": "Life is not short",
+    "url": "https://dkb.show/post/life-is-not-short",
+    "upvotes": 661,
+    "author": "dbrereton",
+    "comments": 393,
+    "link": "https://news.ycombinator.com/item?id=31885137"
   },
   {
     "title": "By Exploring Virtual Worlds, AI Learns in New Ways",
@@ -168,71 +184,59 @@
     "link": "https://news.ycombinator.com/item?id=31889297"
   },
   {
-    "title": "Life is not short",
-    "url": "https://dkb.show/post/life-is-not-short",
-    "upvotes": 659,
-    "author": "dbrereton",
-    "comments": 389,
-    "link": "https://news.ycombinator.com/item?id=31885137"
-  },
-  {
     "title": "The giant hangar poised for an aviation revolution",
     "url": "https://www.bbc.com/future/article/20220621-the-giant-hangar-poised-for-an-aviation-revolution",
-    "upvotes": 74,
+    "upvotes": 77,
     "author": "clouddrover",
-    "comments": 55,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=31882203"
+  },
+  {
+    "title": "Book Review: Disrupting the Game",
+    "url": "https://clever.bearblog.dev/book-review-disrupting-the-game/",
+    "upvotes": 11,
+    "author": "memorable",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31880489"
   },
   {
     "title": "Hollywood doesn’t make movies like ‘The Fugitive’ anymore",
     "url": "https://www.theatlantic.com/entertainment/archive/2018/08/the-fugitive-harrison-ford-25-years-later/566729/",
-    "upvotes": 106,
+    "upvotes": 109,
     "author": "janandonly",
-    "comments": 122,
+    "comments": 129,
     "link": "https://news.ycombinator.com/item?id=31874606"
-  },
-  {
-    "title": "Type-checked keypaths in Rust",
-    "url": "http://www.cmyr.net/blog/keypaths.html",
-    "upvotes": 57,
-    "author": "pcr910303",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=31890394"
   },
   {
     "title": "PDP-8 Small-C Compiler",
     "url": "https://so-much-stuff.com/pdp8/C/Small-C.php",
-    "upvotes": 46,
+    "upvotes": 47,
     "author": "twoodfin",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=31878172"
   },
   {
-    "title": "‘Wallets and eyeballs’: how eBay turned the internet into a marketplace",
-    "url": "https://www.theguardian.com/technology/2022/jun/16/wallets-and-eyeballs-how-ebay-turned-the-internet-into-a-marketplace",
-    "upvotes": 49,
-    "author": "yarapavan",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=31874424"
+    "title": "What does an idle CPU do?",
+    "url": "https://manybutfinite.com/post/what-does-an-idle-cpu-do/",
+    "upvotes": 286,
+    "author": "ivanvas",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=31887202"
   },
   {
-    "title": "BuildZoom",
-    "url": "https://jobs.lever.co/buildzoom"
+    "title": "Type-checked keypaths in Rust",
+    "url": "http://www.cmyr.net/blog/keypaths.html",
+    "upvotes": 58,
+    "author": "pcr910303",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=31890394"
   },
   {
     "title": "USDA ignoring the science on low-carb diets",
     "url": "https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low",
-    "upvotes": 94,
+    "upvotes": 101,
     "author": "RelaxedTree",
-    "comments": 135,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=31889785"
-  },
-  {
-    "title": "DevOps is a failure",
-    "url": "https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure",
-    "upvotes": 240,
-    "author": "blopeur",
-    "comments": 304,
-    "link": "https://news.ycombinator.com/item?id=31887322"
   }
 ]
