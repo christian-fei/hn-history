@@ -2,42 +2,50 @@
   {
     "title": "Fresh is a new full stack web framework for Deno",
     "url": "https://deno.com/blog/fresh-is-stable",
-    "upvotes": 237,
+    "upvotes": 265,
     "author": "maeln",
-    "comments": 109,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=31908170"
   },
   {
     "title": "Teenagers’ 30 minute guide to writing in Assembly",
     "url": "https://github.com/hackclub/some-assembly-required",
-    "upvotes": 89,
+    "upvotes": 132,
     "author": "quackduck",
-    "comments": 14,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=31909183"
   },
   {
     "title": "It is your responsibility to follow up",
     "url": "https://guzey.com/follow-up/",
-    "upvotes": 107,
+    "upvotes": 127,
     "author": "dbrereton",
-    "comments": 121,
+    "comments": 145,
     "link": "https://news.ycombinator.com/item?id=31907725"
   },
   {
     "title": "How Do Individual Contributors Get Stuck? A Primer",
     "url": "https://www.elidedbranches.com/2017/01/how-do-individual-contributors-get.html",
-    "upvotes": 75,
+    "upvotes": 85,
     "author": "glennericksen",
-    "comments": 27,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=31907688"
   },
   {
     "title": "W3C to become a public-interest non-profit organization",
     "url": "https://www.w3.org/blog/news/archives/9594",
-    "upvotes": 87,
+    "upvotes": 101,
     "author": "jacooper",
-    "comments": 33,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=31907476"
+  },
+  {
+    "title": "Vercel Edge Middleware is now GA",
+    "url": "https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static",
+    "upvotes": 53,
+    "author": "leerob",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=31909622"
   },
   {
     "title": "PermitFlow (YC W22) Is Hiring a Head of Permit Operations",
@@ -46,193 +54,185 @@
   {
     "title": "Job interview questions engineers should ask, but don't",
     "url": "https://posthog.com/blog/what-to-ask-in-interviews",
-    "upvotes": 285,
+    "upvotes": 311,
     "author": "james_impliu",
-    "comments": 111,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=31906933"
-  },
-  {
-    "title": "Vercel Edge Middleware is now GA",
-    "url": "https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static",
-    "upvotes": 40,
-    "author": "leerob",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=31909622"
   },
   {
     "title": "Firefox addons are still unavailable on Android, two years after Fenix release",
     "url": "https://discourse.mozilla.org/t/add-on-support-in-new-firefox-for-android/53488?page=8",
-    "upvotes": 134,
+    "upvotes": 155,
     "author": "karlicoss",
-    "comments": 51,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=31905948"
   },
   {
     "title": "Haskell in Production: Channable",
     "url": "https://serokell.io/blog/haskell-in-production-channable",
-    "upvotes": 104,
+    "upvotes": 109,
     "author": "aroccoli",
-    "comments": 42,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=31906510"
-  },
-  {
-    "title": "Math on GitHub: Following Up",
-    "url": "https://nschloe.github.io/2022/06/27/math-on-github-follow-up.html",
-    "upvotes": 63,
-    "author": "nschloe",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=31891754"
   },
   {
     "title": "Demystifying pack and unpack, these most misunderstood functions",
     "url": "https://perldoc.perl.org/perlpacktut",
-    "upvotes": 32,
+    "upvotes": 39,
     "author": "psychoslave",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=31907250"
   },
   {
-    "title": "Universal Media Server. A DLNA, UPnP and HTTP",
-    "url": "https://www.universalmediaserver.com/",
-    "upvotes": 39,
-    "author": "proxysna",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=31907161"
+    "title": "Math on GitHub: Following Up",
+    "url": "https://nschloe.github.io/2022/06/27/math-on-github-follow-up.html",
+    "upvotes": 65,
+    "author": "nschloe",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=31891754"
   },
   {
     "title": "Tell HN: I DDoSed myself using AWS CloudFront and Lambda Edge and got $4.5k bill",
     "url": "item?id=31907374",
-    "upvotes": 119,
+    "upvotes": 135,
     "author": "huksley",
-    "comments": 121,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=31907374"
+  },
+  {
+    "title": "Universal Media Server. A DLNA, UPnP and HTTP",
+    "url": "https://www.universalmediaserver.com/",
+    "upvotes": 44,
+    "author": "proxysna",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=31907161"
   },
   {
     "title": "The PocketReform is a made-in-Berlin Linux handheld",
     "url": "https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/",
-    "upvotes": 367,
+    "upvotes": 370,
     "author": "sohkamyung",
-    "comments": 156,
+    "comments": 157,
     "link": "https://news.ycombinator.com/item?id=31903480"
   },
   {
     "title": "SQLite or PostgreSQL? It's Complicated",
     "url": "https://www.twilio.com/blog/sqlite-postgresql-complicated",
-    "upvotes": 62,
+    "upvotes": 77,
     "author": "makaimc",
-    "comments": 80,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=31908186"
   },
   {
     "title": "Show HN: Virtual Maker – Make 3D/VR scenes in the browser",
     "url": "https://www.virtualmaker.net/",
-    "upvotes": 25,
+    "upvotes": 30,
     "author": "afarchy",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=31907771"
-  },
-  {
-    "title": "Using the air as a wire – was Nikola Tesla right? [video]",
-    "url": "https://www.youtube.com/watch?v=1gDm6X19ZLI",
-    "upvotes": 22,
-    "author": "peter_d_sherman",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=31890649"
-  },
-  {
-    "title": "We made a fast audio editor that is perfect for podcasting",
-    "url": "https://teapodo.com/",
-    "upvotes": 90,
-    "author": "xiaoxing",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=31905554"
-  },
-  {
-    "title": "Shakespeare’s Plays, Sonnets, and Poems",
-    "url": "https://shakespeare.folger.edu/shakespeares-works/",
-    "upvotes": 53,
-    "author": "martialg",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=31906490"
-  },
-  {
-    "title": "The Modos Paper Monitor",
-    "url": "https://www.modos.tech/blog/modos-paper-monitor",
-    "upvotes": 176,
-    "author": "rcarmo",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=31858659"
   },
   {
     "title": "A human gene increases the size of primate's neocortex reflecting evolution",
     "url": "https://www.science.org/doi/10.1126/science.abb2401#core-collateral-purchase-access",
-    "upvotes": 35,
+    "upvotes": 44,
     "author": "Neeklo",
-    "comments": 32,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=31906651"
   },
   {
-    "title": "WHO declines to label monkeypox a global emergency",
-    "url": "https://www.science.org/content/article/who-declines-to-label-monkeypox-a-global-emergency",
-    "upvotes": 62,
-    "author": "1sembiyan",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=31908847"
+    "title": "We made a fast audio editor that is perfect for podcasting",
+    "url": "https://teapodo.com/",
+    "upvotes": 97,
+    "author": "xiaoxing",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=31905554"
+  },
+  {
+    "title": "Using the air as a wire – was Nikola Tesla right? [video]",
+    "url": "https://www.youtube.com/watch?v=1gDm6X19ZLI",
+    "upvotes": 25,
+    "author": "peter_d_sherman",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=31890649"
+  },
+  {
+    "title": "Hacker-News.news",
+    "url": "https://hacker-news.news/TopStory",
+    "upvotes": 4,
+    "author": "animal_spirits",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31910361"
+  },
+  {
+    "title": "The Modos Paper Monitor",
+    "url": "https://www.modos.tech/blog/modos-paper-monitor",
+    "upvotes": 179,
+    "author": "rcarmo",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=31858659"
+  },
+  {
+    "title": "Shakespeare’s Plays, Sonnets, and Poems",
+    "url": "https://shakespeare.folger.edu/shakespeares-works/",
+    "upvotes": 55,
+    "author": "martialg",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=31906490"
   },
   {
     "title": "Chestnut Tools Universal Sharpener – Popular Woodworking Magazine",
     "url": "https://web.archive.org/web/20170829095101/https://www.popularwoodworking.com/tools/chestnut-tools-universal-sharpener",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "walterbell",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=31881363"
   },
   {
     "title": "Getting Started with Red",
     "url": "http://redprogramming.com/Getting%20Started.html",
-    "upvotes": 16,
+    "upvotes": 18,
     "author": "damir",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=31891061"
-  },
-  {
-    "title": "Why hasn't Middle Earth had an Industrial Revolution?",
-    "url": "https://featherlessbipeds.substack.com/p/why-didnt-gandalf-own-a-colt-45",
-    "upvotes": 257,
-    "author": "Majromax",
-    "comments": 360,
-    "link": "https://news.ycombinator.com/item?id=31903379"
   },
   {
     "title": "Specialist makers working hard to keep unique skills alive",
     "url": "https://www.theguardian.com/lifeandstyle/2022/jun/26/tricks-of-their-trade-meet-the-uks-most-unusual-master-crafters",
-    "upvotes": 74,
+    "upvotes": 79,
     "author": "camtarn",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=31883137"
   },
   {
-    "title": "Ask HN: How do I learn (real life) COBOL?",
-    "url": "item?id=31906829",
-    "upvotes": 70,
-    "author": "unsupp0rted",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=31906829"
+    "title": "Taiyo No Tamago",
+    "url": "https://www.atlasobscura.com/foods/egg-of-the-sun-mango",
+    "upvotes": 15,
+    "author": "yogue",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=31908068"
   },
   {
     "title": "Sorting algorithms visualized using the Blender Python API",
     "url": "https://github.com/ForeignGods/Sorting-Algorithms-Blender",
-    "upvotes": 129,
+    "upvotes": 135,
     "author": "tosh",
-    "comments": 34,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=31904524"
+  },
+  {
+    "title": "Ask HN: How do I learn (real life) COBOL?",
+    "url": "item?id=31906829",
+    "upvotes": 72,
+    "author": "unsupp0rted",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=31906829"
   },
   {
     "title": "Show HN: I stripped DALL·E Mini to its bare essentials and converted it to Torch",
     "url": "https://github.com/kuprel/min-dalle",
-    "upvotes": 569,
+    "upvotes": 576,
     "author": "kuprel",
-    "comments": 122,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=31903076"
   }
 ]
