@@ -2,74 +2,90 @@
   {
     "title": "Tailscale ate my network",
     "url": "https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html",
-    "upvotes": 80,
+    "upvotes": 96,
     "author": "smackeyacky",
-    "comments": 45,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=31955970"
   },
   {
     "title": "What's the deal with all those weird wrong-number texts?",
     "url": "https://maxread.substack.com/p/whats-the-deal-with-all-those-weird",
-    "upvotes": 451,
+    "upvotes": 459,
     "author": "minimaxir",
-    "comments": 250,
+    "comments": 251,
     "link": "https://news.ycombinator.com/item?id=31949731"
   },
   {
     "title": "Learn TLA+",
     "url": "https://www.hillelwayne.com/post/learntla/",
-    "upvotes": 242,
+    "upvotes": 249,
     "author": "MindGods",
-    "comments": 49,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=31952643"
+  },
+  {
+    "title": "Notes on structured concurrency, or: Go statement considered harmful",
+    "url": "https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/",
+    "upvotes": 42,
+    "author": "stopachka",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=31955334"
   },
   {
     "title": "Reimagining front-end web development with htmx and hyperscript",
     "url": "https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript",
-    "upvotes": 113,
+    "upvotes": 117,
     "author": "mpweiher",
-    "comments": 64,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=31949621"
   },
   {
     "title": "Open Circuits – The Inner Beauty of Electronic Components",
     "url": "https://nostarch.com/open-circuits",
-    "upvotes": 87,
+    "upvotes": 91,
     "author": "peter_d_sherman",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=31942329"
   },
   {
-    "title": "Notes on structured concurrency, or: Go statement considered harmful",
-    "url": "https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/",
-    "upvotes": 33,
-    "author": "stopachka",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31955334"
-  },
-  {
     "title": "Virgil: A fast and lightweight programming language that compiles to WASM",
     "url": "https://github.com/titzer/virgil",
-    "upvotes": 88,
+    "upvotes": 91,
     "author": "syrusakbary",
-    "comments": 42,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=31954053"
   },
   {
     "title": "PureDarwin",
     "url": "http://www.puredarwin.org/",
-    "upvotes": 103,
+    "upvotes": 106,
     "author": "tsujp",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=31943198"
   },
   {
     "title": "The GPU shortage is over",
     "url": "https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800",
-    "upvotes": 190,
+    "upvotes": 196,
     "author": "mfiguiere",
-    "comments": 142,
+    "comments": 145,
     "link": "https://news.ycombinator.com/item?id=31953662"
+  },
+  {
+    "title": "DiscoArt: Create compelling Disco Diffusion artworks in one line",
+    "url": "https://github.com/jina-ai/discoart",
+    "upvotes": 36,
+    "author": "artex_xh",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=31943420"
+  },
+  {
+    "title": "Landsat proved the power of remote sensing",
+    "url": "https://spectrum.ieee.org/landsat",
+    "upvotes": 11,
+    "author": "sohkamyung",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31941873"
   },
   {
     "title": "Strawberry Pop-Tart Blow-Torches",
@@ -80,49 +96,49 @@
     "link": "https://news.ycombinator.com/item?id=31951308"
   },
   {
-    "title": "DiscoArt: Create compelling Disco Diffusion artworks in one line",
-    "url": "https://github.com/jina-ai/discoart",
-    "upvotes": 33,
-    "author": "artex_xh",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31943420"
-  },
-  {
-    "title": "Landsat proved the power of remote sensing",
-    "url": "https://spectrum.ieee.org/landsat",
-    "upvotes": 10,
-    "author": "sohkamyung",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31941873"
-  },
-  {
     "title": "There are no open issues or pull requests on Flask",
     "url": "https://twitter.com/davidism/status/1542956488355762176",
-    "upvotes": 316,
+    "upvotes": 325,
     "author": "b_mc2",
-    "comments": 112,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=31953470"
+  },
+  {
+    "title": "Leading vs. Participating",
+    "url": "https://www.subbu.org/articles/2021/leading-vs-participating/",
+    "upvotes": 3,
+    "author": "talonx",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31956626"
+  },
+  {
+    "title": "Deprank: Use PageRank to find the most important files in your codebase",
+    "url": "https://github.com/codemix/deprank",
+    "upvotes": 10,
+    "author": "phpnode",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=31944278"
   },
   {
     "title": "mTCP: TCP/IP applications for DOS PCs",
     "url": "http://www.brutman.com/mTCP/mTCP.html",
     "upvotes": 121,
     "author": "mbbrutman",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=31949535"
   },
   {
     "title": "How much health insurers pay for almost everything is about to go public",
     "url": "https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/",
-    "upvotes": 641,
+    "upvotes": 648,
     "author": "nojito",
-    "comments": 298,
+    "comments": 301,
     "link": "https://news.ycombinator.com/item?id=31949348"
   },
   {
     "title": "For productivity geeks, futility is a relief and a starting point",
     "url": "https://herbertlui.net/for-productivity-geeks-futility-is-a-relief-and-a-starting-point/",
-    "upvotes": 42,
+    "upvotes": 43,
     "author": "herbertl",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=31941472"
@@ -140,23 +156,31 @@
     "url": "https://forums.redflagdeals.com/some-cyberpower-upses-may-pose-fire-hazard-2516306/",
     "upvotes": 78,
     "author": "smcleod",
-    "comments": 66,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=31954938"
+  },
+  {
+    "title": "Making buildings, cars and planes from materials based on plant fibres",
+    "url": "https://www.economist.com/science-and-technology/2018/06/15/making-buildings-cars-and-planes-from-materials-based-on-plant-fibres",
+    "upvotes": 6,
+    "author": "prostoalex",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31942835"
   },
   {
     "title": "Design lessons from guitar pedals",
     "url": "https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b",
-    "upvotes": 133,
+    "upvotes": 134,
     "author": "williamsmj",
-    "comments": 99,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=31948881"
   },
   {
     "title": "Newer, better sunscreens have not been approved by the FDA",
     "url": "https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/",
-    "upvotes": 130,
+    "upvotes": 132,
     "author": "derbOac",
-    "comments": 136,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=31954294"
   },
   {
@@ -168,9 +192,13 @@
     "link": "https://news.ycombinator.com/item?id=31944575"
   },
   {
+    "title": "Mozart Data",
+    "url": "https://www.mozartdata.com/senior-software-engineer-frontend"
+  },
+  {
     "title": "Life helps make almost half of Earth’s minerals",
     "url": "https://www.quantamagazine.org/life-helps-make-almost-half-of-all-minerals-20220701/",
-    "upvotes": 48,
+    "upvotes": 49,
     "author": "theafh",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=31947066"
@@ -178,29 +206,17 @@
   {
     "title": "Show HN: Redbean 2.0 in Docker",
     "url": "https://github.com/kissgyorgy/redbean-docker",
-    "upvotes": 46,
+    "upvotes": 47,
     "author": "kissgyorgy",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=31952678"
-  },
-  {
-    "title": "Mozart Data",
-    "url": "https://www.mozartdata.com/senior-software-engineer-frontend"
-  },
-  {
-    "title": "Making buildings, cars and planes from materials based on plant fibres",
-    "url": "https://www.economist.com/science-and-technology/2018/06/15/making-buildings-cars-and-planes-from-materials-based-on-plant-fibres",
-    "upvotes": 5,
-    "author": "prostoalex",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31942835"
   },
   {
     "title": "No Refrigerant Left Behind",
     "url": "https://www.recoolit.com/post/no-refrigerant-left-behind",
-    "upvotes": 338,
+    "upvotes": 342,
     "author": "exp1orer",
-    "comments": 272,
+    "comments": 277,
     "link": "https://news.ycombinator.com/item?id=31946390"
   },
   {
@@ -218,21 +234,5 @@
     "author": "whoishiring",
     "comments": 429,
     "link": "https://news.ycombinator.com/item?id=31947297"
-  },
-  {
-    "title": "A quick history of data fetching in JavaScript",
-    "url": "https://codeamigo.dev/lessons/232",
-    "upvotes": 25,
-    "author": "plondon514",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=31941480"
-  },
-  {
-    "title": "Voyager suspends trading, deposits, withdrawals, and loyalty rewards",
-    "url": "https://www.investvoyager.com/blog/voyager-update-july-1-2022/",
-    "upvotes": 195,
-    "author": "uptown",
-    "comments": 194,
-    "link": "https://news.ycombinator.com/item?id=31952379"
   }
 ]
