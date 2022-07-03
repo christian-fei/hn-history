@@ -1,148 +1,140 @@
 [
   {
-    "title": "Kyoto framework is moving to sr.ht from GitHub",
+    "title": "Kyoto project is moving from GitHub to Sourcehut",
     "url": "https://github.com/kyoto-framework/kyoto",
-    "upvotes": 129,
+    "upvotes": 146,
     "author": "gkbrk",
-    "comments": 94,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=31961402"
+  },
+  {
+    "title": "Adventures with Verizon FiOS IPv6",
+    "url": "https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2022-07-02_verizon/article.md",
+    "upvotes": 22,
+    "author": "todsacerdoti",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=31963070"
   },
   {
     "title": "Yahoo admits mangling e-mail",
     "url": "http://news.bbc.co.uk/2/hi/science/nature/2138014.stm",
-    "upvotes": 188,
+    "upvotes": 191,
     "author": "Andoryuuta",
-    "comments": 99,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=31959890"
   },
   {
     "title": "An engineer’s tips for writing documentation devs love",
     "url": "https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/",
-    "upvotes": 240,
+    "upvotes": 245,
     "author": "kiyanwang",
-    "comments": 44,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=31945863"
   },
   {
     "title": "Open Logic Project",
     "url": "http://builds.openlogicproject.org/",
-    "upvotes": 139,
+    "upvotes": 145,
     "author": "peanutcrisis",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=31960219"
   },
   {
-    "title": "Adventures with Verizon FiOS IPv6",
-    "url": "https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2022-07-02_verizon/article.md",
-    "upvotes": 13,
-    "author": "todsacerdoti",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31963070"
-  },
-  {
     "title": "The new wave of React state management",
     "url": "https://frontendmastery.com/posts/the-new-wave-of-react-state-management/",
-    "upvotes": 180,
+    "upvotes": 188,
     "author": "remrem",
-    "comments": 194,
+    "comments": 203,
     "link": "https://news.ycombinator.com/item?id=31959289"
-  },
-  {
-    "title": "The Windows malloc",
-    "url": "https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/",
-    "upvotes": 159,
-    "author": "blackhole",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=31961912"
   },
   {
     "title": "The trimodal nature of software salaries in the Netherlands and Europe",
     "url": "https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/",
-    "upvotes": 164,
+    "upvotes": 172,
     "author": "emirb",
-    "comments": 176,
+    "comments": 184,
     "link": "https://news.ycombinator.com/item?id=31960814"
   },
   {
     "title": "How does rsync work?",
     "url": "https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/",
-    "upvotes": 234,
+    "upvotes": 240,
     "author": "secure",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=31958536"
   },
   {
-    "title": "AWS Nuke – delete all resources associated with AWS account",
-    "url": "https://github.com/rebuy-de/aws-nuke",
-    "upvotes": 130,
-    "author": "fortran77",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=31962014"
+    "title": "The Windows malloc",
+    "url": "https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/",
+    "upvotes": 167,
+    "author": "blackhole",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=31961912"
+  },
+  {
+    "title": "Building explainability into the components of machine-learning models",
+    "url": "https://news.mit.edu/2022/explainability-machine-learning-0630",
+    "upvotes": 18,
+    "author": "rntn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31943639"
   },
   {
     "title": "Darktable 4.0",
     "url": "https://www.darktable.org/2022/07/darktable-4.0.0-released/",
-    "upvotes": 190,
+    "upvotes": 194,
     "author": "aendruk",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=31960962"
+  },
+  {
+    "title": "AWS Nuke – delete all resources associated with AWS account",
+    "url": "https://github.com/rebuy-de/aws-nuke",
+    "upvotes": 136,
+    "author": "fortran77",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=31962014"
+  },
+  {
+    "title": "Dependabot alerts paused for malware advisories",
+    "url": "https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/",
+    "upvotes": 21,
+    "author": "capableweb",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=31962745"
   },
   {
     "title": "Skio",
     "url": "https://skio.com/careers/"
   },
   {
-    "title": "Open source is not about you",
-    "url": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
-    "upvotes": 272,
-    "author": "capableweb",
-    "comments": 180,
-    "link": "https://news.ycombinator.com/item?id=31957554"
-  },
-  {
     "title": "How the Higgs Boson Ruined Peter Higgs’s Life",
     "url": "https://www.scientificamerican.com/article/how-the-higgs-boson-ruined-peter-higgss-life/",
-    "upvotes": 87,
+    "upvotes": 88,
     "author": "pseudolus",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=31944555"
-  },
-  {
-    "title": "Building explainability into the components of machine-learning models",
-    "url": "https://news.mit.edu/2022/explainability-machine-learning-0630",
-    "upvotes": 15,
-    "author": "rntn",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31943639"
   },
   {
     "title": "Porting Graphing Calculator from C++ to Swift",
     "url": "https://www.swift.org/blog/graphing-calculator/",
-    "upvotes": 64,
+    "upvotes": 69,
     "author": "mooreds",
-    "comments": 17,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=31945478"
   },
   {
-    "title": "Dependabot alerts paused for malware advisories",
-    "url": "https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/",
-    "upvotes": 18,
-    "author": "capableweb",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=31962745"
-  },
-  {
-    "title": "Scunthorpe Sans, A font that censors bad language automatically",
-    "url": "https://vole.wtf/scunthorpe-sans/",
-    "upvotes": 257,
-    "author": "WayToDoor",
-    "comments": 210,
-    "link": "https://news.ycombinator.com/item?id=31957551"
+    "title": "Can computers be mathematicians?",
+    "url": "https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/",
+    "upvotes": 10,
+    "author": "rfreytag",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=31944043"
   },
   {
     "title": "Python for Data Analysis, 3rd Edition – The Open Access Version Online",
     "url": "https://wesmckinney.com/book/",
-    "upvotes": 209,
+    "upvotes": 214,
     "author": "mariuz",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=31957908"
@@ -150,26 +142,42 @@
   {
     "title": "Event-level prediction of urban crime reveals a enforcement bias in US cities",
     "url": "https://www.nature.com/articles/s41562-022-01372-0",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "darkscape",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=31961244"
   },
   {
     "title": "The Bullshit Web",
     "url": "https://pxlnv.com/blog/bullshit-web/",
-    "upvotes": 109,
+    "upvotes": 113,
     "author": "metadat",
-    "comments": 75,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=31961239"
   },
   {
-    "title": "Can computers be mathematicians?",
-    "url": "https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/",
-    "upvotes": 7,
-    "author": "rfreytag",
+    "title": "Watching an acquirer ruin your company",
+    "url": "https://startupwin.kelsus.com/p/watching-an-acquirer-ruin-your-company",
+    "upvotes": 5,
+    "author": "kelsus",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31944043"
+    "link": "https://news.ycombinator.com/item?id=31963460"
+  },
+  {
+    "title": "The Berkeley Crossword Solver",
+    "url": "https://bair.berkeley.edu/blog/2022/05/20/crosswords/",
+    "upvotes": 5,
+    "author": "geox",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31945504"
+  },
+  {
+    "title": "Football shirts chart the rise and fall of tech giants",
+    "url": "https://restofworld.org/2022/football-shirt-tech-sponsorship/",
+    "upvotes": 28,
+    "author": "marban",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=31943528"
   },
   {
     "title": "Show HN: Copper – A Go framework for your projects",
@@ -180,20 +188,20 @@
     "link": "https://news.ycombinator.com/item?id=31958823"
   },
   {
-    "title": "Football shirts chart the rise and fall of tech giants",
-    "url": "https://restofworld.org/2022/football-shirt-tech-sponsorship/",
-    "upvotes": 23,
-    "author": "marban",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=31943528"
-  },
-  {
     "title": "American Seating’s original and largest market was school furniture",
     "url": "https://twitter.com/JoshLipnik/status/1542324147027644418",
-    "upvotes": 35,
+    "upvotes": 37,
     "author": "antismarm",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=31954225"
+  },
+  {
+    "title": "Even when you do succeed, sometimes it pays to try again",
+    "url": "https://timharford.com/2022/06/even-when-you-do-succeed-sometimes-it-pays-to-try-again/",
+    "upvotes": 96,
+    "author": "imartin2k",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=31943683"
   },
   {
     "title": "How does a USB keyboard work?",
@@ -204,35 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=31957603"
   },
   {
-    "title": "Even when you do succeed, sometimes it pays to try again",
-    "url": "https://timharford.com/2022/06/even-when-you-do-succeed-sometimes-it-pays-to-try-again/",
-    "upvotes": 94,
-    "author": "imartin2k",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=31943683"
-  },
-  {
-    "title": "Bureaucratic processes typically involve a person new to the process",
-    "url": "https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html",
-    "upvotes": 27,
-    "author": "physicsgraph",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=31961216"
-  },
-  {
     "title": "The dawning of the Age of Apple Aquarius",
     "url": "http://tenfourfox.blogspot.com/2019/12/and-now-for-something-completely_29.html",
-    "upvotes": 4,
+    "upvotes": 6,
     "author": "classichasclass",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=31963065"
   },
   {
-    "title": "Delta Air Lines offers passengers $10k each to get off 'oversold' flight",
-    "url": "https://www.usatoday.com/story/travel/2022/07/01/delta-offered-10-k-oversold-flight/7785941001/",
-    "upvotes": 8,
-    "author": "cwwc",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=31963433"
+    "title": "Bureaucratic processes typically involve a person new to the process",
+    "url": "https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html",
+    "upvotes": 29,
+    "author": "physicsgraph",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=31961216"
+  },
+  {
+    "title": "The Sordid Past of the Cubic Formula",
+    "url": "https://www.quantamagazine.org/the-scandalous-history-of-the-cubic-formula-20220630/",
+    "upvotes": 47,
+    "author": "nsoonhui",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=31941694"
   }
 ]
