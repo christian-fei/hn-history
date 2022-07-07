@@ -1,106 +1,122 @@
 [
   {
+    "title": "Why DRY is the most over-rated programming principle",
+    "url": "https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/",
+    "upvotes": 31,
+    "author": "gcassie",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=32010699"
+  },
+  {
     "title": "I analyzed hospital price lists so you didn't have to",
     "url": "https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/",
-    "upvotes": 363,
+    "upvotes": 375,
     "author": "PainfullyNormal",
-    "comments": 233,
+    "comments": 244,
     "link": "https://news.ycombinator.com/item?id=32008586"
+  },
+  {
+    "title": "Playstation Store removes Studiocanal movies, no refunds offered",
+    "url": "https://www.gameshub.com/news/news/playstation-store-studio-canal-movies-germany-austria-23400/",
+    "upvotes": 43,
+    "author": "josephcsible",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=32010317"
   },
   {
     "title": "Apple previews Lockdown Mode",
     "url": "https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/",
-    "upvotes": 1236,
+    "upvotes": 1262,
     "author": "todsacerdoti",
-    "comments": 590,
+    "comments": 594,
     "link": "https://news.ycombinator.com/item?id=32003756"
   },
   {
     "title": "Music for Programming",
     "url": "https://musicforprogramming.net/",
-    "upvotes": 160,
+    "upvotes": 172,
     "author": "Group_B",
-    "comments": 72,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=32009440"
-  },
-  {
-    "title": "Playstation Store removes Studiocanal movies, no refunds offered",
-    "url": "https://www.gameshub.com/news/news/playstation-store-studio-canal-movies-germany-austria-23400/",
-    "upvotes": 23,
-    "author": "josephcsible",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=32010317"
   },
   {
     "title": "Large-scale ‘sand battery’ goes online in Finland",
     "url": "https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/",
-    "upvotes": 194,
+    "upvotes": 204,
     "author": "bobse",
-    "comments": 171,
+    "comments": 178,
     "link": "https://news.ycombinator.com/item?id=32006791"
-  },
-  {
-    "title": "Why DRY is the most over-rated programming principle",
-    "url": "https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/",
-    "upvotes": 6,
-    "author": "gcassie",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=32010699"
   },
   {
     "title": "Google ML Compiler Inlining Achieves 3-7% Reduction in Size",
     "url": "https://ai.googleblog.com/2022/07/mlgo-machine-learning-framework-for.html",
-    "upvotes": 123,
+    "upvotes": 125,
     "author": "palmm",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=32007695"
   },
   {
     "title": "Beigels, software, and why you should control queues instead of cycle times",
     "url": "https://lucasfcosta.com/2022/06/12/measure-queues-not-cycle-time.html",
-    "upvotes": 12,
+    "upvotes": 18,
     "author": "lucasfcosta",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=31984323"
-  },
-  {
-    "title": "Life Stats",
-    "url": "https://neal.fun/life-stats/",
-    "upvotes": 165,
-    "author": "memorable",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=32009009"
-  },
-  {
-    "title": "Launch HN: Hello (YC S22) – A search engine for developers",
-    "url": "item?id=32003215",
-    "upvotes": 197,
-    "author": "wayy",
-    "comments": 177,
-    "link": "https://news.ycombinator.com/item?id=32003215"
-  },
-  {
-    "title": "No Language Left Behind",
-    "url": "https://ai.facebook.com/research/no-language-left-behind/",
-    "upvotes": 162,
-    "author": "pesenti",
-    "comments": 119,
-    "link": "https://news.ycombinator.com/item?id=32005942"
   },
   {
     "title": "SpaceVim 2.0",
     "url": "https://spacevim.org/SpaceVim-release-v2.0.0/",
-    "upvotes": 125,
+    "upvotes": 133,
     "author": "christophilus",
-    "comments": 60,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=31986851"
+  },
+  {
+    "title": "Launch HN: Hello (YC S22) – A search engine for developers",
+    "url": "item?id=32003215",
+    "upvotes": 202,
+    "author": "wayy",
+    "comments": 180,
+    "link": "https://news.ycombinator.com/item?id=32003215"
+  },
+  {
+    "title": "Parsing with Haskell",
+    "url": "https://serokell.io/blog/lexing-with-alex",
+    "upvotes": 6,
+    "author": "aroccoli",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=31986811"
+  },
+  {
+    "title": "Life Stats",
+    "url": "https://neal.fun/life-stats/",
+    "upvotes": 175,
+    "author": "memorable",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=32009009"
+  },
+  {
+    "title": "No Language Left Behind",
+    "url": "https://ai.facebook.com/research/no-language-left-behind/",
+    "upvotes": 163,
+    "author": "pesenti",
+    "comments": 122,
+    "link": "https://news.ycombinator.com/item?id=32005942"
+  },
+  {
+    "title": "WxWidgets 3.2.0 Released",
+    "url": "https://wxwidgets.org/news/2022/07/wxwidgets-3.2.0-final-release/",
+    "upvotes": 34,
+    "author": "todsacerdoti",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32010272"
   },
   {
     "title": "Show HN: C3 – A C alternative that looks like C",
     "url": "item?id=32005678",
-    "upvotes": 146,
+    "upvotes": 149,
     "author": "lerno",
-    "comments": 77,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=32005678"
   },
   {
@@ -108,68 +124,60 @@
     "url": "https://www.justingarrison.com/blog/2022-07-06-cubernetes/",
     "upvotes": 161,
     "author": "JustinGarrison",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=32004756"
-  },
-  {
-    "title": "Fog Volumes arrive in Godot 4.0",
-    "url": "https://godotengine.org/article/fog-volumes-arrive-in-godot-4",
-    "upvotes": 219,
-    "author": "Tomte",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=32003065"
   },
   {
     "title": "Python 3.11 vs 3.10 performance",
     "url": "https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst",
-    "upvotes": 639,
+    "upvotes": 642,
     "author": "hyperbovine",
-    "comments": 365,
+    "comments": 366,
     "link": "https://news.ycombinator.com/item?id=32002057"
   },
   {
     "title": "Venice to Introduce Entry Tickets and Fees",
     "url": "https://www.euronews.com/travel/2022/07/01/venice-sets-date-for-introduction-of-ticketing-and-entry-fees-heres-what-you-need-to-know",
-    "upvotes": 76,
+    "upvotes": 81,
     "author": "lqet",
-    "comments": 90,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=31985642"
+  },
+  {
+    "title": "Alain de Botton on Existential Maturity and What Emotional Intelligence Means",
+    "url": "https://www.themarginalian.org/2019/11/25/the-school-of-life-book/",
+    "upvotes": 67,
+    "author": "OrderOfChaos",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=32007065"
   },
   {
     "title": "Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers",
     "url": "item?id=32008825"
   },
   {
-    "title": "WxWidgets 3.2.0 Released",
-    "url": "https://wxwidgets.org/news/2022/07/wxwidgets-3.2.0-final-release/",
-    "upvotes": 18,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32010272"
-  },
-  {
-    "title": "Alain de Botton on Existential Maturity and What Emotional Intelligence Means",
-    "url": "https://www.themarginalian.org/2019/11/25/the-school-of-life-book/",
-    "upvotes": 61,
-    "author": "OrderOfChaos",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=32007065"
-  },
-  {
     "title": "What Is Machine Learning Anyway?",
     "url": "https://dockyard.com/blog/2022/06/21/what-is-machine-learning-anyway",
-    "upvotes": 13,
+    "upvotes": 14,
     "author": "clessg",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32001080"
   },
   {
     "title": "A functional definition to distinguish ponds from lakes and wetlands",
     "url": "https://www.nature.com/articles/s41598-022-14569-0",
-    "upvotes": 32,
+    "upvotes": 33,
     "author": "PaulHoule",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=32001103"
+  },
+  {
+    "title": "A fake job offer took down Axie Infinity",
+    "url": "https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game",
+    "upvotes": 478,
+    "author": "danso",
+    "comments": 312,
+    "link": "https://news.ycombinator.com/item?id=32001742"
   },
   {
     "title": "Nanoparticle Vaccine Protects Against C19-Causing Variants and Related Viruses",
@@ -180,59 +188,51 @@
     "link": "https://news.ycombinator.com/item?id=32009378"
   },
   {
-    "title": "A fake job offer took down Axie Infinity",
-    "url": "https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game",
-    "upvotes": 472,
-    "author": "danso",
-    "comments": 311,
-    "link": "https://news.ycombinator.com/item?id=32001742"
-  },
-  {
     "title": "Space Force Launches New Intelligence Unit: Congress Voices Concerns over Growth",
     "url": "https://www.military.com/daily-news/2022/07/05/space-force-launches-new-intelligence-unit-congress-voices-concerns-over-growth.html",
     "upvotes": 74,
     "author": "Trouble_007",
-    "comments": 88,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=32008080"
+  },
+  {
+    "title": "Stores weigh paying you not to bring back unwanted items",
+    "url": "https://www.cnn.com/2022/06/26/business/retail-returns/index.html",
+    "upvotes": 95,
+    "author": "bookofjoe",
+    "comments": 217,
+    "link": "https://news.ycombinator.com/item?id=31999048"
   },
   {
     "title": "Where to wait for an elevator",
     "url": "https://www.johndcook.com/blog/2010/11/29/where-to-wait-for-an-elevator/",
     "upvotes": 96,
     "author": "bumbledraven",
-    "comments": 85,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=32003849"
-  },
-  {
-    "title": "Stores weigh paying you not to bring back unwanted items",
-    "url": "https://www.cnn.com/2022/06/26/business/retail-returns/index.html",
-    "upvotes": 93,
-    "author": "bookofjoe",
-    "comments": 214,
-    "link": "https://news.ycombinator.com/item?id=31999048"
   },
   {
     "title": "DIY Smartphone Lora Connection",
     "url": "https://www.hackster.io/pulsartronic/diy-smartphone-lora-connection-bde258",
-    "upvotes": 67,
+    "upvotes": 68,
     "author": "walterbell",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32000201"
   },
   {
-    "title": "Decoding the qualities of a great VC",
-    "url": "https://hackernoon.com/decoding-the-qualities-of-a-great-vc-d02f2d4da4ae",
-    "upvotes": 4,
-    "author": "Brajeshwar",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=31989044"
-  },
-  {
     "title": "Defensive CSS",
     "url": "https://defensivecss.dev",
-    "upvotes": 329,
+    "upvotes": 333,
     "author": "jacobr",
     "comments": 63,
     "link": "https://news.ycombinator.com/item?id=31984951"
+  },
+  {
+    "title": "Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler",
+    "url": "http://rubycentral.org/ruby-shield",
+    "upvotes": 385,
+    "author": "jacques_chester",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=32003900"
   }
 ]
