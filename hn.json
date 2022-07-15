@@ -2,39 +2,39 @@
   {
     "title": "The Dhall Configuration Language",
     "url": "https://dhall-lang.org/",
-    "upvotes": 118,
+    "upvotes": 129,
     "author": "bjourne",
-    "comments": 95,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=32102203"
   },
   {
     "title": "Lessons I wish I had been taught",
     "url": "https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html",
-    "upvotes": 56,
+    "upvotes": 73,
     "author": "Tomte",
-    "comments": 10,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32081288"
   },
   {
     "title": "Show HN: Porting OpenBSD Pledge",
     "url": "https://justine.lol/pledge/",
-    "upvotes": 460,
+    "upvotes": 469,
     "author": "jart",
-    "comments": 79,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=32096801"
   },
   {
     "title": "Lisp in 99 lines of C and how to write one yourself [pdf]",
     "url": "https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf",
-    "upvotes": 172,
+    "upvotes": 188,
     "author": "jstanley",
-    "comments": 38,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=32100035"
   },
   {
     "title": "DNS Esoterica – Why you can't dig Switzerland",
     "url": "https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/",
-    "upvotes": 604,
+    "upvotes": 610,
     "author": "edent",
     "comments": 102,
     "link": "https://news.ycombinator.com/item?id=32094645"
@@ -42,46 +42,62 @@
   {
     "title": "It’s time to make that indie C# game in Godot",
     "url": "https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470",
-    "upvotes": 366,
+    "upvotes": 377,
     "author": "proxybop",
-    "comments": 191,
+    "comments": 193,
     "link": "https://news.ycombinator.com/item?id=32096575"
   },
   {
     "title": "Stripe cuts internal valuation by 28%",
     "url": "https://www.wsj.com/articles/stripe-cuts-internal-valuation-by-28-11657815625",
-    "upvotes": 146,
+    "upvotes": 164,
     "author": "nowherebeen",
-    "comments": 107,
+    "comments": 116,
     "link": "https://news.ycombinator.com/item?id=32098112"
   },
   {
     "title": "Inexpensive Kaizen toolbox foam alternative",
     "url": "https://www.tacomaworld.com/threads/inexpensive-kaizen-tool-box-foam-alternative.531789/#post-17039250",
-    "upvotes": 11,
+    "upvotes": 18,
     "author": "walterbell",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=32067236"
   },
   {
     "title": "Show HN: I built an app for when I talk too much in online meetings",
     "url": "http://unblah.me/",
-    "upvotes": 348,
+    "upvotes": 365,
     "author": "interleave",
-    "comments": 161,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=32095592"
+  },
+  {
+    "title": "Lessons from Writing a Compiler",
+    "url": "https://borretti.me/article/lessons-writing-compiler",
+    "upvotes": 108,
+    "author": "zetalyrae",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=32100880"
   },
   {
     "title": "Sirum (YC W15 nonprofit) is hiring engineers and pharmacy technicians",
     "url": "item?id=32103342"
   },
   {
-    "title": "Lessons from Writing a Compiler",
-    "url": "https://borretti.me/article/lessons-writing-compiler",
-    "upvotes": 100,
-    "author": "zetalyrae",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=32100880"
+    "title": "How a Doctor Killed the Baroque Era",
+    "url": "https://tedgioia.substack.com/p/how-a-doctor-killed-the-baroque-era",
+    "upvotes": 8,
+    "author": "lycopodiopsida",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32081217"
+  },
+  {
+    "title": "Rocky Linux 9.0",
+    "url": "https://rockylinux.org/news/rocky-linux-9-0-ga-release/",
+    "upvotes": 149,
+    "author": "TangerineDream",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=32097950"
   },
   {
     "title": "Nyxt 3 Pre-release 1",
@@ -92,147 +108,131 @@
     "link": "https://news.ycombinator.com/item?id=32097424"
   },
   {
-    "title": "Microsoft Windows Network File System v4 Remote Code Execution",
-    "url": "https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability",
-    "upvotes": 40,
-    "author": "todsacerdoti",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=32101729"
-  },
-  {
-    "title": "Rocky Linux 9.0",
-    "url": "https://rockylinux.org/news/rocky-linux-9-0-ga-release/",
-    "upvotes": 146,
-    "author": "TangerineDream",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=32097950"
-  },
-  {
     "title": "A Spectre Is Haunting Unicode",
     "url": "https://www.dampfkraft.com/ghost-characters.html",
-    "upvotes": 251,
+    "upvotes": 253,
     "author": "EvanAnderson",
-    "comments": 157,
+    "comments": 161,
     "link": "https://news.ycombinator.com/item?id=32095502"
   },
   {
-    "title": "We discovered a 7-year old performance issue in Elixir",
-    "url": "https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=60329427cb38",
-    "upvotes": 30,
-    "author": "s3cur3",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32102430"
-  },
-  {
-    "title": "Hot Reloading in Swift",
-    "url": "https://www.merowing.info/hot-reloading-in-swift/",
-    "upvotes": 61,
-    "author": "mgrayson",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=32101009"
-  },
-  {
-    "title": "Pentester's Promiscuous Notebook",
-    "url": "https://ppn.snovvcrash.rocks/",
-    "upvotes": 110,
-    "author": "MiguelHzBz",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32066938"
+    "title": "Microsoft Windows Network File System v4 Remote Code Execution",
+    "url": "https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability",
+    "upvotes": 42,
+    "author": "todsacerdoti",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=32101729"
   },
   {
     "title": "U.S. public health agencies aren't ‘following the science,’ officials say",
     "url": "https://www.commonsense.news/p/us-public-health-agencies-arent-following",
-    "upvotes": 114,
+    "upvotes": 137,
     "author": "themgt",
-    "comments": 134,
+    "comments": 166,
     "link": "https://news.ycombinator.com/item?id=32099576"
+  },
+  {
+    "title": "Pentester's Promiscuous Notebook",
+    "url": "https://ppn.snovvcrash.rocks/",
+    "upvotes": 114,
+    "author": "MiguelHzBz",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32066938"
   },
   {
     "title": "The Preprocessor Iceberg Meme",
     "url": "https://jadlevesque.github.io/PPMP-Iceberg/",
-    "upvotes": 237,
+    "upvotes": 242,
     "author": "camel-cdr",
-    "comments": 122,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=32094693"
+  },
+  {
+    "title": "Hot Reloading in Swift",
+    "url": "https://www.merowing.info/hot-reloading-in-swift/",
+    "upvotes": 63,
+    "author": "mgrayson",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=32101009"
+  },
+  {
+    "title": "Solar Car Will Soon Hit Production–and It Only Costs $25,900",
+    "url": "https://singularityhub.com/2022/07/14/this-solar-car-will-soon-hit-production-and-it-only-costs-25900/",
+    "upvotes": 15,
+    "author": "cheinyeanlim",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=32102874"
   },
   {
     "title": "I disagree with Turing and Kahneman regarding statistical evidence",
     "url": "https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/",
-    "upvotes": 88,
+    "upvotes": 89,
     "author": "acqbu",
-    "comments": 50,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=32100114"
   },
   {
     "title": "Celsius acknowledges $1.2B hole in balance sheet",
     "url": "https://www.coindesk.com/business/2022/07/14/celsius-acknowledges-12b-hole-in-balance-sheet/",
-    "upvotes": 167,
+    "upvotes": 176,
     "author": "T-A",
-    "comments": 181,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=32101794"
-  },
-  {
-    "title": "ML code generation vs. coding by hand: what we think programming will look like",
-    "url": "https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future",
-    "upvotes": 118,
-    "author": "matijash",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=32098144"
-  },
-  {
-    "title": "The Backstory of Picasso's “Guernica”",
-    "url": "https://www.theatlantic.com/books/archive/2022/07/picasso-guernica-political-art-history-myth/670496/",
-    "upvotes": 57,
-    "author": "prismatic",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=32096301"
-  },
-  {
-    "title": "Torus-Earth",
-    "url": "http://www.aleph.se/andart/archives/2014/02/torusearth.html",
-    "upvotes": 45,
-    "author": "10000truths",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=32092046"
   },
   {
     "title": "Vincent Van Gogh: Hidden self-portrait discovered by X-ray",
     "url": "https://www.bbc.co.uk/news/uk-scotland-62135891",
-    "upvotes": 140,
+    "upvotes": 143,
     "author": "samizdis",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=32092775"
   },
   {
+    "title": "ML code generation vs. coding by hand: what we think programming will look like",
+    "url": "https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future",
+    "upvotes": 120,
+    "author": "matijash",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=32098144"
+  },
+  {
+    "title": "Torus-Earth",
+    "url": "http://www.aleph.se/andart/archives/2014/02/torusearth.html",
+    "upvotes": 47,
+    "author": "10000truths",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=32092046"
+  },
+  {
     "title": "PostgreSQL views and materialized views and how they influenced TimescaleDB",
     "url": "https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/",
-    "upvotes": 153,
+    "upvotes": 158,
     "author": "od0",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=32097663"
+  },
+  {
+    "title": "The Backstory of Picasso's “Guernica”",
+    "url": "https://www.theatlantic.com/books/archive/2022/07/picasso-guernica-political-art-history-myth/670496/",
+    "upvotes": 58,
+    "author": "prismatic",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=32096301"
+  },
+  {
+    "title": "We discovered a 7-year old performance issue in Elixir",
+    "url": "https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=60329427cb38",
+    "upvotes": 35,
+    "author": "s3cur3",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32102430"
   },
   {
     "title": "Is WebAssembly magic performance pixie dust?",
     "url": "https://surma.dev/things/js-to-asc/",
-    "upvotes": 101,
+    "upvotes": 103,
     "author": "simonebrunozzi",
-    "comments": 64,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=32098016"
-  },
-  {
-    "title": "Show HN: Permify – Open-source authorization service based on Google Zanzibar",
-    "url": "https://github.com/Permify/permify",
-    "upvotes": 104,
-    "author": "freddgn",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=32096610"
-  },
-  {
-    "title": "Solar Car Will Soon Hit Production–and It Only Costs $25,900",
-    "url": "https://singularityhub.com/2022/07/14/this-solar-car-will-soon-hit-production-and-it-only-costs-25900/",
-    "upvotes": 8,
-    "author": "cheinyeanlim",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32102874"
   }
 ]
