@@ -1,24 +1,32 @@
 [
   {
+    "title": "An ex-Googler's guide to dev tools",
+    "url": "https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools",
+    "upvotes": 25,
+    "author": "pcr910303",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=32134038"
+  },
+  {
     "title": "Rowan Atkinson: Visual Comedy",
     "url": "https://www.youtube.com/watch?v=LeuiFa9pI7c",
-    "upvotes": 158,
+    "upvotes": 179,
     "author": "swarmy",
-    "comments": 97,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=32131396"
   },
   {
     "title": "The case for bad coffee",
     "url": "https://www.seriouseats.com/the-case-for-bad-coffee",
-    "upvotes": 189,
+    "upvotes": 204,
     "author": "srathi",
-    "comments": 311,
+    "comments": 354,
     "link": "https://news.ycombinator.com/item?id=32130906"
   },
   {
     "title": "Lensm: Go Assembly and Source Viewer",
     "url": "https://github.com/loov/lensm",
-    "upvotes": 21,
+    "upvotes": 34,
     "author": "kristianp",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32133394"
@@ -26,213 +34,205 @@
   {
     "title": "Picking up free lithium cells off the street and making them safe for use",
     "url": "https://www.atomic14.com/2022/07/16/free-lithium-cells.html",
-    "upvotes": 231,
+    "upvotes": 240,
     "author": "iamflimflam1",
-    "comments": 149,
+    "comments": 154,
     "link": "https://news.ycombinator.com/item?id=32129478"
   },
   {
     "title": "Prose.sh – A blog platform for hackers",
     "url": "https://prose.sh/",
-    "upvotes": 305,
+    "upvotes": 319,
     "author": "jstanley",
-    "comments": 91,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=32128013"
-  },
-  {
-    "title": "Building a Secure Software Supply Chain with GNU Guix",
-    "url": "https://programming-journal.org/2023/7/1/",
-    "upvotes": 14,
-    "author": "dragonsh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32133261"
   },
   {
     "title": "Neural Network Loss Landscapes: What do we know?",
     "url": "https://damueller.com/#/blog-post/NNLLs",
-    "upvotes": 62,
+    "upvotes": 72,
     "author": "bitforger",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=32131153"
   },
   {
     "title": "I made advanced BI queries with Scratch puzzle pieces",
     "url": "https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces",
-    "upvotes": 84,
+    "upvotes": 89,
     "author": "misterdata",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32130444"
+  },
+  {
+    "title": "Show HN: Typograms, Markdown-like renderer for ASCII diagrams",
+    "url": "https://code.sgo.to/typograms/",
+    "upvotes": 12,
+    "author": "sgoto",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32133345"
   },
   {
     "title": "Bear Blog – A privacy-first, fast blogging platform",
     "url": "https://bearblog.dev",
-    "upvotes": 240,
+    "upvotes": 247,
     "author": "janandonly",
-    "comments": 102,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=32127363"
-  },
-  {
-    "title": "Is JPEG 2000 a preservation risk?",
-    "url": "https://blogs.loc.gov/thesignal/2013/01/is-jpeg-2000-a-preservation-risk/",
-    "upvotes": 33,
-    "author": "userbinator",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=32116145"
   },
   {
     "title": "JavaScript Obfuscation Techniques by Example",
     "url": "https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/",
-    "upvotes": 61,
+    "upvotes": 64,
     "author": "EntICOnc",
-    "comments": 39,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=32130313"
   },
   {
     "title": "Sitting and standing at work",
     "url": "http://ergo.human.cornell.edu/CUESitStand.html",
-    "upvotes": 100,
+    "upvotes": 106,
     "author": "yamrzou",
-    "comments": 96,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=32130626"
+  },
+  {
+    "title": "Is JPEG 2000 a preservation risk?",
+    "url": "https://blogs.loc.gov/thesignal/2013/01/is-jpeg-2000-a-preservation-risk/",
+    "upvotes": 35,
+    "author": "userbinator",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=32116145"
+  },
+  {
+    "title": "Building a Secure Software Supply Chain with GNU Guix",
+    "url": "https://programming-journal.org/2023/7/1/",
+    "upvotes": 17,
+    "author": "dragonsh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32133261"
   },
   {
     "title": "The slow march of progress in programming language tooling",
     "url": "https://earthly.dev/blog/programming-language-improvements/",
-    "upvotes": 98,
+    "upvotes": 103,
     "author": "kiyanwang",
-    "comments": 67,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=32128271"
-  },
-  {
-    "title": "‘Things are going to break’: Texas power plants are running nonstop",
-    "url": "https://www.bloomberg.com/news/articles/2022-07-15/texas-power-plants-are-skipping-maintenance-to-run-nonstop",
-    "upvotes": 62,
-    "author": "geox",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=32133269"
-  },
-  {
-    "title": "The Art of the Family Photo",
-    "url": "https://www.newyorker.com/culture/annals-of-inquiry/family-photos",
-    "upvotes": 14,
-    "author": "fortran77",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32106367"
-  },
-  {
-    "title": "Over-engineering an RGB LED strip: let’s make a custom programming language",
-    "url": "https://pixelspark.nl/2021/over-engineering-an-rgb-led-strip-controller-lets-write-a-custom-programming-language-and-instruction-set",
-    "upvotes": 82,
-    "author": "misterdata",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=32128931"
   },
   {
     "title": "I've started using Firefox and can never go back to Chrome",
     "url": "https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome",
-    "upvotes": 977,
+    "upvotes": 993,
     "author": "p4bl0",
-    "comments": 543,
+    "comments": 552,
     "link": "https://news.ycombinator.com/item?id=32126637"
   },
   {
-    "title": "Making holes without an electric drill",
-    "url": "https://theplywood.com/holes-without-electric-drill/",
-    "upvotes": 40,
-    "author": "walterbell",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=32124451"
+    "title": "Over-engineering an RGB LED strip: let’s make a custom programming language",
+    "url": "https://pixelspark.nl/2021/over-engineering-an-rgb-led-strip-controller-lets-write-a-custom-programming-language-and-instruction-set",
+    "upvotes": 84,
+    "author": "misterdata",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=32128931"
   },
   {
-    "title": "George Orwell’s 1940 Review of Mein Kampf",
-    "url": "https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/",
-    "upvotes": 393,
-    "author": "Edmond",
-    "comments": 438,
-    "link": "https://news.ycombinator.com/item?id=32127622"
-  },
-  {
-    "title": "Arcan Display Server 0.6.2 – It’s all connected",
-    "url": "https://arcan-fe.com/2022/07/15/arcan-0-6-2-its-all-connected/",
-    "upvotes": 85,
-    "author": "pantalaimon",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32116735"
+    "title": "Writing the Perfect Question",
+    "url": "https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/",
+    "upvotes": 3,
+    "author": "nsoonhui",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32115878"
   },
   {
     "title": "Trilium Notes: note taking application for large personal knowledge bases",
     "url": "https://github.com/zadam/trilium",
-    "upvotes": 41,
+    "upvotes": 46,
     "author": "thunderbong",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32130401"
   },
   {
-    "title": "$9.99/month",
-    "url": "https://basicappleguy.com/basicappleblog/999month",
-    "upvotes": 315,
-    "author": "sashk",
-    "comments": 392,
-    "link": "https://news.ycombinator.com/item?id=32129574"
+    "title": "The Art of the Family Photo",
+    "url": "https://www.newyorker.com/culture/annals-of-inquiry/family-photos",
+    "upvotes": 16,
+    "author": "fortran77",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32106367"
+  },
+  {
+    "title": "Making holes without an electric drill",
+    "url": "https://theplywood.com/holes-without-electric-drill/",
+    "upvotes": 43,
+    "author": "walterbell",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=32124451"
+  },
+  {
+    "title": "George Orwell’s 1940 Review of Mein Kampf",
+    "url": "https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/",
+    "upvotes": 402,
+    "author": "Edmond",
+    "comments": 450,
+    "link": "https://news.ycombinator.com/item?id=32127622"
+  },
+  {
+    "title": "Arcan Display Server 0.6.2 – It’s all connected",
+    "url": "https://arcan-fe.com/2022/07/15/arcan-0-6-2-its-all-connected/",
+    "upvotes": 88,
+    "author": "pantalaimon",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32116735"
   },
   {
     "title": "Where is there more livestock than people?",
     "url": "https://erdavis.com/2022/06/21/where-is-there-more-livestock-than-people/",
-    "upvotes": 50,
+    "upvotes": 51,
     "author": "nojito",
-    "comments": 74,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=32126642"
+  },
+  {
+    "title": "Facebook has started to encrypt links to counter privacy-improving URL Stripping",
+    "url": "https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/",
+    "upvotes": 282,
+    "author": "ColinWright",
+    "comments": 162,
+    "link": "https://news.ycombinator.com/item?id=32129100"
+  },
+  {
+    "title": "$9.99/month",
+    "url": "https://basicappleguy.com/basicappleblog/999month",
+    "upvotes": 322,
+    "author": "sashk",
+    "comments": 403,
+    "link": "https://news.ycombinator.com/item?id=32129574"
   },
   {
     "title": "Patterns",
     "url": "https://www.patterns.app/"
   },
   {
-    "title": "Facebook has started to encrypt links to counter privacy-improving URL Stripping",
-    "url": "https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/",
-    "upvotes": 269,
-    "author": "ColinWright",
-    "comments": 159,
-    "link": "https://news.ycombinator.com/item?id=32129100"
+    "title": "Show HN: Netflix Calculator",
+    "url": "https://www.netflixcalculator.com/",
+    "upvotes": 48,
+    "author": "attero",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=32128030"
   },
   {
     "title": "Can you hear the shape of a graph?",
     "url": "https://mathweb.ucsd.edu/~fan/hear/index.html",
     "upvotes": 31,
     "author": "pizza",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=32115918"
-  },
-  {
-    "title": "Show HN: Netflix Calculator",
-    "url": "https://www.netflixcalculator.com/",
-    "upvotes": 47,
-    "author": "attero",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=32128030"
-  },
-  {
-    "title": "Building a radio-controlled submarine with automatic depth control",
-    "url": "https://brickexperimentchannel.wordpress.com/rc-submarine-4-0-blog-post-series/",
-    "upvotes": 132,
-    "author": "mik3y",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=32125933"
   },
   {
     "title": "Integer math in JavaScript",
     "url": "https://james.darpinian.com/blog/integer-math-in-javascript",
-    "upvotes": 80,
+    "upvotes": 83,
     "author": "simonebrunozzi",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=32106442"
-  },
-  {
-    "title": "We demand data – The story of Lucid and eduction",
-    "url": "https://billwadge.com/2022/07/17/we-demand-data-the-story-of-lucid-and-eduction/",
-    "upvotes": 20,
-    "author": "herodotus",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32127135"
   }
 ]
