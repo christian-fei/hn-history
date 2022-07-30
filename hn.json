@@ -2,73 +2,81 @@
   {
     "title": "US regulators will certify first small nuclear reactor design",
     "url": "https://arstechnica.com/science/2022/07/us-regulators-will-certify-first-small-nuclear-reactor-design/",
-    "upvotes": 431,
+    "upvotes": 456,
     "author": "papa-whisky",
-    "comments": 235,
+    "comments": 253,
     "link": "https://news.ycombinator.com/item?id=32282632"
   },
   {
     "title": "MIT engineers develop stickers that can see inside the body",
     "url": "https://news.mit.edu/2022/ultrasound-stickers-0728",
-    "upvotes": 22,
+    "upvotes": 35,
     "author": "rntn",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=32290869"
   },
   {
     "title": "ImHex – A Hex Editor",
     "url": "https://github.com/WerWolv/ImHex",
-    "upvotes": 252,
+    "upvotes": 262,
     "author": "liberia",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=32287902"
   },
   {
     "title": "Carbon’s most exciting feature is its calling convention",
     "url": "https://www.foonathan.net/2022/07/carbon-calling-convention/",
-    "upvotes": 103,
+    "upvotes": 109,
     "author": "obl",
-    "comments": 64,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=32289225"
+  },
+  {
+    "title": "Repurposing the cadaver of a spider to create a pneumatically actuated gripper",
+    "url": "https://spectrum.ieee.org/robot-bugs",
+    "upvotes": 47,
+    "author": "latchkey",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32278574"
+  },
+  {
+    "title": "Clojure needs a Rails",
+    "url": "https://blog.janetacarr.com/clojure-needs-a-rails/",
+    "upvotes": 155,
+    "author": "janetacarr",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=32288291"
+  },
+  {
+    "title": "I Looked into 34 Top Real-World Blockchain Projects So You Don’t Have To",
+    "url": "https://weh.wtf/34-blockchain-projects.html",
+    "upvotes": 11,
+    "author": "ghuntley",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32291213"
+  },
+  {
+    "title": "The Node ecosystem",
+    "url": "https://maxleiter.com/blog/node-has-tooling-problems",
+    "upvotes": 37,
+    "author": "MaxLeiter",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=32289898"
   },
   {
     "title": "Building a Recursive DNS Resolver",
     "url": "https://timothya.com/blog/dns/",
-    "upvotes": 33,
+    "upvotes": 34,
     "author": "tta",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32279070"
   },
   {
-    "title": "Repurposing the cadaver of a spider to create a pneumatically actuated gripper",
-    "url": "https://spectrum.ieee.org/robot-bugs",
-    "upvotes": 39,
-    "author": "latchkey",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=32278574"
-  },
-  {
-    "title": "The Node ecosystem",
-    "url": "https://maxleiter.com/blog/node-has-tooling-problems",
-    "upvotes": 32,
-    "author": "MaxLeiter",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=32289898"
-  },
-  {
-    "title": "Clojure needs a Rails",
-    "url": "https://blog.janetacarr.com/clojure-needs-a-rails/",
-    "upvotes": 146,
-    "author": "janetacarr",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=32288291"
-  },
-  {
     "title": "Winning a London Garden Allotment",
     "url": "https://www.newyorker.com/culture/onward-and-upward-in-the-garden/winning-a-london-garden-allotment",
-    "upvotes": 48,
+    "upvotes": 54,
     "author": "fortran77",
-    "comments": 18,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=32282511"
   },
   {
@@ -76,17 +84,17 @@
     "url": "https://skio.com/careers/"
   },
   {
-    "title": "Tor is fighting and beating Russian censorship",
-    "url": "https://www.wired.com/story/tor-browser-russia-blocks/",
-    "upvotes": 163,
-    "author": "LinuxBender",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=32288058"
+    "title": "Understanding GC in JSC from Scratch",
+    "url": "https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/",
+    "upvotes": 10,
+    "author": "feross",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32279867"
   },
   {
     "title": "Show HN: Distributed SQLite on FoundationDB",
     "url": "https://github.com/losfair/mvsqlite",
-    "upvotes": 72,
+    "upvotes": 78,
     "author": "losfair",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=32269287"
@@ -94,145 +102,137 @@
   {
     "title": "A SQLite extension for reading large files line-by-line",
     "url": "https://github.com/asg017/sqlite-lines",
-    "upvotes": 104,
+    "upvotes": 110,
     "author": "polyrand",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=32288165"
   },
   {
     "title": "Serverless DNS: Self-hosted DNS resolver at the edge",
     "url": "https://github.com/serverless-dns/serverless-dns",
-    "upvotes": 205,
+    "upvotes": 207,
     "author": "saltymimir",
-    "comments": 67,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=32286408"
+  },
+  {
+    "title": "Tor is fighting and beating Russian censorship",
+    "url": "https://www.wired.com/story/tor-browser-russia-blocks/",
+    "upvotes": 170,
+    "author": "LinuxBender",
+    "comments": 163,
+    "link": "https://news.ycombinator.com/item?id=32288058"
   },
   {
     "title": "Arris / Arris-variant DSL/Fiber router critical vulnerability exposure",
     "url": "https://derekabdine.com/blog/2022-arris-advisory.html",
-    "upvotes": 67,
+    "upvotes": 69,
     "author": "rmdoss",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=32288020"
+  },
+  {
+    "title": "Samsung’s “repair mode” lets technicians look at your phone, not your data",
+    "url": "https://arstechnica.com/gadgets/2022/07/samsungs-repair-mode-lets-technicians-look-at-your-phone-not-your-data/",
+    "upvotes": 137,
+    "author": "WaitWaitWha",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=32289695"
+  },
+  {
+    "title": "Using Nix on macOS",
+    "url": "https://checkoway.net/musings/nix/",
+    "upvotes": 9,
+    "author": "gbrindisi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32290725"
+  },
+  {
+    "title": "Challenges of building a peer-to-peer replacement for the web",
+    "url": "https://educatedguesswork.org/posts/challenges-web-decentralization/",
+    "upvotes": 9,
+    "author": "cropcirclbureau",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32290716"
+  },
+  {
+    "title": "A Master Perfumer's Reflections on Patchouli and Vetiver",
+    "url": "https://thereader.mitpress.mit.edu/a-master-perfumers-reflections-on-patchouli-and-vetiver/",
+    "upvotes": 75,
+    "author": "axiomdata316",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32287736"
   },
   {
     "title": "WordTeX – A WYSIPCTWOTCG Typesetting Tool",
     "url": "https://www.youtube.com/watch?v=jlX_pThh7z8",
     "upvotes": 11,
     "author": "gaws",
-    "comments": 9,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=32279794"
   },
   {
-    "title": "Samsung’s “repair mode” lets technicians look at your phone, not your data",
-    "url": "https://arstechnica.com/gadgets/2022/07/samsungs-repair-mode-lets-technicians-look-at-your-phone-not-your-data/",
-    "upvotes": 132,
-    "author": "WaitWaitWha",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=32289695"
+    "title": "Mr. Rogers sued the KKK",
+    "url": "https://allthatsinteresting.com/mr-rogers-sues-the-kkk",
+    "upvotes": 172,
+    "author": "bryanrasmussen",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=32288309"
+  },
+  {
+    "title": "Recommended settings for Wi-Fi routers and access points",
+    "url": "https://support.apple.com/en-us/HT202068",
+    "upvotes": 246,
+    "author": "butz",
+    "comments": 150,
+    "link": "https://news.ycombinator.com/item?id=32285638"
+  },
+  {
+    "title": "Archive of Visualized Concepts",
+    "url": "https://archivve.visualizevalue.com/",
+    "upvotes": 76,
+    "author": "thcipriani",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=32287596"
   },
   {
     "title": "Who is collecting data from your car?",
     "url": "https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car",
     "upvotes": 125,
     "author": "atg_abhishek",
-    "comments": 157,
+    "comments": 163,
     "link": "https://news.ycombinator.com/item?id=32286871"
   },
   {
-    "title": "Archive of Visualized Concepts",
-    "url": "https://archivve.visualizevalue.com/",
-    "upvotes": 74,
-    "author": "thcipriani",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=32287596"
-  },
-  {
-    "title": "Mr. Rogers sued the KKK",
-    "url": "https://allthatsinteresting.com/mr-rogers-sues-the-kkk",
-    "upvotes": 162,
-    "author": "bryanrasmussen",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=32288309"
-  },
-  {
-    "title": "Recommended settings for Wi-Fi routers and access points",
-    "url": "https://support.apple.com/en-us/HT202068",
-    "upvotes": 243,
-    "author": "butz",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=32285638"
-  },
-  {
-    "title": "A Master Perfumer's Reflections on Patchouli and Vetiver",
-    "url": "https://thereader.mitpress.mit.edu/a-master-perfumers-reflections-on-patchouli-and-vetiver/",
-    "upvotes": 69,
-    "author": "axiomdata316",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=32287736"
+    "title": "Pagefind: Static Low-Bandwidth Search at Scale",
+    "url": "https://cloudcannon.com/blog/introducing-pagefind/",
+    "upvotes": 5,
+    "author": "chmaynard",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32290634"
   },
   {
     "title": "An accentuated Emacs experiment",
     "url": "https://xenodium.com/an-accentuated-emacs-experiment/",
-    "upvotes": 109,
+    "upvotes": 113,
     "author": "xenodium",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=32286531"
-  },
-  {
-    "title": "Parallelising Huffman decoding and x86 disassembly by synchronising prefix codes",
-    "url": "https://dougallj.wordpress.com/2022/07/30/parallelising-huffman-decoding-and-x86-disassembly-by-synchronising-non-self-synchronising-prefix-codes/",
-    "upvotes": 51,
-    "author": "hasheddan",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=32288195"
-  },
-  {
-    "title": "Why Punish?",
-    "url": "https://thereader.mitpress.mit.edu/why-punish/",
-    "upvotes": 47,
-    "author": "pseudolus",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=32288247"
   },
   {
     "title": "How can we make robotics more like generative modeling?",
     "url": "https://evjang.com/2022/07/23/robotics-generative.html",
-    "upvotes": 39,
+    "upvotes": 42,
     "author": "ericjang",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32287931"
   },
   {
-    "title": "Challenges of building a peer-to-peer replacement for the web",
-    "url": "https://educatedguesswork.org/posts/challenges-web-decentralization/",
-    "upvotes": 4,
-    "author": "cropcirclbureau",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32290716"
-  },
-  {
-    "title": "Finding the biological roots for pathological social withdrawal, Hikikomori",
-    "url": "https://www.kyushu-u.ac.jp/en/researches/view/230/",
-    "upvotes": 101,
-    "author": "geox",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=32286011"
-  },
-  {
-    "title": "Do hair transplants debunk the scalp tension-hair loss hypothesis?",
-    "url": "https://perfecthairhealth.com/hair-transplants-debunk-scalp-tension-hair-loss/",
-    "upvotes": 43,
-    "author": "yamrzou",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=32279320"
-  },
-  {
-    "title": "The Logical Writings of Karl Popper",
-    "url": "https://link.springer.com/book/10.1007/978-3-030-94926-6",
-    "upvotes": 34,
-    "author": "Schiphol",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=32282522"
+    "title": "Why Punish?",
+    "url": "https://thereader.mitpress.mit.edu/why-punish/",
+    "upvotes": 49,
+    "author": "pseudolus",
+    "comments": 137,
+    "link": "https://news.ycombinator.com/item?id=32288247"
   }
 ]
