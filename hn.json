@@ -1,64 +1,72 @@
 [
   {
+    "title": "Famous HNers and Their Sites",
+    "url": "https://jessimekirk.com/blog/hn_users_links/",
+    "upvotes": 62,
+    "author": "LifeIsBio",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=32291993"
+  },
+  {
     "title": "US regulators will certify first small nuclear reactor design",
     "url": "https://arstechnica.com/science/2022/07/us-regulators-will-certify-first-small-nuclear-reactor-design/",
-    "upvotes": 592,
+    "upvotes": 607,
     "author": "papa-whisky",
-    "comments": 367,
+    "comments": 386,
     "link": "https://news.ycombinator.com/item?id=32282632"
   },
   {
     "title": "MIT engineers develop stickers that can see inside the body",
     "url": "https://news.mit.edu/2022/ultrasound-stickers-0728",
-    "upvotes": 109,
+    "upvotes": 121,
     "author": "rntn",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32290869"
   },
   {
     "title": "Million: less than 1kb virtual DOM that is fast",
     "url": "https://millionjs.org/",
-    "upvotes": 42,
+    "upvotes": 55,
     "author": "bpierre",
-    "comments": 11,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=32291822"
-  },
-  {
-    "title": "Famous HNers and Their Sites",
-    "url": "https://jessimekirk.com/blog/hn_users_links/",
-    "upvotes": 22,
-    "author": "LifeIsBio",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32291993"
   },
   {
     "title": "ImHex – A Hex Editor",
     "url": "https://github.com/WerWolv/ImHex",
-    "upvotes": 305,
+    "upvotes": 311,
     "author": "liberia",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=32287902"
   },
   {
+    "title": "Is Selling Shares in Yourself the Way of the Future?",
+    "url": "https://www.newyorker.com/magazine/2022/08/01/is-selling-shares-in-yourself-the-way-of-the-future",
+    "upvotes": 14,
+    "author": "SirLJ",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=32292446"
+  },
+  {
     "title": "Carbon’s most exciting feature is its calling convention",
     "url": "https://www.foonathan.net/2022/07/carbon-calling-convention/",
-    "upvotes": 149,
+    "upvotes": 152,
     "author": "obl",
-    "comments": 105,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=32289225"
   },
   {
     "title": "Using Nix on macOS",
     "url": "https://checkoway.net/musings/nix/",
-    "upvotes": 57,
+    "upvotes": 64,
     "author": "gbrindisi",
-    "comments": 42,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=32290725"
   },
   {
     "title": "Repurposing the cadaver of a spider to create a pneumatically actuated gripper",
     "url": "https://spectrum.ieee.org/robot-bugs",
-    "upvotes": 90,
+    "upvotes": 96,
     "author": "latchkey",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=32278574"
@@ -66,23 +74,23 @@
   {
     "title": "Fibre-optic cables could be used to spy on people a kilometre away",
     "url": "https://arxiv.org/abs/2207.05267",
-    "upvotes": 38,
+    "upvotes": 42,
     "author": "sizzle",
-    "comments": 12,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32279344"
   },
   {
-    "title": "Is Selling Shares in Yourself the Way of the Future?",
-    "url": "https://www.newyorker.com/magazine/2022/08/01/is-selling-shares-in-yourself-the-way-of-the-future",
-    "upvotes": 5,
-    "author": "SirLJ",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32292446"
+    "title": "Critical SIP Bypass Vulnerabilities in macOS PackageKit.framework",
+    "url": "https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/",
+    "upvotes": 7,
+    "author": "pcr910303",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32278345"
   },
   {
     "title": "Understanding GC in JSC from Scratch",
     "url": "https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/",
-    "upvotes": 41,
+    "upvotes": 46,
     "author": "feross",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32279867"
@@ -90,49 +98,49 @@
   {
     "title": "Small pleasures of programming",
     "url": "https://terrycrowley.medium.com/small-pleasures-of-programming-ae4f50dde67a",
-    "upvotes": 26,
+    "upvotes": 30,
     "author": "jasim",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=32288242"
+  },
+  {
+    "title": "Show HN: Distributed SQLite on FoundationDB",
+    "url": "https://github.com/losfair/mvsqlite",
+    "upvotes": 100,
+    "author": "losfair",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=32269287"
   },
   {
     "title": "Tor is fighting and beating Russian censorship",
     "url": "https://www.wired.com/story/tor-browser-russia-blocks/",
-    "upvotes": 225,
+    "upvotes": 232,
     "author": "LinuxBender",
-    "comments": 208,
+    "comments": 224,
     "link": "https://news.ycombinator.com/item?id=32288058"
   },
   {
     "title": "Building a Recursive DNS Resolver",
     "url": "https://timothya.com/blog/dns/",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "tta",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32279070"
   },
   {
-    "title": "Show HN: Distributed SQLite on FoundationDB",
-    "url": "https://github.com/losfair/mvsqlite",
-    "upvotes": 95,
-    "author": "losfair",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=32269287"
-  },
-  {
     "title": "Serverless DNS: Self-hosted DNS resolver at the edge",
     "url": "https://github.com/serverless-dns/serverless-dns",
-    "upvotes": 228,
+    "upvotes": 229,
     "author": "saltymimir",
-    "comments": 72,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=32286408"
   },
   {
     "title": "Clojure needs a Rails",
     "url": "https://blog.janetacarr.com/clojure-needs-a-rails/",
-    "upvotes": 176,
+    "upvotes": 180,
     "author": "janetacarr",
-    "comments": 153,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=32288291"
   },
   {
@@ -140,99 +148,91 @@
     "url": "https://skio.com/careers/"
   },
   {
-    "title": "Challenges in building a decentralized web",
-    "url": "https://educatedguesswork.org/posts/challenges-web-decentralization/",
-    "upvotes": 30,
-    "author": "cropcirclbureau",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=32290716"
-  },
-  {
-    "title": "Faked Crystallography",
-    "url": "https://www.science.org/content/blog-post/faked-crystallography",
-    "upvotes": 35,
-    "author": "beefman",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=32290497"
+    "title": "The Engineering Profession’s Role In Accelerating Technological Innovation",
+    "url": "https://www.hoover.org/research/engineering-professions-role-accelerating-technological-innovation",
+    "upvotes": 8,
+    "author": "Dowwie",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32278299"
   },
   {
     "title": "A SQLite extension for reading large files line-by-line",
     "url": "https://github.com/asg017/sqlite-lines",
-    "upvotes": 123,
+    "upvotes": 128,
     "author": "polyrand",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=32288165"
+  },
+  {
+    "title": "Challenges in building a decentralized web",
+    "url": "https://educatedguesswork.org/posts/challenges-web-decentralization/",
+    "upvotes": 33,
+    "author": "cropcirclbureau",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32290716"
+  },
+  {
+    "title": "Arris / Arris-variant DSL/Fiber router critical vulnerability exposure",
+    "url": "https://derekabdine.com/blog/2022-arris-advisory.html",
+    "upvotes": 82,
+    "author": "rmdoss",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=32288020"
   },
   {
     "title": "The Node ecosystem still has tooling problems",
     "url": "https://maxleiter.com/blog/node-has-tooling-problems",
     "upvotes": 50,
     "author": "MaxLeiter",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=32289898"
+  },
+  {
+    "title": "Faked Crystallography",
+    "url": "https://www.science.org/content/blog-post/faked-crystallography",
+    "upvotes": 36,
+    "author": "beefman",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=32290497"
   },
   {
     "title": "Winning a London Garden Allotment",
     "url": "https://www.newyorker.com/culture/onward-and-upward-in-the-garden/winning-a-london-garden-allotment",
-    "upvotes": 64,
+    "upvotes": 65,
     "author": "fortran77",
-    "comments": 57,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=32282511"
   },
   {
-    "title": "Arris / Arris-variant DSL/Fiber router critical vulnerability exposure",
-    "url": "https://derekabdine.com/blog/2022-arris-advisory.html",
-    "upvotes": 79,
-    "author": "rmdoss",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=32288020"
-  },
-  {
-    "title": "The Engineering Profession’s Role In Accelerating Technological Innovation",
-    "url": "https://www.hoover.org/research/engineering-professions-role-accelerating-technological-innovation",
-    "upvotes": 5,
-    "author": "Dowwie",
+    "title": "Professor Maynard Burned Down",
+    "url": "https://nymag.com/intelligencer/article/gary-maynard-professor-arson-trial.html",
+    "upvotes": 7,
+    "author": "drdee",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32278299"
+    "link": "https://news.ycombinator.com/item?id=32292012"
   },
   {
     "title": "Who is collecting data from your car?",
     "url": "https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car",
-    "upvotes": 141,
+    "upvotes": 145,
     "author": "atg_abhishek",
-    "comments": 185,
+    "comments": 186,
     "link": "https://news.ycombinator.com/item?id=32286871"
-  },
-  {
-    "title": "Mr. Rogers sued the KKK",
-    "url": "https://allthatsinteresting.com/mr-rogers-sues-the-kkk",
-    "upvotes": 217,
-    "author": "bryanrasmussen",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=32288309"
-  },
-  {
-    "title": "A Master Perfumer's Reflections on Patchouli and Vetiver",
-    "url": "https://thereader.mitpress.mit.edu/a-master-perfumers-reflections-on-patchouli-and-vetiver/",
-    "upvotes": 85,
-    "author": "axiomdata316",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=32287736"
   },
   {
     "title": "Archive of Visualized Concepts",
     "url": "https://archivve.visualizevalue.com/",
-    "upvotes": 87,
+    "upvotes": 90,
     "author": "thcipriani",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32287596"
   },
   {
-    "title": "An accentuated Emacs experiment",
-    "url": "https://xenodium.com/an-accentuated-emacs-experiment/",
-    "upvotes": 121,
-    "author": "xenodium",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=32286531"
+    "title": "A Master Perfumer's Reflections on Patchouli and Vetiver",
+    "url": "https://thereader.mitpress.mit.edu/a-master-perfumers-reflections-on-patchouli-and-vetiver/",
+    "upvotes": 86,
+    "author": "axiomdata316",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=32287736"
   }
 ]
