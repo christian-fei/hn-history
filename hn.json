@@ -1,72 +1,96 @@
 [
   {
+    "title": "Why I built a dictionary app even with more than +300 apps available at AppStore",
+    "url": "https://www.wordnote.app/blog/why-i-built-dictionary-app",
+    "upvotes": 70,
+    "author": "zehfernandes",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32300466"
+  },
+  {
+    "title": "Why the term “open source” is important",
+    "url": "https://danb.me/blog/posts/why-open-source-term-is-important/",
+    "upvotes": 36,
+    "author": "longrod",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=32300580"
+  },
+  {
     "title": "EasyRPG",
     "url": "https://easyrpg.org/",
-    "upvotes": 278,
+    "upvotes": 296,
     "author": "tosh",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=32297760"
   },
   {
     "title": "RISC-V based single board computers are getting there",
     "url": "https://bret.dk/raspberry-pi-zero-vs-mangopi-mq-pro-benchmarks/",
-    "upvotes": 162,
+    "upvotes": 174,
     "author": "bmlw",
-    "comments": 65,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=32298137"
-  },
-  {
-    "title": "Why the term “open source” is important",
-    "url": "https://danb.me/blog/posts/why-open-source-term-is-important/",
-    "upvotes": 8,
-    "author": "longrod",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=32300580"
   },
   {
     "title": "A looming copper crunch and why recycling can’t fix it",
     "url": "https://www.mining.com/the-looming-copper-crunch-and-why-recycling-cant-fix-it/",
-    "upvotes": 112,
+    "upvotes": 135,
     "author": "simonebrunozzi",
-    "comments": 188,
+    "comments": 225,
     "link": "https://news.ycombinator.com/item?id=32298096"
   },
   {
-    "title": "If only Borland had stuck with Turbo Modula-2 for CP/M",
-    "url": "https://techtinkering.com/2013/03/12/if-only-borland-had-stuck-with-turbo-modula-2-for-cpm/",
-    "upvotes": 91,
-    "author": "nope96",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=32298067"
+    "title": "Public Domain Posix Make",
+    "url": "https://frippery.org/make/",
+    "upvotes": 21,
+    "author": "donmcc",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32300356"
+  },
+  {
+    "title": "A Mormon Housewife Turned a Fake Diary into an Enormous Best-Seller",
+    "url": "https://www.newyorker.com/magazine/2022/08/01/how-a-mormon-housewife-turned-a-fake-diary-into-an-enormous-best-seller",
+    "upvotes": 13,
+    "author": "aesthesia",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=32300864"
+  },
+  {
+    "title": "Differentiable Programming from Scratch",
+    "url": "https://thenumb.at/Autodiff/",
+    "upvotes": 24,
+    "author": "TheNumbat",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32300351"
   },
   {
     "title": "Kubernetes reinvented virtual machines in a good sense",
     "url": "https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/",
-    "upvotes": 105,
+    "upvotes": 120,
     "author": "paulgb",
-    "comments": 71,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=32298058"
   },
   {
-    "title": "Why I built a dictionary app even with more than +300 apps available at AppStore",
-    "url": "https://www.wordnote.app/blog/why-i-built-dictionary-app",
-    "upvotes": 12,
-    "author": "zehfernandes",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32300466"
+    "title": "If only Borland had stuck with Turbo Modula-2 for CP/M",
+    "url": "https://techtinkering.com/2013/03/12/if-only-borland-had-stuck-with-turbo-modula-2-for-cpm/",
+    "upvotes": 96,
+    "author": "nope96",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=32298067"
   },
   {
-    "title": "Nuclear energy is clean",
-    "url": "https://www.collectifission.nl/nl/2022/07/nuclear-energy-is-clean/",
-    "upvotes": 235,
-    "author": "mpweiher",
-    "comments": 175,
-    "link": "https://news.ycombinator.com/item?id=32298994"
+    "title": "Lyra: Fast, in-memory, typo-tolerant, full-text search engine in TypeScript",
+    "url": "https://github.com/nearform/lyra",
+    "upvotes": 16,
+    "author": "bpierre",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32283663"
   },
   {
     "title": "Tang Nano 9K – FPGA SBC with HDMI",
     "url": "https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html",
-    "upvotes": 22,
+    "upvotes": 35,
     "author": "peter_d_sherman",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32299544"
@@ -74,165 +98,141 @@
   {
     "title": "New Ghostscript PDF interpreter",
     "url": "https://www.ghostscript.com/blog/pdfi.html",
-    "upvotes": 180,
+    "upvotes": 186,
     "author": "diskmuncher",
-    "comments": 71,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=32296299"
   },
   {
-    "title": "Illegally placed concrete blocks have taken over public parking in Seattle",
-    "url": "https://www.seattletimes.com/seattle-news/homeless/illegally-placed-concrete-blocks-have-taken-over-public-parking-in-seattle-why-are-they-there/",
-    "upvotes": 55,
-    "author": "walterbell",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=32300224"
+    "title": "End of the Machinery Game Engine",
+    "url": "item?id=32300785",
+    "upvotes": 31,
+    "author": "eigenbom",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=32300785"
   },
   {
-    "title": "The many flavors of hashing",
-    "url": "https://notes.volution.ro/v1/2022/07/notes/1290a79c/",
-    "upvotes": 29,
-    "author": "ciprian_craciun",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32281459"
+    "title": "Nuclear energy is clean",
+    "url": "https://www.collectifission.nl/nl/2022/07/nuclear-energy-is-clean/",
+    "upvotes": 266,
+    "author": "mpweiher",
+    "comments": 226,
+    "link": "https://news.ycombinator.com/item?id=32298994"
   },
   {
-    "title": "The Coziest Spot on the Moon",
-    "url": "https://www.theatlantic.com/science/archive/2022/07/moon-lunar-pits-comfortable-temperature/670991/",
-    "upvotes": 7,
-    "author": "pseudolus",
+    "title": "Put down devices, let your mind wander, study suggests",
+    "url": "https://www.apa.org/news/press/releases/2022/07/thoughts-mind-wander",
+    "upvotes": 162,
+    "author": "chazeon",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=32296272"
+  },
+  {
+    "title": "Meshtastic: A Review",
+    "url": "https://tylercipriani.com/blog/2022/07/31/meshtastic-a-review/",
+    "upvotes": 4,
+    "author": "thcipriani",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32279345"
-  },
-  {
-    "title": "The disintegrating cube",
-    "url": "https://nevalalee.wordpress.com/2015/11/30/the-disintegrating-cube/",
-    "upvotes": 32,
-    "author": "drdee",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=32299219"
+    "link": "https://news.ycombinator.com/item?id=32301008"
   },
   {
     "title": "Patterns",
     "url": "https://www.patterns.app/"
   },
   {
-    "title": "Put down devices, let your mind wander, study suggests",
-    "url": "https://www.apa.org/news/press/releases/2022/07/thoughts-mind-wander",
-    "upvotes": 136,
-    "author": "chazeon",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=32296272"
+    "title": "The many flavors of hashing",
+    "url": "https://notes.volution.ro/v1/2022/07/notes/1290a79c/",
+    "upvotes": 35,
+    "author": "ciprian_craciun",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32281459"
   },
   {
-    "title": "Citroen 2cv pages",
-    "url": "http://www.citrobe.org/br70s.htm",
-    "upvotes": 81,
-    "author": "dayve",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=32297739"
-  },
-  {
-    "title": "Public Domain Posix Make",
-    "url": "https://frippery.org/make/",
-    "upvotes": 6,
-    "author": "donmcc",
+    "title": "Fresnel Integral",
+    "url": "https://en.wikipedia.org/wiki/Fresnel_integral",
+    "upvotes": 4,
+    "author": "peter_d_sherman",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32300356"
+    "link": "https://news.ycombinator.com/item?id=32283783"
   },
   {
     "title": "Australian activist can't use encrypted apps, must let police access phone",
     "url": "https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038",
-    "upvotes": 136,
+    "upvotes": 180,
     "author": "adrian_mrd",
-    "comments": 78,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=32299244"
+  },
+  {
+    "title": "Citroen 2cv pages",
+    "url": "http://www.citrobe.org/br70s.htm",
+    "upvotes": 84,
+    "author": "dayve",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=32297739"
+  },
+  {
+    "title": "Inside an IBM AS/400 eSeries Factory [video]",
+    "url": "https://www.youtube.com/watch?v=m53H0pO2FD4",
+    "upvotes": 54,
+    "author": "grunthos",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=32285588"
   },
   {
     "title": "Converting from the Game Gear to the Master System",
     "url": "https://nicole.express/2022/sega-8-bit-conversion-kit.html",
-    "upvotes": 88,
+    "upvotes": 93,
     "author": "stevekemp",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32296603"
   },
   {
-    "title": "TI-83 Plus One More",
-    "url": "https://www.leadedsolder.com/2021/08/10/ti83-lcd-ribbon-repair.html",
-    "upvotes": 137,
-    "author": "rez10191",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=32295309"
+    "title": "TSMC Completes Construction of 5nm Fab 21 in Arizona",
+    "url": "https://www.tomshardware.com/news/tsmc-fab-21-arizona",
+    "upvotes": 53,
+    "author": "walterbell",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=32300061"
   },
   {
-    "title": "Inside an IBM AS/400 eSeries Factory [video]",
-    "url": "https://www.youtube.com/watch?v=m53H0pO2FD4",
-    "upvotes": 45,
-    "author": "grunthos",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=32285588"
+    "title": "TI-83 Plus One More",
+    "url": "https://www.leadedsolder.com/2021/08/10/ti83-lcd-ribbon-repair.html",
+    "upvotes": 141,
+    "author": "rez10191",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=32295309"
   },
   {
     "title": "How a cable modem works",
     "url": "https://support.usr.com/support/6000/6000-ug/two.html",
-    "upvotes": 58,
+    "upvotes": 67,
     "author": "jqcoffey",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32287571"
   },
   {
-    "title": "TSMC Completes Construction of 5nm Fab 21 in Arizona",
-    "url": "https://www.tomshardware.com/news/tsmc-fab-21-arizona",
-    "upvotes": 28,
-    "author": "walterbell",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32300061"
+    "title": "The disintegrating cube",
+    "url": "https://nevalalee.wordpress.com/2015/11/30/the-disintegrating-cube/",
+    "upvotes": 38,
+    "author": "drdee",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=32299219"
+  },
+  {
+    "title": "Clinical features and novel presentations of human monkeypox",
+    "url": "https://www.bmj.com/content/378/bmj-2022-072410",
+    "upvotes": 3,
+    "author": "woliveirajr",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32300893"
   },
   {
     "title": "Hitachi Wood Plug Cutter Works Perfectly in Hand Held Drills",
     "url": "https://paulsellers.com/2013/06/hitachi-plug-cutter-works-perfeclty-in-hand-held-drills/",
-    "upvotes": 122,
+    "upvotes": 126,
     "author": "walterbell",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=32294928"
-  },
-  {
-    "title": "Leaked memo reveals Amazon’s plans to combat the Teamsters in California",
-    "url": "https://www.vox.com/recode/23282640/leaked-internal-memo-reveals-amazons-anti-union-strategies-teamsters",
-    "upvotes": 193,
-    "author": "hownottowrite",
-    "comments": 146,
-    "link": "https://news.ycombinator.com/item?id=32298183"
-  },
-  {
-    "title": "Modula-2 and Oberon",
-    "url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.105.9288&rep=rep1&type=pdf",
-    "upvotes": 43,
-    "author": "Jtsummers",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=32278773"
-  },
-  {
-    "title": "Character Encoding and UTF-8",
-    "url": "https://blog.fredrb.com/2022/07/31/character-encoding-utf8/",
-    "upvotes": 5,
-    "author": "fredrb",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32299965"
-  },
-  {
-    "title": "Faked Crystallography",
-    "url": "https://www.science.org/content/blog-post/faked-crystallography",
-    "upvotes": 83,
-    "author": "mhb",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=32280756"
-  },
-  {
-    "title": "Simple game programming through a comic",
-    "url": "https://nassimcomics.substack.com/p/a-tutorial-like-you-have-never-seen",
-    "upvotes": 45,
-    "author": "nassimsoftware",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=32297936"
   }
 ]
