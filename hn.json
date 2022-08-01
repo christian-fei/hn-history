@@ -1,80 +1,104 @@
 [
   {
+    "title": "Show HN: Reduce SQLite database size by up to 80% with transparent compression",
+    "url": "https://github.com/phiresky/sqlite-zstd",
+    "upvotes": 19,
+    "author": "phiresky",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32303762"
+  },
+  {
     "title": "A Tutorial on Portable Makefiles",
     "url": "https://nullprogram.com/blog/2017/08/20/",
-    "upvotes": 40,
+    "upvotes": 45,
     "author": "hardwaresofton",
-    "comments": 14,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32303193"
   },
   {
     "title": "Why I built a dictionary app",
     "url": "https://www.wordnote.app/blog/why-i-built-dictionary-app",
-    "upvotes": 330,
+    "upvotes": 345,
     "author": "zehfernandes",
-    "comments": 112,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=32300466"
   },
   {
     "title": "Karmem: A fast binary serialization format faster than Google Flatbuffers",
     "url": "https://github.com/inkeliz/karmem",
-    "upvotes": 91,
+    "upvotes": 97,
     "author": "siddontang",
-    "comments": 44,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=32302120"
   },
   {
     "title": "Raw footage inside Sears with Atari 800 and 2600",
     "url": "https://www.youtube.com/watch?v=edTzDPwPTt4",
-    "upvotes": 44,
+    "upvotes": 48,
     "author": "kloch",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32282081"
   },
   {
     "title": "Show HN: International Legal Dictionary",
     "url": "https://www.public.law/dictionary",
-    "upvotes": 56,
+    "upvotes": 61,
     "author": "dogweather",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=32301534"
   },
   {
+    "title": "Linus releases the 5.19 kernel from an M1 MacBook",
+    "url": "https://lwn.net/Articles/903033/",
+    "upvotes": 76,
+    "author": "anpep",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=32303592"
+  },
+  {
     "title": "Differentiable programming from scratch",
     "url": "https://thenumb.at/Autodiff/",
-    "upvotes": 129,
+    "upvotes": 135,
     "author": "TheNumbat",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=32300351"
   },
   {
-    "title": "A looming copper crunch and why recycling can’t fix it",
-    "url": "https://www.mining.com/the-looming-copper-crunch-and-why-recycling-cant-fix-it/",
-    "upvotes": 195,
-    "author": "simonebrunozzi",
-    "comments": 330,
-    "link": "https://news.ycombinator.com/item?id=32298096"
-  },
-  {
     "title": "RISC-V based single board computers are getting there",
     "url": "https://bret.dk/raspberry-pi-zero-vs-mangopi-mq-pro-benchmarks/",
-    "upvotes": 240,
+    "upvotes": 244,
     "author": "bmlw",
-    "comments": 100,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=32298137"
   },
   {
-    "title": "Linus releases the 5.19 kernel from an M1 MacBook",
-    "url": "https://lwn.net/Articles/903033/",
-    "upvotes": 40,
-    "author": "anpep",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=32303592"
+    "title": "A looming copper crunch and why recycling can’t fix it",
+    "url": "https://www.mining.com/the-looming-copper-crunch-and-why-recycling-cant-fix-it/",
+    "upvotes": 196,
+    "author": "simonebrunozzi",
+    "comments": 339,
+    "link": "https://news.ycombinator.com/item?id=32298096"
+  },
+  {
+    "title": "Show HN: White Label Any Webpage",
+    "url": "https://ablyhost.com/",
+    "upvotes": 7,
+    "author": "motyar",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32303337"
+  },
+  {
+    "title": "Announcing Docusaurus 2.0 – Meta's static site generator to build docs sites",
+    "url": "https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0",
+    "upvotes": 24,
+    "author": "slorber",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=32303052"
   },
   {
     "title": "Lyra: Fast, in-memory, typo-tolerant, full-text search engine in TypeScript",
     "url": "https://github.com/nearform/lyra",
-    "upvotes": 109,
+    "upvotes": 112,
     "author": "bpierre",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=32283663"
@@ -82,9 +106,9 @@
   {
     "title": "Gitea 1.17.0 is released – includes package registry support",
     "url": "https://blog.gitea.io/2022/07/gitea-1.17.0-is-released/",
-    "upvotes": 147,
+    "upvotes": 151,
     "author": "belfalas",
-    "comments": 25,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=32301936"
   },
   {
@@ -92,147 +116,123 @@
     "url": "https://tylercipriani.com/blog/2022/07/31/meshtastic-a-review/",
     "upvotes": 66,
     "author": "thcipriani",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=32301008"
   },
   {
     "title": "Pagefind: Static Low-Bandwidth Search at Scale",
     "url": "https://cloudcannon.com/blog/introducing-pagefind/",
-    "upvotes": 40,
+    "upvotes": 43,
     "author": "chmaynard",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=32290634"
   },
   {
     "title": "Fresnel Integral",
     "url": "https://en.wikipedia.org/wiki/Fresnel_integral",
-    "upvotes": 37,
+    "upvotes": 39,
     "author": "peter_d_sherman",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32283783"
   },
   {
     "title": "If only Borland had stuck with Turbo Modula-2 for CP/M",
     "url": "https://techtinkering.com/2013/03/12/if-only-borland-had-stuck-with-turbo-modula-2-for-cpm/",
-    "upvotes": 124,
+    "upvotes": 125,
     "author": "nope96",
-    "comments": 73,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=32298067"
   },
   {
     "title": "Public domain POSIX make",
     "url": "https://frippery.org/make/",
-    "upvotes": 51,
+    "upvotes": 54,
     "author": "donmcc",
-    "comments": 24,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=32300356"
-  },
-  {
-    "title": "Show HN: Outserv – GraphQL Search Engine",
-    "url": "https://manishrjain.com/outserv-graphql-blockchain-search",
-    "upvotes": 16,
-    "author": "mrjn",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32302368"
   },
   {
     "title": "Apple Rhapsody revisited, to go",
     "url": "http://tenfourfox.blogspot.com/2014/08/and-now-for-something-completely.html",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "classichasclass",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32301460"
   },
   {
+    "title": "Show HN: Outserv – GraphQL Search Engine",
+    "url": "https://manishrjain.com/outserv-graphql-blockchain-search",
+    "upvotes": 17,
+    "author": "mrjn",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32302368"
+  },
+  {
     "title": "End of the Machinery Game Engine",
     "url": "item?id=32300785",
-    "upvotes": 139,
+    "upvotes": 143,
     "author": "eigenbom",
-    "comments": 51,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=32300785"
   },
   {
     "title": "EasyRPG",
     "url": "https://easyrpg.org/",
-    "upvotes": 377,
+    "upvotes": 380,
     "author": "tosh",
-    "comments": 62,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=32297760"
-  },
-  {
-    "title": "Announcing Docusaurus 2.0 – Meta's static site generator to build docs sites",
-    "url": "https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0",
-    "upvotes": 12,
-    "author": "slorber",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32303052"
-  },
-  {
-    "title": "What ever happened to xmms.org?",
-    "url": "https://web.archive.org/web/20200813165218/https://thieta.wordpress.com/2010/04/28/what-ever-happened-to-xmms-org/",
-    "upvotes": 16,
-    "author": "ecliptik",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=32301890"
   },
   {
     "title": "Australian activist can't use encrypted apps, must let police access phone",
     "url": "https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038",
-    "upvotes": 349,
+    "upvotes": 358,
     "author": "adrian_mrd",
-    "comments": 226,
+    "comments": 238,
     "link": "https://news.ycombinator.com/item?id=32299244"
   },
   {
     "title": "The many flavors of hashing",
     "url": "https://notes.volution.ro/v1/2022/07/notes/1290a79c/",
-    "upvotes": 72,
+    "upvotes": 75,
     "author": "ciprian_craciun",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=32281459"
-  },
-  {
-    "title": "Time for Army Corps of Engineers to investigate moving water West?",
-    "url": "https://www.desertsun.com/story/opinion/contributors/valley-voice/2022/07/30/army-corps-engineers-must-study-feasibility-moving-water-west/10160750002/",
-    "upvotes": 49,
-    "author": "danboarder",
-    "comments": 180,
-    "link": "https://news.ycombinator.com/item?id=32301332"
-  },
-  {
-    "title": "A Mormon housewife turned a fake diary into an enormous best-seller",
-    "url": "https://www.newyorker.com/magazine/2022/08/01/how-a-mormon-housewife-turned-a-fake-diary-into-an-enormous-best-seller",
-    "upvotes": 77,
-    "author": "aesthesia",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=32300864"
   },
   {
     "title": "Patterns",
     "url": "https://www.patterns.app/"
   },
   {
-    "title": "Kubernetes reinvented virtual machines in a good sense",
-    "url": "https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/",
-    "upvotes": 174,
-    "author": "paulgb",
-    "comments": 159,
-    "link": "https://news.ycombinator.com/item?id=32298058"
+    "title": "What ever happened to xmms.org?",
+    "url": "https://web.archive.org/web/20200813165218/https://thieta.wordpress.com/2010/04/28/what-ever-happened-to-xmms-org/",
+    "upvotes": 16,
+    "author": "ecliptik",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32301890"
   },
   {
-    "title": "Tang Nano 9K – FPGA SBC with HDMI",
-    "url": "https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html",
-    "upvotes": 63,
-    "author": "peter_d_sherman",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=32299544"
+    "title": "A Mormon housewife turned a fake diary into an enormous best-seller",
+    "url": "https://www.newyorker.com/magazine/2022/08/01/how-a-mormon-housewife-turned-a-fake-diary-into-an-enormous-best-seller",
+    "upvotes": 79,
+    "author": "aesthesia",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=32300864"
   },
   {
-    "title": "Put down devices, let your mind wander, study suggests",
-    "url": "https://www.apa.org/news/press/releases/2022/07/thoughts-mind-wander",
-    "upvotes": 272,
-    "author": "chazeon",
-    "comments": 148,
-    "link": "https://news.ycombinator.com/item?id=32296272"
+    "title": "Time for Army Corps of Engineers to investigate moving water West?",
+    "url": "https://www.desertsun.com/story/opinion/contributors/valley-voice/2022/07/30/army-corps-engineers-must-study-feasibility-moving-water-west/10160750002/",
+    "upvotes": 51,
+    "author": "danboarder",
+    "comments": 189,
+    "link": "https://news.ycombinator.com/item?id=32301332"
+  },
+  {
+    "title": "Wikipedia has blocked editing ‘recession’ as people change definition",
+    "url": "https://fortune.com/2022/07/29/wikipedia-recession-definition-debate-partial-blocking-new-users/",
+    "upvotes": 22,
+    "author": "nailer",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=32303279"
   }
 ]
