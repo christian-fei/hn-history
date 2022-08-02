@@ -1,160 +1,152 @@
 [
   {
-    "title": "I was on TikTok for 30d: it is manipulative, addictive, and harmful to privacy",
-    "url": "https://uxdesign.cc/i-was-on-tiktok-for-30-days-it-is-manipulative-addictive-and-harmful-to-privacy-9e25445a9122",
-    "upvotes": 40,
-    "author": "marban",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=32315074"
-  },
-  {
     "title": "Crimes with Python's pattern matching",
     "url": "https://www.hillelwayne.com/post/python-abc/",
-    "upvotes": 135,
+    "upvotes": 148,
     "author": "signa11",
-    "comments": 22,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=32314368"
   },
   {
     "title": "Understanding Jane Street",
     "url": "https://www.thediff.co/p/jane-street",
-    "upvotes": 56,
+    "upvotes": 73,
     "author": "mxtihvb",
-    "comments": 31,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=32314623"
-  },
-  {
-    "title": "Aussieplusplus: Programming Language from Down Under",
-    "url": "https://github.com/zackradisic/aussieplusplus",
-    "upvotes": 25,
-    "author": "brendanfalk",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=32314631"
   },
   {
     "title": "Show HN: Emery – Personal productivity workspace",
     "url": "https://emery.to/",
-    "upvotes": 165,
+    "upvotes": 169,
     "author": "chernobai",
-    "comments": 107,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=32312413"
   },
   {
     "title": "PiBox: a tiny personal server for self-hosting",
     "url": "https://pibox.io/order",
-    "upvotes": 133,
+    "upvotes": 144,
     "author": "erulabs",
-    "comments": 40,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=32313242"
+  },
+  {
+    "title": "Capy – Cross-platform library for making native GUIs in Zig",
+    "url": "https://github.com/capy-ui/capy",
+    "upvotes": 20,
+    "author": "Sparkenstein",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32314757"
   },
   {
     "title": "Xv6, a simple Unix-like teaching operating system",
     "url": "https://pdos.csail.mit.edu/6.828/2021/xv6.html",
-    "upvotes": 57,
+    "upvotes": 61,
     "author": "memorable",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32314153"
-  },
-  {
-    "title": "Capy – Cross-platform library for making true native GUIs in Zig",
-    "url": "https://github.com/capy-ui/capy",
-    "upvotes": 15,
-    "author": "Sparkenstein",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32314757"
   },
   {
     "title": "A Love Letter to Geocities Sites",
     "url": "https://www.cameronsworld.net",
-    "upvotes": 88,
+    "upvotes": 93,
     "author": "martialg",
-    "comments": 14,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=32313574"
-  },
-  {
-    "title": "Parallel Programming for FPGAs",
-    "url": "https://github.com/KastnerRG/pp4fpgas",
-    "upvotes": 12,
-    "author": "bjourne",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32314700"
-  },
-  {
-    "title": "Ask HN: Who is hiring?",
-    "url": "item?id=32306920",
-    "upvotes": 389,
-    "author": "whoishiring",
-    "comments": 523,
-    "link": "https://news.ycombinator.com/item?id=32306920"
-  },
-  {
-    "title": "Equivalence of Unicode strings is strange",
-    "url": "http://databasearchitects.blogspot.com/2016/08/equivalence-of-unicode-strings-is.html",
-    "upvotes": 8,
-    "author": "greghn",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=32314835"
-  },
-  {
-    "title": "The Elusive Origin of Zero",
-    "url": "https://www.scientificamerican.com/article/the-elusive-origin-of-zero/",
-    "upvotes": 31,
-    "author": "Hooke",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=32296760"
   },
   {
     "title": "Making a PR to Nixpkgs",
     "url": "https://johns.codes/blog/updating-a-package-in-nixpkgs",
-    "upvotes": 6,
+    "upvotes": 12,
     "author": "jrmurray",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32314905"
   },
   {
-    "title": "The Cat Gap",
+    "title": "Parallel Programming for FPGAs",
+    "url": "https://github.com/KastnerRG/pp4fpgas",
+    "upvotes": 18,
+    "author": "bjourne",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32314700"
+  },
+  {
+    "title": "Ask HN: Who is hiring?",
+    "url": "item?id=32306920",
+    "upvotes": 392,
+    "author": "whoishiring",
+    "comments": 528,
+    "link": "https://news.ycombinator.com/item?id=32306920"
+  },
+  {
+    "title": "The end of Optane is bad news",
+    "url": "https://www.theregister.com/2022/08/01/optane_intel_cancellation/",
+    "upvotes": 56,
+    "author": "RachelF",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=32314814"
+  },
+  {
+    "title": "Equivalence of Unicode strings is strange",
+    "url": "http://databasearchitects.blogspot.com/2016/08/equivalence-of-unicode-strings-is.html",
+    "upvotes": 11,
+    "author": "greghn",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=32314835"
+  },
+  {
+    "title": "Cat gap",
     "url": "https://en.wikipedia.org/wiki/Cat_gap",
-    "upvotes": 30,
+    "upvotes": 35,
     "author": "pxeger1",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32295130"
   },
   {
+    "title": "Ask HN: Is there a tool / product that enables commenting on HTML elements?",
+    "url": "item?id=32315035",
+    "upvotes": 5,
+    "author": "bshoemaker",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32315035"
+  },
+  {
+    "title": "Launch HN: Polymath Robotics (YC S22) – General autonomy for industrial vehicles",
+    "url": "item?id=32307773",
+    "upvotes": 145,
+    "author": "stefan8r",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=32307773"
+  },
+  {
+    "title": "The Elusive Origin of Zero",
+    "url": "https://www.scientificamerican.com/article/the-elusive-origin-of-zero/",
+    "upvotes": 34,
+    "author": "Hooke",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32296760"
+  },
+  {
+    "title": "TikTok is manipulative, addictive, and harmful to privacy",
+    "url": "https://uxdesign.cc/i-was-on-tiktok-for-30-days-it-is-manipulative-addictive-and-harmful-to-privacy-9e25445a9122",
+    "upvotes": 70,
+    "author": "marban",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=32315074"
+  },
+  {
     "title": "U.S. Army Camouflage Improvement Explained",
     "url": "https://www.hyperstealth.com/camo-improvement/index.html",
-    "upvotes": 298,
+    "upvotes": 299,
     "author": "BonoboIO",
     "comments": 250,
     "link": "https://news.ycombinator.com/item?id=32306005"
   },
   {
-    "title": "The biggest new idea in computing for half a century was just scrapped",
-    "url": "https://www.theregister.com/2022/08/01/optane_intel_cancellation/",
-    "upvotes": 34,
-    "author": "RachelF",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=32314814"
-  },
-  {
-    "title": "The Cost of Diabetes",
-    "url": "https://www.diabetes.org/about-us/statistics/cost-diabetes",
-    "upvotes": 22,
-    "author": "djoldman",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=32304326"
-  },
-  {
-    "title": "Launch HN: Polymath Robotics (YC S22) – General autonomy for industrial vehicles",
-    "url": "item?id=32307773",
-    "upvotes": 144,
-    "author": "stefan8r",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=32307773"
-  },
-  {
     "title": "AlphaFold's database grows over 200x to cover nearly all known proteins",
     "url": "https://wandb.ai/telidavies/ml-news/reports/AlphaFold-s-Database-Grows-Over-200x-To-Cover-Nearly-All-Known-Proteins--VmlldzoyNDA5NDI5",
-    "upvotes": 38,
+    "upvotes": 44,
     "author": "OnlineInference",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=32313043"
@@ -162,7 +154,7 @@
   {
     "title": "Dolphin Intelligence: 3 Early Dolphin Experiments Funded by the U.S. Navy",
     "url": "https://www.whales.org.au/published/levasseur/levass2a.html",
-    "upvotes": 22,
+    "upvotes": 24,
     "author": "Thevet",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32297792"
@@ -170,7 +162,7 @@
   {
     "title": "People spend too much time on decisions with equally satisfying outcomes",
     "url": "https://robkhenderson.substack.com/p/people-spend-too-much-time-on-decisions",
-    "upvotes": 141,
+    "upvotes": 146,
     "author": "Bostonian",
     "comments": 61,
     "link": "https://news.ycombinator.com/item?id=32295095"
@@ -178,39 +170,39 @@
   {
     "title": "The hardest people for founders to hire are so called C-level executives",
     "url": "https://twitter.com/paulg/status/1554205020907720704",
-    "upvotes": 279,
+    "upvotes": 283,
     "author": "ilamont",
-    "comments": 222,
+    "comments": 223,
     "link": "https://news.ycombinator.com/item?id=32311904"
   },
   {
-    "title": "Open Soil Spectral Library",
-    "url": "https://soilspectroscopy.github.io/ossl-manual/",
-    "upvotes": 75,
-    "author": "protontypes",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=32293359"
+    "title": "When Engineers Think Cooking/Recipes Could Be More Enjoyable",
+    "url": "https://www.eattsy.com",
+    "upvotes": 26,
+    "author": "nathanfromny",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=32313879"
   },
   {
     "title": "Juris Hartmanis 1928–2022",
     "url": "https://rjlipton.wpcomstaging.com/2022/07/29/juris-hartmanis-1928-2022/",
-    "upvotes": 110,
+    "upvotes": 111,
     "author": "sizzle",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32309304"
   },
   {
-    "title": "When Engineers Think Cooking/Recipes Could Be More Enjoyable",
-    "url": "https://www.eattsy.com",
-    "upvotes": 22,
-    "author": "nathanfromny",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=32313879"
+    "title": "Open Soil Spectral Library",
+    "url": "https://soilspectroscopy.github.io/ossl-manual/",
+    "upvotes": 76,
+    "author": "protontypes",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=32293359"
   },
   {
     "title": "Introduction to Apple Silicon",
     "url": "https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon",
-    "upvotes": 264,
+    "upvotes": 269,
     "author": "arkj",
     "comments": 88,
     "link": "https://news.ycombinator.com/item?id=32311245"
@@ -218,10 +210,18 @@
   {
     "title": "Annotated version of Boole's 1847 “Algebra of Logic”",
     "url": "http://www.math.uwaterloo.ca/~snburris/htdocs/MAL.pdf",
-    "upvotes": 83,
+    "upvotes": 84,
     "author": "auggierose",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=32294459"
+  },
+  {
+    "title": "Particle physicists puzzle over a new duality",
+    "url": "https://www.quantamagazine.org/particle-physicists-puzzle-over-a-new-duality-20220801/",
+    "upvotes": 134,
+    "author": "kzrdude",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=32306012"
   },
   {
     "title": "ArcGIS Maps SDK brings geospatial data to Unity and Unreal Engine",
@@ -232,7 +232,11 @@
     "link": "https://news.ycombinator.com/item?id=32310842"
   },
   {
-    "title": "PicnicHealth",
-    "url": "https://picnichealth.com/careers"
+    "title": "Disney's mosquito control program",
+    "url": "https://mousetrack.co.uk/blog/mosquitoes-at-disney-why-do-you-almost-never-see-them/",
+    "upvotes": 167,
+    "author": "dom96",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=32312813"
   }
 ]
