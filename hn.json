@@ -1,176 +1,224 @@
 [
   {
-    "title": "Oracle Suspended My Account",
-    "url": "https://batin.sh/blog/oracle-suspended-my-account/",
-    "upvotes": 254,
-    "author": "stradiv",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=32318498"
-  },
-  {
     "title": "Use One Big Server",
     "url": "https://specbranch.com/posts/one-big-server/",
-    "upvotes": 88,
+    "upvotes": 167,
     "author": "pclmulqdq",
-    "comments": 34,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=32319147"
+  },
+  {
+    "title": "The Hero's Journey of Getting Laid",
+    "url": "https://backtohumanity.substack.com/p/getting-laid-off",
+    "upvotes": 23,
+    "author": "georgex7",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=32320495"
+  },
+  {
+    "title": "The endless search for a crypto use case",
+    "url": "https://networked.substack.com/p/the-endless-search-for-a-crypto-use",
+    "upvotes": 29,
+    "author": "jaypinho",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=32320456"
   },
   {
     "title": "Airflow's Problem",
     "url": "https://stkbailey.substack.com/p/airflows-problem",
-    "upvotes": 146,
+    "upvotes": 167,
     "author": "cloakedarbiter",
-    "comments": 48,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=32317558"
-  },
-  {
-    "title": "Using Firecracker and Go to run short, untrusted code execution jobs",
-    "url": "https://stanislas.blog/2021/08/firecracker/",
-    "upvotes": 87,
-    "author": "hasheddan",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=32317520"
-  },
-  {
-    "title": "What’s going on with Google and Facebook hiring freezes?",
-    "url": "https://blog.interviewing.io/whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out/",
-    "upvotes": 224,
-    "author": "leeny",
-    "comments": 253,
-    "link": "https://news.ycombinator.com/item?id=32312303"
-  },
-  {
-    "title": "Coding as a greybeard",
-    "url": "item?id=32317441",
-    "upvotes": 233,
-    "author": "jamesofthedrum",
-    "comments": 200,
-    "link": "https://news.ycombinator.com/item?id=32317441"
-  },
-  {
-    "title": "The disproportionate influence of early tech decisions",
-    "url": "https://brandur.org/fragments/early-tech-decisions",
-    "upvotes": 55,
-    "author": "kiyanwang",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=32296807"
-  },
-  {
-    "title": "CVE-2022-29154: Rsync client-side arbitrary file write vulnerability",
-    "url": "https://www.openwall.com/lists/oss-security/2022/08/02/1",
-    "upvotes": 53,
-    "author": "jwilk",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=32318155"
   },
   {
     "title": "Carbon Capture on Trains",
     "url": "https://spectrum.ieee.org/carbon-capture-2657738131",
-    "upvotes": 7,
+    "upvotes": 17,
     "author": "noplsbecivil",
-    "comments": 2,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32319995"
   },
   {
-    "title": "Understanding Jane Street",
-    "url": "https://www.thediff.co/p/jane-street",
-    "upvotes": 537,
-    "author": "mxtihvb",
-    "comments": 276,
-    "link": "https://news.ycombinator.com/item?id=32314623"
+    "title": "Using Firecracker and Go to run short, untrusted code execution jobs",
+    "url": "https://stanislas.blog/2021/08/firecracker/",
+    "upvotes": 98,
+    "author": "hasheddan",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32317520"
   },
   {
-    "title": "Launch HN: DeploySentinel (YC S22) – End-to-end tests that don't flake",
-    "url": "item?id=32319404",
-    "upvotes": 9,
-    "author": "mikeshi42",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=32319404"
+    "title": "Ubuntu Security Notice USN-5544-1 Atheros ath9k wireless device driver",
+    "url": "https://dl.packetstormsecurity.net/2208-advisories/USN-5544-1.txt",
+    "upvotes": 8,
+    "author": "LinuxBender",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32320553"
+  },
+  {
+    "title": "What’s going on with Google and Facebook hiring freezes?",
+    "url": "https://blog.interviewing.io/whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out/",
+    "upvotes": 240,
+    "author": "leeny",
+    "comments": 283,
+    "link": "https://news.ycombinator.com/item?id=32312303"
+  },
+  {
+    "title": "The disproportionate influence of early tech decisions",
+    "url": "https://brandur.org/fragments/early-tech-decisions",
+    "upvotes": 71,
+    "author": "kiyanwang",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=32296807"
+  },
+  {
+    "title": "Coding as a greybeard",
+    "url": "item?id=32317441",
+    "upvotes": 255,
+    "author": "jamesofthedrum",
+    "comments": 226,
+    "link": "https://news.ycombinator.com/item?id=32317441"
+  },
+  {
+    "title": "Oracle Suspended My Account",
+    "url": "https://batin.sh/blog/oracle-suspended-my-account/",
+    "upvotes": 288,
+    "author": "stradiv",
+    "comments": 161,
+    "link": "https://news.ycombinator.com/item?id=32318498"
   },
   {
     "title": "Bumblebees kept in isolation make up for it by being more social later",
     "url": "https://www.princeton.edu/news/2022/07/12/bumblebees-kept-isolation-make-it-being-more-social-later",
-    "upvotes": 38,
+    "upvotes": 51,
     "author": "rntn",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32318160"
   },
   {
-    "title": "FlightRadar24 crashes due to surge in users tracking SPAR19",
-    "url": "https://twitter.com/flightradar24/status/1554457269714264066",
-    "upvotes": 80,
-    "author": "jeswin",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=32318666"
+    "title": "Understanding Jane Street",
+    "url": "https://www.thediff.co/p/jane-street",
+    "upvotes": 548,
+    "author": "mxtihvb",
+    "comments": 290,
+    "link": "https://news.ycombinator.com/item?id=32314623"
+  },
+  {
+    "title": "CVE-2022-29154: Rsync client-side arbitrary file write vulnerability",
+    "url": "https://www.openwall.com/lists/oss-security/2022/08/02/1",
+    "upvotes": 62,
+    "author": "jwilk",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=32318155"
+  },
+  {
+    "title": "Launch HN: DeploySentinel (YC S22) – End-to-end tests that don't flake",
+    "url": "item?id=32319404",
+    "upvotes": 14,
+    "author": "mikeshi42",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=32319404"
+  },
+  {
+    "title": "Nomad drained of $150m due to a coding mistake",
+    "url": "https://twitter.com/samczsun/status/1554252024723546112",
+    "upvotes": 100,
+    "author": "onion2k",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=32318873"
   },
   {
     "title": "Building a Panel out of e-ink Electronic Shelf Labels",
     "url": "https://rbaron.net/blog/2022/07/29/Daisy-chaining-multiple-electronic-shelf-labels.html",
-    "upvotes": 137,
+    "upvotes": 144,
     "author": "frxx",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=32316302"
   },
   {
+    "title": "FlightRadar24 crashes due to surge in users tracking SPAR19",
+    "url": "https://twitter.com/flightradar24/status/1554457269714264066",
+    "upvotes": 98,
+    "author": "jeswin",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=32318666"
+  },
+  {
     "title": "A Brief History of Peanut Butter",
     "url": "https://www.smithsonianmag.com/innovation/brief-history-peanut-butter-180976525/",
-    "upvotes": 36,
+    "upvotes": 38,
     "author": "Tomte",
-    "comments": 14,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=32302561"
   },
   {
     "title": "Crimes with Python's pattern matching",
     "url": "https://www.hillelwayne.com/post/python-abc/",
-    "upvotes": 350,
+    "upvotes": 358,
     "author": "signa11",
-    "comments": 106,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=32314368"
+  },
+  {
+    "title": "Introducing multitasking to Arduino",
+    "url": "https://blog.arduino.cc/2022/08/02/introducing-multitasking-to-arduino/",
+    "upvotes": 7,
+    "author": "pyprism",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32320727"
   },
   {
     "title": "Paper batteries on the cards to power IoT and smart labels",
     "url": "https://www.theregister.com/2022/07/29/paper_batteries_on_the_cards/",
-    "upvotes": 17,
+    "upvotes": 20,
     "author": "LinuxBender",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32295994"
-  },
-  {
-    "title": "Nomad drained of $150m due to a coding mistake",
-    "url": "https://threadreaderapp.com/thread/1554252024723546112.html",
-    "upvotes": 68,
-    "author": "onion2k",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=32318873"
-  },
-  {
-    "title": "Decoupling IP from services and sockets for addressing agility",
-    "url": "https://www.micahlerner.com/2022/01/13/the-ties-that-un-bind-decoupling-ip-from-web-services-and-sockets-for-robust-addressing-agility-at-cdn-scale.html",
-    "upvotes": 6,
-    "author": "mlerner",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32298751"
   },
   {
     "title": "Spinning Levers – How a Transmission Works",
     "url": "https://www.youtube.com/watch?v=JOLtS4VUcvQ",
-    "upvotes": 75,
+    "upvotes": 82,
     "author": "userbinator",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=32294429"
+  },
+  {
+    "title": "Elixir Livebook now as a desktop app",
+    "url": "https://news.livebook.dev/introducing-the-livebook-desktop-app-4C8dpu",
+    "upvotes": 6,
+    "author": "cgarvis",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32320531"
+  },
+  {
+    "title": "Decoupling IP from services and sockets for addressing agility",
+    "url": "https://www.micahlerner.com/2022/01/13/the-ties-that-un-bind-decoupling-ip-from-web-services-and-sockets-for-robust-addressing-agility-at-cdn-scale.html",
+    "upvotes": 8,
+    "author": "mlerner",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32298751"
+  },
+  {
+    "title": "Heat waves and flooding: Why U.S. infrastructure can't withstand extreme weather",
+    "url": "https://www.axios.com/2022/08/02/heat-wave-climate-change-us-infrastructure",
+    "upvotes": 11,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32318866"
   },
   {
     "title": "Show HN: OneDev – A Lightweight Gitlab Alternative",
     "url": "https://github.com/theonedev/onedev",
-    "upvotes": 168,
+    "upvotes": 172,
     "author": "steveluo9",
-    "comments": 65,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=32316251"
   },
   {
     "title": "JuliaEpi: Collaborative Computational Epidemiology in Julia",
     "url": "https://forem.julialang.org/inphyt/ann-juliaepi-collaborative-computational-epidemiology-in-julia-19ng",
-    "upvotes": 12,
+    "upvotes": 18,
     "author": "logankilpatrick",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32318108"
@@ -178,65 +226,17 @@
   {
     "title": "Capy – Cross-platform library for making native GUIs in Zig",
     "url": "https://github.com/capy-ui/capy",
-    "upvotes": 141,
+    "upvotes": 148,
     "author": "Sparkenstein",
-    "comments": 38,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=32314757"
   },
   {
     "title": "Post-quantum encryption contender is taken out by single-core PC and 1 hour",
     "url": "https://arstechnica.com/information-technology/2022/08/sike-once-a-post-quantum-encryption-contender-is-koed-in-nist-smackdown/",
-    "upvotes": 68,
+    "upvotes": 77,
     "author": "adrian_mrd",
-    "comments": 22,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32317865"
-  },
-  {
-    "title": "Cat gap",
-    "url": "https://en.wikipedia.org/wiki/Cat_gap",
-    "upvotes": 168,
-    "author": "pxeger1",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=32295130"
-  },
-  {
-    "title": "Xv6, a simple Unix-like teaching operating system",
-    "url": "https://pdos.csail.mit.edu/6.828/2021/xv6.html",
-    "upvotes": 157,
-    "author": "memorable",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=32314153"
-  },
-  {
-    "title": "The People Of The Cloud",
-    "url": "https://aeon.co/essays/downtime-is-not-an-option-meet-the-stewards-of-the-cloud",
-    "upvotes": 27,
-    "author": "optimalsolver",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32294799"
-  },
-  {
-    "title": "When the Surgeon Was an Uneducated Barber",
-    "url": "https://nautil.us/when-the-surgeon-was-an-uneducated-barber-22409/",
-    "upvotes": 32,
-    "author": "samizdis",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=32294503"
-  },
-  {
-    "title": "Ask HN: How do you deal with the emotions of customer support?",
-    "url": "item?id=32317230",
-    "upvotes": 39,
-    "author": "chrisjb",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=32317230"
-  },
-  {
-    "title": "Ask HN: Meal Planning App?",
-    "url": "item?id=32316604",
-    "upvotes": 79,
-    "author": "35mm",
-    "comments": 107,
-    "link": "https://news.ycombinator.com/item?id=32316604"
   }
 ]
