@@ -1,59 +1,67 @@
 [
   {
+    "title": "Old jokes",
+    "url": "https://dynomight.net/old-jokes/",
+    "upvotes": 63,
+    "author": "Gadiguibou",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=32345404"
+  },
+  {
     "title": "The SQL query engine Trino",
     "url": "https://trino.io/blog/2022/08/04/decade-innovation.html",
-    "upvotes": 59,
+    "upvotes": 78,
     "author": "simpligility",
-    "comments": 28,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=32345357"
   },
   {
     "title": "C99 doesn't need function bodies, or 'VLAs are Turing complete'",
     "url": "https://lemon.rip/w/c99-vla-tricks/",
-    "upvotes": 142,
+    "upvotes": 159,
     "author": "lsof",
-    "comments": 77,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=32343608"
-  },
-  {
-    "title": "Old jokes",
-    "url": "https://dynomight.net/old-jokes/",
-    "upvotes": 33,
-    "author": "Gadiguibou",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=32345404"
   },
   {
     "title": "The OG Social Network: Other People’s Websites",
     "url": "https://blog.jim-nielsen.com/2022/other-peoples-websites/",
-    "upvotes": 52,
+    "upvotes": 73,
     "author": "headalgorithm",
-    "comments": 13,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=32345087"
-  },
-  {
-    "title": "Why Is the Human Brain So Efficient?",
-    "url": "https://nautil.us/why-is-the-human-brain-so-efficient-7216/",
-    "upvotes": 18,
-    "author": "ofou",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=32345712"
   },
   {
     "title": "Quaise Energy is working to create geothermal wells",
     "url": "https://news.mit.edu/2022/quaise-energy-geothermal-0628",
-    "upvotes": 149,
+    "upvotes": 156,
     "author": "pseudolus",
-    "comments": 138,
+    "comments": 141,
     "link": "https://news.ycombinator.com/item?id=32342501"
   },
   {
     "title": "Art of README",
     "url": "https://github.com/hackergrrl/art-of-readme",
-    "upvotes": 97,
+    "upvotes": 109,
     "author": "graderjs",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32343443"
+  },
+  {
+    "title": "Connect-Web: It's time for Protobuf/gRPC to be your first choice in the browser",
+    "url": "https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser",
+    "upvotes": 33,
+    "author": "slimsag",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32345670"
+  },
+  {
+    "title": "Is DALL-E 2 ‘gluing things together’ without understanding their relationships?",
+    "url": "https://www.unite.ai/is-dall-e-2-just-gluing-things-together-without-understanding-their-relationships/",
+    "upvotes": 114,
+    "author": "Hard_Space",
+    "comments": 180,
+    "link": "https://news.ycombinator.com/item?id=32342550"
   },
   {
     "title": "TaxProper",
@@ -62,177 +70,169 @@
   {
     "title": "Black holes finally proven mathematically stable",
     "url": "https://www.quantamagazine.org/black-holes-finally-proven-mathematically-stable-20220804/",
-    "upvotes": 87,
+    "upvotes": 95,
     "author": "shantanu_sharma",
-    "comments": 47,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=32343370"
   },
   {
     "title": "Launch HN: CodeCrafters",
     "url": "https://codecrafters.io",
-    "upvotes": 133,
+    "upvotes": 141,
     "author": "rohitpaulk",
-    "comments": 68,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=32342334"
-  },
-  {
-    "title": "Is DALL-E 2 ‘gluing things together’ without understanding their relationships?",
-    "url": "https://www.unite.ai/is-dall-e-2-just-gluing-things-together-without-understanding-their-relationships/",
-    "upvotes": 104,
-    "author": "Hard_Space",
-    "comments": 165,
-    "link": "https://news.ycombinator.com/item?id=32342550"
-  },
-  {
-    "title": "Solein – Protein out of thin air",
-    "url": "https://www.solein.com",
-    "upvotes": 33,
-    "author": "Anon84",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=32345051"
   },
   {
     "title": "Apple is building a demand-side platform",
     "url": "https://digiday.com/media/apple-is-building-a-demand-side-platform/",
-    "upvotes": 107,
+    "upvotes": 112,
     "author": "helij",
-    "comments": 172,
+    "comments": 184,
     "link": "https://news.ycombinator.com/item?id=32341796"
-  },
-  {
-    "title": "Connect-Web: It's time for Protobuf/gRPC to be your first choice in the browser",
-    "url": "https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser",
-    "upvotes": 16,
-    "author": "slimsag",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32345670"
   },
   {
     "title": "LocalStack and AWS Parity Explained",
     "url": "https://localstack.cloud/blog/2022-08-04-parity-explained/",
-    "upvotes": 41,
+    "upvotes": 45,
     "author": "_harshcasper",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=32343548"
-  },
-  {
-    "title": "Show HN: Killer Crossword - A crossword puzzle variation with no clues",
-    "url": "https://killercrossword.com",
-    "upvotes": 54,
-    "author": "danieltait",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=32342820"
   },
   {
     "title": "Botspam apocalypse",
     "url": "https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi",
-    "upvotes": 348,
+    "upvotes": 360,
     "author": "panic",
-    "comments": 303,
+    "comments": 307,
     "link": "https://news.ycombinator.com/item?id=32339314"
-  },
-  {
-    "title": "Hyundai rolls out 27 heavy-duty hydrogen trucks in Germany",
-    "url": "https://thedriven.io/2022/08/04/hyundai-rolls-out-27-heavy-duty-hydrogen-trucks-in-germany/",
-    "upvotes": 77,
-    "author": "clouddrover",
-    "comments": 197,
-    "link": "https://news.ycombinator.com/item?id=32341698"
-  },
-  {
-    "title": "NAFNet: Nonlinear Activation Free Network for Image Restoration",
-    "url": "https://github.com/megvii-research/NAFNet",
-    "upvotes": 16,
-    "author": "pizza",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32344549"
   },
   {
     "title": "OmnesViae: Roman Routeplanner",
     "url": "https://omnesviae.org/",
-    "upvotes": 199,
+    "upvotes": 202,
     "author": "desindol",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=32340430"
   },
   {
+    "title": "Strict-serializability, but at what cost, for what purpose?",
+    "url": "http://muratbuffalo.blogspot.com/2022/08/strict-serializability-but-at-what-cost.html",
+    "upvotes": 7,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32346038"
+  },
+  {
+    "title": "Show HN: Killer Crossword - A crossword puzzle variation with no clues",
+    "url": "https://killercrossword.com",
+    "upvotes": 58,
+    "author": "danieltait",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=32342820"
+  },
+  {
+    "title": "Hyundai rolls out 27 heavy-duty hydrogen trucks in Germany",
+    "url": "https://thedriven.io/2022/08/04/hyundai-rolls-out-27-heavy-duty-hydrogen-trucks-in-germany/",
+    "upvotes": 79,
+    "author": "clouddrover",
+    "comments": 211,
+    "link": "https://news.ycombinator.com/item?id=32341698"
+  },
+  {
+    "title": "NAFNet: Nonlinear Activation Free Network for Image Restoration",
+    "url": "https://github.com/megvii-research/NAFNet",
+    "upvotes": 20,
+    "author": "pizza",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32344549"
+  },
+  {
+    "title": "Gaudi: A Neural Architect for Immersive 3D Scene Generation",
+    "url": "https://github.com/apple/ml-gaudi",
+    "upvotes": 26,
+    "author": "andsoitis",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32344014"
+  },
+  {
     "title": "The MGR Window System",
     "url": "https://hack.org/mc/mgr/",
-    "upvotes": 17,
+    "upvotes": 21,
     "author": "floren",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=32344154"
   },
   {
-    "title": "Indian government withdraws Personal Data Protection Bill",
-    "url": "https://www.accessnow.org/no-place-for-privacy-in-india-as-government-withdraws-data-protection-bill/",
-    "upvotes": 126,
-    "author": "techmagus",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=32340977"
+    "title": "Solein – Protein out of thin air",
+    "url": "https://www.solein.com",
+    "upvotes": 43,
+    "author": "Anon84",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=32345051"
   },
   {
-    "title": "Gaudi: A Neural Architect for Immersive 3D Scene Generation",
-    "url": "https://github.com/apple/ml-gaudi",
-    "upvotes": 19,
-    "author": "andsoitis",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32344014"
+    "title": "Indian government withdraws Personal Data Protection Bill",
+    "url": "https://www.accessnow.org/no-place-for-privacy-in-india-as-government-withdraws-data-protection-bill/",
+    "upvotes": 130,
+    "author": "techmagus",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=32340977"
   },
   {
     "title": "Ask HN: Any solo game developers here?",
     "url": "item?id=32343096",
-    "upvotes": 110,
+    "upvotes": 120,
     "author": "YesBox",
-    "comments": 55,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=32343096"
   },
   {
     "title": "Ask HN: What HN post made you money?",
     "url": "item?id=32341922",
-    "upvotes": 193,
+    "upvotes": 204,
     "author": "cetaphil",
-    "comments": 129,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=32341922"
+  },
+  {
+    "title": "Visa suspends card payments for ad purchases on Pornhub and MindGeek",
+    "url": "https://www.cnbc.com/2022/08/04/visa-suspends-card-payments-for-ad-purchases-on-pornhub-and-mindgeek-amid-controversy.html",
+    "upvotes": 57,
+    "author": "latchkey",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=32344804"
   },
   {
     "title": "OmniEdge – an Open source P2P layer 2 VPN infrastructure based on n2n protocol",
     "url": "https://omniedge.io/",
-    "upvotes": 21,
+    "upvotes": 22,
     "author": "fariszr",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32343610"
   },
   {
-    "title": "Visa suspends card payments for ad purchases on Pornhub and MindGeek",
-    "url": "https://www.cnbc.com/2022/08/04/visa-suspends-card-payments-for-ad-purchases-on-pornhub-and-mindgeek-amid-controversy.html",
-    "upvotes": 37,
-    "author": "latchkey",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=32344804"
-  },
-  {
-    "title": "Ask HN: Any great books about technical writing?",
-    "url": "item?id=32342493",
-    "upvotes": 86,
-    "author": "iluzone",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=32342493"
-  },
-  {
     "title": "Researchers discover major roadblock in alleviating network congestion",
     "url": "https://news.mit.edu/2022/algorithm-computer-network-bandwidth-0804",
-    "upvotes": 74,
+    "upvotes": 76,
     "author": "rntn",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=32340887"
   },
   {
-    "title": "Show HN: Superblocks – IDE for Internal Apps, APIs and Cron Jobs",
-    "url": "https://www.superblocks.com/",
-    "upvotes": 135,
-    "author": "bradmenezes",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=32344671"
+    "title": "Google’s video chat merger begins: Now there are two “Google Meet” apps",
+    "url": "https://arstechnica.com/gadgets/2022/08/googles-video-chat-merger-begins-now-there-are-two-google-meet-apps/",
+    "upvotes": 11,
+    "author": "leephillips",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32346087"
+  },
+  {
+    "title": "Why Is the Human Brain So Efficient?",
+    "url": "https://nautil.us/why-is-the-human-brain-so-efficient-7216/",
+    "upvotes": 30,
+    "author": "ofou",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=32345712"
   }
 ]
