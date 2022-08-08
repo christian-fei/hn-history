@@ -2,127 +2,143 @@
   {
     "title": "MiniRust",
     "url": "https://www.ralfj.de/blog/2022/08/08/minirust.html",
-    "upvotes": 85,
+    "upvotes": 97,
     "author": "dthul",
-    "comments": 15,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=32384550"
   },
   {
     "title": "To Uncover a Deepfake Video Call, Ask the Caller to Turn Sideways",
     "url": "https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/",
-    "upvotes": 32,
+    "upvotes": 72,
     "author": "Hard_Space",
-    "comments": null,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32384653"
   },
   {
     "title": "No More “Insight Porn”",
     "url": "https://jakobgreenfeld.com/insight-porn",
-    "upvotes": 140,
+    "upvotes": 157,
     "author": "jakobgreenfeld",
-    "comments": 53,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=32384613"
   },
   {
-    "title": "Post-Apocalyptic Programming",
-    "url": "https://zserge.com/posts/post-apocalyptic-programming/",
-    "upvotes": 83,
-    "author": "pjmlp",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=32383686"
+    "title": "Twilio employee and customer account compromise",
+    "url": "https://www.twilio.com/blog/august-2022-social-engineering-attack",
+    "upvotes": 7,
+    "author": "wepple",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32385362"
   },
   {
-    "title": "Learning algebra in my 60s",
-    "url": "https://www.theguardian.com/books/2022/aug/07/could-learning-algebra-in-my-60s-make-me-smarter-alec-wilkinson-a-divine-language-extract",
-    "upvotes": 65,
-    "author": "trocado",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=32375955"
-  },
-  {
-    "title": "A Guide to Decentralized Biotech",
-    "url": "https://future.com/a-guide-to-decentralized-biotech/",
-    "upvotes": 15,
-    "author": "sebg",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32384604"
-  },
-  {
-    "title": "I 10x'd a TI-84 emulator's speed by replacing a switch-case",
-    "url": "https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html",
-    "upvotes": 284,
-    "author": "xena",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=32381550"
-  },
-  {
-    "title": "Wizard with a Time Machine",
-    "url": "https://microship.com/wizard-with-a-time-machine/",
-    "upvotes": 44,
-    "author": "walterbell",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32374227"
+    "title": "Who Owns Tesla’s Data?",
+    "url": "https://spectrum.ieee.org/tesla-autopilot-data-ownership",
+    "upvotes": 13,
+    "author": "rbanffy",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32384827"
   },
   {
     "title": "Lively Linear Lisp – 'Look Ma, No Garbage!'",
     "url": "https://dl.acm.org/doi/pdf/10.1145/142137.142162",
-    "upvotes": 17,
+    "upvotes": 31,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32384320"
   },
   {
+    "title": "Post-Apocalyptic Programming",
+    "url": "https://zserge.com/posts/post-apocalyptic-programming/",
+    "upvotes": 87,
+    "author": "pjmlp",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=32383686"
+  },
+  {
+    "title": "A Guide to Decentralized Biotech",
+    "url": "https://future.com/a-guide-to-decentralized-biotech/",
+    "upvotes": 18,
+    "author": "sebg",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32384604"
+  },
+  {
+    "title": "Learning algebra in my 60s",
+    "url": "https://www.theguardian.com/books/2022/aug/07/could-learning-algebra-in-my-60s-make-me-smarter-alec-wilkinson-a-divine-language-extract",
+    "upvotes": 73,
+    "author": "trocado",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=32375955"
+  },
+  {
+    "title": "I 10x'd a TI-84 emulator's speed by replacing a switch-case",
+    "url": "https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html",
+    "upvotes": 290,
+    "author": "xena",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=32381550"
+  },
+  {
+    "title": "Wizard with a Time Machine",
+    "url": "https://microship.com/wizard-with-a-time-machine/",
+    "upvotes": 47,
+    "author": "walterbell",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32374227"
+  },
+  {
     "title": "A physical wiring diagram for the human immune system",
     "url": "https://www.nature.com/articles/s41586-022-05028-x",
-    "upvotes": 229,
+    "upvotes": 235,
     "author": "bookofjoe",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=32381790"
   },
   {
-    "title": "How we got customers to sign up to Monzo in the early years",
-    "url": "https://tomblomfield.com/post/691384431502557184/monzo-growth",
-    "upvotes": 53,
-    "author": "angristan",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=32383448"
-  },
-  {
-    "title": "Who Owns Tesla’s Data?",
-    "url": "https://spectrum.ieee.org/tesla-autopilot-data-ownership",
-    "upvotes": 4,
-    "author": "rbanffy",
+    "title": "Bridge Loans",
+    "url": "https://avc.com/2022/08/bridge-loans/",
+    "upvotes": 6,
+    "author": "imartin2k",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32384827"
+    "link": "https://news.ycombinator.com/item?id=32385026"
   },
   {
-    "title": "Why does gRPC insist on trailers?",
-    "url": "https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers",
-    "upvotes": 293,
-    "author": "strzalek",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=32380769"
+    "title": "HN Leaders — What are the most upvoted users of Hacker News commenting on?",
+    "url": "https://hn-leaders.herokuapp.com",
+    "upvotes": 10,
+    "author": "drpancake",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32385019"
+  },
+  {
+    "title": "Ask HN: Have you ever inherited a code base you thought was well done?",
+    "url": "item?id=32384769",
+    "upvotes": 22,
+    "author": "falafelite",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=32384769"
+  },
+  {
+    "title": "Tricks to start working despite not feeling like it",
+    "url": "https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it",
+    "upvotes": 56,
+    "author": "ahstilde",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=32384687"
   },
   {
     "title": "A Parachute Accident in 1992 jump-started the birth of Augmented Reality",
     "url": "https://spectrum.ieee.org/history-of-augmented-reality",
-    "upvotes": 9,
+    "upvotes": 10,
     "author": "bonkerbits",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32376256"
   },
   {
-    "title": "Tricks to start working despite not feeling like it",
-    "url": "https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it",
-    "upvotes": 44,
-    "author": "ahstilde",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=32384687"
-  },
-  {
     "title": "Learn Effective C++ for Embedded Code",
     "url": "https://luckyresistor.me/knowledge/learn-cpp/",
-    "upvotes": 55,
+    "upvotes": 59,
     "author": "manchoz",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32383265"
@@ -130,113 +146,97 @@
   {
     "title": "Coqui TTS: a deep learning toolkit for Text-to-Speech",
     "url": "https://github.com/coqui-ai/TTS",
-    "upvotes": 51,
+    "upvotes": 58,
     "author": "tim--",
-    "comments": 2,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=32383227"
+  },
+  {
+    "title": "Why does gRPC insist on trailers?",
+    "url": "https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers",
+    "upvotes": 294,
+    "author": "strzalek",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=32380769"
+  },
+  {
+    "title": "Diffsound: Discrete Diffusion Model for Text-to-Sound Generation",
+    "url": "http://dongchaoyang.top/text-to-sound-synthesis-demo/",
+    "upvotes": 17,
+    "author": "selimonder",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32384074"
   },
   {
     "title": "Trealla – A compact, efficient Prolog interpreter written in plain-old C",
     "url": "https://github.com/trealla-prolog/trealla",
-    "upvotes": 93,
+    "upvotes": 95,
     "author": "nikolay",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=32382514"
   },
   {
+    "title": "Blosxom: The Zen of Blogging",
+    "url": "http://www.blosxom.com/",
+    "upvotes": 38,
+    "author": "Tomte",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=32383099"
+  },
+  {
     "title": "Official Firefox add-on bringing offline translation support to Firefox",
     "url": "https://alternativeto.net/news/2022/6/official-firefox-translation-add-on-now-available-bringing-offline-translation-support-to-firefox/",
-    "upvotes": 123,
+    "upvotes": 131,
     "author": "bit-man",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=32384307"
   },
   {
-    "title": "Ask HN: Have you ever inherited a code base you thought was well done?",
-    "url": "item?id=32384769",
-    "upvotes": 12,
-    "author": "falafelite",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=32384769"
+    "title": "Adtech giant Criteo faces $65M fine in France for GDPR consent breaches",
+    "url": "https://techcrunch.com/2022/08/05/criteo-gdpr-breaches-cnil/",
+    "upvotes": 40,
+    "author": "robin_reala",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=32384495"
   },
   {
-    "title": "Blosxom: The Zen of Blogging",
-    "url": "http://www.blosxom.com/",
-    "upvotes": 34,
-    "author": "Tomte",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=32383099"
+    "title": "Debugging bare-metal STM32 from the seventh level of hell",
+    "url": "https://jpieper.com/2022/08/05/debugging-bare-metal-stm32-from-the-seventh-level-of-hell/",
+    "upvotes": 140,
+    "author": "jpieper",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=32381448"
   },
   {
     "title": "The Definition of Obsession? 10 Years with a Citroën C6",
     "url": "https://driventowrite.com/2021/01/04/citroen-c6-long-term-test/",
     "upvotes": 96,
     "author": "Kaibeezy",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=32375095"
   },
   {
-    "title": "Debugging bare-metal STM32 from the seventh level of hell",
-    "url": "https://jpieper.com/2022/08/05/debugging-bare-metal-stm32-from-the-seventh-level-of-hell/",
-    "upvotes": 135,
-    "author": "jpieper",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=32381448"
-  },
-  {
-    "title": "Diffsound: Discrete Diffusion Model for Text-to-Sound Generation",
-    "url": "http://dongchaoyang.top/text-to-sound-synthesis-demo/",
-    "upvotes": 12,
-    "author": "selimonder",
+    "title": "Run your own DALL-E-like image generator",
+    "url": "https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/",
+    "upvotes": 5,
+    "author": "pwillia7",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32384074"
-  },
-  {
-    "title": "The “bicameral mind” 30 years on",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/17509238/",
-    "upvotes": 151,
-    "author": "evo_9",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=32380731"
-  },
-  {
-    "title": "NIST’s Post-Quantum Cryptography Standards",
-    "url": "https://www.schneier.com/blog/archives/2022/08/nists-post-quantum-cryptography-standards.html",
-    "upvotes": 27,
-    "author": "stargrave",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32384425"
-  },
-  {
-    "title": "Adtech giant Criteo faces $65M fine in France for GDPR consent breaches",
-    "url": "https://techcrunch.com/2022/08/05/criteo-gdpr-breaches-cnil/",
-    "upvotes": 30,
-    "author": "robin_reala",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=32384495"
+    "link": "https://news.ycombinator.com/item?id=32384646"
   },
   {
     "title": "Ask HN: What's the next big thing that few people are talking about?",
     "url": "item?id=32378695",
-    "upvotes": 77,
+    "upvotes": 89,
     "author": "ScottStevenson",
-    "comments": 180,
+    "comments": 233,
     "link": "https://news.ycombinator.com/item?id=32378695"
   },
   {
-    "title": "The East African Experiment",
-    "url": "https://www.karlsnotes.com/the-east-african-federation/",
-    "upvotes": 26,
-    "author": "torts",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=32383426"
-  },
-  {
-    "title": "To Become Wise, Do Less",
-    "url": "https://leveragethoughts.substack.com/p/to-become-wise-do-less",
-    "upvotes": 118,
-    "author": "maverickJ",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=32375667"
+    "title": "NIST’s Post-Quantum Cryptography Standards",
+    "url": "https://www.schneier.com/blog/archives/2022/08/nists-post-quantum-cryptography-standards.html",
+    "upvotes": 32,
+    "author": "stargrave",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32384425"
   }
 ]
