@@ -1,16 +1,24 @@
 [
   {
+    "title": "Post-Apocalyptic Programming",
+    "url": "https://zserge.com/posts/post-apocalyptic-programming/",
+    "upvotes": 27,
+    "author": "pjmlp",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32383686"
+  },
+  {
     "title": "I 10x'd a TI-84 emulator's speed by replacing a switch-case",
     "url": "https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html",
-    "upvotes": 241,
+    "upvotes": 257,
     "author": "xena",
-    "comments": 84,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=32381550"
   },
   {
     "title": "Wizard with a Time Machine",
     "url": "https://microship.com/wizard-with-a-time-machine/",
-    "upvotes": 13,
+    "upvotes": 22,
     "author": "walterbell",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32374227"
@@ -18,7 +26,7 @@
   {
     "title": "A physical wiring diagram for the human immune system",
     "url": "https://www.nature.com/articles/s41586-022-05028-x",
-    "upvotes": 166,
+    "upvotes": 178,
     "author": "bookofjoe",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=32381790"
@@ -26,111 +34,111 @@
   {
     "title": "Why does gRPC insist on trailers?",
     "url": "https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers",
-    "upvotes": 266,
+    "upvotes": 272,
     "author": "strzalek",
-    "comments": 89,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=32380769"
+  },
+  {
+    "title": "Why your daily stand-ups don't work and how to fix them",
+    "url": "https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html",
+    "upvotes": 77,
+    "author": "lucasfcosta",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=32382365"
   },
   {
     "title": "Trealla – A compact, efficient Prolog interpreter written in plain-old C",
     "url": "https://github.com/trealla-prolog/trealla",
-    "upvotes": 68,
+    "upvotes": 71,
     "author": "nikolay",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32382514"
-  },
-  {
-    "title": "Post-Apocalyptic Programming",
-    "url": "https://zserge.com/posts/post-apocalyptic-programming/",
-    "upvotes": 10,
-    "author": "pjmlp",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32383686"
-  },
-  {
-    "title": "The Definition of Obsession? 10 Years with a Citroën C6",
-    "url": "https://driventowrite.com/2021/01/04/citroen-c6-long-term-test/",
-    "upvotes": 78,
-    "author": "Kaibeezy",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=32375095"
   },
   {
     "title": "Learn Effective C++ for Embedded Code",
     "url": "https://luckyresistor.me/knowledge/learn-cpp/",
-    "upvotes": 20,
+    "upvotes": 25,
     "author": "manchoz",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32383265"
   },
   {
-    "title": "Why your daily stand-ups don't work and how to fix them",
-    "url": "https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html",
-    "upvotes": 63,
-    "author": "lucasfcosta",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=32382365"
-  },
-  {
-    "title": "Mysterious holes on the seafloor",
-    "url": "https://oceanexplorer.noaa.gov/news/oer-updates/2022/mysterious-holes-seafloor/mysterious-holes-seafloor.html",
-    "upvotes": 320,
-    "author": "smartmic",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=32379066"
-  },
-  {
-    "title": "How Dangerous Is Peter Thiel?",
-    "url": "https://www.motherjones.com/politics/2021/11/how-dangerous-is-peter-thiel/",
-    "upvotes": 6,
-    "author": "abrax3141",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32383834"
-  },
-  {
-    "title": "From throwaway side project to Switch in 2 years: my indie gamedev story",
-    "url": "https://kellsgame.com/how-kells-came-to-be/",
-    "upvotes": 197,
-    "author": "pdrummond",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=32379927"
-  },
-  {
     "title": "Coqui TTS: a deep learning toolkit for Text-to-Speech",
     "url": "https://github.com/coqui-ai/TTS",
-    "upvotes": 12,
+    "upvotes": 19,
     "author": "tim--",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32383227"
   },
   {
-    "title": "Debugging bare-metal STM32 from the seventh level of hell",
-    "url": "https://jpieper.com/2022/08/05/debugging-bare-metal-stm32-from-the-seventh-level-of-hell/",
-    "upvotes": 113,
-    "author": "jpieper",
+    "title": "The Definition of Obsession? 10 Years with a Citroën C6",
+    "url": "https://driventowrite.com/2021/01/04/citroen-c6-long-term-test/",
+    "upvotes": 80,
+    "author": "Kaibeezy",
     "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=32381448"
+    "link": "https://news.ycombinator.com/item?id=32375095"
   },
   {
-    "title": "The “bicameral mind” 30 years on",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/17509238/",
-    "upvotes": 138,
-    "author": "evo_9",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=32380731"
+    "title": "Could learning algebra in my 60s make me smarter?",
+    "url": "https://www.theguardian.com/books/2022/aug/07/could-learning-algebra-in-my-60s-make-me-smarter-alec-wilkinson-a-divine-language-extract",
+    "upvotes": 17,
+    "author": "trocado",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=32375955"
+  },
+  {
+    "title": "Mysterious holes on the seafloor",
+    "url": "https://oceanexplorer.noaa.gov/news/oer-updates/2022/mysterious-holes-seafloor/mysterious-holes-seafloor.html",
+    "upvotes": 327,
+    "author": "smartmic",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=32379066"
   },
   {
     "title": "Blosxom: The Zen of Blogging",
     "url": "http://www.blosxom.com/",
-    "upvotes": 13,
+    "upvotes": 20,
     "author": "Tomte",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=32383099"
   },
   {
+    "title": "From throwaway side project to Switch in 2 years: my indie gamedev story",
+    "url": "https://kellsgame.com/how-kells-came-to-be/",
+    "upvotes": 204,
+    "author": "pdrummond",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=32379927"
+  },
+  {
+    "title": "Debugging bare-metal STM32 from the seventh level of hell",
+    "url": "https://jpieper.com/2022/08/05/debugging-bare-metal-stm32-from-the-seventh-level-of-hell/",
+    "upvotes": 116,
+    "author": "jpieper",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=32381448"
+  },
+  {
+    "title": "The “bicameral mind” 30 years on",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17509238/",
+    "upvotes": 141,
+    "author": "evo_9",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=32380731"
+  },
+  {
+    "title": "Tom Blomfield: Monzo Growth",
+    "url": "https://tomblomfield.com/post/691384431502557184/monzo-growth",
+    "upvotes": 14,
+    "author": "angristan",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32383448"
+  },
+  {
     "title": "In-browser retro-futuristic tank game, open source",
     "url": "https://synthblast.com",
-    "upvotes": 213,
+    "upvotes": 218,
     "author": "brianrisk",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=32379430"
@@ -138,105 +146,97 @@
   {
     "title": "The ejector seats that fire through the floor",
     "url": "https://www.bbc.com/future/article/20220802-why-some-aircraft-had-downward-firing-ejector-seats",
-    "upvotes": 77,
+    "upvotes": 79,
     "author": "Hooke",
-    "comments": 53,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=32375970"
   },
   {
     "title": "To Become Wise, Do Less",
     "url": "https://leveragethoughts.substack.com/p/to-become-wise-do-less",
-    "upvotes": 83,
+    "upvotes": 86,
     "author": "maverickJ",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=32375667"
   },
   {
-    "title": "Tom Blomfield: Monzo Growth",
-    "url": "https://tomblomfield.com/post/691384431502557184/monzo-growth",
+    "title": "The East African Experiment",
+    "url": "https://www.karlsnotes.com/the-east-african-federation/",
     "upvotes": 8,
-    "author": "angristan",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32383448"
+    "author": "torts",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32383426"
+  },
+  {
+    "title": "Look at median, and not mean GDP per capita",
+    "url": "https://medianism.org/",
+    "upvotes": 223,
+    "author": "amin",
+    "comments": 177,
+    "link": "https://news.ycombinator.com/item?id=32380079"
   },
   {
     "title": "The mitochondrial NAD+ transporter SLC25A51 is a fasting-induced gene",
     "url": "https://www.metabolismjournal.com/article/S0026-0495(22)00153-6/fulltext",
-    "upvotes": 87,
+    "upvotes": 89,
     "author": "bilsbie",
-    "comments": 36,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=32380772"
   },
   {
     "title": "Our BMCs are not great at keeping accurate time",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BMCsNotGreatAtKeepingTime",
-    "upvotes": 11,
+    "upvotes": 15,
     "author": "zdw",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32382860"
   },
   {
-    "title": "Look at median, and not mean GDP per capita",
-    "url": "https://medianism.org/",
-    "upvotes": 218,
-    "author": "amin",
-    "comments": 173,
-    "link": "https://news.ycombinator.com/item?id=32380079"
+    "title": "The day the music died? Denmark Street’s new ‘digitally enabled streetscape’",
+    "url": "https://www.theguardian.com/artanddesign/2022/aug/07/outernet-london-now-building-review-denmark-street-tottenham-court-road-redevelopment-soho",
+    "upvotes": 42,
+    "author": "Kaibeezy",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=32375756"
   },
   {
     "title": "Making Quieter Technology",
     "url": "https://nicolasbouliane.com/blog/silence",
-    "upvotes": 130,
+    "upvotes": 131,
     "author": "nicbou",
-    "comments": 106,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=32379139"
-  },
-  {
-    "title": "The day the music died? Denmark Street’s new ‘digitally enabled streetscape’",
-    "url": "https://www.theguardian.com/artanddesign/2022/aug/07/outernet-london-now-building-review-denmark-street-tottenham-court-road-redevelopment-soho",
-    "upvotes": 39,
-    "author": "Kaibeezy",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=32375756"
-  },
-  {
-    "title": "The East African Experiment",
-    "url": "https://www.karlsnotes.com/the-east-african-federation/",
-    "upvotes": 5,
-    "author": "torts",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32383426"
   },
   {
     "title": "The Last Naval Battle of World War 2",
     "url": "https://www.navygeneralboard.com/the-last-naval-battle-of-world-war-2/",
-    "upvotes": 75,
+    "upvotes": 76,
     "author": "pfdietz",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=32380471"
   },
   {
     "title": "The First Three Discworld Games",
     "url": "https://www.filfre.net/2022/08/discworld-on-page-and-screen-part-2-the-first-three-discworld-games/",
-    "upvotes": 103,
+    "upvotes": 104,
     "author": "rcarmo",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32366576"
   },
   {
-    "title": "The Ends of Education",
-    "url": "http://www.antipope.org/charlie/blog-static/2022/08/the-end-of-education.html",
-    "upvotes": 36,
-    "author": "zwirbl",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=32383375"
-  },
-  {
     "title": "Cellular recovery after prolonged warm ischaemia of the whole body",
     "url": "https://www.nature.com/articles/s41586-022-05016-1",
-    "upvotes": 115,
+    "upvotes": 118,
     "author": "harel",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=32378085"
+  },
+  {
+    "title": "Fake IMDB credits",
+    "url": "https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits",
+    "upvotes": 484,
+    "author": "HelenePhisher",
+    "comments": 207,
+    "link": "https://news.ycombinator.com/item?id=32377063"
   }
 ]
