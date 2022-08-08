@@ -1,40 +1,40 @@
 [
   {
-    "title": "$250K Longevity Prize Announced",
-    "url": "https://www.longevityprize.com/",
-    "upvotes": 23,
-    "author": "dannyobrien",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=32383171"
-  },
-  {
     "title": "I 10x'd a TI-84 emulator's speed by replacing a switch-case",
     "url": "https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html",
-    "upvotes": 208,
+    "upvotes": 215,
     "author": "xena",
-    "comments": 70,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=32381550"
   },
   {
     "title": "A physical wiring diagram for the human immune system",
     "url": "https://www.nature.com/articles/s41586-022-05028-x",
-    "upvotes": 136,
+    "upvotes": 144,
     "author": "bookofjoe",
-    "comments": 16,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32381790"
   },
   {
     "title": "Why does gRPC insist on trailers?",
     "url": "https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers",
-    "upvotes": 238,
+    "upvotes": 246,
     "author": "strzalek",
-    "comments": 75,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=32380769"
+  },
+  {
+    "title": "The Ends of Education",
+    "url": "http://www.antipope.org/charlie/blog-static/2022/08/the-end-of-education.html",
+    "upvotes": 11,
+    "author": "zwirbl",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32383375"
   },
   {
     "title": "Trealla – A compact, efficient Prolog interpreter written in plain-old C",
     "url": "https://github.com/trealla-prolog/trealla",
-    "upvotes": 48,
+    "upvotes": 53,
     "author": "nikolay",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=32382514"
@@ -42,57 +42,57 @@
   {
     "title": "The Definition of Obsession? 10 Years with a Citroën C6",
     "url": "https://driventowrite.com/2021/01/04/citroen-c6-long-term-test/",
-    "upvotes": 63,
+    "upvotes": 68,
     "author": "Kaibeezy",
-    "comments": 22,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=32375095"
   },
   {
     "title": "Mysterious holes on the seafloor",
     "url": "https://oceanexplorer.noaa.gov/news/oer-updates/2022/mysterious-holes-seafloor/mysterious-holes-seafloor.html",
-    "upvotes": 282,
+    "upvotes": 294,
     "author": "smartmic",
-    "comments": 95,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=32379066"
+  },
+  {
+    "title": "Why your daily stand-ups don't work and how to fix them",
+    "url": "https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html",
+    "upvotes": 41,
+    "author": "lucasfcosta",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32382365"
   },
   {
     "title": "From throwaway side project to Switch in 2 years: my indie gamedev story",
     "url": "https://kellsgame.com/how-kells-came-to-be/",
-    "upvotes": 173,
+    "upvotes": 179,
     "author": "pdrummond",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=32379927"
   },
   {
     "title": "The “bicameral mind” 30 years on",
     "url": "https://pubmed.ncbi.nlm.nih.gov/17509238/",
-    "upvotes": 128,
+    "upvotes": 130,
     "author": "evo_9",
-    "comments": 72,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=32380731"
-  },
-  {
-    "title": "Why your daily stand-ups don't work and how to fix them",
-    "url": "https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html",
-    "upvotes": 31,
-    "author": "lucasfcosta",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=32382365"
   },
   {
     "title": "Debugging bare-metal STM32 from the seventh level of hell",
     "url": "https://jpieper.com/2022/08/05/debugging-bare-metal-stm32-from-the-seventh-level-of-hell/",
-    "upvotes": 92,
+    "upvotes": 97,
     "author": "jpieper",
-    "comments": 25,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=32381448"
   },
   {
     "title": "In-browser retro-futuristic tank game, open source",
     "url": "https://synthblast.com",
-    "upvotes": 192,
+    "upvotes": 197,
     "author": "brianrisk",
-    "comments": 46,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=32379430"
   },
   {
@@ -100,45 +100,45 @@
     "url": "https://www.bbc.com/future/article/20220802-why-some-aircraft-had-downward-firing-ejector-seats",
     "upvotes": 73,
     "author": "Hooke",
-    "comments": 44,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=32375970"
+  },
+  {
+    "title": "Blosxom: The Zen of Blogging",
+    "url": "http://www.blosxom.com/",
+    "upvotes": 6,
+    "author": "Tomte",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32383099"
   },
   {
     "title": "To Become Wise, Do Less",
     "url": "https://leveragethoughts.substack.com/p/to-become-wise-do-less",
-    "upvotes": 67,
+    "upvotes": 71,
     "author": "maverickJ",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=32375667"
   },
   {
     "title": "The mitochondrial NAD+ transporter SLC25A51 is a fasting-induced gene",
     "url": "https://www.metabolismjournal.com/article/S0026-0495(22)00153-6/fulltext",
-    "upvotes": 78,
+    "upvotes": 81,
     "author": "bilsbie",
-    "comments": 23,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=32380772"
   },
   {
     "title": "Look at median, and not mean GDP per capita",
     "url": "https://medianism.org/",
-    "upvotes": 193,
+    "upvotes": 200,
     "author": "amin",
-    "comments": 159,
+    "comments": 166,
     "link": "https://news.ycombinator.com/item?id=32380079"
-  },
-  {
-    "title": "Blosxom: The Zen of Blogging",
-    "url": "http://www.blosxom.com/",
-    "upvotes": 5,
-    "author": "Tomte",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32383099"
   },
   {
     "title": "The day the music died? Denmark Street’s new ‘digitally enabled streetscape’",
     "url": "https://www.theguardian.com/artanddesign/2022/aug/07/outernet-london-now-building-review-denmark-street-tottenham-court-road-redevelopment-soho",
-    "upvotes": 30,
+    "upvotes": 34,
     "author": "Kaibeezy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32375756"
@@ -146,25 +146,33 @@
   {
     "title": "Making Quieter Technology",
     "url": "https://nicolasbouliane.com/blog/silence",
-    "upvotes": 119,
+    "upvotes": 122,
     "author": "nicbou",
-    "comments": 86,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=32379139"
   },
   {
     "title": "The Last Naval Battle of World War 2",
     "url": "https://www.navygeneralboard.com/the-last-naval-battle-of-world-war-2/",
-    "upvotes": 67,
+    "upvotes": 70,
     "author": "pfdietz",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=32380471"
   },
   {
+    "title": "Learn Effective C++ for Embedded Code",
+    "url": "https://luckyresistor.me/knowledge/learn-cpp/",
+    "upvotes": 4,
+    "author": "manchoz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32383265"
+  },
+  {
     "title": "Brain Fills in the Blanks with Experience",
     "url": "https://nautil.us/how-your-brain-fills-in-the-blanks-with-experience-22692/",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "dnetesn",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32375839"
   },
   {
@@ -172,7 +180,7 @@
     "url": "https://www.filfre.net/2022/08/discworld-on-page-and-screen-part-2-the-first-three-discworld-games/",
     "upvotes": 95,
     "author": "rcarmo",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=32366576"
   },
   {
@@ -186,7 +194,7 @@
   {
     "title": "A generically typed pipe function in TypeScript",
     "url": "https://github.com/MathisBullinger/froebel",
-    "upvotes": 125,
+    "upvotes": 126,
     "author": "upzylon",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=32377646"
@@ -194,45 +202,37 @@
   {
     "title": "Fake IMDB credits",
     "url": "https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits",
-    "upvotes": 467,
+    "upvotes": 471,
     "author": "HelenePhisher",
-    "comments": 198,
+    "comments": 200,
     "link": "https://news.ycombinator.com/item?id=32377063"
-  },
-  {
-    "title": "The Apollo On-Board Computers",
-    "url": "https://web.archive.org/web/20120827000829/http://history.nasa.gov/afj/compessay.htm",
-    "upvotes": 42,
-    "author": "rayascott",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=32375448"
-  },
-  {
-    "title": "BuildZoom",
-    "url": "https://jobs.lever.co/buildzoom"
   },
   {
     "title": "How Your Dust Collector Works",
     "url": "https://www.finewoodworking.com/2012/12/17/all-about-dust-collection",
-    "upvotes": 33,
+    "upvotes": 35,
     "author": "walterbell",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32366379"
   },
   {
+    "title": "Let's Talk SkipList",
+    "url": "https://ketansingh.me/posts/lets-talk-skiplist/",
+    "upvotes": 109,
+    "author": "signa11",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=32374278"
+  },
+  {
     "title": "Class Action Targets Experian over Account Security",
     "url": "https://krebsonsecurity.com/2022/08/class-action-targets-experian-over-account-security/",
-    "upvotes": 208,
+    "upvotes": 209,
     "author": "feross",
     "comments": 108,
     "link": "https://news.ycombinator.com/item?id=32378869"
   },
   {
-    "title": "Let's Talk SkipList",
-    "url": "https://ketansingh.me/posts/lets-talk-skiplist/",
-    "upvotes": 106,
-    "author": "signa11",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=32374278"
+    "title": "BuildZoom",
+    "url": "https://jobs.lever.co/buildzoom"
   }
 ]
