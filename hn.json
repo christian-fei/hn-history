@@ -2,31 +2,31 @@
   {
     "title": "The Story of Mel, a Real Programmer",
     "url": "https://www.cs.utah.edu/~elb/folklore/mel.html",
-    "upvotes": 66,
+    "upvotes": 85,
     "author": "thunderbong",
-    "comments": 19,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=32395589"
   },
   {
     "title": "How fast is 12th Gen Intel Core?",
     "url": "https://frame.work/blog/how-fast-is-12th-gen-intel-core",
-    "upvotes": 234,
+    "upvotes": 239,
     "author": "nreece",
-    "comments": 213,
+    "comments": 219,
     "link": "https://news.ycombinator.com/item?id=32393634"
   },
   {
     "title": "$5.6B cloud company Fivetran acquired its way to survival",
     "url": "https://www.forbes.com/sites/kenrickcai/2022/08/08/the-56-billion-internet-plumbers/",
-    "upvotes": 42,
+    "upvotes": 45,
     "author": "zegl",
-    "comments": 28,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=32395076"
   },
   {
     "title": "Show HN: Yare 2 – Programmable RTS game",
     "url": "https://www.yare.io",
-    "upvotes": 52,
+    "upvotes": 61,
     "author": "levmiseri",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=32394902"
@@ -34,106 +34,122 @@
   {
     "title": "I replaced all our blog thumbnails using DALL·E 2",
     "url": "https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/",
-    "upvotes": 500,
+    "upvotes": 511,
     "author": "dsmmcken",
-    "comments": 260,
+    "comments": 263,
     "link": "https://news.ycombinator.com/item?id=32390526"
   },
   {
     "title": "The tooling ecosystem that adds joy to KiCad",
     "url": "https://media.ccc.de/v/mch2022-332-the-tooling-ecosystem-that-adds-joy-to-kicad",
-    "upvotes": 65,
+    "upvotes": 69,
     "author": "fest",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=32394607"
-  },
-  {
-    "title": "A quick and practical “MSI” hash table",
-    "url": "https://nullprogram.com/blog/2022/08/08/",
-    "upvotes": 22,
-    "author": "rcarmo",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=32395256"
   },
   {
     "title": "GitHub accounts of people who contributed to tornado repos just got deleted",
     "url": "https://twitter.com/bantg/status/1556721709931175937",
-    "upvotes": 25,
+    "upvotes": 44,
     "author": "ETH_start",
-    "comments": 3,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32395971"
+  },
+  {
+    "title": "A quick and practical “MSI” hash table",
+    "url": "https://nullprogram.com/blog/2022/08/08/",
+    "upvotes": 24,
+    "author": "rcarmo",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=32395256"
   },
   {
     "title": "DevDash: A highly configurable terminal dashboard",
     "url": "https://thedevdash.com/",
-    "upvotes": 57,
+    "upvotes": 62,
     "author": "feross",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32385470"
   },
   {
-    "title": "De-anonymizing programmers from binaries",
-    "url": "https://arxiv.org/abs/1512.08546",
-    "upvotes": 36,
-    "author": "pvitz",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=32384147"
+    "title": "Thank You, Firebug",
+    "url": "https://getfirebug.com/",
+    "upvotes": 16,
+    "author": "memorable",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32395518"
   },
   {
     "title": "The case against a C alternative",
     "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
-    "upvotes": 153,
+    "upvotes": 161,
     "author": "lerno",
-    "comments": 211,
+    "comments": 214,
     "link": "https://news.ycombinator.com/item?id=32392161"
   },
   {
     "title": "MantaRay: Open-Source Ray Tracer",
     "url": "https://github.com/ange-yaghi/manta-ray",
-    "upvotes": 118,
+    "upvotes": 123,
     "author": "kevmo314",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=32392599"
   },
   {
+    "title": "De-anonymizing programmers from binaries",
+    "url": "https://arxiv.org/abs/1512.08546",
+    "upvotes": 37,
+    "author": "pvitz",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32384147"
+  },
+  {
+    "title": "Spiders Seem to Have REM-Like Sleep and May Even Dream",
+    "url": "https://www.scientificamerican.com/article/spiders-seem-to-have-rem-like-sleep-and-may-even-dream/",
+    "upvotes": 10,
+    "author": "alistairSH",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32396061"
+  },
+  {
     "title": "Teardown of a quartz crystal oscillator and the tiny IC inside",
     "url": "https://www.righto.com/2021/02/teardown-of-quartz-crystal-oscillator.html",
-    "upvotes": 62,
+    "upvotes": 67,
     "author": "ivanvas",
-    "comments": 12,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32383943"
   },
   {
     "title": "A biochemist’s view of life’s origin reframes cancer and aging",
     "url": "https://www.quantamagazine.org/a-biochemists-view-of-lifes-origin-reframes-cancer-and-aging-20220808/",
-    "upvotes": 108,
+    "upvotes": 112,
     "author": "bookofjoe",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=32392937"
   },
   {
     "title": "The productivity tax you pay for context switching",
     "url": "https://async.twist.com/context-switching/",
-    "upvotes": 158,
+    "upvotes": 166,
     "author": "andsoitis",
-    "comments": 35,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=32390499"
-  },
-  {
-    "title": "Write a note to your spouse every day",
-    "url": "https://jdnoc.com/note/",
-    "upvotes": 223,
-    "author": "jordanmoconnor",
-    "comments": 151,
-    "link": "https://news.ycombinator.com/item?id=32393545"
   },
   {
     "title": "From Roots to Polynomials",
     "url": "http://blog.pkh.me/p/31-from-roots-to-polynomials.html",
-    "upvotes": 11,
+    "upvotes": 13,
     "author": "signa11",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32383028"
+  },
+  {
+    "title": "Write a note to your spouse every day",
+    "url": "https://jdnoc.com/note/",
+    "upvotes": 233,
+    "author": "jordanmoconnor",
+    "comments": 158,
+    "link": "https://news.ycombinator.com/item?id=32393545"
   },
   {
     "title": "Launch HN: Wolfia (YC S22) – A mobile app emulator you can share with a link",
@@ -144,27 +160,27 @@
     "link": "https://news.ycombinator.com/item?id=32388410"
   },
   {
-    "title": "Man arrested for promoting jury nullification wins federal case",
-    "url": "https://reason.com/2022/08/05/he-was-arrested-for-promoting-jury-nullification-a-federal-court-says-that-was-illegal/",
-    "upvotes": 272,
-    "author": "olalonde",
-    "comments": 226,
-    "link": "https://news.ycombinator.com/item?id=32392997"
+    "title": "Our brain is a prediction machine that is always active",
+    "url": "https://www.mpi.nl/news/our-brain-prediction-machine-always-active",
+    "upvotes": 4,
+    "author": "giuliomagnifico",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32395840"
   },
   {
-    "title": "Uses for an old Android device",
-    "url": "https://www.computerworld.com/article/2487680/20-great-uses-for-an-old-android-device.html",
-    "upvotes": 38,
-    "author": "obert",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=32383835"
+    "title": "Man arrested for promoting jury nullification wins federal case",
+    "url": "https://reason.com/2022/08/05/he-was-arrested-for-promoting-jury-nullification-a-federal-court-says-that-was-illegal/",
+    "upvotes": 278,
+    "author": "olalonde",
+    "comments": 236,
+    "link": "https://news.ycombinator.com/item?id=32392997"
   },
   {
     "title": "The Reluctant Prophet of Effective Altruism",
     "url": "https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism",
-    "upvotes": 80,
+    "upvotes": 84,
     "author": "mitchbob",
-    "comments": 94,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=32386984"
   },
   {
@@ -172,32 +188,32 @@
     "url": "https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/",
     "upvotes": 783,
     "author": "Hard_Space",
-    "comments": 257,
+    "comments": 258,
     "link": "https://news.ycombinator.com/item?id=32384653"
-  },
-  {
-    "title": "Thank You, Firebug",
-    "url": "https://getfirebug.com/",
-    "upvotes": 4,
-    "author": "memorable",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32395518"
-  },
-  {
-    "title": "USB knob box doubles as a Blackmagic Designs camera remote",
-    "url": "https://bikerglen.com/blog/usb-knobs-that-double-as-a-blackmagic-remote/",
-    "upvotes": 83,
-    "author": "zdw",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=32382868"
   },
   {
     "title": "Chip Backdoors: Assessing the Threat",
     "url": "https://semiengineering.com/chip-backdoors-assessing-the-threat/",
-    "upvotes": 62,
+    "upvotes": 67,
     "author": "rbanffy",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=32384868"
+  },
+  {
+    "title": "USB knob box doubles as a Blackmagic Designs camera remote",
+    "url": "https://bikerglen.com/blog/usb-knobs-that-double-as-a-blackmagic-remote/",
+    "upvotes": 85,
+    "author": "zdw",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=32382868"
+  },
+  {
+    "title": "Our BMCs are not great at keeping accurate time",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BMCsNotGreatAtKeepingTime",
+    "upvotes": 54,
+    "author": "zdw",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=32382860"
   },
   {
     "title": "Doomed to repeat history? Lessons from the crypto wars of the 1990s",
@@ -208,35 +224,19 @@
     "link": "https://news.ycombinator.com/item?id=32390605"
   },
   {
-    "title": "Our BMCs are not great at keeping accurate time",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BMCsNotGreatAtKeepingTime",
-    "upvotes": 49,
-    "author": "zdw",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=32382860"
-  },
-  {
     "title": "Three people in critical condition from Google data center 'electrical incident'",
     "url": "https://www.sfgate.com/news/article/google-electrical-incident-injures-3-17360321.php",
-    "upvotes": 103,
+    "upvotes": 108,
     "author": "Jimmc414",
-    "comments": 44,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=32393536"
   },
   {
     "title": "A content model is not a design system",
     "url": "https://alistapart.com/article/a-content-model-is-not-a-design-system/",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "labrador",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=32392202"
-  },
-  {
-    "title": "Spiders Seem to Have REM-Like Sleep and May Even Dream",
-    "url": "https://www.scientificamerican.com/article/spiders-seem-to-have-rem-like-sleep-and-may-even-dream/",
-    "upvotes": 3,
-    "author": "alistairSH",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32396061"
   }
 ]
