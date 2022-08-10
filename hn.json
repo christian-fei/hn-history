@@ -2,107 +2,107 @@
   {
     "title": "Faster Ruby: Thoughts from the Outside",
     "url": "https://www.mgaudet.ca/technical/2022/8/9/faster-ruby-thoughts-from-the-outside",
-    "upvotes": 41,
+    "upvotes": 53,
     "author": "pvsukale3",
-    "comments": 11,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=32408716"
   },
   {
     "title": "Hydroponics: Growing an Appreciation for Plants",
     "url": "https://www.bunniestudios.com/blog/?p=6481",
-    "upvotes": 52,
+    "upvotes": 67,
     "author": "zdw",
-    "comments": 11,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32398353"
   },
   {
     "title": "JNumPy: Writing high-performance C extensions for Python in minutes",
     "url": "https://github.com/Suzhou-Tongyuan/jnumpy",
-    "upvotes": 90,
+    "upvotes": 93,
     "author": "xgdgsc",
-    "comments": 35,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=32407451"
-  },
-  {
-    "title": "Area 5150: 8088 MPH gets a successor",
-    "url": "https://scalibq.wordpress.com/2022/08/08/area-5150-8088-mph-gets-a-successor/",
-    "upvotes": 133,
-    "author": "zdw",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=32394195"
   },
   {
     "title": "Essential Climbing Knots",
     "url": "https://www.climbing.com/skills/essential-climbing-knots-complete-guide/",
-    "upvotes": 56,
+    "upvotes": 60,
     "author": "bryanrasmussen",
-    "comments": 56,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=32408393"
+  },
+  {
+    "title": "Area 5150: 8088 MPH gets a successor",
+    "url": "https://scalibq.wordpress.com/2022/08/08/area-5150-8088-mph-gets-a-successor/",
+    "upvotes": 137,
+    "author": "zdw",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=32394195"
+  },
+  {
+    "title": "A History of Lua",
+    "url": "https://www.lua.org/history.html",
+    "upvotes": 57,
+    "author": "atan2",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=32407430"
   },
   {
     "title": "Baby’s First Garbage Collector",
     "url": "https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/",
-    "upvotes": 87,
+    "upvotes": 90,
     "author": "bshanks",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=32406883"
   },
   {
-    "title": "Making a Video of a Single Window",
-    "url": "https://tratt.net/laurie/blog/2022/making_a_video_of_a_single_window.html",
-    "upvotes": 10,
-    "author": "ltratt",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=32408546"
-  },
-  {
-    "title": "A History of Lua",
-    "url": "https://www.lua.org/history.html",
-    "upvotes": 49,
-    "author": "atan2",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=32407430"
-  },
-  {
     "title": "Fishing gear accounts for an alarming amount of plastic in oceans",
     "url": "https://www.nature.org/en-us/newsroom/ca-ocean-plastic/",
-    "upvotes": 230,
+    "upvotes": 234,
     "author": "sweetheart",
-    "comments": 183,
+    "comments": 189,
     "link": "https://news.ycombinator.com/item?id=32403471"
+  },
+  {
+    "title": "Astro 1.0 – a web framework for building fast, content-focused websites",
+    "url": "https://astro.build/blog/astro-1/",
+    "upvotes": 361,
+    "author": "danielskogly",
+    "comments": 198,
+    "link": "https://news.ycombinator.com/item?id=32401159"
+  },
+  {
+    "title": "The Godfather of Complexity",
+    "url": "http://blog.computationalcomplexity.org/2022/08/the-godfather-of-complexity.html",
+    "upvotes": 36,
+    "author": "zdw",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32394176"
   },
   {
     "title": "Ashby",
     "url": "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7dcbfb52-f465-46b2-adbb-b6caccafbe0a"
   },
   {
-    "title": "The Godfather of Complexity",
-    "url": "http://blog.computationalcomplexity.org/2022/08/the-godfather-of-complexity.html",
-    "upvotes": 34,
-    "author": "zdw",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32394176"
-  },
-  {
-    "title": "Astro 1.0 – a web framework for building fast, content-focused websites",
-    "url": "https://astro.build/blog/astro-1/",
-    "upvotes": 354,
-    "author": "danielskogly",
-    "comments": 195,
-    "link": "https://news.ycombinator.com/item?id=32401159"
-  },
-  {
     "title": "Artificial synapses 10k times faster than real thing",
     "url": "https://spectrum.ieee.org/artificial-synapses",
-    "upvotes": 74,
+    "upvotes": 76,
     "author": "pseudolus",
-    "comments": 50,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=32406452"
+  },
+  {
+    "title": "How to Choose the Right Python Concurrency API",
+    "url": "https://superfastpython.com/python-concurrency-choose-api/",
+    "upvotes": 11,
+    "author": "EntICOnc",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32408577"
   },
   {
     "title": "Tcled: Pure Tcl Console Text Editor",
     "url": "https://github.com/slebetman/tcled",
-    "upvotes": 74,
+    "upvotes": 75,
     "author": "blacksqr",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32405713"
@@ -110,15 +110,15 @@
   {
     "title": "AppLovin bids $17.5B to acquire Unity",
     "url": "https://www.axios.com/2022/08/09/applovin-unity-video-game-consolidation",
-    "upvotes": 97,
+    "upvotes": 101,
     "author": "marc__1",
-    "comments": 58,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=32406563"
   },
   {
     "title": "Nvidia publishes 73k lines of 3D header files for Fermi through Ampere GPUs",
     "url": "https://www.phoronix.com/news/NVIDIA-3D-Headers-Fermi-Ampere",
-    "upvotes": 158,
+    "upvotes": 159,
     "author": "pantalaimon",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=32396638"
@@ -126,15 +126,15 @@
   {
     "title": "An incident impacting 5M accounts and private information on Twitter",
     "url": "https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accounts",
-    "upvotes": 738,
+    "upvotes": 741,
     "author": "WaitWaitWha",
-    "comments": 417,
+    "comments": 421,
     "link": "https://news.ycombinator.com/item?id=32399949"
   },
   {
     "title": "The Story of Mel",
     "url": "https://www.cs.utah.edu/~elb/folklore/mel.html",
-    "upvotes": 392,
+    "upvotes": 395,
     "author": "thunderbong",
     "comments": 149,
     "link": "https://news.ycombinator.com/item?id=32395589"
@@ -142,31 +142,39 @@
   {
     "title": "Implementing a Zero Trust Architecture",
     "url": "https://www.nccoe.nist.gov/projects/implementing-zero-trust-architecture",
-    "upvotes": 180,
+    "upvotes": 184,
     "author": "justinludwig",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=32402630"
   },
   {
     "title": "Launch HN: Windmill (YC S22) – Turn scripts into internal apps and workflows",
     "url": "item?id=32400849",
-    "upvotes": 169,
+    "upvotes": 171,
     "author": "rubenfiszel",
-    "comments": 57,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=32400849"
+  },
+  {
+    "title": "Making a Video of a Single Window",
+    "url": "https://tratt.net/laurie/blog/2022/making_a_video_of_a_single_window.html",
+    "upvotes": 13,
+    "author": "ltratt",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32408546"
   },
   {
     "title": "Falling for Kubernetes",
     "url": "https://freeman.vc/notes/falling-for-kubernetes",
-    "upvotes": 102,
+    "upvotes": 107,
     "author": "icyfox",
-    "comments": 119,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=32403746"
   },
   {
     "title": "Archaeologists Rebury ‘First-of-Its-Kind’ Roman Villa",
     "url": "https://www.smithsonianmag.com/smart-news/archaeologists-rebury-first-of-its-kind-roman-villa-180980535/",
-    "upvotes": 44,
+    "upvotes": 46,
     "author": "pepys",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32402373"
@@ -174,10 +182,26 @@
   {
     "title": "“It’s time for Apple to fix texting”",
     "url": "https://www.android.com/get-the-message/",
-    "upvotes": 640,
+    "upvotes": 649,
     "author": "Fabricio20",
-    "comments": 796,
+    "comments": 805,
     "link": "https://news.ycombinator.com/item?id=32399238"
+  },
+  {
+    "title": "Lz_xor",
+    "url": "http://richg42.blogspot.com/2022/01/lzxor.html",
+    "upvotes": 141,
+    "author": "wooosh",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=32401548"
+  },
+  {
+    "title": "Sol: Open-source Alfred/Raycast alternative for macOS",
+    "url": "https://github.com/ospfranco/sol",
+    "upvotes": 116,
+    "author": "Destiner",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=32402631"
   },
   {
     "title": "Cognitive training: A field in search of a phenomenon",
@@ -188,33 +212,9 @@
     "link": "https://news.ycombinator.com/item?id=32406422"
   },
   {
-    "title": "Lz_xor",
-    "url": "http://richg42.blogspot.com/2022/01/lzxor.html",
-    "upvotes": 140,
-    "author": "wooosh",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=32401548"
-  },
-  {
-    "title": "Sol: Open-source Alfred/Raycast alternative for macOS",
-    "url": "https://github.com/ospfranco/sol",
-    "upvotes": 112,
-    "author": "Destiner",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=32402631"
-  },
-  {
-    "title": "How to Choose the Right Python Concurrency API",
-    "url": "https://superfastpython.com/python-concurrency-choose-api/",
-    "upvotes": 7,
-    "author": "EntICOnc",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32408577"
-  },
-  {
     "title": "Show HN: 1024, a 2048 Puzzle Game",
     "url": "https://1024-game.netlify.app/",
-    "upvotes": 58,
+    "upvotes": 61,
     "author": "fuegoio",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=32405510"
@@ -222,17 +222,17 @@
   {
     "title": "Tornado cash takedown and its repercussions",
     "url": "https://rnikhil.com/2022/08/09/tornado-cash-block.html",
-    "upvotes": 110,
+    "upvotes": 111,
     "author": "whoami_nr",
-    "comments": 195,
+    "comments": 200,
     "link": "https://news.ycombinator.com/item?id=32403504"
   },
   {
-    "title": "How and why to host a blog at home",
-    "url": "https://kubesail.com/blog/2022-08-08-how-and-why",
-    "upvotes": 114,
-    "author": "erulabs",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=32401691"
+    "title": "Gmail Dynamic Email",
+    "url": "https://support.google.com/a/answer/9709409?hl=en",
+    "upvotes": 20,
+    "author": "soheil",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=32407114"
   }
 ]
