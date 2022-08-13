@@ -2,91 +2,99 @@
   {
     "title": "The Zoom installer let a researcher hack his way to root access on macOS",
     "url": "https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle",
-    "upvotes": 118,
+    "upvotes": 135,
     "author": "neodypsis",
-    "comments": 56,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=32447339"
   },
   {
     "title": "Autodesk criticised by 35 named architects",
     "url": "http://extranetevolution.com/2020/07/autodesk-criticism-extends/",
-    "upvotes": 80,
+    "upvotes": 90,
     "author": "nsoonhui",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32446907"
-  },
-  {
-    "title": "CEO Shadow Program",
-    "url": "https://about.gitlab.com/handbook/ceo/shadow/",
-    "upvotes": 275,
-    "author": "romanzubenko",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=32445192"
   },
   {
     "title": "Why StarCraft crashed frequently during development",
     "url": "https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft",
-    "upvotes": 79,
+    "upvotes": 91,
     "author": "davikr",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=32446653"
+  },
+  {
+    "title": "CEO Shadow Program",
+    "url": "https://about.gitlab.com/handbook/ceo/shadow/",
+    "upvotes": 280,
+    "author": "romanzubenko",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=32445192"
+  },
+  {
+    "title": "Choosing Julia, Matlab, Python or R in economics?",
+    "url": "https://cepr.org/voxeu/columns/choosing-numerical-programming-language-economic-research-julia-matlab-python-or-r",
+    "upvotes": 15,
+    "author": "y_lin",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32447728"
   },
   {
     "title": "The Bay Area's Lost Streetcars",
     "url": "https://sfstreetcars.co/",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "rmason",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=32447098"
   },
   {
     "title": "John Carmack: Best Programming Setup and IDE – Lex Fridman Podcast Clips",
     "url": "https://www.youtube.com/watch?v=tzr7hRXcwkw",
-    "upvotes": 59,
+    "upvotes": 75,
     "author": "branko_d",
-    "comments": 32,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=32447569"
-  },
-  {
-    "title": "Choosing Julia, Matlab, Python or R in economics?",
-    "url": "https://cepr.org/voxeu/columns/choosing-numerical-programming-language-economic-research-julia-matlab-python-or-r",
-    "upvotes": 7,
-    "author": "y_lin",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32447728"
   },
   {
     "title": "Operating well – what I learned at Stripe",
     "url": "https://samgerstenzang.substack.com/p/operating-well-what-i-learned-at",
-    "upvotes": 45,
+    "upvotes": 50,
     "author": "0x54MUR41",
-    "comments": 20,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32422197"
+  },
+  {
+    "title": "Self-taught AI shows similarities to how the brain works",
+    "url": "https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/",
+    "upvotes": 46,
+    "author": "nsoonhui",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32446771"
   },
   {
     "title": "Taktile",
     "url": "https://www.ycombinator.com/companies/taktile/jobs/3zSNBYP-frontend-developer-f-m-d"
   },
   {
-    "title": "Self-taught AI shows similarities to how the brain works",
-    "url": "https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/",
-    "upvotes": 43,
-    "author": "nsoonhui",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32446771"
+    "title": "Hyundai car software update private keys came from easily Googleable sample code",
+    "url": "https://programmingwithstyle.com/posts/howihackedmycar/",
+    "upvotes": 10,
+    "author": "ytpete",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32447650"
   },
   {
     "title": "Local simulation feature to be removed from all Autodesk Fusion 360 versions",
     "url": "https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/Updates-to-the-Fusion-360-Simulation-Extension.html",
-    "upvotes": 290,
+    "upvotes": 298,
     "author": "d4a",
-    "comments": 211,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=32445203"
   },
   {
     "title": "Improving Postgres text search speed",
     "url": "https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records",
-    "upvotes": 78,
+    "upvotes": 80,
     "author": "kuzee",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=32445780"
@@ -94,31 +102,23 @@
   {
     "title": "Emacs and Eev, Or: How to Automate Almost Everything",
     "url": "http://angg.twu.net/eev-article.html",
-    "upvotes": 76,
+    "upvotes": 79,
     "author": "swah",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=32419404"
   },
   {
-    "title": "Show HN: I will now send this to beginner programmers",
-    "url": "https://headlinedev.xyz/2022/08/12/how-to-learn-to-program.html",
-    "upvotes": 58,
-    "author": "headline",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=32446882"
-  },
-  {
     "title": "Zellij: A terminal workspace with batteries included",
     "url": "https://zellij.dev/",
-    "upvotes": 140,
+    "upvotes": 144,
     "author": "cassepipe",
-    "comments": 72,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=32444564"
   },
   {
     "title": "How to Get a PhD in Mathematics in a Timely Fashion [pdf]",
     "url": "https://sites.math.washington.edu/~billey/advice/timely.fashion.pdf",
-    "upvotes": 25,
+    "upvotes": 32,
     "author": "paulpauper",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32446693"
@@ -132,17 +132,25 @@
     "link": "https://news.ycombinator.com/item?id=32444300"
   },
   {
+    "title": "A RedMonk Conversation: API Authentication",
+    "url": "https://redmonk.com/videos/a-redmonk-conversation-api-authentication/",
+    "upvotes": 8,
+    "author": "mooreds",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32425196"
+  },
+  {
     "title": "Why should I have written ZeroMQ in C, not C++",
     "url": "https://250bpm.com/blog:4/",
-    "upvotes": 67,
+    "upvotes": 71,
     "author": "endorphine",
-    "comments": 36,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=32445394"
   },
   {
     "title": "Odd dynamics of living chiral crystals",
     "url": "https://www.nature.com/articles/s41586-022-04889-6",
-    "upvotes": 9,
+    "upvotes": 10,
     "author": "gtsnexp",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32423107"
@@ -150,7 +158,7 @@
   {
     "title": "Cancer in the Cold",
     "url": "https://www.science.org/content/blog-post/cancer-cold",
-    "upvotes": 225,
+    "upvotes": 226,
     "author": "_Microft",
     "comments": 88,
     "link": "https://news.ycombinator.com/item?id=32440688"
@@ -158,39 +166,55 @@
   {
     "title": "Bioengineered cornea restores sight to the blind and visually impaired",
     "url": "https://medicalxpress.com/news/2022-08-bioengineered-cornea-sight-visually-impaired.html",
-    "upvotes": 78,
+    "upvotes": 79,
     "author": "geox",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=32427101"
-  },
-  {
-    "title": "Subreply",
-    "url": "https://subreply.com/discover",
-    "upvotes": 56,
-    "author": "niedzielski",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=32445450"
   },
   {
     "title": "1959 Santa Susana meltdown",
     "url": "https://www.kcrw.com/news/shows/greater-la/santa-susana",
-    "upvotes": 46,
+    "upvotes": 47,
     "author": "moviewise",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=32445253"
   },
   {
+    "title": "Walking Tokyo for Seven Days",
+    "url": "https://craigmod.com/ridgeline/146/",
+    "upvotes": 5,
+    "author": "cmod",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32420980"
+  },
+  {
+    "title": "Subreply",
+    "url": "https://subreply.com/discover",
+    "upvotes": 57,
+    "author": "niedzielski",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=32445450"
+  },
+  {
     "title": "Logistics, How Did They Do It, Part III: On the Move",
     "url": "https://acoup.blog/2022/08/12/collections-logistics-how-did-they-do-it-part-iii-on-the-move/",
-    "upvotes": 192,
+    "upvotes": 193,
     "author": "Tomte",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=32440479"
   },
   {
+    "title": "Intel 286 secrets: ICE mode and F1 0F 04",
+    "url": "https://rep-lodsb.mataroa.blog/blog/intel-286-secrets-ice-mode-and-f1-0f-04/",
+    "upvotes": 92,
+    "author": "rep_lodsb",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=32443389"
+  },
+  {
     "title": "Levitator 1: copter flys from the tips",
     "url": "https://www.youtube.com/watch?v=JfP7955XipY",
-    "upvotes": 20,
+    "upvotes": 21,
     "author": "killjoywashere",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=32416267"
@@ -204,35 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=32446340"
   },
   {
-    "title": "Intel 286 secrets: ICE mode and F1 0F 04",
-    "url": "https://rep-lodsb.mataroa.blog/blog/intel-286-secrets-ice-mode-and-f1-0f-04/",
-    "upvotes": 90,
-    "author": "rep_lodsb",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=32443389"
-  },
-  {
     "title": "NSA's Warrantless Wiretaps",
     "url": "https://www.nerdylorrin.net/jerry/politics/Warrantless/WarrantlessINTRO.html",
     "upvotes": 109,
     "author": "night-rider",
-    "comments": 89,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=32443521"
-  },
-  {
-    "title": "A RedMonk Conversation: API Authentication",
-    "url": "https://redmonk.com/videos/a-redmonk-conversation-api-authentication/",
-    "upvotes": 4,
-    "author": "mooreds",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32425196"
-  },
-  {
-    "title": "US Navy Radio Communications – 1950s and 1960s",
-    "url": "https://www.navy-radio.com/",
-    "upvotes": 37,
-    "author": "fortran77",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=32445260"
   }
 ]
