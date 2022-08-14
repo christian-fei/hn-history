@@ -1,95 +1,103 @@
 [
   {
+    "title": "Muxfs – a mirroring, checksumming, self-healing filesystem layer",
+    "url": "https://sdadams.org/blog/introducing-muxfs/",
+    "upvotes": 26,
+    "author": "ciprian_craciun",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32456905"
+  },
+  {
     "title": "OctoPrint: Snappy web interface for your 3D printer",
     "url": "https://octoprint.org/",
-    "upvotes": 146,
+    "upvotes": 154,
     "author": "pabs3",
-    "comments": 68,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=32455408"
   },
   {
     "title": "The Remote Pop-In",
     "url": "https://twos.dev/thepopin.html",
-    "upvotes": 45,
+    "upvotes": 46,
     "author": "mcqueenjordan",
-    "comments": 49,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=32456107"
-  },
-  {
-    "title": "Muxfs – a mirroring, checksumming, self-healing filesystem layer",
-    "url": "https://sdadams.org/blog/introducing-muxfs/",
-    "upvotes": 8,
-    "author": "ciprian_craciun",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32456905"
   },
   {
     "title": "Quirky computing books",
     "url": "https://github.com/fogus/thunks/blob/main/reading/quirkeys.org",
-    "upvotes": 242,
+    "upvotes": 249,
     "author": "llvm",
-    "comments": 77,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=32452673"
-  },
-  {
-    "title": "Slab City reaches its boiling point",
-    "url": "https://bluedotliving.com/slab-city-reaches-its-boiling-point/",
-    "upvotes": 83,
-    "author": "FeaturelessBug",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=32454543"
   },
   {
     "title": "Hollywood’s Visual Effects Crisis",
     "url": "https://defector.com/inside-hollywoods-visual-effects-crisis/",
-    "upvotes": 51,
+    "upvotes": 62,
     "author": "bryanrasmussen",
-    "comments": 25,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=32421538"
+  },
+  {
+    "title": "Slab City reaches its boiling point",
+    "url": "https://bluedotliving.com/slab-city-reaches-its-boiling-point/",
+    "upvotes": 85,
+    "author": "FeaturelessBug",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=32454543"
+  },
+  {
+    "title": "Curious C++ Lambda Examples: Recursion, constexpr, Containers C++23 included",
+    "url": "https://www.cppstories.com/2020/07/lambdas5ex.html/",
+    "upvotes": 36,
+    "author": "joebaf",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=32416016"
   },
   {
     "title": "Stacker",
     "url": "https://apply.workable.com/stackerhq/j/32E1D43CF5/"
   },
   {
-    "title": "Curious C++ Lambda Examples: Recursion, constexpr, Containers C++23 included",
-    "url": "https://www.cppstories.com/2020/07/lambdas5ex.html/",
-    "upvotes": 33,
-    "author": "joebaf",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=32416016"
+    "title": "Mozart Effect",
+    "url": "https://en.wikipedia.org/wiki/Mozart_effect",
+    "upvotes": 29,
+    "author": "marcodiego",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=32416099"
   },
   {
     "title": "Observations on tragedy in a digital age",
     "url": "https://tedgioia.substack.com/p/10-observations-on-tragedy-in-a-digital",
-    "upvotes": 63,
+    "upvotes": 67,
     "author": "jger15",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=32455050"
-  },
-  {
-    "title": "Mozart Effect",
-    "url": "https://en.wikipedia.org/wiki/Mozart_effect",
-    "upvotes": 27,
-    "author": "marcodiego",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=32416099"
   },
   {
     "title": "Multiple sclerosis has a common viral culprit, opening doors to new approaches",
     "url": "https://www.sciencenews.org/article/multiple-sclerosis-epstein-barr-virus-vaccines-treatments",
-    "upvotes": 137,
+    "upvotes": 142,
     "author": "pseudolus",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=32423720"
   },
   {
     "title": "samurai: Ninja-compatible build tool written in C",
     "url": "https://github.com/michaelforney/samurai",
-    "upvotes": 25,
+    "upvotes": 31,
     "author": "ducktective",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=32455918"
+  },
+  {
+    "title": "Forecasting of energy consumption by G20 countries",
+    "url": "https://www.nature.com/articles/s41598-022-17505-4",
+    "upvotes": 10,
+    "author": "bryanrasmussen",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32456567"
   },
   {
     "title": "A software engineer's circuitous journey to calculate eigenvalues",
@@ -100,76 +108,116 @@
     "link": "https://news.ycombinator.com/item?id=32428238"
   },
   {
-    "title": "Forecasting of energy consumption by G20 countries",
-    "url": "https://www.nature.com/articles/s41598-022-17505-4",
-    "upvotes": 7,
-    "author": "bryanrasmussen",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=32456567"
+    "title": "The Open Source Paradox",
+    "url": "http://antirez.com/news/134",
+    "upvotes": 21,
+    "author": "mmphosis",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32455968"
+  },
+  {
+    "title": "Apple held up Telegram’s latest update over emoji",
+    "url": "https://www.theverge.com/2022/8/12/23303446/telegram-update-apple-emoji-telemoji",
+    "upvotes": 12,
+    "author": "Tomte",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32457136"
   },
   {
     "title": "Erg: a statically typed language that is Python compatible",
     "url": "https://github.com/erg-lang/erg",
-    "upvotes": 134,
+    "upvotes": 135,
     "author": "ArdelleF",
-    "comments": 116,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=32452080"
   },
   {
     "title": "Programming and Writing",
     "url": "http://antirez.com/news/135",
-    "upvotes": 73,
+    "upvotes": 78,
     "author": "revorad",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=32423913"
   },
   {
-    "title": "The Open Source Paradox",
-    "url": "http://antirez.com/news/134",
-    "upvotes": 17,
-    "author": "mmphosis",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32455968"
+    "title": "Electric vehicles are way more energy-efficient than internal combustion",
+    "url": "https://www.motortrend.com/news/evs-more-efficient-than-internal-combustion-engines/",
+    "upvotes": 121,
+    "author": "bilsbie",
+    "comments": 208,
+    "link": "https://news.ycombinator.com/item?id=32450860"
+  },
+  {
+    "title": "Does the dog die?",
+    "url": "https://www.thewildest.com/dog-lifestyle/does-the-dog-die",
+    "upvotes": 25,
+    "author": "walterbell",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=32455702"
+  },
+  {
+    "title": "Cryogenic CMOS Becomes Cool",
+    "url": "https://semiengineering.com/cryogenic-cmos-becomes-cool/",
+    "upvotes": 14,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32425722"
   },
   {
     "title": "Robotic motion in curved space defies standard laws of physics",
     "url": "https://phys.org/news/2022-08-robotic-motion-space-defies-standard.html",
     "upvotes": 29,
     "author": "thedday",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=32417174"
   },
   {
-    "title": "Does the dog die?",
-    "url": "https://www.thewildest.com/dog-lifestyle/does-the-dog-die",
-    "upvotes": 24,
-    "author": "walterbell",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=32455702"
-  },
-  {
-    "title": "Electric vehicles are way more energy-efficient than internal combustion",
-    "url": "https://www.motortrend.com/news/evs-more-efficient-than-internal-combustion-engines/",
-    "upvotes": 112,
-    "author": "bilsbie",
-    "comments": 191,
-    "link": "https://news.ycombinator.com/item?id=32450860"
-  },
-  {
-    "title": "Cryogenic CMOS Becomes Cool",
-    "url": "https://semiengineering.com/cryogenic-cmos-becomes-cool/",
-    "upvotes": 12,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32425722"
+    "title": "UTC vs. UT1 time and other nuances",
+    "url": "https://mperdikeas.github.io/utc-vs-ut1-time.html",
+    "upvotes": 50,
+    "author": "UpstandingUser",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=32446477"
   },
   {
     "title": "First Eco-Friendly Filter Removing 'Microplastics in Water,'",
     "url": "https://www.asiaresearchnews.com/content/worlds-first-eco-friendly-filter-removing-microplastics-water-threat-humans-sea-without",
-    "upvotes": 53,
+    "upvotes": 54,
     "author": "belltaco",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32453091"
+  },
+  {
+    "title": "Man who robbed bank to get his own money back hailed as national hero",
+    "url": "https://www.aljazeera.com/news/2022/8/11/armed-man-holds-beirut-bank-staff-hostage-demands-savings",
+    "upvotes": 234,
+    "author": "drexlspivey",
+    "comments": 228,
+    "link": "https://news.ycombinator.com/item?id=32453990"
+  },
+  {
+    "title": "Show HN: Rocket Drone, a lunar lander type game for the web",
+    "url": "https://rocket-drone.lol",
+    "upvotes": 73,
+    "author": "crispisulcans",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=32452717"
+  },
+  {
+    "title": "Modern Malaise",
+    "url": "https://ava.substack.com/p/modern-malaise",
+    "upvotes": 102,
+    "author": "mikalauskas",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=32452290"
+  },
+  {
+    "title": "IPv4 Address Auctions",
+    "url": "https://auctions.ipv4.global/",
+    "upvotes": 68,
+    "author": "gmays",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=32416043"
   },
   {
     "title": "International partnership aims to improve sorghum breeding",
@@ -180,57 +228,9 @@
     "link": "https://news.ycombinator.com/item?id=32425713"
   },
   {
-    "title": "UTC vs. UT1 time and other nuances",
-    "url": "https://mperdikeas.github.io/utc-vs-ut1-time.html",
-    "upvotes": 48,
-    "author": "UpstandingUser",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=32446477"
-  },
-  {
-    "title": "Man who robbed bank to get his own money back hailed as national hero",
-    "url": "https://www.aljazeera.com/news/2022/8/11/armed-man-holds-beirut-bank-staff-hostage-demands-savings",
-    "upvotes": 226,
-    "author": "drexlspivey",
-    "comments": 212,
-    "link": "https://news.ycombinator.com/item?id=32453990"
-  },
-  {
-    "title": "Show HN: Rocket Drone, a lunar lander type game for the web",
-    "url": "https://rocket-drone.lol",
-    "upvotes": 71,
-    "author": "crispisulcans",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=32452717"
-  },
-  {
-    "title": "IPv4 Address Auctions",
-    "url": "https://auctions.ipv4.global/",
-    "upvotes": 66,
-    "author": "gmays",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=32416043"
-  },
-  {
-    "title": "Modern Malaise",
-    "url": "https://ava.substack.com/p/modern-malaise",
-    "upvotes": 96,
-    "author": "mikalauskas",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=32452290"
-  },
-  {
-    "title": "AWS Just Walk Out Technology",
-    "url": "https://aws.amazon.com/blogs/industries/elevate-your-retail-experience-with-just-walk-out-technology/",
-    "upvotes": 45,
-    "author": "amalfra",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=32455882"
-  },
-  {
     "title": "WinterCG: Web-Interoperable Runtimes Community Group",
     "url": "https://wintercg.org/",
-    "upvotes": 56,
+    "upvotes": 57,
     "author": "brianzelip",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=32453050"
