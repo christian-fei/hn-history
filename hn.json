@@ -2,87 +2,95 @@
   {
     "title": "Oasis: Small statically-linked Linux system",
     "url": "https://github.com/oasislinux/oasis",
-    "upvotes": 35,
+    "upvotes": 62,
     "author": "ingve",
-    "comments": null,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=32458744"
   },
   {
     "title": "Paradigms of Artificial Intelligence Programming",
     "url": "https://github.com/norvig/paip-lisp",
-    "upvotes": 118,
+    "upvotes": 132,
     "author": "RafelMri",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32458048"
   },
   {
     "title": "List of over 500 Swedish tech startups and scaleups",
     "url": "https://www.swedishtechnews.com/ultimate-swedish-startups-list/",
-    "upvotes": 57,
+    "upvotes": 66,
     "author": "imartin2k",
-    "comments": 25,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=32458294"
   },
   {
     "title": "Windows 11 x64 security hardening guide",
     "url": "https://github.com/beerisgood/Windows11_Hardening",
-    "upvotes": 16,
+    "upvotes": 27,
     "author": "rdpintqogeogsaa",
-    "comments": 6,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32458440"
   },
   {
     "title": "Muxfs – a mirroring, checksumming, and self-healing filesystem layer for OpenBSD",
     "url": "https://sdadams.org/blog/introducing-muxfs/",
-    "upvotes": 111,
+    "upvotes": 114,
     "author": "ciprian_craciun",
-    "comments": 36,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=32456905"
   },
   {
     "title": "Photos of trains in the American West",
     "url": "https://www.cnn.com/travel/article/trains-western-us-photo-book/index.html",
-    "upvotes": 29,
+    "upvotes": 32,
     "author": "Tomte",
-    "comments": 9,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32426163"
+  },
+  {
+    "title": "The four pillars of data observability: metrics, metadata, lineage, and logs",
+    "url": "https://www.metaplane.dev/blog/the-four-pillars-of-data-observability",
+    "upvotes": 10,
+    "author": "kzh_",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32424755"
   },
   {
     "title": "Will Bun JavaScript Take Node's Crown",
     "url": "https://semaphoreci.com/blog/javascript-bun",
-    "upvotes": 96,
+    "upvotes": 104,
     "author": "kiyanwang",
-    "comments": 103,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=32457587"
   },
   {
     "title": "OctoPrint: Snappy web interface for your 3D printer",
     "url": "https://octoprint.org/",
-    "upvotes": 209,
+    "upvotes": 212,
     "author": "pabs3",
-    "comments": 84,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=32455408"
+  },
+  {
+    "title": "Lisp-Stat: An Environment for Statistical Computing",
+    "url": "https://lisp-stat.dev/",
+    "upvotes": 15,
+    "author": "dunefox",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32458271"
   },
   {
     "title": "What Is Quantum Field Theory and Why Is It Incomplete?",
     "url": "https://www.quantamagazine.org/what-is-quantum-field-theory-and-why-is-it-incomplete-20220810/",
-    "upvotes": 41,
+    "upvotes": 44,
     "author": "digital55",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=32425955"
-  },
-  {
-    "title": "ID This SciFi Short Story",
-    "url": "item?id=32458729",
-    "upvotes": 12,
-    "author": "Normille",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=32458729"
   },
   {
     "title": "Ideas for DataScript 2",
     "url": "https://tonsky.me/blog/datascript-2/",
-    "upvotes": 38,
+    "upvotes": 44,
     "author": "alex_hirner",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32447636"
@@ -90,54 +98,110 @@
   {
     "title": "Hollywood’s visual effects crisis",
     "url": "https://defector.com/inside-hollywoods-visual-effects-crisis/",
-    "upvotes": 158,
+    "upvotes": 165,
     "author": "bryanrasmussen",
-    "comments": 136,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=32421538"
   },
   {
-    "title": "Lisp-Stat: An Environment for Statistical Computing",
-    "url": "https://lisp-stat.dev/",
-    "upvotes": 11,
-    "author": "dunefox",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32458271"
-  },
-  {
-    "title": "The Remote Pop-In",
-    "url": "https://twos.dev/thepopin.html",
-    "upvotes": 79,
-    "author": "mcqueenjordan",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=32456107"
+    "title": "ID This SciFi Short Story",
+    "url": "item?id=32458729",
+    "upvotes": 13,
+    "author": "Normille",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32458729"
   },
   {
     "title": "Auto Traffic Control – A gRPC Programming Air Traffic Control Game",
     "url": "https://auto-traffic-control.com/",
-    "upvotes": 8,
+    "upvotes": 14,
     "author": "nivenkos",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32458180"
   },
   {
-    "title": "Human Capital, Innovation, and Growth",
-    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijet.12346",
-    "upvotes": 10,
-    "author": "luu",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32457903"
+    "title": "The Remote Pop-In",
+    "url": "https://twos.dev/thepopin.html",
+    "upvotes": 81,
+    "author": "mcqueenjordan",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=32456107"
+  },
+  {
+    "title": "The Open Source Paradox",
+    "url": "http://antirez.com/news/134",
+    "upvotes": 65,
+    "author": "mmphosis",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=32455968"
   },
   {
     "title": "Stacker",
     "url": "https://apply.workable.com/stackerhq/j/32E1D43CF5/"
   },
   {
+    "title": "Human Capital, Innovation, and Growth",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijet.12346",
+    "upvotes": 11,
+    "author": "luu",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32457903"
+  },
+  {
     "title": "Mozart Effect",
     "url": "https://en.wikipedia.org/wiki/Mozart_effect",
-    "upvotes": 63,
+    "upvotes": 68,
     "author": "marcodiego",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=32416099"
+  },
+  {
+    "title": "Faster Protocol Buffers",
+    "url": "https://blog.najaryan.net/posts/partial-protobuf-encoding/",
+    "upvotes": 27,
+    "author": "ngaut",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32456998"
+  },
+  {
+    "title": "Slab City reaches its boiling point",
+    "url": "https://bluedotliving.com/slab-city-reaches-its-boiling-point/",
+    "upvotes": 105,
+    "author": "FeaturelessBug",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=32454543"
+  },
+  {
+    "title": "Dogelang – A Python with Haskell Syntax",
+    "url": "http://pyos.github.io/dg/",
+    "upvotes": 42,
+    "author": "notpushkin",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32456151"
+  },
+  {
+    "title": "Observations on tragedy in a digital age",
+    "url": "https://tedgioia.substack.com/p/10-observations-on-tragedy-in-a-digital",
+    "upvotes": 91,
+    "author": "jger15",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=32455050"
+  },
+  {
+    "title": "samurai: Ninja-compatible build tool written in C",
+    "url": "https://github.com/michaelforney/samurai",
+    "upvotes": 61,
+    "author": "ducktective",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=32455918"
+  },
+  {
+    "title": "A New Jailbreak for John Deere Tractors Rides the Right-to-Repair Wave",
+    "url": "https://www.wired.com/story/john-deere-tractor-jailbreak-defcon-2022/",
+    "upvotes": 60,
+    "author": "WithinReason",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=32457590"
   },
   {
     "title": "Tectonically-driven oxidant production in the hot biosphere",
@@ -148,91 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=32420228"
   },
   {
-    "title": "Dogelang – A Python with Haskell Syntax",
-    "url": "http://pyos.github.io/dg/",
-    "upvotes": 40,
-    "author": "notpushkin",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=32456151"
+    "title": "Forecasting of energy consumption by G20 countries",
+    "url": "https://www.nature.com/articles/s41598-022-17505-4",
+    "upvotes": 26,
+    "author": "bryanrasmussen",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=32456567"
   },
   {
-    "title": "Slab City reaches its boiling point",
-    "url": "https://bluedotliving.com/slab-city-reaches-its-boiling-point/",
-    "upvotes": 100,
-    "author": "FeaturelessBug",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=32454543"
-  },
-  {
-    "title": "Observations on tragedy in a digital age",
-    "url": "https://tedgioia.substack.com/p/10-observations-on-tragedy-in-a-digital",
-    "upvotes": 89,
-    "author": "jger15",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=32455050"
-  },
-  {
-    "title": "Faster Protocol Buffers",
-    "url": "https://blog.najaryan.net/posts/partial-protobuf-encoding/",
-    "upvotes": 25,
-    "author": "ngaut",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32456998"
-  },
-  {
-    "title": "The four pillars of data observability: metrics, metadata, lineage, and logs",
-    "url": "https://www.metaplane.dev/blog/the-four-pillars-of-data-observability",
-    "upvotes": 3,
-    "author": "kzh_",
+    "title": "Zoom macOS app quietly added back cs.disable-library-validation entitlement",
+    "url": "item?id=32458878",
+    "upvotes": 4,
+    "author": "nuker",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32424755"
-  },
-  {
-    "title": "The Open Source Paradox",
-    "url": "http://antirez.com/news/134",
-    "upvotes": 61,
-    "author": "mmphosis",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=32455968"
-  },
-  {
-    "title": "samurai: Ninja-compatible build tool written in C",
-    "url": "https://github.com/michaelforney/samurai",
-    "upvotes": 58,
-    "author": "ducktective",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=32455918"
-  },
-  {
-    "title": "A New Jailbreak for John Deere Tractors Rides the Right-to-Repair Wave",
-    "url": "https://www.wired.com/story/john-deere-tractor-jailbreak-defcon-2022/",
-    "upvotes": 49,
-    "author": "WithinReason",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=32457590"
+    "link": "https://news.ycombinator.com/item?id=32458878"
   },
   {
     "title": "Curious C++ Lambda Examples: Recursion, constexpr, Containers C++23 included",
     "url": "https://www.cppstories.com/2020/07/lambdas5ex.html/",
-    "upvotes": 56,
+    "upvotes": 57,
     "author": "joebaf",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=32416016"
-  },
-  {
-    "title": "Cryogenic CMOS Becomes Cool",
-    "url": "https://semiengineering.com/cryogenic-cmos-becomes-cool/",
-    "upvotes": 35,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32425722"
-  },
-  {
-    "title": "Forecasting of energy consumption by G20 countries",
-    "url": "https://www.nature.com/articles/s41598-022-17505-4",
-    "upvotes": 24,
-    "author": "bryanrasmussen",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=32456567"
   }
 ]
