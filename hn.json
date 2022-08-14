@@ -1,43 +1,67 @@
 [
   {
+    "title": "Paradigms of Artificial Intelligence Programming",
+    "url": "https://github.com/norvig/paip-lisp",
+    "upvotes": 19,
+    "author": "RafelMri",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32458048"
+  },
+  {
     "title": "Muxfs – a mirroring, checksumming, and self-healing filesystem layer for OpenBSD",
     "url": "https://sdadams.org/blog/introducing-muxfs/",
-    "upvotes": 81,
+    "upvotes": 86,
     "author": "ciprian_craciun",
-    "comments": 21,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=32456905"
+  },
+  {
+    "title": "Will Bun JavaScript Take Node's Crown",
+    "url": "https://semaphoreci.com/blog/javascript-bun",
+    "upvotes": 18,
+    "author": "kiyanwang",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32457587"
   },
   {
     "title": "OctoPrint: Snappy web interface for your 3D printer",
     "url": "https://octoprint.org/",
-    "upvotes": 177,
+    "upvotes": 179,
     "author": "pabs3",
-    "comments": 75,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=32455408"
+  },
+  {
+    "title": "Hollywood’s visual effects crisis",
+    "url": "https://defector.com/inside-hollywoods-visual-effects-crisis/",
+    "upvotes": 116,
+    "author": "bryanrasmussen",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=32421538"
+  },
+  {
+    "title": "Ideas for DataScript 2",
+    "url": "https://tonsky.me/blog/datascript-2/",
+    "upvotes": 10,
+    "author": "alex_hirner",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32447636"
   },
   {
     "title": "The Remote Pop-In",
     "url": "https://twos.dev/thepopin.html",
-    "upvotes": 58,
+    "upvotes": 60,
     "author": "mcqueenjordan",
-    "comments": 67,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=32456107"
   },
   {
     "title": "What Is Quantum Field Theory and Why Is It Incomplete?",
     "url": "https://www.quantamagazine.org/what-is-quantum-field-theory-and-why-is-it-incomplete-20220810/",
-    "upvotes": 14,
+    "upvotes": 15,
     "author": "digital55",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32425955"
-  },
-  {
-    "title": "Hollywood’s visual effects crisis",
-    "url": "https://defector.com/inside-hollywoods-visual-effects-crisis/",
-    "upvotes": 106,
-    "author": "bryanrasmussen",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=32421538"
   },
   {
     "title": "Slab City reaches its boiling point",
@@ -48,109 +72,93 @@
     "link": "https://news.ycombinator.com/item?id=32454543"
   },
   {
-    "title": "Mozart Effect",
-    "url": "https://en.wikipedia.org/wiki/Mozart_effect",
-    "upvotes": 46,
-    "author": "marcodiego",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=32416099"
+    "title": "Human Capital, Innovation, and Growth",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijet.12346",
+    "upvotes": 4,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32457903"
   },
   {
     "title": "Observations on tragedy in a digital age",
     "url": "https://tedgioia.substack.com/p/10-observations-on-tragedy-in-a-digital",
-    "upvotes": 81,
+    "upvotes": 82,
     "author": "jger15",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=32455050"
   },
   {
     "title": "The Open Source Paradox",
     "url": "http://antirez.com/news/134",
-    "upvotes": 41,
+    "upvotes": 44,
     "author": "mmphosis",
-    "comments": 28,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=32455968"
   },
   {
-    "title": "Curious C++ Lambda Examples: Recursion, constexpr, Containers C++23 included",
-    "url": "https://www.cppstories.com/2020/07/lambdas5ex.html/",
-    "upvotes": 49,
-    "author": "joebaf",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=32416016"
-  },
-  {
-    "title": "samurai: Ninja-compatible build tool written in C",
-    "url": "https://github.com/michaelforney/samurai",
-    "upvotes": 45,
-    "author": "ducktective",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=32455918"
-  },
-  {
-    "title": "dogelang – it's a Python! No, it's a Haskell!",
-    "url": "http://pyos.github.io/dg/",
-    "upvotes": 25,
-    "author": "notpushkin",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32456151"
+    "title": "Mozart Effect",
+    "url": "https://en.wikipedia.org/wiki/Mozart_effect",
+    "upvotes": 47,
+    "author": "marcodiego",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=32416099"
   },
   {
     "title": "Stacker",
     "url": "https://apply.workable.com/stackerhq/j/32E1D43CF5/"
   },
   {
-    "title": "Cryogenic CMOS Becomes Cool",
-    "url": "https://semiengineering.com/cryogenic-cmos-becomes-cool/",
+    "title": "dogelang – it's a Python! No, it's a Haskell!",
+    "url": "http://pyos.github.io/dg/",
     "upvotes": 27,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32425722"
+    "author": "notpushkin",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32456151"
+  },
+  {
+    "title": "Curious C++ Lambda Examples: Recursion, constexpr, Containers C++23 included",
+    "url": "https://www.cppstories.com/2020/07/lambdas5ex.html/",
+    "upvotes": 50,
+    "author": "joebaf",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=32416016"
+  },
+  {
+    "title": "samurai: Ninja-compatible build tool written in C",
+    "url": "https://github.com/michaelforney/samurai",
+    "upvotes": 46,
+    "author": "ducktective",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=32455918"
   },
   {
     "title": "A software engineer's circuitous journey to calculate eigenvalues",
     "url": "https://www.stylewarning.com/posts/eigenvalues/",
-    "upvotes": 94,
+    "upvotes": 95,
     "author": "reikonomusha",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=32428238"
   },
   {
+    "title": "Cryogenic CMOS Becomes Cool",
+    "url": "https://semiengineering.com/cryogenic-cmos-becomes-cool/",
+    "upvotes": 28,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32425722"
+  },
+  {
     "title": "Programming and Writing",
     "url": "http://antirez.com/news/135",
-    "upvotes": 93,
+    "upvotes": 97,
     "author": "revorad",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=32423913"
   },
   {
-    "title": "Will Bun JavaScript Take Node's Crown",
-    "url": "https://semaphoreci.com/blog/javascript-bun",
-    "upvotes": 3,
-    "author": "kiyanwang",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32457587"
-  },
-  {
-    "title": "Ideas for DataScript 2",
-    "url": "https://tonsky.me/blog/datascript-2/",
-    "upvotes": 3,
-    "author": "alex_hirner",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32447636"
-  },
-  {
-    "title": "Apple held up Telegram’s latest update over emoji",
-    "url": "https://www.theverge.com/2022/8/12/23303446/telegram-update-apple-emoji-telemoji",
-    "upvotes": 38,
-    "author": "Tomte",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=32457136"
-  },
-  {
     "title": "Does the dog die?",
     "url": "https://www.thewildest.com/dog-lifestyle/does-the-dog-die",
-    "upvotes": 31,
+    "upvotes": 32,
     "author": "walterbell",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=32455702"
@@ -158,50 +166,50 @@
   {
     "title": "Forecasting of energy consumption by G20 countries",
     "url": "https://www.nature.com/articles/s41598-022-17505-4",
-    "upvotes": 13,
+    "upvotes": 14,
     "author": "bryanrasmussen",
-    "comments": 14,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=32456567"
-  },
-  {
-    "title": "Robotic motion in curved space defies standard laws of physics",
-    "url": "https://phys.org/news/2022-08-robotic-motion-space-defies-standard.html",
-    "upvotes": 38,
-    "author": "thedday",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=32417174"
-  },
-  {
-    "title": "Quirky computing books",
-    "url": "https://github.com/fogus/thunks/blob/main/reading/quirkeys.org",
-    "upvotes": 270,
-    "author": "llvm",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=32452673"
   },
   {
     "title": "UTC vs. UT1 time and other nuances",
     "url": "https://mperdikeas.github.io/utc-vs-ut1-time.html",
-    "upvotes": 57,
+    "upvotes": 58,
     "author": "UpstandingUser",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32446477"
+  },
+  {
+    "title": "Quirky computing books",
+    "url": "https://github.com/fogus/thunks/blob/main/reading/quirkeys.org",
+    "upvotes": 273,
+    "author": "llvm",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=32452673"
   },
   {
     "title": "First Eco-Friendly Filter Removing 'Microplastics in Water,'",
     "url": "https://www.asiaresearchnews.com/content/worlds-first-eco-friendly-filter-removing-microplastics-water-threat-humans-sea-without",
-    "upvotes": 67,
+    "upvotes": 68,
     "author": "belltaco",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=32453091"
   },
   {
-    "title": "Show HN: Rocket Drone, a lunar lander type game for the web",
-    "url": "https://rocket-drone.lol",
-    "upvotes": 84,
-    "author": "crispisulcans",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=32452717"
+    "title": "Man who robbed bank to get his own money back hailed as national hero",
+    "url": "https://www.aljazeera.com/news/2022/8/11/armed-man-holds-beirut-bank-staff-hostage-demands-savings",
+    "upvotes": 257,
+    "author": "drexlspivey",
+    "comments": 270,
+    "link": "https://news.ycombinator.com/item?id=32453990"
+  },
+  {
+    "title": "Apple held up Telegram’s latest update over emoji",
+    "url": "https://www.theverge.com/2022/8/12/23303446/telegram-update-apple-emoji-telemoji",
+    "upvotes": 39,
+    "author": "Tomte",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=32457136"
   },
   {
     "title": "Programmable large-scale simulation of bosonic transport in optical",
@@ -212,27 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=32423604"
   },
   {
-    "title": "Man who robbed bank to get his own money back hailed as national hero",
-    "url": "https://www.aljazeera.com/news/2022/8/11/armed-man-holds-beirut-bank-staff-hostage-demands-savings",
-    "upvotes": 252,
-    "author": "drexlspivey",
-    "comments": 254,
-    "link": "https://news.ycombinator.com/item?id=32453990"
-  },
-  {
-    "title": "WinterCG: Web-Interoperable Runtimes Community Group",
-    "url": "https://wintercg.org/",
-    "upvotes": 60,
-    "author": "brianzelip",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=32453050"
-  },
-  {
     "title": "Multiple sclerosis has a common viral culprit, opening doors to new approaches",
     "url": "https://www.sciencenews.org/article/multiple-sclerosis-epstein-barr-virus-vaccines-treatments",
-    "upvotes": 171,
+    "upvotes": 172,
     "author": "pseudolus",
-    "comments": 62,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=32423720"
+  },
+  {
+    "title": "I hacked my car",
+    "url": "https://programmingwithstyle.com/posts/howihackedmycar/",
+    "upvotes": 575,
+    "author": "ytpete",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=32447650"
   }
 ]
