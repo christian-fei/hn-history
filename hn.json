@@ -2,15 +2,15 @@
   {
     "title": "SQLite is not a toy database",
     "url": "https://antonz.org/sqlite-is-not-a-toy-database/",
-    "upvotes": 88,
+    "upvotes": 111,
     "author": "losfair",
-    "comments": 47,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=32478907"
   },
   {
     "title": "World Building and Alternate Reality Common Lisp",
     "url": "https://kaveh808.medium.com/41-world-building-and-alternate-reality-common-lisp-ca9fbc619a8c",
-    "upvotes": 27,
+    "upvotes": 37,
     "author": "kaveh808",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=32478797"
@@ -18,23 +18,23 @@
   {
     "title": "How Discord supercharges network disks for extreme low latency",
     "url": "https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency",
-    "upvotes": 346,
+    "upvotes": 355,
     "author": "techinvalley",
-    "comments": 150,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=32474093"
   },
   {
     "title": "Twilio incident: What Signal users need to know",
     "url": "https://support.signal.org/hc/en-us/articles/4850133017242",
-    "upvotes": 515,
+    "upvotes": 519,
     "author": "input_sh",
-    "comments": 411,
+    "comments": 412,
     "link": "https://news.ycombinator.com/item?id=32472412"
   },
   {
     "title": "Colour evolution of Betelgeuse over two millennia, derived from records",
     "url": "https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac1969/6651563",
-    "upvotes": 35,
+    "upvotes": 39,
     "author": "sohkamyung",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32478492"
@@ -42,34 +42,42 @@
   {
     "title": "A robots.txt Problem",
     "url": "http://avodonosov.blogspot.com/2022/08/a-robotstxt-problem.html",
-    "upvotes": 78,
+    "upvotes": 82,
     "author": "avodonosov",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32476262"
+  },
+  {
+    "title": "Apple to mandate three days in a week in the office by Labor Day",
+    "url": "https://www.sfchronicle.com/tech/article/Apple-to-mandate-three-days-in-a-week-in-the-17375631.php",
+    "upvotes": 78,
+    "author": "donohoe",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=32478857"
   },
   {
     "title": "Tom Mitchell's Machine Learning book now is free",
     "url": "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html",
-    "upvotes": 69,
+    "upvotes": 78,
     "author": "fofoz",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=32436234"
   },
   {
-    "title": "Apple to mandate three days in a week in the office by Labor Day",
-    "url": "https://www.sfchronicle.com/tech/article/Apple-to-mandate-three-days-in-a-week-in-the-17375631.php",
-    "upvotes": 58,
-    "author": "donohoe",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=32478857"
-  },
-  {
     "title": "Correcting a widespread error in unification algorithms",
     "url": "https://norvig.com/unify-bug.pdf",
-    "upvotes": 29,
+    "upvotes": 31,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32435802"
+  },
+  {
+    "title": "Preparedness Paradox",
+    "url": "https://en.wikipedia.org/wiki/Preparedness_paradox",
+    "upvotes": 178,
+    "author": "thunderbong",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=32466346"
   },
   {
     "title": "A farmer’s hunch led to a lost monastery and a Neolithic surprise",
@@ -82,18 +90,34 @@
   {
     "title": "Tup – an instrumenting file-based build system",
     "url": "https://gittup.org/tup/",
-    "upvotes": 31,
+    "upvotes": 32,
     "author": "pabs3",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=32477212"
   },
   {
-    "title": "Preparedness Paradox",
-    "url": "https://en.wikipedia.org/wiki/Preparedness_paradox",
-    "upvotes": 172,
-    "author": "thunderbong",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=32466346"
+    "title": "A catalogue of optimizing transformations",
+    "url": "https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf",
+    "upvotes": 43,
+    "author": "penguin_booze",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32447292"
+  },
+  {
+    "title": "How to design a referral program",
+    "url": "https://andrewchen.com/how-to-design-a-referral-program/",
+    "upvotes": 108,
+    "author": "gmays",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=32471605"
+  },
+  {
+    "title": "Krunvm – Create MicroVMs from OCI Images",
+    "url": "https://github.com/containers/krunvm",
+    "upvotes": 7,
+    "author": "tsujp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32447995"
   },
   {
     "title": "Learnings of a CEO: Wade Foster, Zapier",
@@ -104,20 +128,12 @@
     "link": "https://news.ycombinator.com/item?id=32473112"
   },
   {
-    "title": "A catalogue of optimizing transformations",
-    "url": "https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf",
-    "upvotes": 42,
-    "author": "penguin_booze",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32447292"
-  },
-  {
-    "title": "How to design a referral program",
-    "url": "https://andrewchen.com/how-to-design-a-referral-program/",
-    "upvotes": 104,
-    "author": "gmays",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=32471605"
+    "title": "Quaternions: A Practical Guide",
+    "url": "https://www.anyleaf.org/blog/quaternions:-a-practical-guide",
+    "upvotes": 138,
+    "author": "the__alchemist",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=32456848"
   },
   {
     "title": "Process behaviour anomaly detection using eBPF and unsupervised learning",
@@ -128,25 +144,9 @@
     "link": "https://news.ycombinator.com/item?id=32471400"
   },
   {
-    "title": "Quaternions: A Practical Guide",
-    "url": "https://www.anyleaf.org/blog/quaternions:-a-practical-guide",
-    "upvotes": 136,
-    "author": "the__alchemist",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=32456848"
-  },
-  {
-    "title": "Ask HN: Where to meet people who are interested in building a company together?",
-    "url": "item?id=32478642",
-    "upvotes": 29,
-    "author": "swman",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=32478642"
-  },
-  {
     "title": "Timelock Encryption made possible and easy to use",
     "url": "https://github.com/drand/tlock",
-    "upvotes": 67,
+    "upvotes": 70,
     "author": "anomalroil",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=32475237"
@@ -154,85 +154,85 @@
   {
     "title": "The Intel 80376 – A legacy-free i386 with a twist",
     "url": "https://www.pagetable.com/?p=460",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "anyfoo",
     "comments": 61,
     "link": "https://news.ycombinator.com/item?id=32447374"
   },
   {
-    "title": "Krunvm – Create MicroVMs from OCI Images",
-    "url": "https://github.com/containers/krunvm",
-    "upvotes": 5,
-    "author": "tsujp",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32447995"
+    "title": "Ask HN: Where to meet people who are interested in building a company together?",
+    "url": "item?id=32478642",
+    "upvotes": 31,
+    "author": "swman",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32478642"
   },
   {
     "title": "Open-source rival for OpenAI’s DALL-E runs on your graphics card",
     "url": "https://mixed-news.com/en/open-source-rival-for-openais-dall-e-runs-on-your-graphics-card/",
-    "upvotes": 287,
+    "upvotes": 290,
     "author": "hardmaru",
-    "comments": 152,
+    "comments": 154,
     "link": "https://news.ycombinator.com/item?id=32471199"
-  },
-  {
-    "title": "Tell HN: After 10 years of experiments, custom username emails receive no spam",
-    "url": "item?id=32470645",
-    "upvotes": 330,
-    "author": "sbf501",
-    "comments": 278,
-    "link": "https://news.ycombinator.com/item?id=32470645"
-  },
-  {
-    "title": "Old-school pencil-on-paper vector piloting is key to crossing the Gulf Stream",
-    "url": "https://www.cruisingworld.com/how-to/seamanship-how-to-plot-your-course-across-the-gulf-stream/",
-    "upvotes": 7,
-    "author": "bryanrasmussen",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32435309"
   },
   {
     "title": "Win32 Is the Only Stable ABI on Linux?",
     "url": "https://blog.hiler.eu/win32-the-only-stable-abi/",
-    "upvotes": 411,
+    "upvotes": 417,
     "author": "pantalaimon",
-    "comments": 397,
+    "comments": 399,
     "link": "https://news.ycombinator.com/item?id=32471624"
   },
   {
-    "title": "Anonymous Search Engine",
-    "url": "https://www.tuxdex.com",
-    "upvotes": 58,
-    "author": "TomZero",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=32473484"
-  },
-  {
-    "title": "Scaling Kubernetes to Thousands of CRDs",
-    "url": "https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/",
-    "upvotes": 126,
-    "author": "hasheddan",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=32471508"
+    "title": "Tell HN: After 10 years of experiments, custom username emails receive no spam",
+    "url": "item?id=32470645",
+    "upvotes": 333,
+    "author": "sbf501",
+    "comments": 281,
+    "link": "https://news.ycombinator.com/item?id=32470645"
   },
   {
     "title": "Freeshow: A Free and Open-source ProPresenter alternative",
     "url": "https://github.com/vassbo/freeshow",
-    "upvotes": 23,
+    "upvotes": 32,
     "author": "thebiblelover7",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32476943"
   },
   {
-    "title": "Pachyderm",
-    "url": "https://www.pachyderm.com/careers/#positions"
+    "title": "Anonymous Search Engine",
+    "url": "https://www.tuxdex.com",
+    "upvotes": 61,
+    "author": "TomZero",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32473484"
   },
   {
-    "title": "Certifying Interpreters in Racket",
-    "url": "https://kmicinski.com/certifying-interpreters",
-    "upvotes": 4,
-    "author": "bwidlar",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32478808"
+    "title": "Scaling Kubernetes to Thousands of CRDs",
+    "url": "https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/",
+    "upvotes": 127,
+    "author": "hasheddan",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=32471508"
+  },
+  {
+    "title": "Old-school pencil-on-paper vector piloting is key to crossing the Gulf Stream",
+    "url": "https://www.cruisingworld.com/how-to/seamanship-how-to-plot-your-course-across-the-gulf-stream/",
+    "upvotes": 8,
+    "author": "bryanrasmussen",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32435309"
+  },
+  {
+    "title": "Impact to DigitalOcean customers resulting from Mailchimp security incident",
+    "url": "https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident",
+    "upvotes": 113,
+    "author": "smitop",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=32476445"
+  },
+  {
+    "title": "Pachyderm",
+    "url": "https://www.pachyderm.com/careers/#positions"
   }
 ]
