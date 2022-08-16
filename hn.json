@@ -2,73 +2,81 @@
   {
     "title": "RubyGems now requires MFA for owners of top gems",
     "url": "https://blog.rubygems.org/2022/08/15/requiring-mfa-on-popular-gems.html",
-    "upvotes": 51,
+    "upvotes": 90,
     "author": "jacques_chester",
-    "comments": 23,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=32482034"
   },
   {
     "title": "Handpicked No-Signup Tools",
     "url": "https://www.nosignup.tools/",
-    "upvotes": 18,
+    "upvotes": 39,
     "author": "scastiel",
-    "comments": 4,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32482211"
   },
   {
     "title": "Functional Reactive Programming",
     "url": "https://wiki.haskell.org/Functional_Reactive_Programming",
-    "upvotes": 86,
+    "upvotes": 97,
     "author": "amelius",
-    "comments": 42,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=32448772"
-  },
-  {
-    "title": "Where are Digital Ocean servers located?",
-    "url": "https://snapshooter.com/learn/datacenter-regions-digitalocean-located",
-    "upvotes": 73,
-    "author": "mtmail",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=32481111"
-  },
-  {
-    "title": "Story of Japan Dev from $0 to $62k a month",
-    "url": "https://japan-dev.com/blog/how-and-why-i-built-japan-dev",
-    "upvotes": 230,
-    "author": "davgoldin",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=32479731"
   },
   {
     "title": ".NET 6 is now in Ubuntu 22.04",
     "url": "https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/",
-    "upvotes": 54,
+    "upvotes": 103,
     "author": "styx31",
-    "comments": 19,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=32482323"
   },
   {
     "title": "Apple becomes first tech giant to explicitly ban caste discrimination",
     "url": "https://www.indiatoday.in/technology/news/story/apple-becomes-first-tech-giant-to-explicitly-ban-caste-discrimination-trains-managers-on-indian-caste-system-1988183-2022-08-15",
-    "upvotes": 95,
+    "upvotes": 164,
     "author": "gunvantsr",
-    "comments": 64,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=32482007"
+  },
+  {
+    "title": "Where are Digital Ocean servers located?",
+    "url": "https://snapshooter.com/learn/datacenter-regions-digitalocean-located",
+    "upvotes": 87,
+    "author": "mtmail",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=32481111"
+  },
+  {
+    "title": "Story of Japan Dev from $0 to $62k a month",
+    "url": "https://japan-dev.com/blog/how-and-why-i-built-japan-dev",
+    "upvotes": 249,
+    "author": "davgoldin",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=32479731"
   },
   {
     "title": "The impact of removing jQuery on our web performance",
     "url": "https://insidegovuk.blog.gov.uk/2022/08/15/the-impact-of-removing-jquery-on-our-web-performance/",
-    "upvotes": 224,
+    "upvotes": 234,
     "author": "kevinak",
-    "comments": 173,
+    "comments": 189,
     "link": "https://news.ycombinator.com/item?id=32480755"
+  },
+  {
+    "title": "DragonFlydb: Cache Design",
+    "url": "https://dragonflydb.io/blog/2022/06/23/cache_design/",
+    "upvotes": 64,
+    "author": "anhldbk",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32448309"
   },
   {
     "title": "Ask HN: In 2022, what is the proper way to get into machine/deep learning?",
     "url": "item?id=32480009",
-    "upvotes": 291,
+    "upvotes": 306,
     "author": "newsoul",
-    "comments": 116,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=32480009"
   },
   {
@@ -76,17 +84,25 @@
     "url": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
   },
   {
-    "title": "DragonFlydb: Cache Design",
-    "url": "https://dragonflydb.io/blog/2022/06/23/cache_design/",
-    "upvotes": 57,
-    "author": "anhldbk",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32448309"
+    "title": "American Airlines Agrees to Purchase Boom Supersonic Overture Aircraft",
+    "url": "https://boomsupersonic.com/news/post/american-airlines-announces-agreement-to-purchase-boom-supersonic-overture-aircraft-places-deposit-on-20-overtures",
+    "upvotes": 3,
+    "author": "spatulon",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32483077"
+  },
+  {
+    "title": "Debian Turns 29",
+    "url": "https://bits.debian.org/2022/08/debian-turns-29.html",
+    "upvotes": 64,
+    "author": "nixcraft",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32481798"
   },
   {
     "title": "Scanning for AWS Security Issues with Trivy",
     "url": "https://lia.mg/posts/trivy-aws/",
-    "upvotes": 36,
+    "upvotes": 39,
     "author": "pcw888",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32481270"
@@ -94,111 +110,103 @@
   {
     "title": "Fabimycin and Its Activity against Drug-Resistant Gram-Negative Pathogens",
     "url": "https://pubs.acs.org/doi/full/10.1021/acscentsci.2c00598",
-    "upvotes": 35,
+    "upvotes": 40,
     "author": "dsego",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32480704"
   },
   {
-    "title": "Deconstructing Bézier Curves",
-    "url": "http://blog.pkh.me/p/33-deconstructing-be%CC%81zier-curves.html",
-    "upvotes": 57,
-    "author": "ux",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=32479808"
-  },
-  {
     "title": "A little exercise each day improves muscles more than one big weekly workout",
     "url": "https://www.studyfinds.org/exercise-each-day-builds-muscle/",
-    "upvotes": 353,
+    "upvotes": 383,
     "author": "rajnathani",
-    "comments": 245,
+    "comments": 263,
     "link": "https://news.ycombinator.com/item?id=32479659"
   },
   {
-    "title": "Debian Turns 29",
-    "url": "https://bits.debian.org/2022/08/debian-turns-29.html",
-    "upvotes": 29,
-    "author": "nixcraft",
+    "title": "Great-houk/mouse-project: DIY Gaming Mouse",
+    "url": "https://github.com/great-houk/mouse-project",
+    "upvotes": 5,
+    "author": "todsacerdoti",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32481798"
+    "link": "https://news.ycombinator.com/item?id=32482049"
+  },
+  {
+    "title": "Deconstructing Bézier Curves",
+    "url": "http://blog.pkh.me/p/33-deconstructing-be%CC%81zier-curves.html",
+    "upvotes": 59,
+    "author": "ux",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=32479808"
+  },
+  {
+    "title": "Philippines orders fraud probe after paying MacBook prices for Celeron laptops",
+    "url": "https://www.theregister.com/2022/08/16/philippines_laptop_procurement_fraud_probe/",
+    "upvotes": 41,
+    "author": "sohkamyung",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=32481931"
   },
   {
     "title": "Soviet Computer Software and Applications in the 1980's [pdf]",
     "url": "https://www.ucis.pitt.edu/nceeer/1989-801-5-2-Judy.pdf",
-    "upvotes": 43,
+    "upvotes": 49,
     "author": "Claude_Shannon",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=32479888"
+  },
+  {
+    "title": "Voyage Through Time",
+    "url": "https://twitter.com/xsteenbrugge/status/1558508866463219712",
+    "upvotes": 63,
+    "author": "sblank",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32455832"
+  },
+  {
+    "title": "Krunvm – Create MicroVMs from OCI Images",
+    "url": "https://github.com/containers/krunvm",
+    "upvotes": 103,
+    "author": "tsujp",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=32447995"
   },
   {
     "title": "What does it take to test a sorting routine?",
     "url": "https://reprog.wordpress.com/2010/05/20/what-does-it-take-to-test-a-sorting-routine/",
     "upvotes": 11,
     "author": "ColinWright",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32481340"
-  },
-  {
-    "title": "Krunvm – Create MicroVMs from OCI Images",
-    "url": "https://github.com/containers/krunvm",
-    "upvotes": 101,
-    "author": "tsujp",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=32447995"
-  },
-  {
-    "title": "Voyage Through Time",
-    "url": "https://twitter.com/xsteenbrugge/status/1558508866463219712",
-    "upvotes": 56,
-    "author": "sblank",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=32455832"
-  },
-  {
-    "title": "Philippines orders fraud probe after paying MacBook prices for Celeron laptops",
-    "url": "https://www.theregister.com/2022/08/16/philippines_laptop_procurement_fraud_probe/",
-    "upvotes": 24,
-    "author": "sohkamyung",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32481931"
   },
   {
     "title": "A Geologic map of the Entire Moon has Been Released at 1:2,500,000-Scale",
     "url": "https://www.universetoday.com/156265/a-geologic-map-of-the-entire-moon-has-been-released-at-12500000-scale/",
-    "upvotes": 35,
+    "upvotes": 45,
     "author": "bryanrasmussen",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=32481498"
   },
   {
     "title": "Evolution of the OSM Data Model [pdf]",
     "url": "https://media.jochentopf.com/media/2022-08-15-study-evolution-of-the-osm-data-model.pdf",
-    "upvotes": 16,
+    "upvotes": 18,
     "author": "zigzag312",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=32480603"
-  },
-  {
-    "title": "Great-houk/mouse-project: DIY Gaming Mouse",
-    "url": "https://github.com/great-houk/mouse-project",
-    "upvotes": 3,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32482049"
   },
   {
     "title": "Colour evolution of Betelgeuse over two millennia, derived from records",
     "url": "https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac1969/6651563",
-    "upvotes": 93,
+    "upvotes": 94,
     "author": "sohkamyung",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32478492"
   },
   {
     "title": "16th-century log of swan ownership goes up for auction",
     "url": "https://www.theguardian.com/culture/2022/aug/11/16th-century-log-of-swan-ownership-goes-up-for-auction",
-    "upvotes": 23,
+    "upvotes": 24,
     "author": "benbreen",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32435772"
@@ -206,10 +214,18 @@
   {
     "title": "Local First Tuple Database",
     "url": "https://github.com/ccorcos/tuple-database",
-    "upvotes": 55,
+    "upvotes": 59,
     "author": "jitl",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=32458293"
+  },
+  {
+    "title": "T-Mobile USA doesn't comply with its German parent company’s GDPR policies",
+    "url": "https://hasbrouck.org/blog/archives/002653.html",
+    "upvotes": 135,
+    "author": "nickt",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=32481167"
   },
   {
     "title": "Certifying Interpreters in Racket",
@@ -218,21 +234,5 @@
     "author": "bwidlar",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32478808"
-  },
-  {
-    "title": "T-Mobile USA doesn't comply with its German parent company’s GDPR policies",
-    "url": "https://hasbrouck.org/blog/archives/002653.html",
-    "upvotes": 123,
-    "author": "nickt",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=32481167"
-  },
-  {
-    "title": "Twilio incident: What Signal users need to know",
-    "url": "https://support.signal.org/hc/en-us/articles/4850133017242",
-    "upvotes": 636,
-    "author": "input_sh",
-    "comments": 447,
-    "link": "https://news.ycombinator.com/item?id=32472412"
   }
 ]
