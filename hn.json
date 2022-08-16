@@ -1,24 +1,40 @@
 [
   {
+    "title": "Make Fermented Hot Sauce",
+    "url": "https://www.seriouseats.com/fermented-hot-sauce-how-to",
+    "upvotes": 129,
+    "author": "Kaibeezy",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=32486504"
+  },
+  {
+    "title": "VPNs on iOS Are Scam",
+    "url": "https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php",
+    "upvotes": 34,
+    "author": "alexpc201",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32488308"
+  },
+  {
     "title": "Using the Same Arch Linux Installation for a Decade",
     "url": "https://meribold.org/2022/08/16/same-arch-linux-installation-for-a-decade/",
-    "upvotes": 307,
+    "upvotes": 335,
     "author": "meribold",
-    "comments": 256,
+    "comments": 286,
     "link": "https://news.ycombinator.com/item?id=32483979"
   },
   {
-    "title": "Make Fermented Hot Sauce",
-    "url": "https://www.seriouseats.com/fermented-hot-sauce-how-to",
-    "upvotes": 96,
-    "author": "Kaibeezy",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=32486504"
+    "title": "Plasma reactors could create oxygen on Mars",
+    "url": "https://www.science.org/content/article/plasma-reactors-could-create-oxygen-mars",
+    "upvotes": 40,
+    "author": "rntn",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32487738"
   },
   {
     "title": "Raft Consensus Animated",
     "url": "https://thesecretlivesofdata.com/raft/",
-    "upvotes": 147,
+    "upvotes": 167,
     "author": "pkilgore",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=32484584"
@@ -26,79 +42,71 @@
   {
     "title": "Docker Compose best practices for dev and prod",
     "url": "https://prod.releasehub.com/blog/6-docker-compose-best-practices-for-dev-and-prod",
-    "upvotes": 197,
+    "upvotes": 211,
     "author": "brycefehmel",
-    "comments": 109,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=32484008"
-  },
-  {
-    "title": "Plasma reactors could create oxygen on Mars",
-    "url": "https://www.science.org/content/article/plasma-reactors-could-create-oxygen-mars",
-    "upvotes": 23,
-    "author": "rntn",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=32487738"
-  },
-  {
-    "title": "Instagram, TikTok, and the Three Trends",
-    "url": "https://stratechery.com/2022/instagram-tiktok-and-the-three-trends/",
-    "upvotes": 194,
-    "author": "kaboro",
-    "comments": 147,
-    "link": "https://news.ycombinator.com/item?id=32482523"
-  },
-  {
-    "title": "Why React Re-Renders",
-    "url": "https://www.joshwcomeau.com/react/why-react-re-renders/",
-    "upvotes": 89,
-    "author": "clessg",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=32485460"
-  },
-  {
-    "title": "SSH Tips and Tricks",
-    "url": "https://carlosbecker.dev/posts/ssh-tips-and-tricks/",
-    "upvotes": 51,
-    "author": "feross",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=32486031"
-  },
-  {
-    "title": "Supabase-JS v2",
-    "url": "https://supabase.com/blog/supabase-js-v2",
-    "upvotes": 103,
-    "author": "samuba",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=32484286"
-  },
-  {
-    "title": "A pizzeria owner made money buying his own $24 pizzas from DoorDash for $16",
-    "url": "https://www.theverge.com/2020/5/18/21262316/doordash-pizza-profits-venture-capital-the-margins-ranjan-roy",
-    "upvotes": 218,
-    "author": "pwthornton",
-    "comments": 222,
-    "link": "https://news.ycombinator.com/item?id=32486703"
-  },
-  {
-    "title": "You can't afford to be an artist and/or author, let alone be respected",
-    "url": "https://www.cdahmedeh.net/blog/2022/8/16/you-cant-afford-to-be-an-artist-let-alone-be-respected",
-    "upvotes": 59,
-    "author": "cdahmedeh",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=32487190"
   },
   {
     "title": "Prometheus: Fuel from the Air",
     "url": "https://prometheusfuels.com/technology",
-    "upvotes": 14,
+    "upvotes": 28,
     "author": "swamp40",
-    "comments": 4,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=32487430"
+  },
+  {
+    "title": "SSH Tips and Tricks",
+    "url": "https://carlosbecker.dev/posts/ssh-tips-and-tricks/",
+    "upvotes": 67,
+    "author": "feross",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=32486031"
+  },
+  {
+    "title": "Why React Re-Renders",
+    "url": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+    "upvotes": 106,
+    "author": "clessg",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=32485460"
+  },
+  {
+    "title": "Vector search just got up to 10x faster and vertically scalable",
+    "url": "https://www.pinecone.io/learn/faster-easier-scalable/",
+    "upvotes": 23,
+    "author": "gk1",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32487856"
+  },
+  {
+    "title": "Instagram, TikTok, and the Three Trends",
+    "url": "https://stratechery.com/2022/instagram-tiktok-and-the-three-trends/",
+    "upvotes": 199,
+    "author": "kaboro",
+    "comments": 155,
+    "link": "https://news.ycombinator.com/item?id=32482523"
+  },
+  {
+    "title": "You can't afford to be an artist and/or author, let alone be respected",
+    "url": "https://www.cdahmedeh.net/blog/2022/8/16/you-cant-afford-to-be-an-artist-let-alone-be-respected",
+    "upvotes": 70,
+    "author": "cdahmedeh",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=32487190"
+  },
+  {
+    "title": "Supabase-JS v2",
+    "url": "https://supabase.com/blog/supabase-js-v2",
+    "upvotes": 110,
+    "author": "samuba",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=32484286"
   },
   {
     "title": "Class-specific diffractive cameras with all-optical erasure of undesired objects",
     "url": "https://elight.springeropen.com/articles/10.1186/s43593-022-00021-3",
-    "upvotes": 19,
+    "upvotes": 25,
     "author": "rntn",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32469117"
@@ -108,131 +116,123 @@
     "url": "item?id=32485639"
   },
   {
-    "title": "The Elocution Cage",
-    "url": "https://www.historians.org/publications-and-directories/perspectives-on-history/may-2022/the-elocution-cage",
-    "upvotes": 10,
-    "author": "Caiero",
+    "title": "Wokwi – Simulate IoT Projects in the Browser",
+    "url": "https://wokwi.com/",
+    "upvotes": 6,
+    "author": "pykello",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32473008"
-  },
-  {
-    "title": "American Airlines agrees to purchase Boom Supersonic Overture aircraft",
-    "url": "https://boomsupersonic.com/news/post/american-airlines-announces-agreement-to-purchase-boom-supersonic-overture-aircraft-places-deposit-on-20-overtures",
-    "upvotes": 347,
-    "author": "spatulon",
-    "comments": 441,
-    "link": "https://news.ycombinator.com/item?id=32483077"
+    "link": "https://news.ycombinator.com/item?id=32488739"
   },
   {
     "title": "Faster offset pagination for Rails apps",
     "url": "https://planetscale.com/blog/fastpage-faster-offset-pagination-for-rails-apps",
-    "upvotes": 67,
+    "upvotes": 76,
     "author": "samlambert",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=32484807"
+  },
+  {
+    "title": "One Tag to Rule Them All: Introducing the New Google Tag",
+    "url": "https://www.simoahava.com/analytics/one-tag-rule-them-all-introducing-google-tag/",
+    "upvotes": 22,
+    "author": "sdoering",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32487073"
+  },
+  {
+    "title": "BRL-CAD",
+    "url": "https://en.wikipedia.org/wiki/BRL-CAD",
+    "upvotes": 6,
+    "author": "aparks517",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32449336"
   },
   {
     "title": "England’s Oldest Surviving Shipwreck Is a 13th-Century Merchant Vessel",
     "url": "https://www.smithsonianmag.com/smart-news/englands-oldest-surviving-shipwreck-is-a-13th-century-merchant-vessel-180980474/",
-    "upvotes": 42,
+    "upvotes": 46,
     "author": "benbreen",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32461526"
   },
   {
+    "title": "American Airlines agrees to purchase Boom Supersonic Overture aircraft",
+    "url": "https://boomsupersonic.com/news/post/american-airlines-announces-agreement-to-purchase-boom-supersonic-overture-aircraft-places-deposit-on-20-overtures",
+    "upvotes": 357,
+    "author": "spatulon",
+    "comments": 452,
+    "link": "https://news.ycombinator.com/item?id=32483077"
+  },
+  {
+    "title": "The Elocution Cage",
+    "url": "https://www.historians.org/publications-and-directories/perspectives-on-history/may-2022/the-elocution-cage",
+    "upvotes": 12,
+    "author": "Caiero",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32473008"
+  },
+  {
     "title": "How and why I built Japan Dev",
     "url": "https://japan-dev.com/blog/how-and-why-i-built-japan-dev",
-    "upvotes": 390,
+    "upvotes": 394,
     "author": "davgoldin",
     "comments": 135,
     "link": "https://news.ycombinator.com/item?id=32479731"
   },
   {
-    "title": "Vector search just got up to 10x faster and vertically scalable",
-    "url": "https://www.pinecone.io/learn/faster-easier-scalable/",
-    "upvotes": 9,
-    "author": "gk1",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32487856"
+    "title": "The AI Art Apocalypse",
+    "url": "https://alexanderwales.com/the-ai-art-apocalypse/",
+    "upvotes": 28,
+    "author": "nkurz",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=32486133"
+  },
+  {
+    "title": "A pizzeria owner made money buying his own $24 pizzas from DoorDash for $16",
+    "url": "https://www.theverge.com/2020/5/18/21262316/doordash-pizza-profits-venture-capital-the-margins-ranjan-roy",
+    "upvotes": 245,
+    "author": "pwthornton",
+    "comments": 273,
+    "link": "https://news.ycombinator.com/item?id=32486703"
   },
   {
     "title": "Redbean web server debugging with ZeroBrane Studio",
     "url": "https://notebook.kulchenko.com/redbean/redbean-debugging-with-zerobrane-studio",
-    "upvotes": 35,
+    "upvotes": 37,
     "author": "paulclinger",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=32484206"
   },
   {
+    "title": "Revirt – Virtualization on Redox OS",
+    "url": "https://www.redox-os.org/news/revirt-1/",
+    "upvotes": 30,
+    "author": "cassepipe",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=32457253"
+  },
+  {
     "title": "The Controversial Plan to Unleash the Mississippi",
     "url": "https://hakaimagazine.com/features/the-controversial-plan-to-unleash-the-mississippi/",
-    "upvotes": 83,
+    "upvotes": 84,
     "author": "samclemens",
-    "comments": 36,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=32450168"
   },
   {
     "title": "Show HN: I made a local development, debugging and hotreload tool for AWS Lambda",
     "url": "https://github.com/thundra-io/merloc-java",
-    "upvotes": 78,
+    "upvotes": 79,
     "author": "sozal",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=32483870"
-  },
-  {
-    "title": "Revirt – Virtualization on Redox OS",
-    "url": "https://www.redox-os.org/news/revirt-1/",
-    "upvotes": 24,
-    "author": "cassepipe",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=32457253"
   },
   {
     "title": "Functional Reactive Programming",
     "url": "https://wiki.haskell.org/Functional_Reactive_Programming",
     "upvotes": 169,
     "author": "amelius",
-    "comments": 91,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=32448772"
-  },
-  {
-    "title": "Learning to Spell in Linear B: Scribal Training in Mycenaean Pylos",
-    "url": "https://www.cambridge.org/core/journals/cambridge-classical-journal/article/learning-to-spell-in-linear-b-orthography-and-scribal-training-in-mycenaean-pylos/50556D5B86414A3958575FB2C24B6FD1",
-    "upvotes": 32,
-    "author": "diodorus",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32484901"
-  },
-  {
-    "title": "The AI Art Apocalypse",
-    "url": "https://alexanderwales.com/the-ai-art-apocalypse/",
-    "upvotes": 20,
-    "author": "nkurz",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32486133"
-  },
-  {
-    "title": "One Tag to Rule Them All: Introducing the New Google Tag",
-    "url": "https://www.simoahava.com/analytics/one-tag-rule-them-all-introducing-google-tag/",
-    "upvotes": 13,
-    "author": "sdoering",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=32487073"
-  },
-  {
-    "title": ".NET 6 is now in Ubuntu 22.04",
-    "url": "https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/",
-    "upvotes": 316,
-    "author": "styx31",
-    "comments": 273,
-    "link": "https://news.ycombinator.com/item?id=32482323"
-  },
-  {
-    "title": "Custom Mouse",
-    "url": "https://github.com/great-houk/mouse-project",
-    "upvotes": 55,
-    "author": "todsacerdoti",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=32482049"
   }
 ]
