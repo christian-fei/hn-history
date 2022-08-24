@@ -2,98 +2,106 @@
   {
     "title": "Mainnet Merge Announcement",
     "url": "https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/",
-    "upvotes": 157,
+    "upvotes": 213,
     "author": "bowsamic",
-    "comments": 128,
+    "comments": 184,
     "link": "https://news.ycombinator.com/item?id=32578569"
+  },
+  {
+    "title": "Denuvo Launches Nintendo Switch Emulator Protection",
+    "url": "https://irdeto.com/news/denuvo-by-irdeto-launches-the-industrys-first-nintendo-switch-emulator-protection/",
+    "upvotes": 30,
+    "author": "lucas_",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=32580646"
   },
   {
     "title": "AI-designed camera only records objects of interest while being blind to others",
     "url": "https://cnsi.ucla.edu/project/august-15-2022-ai-designed-camera-only-records-objects-of-interest-while-being-blind-to-others/",
-    "upvotes": 38,
+    "upvotes": 56,
     "author": "m-watson",
-    "comments": 15,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=32579905"
+  },
+  {
+    "title": "Accounting for Developers, Part II",
+    "url": "https://www.moderntreasury.com/journal/accounting-for-developers-part-ii",
+    "upvotes": 70,
+    "author": "qin",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32580016"
   },
   {
     "title": "Things people blamed on bicycles",
     "url": "https://twitter.com/paulisci/status/1561848479470694403",
-    "upvotes": 484,
+    "upvotes": 501,
     "author": "the-archivist",
-    "comments": 541,
+    "comments": 567,
     "link": "https://news.ycombinator.com/item?id=32575668"
   },
   {
     "title": "How to pay your rent with your open source project",
     "url": "https://plausible.io/blog/open-source-funding",
-    "upvotes": 179,
+    "upvotes": 189,
     "author": "gregnavis",
-    "comments": 133,
+    "comments": 147,
     "link": "https://news.ycombinator.com/item?id=32577513"
-  },
-  {
-    "title": "Accounting for Developers, Part II",
-    "url": "https://www.moderntreasury.com/journal/accounting-for-developers-part-ii",
-    "upvotes": 27,
-    "author": "qin",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32580016"
-  },
-  {
-    "title": "Rust – A hard decision pays off",
-    "url": "https://www.pinecone.io/learn/inside-the-pinecone/#rust-a-hard-decision-pays-off",
-    "upvotes": 168,
-    "author": "muizelaar",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=32578743"
   },
   {
     "title": "Show HN: Fuzz Map – a GUI fuzzer, interactive demo",
     "url": "https://www.fuzzmap.io/?welcome=1",
-    "upvotes": 78,
+    "upvotes": 87,
     "author": "jonathanyc",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32578311"
   },
   {
+    "title": "Rust – A hard decision pays off",
+    "url": "https://www.pinecone.io/learn/inside-the-pinecone/#rust-a-hard-decision-pays-off",
+    "upvotes": 188,
+    "author": "muizelaar",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=32578743"
+  },
+  {
     "title": "A Critique of SQL, 40 Years Later",
     "url": "https://carlineng.com/?postid=sql-critique#blog",
-    "upvotes": 49,
+    "upvotes": 60,
     "author": "mariuz",
-    "comments": 23,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=32578725"
-  },
-  {
-    "title": "Denuvo Launches Nintendo Switch Emulator Protection",
-    "url": "https://irdeto.com/news/denuvo-by-irdeto-launches-the-industrys-first-nintendo-switch-emulator-protection/",
-    "upvotes": 7,
-    "author": "lucas_",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=32580646"
-  },
-  {
-    "title": "The container orchestrator landscape",
-    "url": "https://lwn.net/SubscriberLink/905164/e1f4d4c1ce35f8b9/",
-    "upvotes": 109,
-    "author": "chmaynard",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=32577758"
   },
   {
     "title": "Fixing my PC's persistent graphics and audio stutters",
     "url": "https://www.ctrl.blog/entry/troubleshoot-stuttering.html",
-    "upvotes": 9,
+    "upvotes": 16,
     "author": "pimterry",
-    "comments": 4,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=32580336"
+  },
+  {
+    "title": "The container orchestrator landscape",
+    "url": "https://lwn.net/SubscriberLink/905164/e1f4d4c1ce35f8b9/",
+    "upvotes": 121,
+    "author": "chmaynard",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=32577758"
   },
   {
     "title": "Auto giants like BMW, GM and Toyota make drivers ‘subscribe’ for basic features",
     "url": "https://nypost.com/2022/08/21/auto-giants-like-bmw-gm-and-toyota-make-drivers-subscribe-for-basic-features/",
-    "upvotes": 49,
+    "upvotes": 76,
     "author": "josephcsible",
-    "comments": 45,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=32580027"
+  },
+  {
+    "title": "How SQLite Scales Read Concurrency",
+    "url": "https://fly.io/blog/sqlite-internals-wal/",
+    "upvotes": 18,
+    "author": "pkilgore",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32579866"
   },
   {
     "title": "Sieve (YC W22) Is Building AI Infrastructure for Video",
@@ -102,23 +110,39 @@
   {
     "title": "Weylus – Use your tablet as graphic tablet/touch screen on Linux",
     "url": "https://github.com/H-M-H/Weylus",
-    "upvotes": 76,
+    "upvotes": 84,
     "author": "xept",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=32577177"
   },
   {
-    "title": "Medieval medicine under the spotlight in major new project",
-    "url": "https://www.cam.ac.uk/stories/curious-medieval-medicine",
-    "upvotes": 23,
-    "author": "benbreen",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=32542570"
+    "title": "Free Will: Who’s in Control?",
+    "url": "https://deepfix.substack.com/p/free-will-whos-in-control",
+    "upvotes": 12,
+    "author": "lawrenceyan",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=32579942"
+  },
+  {
+    "title": "IPv6 support for cloning Git repositories from GitHub",
+    "url": "https://github.com/orgs/community/discussions/10539",
+    "upvotes": 17,
+    "author": "stargrave",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32579914"
+  },
+  {
+    "title": "California to Ban the Sale of New Gasoline Cars",
+    "url": "https://www.nytimes.com/2022/08/24/climate/california-gas-cars-emissions.html",
+    "upvotes": 24,
+    "author": "nocommandline",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32580727"
   },
   {
     "title": "The Secret Language of Signs",
     "url": "http://www.slate.com/articles/life/signs/2010/03/the_secret_language_of_signs.html",
-    "upvotes": 6,
+    "upvotes": 8,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32550092"
@@ -126,33 +150,57 @@
   {
     "title": "The Unlovable, Irresistible John Donne",
     "url": "https://www.theatlantic.com/magazine/archive/2022/09/john-donne-poetry-super-infinite-book/670605/",
-    "upvotes": 10,
+    "upvotes": 14,
     "author": "pepys",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32546935"
   },
   {
-    "title": "Device Frames – 3D Device Mockup Generator",
-    "url": "https://deviceframes.com/",
-    "upvotes": 60,
-    "author": "tgirotto",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=32577027"
+    "title": "Medieval medicine under the spotlight in major new project",
+    "url": "https://www.cam.ac.uk/stories/curious-medieval-medicine",
+    "upvotes": 24,
+    "author": "benbreen",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32542570"
+  },
+  {
+    "title": "A near 100% renewables grid is well within reach, and with little storage",
+    "url": "https://reneweconomy.com.au/a-near-100-per-cent-renewables-grid-is-well-within-reach-and-with-little-storage/",
+    "upvotes": 3,
+    "author": "guerby",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32580844"
   },
   {
     "title": "Two astrophotographers teamed up to capture a stellar image of the moon",
     "url": "https://www.npr.org/2022/08/22/1118713393/astrophotographers-moon-reddit-image",
-    "upvotes": 57,
+    "upvotes": 64,
     "author": "pseudolus",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32550531"
   },
   {
+    "title": "Are we going back to the cable days?",
+    "url": "https://thehustle.co/08222022-streaming-vs-cable/",
+    "upvotes": 56,
+    "author": "obert",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=32549316"
+  },
+  {
+    "title": "Device Frames – 3D Device Mockup Generator",
+    "url": "https://deviceframes.com/",
+    "upvotes": 62,
+    "author": "tgirotto",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=32577027"
+  },
+  {
     "title": "Build a simple 2D physics engine for JavaScript games",
     "url": "https://developer.ibm.com/tutorials/wa-build2dphysicsengine/",
-    "upvotes": 93,
+    "upvotes": 96,
     "author": "WoodenChair",
-    "comments": 26,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=32576230"
   },
   {
@@ -160,79 +208,31 @@
     "url": "https://en.wikipedia.org/wiki/Halligan_bar",
     "upvotes": 63,
     "author": "mhb",
-    "comments": 23,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32550282"
-  },
-  {
-    "title": "Free Will: Who’s in Control?",
-    "url": "https://deepfix.substack.com/p/free-will-whos-in-control",
-    "upvotes": 6,
-    "author": "lawrenceyan",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=32579942"
-  },
-  {
-    "title": "Are we going back to the cable days?",
-    "url": "https://thehustle.co/08222022-streaming-vs-cable/",
-    "upvotes": 45,
-    "author": "obert",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=32549316"
   },
   {
     "title": "Rustle: Svelte compiler rewritten in Rust",
     "url": "https://github.com/pintariching/rustle",
-    "upvotes": 176,
+    "upvotes": 180,
     "author": "tsujp",
-    "comments": 68,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=32575086"
   },
   {
     "title": "Love might be a second-order phase transition",
     "url": "https://arxiv.org/abs/2203.13246",
-    "upvotes": 35,
+    "upvotes": 37,
     "author": "aaraujo002",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32577009"
   },
   {
-    "title": "IPv6 support for cloning Git repositories from GitHub",
-    "url": "https://github.com/orgs/community/discussions/10539",
-    "upvotes": 4,
-    "author": "stargrave",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32579914"
-  },
-  {
-    "title": "How SQLite Scales Read Concurrency",
-    "url": "https://fly.io/blog/sqlite-internals-wal/",
-    "upvotes": 7,
-    "author": "pkilgore",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32579866"
-  },
-  {
-    "title": "Design the next iPhone",
-    "url": "https://neal.fun/design-the-next-iphone/",
-    "upvotes": 1390,
-    "author": "mkeeter",
-    "comments": 340,
-    "link": "https://news.ycombinator.com/item?id=32567147"
-  },
-  {
-    "title": "Plex: Important notice of a potential data breach",
-    "url": "item?id=32575350",
-    "upvotes": 197,
-    "author": "Flollop",
-    "comments": 138,
-    "link": "https://news.ycombinator.com/item?id=32575350"
-  },
-  {
-    "title": "Capacity Plan",
-    "url": "https://fev.al/posts/capacity-plan/",
-    "upvotes": 49,
-    "author": "charles_f",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=32575639"
+    "title": "Ask HN: Are You Leaving Heroku?",
+    "url": "item?id=32580597",
+    "upvotes": 11,
+    "author": "seancoleman",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32580597"
   }
 ]
