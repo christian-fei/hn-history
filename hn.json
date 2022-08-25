@@ -2,103 +2,107 @@
   {
     "title": "PostgreSQL 14 Internals book – Part II released",
     "url": "https://postgrespro.com/blog/pgsql/5969682",
-    "upvotes": 129,
+    "upvotes": 148,
     "author": "rrampage",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32593996"
   },
   {
     "title": "Orcas Are Breaking Rudders Off Boats in Europe",
     "url": "https://www.smithsonianmag.com/smart-news/orcas-are-breaking-rudders-off-boats-in-europe-180980627/",
-    "upvotes": 114,
+    "upvotes": 125,
     "author": "pseudolus",
-    "comments": 59,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=32593799"
   },
   {
     "title": "Heroku's Next Chapter",
     "url": "https://blog.heroku.com/next-chapter",
-    "upvotes": 217,
+    "upvotes": 264,
     "author": "countspongebob",
-    "comments": 114,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=32594533"
+  },
+  {
+    "title": "DuckDuckGo Email",
+    "url": "https://duckduckgo.com/email/",
+    "upvotes": 20,
+    "author": "WithinReason",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=32596306"
   },
   {
     "title": "Dropping latency 90% by porting SpiceDB to WASM",
     "url": "https://authzed.com/blog/some-assembly-required/",
-    "upvotes": 25,
+    "upvotes": 35,
     "author": "jzelinskie",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32595310"
+  },
+  {
+    "title": "Contentedge",
+    "url": "https://www.contentedge.com/?pg=jobs"
+  },
+  {
+    "title": "Best Practices for TypeScript Monorepo",
+    "url": "https://blog.flycode.com/best-practices-for-typescript-monorepo",
+    "upvotes": 42,
+    "author": "iddan",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32594915"
   },
   {
     "title": "How the dead internet theory is fast becoming reality",
     "url": "https://grandy.substack.com/p/the-new-normal-the-coming-tsunami",
-    "upvotes": 217,
+    "upvotes": 236,
     "author": "finetuner",
-    "comments": 201,
+    "comments": 218,
     "link": "https://news.ycombinator.com/item?id=32594010"
   },
   {
     "title": "Removal of Heroku Free Product Plans FAQ",
     "url": "https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq",
-    "upvotes": 11,
+    "upvotes": 28,
     "author": "tech234a",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32595589"
-  },
-  {
-    "title": "Best Practices for TypeScript Monorepo",
-    "url": "https://blog.flycode.com/best-practices-for-typescript-monorepo",
-    "upvotes": 34,
-    "author": "iddan",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32594915"
   },
   {
     "title": "Lisp can be Hard Real Time [pdf]",
     "url": "https://franz.com/services/conferences_seminars/jlugm00/conference/Talk14_takeuchi.pdf",
-    "upvotes": 95,
+    "upvotes": 99,
     "author": "ducktective",
-    "comments": 57,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=32592492"
-  },
-  {
-    "title": "Build Android apps without an Android SDK using PicoLisp",
-    "url": "https://picolisp.com/wiki/?pilbox",
-    "upvotes": 69,
-    "author": "ducktective",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=32592550"
   },
   {
     "title": "The Great Miyazaki Watch of 2022",
     "url": "https://www.robinsloan.com/newsletters/visions/#miyazaki",
-    "upvotes": 195,
+    "upvotes": 198,
     "author": "akkartik",
     "comments": 90,
     "link": "https://news.ycombinator.com/item?id=32560278"
   },
   {
-    "title": "Effective altruism as a tower of assumptions",
-    "url": "https://astralcodexten.substack.com/p/effective-altruism-as-a-tower-of",
-    "upvotes": 18,
-    "author": "feross",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=32576224"
+    "title": "Build Android apps without an Android SDK using PicoLisp",
+    "url": "https://picolisp.com/wiki/?pilbox",
+    "upvotes": 72,
+    "author": "ducktective",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=32592550"
   },
   {
     "title": "The Lemon Parser Generator",
     "url": "https://sqlite.org/src/doc/trunk/doc/lemon.html",
-    "upvotes": 27,
+    "upvotes": 31,
     "author": "begoon",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=32562607"
   },
   {
     "title": "How to Make Flappy Bird with C++",
     "url": "https://terminalroot.com/how-to-make-flappy-bird-with-cpp/",
-    "upvotes": 60,
+    "upvotes": 67,
     "author": "marcoscpp",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=32592600"
@@ -106,27 +110,23 @@
   {
     "title": "Heroku is phasing out free product plans",
     "url": "https://twitter.com/heroku/status/1562817050565054469",
-    "upvotes": 37,
+    "upvotes": 45,
     "author": "kualto",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32595425"
   },
   {
-    "title": "Zentail",
-    "url": "https://jobs.lever.co/zentail/31ca2286-2579-48ef-bccb-2653f9721bda"
-  },
-  {
-    "title": "Science must respect the dignity and rights of all humans",
-    "url": "https://www.nature.com/articles/s41562-022-01443-2",
-    "upvotes": 64,
-    "author": "alphabetting",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=32595083"
+    "title": "Linux 6.1 Will Make It a Bit Easier to Help Spot Faulty CPUs",
+    "url": "https://www.phoronix.com/news/Linux-6.1-Seg-Fault-Report-CPU",
+    "upvotes": 46,
+    "author": "HieronymusBosch",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32594836"
   },
   {
     "title": "The Fall of Datacenter Software",
     "url": "https://www.sigarch.org/the-fall-of-datacenter-software/",
-    "upvotes": 67,
+    "upvotes": 71,
     "author": "hasheddan",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=32591962"
@@ -134,66 +134,90 @@
   {
     "title": "Imagen: An AI system that creates photorealistic images from input text",
     "url": "https://imagen.research.google",
-    "upvotes": 245,
+    "upvotes": 248,
     "author": "fagnerbrack",
-    "comments": 188,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=32589185"
-  },
-  {
-    "title": "Why Does the U.S. Have the Best Research Universities?",
-    "url": "https://www.nber.org/papers/w28279",
-    "upvotes": 54,
-    "author": "ilarum",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=32592378"
   },
   {
     "title": "I want to dive into how to make search engines",
     "url": "item?id=32593190",
-    "upvotes": 60,
+    "upvotes": 69,
     "author": "oikawa_tooru",
-    "comments": 40,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=32593190"
   },
   {
-    "title": "Linux 6.1 Will Make It a Bit Easier to Help Spot Faulty CPUs",
-    "url": "https://www.phoronix.com/news/Linux-6.1-Seg-Fault-Report-CPU",
-    "upvotes": 33,
-    "author": "HieronymusBosch",
+    "title": "Creativity Requires Solitude",
+    "url": "https://dkb.show/post/creativity-requires-solitude",
+    "upvotes": 4,
+    "author": "dbrereton",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32594836"
+    "link": "https://news.ycombinator.com/item?id=32595681"
   },
   {
     "title": "Patent Trolls Inbound: Our First Lawsuit",
     "url": "https://blog.comma.ai/ourfirstlawsuit/",
-    "upvotes": 1072,
+    "upvotes": 1074,
     "author": "arduinomancer",
-    "comments": 257,
+    "comments": 258,
     "link": "https://news.ycombinator.com/item?id=32586898"
   },
   {
     "title": "Type of Barcodes and Their Usage",
     "url": "https://scanbot.io/blog/types-of-barcodes/",
-    "upvotes": 101,
+    "upvotes": 104,
     "author": "arthurscan",
-    "comments": 38,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=32591356"
+  },
+  {
+    "title": "Living Closer Together",
+    "url": "https://aeon.co/essays/how-urban-density-can-make-our-neighbourhoods-better",
+    "upvotes": 4,
+    "author": "samclemens",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32575423"
   },
   {
     "title": "Desiderata by Max Ehrmann",
     "url": "https://en.wikipedia.org/wiki/Desiderata",
-    "upvotes": 51,
+    "upvotes": 53,
     "author": "emmelaich",
-    "comments": 30,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=32517930"
   },
   {
     "title": "A History of HTML",
     "url": "https://www.w3.org/People/Raggett/book4/ch02.html",
-    "upvotes": 29,
+    "upvotes": 30,
     "author": "mmastrac",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=32575159"
+  },
+  {
+    "title": "A 14kb page can load much faster than a 15kb page",
+    "url": "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/",
+    "upvotes": 750,
+    "author": "DitheringIdiot",
+    "comments": 306,
+    "link": "https://news.ycombinator.com/item?id=32587740"
+  },
+  {
+    "title": "Too many Americans live in places built for cars – not for human connection",
+    "url": "https://www.vox.com/features/23191527/urban-planning-friendship-houston-cars-loneliness",
+    "upvotes": 235,
+    "author": "smn1234",
+    "comments": 302,
+    "link": "https://news.ycombinator.com/item?id=32593965"
+  },
+  {
+    "title": "Why Does the U.S. Have the Best Research Universities?",
+    "url": "https://www.nber.org/papers/w28279",
+    "upvotes": 58,
+    "author": "ilarum",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=32592378"
   },
   {
     "title": "Designing for Improvisation",
@@ -204,35 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=32594867"
   },
   {
-    "title": "Too many Americans live in places built for cars – not for human connection",
-    "url": "https://www.vox.com/features/23191527/urban-planning-friendship-houston-cars-loneliness",
-    "upvotes": 213,
-    "author": "smn1234",
-    "comments": 268,
-    "link": "https://news.ycombinator.com/item?id=32593965"
-  },
-  {
-    "title": "A 14kb page can load much faster than a 15kb page",
-    "url": "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/",
-    "upvotes": 740,
-    "author": "DitheringIdiot",
-    "comments": 302,
-    "link": "https://news.ycombinator.com/item?id=32587740"
-  },
-  {
-    "title": "Ask HN: CEO wants us to fill out NOT ANONYMOUS survey that only he can read",
-    "url": "item?id=32594941",
-    "upvotes": 14,
-    "author": "edhowzerblack",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=32594941"
-  },
-  {
-    "title": "Fix it, Fork it, Fuck off",
-    "url": "https://boyter.org/posts/the-three-f-s-of-open-source/",
-    "upvotes": 381,
-    "author": "ran5kpd",
-    "comments": 226,
-    "link": "https://news.ycombinator.com/item?id=32591265"
+    "title": "Science must respect the dignity and rights of all humans",
+    "url": "https://www.nature.com/articles/s41562-022-01443-2",
+    "upvotes": 70,
+    "author": "alphabetting",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=32595083"
   }
 ]
