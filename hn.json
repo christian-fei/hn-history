@@ -1,80 +1,120 @@
 [
   {
-    "title": "Amazon Reportedly Makes Offer to Acquire Electronic Arts",
-    "url": "https://www.thegamer.com/amazon-reportedly-makes-offer-acquire-electronic-arts/",
-    "upvotes": 101,
-    "author": "OrangeMonkey",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=32605949"
-  },
-  {
     "title": "Oberon: The tiniest but richest FOSS HLL and OS you've never heard of",
     "url": "http://ignorethecode.net/blog/2009/04/22/oberon/",
-    "upvotes": 105,
+    "upvotes": 120,
     "author": "lproven",
-    "comments": 43,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=32605287"
+  },
+  {
+    "title": "Amazon Reportedly Makes Offer to Acquire Electronic Arts",
+    "url": "https://www.thegamer.com/amazon-reportedly-makes-offer-acquire-electronic-arts/",
+    "upvotes": 135,
+    "author": "OrangeMonkey",
+    "comments": 155,
+    "link": "https://news.ycombinator.com/item?id=32605949"
   },
   {
     "title": "The Toxic Culture of Rejection in Computer Science",
     "url": "https://sigbed.org/2022/08/22/the-toxic-culture-of-rejection-in-computer-science/",
-    "upvotes": 47,
+    "upvotes": 69,
     "author": "headalgorithm",
-    "comments": 9,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=32605494"
+  },
+  {
+    "title": "Why Aren't There C Conferences?",
+    "url": "https://nullprogram.com/blog/2018/11/21/",
+    "upvotes": 15,
+    "author": "optimalsolver",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32606533"
   },
   {
     "title": "Why Xen Wasn't Hit by RETBleed on Intel CPUs",
     "url": "https://xcp-ng.org/blog/2022/08/26/why-xen-wasnt-hit-by-retbleed-on-intel-cpus/",
-    "upvotes": 51,
+    "upvotes": 55,
     "author": "plam503711",
-    "comments": 14,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32605361"
+  },
+  {
+    "title": "How discord stores billions of messages",
+    "url": "https://discord.com/blog/how-discord-stores-billions-of-messages",
+    "upvotes": 39,
+    "author": "greymalik",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32606553"
   },
   {
     "title": "I Love My PinePhone",
     "url": "https://jakob.space/blog/i-love-my-pinephone.html",
-    "upvotes": 36,
+    "upvotes": 43,
     "author": "todsacerdoti",
-    "comments": 18,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=32605597"
   },
   {
     "title": "SpaceX, T-Mobile to connect satellites to cellphones in remote areas",
     "url": "https://www.wsj.com/articles/spacex-and-t-mobile-to-connect-starlink-satellites-to-cellphones-in-remote-parts-of-u-s-11661473520",
-    "upvotes": 485,
+    "upvotes": 497,
     "author": "mmastrac",
-    "comments": 370,
+    "comments": 378,
     "link": "https://news.ycombinator.com/item?id=32601873"
+  },
+  {
+    "title": "Ask HN: Contractors, what is your hourly rate?",
+    "url": "item?id=32606348",
+    "upvotes": 45,
+    "author": "TbobbyZ",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=32606348"
   },
   {
     "title": "The Next Mainstream Programming Language: A Game Developer’s Perspective",
     "url": "https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/sweeny.pdf",
-    "upvotes": 28,
+    "upvotes": 36,
     "author": "Tomte",
-    "comments": 6,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=32605605"
   },
   {
     "title": "Classic HN Links",
     "url": "https://posobin.com/hn_classics/",
-    "upvotes": 55,
+    "upvotes": 60,
     "author": "memorable",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=32604870"
+  },
+  {
+    "title": "Tell HN: Spammed by a Hacker News Enthusiast",
+    "url": "item?id=32605784",
+    "upvotes": 58,
+    "author": "ColinWright",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=32605784"
+  },
+  {
+    "title": "Amid Chip Shortages, Companies Bet on RISC-V",
+    "url": "https://www.allaboutcircuits.com/news/amid-chip-shortages-companies-bet-on-risc-v/",
+    "upvotes": 4,
+    "author": "tomclancy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32606805"
   },
   {
     "title": "Espanso Cross-Platform Text Expander",
     "url": "https://espanso.org/",
-    "upvotes": 34,
+    "upvotes": 42,
     "author": "enbugger",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32605073"
   },
   {
     "title": "Unstripping Stripped Binaries",
     "url": "http://lock.cmpxchg8b.com/symbols.html",
-    "upvotes": 124,
+    "upvotes": 127,
     "author": "taviso",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=32603382"
@@ -82,78 +122,78 @@
   {
     "title": "Show HN: Devbox – Easy, predictable shells and containers",
     "url": "https://github.com/jetpack-io/devbox",
-    "upvotes": 381,
+    "upvotes": 389,
     "author": "robrich",
-    "comments": 143,
+    "comments": 146,
     "link": "https://news.ycombinator.com/item?id=32600821"
-  },
-  {
-    "title": "Tell HN: Spammed by a Hacker News Enthusiast",
-    "url": "item?id=32605784",
-    "upvotes": 29,
-    "author": "ColinWright",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=32605784"
   },
   {
     "title": "The Jupyter+Git problem is now solved",
     "url": "https://www.fast.ai/2022/08/25/jupyter-git/",
-    "upvotes": 172,
+    "upvotes": 180,
     "author": "jph00",
-    "comments": 104,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=32601703"
-  },
-  {
-    "title": "Search over 5M+ Stable Diffusion images and prompts",
-    "url": "https://lexica.art",
-    "upvotes": 62,
-    "author": "headalgorithm",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=32604021"
-  },
-  {
-    "title": "Unsigned comparisons in AVX2/SSE: a quick note",
-    "url": "https://outerproduct.net/trivial/2022-08-25_unsigned.html",
-    "upvotes": 37,
-    "author": "todsacerdoti",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=32604384"
-  },
-  {
-    "title": "Why do some humans love chili peppers?",
-    "url": "https://www.sapiens.org/culture/chili-pepper-anthropology/",
-    "upvotes": 52,
-    "author": "Petiver",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=32575393"
   },
   {
     "title": "Ashby",
     "url": "https://www.ashbyhq.com/careers?utm_source=hn"
   },
   {
-    "title": "Amazon set to buy Electronic Arts",
-    "url": "https://ftw.usatoday.com/2022/08/amazon-buy-electronic-arts",
-    "upvotes": 30,
-    "author": "trollied",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=32605922"
+    "title": "Search over 5M+ Stable Diffusion images and prompts",
+    "url": "https://lexica.art",
+    "upvotes": 71,
+    "author": "headalgorithm",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=32604021"
   },
   {
-    "title": "Elephant Effect – Considerations on Live Streaming Italy's Serie a Championship",
-    "url": "https://labs.ripe.net/author/flavio_luciani_1/the-elephant-effect-considerations-on-live-streaming-italys-serie-a-championship/",
-    "upvotes": 4,
-    "author": "minusf",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32576326"
+    "title": "Unsigned comparisons in AVX2/SSE: a quick note",
+    "url": "https://outerproduct.net/trivial/2022-08-25_unsigned.html",
+    "upvotes": 40,
+    "author": "todsacerdoti",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32604384"
+  },
+  {
+    "title": "Why do some humans love chili peppers?",
+    "url": "https://www.sapiens.org/culture/chili-pepper-anthropology/",
+    "upvotes": 58,
+    "author": "Petiver",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=32575393"
+  },
+  {
+    "title": "In Germany digital signage to be reprogrammed so that it turns off after 10pm",
+    "url": "https://www.avinteractive.com/news/digital-signage/german-display-ban-prompts-confusion-about-exceptions-25-08-2022/",
+    "upvotes": 171,
+    "author": "amelius",
+    "comments": 293,
+    "link": "https://news.ycombinator.com/item?id=32604821"
+  },
+  {
+    "title": "Demystifying the LFSR",
+    "url": "https://www.moria.us/articles/demystifying-the-lfsr/",
+    "upvotes": 16,
+    "author": "randkyp",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32575723"
   },
   {
     "title": "Your online identity is owned by your email provider",
     "url": "https://www.ctrl.blog/entry/email-identity-provider.html",
-    "upvotes": 239,
+    "upvotes": 244,
     "author": "memorable",
-    "comments": 188,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=32563735"
+  },
+  {
+    "title": "Amazon set to buy Electronic Arts",
+    "url": "https://ftw.usatoday.com/2022/08/amazon-buy-electronic-arts",
+    "upvotes": 34,
+    "author": "trollied",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32605922"
   },
   {
     "title": "A toolbox for a secure software supply chain",
@@ -164,75 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=32604313"
   },
   {
-    "title": "In Germany digital signage to be reprogrammed so that it turns off after 10pm",
-    "url": "https://www.avinteractive.com/news/digital-signage/german-display-ban-prompts-confusion-about-exceptions-25-08-2022/",
-    "upvotes": 152,
-    "author": "amelius",
-    "comments": 270,
-    "link": "https://news.ycombinator.com/item?id=32604821"
-  },
-  {
     "title": "Against Generality",
     "url": "https://novalis.org/blog/2016-09-27-against-generality.html",
-    "upvotes": 23,
+    "upvotes": 25,
     "author": "luu",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32560636"
   },
   {
-    "title": "Demystifying the LFSR",
-    "url": "https://www.moria.us/articles/demystifying-the-lfsr/",
-    "upvotes": 13,
-    "author": "randkyp",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32575723"
+    "title": "Elephant Effect – Considerations on Live Streaming Italy's Serie a Championship",
+    "url": "https://labs.ripe.net/author/flavio_luciani_1/the-elephant-effect-considerations-on-live-streaming-italys-serie-a-championship/",
+    "upvotes": 4,
+    "author": "minusf",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32576326"
   },
   {
     "title": "Battery made of aluminum, sulfur and salt proves fast, safe and low-cost",
     "url": "https://newatlas.com/energy/aluminum-sulfur-salt-battery-fast-safe-low-cost/",
-    "upvotes": 34,
+    "upvotes": 43,
     "author": "calind",
-    "comments": 18,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=32605505"
   },
   {
     "title": "Remote scan of student’s room before test violated his privacy, judge rules",
     "url": "https://www.nytimes.com/2022/08/25/us/remote-testing-student-home-scan-privacy.html",
-    "upvotes": 113,
+    "upvotes": 122,
     "author": "hecubus",
-    "comments": 118,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=32604094"
-  },
-  {
-    "title": "Sanyo Triple Five",
-    "url": "https://www.leadedsolder.com/2022/08/23/sanyo-mbc555-power-supply-swap-pickup.html",
-    "upvotes": 94,
-    "author": "zdw",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=32572786"
-  },
-  {
-    "title": "Soketi: Simple, fast and resilient open-source WebSockets server",
-    "url": "https://soketi.app/",
-    "upvotes": 106,
-    "author": "rakibtg",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=32600698"
-  },
-  {
-    "title": "Launch HN: Artemis (YC S22) – Use comments to give code an interactive interface",
-    "url": "item?id=32598603",
-    "upvotes": 79,
-    "author": "austinmccoy6251",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=32598603"
-  },
-  {
-    "title": "Why there's no 'Dijon' in Dijon mustard",
-    "url": "https://www.bbc.com/travel/article/20220816-why-theres-no-dijon-in-dijon-mustard",
-    "upvotes": 63,
-    "author": "bryanrasmussen",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=32560983"
   }
 ]
