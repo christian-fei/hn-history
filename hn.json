@@ -2,23 +2,31 @@
   {
     "title": "Oberon: The tiniest but richest FOSS HLL and OS you've never heard of",
     "url": "http://ignorethecode.net/blog/2009/04/22/oberon/",
-    "upvotes": 21,
+    "upvotes": 42,
     "author": "lproven",
-    "comments": 2,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32605287"
+  },
+  {
+    "title": "Why Xen Wasn't Hit by RETBleed on Intel CPUs",
+    "url": "https://xcp-ng.org/blog/2022/08/26/why-xen-wasnt-hit-by-retbleed-on-intel-cpus/",
+    "upvotes": 17,
+    "author": "plam503711",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32605361"
   },
   {
     "title": "SpaceX, T-Mobile to connect satellites to cellphones in remote areas",
     "url": "https://www.wsj.com/articles/spacex-and-t-mobile-to-connect-starlink-satellites-to-cellphones-in-remote-parts-of-u-s-11661473520",
-    "upvotes": 444,
+    "upvotes": 453,
     "author": "mmastrac",
-    "comments": 356,
+    "comments": 357,
     "link": "https://news.ycombinator.com/item?id=32601873"
   },
   {
     "title": "Unstripping Stripped Binaries",
     "url": "http://lock.cmpxchg8b.com/symbols.html",
-    "upvotes": 108,
+    "upvotes": 112,
     "author": "taviso",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32603382"
@@ -26,94 +34,110 @@
   {
     "title": "Classic HN Links",
     "url": "https://posobin.com/hn_classics/",
-    "upvotes": 17,
+    "upvotes": 19,
     "author": "memorable",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=32604870"
-  },
-  {
-    "title": "What are Magnus Carlsen's chances of reaching 2900?",
-    "url": "https://new.chess24.com/wall/news/what-are-magnus-carlsen-s-chances-of-reaching-2900",
-    "upvotes": 39,
-    "author": "mellosouls",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=32604166"
   },
   {
     "title": "Show HN: Devbox – Easy, predictable shells and containers",
     "url": "https://github.com/jetpack-io/devbox",
-    "upvotes": 342,
+    "upvotes": 347,
     "author": "robrich",
-    "comments": 130,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=32600821"
-  },
-  {
-    "title": "Why Xen Wasn't Hit by RETBleed on Intel CPUs",
-    "url": "https://xcp-ng.org/blog/2022/08/26/why-xen-wasnt-hit-by-retbleed-on-intel-cpus/",
-    "upvotes": 4,
-    "author": "plam503711",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32605361"
-  },
-  {
-    "title": "Search over 5M+ Stable Diffusion images and prompts",
-    "url": "https://lexica.art",
-    "upvotes": 30,
-    "author": "headalgorithm",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=32604021"
   },
   {
     "title": "The Jupyter+Git problem is now solved",
     "url": "https://www.fast.ai/2022/08/25/jupyter-git/",
-    "upvotes": 137,
+    "upvotes": 147,
     "author": "jph00",
-    "comments": 65,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=32601703"
+  },
+  {
+    "title": "Search over 5M+ Stable Diffusion images and prompts",
+    "url": "https://lexica.art",
+    "upvotes": 35,
+    "author": "headalgorithm",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=32604021"
   },
   {
     "title": "Unsigned comparisons in AVX2/SSE: a quick note",
     "url": "https://outerproduct.net/trivial/2022-08-25_unsigned.html",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "todsacerdoti",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32604384"
   },
   {
-    "title": "Espanso Cross-Platform Text Expander",
-    "url": "https://espanso.org/",
-    "upvotes": 12,
-    "author": "enbugger",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32605073"
+    "title": "Should You Buy an EV? A calculator to figure it out",
+    "url": "https://www.davidexmachina.com/2022/08/should-you-buy-ev.html",
+    "upvotes": 7,
+    "author": "davidd8",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32583038"
+  },
+  {
+    "title": "The Next Mainstream Programming Language: A Game Developer’s Perspective",
+    "url": "https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/sweeny.pdf",
+    "upvotes": 4,
+    "author": "Tomte",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32605605"
   },
   {
     "title": "Why do some humans love chili peppers?",
     "url": "https://www.sapiens.org/culture/chili-pepper-anthropology/",
-    "upvotes": 34,
+    "upvotes": 35,
     "author": "Petiver",
-    "comments": 70,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=32575393"
+  },
+  {
+    "title": "Your online identity is owned by your email provider",
+    "url": "https://www.ctrl.blog/entry/email-identity-provider.html",
+    "upvotes": 216,
+    "author": "memorable",
+    "comments": 156,
+    "link": "https://news.ycombinator.com/item?id=32563735"
   },
   {
     "title": "Ashby",
     "url": "https://www.ashbyhq.com/careers?utm_source=hn"
   },
   {
-    "title": "Your online identity is owned by your email provider",
-    "url": "https://www.ctrl.blog/entry/email-identity-provider.html",
-    "upvotes": 210,
-    "author": "memorable",
-    "comments": 151,
-    "link": "https://news.ycombinator.com/item?id=32563735"
-  },
-  {
     "title": "Against Generality",
     "url": "https://novalis.org/blog/2016-09-27-against-generality.html",
-    "upvotes": 15,
+    "upvotes": 18,
     "author": "luu",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32560636"
+  },
+  {
+    "title": "Espanso Cross-Platform Text Expander",
+    "url": "https://espanso.org/",
+    "upvotes": 13,
+    "author": "enbugger",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32605073"
+  },
+  {
+    "title": "What are Magnus Carlsen's chances of reaching 2900?",
+    "url": "https://new.chess24.com/wall/news/what-are-magnus-carlsen-s-chances-of-reaching-2900",
+    "upvotes": 44,
+    "author": "mellosouls",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=32604166"
+  },
+  {
+    "title": "In Germany digital signage to be reprogrammed so that it turns off after 10pm",
+    "url": "https://www.avinteractive.com/news/digital-signage/german-display-ban-prompts-confusion-about-exceptions-25-08-2022/",
+    "upvotes": 113,
+    "author": "amelius",
+    "comments": 209,
+    "link": "https://news.ycombinator.com/item?id=32604821"
   },
   {
     "title": "A toolbox for a secure software supply chain",
@@ -124,33 +148,25 @@
     "link": "https://news.ycombinator.com/item?id=32604313"
   },
   {
-    "title": "Remote scan of student’s room before test violated his privacy, judge rules",
-    "url": "https://www.nytimes.com/2022/08/25/us/remote-testing-student-home-scan-privacy.html",
-    "upvotes": 89,
-    "author": "hecubus",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=32604094"
-  },
-  {
-    "title": "In Germany digital signage to be reprogrammed so that it turns off after 10pm",
-    "url": "https://www.avinteractive.com/news/digital-signage/german-display-ban-prompts-confusion-about-exceptions-25-08-2022/",
-    "upvotes": 97,
-    "author": "amelius",
-    "comments": 189,
-    "link": "https://news.ycombinator.com/item?id=32604821"
-  },
-  {
     "title": "Chez Scheme",
     "url": "https://github.com/cisco/ChezScheme",
-    "upvotes": 125,
+    "upvotes": 128,
     "author": "qsort",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=32600000"
   },
   {
+    "title": "Remote scan of student’s room before test violated his privacy, judge rules",
+    "url": "https://www.nytimes.com/2022/08/25/us/remote-testing-student-home-scan-privacy.html",
+    "upvotes": 94,
+    "author": "hecubus",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=32604094"
+  },
+  {
     "title": "Cybersecurity in 1989: Looking back at “The Cuckoo's Egg”",
     "url": "https://www.lawfareblog.com/cybersecurity-1989-looking-back-cliff-stolls-classic-cuckoos-egg",
-    "upvotes": 110,
+    "upvotes": 111,
     "author": "Hooke",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=32542620"
@@ -158,23 +174,15 @@
   {
     "title": "Sanyo Triple Five",
     "url": "https://www.leadedsolder.com/2022/08/23/sanyo-mbc555-power-supply-swap-pickup.html",
-    "upvotes": 82,
+    "upvotes": 83,
     "author": "zdw",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32572786"
   },
   {
-    "title": "Should You Buy an EV? A calculator to figure it out",
-    "url": "https://www.davidexmachina.com/2022/08/should-you-buy-ev.html",
-    "upvotes": 3,
-    "author": "davidd8",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32583038"
-  },
-  {
     "title": "Lyndon Johnson’s Campaign by Helicopter",
     "url": "https://www.smithsonianmag.com/air-space-magazine/campaign-by-helicopter-180958436/",
-    "upvotes": 7,
+    "upvotes": 8,
     "author": "benbreen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32574132"
@@ -182,9 +190,9 @@
   {
     "title": "Soketi: Simple, fast and resilient open-source WebSockets server",
     "url": "https://soketi.app/",
-    "upvotes": 89,
+    "upvotes": 91,
     "author": "rakibtg",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=32600698"
   },
   {
@@ -206,33 +214,25 @@
   {
     "title": "Why there's no 'Dijon' in Dijon mustard",
     "url": "https://www.bbc.com/travel/article/20220816-why-theres-no-dijon-in-dijon-mustard",
-    "upvotes": 57,
+    "upvotes": 58,
     "author": "bryanrasmussen",
-    "comments": 83,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=32560983"
-  },
-  {
-    "title": "Texas requires ‘In God We Trust’ signs in schools. A man wants some in Arabic",
-    "url": "https://www.washingtonpost.com/education/2022/08/25/texas-arabic-in-god-we-trust/",
-    "upvotes": 29,
-    "author": "isaacfrond",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=32604939"
-  },
-  {
-    "title": "Holochain: End-to-end open source P2P app framework",
-    "url": "https://www.holochain.org/",
-    "upvotes": 18,
-    "author": "rapnie",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=32604428"
   },
   {
     "title": "Irata.online: A PLATO service for retro computing enthusiasts",
     "url": "https://irata.online/",
-    "upvotes": 53,
+    "upvotes": 55,
     "author": "airstrike",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32600338"
+  },
+  {
+    "title": "Thinking as Computation",
+    "url": "https://www.cs.toronto.edu/~hector/PublicTCSlides.pdf",
+    "upvotes": 47,
+    "author": "Tomte",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32570176"
   }
 ]
