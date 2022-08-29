@@ -2,39 +2,47 @@
   {
     "title": "Ferret: A functional, lazy language for realtime embedded control systems",
     "url": "https://ferret-lang.org/",
-    "upvotes": 35,
+    "upvotes": 45,
     "author": "ducktective",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32636221"
   },
   {
     "title": "Teenager Invented a Low-Cost Tool to Spot Elephant Poachers in Real Time",
     "url": "https://www.smithsonianmag.com/innovation/this-teenager-invented-a-low-cost-tool-to-spot-elephant-poachers-in-real-time-180980522/",
-    "upvotes": 20,
+    "upvotes": 27,
     "author": "doener",
-    "comments": null,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=32634700"
   },
   {
     "title": "Hear the World’s Oldest Known Song, “Hurrian Hymn No. 6” Written 3400 Years Ago",
     "url": "https://www.openculture.com/2022/08/hear-the-worlds-oldest-known-song-hurrian-hymn-no-6-written-3400-years-ago.html",
-    "upvotes": 132,
+    "upvotes": 137,
     "author": "obert",
-    "comments": 58,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=32605559"
   },
   {
     "title": "Try Stable Diffusion's Img2Img Mode",
     "url": "https://huggingface.co/spaces/huggingface/diffuse-the-rest",
-    "upvotes": 256,
+    "upvotes": 263,
     "author": "fragmede",
-    "comments": 96,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=32633651"
+  },
+  {
+    "title": "A handy guide to financial support for open source",
+    "url": "https://github.com/nayafia/lemonade-stand",
+    "upvotes": 12,
+    "author": "SenHeng",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32636162"
   },
   {
     "title": "Chezmoi – Manage your dotfiles across multiple diverse machines, securely",
     "url": "https://www.chezmoi.io/",
-    "upvotes": 18,
+    "upvotes": 21,
     "author": "thunderbong",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=32636051"
@@ -42,23 +50,15 @@
   {
     "title": "Wren is a small, fast, class-based concurrent scripting language",
     "url": "https://wren.io",
-    "upvotes": 259,
+    "upvotes": 263,
     "author": "ahamez",
-    "comments": 102,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=32631553"
-  },
-  {
-    "title": "A handy guide to financial support for open source",
-    "url": "https://github.com/nayafia/lemonade-stand",
-    "upvotes": 7,
-    "author": "SenHeng",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32636162"
   },
   {
     "title": "NASA Artemis I Launch",
     "url": "https://www.youtube.com/watch?v=k5KfrDAM2Bo",
-    "upvotes": 40,
+    "upvotes": 51,
     "author": "sj00123",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32636068"
@@ -66,10 +66,26 @@
   {
     "title": "Unofficial guide to dotfiles on GitHub",
     "url": "https://dotfiles.github.io/",
-    "upvotes": 190,
+    "upvotes": 193,
     "author": "thunderbong",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=32632533"
+  },
+  {
+    "title": "SoftBank’s Epic Losses Reveal Masayoshi Son’s Broken Business Model",
+    "url": "https://www.bloomberg.com/news/articles/2022-08-23/softbank-s-23-billion-loss-looks-like-more-wework-fun",
+    "upvotes": 33,
+    "author": "herbertl",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=32634828"
+  },
+  {
+    "title": "Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later",
+    "url": "https://xcellerator.github.io/posts/tetsuji/",
+    "upvotes": 130,
+    "author": "zdw",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32632657"
   },
   {
     "title": "The Burglaries Were Never the Story",
@@ -80,44 +96,68 @@
     "link": "https://news.ycombinator.com/item?id=32625324"
   },
   {
-    "title": "My Lack of Attention",
-    "url": "https://www.champonthis.de/dev/rand/lack-of-attention",
-    "upvotes": 74,
-    "author": "Lurkars",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=32622862"
+    "title": "The state of Flow-based Programming",
+    "url": "https://blog.kodigy.com/post/state-of-flow-based-programming/",
+    "upvotes": 27,
+    "author": "bergie",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=32635336"
   },
   {
-    "title": "Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later",
-    "url": "https://xcellerator.github.io/posts/tetsuji/",
-    "upvotes": 129,
-    "author": "zdw",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=32632657"
+    "title": "Ask HN: Is there a developer laptop that does not suck and is not a Mac in 2022?",
+    "url": "item?id=32632720",
+    "upvotes": 120,
+    "author": "thepoet",
+    "comments": 197,
+    "link": "https://news.ycombinator.com/item?id=32632720"
   },
   {
     "title": "PostgreSQL 15: Stats Collector Gone? What’s New?",
     "url": "https://www.percona.com/blog/postgresql-15-stats-collector-gone-whats-new/",
-    "upvotes": 108,
+    "upvotes": 111,
     "author": "_bohm",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32632715"
   },
   {
-    "title": "The Silent Majority in Software",
-    "url": "https://vadimkravcenko.com/shorts/the-silent-majority/",
-    "upvotes": 134,
-    "author": "bndr",
-    "comments": 149,
-    "link": "https://news.ycombinator.com/item?id=32635268"
+    "title": "What it’s like to work as an embedded microservices SRE",
+    "url": "https://engineering.mercari.com/en/blog/entry/20220228-work-as-an-embedded-microservices-sre/",
+    "upvotes": 6,
+    "author": "kiyanwang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32635725"
   },
   {
-    "title": "Ask HN: Is there a developer laptop that does not suck and is not a Mac in 2022?",
-    "url": "item?id=32632720",
-    "upvotes": 104,
-    "author": "thepoet",
-    "comments": 174,
-    "link": "https://news.ycombinator.com/item?id=32632720"
+    "title": "My Lack of Attention",
+    "url": "https://www.champonthis.de/dev/rand/lack-of-attention",
+    "upvotes": 77,
+    "author": "Lurkars",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=32622862"
+  },
+  {
+    "title": "The Quest for Fuel in World War II",
+    "url": "http://www.eiaonline.com/history/bloodforoil.htm",
+    "upvotes": 108,
+    "author": "Lammy",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=32631610"
+  },
+  {
+    "title": "How Can We Create a Manual for Civilization?",
+    "url": "https://longnow.org/ideas/02017/06/07/how-can-we-create-a-manual-for-civilization/",
+    "upvotes": 3,
+    "author": "throw0101c",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32633396"
+  },
+  {
+    "title": "After years of setbacks, NASA’s SLS moon rocket is ready to fly",
+    "url": "https://www.washingtonpost.com/technology/2022/08/27/nasa-sls-moon-artemis-human-space/",
+    "upvotes": 133,
+    "author": "Hooke",
+    "comments": 227,
+    "link": "https://news.ycombinator.com/item?id=32621499"
   },
   {
     "title": "An intriguing discovery of Computer Science: The Y combinator [video]",
@@ -128,105 +168,65 @@
     "link": "https://news.ycombinator.com/item?id=32622447"
   },
   {
-    "title": "The state of Flow-based Programming",
-    "url": "https://blog.kodigy.com/post/state-of-flow-based-programming/",
-    "upvotes": 22,
-    "author": "bergie",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=32635336"
+    "title": "Eastern European Guide to Writing Reference Letters",
+    "url": "https://www.inference.vc/the-east-european-guide-to-writing-reference-letters/",
+    "upvotes": 9,
+    "author": "hunglee2",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32635701"
   },
   {
-    "title": "The Quest for Fuel in World War II",
-    "url": "http://www.eiaonline.com/history/bloodforoil.htm",
-    "upvotes": 106,
-    "author": "Lammy",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=32631610"
-  },
-  {
-    "title": "SoftBank’s Epic Losses Reveal Masayoshi Son’s Broken Business Model",
-    "url": "https://www.bloomberg.com/news/articles/2022-08-23/softbank-s-23-billion-loss-looks-like-more-wework-fun",
-    "upvotes": 23,
-    "author": "herbertl",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=32634828"
-  },
-  {
-    "title": "After years of setbacks, NASA’s SLS moon rocket is ready to fly",
-    "url": "https://www.washingtonpost.com/technology/2022/08/27/nasa-sls-moon-artemis-human-space/",
-    "upvotes": 126,
-    "author": "Hooke",
-    "comments": 220,
-    "link": "https://news.ycombinator.com/item?id=32621499"
+    "title": "The Silent Majority in Software",
+    "url": "https://vadimkravcenko.com/shorts/the-silent-majority/",
+    "upvotes": 136,
+    "author": "bndr",
+    "comments": 151,
+    "link": "https://news.ycombinator.com/item?id=32635268"
   },
   {
     "title": "The Up-Goer Five Text Editor",
     "url": "https://splasho.com/upgoer5/",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "ColinWright",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=32605142"
+  },
+  {
+    "title": "Presentation: Four programming languages from forty years ago",
+    "url": "https://fsharpforfunandprofit.com/fourfromforty/",
+    "upvotes": 84,
+    "author": "hazelnut-tree",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=32631786"
   },
   {
     "title": "ValueObject",
     "url": "https://martinfowler.com/bliki/ValueObject.html",
     "upvotes": 46,
     "author": "ksec",
-    "comments": 58,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=32606193"
-  },
-  {
-    "title": "Presentation: Four programming languages from forty years ago",
-    "url": "https://fsharpforfunandprofit.com/fourfromforty/",
-    "upvotes": 82,
-    "author": "hazelnut-tree",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=32631786"
-  },
-  {
-    "title": "Weird monitor bugs people sent me in the last 5 years",
-    "url": "https://notes.alinpanaitiu.com/Weird%20monitor%20bugs",
-    "upvotes": 449,
-    "author": "alin23",
-    "comments": 187,
-    "link": "https://news.ycombinator.com/item?id=32629669"
-  },
-  {
-    "title": "Eastern European Guide to Writing Reference Letters",
-    "url": "https://www.inference.vc/the-east-european-guide-to-writing-reference-letters/",
-    "upvotes": 5,
-    "author": "hunglee2",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32635701"
   },
   {
     "title": "The Latency/Throughput Tradeoff: Why Fast Services Are Slow and Vice Versa",
     "url": "https://blog.danslimmon.com/2019/02/26/the-latency-throughput-tradeoff-why-fast-services-are-slow-and-vice-versa/",
-    "upvotes": 3,
+    "upvotes": 5,
     "author": "vinnyglennon",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32635910"
   },
   {
-    "title": "What it’s like to work as an embedded microservices SRE",
-    "url": "https://engineering.mercari.com/en/blog/entry/20220228-work-as-an-embedded-microservices-sre/",
-    "upvotes": 3,
-    "author": "kiyanwang",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32635725"
-  },
-  {
-    "title": "Microphone polarity for live sound",
-    "url": "https://www.youtube.com/watch?v=tPxxzswyoVg",
-    "upvotes": 9,
-    "author": "brudgers",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32620695"
+    "title": "Weird monitor bugs people sent me in the last 5 years",
+    "url": "https://notes.alinpanaitiu.com/Weird%20monitor%20bugs",
+    "upvotes": 457,
+    "author": "alin23",
+    "comments": 187,
+    "link": "https://news.ycombinator.com/item?id=32629669"
   },
   {
     "title": "Vertex Meadow",
     "url": "https://www.vertexmeadow.xyz/",
-    "upvotes": 36,
+    "upvotes": 38,
     "author": "memorable",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=32617058"
@@ -234,9 +234,9 @@
   {
     "title": "Open Circuits – No Starch Press [pdf]",
     "url": "https://nostarch.com/download/OpenCircuits_Chapter1.pdf",
-    "upvotes": 267,
+    "upvotes": 269,
     "author": "ntoslinux",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=32630740"
   }
 ]
