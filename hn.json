@@ -2,55 +2,63 @@
   {
     "title": "The Big [Censored] Theory",
     "url": "https://pudding.cool/2022/08/censorship/",
-    "upvotes": 365,
+    "upvotes": 447,
     "author": "feross",
-    "comments": 166,
+    "comments": 217,
     "link": "https://news.ycombinator.com/item?id=32641028"
   },
   {
     "title": "90s Cursor Effects",
     "url": "https://tholman.com/cursor-effects/",
-    "upvotes": 165,
+    "upvotes": 194,
     "author": "lysergia",
-    "comments": 59,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=32640733"
-  },
-  {
-    "title": "Are GPUs Worth It for ML?",
-    "url": "https://exafunction.com/blog/are-gpus-worth-it",
-    "upvotes": 50,
-    "author": "varunkmohan",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=32641769"
-  },
-  {
-    "title": "Welcome Home, Garry Tan",
-    "url": "https://www.ycombinator.com/blog/welcome-home-garry-tan/",
-    "upvotes": 529,
-    "author": "todsacerdoti",
-    "comments": 159,
-    "link": "https://news.ycombinator.com/item?id=32637686"
   },
   {
     "title": "Alpaca – Stable Diffusion Plugin for Photoshop",
     "url": "https://www.getalpaca.io/",
-    "upvotes": 24,
+    "upvotes": 53,
     "author": "t0bia_s",
-    "comments": 8,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=32642273"
   },
   {
     "title": "Run Stable Diffusion on Intel CPUs",
     "url": "https://github.com/bes-dev/stable_diffusion.openvino",
-    "upvotes": 21,
+    "upvotes": 41,
     "author": "amrrs",
-    "comments": 7,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32642255"
+  },
+  {
+    "title": "Association of body mass index with mortality",
+    "url": "https://oa.mg/work/10.1038/s41366-022-01211-2",
+    "upvotes": 16,
+    "author": "sgfgross",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32642918"
+  },
+  {
+    "title": "Welcome Home, Garry Tan",
+    "url": "https://www.ycombinator.com/blog/welcome-home-garry-tan/",
+    "upvotes": 542,
+    "author": "todsacerdoti",
+    "comments": 165,
+    "link": "https://news.ycombinator.com/item?id=32637686"
+  },
+  {
+    "title": "Are GPUs Worth It for ML?",
+    "url": "https://exafunction.com/blog/are-gpus-worth-it",
+    "upvotes": 60,
+    "author": "varunkmohan",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=32641769"
   },
   {
     "title": "Show HN: I built a tool to help you read Hacker News on Kindle",
     "url": "https://ktool.io/hacker-news-to-kindle",
-    "upvotes": 243,
+    "upvotes": 247,
     "author": "longnguyen",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=32637996"
@@ -58,134 +66,142 @@
   {
     "title": "Rewriting my blog in Rust for fun and profit",
     "url": "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/",
-    "upvotes": 130,
+    "upvotes": 135,
     "author": "lawn",
-    "comments": 56,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=32638667"
-  },
-  {
-    "title": "Why 12 notes in Western music?",
-    "url": "https://github.com/aguaviva/articles/blob/main/why_12_notes.ipynb",
-    "upvotes": 92,
-    "author": "xchip",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=32639000"
   },
   {
     "title": "What does it take to be a good programmer?",
     "url": "https://qristin.wordpress.com/2022/08/28/what-does-it-take-to-be-a-good-programmer/",
-    "upvotes": 23,
+    "upvotes": 32,
     "author": "ingve",
-    "comments": 12,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=32628124"
   },
   {
-    "title": "OCaml at First Glance",
-    "url": "https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/",
-    "upvotes": 202,
-    "author": "todsacerdoti",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=32636682"
+    "title": "Why 12 notes in Western music?",
+    "url": "https://github.com/aguaviva/articles/blob/main/why_12_notes.ipynb",
+    "upvotes": 106,
+    "author": "xchip",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=32639000"
+  },
+  {
+    "title": "The OK? Programming Language",
+    "url": "https://github.com/jesseduffield/OK",
+    "upvotes": 29,
+    "author": "animal_spirits",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32640918"
   },
   {
     "title": "Suiteness",
     "url": "https://www.ycombinator.com/companies/suiteness/jobs/kblNhHC-concierge"
   },
   {
-    "title": "Git’s database internals I: packed object store",
-    "url": "https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/",
-    "upvotes": 128,
+    "title": "OCaml at First Glance",
+    "url": "https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/",
+    "upvotes": 207,
     "author": "todsacerdoti",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=32637643"
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=32636682"
   },
   {
-    "title": "The Mining of Minerals and the Limits to Growth",
-    "url": "https://tupa.gtk.fi/raportti/arkisto/16_2021.pdf",
-    "upvotes": 37,
-    "author": "simonpure",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=32628192"
+    "title": "Git’s database internals I: packed object store",
+    "url": "https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/",
+    "upvotes": 133,
+    "author": "todsacerdoti",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=32637643"
   },
   {
     "title": "Rights, Laws, and Google",
     "url": "https://stratechery.com/2022/rights-laws-and-google/",
-    "upvotes": 73,
+    "upvotes": 77,
     "author": "vinnyglennon",
-    "comments": 57,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=32638456"
+  },
+  {
+    "title": "Large scale Internet SSH brute force attacks seem to have stopped here",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksNoMoreHere",
+    "upvotes": 73,
+    "author": "pabs3",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=32639325"
+  },
+  {
+    "title": "The Mining of Minerals and the Limits to Growth",
+    "url": "https://tupa.gtk.fi/raportti/arkisto/16_2021.pdf",
+    "upvotes": 40,
+    "author": "simonpure",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=32628192"
   },
   {
     "title": "Lielow: Playable chess-like game that uses only checkers",
     "url": "https://ludii.games/details.php?keyword=Lielow",
-    "upvotes": 23,
+    "upvotes": 27,
     "author": "amichail",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=32628351"
   },
   {
-    "title": "The OK? Programming Language",
-    "url": "https://github.com/jesseduffield/OK",
-    "upvotes": 17,
-    "author": "animal_spirits",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=32640918"
-  },
-  {
-    "title": "Your doppelgänger is out there and you probably share DNA with them",
-    "url": "https://www.nytimes.com/2022/08/23/science/doppelgangers-twins-dna.html",
-    "upvotes": 76,
-    "author": "pseudolus",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=32629172"
-  },
-  {
-    "title": "Scientists, Not Doing Science",
-    "url": "https://noahcarl.substack.com/p/scientists-not-doing-science",
-    "upvotes": 10,
-    "author": "Bostonian",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32641778"
-  },
-  {
-    "title": "A CSS-Inspired Syntax for Flowcharts",
-    "url": "https://tone-row.com/blog/graph-syntax-css-selectors",
-    "upvotes": 107,
-    "author": "tonerow",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=32637689"
-  },
-  {
     "title": "On Tea and the Art of Doing Nothing",
     "url": "https://thomasjbevan.substack.com/p/on-tea-and-the-art-of-doing-nothing",
-    "upvotes": 5,
+    "upvotes": 13,
     "author": "vitabenes",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=32628562"
-  },
-  {
-    "title": "Silicon Values",
-    "url": "https://pxlnv.com/blog/silicon-values/",
-    "upvotes": 49,
-    "author": "danaris",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=32638593"
   },
   {
     "title": "Google cracks down on VPN based adblockers",
     "url": "https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110",
-    "upvotes": 452,
+    "upvotes": 467,
     "author": "balboah",
-    "comments": 483,
+    "comments": 494,
     "link": "https://news.ycombinator.com/item?id=32636412"
   },
   {
-    "title": "Large scale Internet SSH brute force attacks seem to have stopped here",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksNoMoreHere",
-    "upvotes": 67,
-    "author": "pabs3",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=32639325"
+    "title": "A CSS-Inspired Syntax for Flowcharts",
+    "url": "https://tone-row.com/blog/graph-syntax-css-selectors",
+    "upvotes": 108,
+    "author": "tonerow",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=32637689"
+  },
+  {
+    "title": "Silicon Values",
+    "url": "https://pxlnv.com/blog/silicon-values/",
+    "upvotes": 52,
+    "author": "danaris",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=32638593"
+  },
+  {
+    "title": "Your doppelgänger is out there and you probably share DNA with them",
+    "url": "https://www.nytimes.com/2022/08/23/science/doppelgangers-twins-dna.html",
+    "upvotes": 80,
+    "author": "pseudolus",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=32629172"
+  },
+  {
+    "title": "New Acquisitions: On the Wisdom of Noah Smith",
+    "url": "https://acoup.blog/2022/08/29/new-acquisitions-on-the-wisdom-of-noah-smith/",
+    "upvotes": 4,
+    "author": "Claude_Shannon",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32642627"
+  },
+  {
+    "title": "Derinkuyu, the extraordinary underground city of Turkey",
+    "url": "https://www.mybestplace.com/en/article/derinkuyu-the-extraordinary-underground-city-of-turkey",
+    "upvotes": 109,
+    "author": "kjhughes",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=32633382"
   },
   {
     "title": "Auditory brainstem response distinguishes occasional and constant tinnitus",
@@ -196,43 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=32637008"
   },
   {
-    "title": "Derinkuyu, the extraordinary underground city of Turkey",
-    "url": "https://www.mybestplace.com/en/article/derinkuyu-the-extraordinary-underground-city-of-turkey",
-    "upvotes": 104,
-    "author": "kjhughes",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=32633382"
-  },
-  {
     "title": "Decoding AWS Reserved Instances",
     "url": "https://blog.symops.com/2022/08/24/decoding-aws-reserved-instances/",
-    "upvotes": 32,
+    "upvotes": 34,
     "author": "abuggia",
-    "comments": 13,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=32639453"
   },
   {
-    "title": "DevOps: An Idea So Good, No One Admits They Don’t Do It",
-    "url": "https://wagslane.dev/posts/no-one-does-devops/",
-    "upvotes": 131,
-    "author": "wagslane",
-    "comments": 177,
-    "link": "https://news.ycombinator.com/item?id=32639970"
+    "title": "C++ Coroutines: Understanding the Compiler Transform",
+    "url": "https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform",
+    "upvotes": 3,
+    "author": "ibobev",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32642832"
   },
   {
     "title": "Teenager invented a low-cost tool to spot elephant poachers",
     "url": "https://www.smithsonianmag.com/innovation/this-teenager-invented-a-low-cost-tool-to-spot-elephant-poachers-in-real-time-180980522/",
-    "upvotes": 197,
+    "upvotes": 204,
     "author": "doener",
-    "comments": 86,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=32634700"
-  },
-  {
-    "title": "Ferret: A functional, lazy language for realtime embedded control systems",
-    "url": "https://ferret-lang.org/",
-    "upvotes": 158,
-    "author": "ducktective",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=32636221"
   }
 ]
