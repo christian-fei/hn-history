@@ -2,71 +2,79 @@
   {
     "title": "The Big [Censored] Theory",
     "url": "https://pudding.cool/2022/08/censorship/",
-    "upvotes": 758,
+    "upvotes": 786,
     "author": "feross",
-    "comments": 411,
+    "comments": 452,
     "link": "https://news.ycombinator.com/item?id=32641028"
   },
   {
     "title": "Stable Diffusion Textual Inversion",
     "url": "https://github.com/hlky/sd-enable-textual-inversion",
-    "upvotes": 132,
+    "upvotes": 152,
     "author": "antman",
-    "comments": 54,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=32643564"
   },
   {
     "title": "90s Cursor Effects",
     "url": "https://tholman.com/cursor-effects/",
-    "upvotes": 339,
+    "upvotes": 348,
     "author": "lysergia",
-    "comments": 117,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=32640733"
   },
   {
     "title": "Don’t think to write, write to think",
     "url": "https://herbertlui.net/dont-think-to-write-write-to-think/",
-    "upvotes": 69,
+    "upvotes": 88,
     "author": "herbertl",
-    "comments": 25,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=32628196"
   },
   {
     "title": "Why are you so busy?",
     "url": "https://tomlingham.com/articles/why-are-you-so-busy/",
-    "upvotes": 38,
+    "upvotes": 47,
     "author": "tjlingham",
-    "comments": 8,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32644277"
   },
   {
     "title": "Microformats Wiki",
     "url": "http://microformats.org/wiki/Main_Page",
-    "upvotes": 61,
+    "upvotes": 70,
     "author": "Tomte",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32643152"
   },
   {
     "title": "Welcome Home, Garry Tan",
     "url": "https://www.ycombinator.com/blog/welcome-home-garry-tan/",
-    "upvotes": 604,
+    "upvotes": 609,
     "author": "todsacerdoti",
-    "comments": 202,
+    "comments": 210,
     "link": "https://news.ycombinator.com/item?id=32637686"
   },
   {
     "title": "Run Stable Diffusion on Intel CPUs",
     "url": "https://github.com/bes-dev/stable_diffusion.openvino",
-    "upvotes": 103,
+    "upvotes": 108,
     "author": "amrrs",
-    "comments": 36,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=32642255"
+  },
+  {
+    "title": "Why DALL-E will not steal my job as an illustrator",
+    "url": "https://emmanuel6.medium.com/why-dall-e-will-not-steal-my-job-6a1e2943cb82",
+    "upvotes": 19,
+    "author": "sizzle",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=32644176"
   },
   {
     "title": "Show HN: I built a tool to help you read Hacker News on Kindle",
     "url": "https://ktool.io/hacker-news-to-kindle",
-    "upvotes": 304,
+    "upvotes": 309,
     "author": "longnguyen",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=32637996"
@@ -74,17 +82,25 @@
   {
     "title": "The Peter Principle",
     "url": "https://www.youtube.com/watch?v=39wzku9KIEM",
-    "upvotes": 12,
+    "upvotes": 17,
     "author": "nyc111",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32627396"
+  },
+  {
+    "title": "Python library for univariate regression, interpolation, and smoothing",
+    "url": "https://github.com/brendanartley/Regressio",
+    "upvotes": 7,
+    "author": "codeboy7432",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32645063"
   },
   {
     "title": "Are GPUs Worth It for ML?",
     "url": "https://exafunction.com/blog/are-gpus-worth-it",
-    "upvotes": 90,
+    "upvotes": 92,
     "author": "varunkmohan",
-    "comments": 62,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=32641769"
   },
   {
@@ -92,147 +108,131 @@
     "url": "https://www.easypost.com/careers"
   },
   {
-    "title": "C++ coroutines: Understanding the compiler transform",
-    "url": "https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform",
-    "upvotes": 40,
-    "author": "ibobev",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=32642832"
-  },
-  {
     "title": "Why 12 notes in Western music?",
     "url": "https://github.com/aguaviva/articles/blob/main/why_12_notes.ipynb",
-    "upvotes": 168,
+    "upvotes": 175,
     "author": "xchip",
-    "comments": 110,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=32639000"
   },
   {
     "title": "Rewriting my blog in Rust for fun and profit",
     "url": "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/",
-    "upvotes": 163,
+    "upvotes": 166,
     "author": "lawn",
-    "comments": 75,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=32638667"
   },
   {
     "title": "Bit twiddling with Arm Neon: beating SSE movemasks, counting bits and more",
     "url": "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/porting-x86-vector-bitmask-optimizations-to-arm-neon",
-    "upvotes": 43,
+    "upvotes": 46,
     "author": "danlark",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=32642768"
   },
   {
-    "title": "The OK? Programming Language",
-    "url": "https://github.com/jesseduffield/OK",
-    "upvotes": 75,
-    "author": "animal_spirits",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=32640918"
+    "title": "C++ coroutines: Understanding the compiler transform",
+    "url": "https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform",
+    "upvotes": 41,
+    "author": "ibobev",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=32642832"
   },
   {
     "title": "Rights, Laws, and Google",
     "url": "https://stratechery.com/2022/rights-laws-and-google/",
-    "upvotes": 118,
+    "upvotes": 121,
     "author": "vinnyglennon",
-    "comments": 93,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=32638456"
   },
   {
-    "title": "On Tea and the Art of Doing Nothing",
-    "url": "https://thomasjbevan.substack.com/p/on-tea-and-the-art-of-doing-nothing",
-    "upvotes": 38,
-    "author": "vitabenes",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=32628562"
+    "title": "The OK? Programming Language",
+    "url": "https://github.com/jesseduffield/OK",
+    "upvotes": 81,
+    "author": "animal_spirits",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=32640918"
+  },
+  {
+    "title": "Supporting four operating systems in a 400 byte ELF executable",
+    "url": "https://justine.lol/sizetricks/#elf",
+    "upvotes": 31,
+    "author": "jart",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32642874"
   },
   {
     "title": "OCaml at First Glance",
     "url": "https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/",
-    "upvotes": 239,
+    "upvotes": 243,
     "author": "todsacerdoti",
     "comments": 65,
     "link": "https://news.ycombinator.com/item?id=32636682"
   },
   {
-    "title": "Supporting four operating systems in a 400 byte ELF executable",
-    "url": "https://justine.lol/sizetricks/#elf",
-    "upvotes": 25,
-    "author": "jart",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32642874"
-  },
-  {
     "title": "Git’s database internals I: packed object store",
     "url": "https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/",
-    "upvotes": 169,
+    "upvotes": 172,
     "author": "todsacerdoti",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=32637643"
   },
   {
-    "title": "C++ Expression Templates: Eigen, Blaze, Fastor, Armadillo & XTensor",
-    "url": "https://romanpoya.medium.com/a-look-at-the-performance-of-expression-templates-in-c-eigen-vs-blaze-vs-fastor-vs-armadillo-vs-2474ed38d982",
-    "upvotes": 5,
-    "author": "optimalsolver",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32627951"
+    "title": "Your doppelgänger is out there and you probably share DNA with them",
+    "url": "https://www.nytimes.com/2022/08/23/science/doppelgangers-twins-dna.html",
+    "upvotes": 86,
+    "author": "pseudolus",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=32629172"
   },
   {
     "title": "Large scale Internet SSH brute force attacks seem to have stopped here",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksNoMoreHere",
-    "upvotes": 102,
+    "upvotes": 105,
     "author": "pabs3",
-    "comments": 96,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=32639325"
   },
   {
     "title": "Ask HN: Why hasn't the ACH system been more abused?",
     "url": "item?id=32641259",
-    "upvotes": 123,
+    "upvotes": 134,
     "author": "gernb",
-    "comments": 181,
+    "comments": 188,
     "link": "https://news.ycombinator.com/item?id=32641259"
   },
   {
     "title": "DevOps: An idea so good, no one admits they don’t do it",
     "url": "https://wagslane.dev/posts/no-one-does-devops/",
-    "upvotes": 184,
+    "upvotes": 190,
     "author": "wagslane",
-    "comments": 238,
+    "comments": 249,
     "link": "https://news.ycombinator.com/item?id=32639970"
   },
   {
-    "title": "Why DALL-E will not steal my job as an illustrator",
-    "url": "https://emmanuel6.medium.com/why-dall-e-will-not-steal-my-job-6a1e2943cb82",
-    "upvotes": 8,
-    "author": "sizzle",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=32644176"
-  },
-  {
-    "title": "The Mining of Minerals and the Limits to Growth",
-    "url": "https://tupa.gtk.fi/raportti/arkisto/16_2021.pdf",
-    "upvotes": 62,
-    "author": "simonpure",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=32628192"
+    "title": "AMD Details Ryzen 7000 Launch: Ryzen 7950X and More, Coming Sept. 27th",
+    "url": "https://www.anandtech.com/show/17552/amd-details-ryzen-7000-launch-up-ryzen-7900x-coming-sept-30",
+    "upvotes": 21,
+    "author": "neogodless",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32644878"
   },
   {
     "title": "Google cracks down on VPN based adblockers",
     "url": "https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110",
-    "upvotes": 509,
+    "upvotes": 515,
     "author": "balboah",
-    "comments": 531,
+    "comments": 533,
     "link": "https://news.ycombinator.com/item?id=32636412"
   },
   {
-    "title": "Derinkuyu, the extraordinary underground city of Turkey",
-    "url": "https://www.mybestplace.com/en/article/derinkuyu-the-extraordinary-underground-city-of-turkey",
-    "upvotes": 134,
-    "author": "kjhughes",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=32633382"
+    "title": "The Mining of Minerals and the Limits to Growth",
+    "url": "https://tupa.gtk.fi/raportti/arkisto/16_2021.pdf",
+    "upvotes": 64,
+    "author": "simonpure",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=32628192"
   }
 ]
