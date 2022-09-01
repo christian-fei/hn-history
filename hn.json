@@ -2,65 +2,73 @@
   {
     "title": "Run Stable Diffusion on Your M1 Mac’s GPU",
     "url": "https://replicate.com/blog/run-stable-diffusion-on-m1-mac",
-    "upvotes": 273,
+    "upvotes": 321,
     "author": "bfirsh",
-    "comments": 105,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=32678664"
   },
   {
     "title": "Ask HN: Who is hiring?",
     "url": "item?id=32677265",
-    "upvotes": 137,
+    "upvotes": 149,
     "author": "whoishiring",
-    "comments": 237,
+    "comments": 248,
     "link": "https://news.ycombinator.com/item?id=32677265"
+  },
+  {
+    "title": "Ask HN: Why don't we have 3 day weekends yet?",
+    "url": "item?id=32680382",
+    "upvotes": 56,
+    "author": "mouzogu",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=32680382"
   },
   {
     "title": "SQLite: Past, Present, and Future",
     "url": "https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future",
-    "upvotes": 132,
+    "upvotes": 136,
     "author": "chrstr",
-    "comments": 49,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=32675861"
   },
   {
-    "title": "Don’t teach kids to fear the world",
-    "url": "https://www.theatlantic.com/family/archive/2022/09/the-best-way-to-teach-kids-about-danger/671310/",
-    "upvotes": 119,
-    "author": "pseudolus",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=32678228"
-  },
-  {
-    "title": "Kagi/Orion status update: First three months",
-    "url": "https://blog.kagi.com/status-update-first-three-months",
-    "upvotes": 234,
-    "author": "darthShadow",
-    "comments": 126,
-    "link": "https://news.ycombinator.com/item?id=32676993"
+    "title": "One million queries per second with MySQL",
+    "url": "https://planetscale.com/blog/one-million-queries-per-second-with-mysql",
+    "upvotes": 17,
+    "author": "aarondf",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32680957"
   },
   {
     "title": "Be good-argument-driven, not data-driven",
     "url": "http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html",
-    "upvotes": 312,
+    "upvotes": 325,
     "author": "historynops",
     "comments": 124,
     "link": "https://news.ycombinator.com/item?id=32651763"
   },
   {
-    "title": "Launch HN: SideGuide (YC S22) – Learn APIs by running them in live environments",
-    "url": "item?id=32678553",
-    "upvotes": 30,
-    "author": "ericciarla",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=32678553"
+    "title": "Kagi/Orion status update: First three months",
+    "url": "https://blog.kagi.com/status-update-first-three-months",
+    "upvotes": 245,
+    "author": "darthShadow",
+    "comments": 135,
+    "link": "https://news.ycombinator.com/item?id=32676993"
+  },
+  {
+    "title": "Don’t teach kids to fear the world",
+    "url": "https://www.theatlantic.com/family/archive/2022/09/the-best-way-to-teach-kids-about-danger/671310/",
+    "upvotes": 136,
+    "author": "pseudolus",
+    "comments": 131,
+    "link": "https://news.ycombinator.com/item?id=32678228"
   },
   {
     "title": "Filtering a vector with SIMD instructions",
     "url": "https://quickwit.io/blog/filtering%20a%20vector%20with%20simd%20instructions%20avx-2%20and%20avx-512",
-    "upvotes": 43,
+    "upvotes": 49,
     "author": "francoismassot",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=32674040"
   },
   {
@@ -68,33 +76,49 @@
     "url": "https://boards.greenhouse.io/substack/jobs/4006027005"
   },
   {
-    "title": "JavaScript Hydration Is a Workaround, Not a Solution",
-    "url": "https://thenewstack.io/javascript-hydration-is-a-workaround-not-a-solution/",
-    "upvotes": 85,
-    "author": "fagnerbrack",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=32650996"
+    "title": "Launch HN: SideGuide (YC S22) – Learn APIs by running them in live environments",
+    "url": "item?id=32678553",
+    "upvotes": 31,
+    "author": "ericciarla",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=32678553"
   },
   {
     "title": "Newly discovered exoplanet may be first covered in liquid water",
     "url": "https://www.freethink.com/space/ocean-planet",
-    "upvotes": 95,
+    "upvotes": 103,
     "author": "Brajeshwar",
-    "comments": 75,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=32651358"
   },
   {
     "title": "Owsley Stanley: The King of LSD",
     "url": "https://www.rollingstone.com/feature/owsley-stanley-the-king-of-lsd-82181/",
-    "upvotes": 14,
+    "upvotes": 19,
     "author": "bookofjoe",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=32651502"
+  },
+  {
+    "title": "JavaScript Hydration Is a Workaround, Not a Solution",
+    "url": "https://thenewstack.io/javascript-hydration-is-a-workaround-not-a-solution/",
+    "upvotes": 88,
+    "author": "fagnerbrack",
+    "comments": 109,
+    "link": "https://news.ycombinator.com/item?id=32650996"
+  },
+  {
+    "title": "Ask HN: Who wants to be hired?",
+    "url": "item?id=32677261",
+    "upvotes": 39,
+    "author": "whoishiring",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=32677261"
   },
   {
     "title": "Benedictine monk wrote earliest known reference to ball lightning in England",
     "url": "https://arstechnica.com/science/2022/02/benedictine-monk-wrote-earliest-known-reference-to-ball-lightning-in-england/",
-    "upvotes": 17,
+    "upvotes": 18,
     "author": "Tomte",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32678464"
@@ -102,135 +126,111 @@
   {
     "title": "Learn PWA",
     "url": "https://web.dev/learn/pwa/",
-    "upvotes": 151,
+    "upvotes": 159,
     "author": "carride",
-    "comments": 86,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=32675791"
   },
   {
     "title": "Falsehoods programmers believe about email",
     "url": "https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email",
-    "upvotes": 304,
+    "upvotes": 309,
     "author": "tsujp",
-    "comments": 300,
+    "comments": 306,
     "link": "https://news.ycombinator.com/item?id=32671959"
-  },
-  {
-    "title": "Ask HN: Who wants to be hired?",
-    "url": "item?id=32677261",
-    "upvotes": 31,
-    "author": "whoishiring",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=32677261"
   },
   {
     "title": "Two Mexican Drug Cartels Came to Dominate America’s Fentanyl Supply",
     "url": "https://www.wsj.com/articles/mexico-drug-cartels-fentanyl-overdose-sinaloa-jalisco-11661866903",
-    "upvotes": 17,
+    "upvotes": 20,
     "author": "prostoalex",
-    "comments": 5,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32677674"
-  },
-  {
-    "title": "Categorizing design decisions in enterprise product development",
-    "url": "https://djpardis.medium.com/interfaces-and-bundle-boundaries-8e0bde2b19da",
-    "upvotes": 11,
-    "author": "djpardis",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32679455"
   },
   {
     "title": "Our screwdriver took three years [video]",
     "url": "https://www.youtube.com/watch?v=2K5Gqp1cEcM",
-    "upvotes": 181,
+    "upvotes": 188,
     "author": "zepolen",
-    "comments": 195,
+    "comments": 198,
     "link": "https://news.ycombinator.com/item?id=32673340"
   },
   {
-    "title": "Show HN: Open-source infra for building embedded data pipelines",
-    "url": "https://github.com/pipebird/pipebird",
-    "upvotes": 21,
-    "author": "seandoh",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=32679334"
-  },
-  {
-    "title": "Are All Brains Good at Math?",
-    "url": "https://nautil.us/are-all-brains-good-at-math-26556/",
-    "upvotes": 26,
-    "author": "dnetesn",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=32676809"
-  },
-  {
-    "title": "Animations in React with Framer Motion",
-    "url": "https://refine.dev/blog/framer-motion-react-animations/",
-    "upvotes": 5,
-    "author": "omeraplak",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32676294"
+    "title": "MS Teams Linux client is being retired. To be replaced by a progressive web app",
+    "url": "item?id=32678839",
+    "upvotes": 35,
+    "author": "NGRhodes",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=32678839"
   },
   {
     "title": "Understanding Google’s File System",
     "url": "https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html",
-    "upvotes": 175,
+    "upvotes": 183,
     "author": "greghn",
-    "comments": 59,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=32651611"
   },
   {
     "title": "Launch HN: Boostly (YC S22) – SMS marketing for restaurants",
     "url": "item?id=32675658",
-    "upvotes": 22,
+    "upvotes": 24,
     "author": "shaneliammurphy",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=32675658"
   },
   {
     "title": "AI-Generated Bible Art",
     "url": "https://www.openbible.info/labs/ai-bible-art/",
-    "upvotes": 93,
+    "upvotes": 96,
     "author": "possiblelion",
-    "comments": 53,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=32674243"
   },
   {
     "title": "Velox: An open-source unified execution engine",
     "url": "https://engineering.fb.com/2022/08/31/open-source/velox/",
-    "upvotes": 118,
+    "upvotes": 124,
     "author": "polyrand",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=32673873"
   },
   {
-    "title": "Ask HN: Why don't we have 3 day weekends yet?",
-    "url": "item?id=32680382",
-    "upvotes": 8,
-    "author": "mouzogu",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32680382"
+    "title": "Categorizing design decisions in enterprise product development",
+    "url": "https://djpardis.medium.com/interfaces-and-bundle-boundaries-8e0bde2b19da",
+    "upvotes": 12,
+    "author": "djpardis",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32679455"
   },
   {
-    "title": "Backsliding on free expression around the world needs to end",
-    "url": "https://www.thenewhumanitarian.org/opinion/2022/08/25/World-freedom-of-expression-report",
-    "upvotes": 171,
-    "author": "DanBC",
-    "comments": 178,
-    "link": "https://news.ycombinator.com/item?id=32678501"
+    "title": "Show HN: Open-source infra for building embedded data pipelines",
+    "url": "https://github.com/pipebird/pipebird",
+    "upvotes": 22,
+    "author": "seandoh",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=32679334"
+  },
+  {
+    "title": "Animations in React with Framer Motion",
+    "url": "https://refine.dev/blog/framer-motion-react-animations/",
+    "upvotes": 6,
+    "author": "omeraplak",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32676294"
   },
   {
     "title": "Tell HN: Meetup.com is offering abandoned meetups to anyone willing to pay",
     "url": "item?id=32676728",
-    "upvotes": 245,
+    "upvotes": 257,
     "author": "prune998",
-    "comments": 100,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=32676728"
   },
   {
     "title": "Stable Diffusion: Is Video Coming Soon?",
     "url": "https://metaphysic.ai/stable-diffusion-is-video-coming-soon/",
-    "upvotes": 108,
+    "upvotes": 115,
     "author": "Hard_Space",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=32675996"
