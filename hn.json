@@ -1,164 +1,180 @@
 [
   {
+    "title": "Kagi/Orion status update: First three months",
+    "url": "https://blog.kagi.com/status-update-first-three-months",
+    "upvotes": 73,
+    "author": "darthShadow",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=32676993"
+  },
+  {
     "title": "SQLite: Past, Present, and Future",
     "url": "https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future",
-    "upvotes": 55,
+    "upvotes": 73,
     "author": "chrstr",
-    "comments": 19,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=32675861"
-  },
-  {
-    "title": "Stable Diffusion: Is Video Coming Soon?",
-    "url": "https://metaphysic.ai/stable-diffusion-is-video-coming-soon/",
-    "upvotes": 46,
-    "author": "Hard_Space",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=32675996"
-  },
-  {
-    "title": "Be good-argument-driven, not data-driven",
-    "url": "http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html",
-    "upvotes": 229,
-    "author": "historynops",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=32651763"
-  },
-  {
-    "title": "Newly discovered exoplanet may be first covered in liquid water",
-    "url": "https://www.freethink.com/space/ocean-planet",
-    "upvotes": 40,
-    "author": "Brajeshwar",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=32651358"
-  },
-  {
-    "title": "JavaScript Hydration Is a Workaround, Not a Solution",
-    "url": "https://thenewstack.io/javascript-hydration-is-a-workaround-not-a-solution/",
-    "upvotes": 21,
-    "author": "fagnerbrack",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=32650996"
-  },
-  {
-    "title": "Learn PWA",
-    "url": "https://web.dev/learn/pwa/",
-    "upvotes": 77,
-    "author": "carride",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=32675791"
-  },
-  {
-    "title": "Meetup.com is leaking your subscriber informations to anyone willing to pay",
-    "url": "item?id=32676728",
-    "upvotes": 46,
-    "author": "prune998",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=32676728"
-  },
-  {
-    "title": "Surging Energy Prices in Europe in the Aftermath of the War",
-    "url": "https://www.imf.org/en/Publications/WP/Issues/2022/07/28/Surging-Energy-Prices-in-Europe-in-the-Aftermath-of-the-War-How-to-Support-the-Vulnerable-521457",
-    "upvotes": 8,
-    "author": "ZeroGravitas",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=32676462"
-  },
-  {
-    "title": "Velox: An open-source unified execution engine",
-    "url": "https://engineering.fb.com/2022/08/31/open-source/velox/",
-    "upvotes": 97,
-    "author": "polyrand",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=32673873"
-  },
-  {
-    "title": "Our screwdriver took three years [video]",
-    "url": "https://www.youtube.com/watch?v=2K5Gqp1cEcM",
-    "upvotes": 124,
-    "author": "zepolen",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=32673340"
   },
   {
     "title": "Ask HN: Who is hiring?",
     "url": "item?id=32677265",
-    "upvotes": 6,
+    "upvotes": 37,
     "author": "whoishiring",
-    "comments": 10,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=32677265"
+  },
+  {
+    "title": "Tell HN: Meetup.com is offering abandoned meetups to anyone willing to pay",
+    "url": "item?id=32676728",
+    "upvotes": 82,
+    "author": "prune998",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=32676728"
+  },
+  {
+    "title": "Be good-argument-driven, not data-driven",
+    "url": "http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html",
+    "upvotes": 248,
+    "author": "historynops",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=32651763"
+  },
+  {
+    "title": "JavaScript Hydration Is a Workaround, Not a Solution",
+    "url": "https://thenewstack.io/javascript-hydration-is-a-workaround-not-a-solution/",
+    "upvotes": 38,
+    "author": "fagnerbrack",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32650996"
+  },
+  {
+    "title": "Newly discovered exoplanet may be first covered in liquid water",
+    "url": "https://www.freethink.com/space/ocean-planet",
+    "upvotes": 51,
+    "author": "Brajeshwar",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=32651358"
+  },
+  {
+    "title": "Ask HN: Who wants to be hired?",
+    "url": "item?id=32677261",
+    "upvotes": 13,
+    "author": "whoishiring",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=32677261"
+  },
+  {
+    "title": "Learn PWA",
+    "url": "https://web.dev/learn/pwa/",
+    "upvotes": 92,
+    "author": "carride",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=32675791"
+  },
+  {
+    "title": "Ask HN: Freelancer? Seeking freelancer?",
+    "url": "item?id=32677264",
+    "upvotes": 12,
+    "author": "whoishiring",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=32677264"
+  },
+  {
+    "title": "The Portuguese Can No Longer Afford to Live in Portugal",
+    "url": "https://medium.com/the-portuguese/the-portuguese-can-no-longer-afford-to-live-in-portugal-or-even-survive-eaa8fdffc4b9",
+    "upvotes": 28,
+    "author": "nateb2022",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=32677473"
+  },
+  {
+    "title": "Launch HN: Boostly (YC S22) – SMS marketing for restaurants",
+    "url": "item?id=32675658",
+    "upvotes": 16,
+    "author": "shaneliammurphy",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=32675658"
   },
   {
     "title": "SBX Robotics",
     "url": "https://www.linkedin.com/jobs/view/3184745474/"
   },
   {
+    "title": "Our screwdriver took three years [video]",
+    "url": "https://www.youtube.com/watch?v=2K5Gqp1cEcM",
+    "upvotes": 138,
+    "author": "zepolen",
+    "comments": 147,
+    "link": "https://news.ycombinator.com/item?id=32673340"
+  },
+  {
+    "title": "Velox: An open-source unified execution engine",
+    "url": "https://engineering.fb.com/2022/08/31/open-source/velox/",
+    "upvotes": 98,
+    "author": "polyrand",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=32673873"
+  },
+  {
     "title": "Understanding Google’s File System",
     "url": "https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html",
-    "upvotes": 140,
+    "upvotes": 146,
     "author": "greghn",
-    "comments": 48,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=32651611"
   },
   {
-    "title": "Launch HN: Boostly (YC S22) – SMS marketing for restaurants",
-    "url": "item?id=32675658",
-    "upvotes": 14,
-    "author": "shaneliammurphy",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=32675658"
-  },
-  {
-    "title": "To Save the Deep Ocean, We Should Mine the Moon",
-    "url": "https://nautil.us/to-save-the-deep-ocean-we-should-mine-the-moon-26579/",
-    "upvotes": 37,
-    "author": "rbanffy",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=32675939"
+    "title": "Stable Diffusion: Is Video Coming Soon?",
+    "url": "https://metaphysic.ai/stable-diffusion-is-video-coming-soon/",
+    "upvotes": 65,
+    "author": "Hard_Space",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=32675996"
   },
   {
     "title": "The dictatorship of the articulate",
     "url": "https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/",
-    "upvotes": 248,
+    "upvotes": 256,
     "author": "adayeo",
-    "comments": 274,
+    "comments": 290,
     "link": "https://news.ycombinator.com/item?id=32670744"
-  },
-  {
-    "title": "Avoiding space leaks at all costs",
-    "url": "https://kodimensional.dev/space-leak",
-    "upvotes": 41,
-    "author": "ghuntley",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=32674141"
-  },
-  {
-    "title": "Kagi/Orion status update: First three months",
-    "url": "https://blog.kagi.com/status-update-first-three-months",
-    "upvotes": 3,
-    "author": "darthShadow",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32676993"
   },
   {
     "title": "Random Google Street View",
     "url": "https://randomstreetview.com/",
-    "upvotes": 236,
+    "upvotes": 240,
     "author": "O__________O",
-    "comments": 80,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=32671018"
   },
   {
     "title": "C64 Theremin",
     "url": "https://www.linusakesson.net/hardware/theremin/",
-    "upvotes": 84,
+    "upvotes": 93,
     "author": "fanf2",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=32660321"
+  },
+  {
+    "title": "Avoiding space leaks at all costs",
+    "url": "https://kodimensional.dev/space-leak",
+    "upvotes": 44,
+    "author": "ghuntley",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=32674141"
+  },
+  {
+    "title": "To Save the Deep Ocean, We Should Mine the Moon",
+    "url": "https://nautil.us/to-save-the-deep-ocean-we-should-mine-the-moon-26579/",
+    "upvotes": 44,
+    "author": "rbanffy",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=32675939"
   },
   {
     "title": "An Unlikely Bohemia: Athens, Georgia, in Reagan's America",
     "url": "https://southernspaces.org/2020/unlikely-bohemia-athens-georgia-reagans-america/",
-    "upvotes": 37,
+    "upvotes": 39,
     "author": "tintinnabula",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=32658151"
@@ -166,73 +182,57 @@
   {
     "title": "The case for language agnostic hiring",
     "url": "https://alphalist.com/blog/the-case-for-language-agnostic-hiring",
-    "upvotes": 53,
+    "upvotes": 56,
     "author": "datanerd613",
-    "comments": 88,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=32673470"
-  },
-  {
-    "title": "Our collective synesthesia, in graphs",
-    "url": "https://aella.substack.com/p/our-collective-synesthesia-in-graphs",
-    "upvotes": 57,
-    "author": "gHeadphone",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=32673119"
-  },
-  {
-    "title": "The toll of dating app burnout",
-    "url": "https://www.nytimes.com/2022/08/31/well/mind/burnout-online-dating-apps.html",
-    "upvotes": 57,
-    "author": "irajdeep",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=32673428"
-  },
-  {
-    "title": "YKK zippers: Why so many designers use them",
-    "url": "https://slate.com/business/2012/04/ykk-zippers-why-so-many-designers-use-them.html",
-    "upvotes": 104,
-    "author": "georgecmu",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=32656463"
-  },
-  {
-    "title": "Is the internet killing the nude beach?",
-    "url": "https://www.theatlantic.com/family/archive/2022/08/nude-beaches-denmark-france-popularity/671275/",
-    "upvotes": 106,
-    "author": "fortran77",
-    "comments": 197,
-    "link": "https://news.ycombinator.com/item?id=32658364"
   },
   {
     "title": "Everything is an input device",
     "url": "https://media.ccc.de/v/mch2022-254-everything-is-an-input-device-fun-with-barcodes-",
-    "upvotes": 33,
+    "upvotes": 42,
     "author": "wlecometo",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=32674082"
   },
   {
-    "title": "Falsehoods programmers believe about email",
-    "url": "https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email",
-    "upvotes": 253,
-    "author": "tsujp",
-    "comments": 255,
-    "link": "https://news.ycombinator.com/item?id=32671959"
+    "title": "The toll of dating app burnout",
+    "url": "https://www.nytimes.com/2022/08/31/well/mind/burnout-online-dating-apps.html",
+    "upvotes": 64,
+    "author": "irajdeep",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=32673428"
   },
   {
-    "title": "Using Python to vectorize artwork for PCBs",
-    "url": "https://blog.thea.codes/raster-vectorization-with-python/",
-    "upvotes": 24,
-    "author": "zdw",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32643827"
+    "title": "YKK zippers: Why so many designers use them",
+    "url": "https://slate.com/business/2012/04/ykk-zippers-why-so-many-designers-use-them.html",
+    "upvotes": 115,
+    "author": "georgecmu",
+    "comments": 124,
+    "link": "https://news.ycombinator.com/item?id=32656463"
   },
   {
     "title": "AI-Generated Bible Art",
     "url": "https://www.openbible.info/labs/ai-bible-art/",
-    "upvotes": 20,
+    "upvotes": 32,
     "author": "possiblelion",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=32674243"
+  },
+  {
+    "title": "Is the internet killing the nude beach?",
+    "url": "https://www.theatlantic.com/family/archive/2022/08/nude-beaches-denmark-france-popularity/671275/",
+    "upvotes": 115,
+    "author": "fortran77",
+    "comments": 224,
+    "link": "https://news.ycombinator.com/item?id=32658364"
+  },
+  {
+    "title": "Our collective synesthesia, in graphs",
+    "url": "https://aella.substack.com/p/our-collective-synesthesia-in-graphs",
+    "upvotes": 61,
+    "author": "gHeadphone",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=32673119"
   }
 ]
