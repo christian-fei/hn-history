@@ -1,116 +1,140 @@
 [
   {
+    "title": "SQLite: Past, Present, and Future",
+    "url": "https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future",
+    "upvotes": 38,
+    "author": "chrstr",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32675861"
+  },
+  {
     "title": "Be good-argument-driven, not data-driven",
     "url": "http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html",
-    "upvotes": 180,
+    "upvotes": 208,
     "author": "historynops",
-    "comments": 71,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=32651763"
-  },
-  {
-    "title": "California Declares Grid Emergency",
-    "url": "https://www.rigzone.com/news/wire/california_declares_grid_emergency-01-sep-2022-170187-article/",
-    "upvotes": 12,
-    "author": "hubraumhugo",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32675863"
-  },
-  {
-    "title": "Learn PWA",
-    "url": "https://web.dev/learn/pwa/",
-    "upvotes": 40,
-    "author": "carride",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=32675791"
   },
   {
     "title": "To Save the Deep Ocean, We Should Mine the Moon",
     "url": "https://nautil.us/to-save-the-deep-ocean-we-should-mine-the-moon-26579/",
-    "upvotes": 9,
+    "upvotes": 21,
     "author": "rbanffy",
-    "comments": null,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32675939"
+  },
+  {
+    "title": "Stable Diffusion: Is Video Coming Soon?",
+    "url": "https://metaphysic.ai/stable-diffusion-is-video-coming-soon/",
+    "upvotes": 26,
+    "author": "Hard_Space",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32675996"
+  },
+  {
+    "title": "Newly discovered exoplanet may be first covered in liquid water",
+    "url": "https://www.freethink.com/space/ocean-planet",
+    "upvotes": 33,
+    "author": "Brajeshwar",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32651358"
+  },
+  {
+    "title": "Learn PWA",
+    "url": "https://web.dev/learn/pwa/",
+    "upvotes": 60,
+    "author": "carride",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=32675791"
   },
   {
     "title": "Velox: An open-source unified execution engine",
     "url": "https://engineering.fb.com/2022/08/31/open-source/velox/",
-    "upvotes": 83,
+    "upvotes": 92,
     "author": "polyrand",
-    "comments": 25,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=32673873"
   },
   {
     "title": "Our screwdriver took three years [video]",
     "url": "https://www.youtube.com/watch?v=2K5Gqp1cEcM",
-    "upvotes": 101,
+    "upvotes": 111,
     "author": "zepolen",
-    "comments": 89,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=32673340"
-  },
-  {
-    "title": "Launch HN: Boostly (YC S22) – SMS marketing for restaurants",
-    "url": "item?id=32675658",
-    "upvotes": 9,
-    "author": "shaneliammurphy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32675658"
   },
   {
     "title": "Understanding Google’s File System",
     "url": "https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html",
-    "upvotes": 124,
+    "upvotes": 132,
     "author": "greghn",
-    "comments": 38,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=32651611"
   },
   {
-    "title": "Avoiding space leaks at all costs",
-    "url": "https://kodimensional.dev/space-leak",
-    "upvotes": 34,
-    "author": "ghuntley",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=32674141"
+    "title": "Launch HN: Boostly (YC S22) – SMS marketing for restaurants",
+    "url": "item?id=32675658",
+    "upvotes": 10,
+    "author": "shaneliammurphy",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32675658"
   },
   {
     "title": "SBX Robotics",
     "url": "https://www.linkedin.com/jobs/view/3184745474/"
   },
   {
-    "title": "The dictatorship of the articulate",
-    "url": "https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/",
-    "upvotes": 227,
-    "author": "adayeo",
-    "comments": 246,
-    "link": "https://news.ycombinator.com/item?id=32670744"
+    "title": "Avoiding space leaks at all costs",
+    "url": "https://kodimensional.dev/space-leak",
+    "upvotes": 39,
+    "author": "ghuntley",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=32674141"
   },
   {
-    "title": "C64 Theremin",
-    "url": "https://www.linusakesson.net/hardware/theremin/",
-    "upvotes": 75,
-    "author": "fanf2",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=32660321"
+    "title": "JavaScript Hydration Is a Workaround, Not a Solution",
+    "url": "https://thenewstack.io/javascript-hydration-is-a-workaround-not-a-solution/",
+    "upvotes": 8,
+    "author": "fagnerbrack",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32650996"
+  },
+  {
+    "title": "The dictatorship of the articulate",
+    "url": "https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/",
+    "upvotes": 237,
+    "author": "adayeo",
+    "comments": 266,
+    "link": "https://news.ycombinator.com/item?id=32670744"
   },
   {
     "title": "Random Google Street View",
     "url": "https://randomstreetview.com/",
-    "upvotes": 222,
+    "upvotes": 228,
     "author": "O__________O",
-    "comments": 76,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=32671018"
   },
   {
-    "title": "Stable Diffusion: Is Video Coming Soon?",
-    "url": "https://metaphysic.ai/stable-diffusion-is-video-coming-soon/",
-    "upvotes": 7,
-    "author": "Hard_Space",
+    "title": "Surging Energy Prices in Europe in the Aftermath of the War",
+    "url": "https://www.imf.org/en/Publications/WP/Issues/2022/07/28/Surging-Energy-Prices-in-Europe-in-the-Aftermath-of-the-War-How-to-Support-the-Vulnerable-521457",
+    "upvotes": 4,
+    "author": "ZeroGravitas",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32675996"
+    "link": "https://news.ycombinator.com/item?id=32676462"
+  },
+  {
+    "title": "C64 Theremin",
+    "url": "https://www.linusakesson.net/hardware/theremin/",
+    "upvotes": 77,
+    "author": "fanf2",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=32660321"
   },
   {
     "title": "An Unlikely Bohemia: Athens, Georgia, in Reagan's America",
     "url": "https://southernspaces.org/2020/unlikely-bohemia-athens-georgia-reagans-america/",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "tintinnabula",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32658151"
@@ -118,121 +142,97 @@
   {
     "title": "The case for language agnostic hiring",
     "url": "https://alphalist.com/blog/the-case-for-language-agnostic-hiring",
-    "upvotes": 45,
+    "upvotes": 47,
     "author": "datanerd613",
-    "comments": 77,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=32673470"
+  },
+  {
+    "title": "California Declares Grid Emergency",
+    "url": "https://www.rigzone.com/news/wire/california_declares_grid_emergency-01-sep-2022-170187-article/",
+    "upvotes": 75,
+    "author": "hubraumhugo",
+    "comments": 136,
+    "link": "https://news.ycombinator.com/item?id=32675863"
   },
   {
     "title": "Our collective synesthesia, in graphs",
     "url": "https://aella.substack.com/p/our-collective-synesthesia-in-graphs",
-    "upvotes": 54,
+    "upvotes": 55,
     "author": "gHeadphone",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32673119"
-  },
-  {
-    "title": "SQLite: Past, Present, and Future",
-    "url": "https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future",
-    "upvotes": 3,
-    "author": "chrstr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32675861"
-  },
-  {
-    "title": "Everything is an input device",
-    "url": "https://media.ccc.de/v/mch2022-254-everything-is-an-input-device-fun-with-barcodes-",
-    "upvotes": 28,
-    "author": "wlecometo",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32674082"
   },
   {
     "title": "YKK zippers: Why so many designers use them",
     "url": "https://slate.com/business/2012/04/ykk-zippers-why-so-many-designers-use-them.html",
-    "upvotes": 94,
+    "upvotes": 100,
     "author": "georgecmu",
-    "comments": 110,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=32656463"
+  },
+  {
+    "title": "Everything is an input device",
+    "url": "https://media.ccc.de/v/mch2022-254-everything-is-an-input-device-fun-with-barcodes-",
+    "upvotes": 30,
+    "author": "wlecometo",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32674082"
   },
   {
     "title": "Falsehoods programmers believe about email",
     "url": "https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email",
-    "upvotes": 238,
+    "upvotes": 245,
     "author": "tsujp",
-    "comments": 241,
+    "comments": 249,
     "link": "https://news.ycombinator.com/item?id=32671959"
+  },
+  {
+    "title": "Is the internet killing the nude beach?",
+    "url": "https://www.theatlantic.com/family/archive/2022/08/nude-beaches-denmark-france-popularity/671275/",
+    "upvotes": 97,
+    "author": "fortran77",
+    "comments": 174,
+    "link": "https://news.ycombinator.com/item?id=32658364"
   },
   {
     "title": "Using Python to vectorize artwork for PCBs",
     "url": "https://blog.thea.codes/raster-vectorization-with-python/",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "zdw",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=32643827"
   },
   {
-    "title": "Arm sues Qualcomm, aiming to unwind Qualcomm's $1.4B Nuvia purchase",
-    "url": "https://www.reuters.com/legal/chips-tech-firm-arm-sues-qualcomm-nuvia-breach-license-trademark-2022-08-31/",
-    "upvotes": 51,
-    "author": "retskrad",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=32674698"
+    "title": "The toll of dating app burnout",
+    "url": "https://www.nytimes.com/2022/08/31/well/mind/burnout-online-dating-apps.html",
+    "upvotes": 47,
+    "author": "irajdeep",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=32673428"
   },
   {
-    "title": "Is the internet killing the nude beach?",
-    "url": "https://www.theatlantic.com/family/archive/2022/08/nude-beaches-denmark-france-popularity/671275/",
-    "upvotes": 86,
-    "author": "fortran77",
-    "comments": 160,
-    "link": "https://news.ycombinator.com/item?id=32658364"
+    "title": "AI-Generated Bible Art",
+    "url": "https://www.openbible.info/labs/ai-bible-art/",
+    "upvotes": 15,
+    "author": "possiblelion",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32674243"
   },
   {
     "title": "A self-trained Italian blacksmith built himself an amusement park",
     "url": "https://www.atlasobscura.com/articles/handmade-italian-amusement-park",
-    "upvotes": 128,
+    "upvotes": 139,
     "author": "abrax3141",
-    "comments": 33,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=32638598"
   },
   {
-    "title": "Newly discovered exoplanet may be first covered in liquid water",
-    "url": "https://www.freethink.com/space/ocean-planet",
-    "upvotes": 10,
-    "author": "Brajeshwar",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32651358"
-  },
-  {
-    "title": "Launch HN: Payload (YC S22) – Headless CMS for Developers",
-    "url": "item?id=32665325",
-    "upvotes": 218,
-    "author": "sneek_",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=32665325"
-  },
-  {
-    "title": "OptiFi Program Incident Report",
-    "url": "https://medium.com/@OptiFi/optifi-program-incident-report-08-29-22-d8fe6d229bad",
-    "upvotes": 214,
-    "author": "gscott",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=32673000"
-  },
-  {
-    "title": "AI wins state fair art contest, annoys humans",
-    "url": "https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/",
-    "upvotes": 149,
-    "author": "yreg",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=32672899"
-  },
-  {
-    "title": "WebKit on GitHub",
-    "url": "https://webkit.org/blog/13140/webkit-on-github/",
-    "upvotes": 458,
-    "author": "miohtama",
-    "comments": 232,
-    "link": "https://news.ycombinator.com/item?id=32667619"
+    "title": "Arm sues Qualcomm, aiming to unwind Qualcomm's $1.4B Nuvia purchase",
+    "url": "https://www.reuters.com/legal/chips-tech-firm-arm-sues-qualcomm-nuvia-breach-license-trademark-2022-08-31/",
+    "upvotes": 54,
+    "author": "retskrad",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=32674698"
   }
 ]
