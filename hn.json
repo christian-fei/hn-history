@@ -1,56 +1,72 @@
 [
   {
+    "title": "GitHub is removing the Trending Repositories page due to “low usage”",
+    "url": "https://github.com/community/community/discussions/31644",
+    "upvotes": 37,
+    "author": "willdr",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=32686580"
+  },
+  {
     "title": "FAA approves unleaded fuel for piston fleet",
     "url": "https://www.aopa.org/news-and-media/all-news/2022/september/01/closer-to-an-unleaded-future",
-    "upvotes": 381,
+    "upvotes": 403,
     "author": "sokoloff",
-    "comments": 170,
+    "comments": 185,
     "link": "https://news.ycombinator.com/item?id=32682990"
   },
   {
     "title": "Run Stable Diffusion on Your M1 Mac’s GPU",
     "url": "https://replicate.com/blog/run-stable-diffusion-on-m1-mac",
-    "upvotes": 805,
+    "upvotes": 824,
     "author": "bfirsh",
-    "comments": 310,
+    "comments": 319,
     "link": "https://news.ycombinator.com/item?id=32678664"
+  },
+  {
+    "title": "Why Instagram Is Dying: We Asked 100 Gen Z Users to Compare TikTok vs. Reels",
+    "url": "https://www.surgehq.ai//blog/tiktok-vs-instagram-reels-personalized-human-evaluation",
+    "upvotes": 58,
+    "author": "echen",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=32685663"
   },
   {
     "title": "Framework is now available in Australia",
     "url": "https://frame.work/au/en",
-    "upvotes": 148,
+    "upvotes": 173,
     "author": "tony-allan",
-    "comments": 65,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=32684198"
   },
   {
     "title": "We clone a running VM in 2 seconds",
     "url": "https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds",
-    "upvotes": 163,
+    "upvotes": 185,
     "author": "mrkurt",
-    "comments": 33,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=32683834"
   },
   {
     "title": "Responding to recruiter emails with GPT-3",
     "url": "https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gpt-3",
-    "upvotes": 52,
+    "upvotes": 65,
     "author": "mbil",
-    "comments": 40,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=32685214"
   },
   {
     "title": "Not Your Grandmother's Textbook Exercise",
     "url": "https://cacm.acm.org/blogs/blog-cacm/264263-not-your-grandmothers-textbook-exercise/fulltext",
-    "upvotes": 115,
+    "upvotes": 123,
     "author": "zdw",
-    "comments": 38,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=32684017"
   },
   {
     "title": "Notes on the SQLite DuckDB Paper",
     "url": "https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/",
-    "upvotes": 65,
+    "upvotes": 77,
     "author": "todsacerdoti",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=32684424"
@@ -58,181 +74,165 @@
   {
     "title": "The Fate of Rome",
     "url": "https://press.princeton.edu/books/paperback/9780691192062/the-fate-of-rome",
-    "upvotes": 28,
+    "upvotes": 32,
     "author": "tosh",
-    "comments": 19,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32659668"
-  },
-  {
-    "title": "Crystal Programming Language",
-    "url": "https://crystal-lang.org/",
-    "upvotes": 69,
-    "author": "simonebrunozzi",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=32683473"
   },
   {
     "title": "Ask HN: Who is hiring?",
     "url": "item?id=32677265",
-    "upvotes": 277,
+    "upvotes": 284,
     "author": "whoishiring",
-    "comments": 402,
+    "comments": 407,
     "link": "https://news.ycombinator.com/item?id=32677265"
+  },
+  {
+    "title": "Crystal Programming Language",
+    "url": "https://crystal-lang.org/",
+    "upvotes": 84,
+    "author": "simonebrunozzi",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=32683473"
+  },
+  {
+    "title": "St. Cuthbert's Beads",
+    "url": "https://en.wikipedia.org/wiki/St._Cuthbert%27s_beads",
+    "upvotes": 6,
+    "author": "Petiver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32658467"
   },
   {
     "title": "One million queries per second with MySQL",
     "url": "https://planetscale.com/blog/one-million-queries-per-second-with-mysql",
-    "upvotes": 166,
+    "upvotes": 172,
     "author": "aarondf",
-    "comments": 83,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=32680957"
-  },
-  {
-    "title": "ArrayQL Integration into Code-Generating Database Systems [pdf]",
-    "url": "https://openproceedings.org/2022/conf/edbt/sample-edbt2022.pdf",
-    "upvotes": 6,
-    "author": "xept",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32663836"
   },
   {
     "title": "macOS now scans for malware whenever it gets a chance",
     "url": "https://eclecticlight.co/2022/08/30/macos-now-scans-for-malware-whenever-it-gets-a-chance/",
-    "upvotes": 183,
+    "upvotes": 191,
     "author": "pjmlp",
-    "comments": 183,
+    "comments": 188,
     "link": "https://news.ycombinator.com/item?id=32681976"
   },
   {
     "title": "Bibliogram, Open-source front-end for Instagram, is being discontinued",
     "url": "https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram",
-    "upvotes": 61,
+    "upvotes": 65,
     "author": "lurtbancaster",
-    "comments": 42,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=32683722"
+  },
+  {
+    "title": "ArrayQL Integration into Code-Generating Database Systems [pdf]",
+    "url": "https://openproceedings.org/2022/conf/edbt/sample-edbt2022.pdf",
+    "upvotes": 8,
+    "author": "xept",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32663836"
   },
   {
     "title": "USB 4 version 2 promises 80 Gbps speeds over existing cables",
     "url": "https://www.theverge.com/2022/9/1/23332838/usb-4-version-2-80-gbps-thunderbolt",
-    "upvotes": 118,
+    "upvotes": 127,
     "author": "mmastrac",
-    "comments": 126,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=32683761"
   },
   {
-    "title": "Why Instagram Is Dying: We Asked 100 Gen Z Users to Compare TikTok vs. Reels",
-    "url": "https://www.surgehq.ai//blog/tiktok-vs-instagram-reels-personalized-human-evaluation",
-    "upvotes": 13,
-    "author": "echen",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=32685663"
-  },
-  {
-    "title": "SQLite: Past, Present, and Future",
-    "url": "https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future",
-    "upvotes": 240,
-    "author": "chrstr",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=32675861"
-  },
-  {
-    "title": "Being a university fresher can be hard",
-    "url": "https://www.theguardian.com/education/commentisfree/2022/aug/31/what-do-you-say-to-kids-going-off-to-university-when-youll-have-a-briliant-time-doesnt-quite-cover-it",
-    "upvotes": 27,
-    "author": "jleyank",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=32670512"
+    "title": "Show HN: Countle",
+    "url": "https://www.countle.org",
+    "upvotes": 6,
+    "author": "gdix",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32686541"
   },
   {
     "title": "High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 μm",
     "url": "https://arxiv.org/abs/2208.14990",
-    "upvotes": 64,
+    "upvotes": 68,
     "author": "bookofjoe",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32681366"
+  },
+  {
+    "title": "Someone hacked YandexTaxi and ordered all available taxis to the same location",
+    "url": "https://twitter.com/runews/status/1565319649683804160",
+    "upvotes": 386,
+    "author": "aaur0",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=32681012"
+  },
+  {
+    "title": "Launch HN: SideGuide (YC S22) – Learn APIs by running them in live environments",
+    "url": "item?id=32678553",
+    "upvotes": 60,
+    "author": "ericciarla",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=32678553"
   },
   {
     "title": "TaxProper",
     "url": "https://taxproper.notion.site/TaxProper-is-Hiring-an-Operations-Analyst-781f129af8924b9096a28cb4960bea8d"
   },
   {
-    "title": "Someone hacked YandexTaxi and ordered all available taxis to the same location",
-    "url": "https://twitter.com/runews/status/1565319649683804160",
-    "upvotes": 371,
-    "author": "aaur0",
-    "comments": 107,
-    "link": "https://news.ycombinator.com/item?id=32681012"
-  },
-  {
-    "title": "Launch HN: SideGuide (YC S22) – Learn APIs by running them in live environments",
-    "url": "item?id=32678553",
-    "upvotes": 59,
-    "author": "ericciarla",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=32678553"
+    "title": "Being a university fresher can be hard",
+    "url": "https://www.theguardian.com/education/commentisfree/2022/aug/31/what-do-you-say-to-kids-going-off-to-university-when-youll-have-a-briliant-time-doesnt-quite-cover-it",
+    "upvotes": 29,
+    "author": "jleyank",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=32670512"
   },
   {
     "title": "Owsley Stanley: The King of LSD",
     "url": "https://www.rollingstone.com/feature/owsley-stanley-the-king-of-lsd-82181/",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "bookofjoe",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=32651502"
   },
   {
     "title": "The Portuguese can no longer afford to live in Portugal",
     "url": "https://medium.com/the-portuguese/the-portuguese-can-no-longer-afford-to-live-in-portugal-or-even-survive-eaa8fdffc4b9",
-    "upvotes": 353,
+    "upvotes": 367,
     "author": "nateb2022",
-    "comments": 521,
+    "comments": 545,
     "link": "https://news.ycombinator.com/item?id=32677473"
   },
   {
     "title": "Why bother with warrants when cops can buy location data for under $10k?",
     "url": "https://www.theregister.com/2022/09/01/eff_fog_data_broker/",
-    "upvotes": 79,
+    "upvotes": 89,
     "author": "LinuxBender",
-    "comments": 30,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=32685046"
   },
   {
     "title": "Ask HN: Whatever happened to dedicated sound cards?",
     "url": "item?id=32678091",
-    "upvotes": 168,
+    "upvotes": 173,
     "author": "Dracophoenix",
-    "comments": 165,
+    "comments": 177,
     "link": "https://news.ycombinator.com/item?id=32678091"
   },
   {
     "title": "Filtering a vector with SIMD instructions",
     "url": "https://quickwit.io/blog/filtering%20a%20vector%20with%20simd%20instructions%20avx-2%20and%20avx-512",
-    "upvotes": 94,
+    "upvotes": 98,
     "author": "francoismassot",
-    "comments": 38,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=32674040"
-  },
-  {
-    "title": "Buckminster Fuller’s greatest invention was his own image",
-    "url": "https://newrepublic.com/article/167229/buckminster-fullers-greatest-invention",
-    "upvotes": 74,
-    "author": "conanxin",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=32677512"
-  },
-  {
-    "title": "Benedictine monk wrote earliest known reference to ball lightning in England",
-    "url": "https://arstechnica.com/science/2022/02/benedictine-monk-wrote-earliest-known-reference-to-ball-lightning-in-england/",
-    "upvotes": 63,
-    "author": "Tomte",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=32678464"
   },
   {
     "title": "Ask HN: Who wants to be hired?",
     "url": "item?id=32677261",
-    "upvotes": 89,
+    "upvotes": 91,
     "author": "whoishiring",
-    "comments": 188,
+    "comments": 198,
     "link": "https://news.ycombinator.com/item?id=32677261"
   }
 ]
