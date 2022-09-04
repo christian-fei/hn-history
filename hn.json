@@ -1,40 +1,48 @@
 [
   {
-    "title": "The forty-year programmer",
-    "url": "https://codefol.io/posts/the-forty-year-programmer/",
-    "upvotes": 236,
-    "author": "revorad",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=32690892"
-  },
-  {
     "title": "I ran the worlds largest DDoS-for-Hire empire and Cloudflare helped",
     "url": "https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped",
-    "upvotes": 42,
+    "upvotes": 71,
     "author": "Rasbora",
-    "comments": 22,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=32709329"
+  },
+  {
+    "title": "The forty-year programmer",
+    "url": "https://codefol.io/posts/the-forty-year-programmer/",
+    "upvotes": 246,
+    "author": "revorad",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=32690892"
   },
   {
     "title": "Stable Diffusion PR optimizes VRAM, generate 576x1280 images with 6 GB VRAM",
     "url": "https://github.com/basujindal/stable-diffusion/pull/103",
-    "upvotes": 54,
+    "upvotes": 64,
     "author": "avocado2",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=32709201"
+  },
+  {
+    "title": "Dear Oracle, Please Release the JavaScript Trademark",
+    "url": "https://tinyclouds.org",
+    "upvotes": 18,
+    "author": "throwaway_4ever",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32709870"
   },
   {
     "title": "Less is more agile",
     "url": "https://beny23.github.io/posts/my_take_on_engineering_room_9/",
-    "upvotes": 98,
+    "upvotes": 101,
     "author": "beny23",
-    "comments": 61,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=32706548"
   },
   {
     "title": "Solving the Australian Signals Directorate cryptography challenge coin",
     "url": "http://senwerks.com/hacktheplanet/Solving-the-Australian-Signals-Directorate-cryptography-challenge-coin.html",
-    "upvotes": 53,
+    "upvotes": 57,
     "author": "cjg",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=32692563"
@@ -42,7 +50,7 @@
   {
     "title": "The Sick Society",
     "url": "https://www.nplusonemag.com/online-only/online-only/the-sick-society/",
-    "upvotes": 21,
+    "upvotes": 27,
     "author": "ghukill",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32699202"
@@ -50,7 +58,7 @@
   {
     "title": "Tips and Tools for Text Mode Lovers",
     "url": "https://cli-ck.io/",
-    "upvotes": 17,
+    "upvotes": 20,
     "author": "lbotos",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32708856"
@@ -58,23 +66,31 @@
   {
     "title": "DBOS: A database-oriented operating system",
     "url": "https://dbos-project.github.io/blog/intro-blog.html",
-    "upvotes": 111,
+    "upvotes": 114,
     "author": "KraftyOne",
-    "comments": 70,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=32705025"
+  },
+  {
+    "title": "Master Foo and the Recruiter",
+    "url": "http://www.catb.org/~esr/writings/unix-koans/recruiter.html",
+    "upvotes": 11,
+    "author": "thunderbong",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32691553"
   },
   {
     "title": "Roaring bitmaps: what they are and how they work",
     "url": "https://vikramoberoi.com/a-primer-on-roaring-bitmaps-what-they-are-and-how-they-work/",
-    "upvotes": 176,
+    "upvotes": 179,
     "author": "voberoi",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=32692012"
   },
   {
     "title": "The History of FoxPro: Interview with Wayne Ratliff",
     "url": "http://www.foxprohistory.org/interview_wayne_ratliff.htm",
-    "upvotes": 72,
+    "upvotes": 74,
     "author": "susam",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=32705991"
@@ -82,18 +98,14 @@
   {
     "title": "The optimal amount of fraud is non-zero",
     "url": "https://bam.kalzumeus.com/archive/optimal-amount-of-fraud/",
-    "upvotes": 272,
+    "upvotes": 275,
     "author": "piinbinary",
-    "comments": 215,
+    "comments": 218,
     "link": "https://news.ycombinator.com/item?id=32701913"
   },
   {
-    "title": "A fully open-source and end-to-end encrypted note taking alternative to Evernote",
-    "url": "https://github.com/streetwriters/notesnook",
-    "upvotes": 27,
-    "author": "quyleanh",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=32708019"
+    "title": "Ivy",
+    "url": "https://www.ycombinator.com/companies/ivy/jobs"
   },
   {
     "title": "Lost islands cited in Welsh folklore and poetry are plausible",
@@ -104,80 +116,76 @@
     "link": "https://news.ycombinator.com/item?id=32703307"
   },
   {
-    "title": "Ivy",
-    "url": "https://www.ycombinator.com/companies/ivy/jobs"
+    "title": "A fully open-source and end-to-end encrypted note taking alternative to Evernote",
+    "url": "https://github.com/streetwriters/notesnook",
+    "upvotes": 28,
+    "author": "quyleanh",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=32708019"
   },
   {
     "title": "One Serverless Principle to Rule Them All: Idempotency [video]",
     "url": "https://www.youtube.com/watch?v=X24mIe0LrgM",
-    "upvotes": 40,
+    "upvotes": 43,
     "author": "kiyanwang",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32690073"
   },
   {
-    "title": "Space Weather Prediction Center",
-    "url": "https://www.spaceweather.gov/homepage",
-    "upvotes": 30,
-    "author": "oblib",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32707051"
+    "title": "The Last Days of Sigmund Freud",
+    "url": "https://newrepublic.com/article/167592/sigmund-freud-austria-nazis-last-days",
+    "upvotes": 9,
+    "author": "lermontov",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32699065"
   },
   {
     "title": "Things to know about lists on the internet",
     "url": "https://lithub.com/10-things-you-should-know-about-lists-on-the-internet/",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "bryanrasmussen",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32700961"
   },
   {
-    "title": "Samsung Loses a Ton of User Data – Offers Nothing to Victims",
-    "url": "https://www.makeuseof.com/samsung-data-breach-should-you-worry/",
-    "upvotes": 81,
-    "author": "dddavid",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=32708508"
-  },
-  {
-    "title": "Master Foo and the Recruiter",
-    "url": "http://www.catb.org/~esr/writings/unix-koans/recruiter.html",
-    "upvotes": 7,
-    "author": "thunderbong",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32691553"
-  },
-  {
-    "title": "DockYard R&D: FireFly Optimizes Your Elixir Compilation",
-    "url": "https://dockyard.com/blog/2022/09/01/dockyard-r-d-firefly-optimizes-your-elixir-compilation",
-    "upvotes": 95,
-    "author": "freedomben",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=32703414"
+    "title": "Space Weather Prediction Center",
+    "url": "https://www.spaceweather.gov/homepage",
+    "upvotes": 32,
+    "author": "oblib",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32707051"
   },
   {
     "title": "Cursorless: Don't let the cursor slow you down",
     "url": "https://github.com/cursorless-dev/cursorless",
-    "upvotes": 83,
+    "upvotes": 91,
     "author": "yewenjie",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=32691870"
   },
   {
-    "title": "Porsche boss faces software woes keeping VW a step behind Tesla",
-    "url": "https://www.bloomberg.com/news/features/2022-09-01/porsche-boss-faces-software-woes-keeping-vw-steps-behind-tesla-tsla",
-    "upvotes": 105,
-    "author": "belter",
-    "comments": 154,
-    "link": "https://news.ycombinator.com/item?id=32705725"
+    "title": "Samsung Loses a Ton of User Data – Offers Nothing to Victims",
+    "url": "https://www.makeuseof.com/samsung-data-breach-should-you-worry/",
+    "upvotes": 86,
+    "author": "dddavid",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=32708508"
   },
   {
-    "title": "The Last Days of Sigmund Freud",
-    "url": "https://newrepublic.com/article/167592/sigmund-freud-austria-nazis-last-days",
-    "upvotes": 7,
-    "author": "lermontov",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32699065"
+    "title": "DockYard R&D: FireFly Optimizes Your Elixir Compilation",
+    "url": "https://dockyard.com/blog/2022/09/01/dockyard-r-d-firefly-optimizes-your-elixir-compilation",
+    "upvotes": 97,
+    "author": "freedomben",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=32703414"
+  },
+  {
+    "title": "Porsche boss faces software woes keeping VW a step behind Tesla",
+    "url": "https://www.bloomberg.com/news/features/2022-09-01/porsche-boss-faces-software-woes-keeping-vw-steps-behind-tesla-tsla",
+    "upvotes": 106,
+    "author": "belter",
+    "comments": 164,
+    "link": "https://news.ycombinator.com/item?id=32705725"
   },
   {
     "title": "Show HN: Alumina Programming Language",
@@ -190,26 +198,34 @@
   {
     "title": "Breaking the silence around academic bullying",
     "url": "https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14473",
-    "upvotes": 78,
+    "upvotes": 80,
     "author": "larve",
-    "comments": 64,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=32702833"
-  },
-  {
-    "title": "A hormone may boost cognition in Down syndrome",
-    "url": "https://www.scientificamerican.com/article/a-hormone-may-boost-cognition-in-down-syndrome/",
-    "upvotes": 92,
-    "author": "LinuxBender",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=32693220"
   },
   {
     "title": "Ask HN: If I enter account or order in a phone tree, why am I asked again?",
     "url": "item?id=32707737",
-    "upvotes": 42,
+    "upvotes": 46,
     "author": "adamsmark",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=32707737"
+  },
+  {
+    "title": "A hormone may boost cognition in Down syndrome",
+    "url": "https://www.scientificamerican.com/article/a-hormone-may-boost-cognition-in-down-syndrome/",
+    "upvotes": 94,
+    "author": "LinuxBender",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=32693220"
+  },
+  {
+    "title": "Isaac Newton Discovered the Binomial Power Series",
+    "url": "https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/",
+    "upvotes": 9,
+    "author": "nsoonhui",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32708452"
   },
   {
     "title": "The carbon capture crux: Lessons learned",
@@ -218,21 +234,5 @@
     "author": "tpc3",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=32677594"
-  },
-  {
-    "title": "An Adventure in Pre-Rendered Backgrounds",
-    "url": "https://www.jmeiners.com/pre-rendered-backgrounds/",
-    "upvotes": 40,
-    "author": "pizzapim",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=32695084"
-  },
-  {
-    "title": "Isaac Newton Discovered the Binomial Power Series",
-    "url": "https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/",
-    "upvotes": 7,
-    "author": "nsoonhui",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32708452"
   }
 ]
