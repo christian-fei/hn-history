@@ -2,171 +2,187 @@
   {
     "title": "Show HN: Draw Anything – A Simple Stable Diffusion Playground",
     "url": "https://www.drawanything.app/",
-    "upvotes": 35,
+    "upvotes": 75,
     "author": "kierangill",
-    "comments": 10,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=32726679"
   },
   {
     "title": "Kext-less FUSE library for macOS",
     "url": "https://www.fuse-t.org/",
-    "upvotes": 32,
+    "upvotes": 64,
     "author": "freebeer2",
-    "comments": 9,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=32726166"
+  },
+  {
+    "title": "Violence-as-a-Service: Brickings, Firebombings and Shootings for Hire",
+    "url": "https://krebsonsecurity.com/2022/09/violence-as-a-service-brickings-firebombings-shootings-for-hire/",
+    "upvotes": 12,
+    "author": "feross",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32727201"
   },
   {
     "title": "Common Lisp vs Racket",
     "url": "https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac",
-    "upvotes": 136,
+    "upvotes": 150,
     "author": "ducktective",
-    "comments": 77,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=32723784"
-  },
-  {
-    "title": "All poverty is energy poverty",
-    "url": "https://omnibudsman.substack.com/p/all-poverty-is-energy-poverty",
-    "upvotes": 163,
-    "author": "bedbot",
-    "comments": 187,
-    "link": "https://news.ycombinator.com/item?id=32724162"
-  },
-  {
-    "title": "Why A4? – The Mathematical Beauty of Paper Size",
-    "url": "https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/",
-    "upvotes": 500,
-    "author": "casca",
-    "comments": 438,
-    "link": "https://news.ycombinator.com/item?id=32721602"
-  },
-  {
-    "title": "Solr’s Dense Vector Search for indexing and searching dense numerical vectors",
-    "url": "https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html",
-    "upvotes": 35,
-    "author": "kordlessagain",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=32725322"
-  },
-  {
-    "title": "Mille Bornes",
-    "url": "http://www.codex99.com/design/28.html",
-    "upvotes": 16,
-    "author": "ptrkcsk",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32726081"
-  },
-  {
-    "title": "Launch HN: Mito (YC S20) – Edit a spreadsheet, generate Python",
-    "url": "item?id=32723766",
-    "upvotes": 78,
-    "author": "narush",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=32723766"
-  },
-  {
-    "title": "Kiwi Farms is down across all domains as DDoS-Guard terminates service",
-    "url": "https://twitter.com/GossiTheDog/status/1566728231893573634",
-    "upvotes": 101,
-    "author": "intunderflow",
-    "comments": 237,
-    "link": "https://news.ycombinator.com/item?id=32722950"
-  },
-  {
-    "title": "Useful engineering metrics and why velocity is not one of them",
-    "url": "https://lucasfcosta.com/2022/08/31/engineering-metrics.html",
-    "upvotes": 13,
-    "author": "lucasfcosta",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32720794"
   },
   {
     "title": "Extending SQLite with Rust",
     "url": "https://ricardoanderegg.com/posts/extending-sqlite-with-rust/",
-    "upvotes": 12,
+    "upvotes": 45,
     "author": "philipwhiuk",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32726011"
   },
   {
-    "title": "PHP 8.2.0 RC1 available for testing",
-    "url": "https://www.php.net/archive/2022.php",
-    "upvotes": 51,
-    "author": "vedranm",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=32725614"
+    "title": "Why A4? – The Mathematical Beauty of Paper Size",
+    "url": "https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/",
+    "upvotes": 524,
+    "author": "casca",
+    "comments": 457,
+    "link": "https://news.ycombinator.com/item?id=32721602"
   },
   {
-    "title": "Color – Bauhaus",
-    "url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/form_color/color/",
-    "upvotes": 51,
-    "author": "brudgers",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32709947"
+    "title": "Mille Bornes",
+    "url": "http://www.codex99.com/design/28.html",
+    "upvotes": 27,
+    "author": "ptrkcsk",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=32726081"
+  },
+  {
+    "title": "Solr’s Dense Vector Search for indexing and searching dense numerical vectors",
+    "url": "https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html",
+    "upvotes": 49,
+    "author": "kordlessagain",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=32725322"
+  },
+  {
+    "title": "Kiwi Farms is down across all domains as DDoS-Guard terminates service",
+    "url": "https://twitter.com/GossiTheDog/status/1566728231893573634",
+    "upvotes": 142,
+    "author": "intunderflow",
+    "comments": 337,
+    "link": "https://news.ycombinator.com/item?id=32722950"
+  },
+  {
+    "title": "Useful engineering metrics and why velocity is not one of them",
+    "url": "https://lucasfcosta.com/2022/08/31/engineering-metrics.html",
+    "upvotes": 28,
+    "author": "lucasfcosta",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=32720794"
+  },
+  {
+    "title": "Launch HN: Mito (YC S20) – Edit a spreadsheet, generate Python",
+    "url": "item?id=32723766",
+    "upvotes": 82,
+    "author": "narush",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=32723766"
   },
   {
     "title": "The Timeless Way of Programming",
     "url": "http://tomasp.net/blog/2022/timeless-way/",
-    "upvotes": 29,
+    "upvotes": 38,
     "author": "signa11",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32711349"
+  },
+  {
+    "title": "All poverty is energy poverty",
+    "url": "https://omnibudsman.substack.com/p/all-poverty-is-energy-poverty",
+    "upvotes": 187,
+    "author": "bedbot",
+    "comments": 224,
+    "link": "https://news.ycombinator.com/item?id=32724162"
   },
   {
     "title": "Apple AMX instruction set",
     "url": "https://github.com/corsix/amx",
-    "upvotes": 145,
+    "upvotes": 157,
     "author": "rostayob",
-    "comments": 127,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=32722510"
   },
   {
-    "title": "Heatwaves kill more Americans than hurricanes, tornadoes and floods",
-    "url": "https://www.economist.com/united-states/2022/09/01/heatwaves-kill-more-americans-than-hurricanes-tornadoes-and-floods",
-    "upvotes": 112,
-    "author": "hhs",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=32724659"
+    "title": "Color – Bauhaus",
+    "url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/form_color/color/",
+    "upvotes": 60,
+    "author": "brudgers",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32709947"
+  },
+  {
+    "title": "PHP 8.2.0 RC1 available for testing",
+    "url": "https://www.php.net/archive/2022.php",
+    "upvotes": 63,
+    "author": "vedranm",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=32725614"
   },
   {
     "title": "Computing VIN Checksums",
     "url": "https://www.johndcook.com/blog/2022/09/04/computing-vin-checksums/",
-    "upvotes": 6,
+    "upvotes": 12,
     "author": "zdw",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=32713118"
+  },
+  {
+    "title": "Create an Inexpensive Flying Wing / Drone",
+    "url": "https://www.robotshop.com/community/robots/show/how-to-make-the-least-expensive-drone-airplane",
+    "upvotes": 8,
+    "author": "ghgr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32710275"
   },
   {
     "title": "Meticulous (YC S21) is hiring #3 founding engineer in London",
     "url": "item?id=32723316"
   },
   {
+    "title": "Heatwaves kill more Americans than hurricanes, tornadoes and floods",
+    "url": "https://www.economist.com/united-states/2022/09/01/heatwaves-kill-more-americans-than-hurricanes-tornadoes-and-floods",
+    "upvotes": 129,
+    "author": "hhs",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=32724659"
+  },
+  {
+    "title": "Cowgod's Chip-8 Technical Reference",
+    "url": "http://devernay.free.fr/hacks/chip8/C8TECH10.HTM",
+    "upvotes": 36,
+    "author": "tosh",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32711772"
+  },
+  {
+    "title": "'Serious errors' in research linking deaths to red meat",
+    "url": "https://www.thetimes.co.uk/article/serious-errors-in-research-linking-deaths-to-red-meat-qtdh28fv5",
+    "upvotes": 112,
+    "author": "rgrieselhuber",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=32724569"
+  },
+  {
     "title": "Please continue supporting iOS/Android streaming SDKs",
     "url": "https://community.spotify.com/t5/Spotify-for-Developers/Please-continue-supporting-iOS-Android-streaming-SDKs/td-p/5416477",
-    "upvotes": 62,
+    "upvotes": 74,
     "author": "pjmq",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=32725492"
   },
   {
-    "title": "'Serious errors' in research linking deaths to red meat",
-    "url": "https://www.thetimes.co.uk/article/serious-errors-in-research-linking-deaths-to-red-meat-qtdh28fv5",
-    "upvotes": 97,
-    "author": "rgrieselhuber",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=32724569"
-  },
-  {
-    "title": "Cowgod's Chip-8 Technical Reference",
-    "url": "http://devernay.free.fr/hacks/chip8/C8TECH10.HTM",
-    "upvotes": 32,
-    "author": "tosh",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=32711772"
-  },
-  {
     "title": "High speed Unicode routines using SIMD",
     "url": "https://github.com/simdutf/simdutf",
-    "upvotes": 106,
+    "upvotes": 110,
     "author": "Peter5",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32700315"
@@ -174,65 +190,49 @@
   {
     "title": "Mangroves on a Landfill",
     "url": "https://placesjournal.org/article/informal-settlers-environmental-rehabilitation-manila/",
-    "upvotes": 6,
+    "upvotes": 10,
     "author": "prismatic",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32726036"
   },
   {
     "title": "Virtual Ants",
     "url": "https://healeycodes.com/virtual-ants",
-    "upvotes": 78,
+    "upvotes": 82,
     "author": "healeycodes",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32722451"
   },
   {
-    "title": "A Re-Purposed Tactical Decision Game",
-    "url": "https://www.shadowboxtraining.com/news/2022/04/29/film-at-eleven/",
-    "upvotes": 92,
-    "author": "fagnerbrack",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=32712506"
-  },
-  {
     "title": "SQLite 3.39.3",
     "url": "https://sqlite.org/releaselog/3_39_3.html",
-    "upvotes": 65,
+    "upvotes": 78,
     "author": "marcobambini",
-    "comments": 23,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=32724337"
+  },
+  {
+    "title": "A simple way to significantly increase lifetimes of fuel cells and other devices",
+    "url": "https://news.mit.edu/2022/simple-way-to-significantly-increase-fuel-cell-lifetimes-0831",
+    "upvotes": 9,
+    "author": "rntn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32725834"
   },
   {
     "title": "uLisp wireless message display with a Pi Pico W",
     "url": "http://forum.ulisp.com/t/wireless-message-display/1062",
-    "upvotes": 54,
+    "upvotes": 58,
     "author": "rcarmo",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32722475"
   },
   {
-    "title": "Visualize active fires around the world with Javascript",
-    "url": "https://blog.znote.io/2022/znote-climate-post/",
-    "upvotes": 48,
-    "author": "alagrede",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=32722281"
-  },
-  {
-    "title": "Toyota patents plans for EV with manual transmission and clutch",
-    "url": "https://insideevs.com/news/566896/toyota-electric-vehicle-manual-transmission/",
-    "upvotes": 103,
-    "author": "aruanavekar",
-    "comments": 167,
-    "link": "https://news.ycombinator.com/item?id=32723909"
-  },
-  {
-    "title": "Ask HN: YC misses that went on to do well",
-    "url": "item?id=32724564",
-    "upvotes": 50,
-    "author": "arunsivadasan",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=32724564"
+    "title": "A Re-Purposed Tactical Decision Game",
+    "url": "https://www.shadowboxtraining.com/news/2022/04/29/film-at-eleven/",
+    "upvotes": 93,
+    "author": "fagnerbrack",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=32712506"
   }
 ]
