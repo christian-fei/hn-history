@@ -1,32 +1,56 @@
 [
   {
-    "title": "Bitwarden Raises $100M",
+    "title": "Bitwarden raises $100M",
     "url": "https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/",
-    "upvotes": 195,
+    "upvotes": 263,
     "author": "deanmoriarty",
-    "comments": 72,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=32735479"
   },
   {
-    "title": "GitHub Outage",
-    "url": "item?id=32735734",
-    "upvotes": 118,
-    "author": "omn1",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=32735734"
+    "title": "ACM SIGCOMM'22: Design and Evaluation of IPFS",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3544216.3544232",
+    "upvotes": 19,
+    "author": "dennis-tra",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32736239"
   },
   {
-    "title": "The first beta of Slidge",
+    "title": "Show HN: Simulate dollar-cost averaging in any mix of stocks",
+    "url": "https://simulator.tryshare.app/",
+    "upvotes": 9,
+    "author": "dwmcc",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32736497"
+  },
+  {
+    "title": "Slidge – XMPP bridges",
     "url": "https://nicoco.fr/blog/2022/09/04/slidge-first-beta/",
-    "upvotes": 12,
-    "author": "upofadown",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32736064"
+    "upvotes": 28,
+    "author": "zaik",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=32713750"
   },
   {
-    "title": "The Invention of the First Wearable Computer",
+    "title": "Approximately Half of Total Protein Intake by Adults Must Be Animal-Based",
+    "url": "https://academic.oup.com/jn/advance-article/doi/10.1093/jn/nxac150/6639861",
+    "upvotes": 23,
+    "author": "throw0101c",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=32736363"
+  },
+  {
+    "title": "My Surreal Experience with COBOL",
+    "url": "https://mutt0-ds.github.io/posts/2022/06/my-surreal-experience-cobol.md/",
+    "upvotes": 21,
+    "author": "gioaranzulla",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=32735411"
+  },
+  {
+    "title": "The invention of the first wearable computer",
     "url": "https://www.cs.virginia.edu/~evans/thorp.pdf",
-    "upvotes": 8,
+    "upvotes": 16,
     "author": "thinkingemote",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=32735791"
@@ -34,209 +58,185 @@
   {
     "title": "The history of sending signals to Unix process groups",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessGroupsAndSignals",
-    "upvotes": 80,
+    "upvotes": 84,
     "author": "r4um",
-    "comments": 39,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=32733844"
   },
   {
     "title": "Show HN: Nitric – Node.js framework for building portable cloud apps",
     "url": "https://github.com/nitrictech/node-sdk",
-    "upvotes": 33,
+    "upvotes": 36,
     "author": "tholm",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32735272"
-  },
-  {
-    "title": "Covid: Summary of lab-origin hypothesis",
-    "url": "https://twitter.com/R_H_Ebright/status/1566826229931524096",
-    "upvotes": 161,
-    "author": "alsodumb",
-    "comments": 168,
-    "link": "https://news.ycombinator.com/item?id=32727859"
   },
   {
     "title": "Lunatic: Erlang-Inspired Runtime for WebAssembly",
     "url": "https://github.com/lunatic-solutions/lunatic",
-    "upvotes": 120,
+    "upvotes": 127,
     "author": "cab404",
-    "comments": 20,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=32733069"
-  },
-  {
-    "title": "Optical Illusions of the Year",
-    "url": "https://kottke.org/22/02/the-best-optical-illusions-of-the-year",
-    "upvotes": 49,
-    "author": "Tomte",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=32735346"
   },
   {
     "title": "Show HN: Chitchatter – P2P chat app that is serverless, decentralized, ephemeral",
     "url": "https://chitchatter.im/",
-    "upvotes": 139,
+    "upvotes": 144,
     "author": "jckahn",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=32732158"
   },
   {
     "title": "Show HN: Open-source APM with support for tracing, metrics, and logs",
     "url": "https://app.uptrace.dev/play",
-    "upvotes": 60,
+    "upvotes": 64,
     "author": "vmihailenco",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=32733620"
   },
   {
     "title": "Szeged in 1934",
     "url": "https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Lorch219-230.pdf",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "gone35",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32721396"
   },
   {
-    "title": "Physically-Based Shading at Disney",
-    "url": "https://static1.squarespace.com/static/58586fa5ebbd1a60e7d76d3e/t/593a3afa46c3c4a376d779f6/1496988449807/s2012_pbs_disney_brdf_notes_v2.pdf",
-    "upvotes": 17,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32720893"
+    "title": "Ask HN: Static site generator that can cope with octopus juggling geysers?",
+    "url": "item?id=32736258",
+    "upvotes": 7,
+    "author": "iam-TJ",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32736258"
   },
   {
     "title": "Revisiting the design approach to Zig",
     "url": "https://about.sourcegraph.com/blog/zig-programming-language-revisiting-design-approach",
-    "upvotes": 73,
+    "upvotes": 77,
     "author": "sixhobbits",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32734587"
-  },
-  {
-    "title": "DIY mechanical keyboard switch lets you set its actuation point",
-    "url": "https://arstechnica.com/gadgets/2022/02/diy-mechanical-keyboard-switch-lets-you-set-its-actuation-point/",
-    "upvotes": 43,
-    "author": "Tomte",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=32722411"
-  },
-  {
-    "title": "My Surreal Experience with COBOL",
-    "url": "https://mutt0-ds.github.io/posts/2022/06/my-surreal-experience-cobol.md/",
-    "upvotes": 7,
-    "author": "gioaranzulla",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32735411"
   },
   {
     "title": "Visualizing Large Trees Using the Hyperbolic Browser",
     "url": "https://www.youtube.com/watch?v=J0yFd2Pq_rg",
-    "upvotes": 45,
+    "upvotes": 46,
     "author": "zackoverflow",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=32721317"
   },
   {
+    "title": "Physically-Based Shading at Disney",
+    "url": "https://static1.squarespace.com/static/58586fa5ebbd1a60e7d76d3e/t/593a3afa46c3c4a376d779f6/1496988449807/s2012_pbs_disney_brdf_notes_v2.pdf",
+    "upvotes": 19,
+    "author": "Tomte",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32720893"
+  },
+  {
     "title": "Dreamy Blur",
     "url": "https://yuanchuan.dev/dreamy-blur",
-    "upvotes": 122,
+    "upvotes": 127,
     "author": "spirit23",
-    "comments": 32,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=32730865"
+  },
+  {
+    "title": "DIY mechanical keyboard switch lets you set its actuation point",
+    "url": "https://arstechnica.com/gadgets/2022/02/diy-mechanical-keyboard-switch-lets-you-set-its-actuation-point/",
+    "upvotes": 45,
+    "author": "Tomte",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=32722411"
+  },
+  {
+    "title": "Covid: Summary of lab-origin hypothesis",
+    "url": "https://twitter.com/R_H_Ebright/status/1566826229931524096",
+    "upvotes": 179,
+    "author": "alsodumb",
+    "comments": 189,
+    "link": "https://news.ycombinator.com/item?id=32727859"
+  },
+  {
+    "title": "The energy historian who says rapid decarbonization is a fantasy",
+    "url": "https://www.latimes.com/business/story/2022-09-05/the-energy-historian-who-says-rapid-decarbonization-is-a-fantasy",
+    "upvotes": 24,
+    "author": "mxschumacher",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=32735909"
   },
   {
     "title": "Static site hosting hurdles",
     "url": "https://notes.volution.ro/v1/2022/09/notes/b08118d8/",
-    "upvotes": 121,
+    "upvotes": 124,
     "author": "ciprian_craciun",
-    "comments": 148,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=32730020"
   },
   {
-    "title": "How to present backend demos",
-    "url": "https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59",
-    "upvotes": 134,
-    "author": "vadcv",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=32729784"
+    "title": "The tyranny of the rocket equaton",
+    "url": "https://www.nasa.gov/mission_pages/station/expeditions/expedition30/tryanny.html",
+    "upvotes": 71,
+    "author": "brudgers",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=32712913"
   },
   {
     "title": "Cheating at chess with a computer for my shoes",
     "url": "https://incoherency.co.uk/blog/stories/sockfish.html",
-    "upvotes": 451,
+    "upvotes": 456,
     "author": "badindentation",
-    "comments": 199,
+    "comments": 203,
     "link": "https://news.ycombinator.com/item?id=32729105"
-  },
-  {
-    "title": "NIST Digital Library of Mathematical Functions",
-    "url": "https://dlmf.nist.gov/",
-    "upvotes": 97,
-    "author": "bnolan001",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=32712324"
   },
   {
     "title": "Show HN: WakaQ - a Python distributed task queue",
     "url": "https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python",
-    "upvotes": 132,
+    "upvotes": 135,
     "author": "welder",
-    "comments": 57,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=32730038"
   },
   {
-    "title": "The Tyranny of the Rocket Equaton",
-    "url": "https://www.nasa.gov/mission_pages/station/expeditions/expedition30/tryanny.html",
-    "upvotes": 65,
-    "author": "brudgers",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=32712913"
+    "title": "Optical Illusions of the Year",
+    "url": "https://kottke.org/22/02/the-best-optical-illusions-of-the-year",
+    "upvotes": 52,
+    "author": "Tomte",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=32735346"
   },
   {
     "title": "Ask HN: Do you use foreign keys in relational databases?",
     "url": "item?id=32731916",
-    "upvotes": 136,
+    "upvotes": 145,
     "author": "frogcoder",
-    "comments": 132,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=32731916"
   },
   {
     "title": "Don't ignore the janitor",
     "url": "https://happychasing.substack.com/p/see-people",
-    "upvotes": 254,
+    "upvotes": 265,
     "author": "hagap",
-    "comments": 185,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=32721180"
-  },
-  {
-    "title": "Earthworks at the Leaning Toothpick of Babble",
-    "url": "https://enetdown.org/hacktivity/posts/2022/09/04/earthworks-at-the-leaning-toothpick-of-babble/",
-    "upvotes": 3,
-    "author": "sivoais",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32720950"
   },
   {
     "title": "I patched my Slack client to keep “oops” messages others delete",
     "url": "https://github.com/SharonBrizinov/slack-anti-delete",
-    "upvotes": 191,
+    "upvotes": 197,
     "author": "sh0000n",
-    "comments": 187,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=32730600"
   },
   {
     "title": "Was Vincent van Gogh color blind?",
     "url": "https://www.smithsonianmag.com/smart-news/was-vincent-van-gogh-color-blind-it-sure-looks-like-it-27576085/",
-    "upvotes": 45,
+    "upvotes": 46,
     "author": "stoeckley",
-    "comments": 84,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=32710738"
-  },
-  {
-    "title": "OpenWrt 22.03",
-    "url": "https://openwrt.org/releases/22.03/notes-22.03.0",
-    "upvotes": 150,
-    "author": "arcxyz",
-    "comments": 103,
-    "link": "https://news.ycombinator.com/item?id=32733425"
   }
 ]
