@@ -2,42 +2,50 @@
   {
     "title": "TIL: You can access a user’s camera with just HTML",
     "url": "https://austingil.com/html-capture-attribute/",
-    "upvotes": 117,
+    "upvotes": 160,
     "author": "feross",
-    "comments": 68,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=32738501"
   },
   {
     "title": "Bitwarden raises $100M",
     "url": "https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/",
-    "upvotes": 690,
+    "upvotes": 715,
     "author": "deanmoriarty",
-    "comments": 382,
+    "comments": 394,
     "link": "https://news.ycombinator.com/item?id=32735479"
   },
   {
     "title": "Vulnerability Management for Go",
     "url": "https://go.dev/blog/vuln",
-    "upvotes": 116,
+    "upvotes": 137,
     "author": "mfrw",
-    "comments": 17,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=32737886"
+  },
+  {
+    "title": "Someone’s Been Messing with My Subnormals",
+    "url": "http://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html",
+    "upvotes": 88,
+    "author": "jpegqs",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32738206"
   },
   {
     "title": "Show HN: Make 3D art in your browser using Lisp and math",
     "url": "https://bauble.studio",
-    "upvotes": 43,
+    "upvotes": 58,
     "author": "ianthehenry",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=32738654"
   },
   {
-    "title": "Someone’s Been Messing with My Subnormals",
-    "url": "http://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html",
-    "upvotes": 63,
-    "author": "jpegqs",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=32738206"
+    "title": "The Death of the PCIe Expansion Card",
+    "url": "https://kerricklong.com/articles/pci-express-slots.html",
+    "upvotes": 86,
+    "author": "Kerrick",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=32737534"
   },
   {
     "title": "Jiga",
@@ -46,122 +54,146 @@
   {
     "title": "Show HN: Simulate dollar-cost averaging in any mix of stocks",
     "url": "https://simulator.tryshare.app/",
-    "upvotes": 116,
+    "upvotes": 122,
     "author": "dwmcc",
-    "comments": 90,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=32736497"
   },
   {
     "title": "Launch HN: FlyCode (YC S22) – Let product teams edit web apps without coding",
     "url": "item?id=32736817",
-    "upvotes": 73,
+    "upvotes": 77,
     "author": "JakeVacovec",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=32736817"
   },
   {
-    "title": "Design and evaluation of IPFS: a storage layer for the decentralized web",
-    "url": "https://dl.acm.org/doi/abs/10.1145/3544216.3544232",
-    "upvotes": 108,
-    "author": "dennis-tra",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=32736239"
-  },
-  {
-    "title": "Clasp: A Common Lisp implementation using LLVM for compilation to native code",
-    "url": "https://github.com/clasp-developers/clasp",
-    "upvotes": 42,
-    "author": "ducktective",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=32737634"
-  },
-  {
     "title": "NASA Can Now Reliably Produce a Tree’s Worth of Oxygen on Mars",
     "url": "https://singularityhub.com/2022/09/04/nasa-says-it-can-now-reliably-produce-a-trees-worth-of-oxygen-on-mars/",
-    "upvotes": 99,
+    "upvotes": 113,
     "author": "Brajeshwar",
-    "comments": 105,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=32737596"
   },
   {
-    "title": "The Tyranny of the Wagon Equation",
-    "url": "https://maximumeffort.substack.com/p/the-tyranny-of-the-wagon-equation",
-    "upvotes": 115,
-    "author": "dTal",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=32735688"
+    "title": "Design and evaluation of IPFS: a storage layer for the decentralized web",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3544216.3544232",
+    "upvotes": 117,
+    "author": "dennis-tra",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=32736239"
   },
   {
     "title": "Minimal PyTorch re-implementation of GPT",
     "url": "https://github.com/karpathy/minGPT",
-    "upvotes": 103,
+    "upvotes": 125,
     "author": "memorable",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=32736044"
   },
   {
-    "title": "What Should You Work On?",
-    "url": "https://perell.com/essay/what-should-you-work-on/",
-    "upvotes": 61,
-    "author": "gmays",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=32737545"
+    "title": "The Tyranny of the Wagon Equation",
+    "url": "https://maximumeffort.substack.com/p/the-tyranny-of-the-wagon-equation",
+    "upvotes": 126,
+    "author": "dTal",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=32735688"
   },
   {
-    "title": "From Wound Healing to Regeneration",
-    "url": "https://www.uni-heidelberg.de/en/newsroom/from-wound-healing-to-regeneration",
-    "upvotes": 22,
-    "author": "gmays",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32738165"
+    "title": "Clasp: A Common Lisp implementation using LLVM for compilation to native code",
+    "url": "https://github.com/clasp-developers/clasp",
+    "upvotes": 46,
+    "author": "ducktective",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=32737634"
   },
   {
-    "title": "The Death of the PCIe Expansion Card",
-    "url": "https://kerricklong.com/articles/pci-express-slots.html",
-    "upvotes": 70,
-    "author": "Kerrick",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=32737534"
-  },
-  {
-    "title": "Sierra Club, environmental groups petition EPA to ban natural gas for heating",
-    "url": "https://denvergazette.com/news/environment/sierra-club-environmental-groups-petition-epa-to-ban-natural-gas-for-home-heating/article_256ea4ca-28bd-11ed-a31c-fb00aa7f1db2.html",
-    "upvotes": 39,
-    "author": "Bostonian",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=32739022"
-  },
-  {
-    "title": "AppleScript: Graphic User Interface",
-    "url": "http://www.macosxautomation.com/applescript/uiscripting/index.html",
-    "upvotes": 20,
-    "author": "behnamoh",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32738332"
+    "title": "A Trillion Prices",
+    "url": "https://www.dolthub.com/blog/2022-09-02-a-trillion-prices/",
+    "upvotes": 28,
+    "author": "sl-dolt",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32738783"
   },
   {
     "title": "A sequel to SQL? An intro to Malloy",
     "url": "https://carlineng.com/?postid=malloy-intro#blog",
-    "upvotes": 15,
+    "upvotes": 20,
     "author": "carlineng",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32738874"
   },
   {
-    "title": "Rethinking Indoor Air Chemistry",
-    "url": "https://www.mpg.de/19157061/0902-chem-oxidation-field-152990-x",
-    "upvotes": 52,
-    "author": "giuliomagnifico",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=32722409"
+    "title": "From Wound Healing to Regeneration",
+    "url": "https://www.uni-heidelberg.de/en/newsroom/from-wound-healing-to-regeneration",
+    "upvotes": 27,
+    "author": "gmays",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32738165"
+  },
+  {
+    "title": "AppleScript: Graphic User Interface",
+    "url": "http://www.macosxautomation.com/applescript/uiscripting/index.html",
+    "upvotes": 26,
+    "author": "behnamoh",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32738332"
   },
   {
     "title": "Systems and Cost Analysis for Nuclear Subterrene Tunneling Machine",
     "url": "https://www.osti.gov/biblio/4444905",
-    "upvotes": 16,
+    "upvotes": 19,
     "author": "benbreen",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32726347"
+  },
+  {
+    "title": "Rethinking Indoor Air Chemistry",
+    "url": "https://www.mpg.de/19157061/0902-chem-oxidation-field-152990-x",
+    "upvotes": 59,
+    "author": "giuliomagnifico",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=32722409"
+  },
+  {
+    "title": "Riff, automatically provide external dependencies for Rust projects",
+    "url": "https://determinate.systems/posts/introducing-riff",
+    "upvotes": 11,
+    "author": "grhmc",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32739954"
+  },
+  {
+    "title": "Richard Stallman Announces GNU C Language Reference Manual",
+    "url": "https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html",
+    "upvotes": 73,
+    "author": "cf100clunk",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=32738885"
+  },
+  {
+    "title": "San Francisco Braces for Commercial Real Estate Crash",
+    "url": "https://sfstandard.com/business/san-francisco-braces-for-epic-commercial-real-estate-crash/",
+    "upvotes": 5,
+    "author": "mortenjorck",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32740071"
+  },
+  {
+    "title": "Maintaining Files on Plan 9 with Mk",
+    "url": "https://9p.io/sys/doc/mk.html",
+    "upvotes": 45,
+    "author": "jsfcoding",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=32736700"
+  },
+  {
+    "title": "PGPP – a new type of service that gives you private mobile connectivity",
+    "url": "https://invisv.com/pgpp/",
+    "upvotes": 46,
+    "author": "jacooper",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=32736523"
   },
   {
     "title": "Genomics solves the mystery of a medieval mass burial",
@@ -172,67 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=32733098"
   },
   {
-    "title": "A Trillion Prices",
-    "url": "https://www.dolthub.com/blog/2022-09-02-a-trillion-prices/",
-    "upvotes": 11,
-    "author": "sl-dolt",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32738783"
-  },
-  {
-    "title": "Maintaining Files on Plan 9 with Mk",
-    "url": "https://9p.io/sys/doc/mk.html",
-    "upvotes": 41,
-    "author": "jsfcoding",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=32736700"
-  },
-  {
-    "title": "PGPP – a new type of service that gives you private mobile connectivity",
-    "url": "https://invisv.com/pgpp/",
-    "upvotes": 44,
-    "author": "jacooper",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=32736523"
-  },
-  {
-    "title": "Richard Stallman Announces GNU C Language Reference Manual",
-    "url": "https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html",
-    "upvotes": 49,
-    "author": "cf100clunk",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=32738885"
-  },
-  {
     "title": "Paris’s Missing Palace and the Making of the Louvre",
     "url": "https://www.messynessychic.com/2022/09/02/pariss-missing-palace-and-the-making-of-the-louvre/",
-    "upvotes": 12,
+    "upvotes": 14,
     "author": "pepys",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32715954"
   },
   {
+    "title": "What Should You Work On?",
+    "url": "https://perell.com/essay/what-should-you-work-on/",
+    "upvotes": 69,
+    "author": "gmays",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=32737545"
+  },
+  {
     "title": "Gated Deployments: addressing the complexity of schema deployments at scale",
     "url": "https://planetscale.com/blog/gated-deployments-addressing-the-complexity-of-schema-deployments-at-scale",
-    "upvotes": 10,
+    "upvotes": 20,
     "author": "no-itsbackpack",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32739672"
   },
   {
-    "title": "The history of sending signals to Unix process groups",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessGroupsAndSignals",
-    "upvotes": 114,
-    "author": "r4um",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=32733844"
-  },
-  {
-    "title": "CERN drafts plans to idle accelerators due to Europe’s energy crunch",
-    "url": "https://www.swissinfo.ch/eng/sci-tech/cern-drafts-plans-to-idle-accelerators-due-to-europe-s-energy-crunch/47875950",
-    "upvotes": 128,
-    "author": "elashri",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=32736563"
+    "title": "Modalities of Web Site Builders",
+    "url": "https://yoramkornatzky.com/post/modalities-of-web-site-builders",
+    "upvotes": 18,
+    "author": "kornatzky",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32723367"
   }
 ]
