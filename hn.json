@@ -1,135 +1,135 @@
 [
   {
-    "title": "Judge rules Facebook parent Meta intentionally violated campaign finance laws",
-    "url": "https://www.atg.wa.gov/news/news-releases/ag-ferguson-judge-rules-facebook-parent-meta-intentionally-violated-campaign",
-    "upvotes": 185,
-    "author": "rntn",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=32740814"
-  },
-  {
     "title": "Brave's deviations from Chromium",
     "url": "https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/",
-    "upvotes": 125,
+    "upvotes": 172,
     "author": "jacooper",
-    "comments": 105,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=32740396"
   },
   {
     "title": "NASA Selects SiFive and Makes RISC-V the Go-To Ecosystem for Future Missions",
     "url": "https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem",
-    "upvotes": 91,
+    "upvotes": 129,
     "author": "georgelyon",
-    "comments": 17,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=32740653"
   },
   {
     "title": "TIL: You can access a user’s camera with just HTML",
     "url": "https://austingil.com/html-capture-attribute/",
-    "upvotes": 250,
+    "upvotes": 272,
     "author": "feross",
-    "comments": 155,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=32738501"
   },
   {
     "title": "Someone’s Been Messing with My Subnormals",
     "url": "http://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html",
-    "upvotes": 162,
+    "upvotes": 170,
     "author": "jpegqs",
-    "comments": 45,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=32738206"
   },
   {
     "title": "Vulnerability Management for Go",
     "url": "https://go.dev/blog/vuln",
-    "upvotes": 197,
+    "upvotes": 207,
     "author": "mfrw",
-    "comments": 32,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=32737886"
+  },
+  {
+    "title": "Judge rules Facebook parent Meta intentionally violated campaign finance laws",
+    "url": "https://www.atg.wa.gov/news/news-releases/ag-ferguson-judge-rules-facebook-parent-meta-intentionally-violated-campaign",
+    "upvotes": 245,
+    "author": "rntn",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=32740814"
   },
   {
     "title": "Show HN: Make 3D art in your browser using Lisp and math",
     "url": "https://bauble.studio",
-    "upvotes": 111,
+    "upvotes": 125,
     "author": "ianthehenry",
-    "comments": 16,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=32738654"
+  },
+  {
+    "title": "What’s New in TensorFlow 2.10?",
+    "url": "https://blog.tensorflow.org/2022/09/whats-new-in-tensorflow-210.html",
+    "upvotes": 21,
+    "author": "RafelMri",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32741349"
   },
   {
     "title": "Riff, automatically provide external dependencies for Rust projects",
     "url": "https://determinate.systems/posts/introducing-riff",
-    "upvotes": 56,
+    "upvotes": 66,
     "author": "grhmc",
-    "comments": 10,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=32739954"
   },
   {
     "title": "A Trillion Prices",
     "url": "https://www.dolthub.com/blog/2022-09-02-a-trillion-prices/",
-    "upvotes": 83,
+    "upvotes": 98,
     "author": "sl-dolt",
-    "comments": 34,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=32738783"
   },
   {
-    "title": "NASA Can Now Reliably Produce a Tree’s Worth of Oxygen on Mars",
-    "url": "https://singularityhub.com/2022/09/04/nasa-says-it-can-now-reliably-produce-a-trees-worth-of-oxygen-on-mars/",
-    "upvotes": 166,
-    "author": "Brajeshwar",
-    "comments": 162,
-    "link": "https://news.ycombinator.com/item?id=32737596"
+    "title": "Show HN: VoxelChain – An Experimental Voxel Engine",
+    "url": "https://voxelchain.app/",
+    "upvotes": 28,
+    "author": "x1m4",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32737513"
   },
   {
     "title": "Jiga",
     "url": "https://www.ycombinator.com/companies/jiga/jobs/JQsmxDp-manufacturing-success-manager-us"
   },
   {
-    "title": "Show HN: VoxelChain – An Experimental Voxel Engine",
-    "url": "https://voxelchain.app/",
-    "upvotes": 16,
-    "author": "x1m4",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=32737513"
+    "title": "NASA Can Now Reliably Produce a Tree’s Worth of Oxygen on Mars",
+    "url": "https://singularityhub.com/2022/09/04/nasa-says-it-can-now-reliably-produce-a-trees-worth-of-oxygen-on-mars/",
+    "upvotes": 170,
+    "author": "Brajeshwar",
+    "comments": 174,
+    "link": "https://news.ycombinator.com/item?id=32737596"
+  },
+  {
+    "title": "Minimal PyTorch re-implementation of GPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "upvotes": 163,
+    "author": "memorable",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=32736044"
   },
   {
     "title": "Design and evaluation of IPFS: a storage layer for the decentralized web",
     "url": "https://dl.acm.org/doi/abs/10.1145/3544216.3544232",
-    "upvotes": 140,
+    "upvotes": 147,
     "author": "dennis-tra",
-    "comments": 44,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=32736239"
   },
   {
     "title": "Show HN: Simulate dollar-cost averaging in any mix of stocks",
     "url": "https://simulator.tryshare.app/",
-    "upvotes": 140,
+    "upvotes": 144,
     "author": "dwmcc",
-    "comments": 106,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=32736497"
-  },
-  {
-    "title": "Minimal PyTorch re-implementation of GPT",
-    "url": "https://github.com/karpathy/minGPT",
-    "upvotes": 154,
-    "author": "memorable",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=32736044"
   },
   {
     "title": "The Tyranny of the Wagon Equation",
     "url": "https://maximumeffort.substack.com/p/the-tyranny-of-the-wagon-equation",
-    "upvotes": 152,
+    "upvotes": 159,
     "author": "dTal",
-    "comments": 67,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=32735688"
-  },
-  {
-    "title": "What’s New in TensorFlow 2.10?",
-    "url": "https://blog.tensorflow.org/2022/09/whats-new-in-tensorflow-210.html",
-    "upvotes": 9,
-    "author": "RafelMri",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32741349"
   },
   {
     "title": "Launch HN: FlyCode (YC S22) – Let product teams edit web apps without coding",
@@ -142,97 +142,97 @@
   {
     "title": "Clasp: A Common Lisp implementation using LLVM for compilation to native code",
     "url": "https://github.com/clasp-developers/clasp",
-    "upvotes": 67,
+    "upvotes": 73,
     "author": "ducktective",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=32737634"
   },
   {
-    "title": "Bitwarden raises $100M",
-    "url": "https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/",
-    "upvotes": 809,
-    "author": "deanmoriarty",
-    "comments": 435,
-    "link": "https://news.ycombinator.com/item?id=32735479"
-  },
-  {
-    "title": "San Francisco Braces for Commercial Real Estate Crash",
-    "url": "https://sfstandard.com/business/san-francisco-braces-for-epic-commercial-real-estate-crash/",
-    "upvotes": 200,
-    "author": "mortenjorck",
-    "comments": 385,
-    "link": "https://news.ycombinator.com/item?id=32740071"
-  },
-  {
-    "title": "Extreme Integers – Doom from Below",
-    "url": "https://luckyresistor.me/2022/09/04/extreme-integers-doom-from-below/",
-    "upvotes": 16,
-    "author": "manchoz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32733652"
-  },
-  {
     "title": "Using Analog Computers in Today's Largest Computational Challenges",
     "url": "https://ars.copernicus.org/articles/19/105/2021/ars-19-105-2021.pdf",
-    "upvotes": 10,
+    "upvotes": 14,
     "author": "mindcrime",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32734350"
   },
   {
-    "title": "A sequel to SQL? An intro to Malloy",
-    "url": "https://carlineng.com/?postid=malloy-intro#blog",
-    "upvotes": 40,
-    "author": "carlineng",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=32738874"
+    "title": "Bitwarden raises $100M",
+    "url": "https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/",
+    "upvotes": 816,
+    "author": "deanmoriarty",
+    "comments": 440,
+    "link": "https://news.ycombinator.com/item?id=32735479"
   },
   {
     "title": "The Death of the PCIe Expansion Card",
     "url": "https://kerricklong.com/articles/pci-express-slots.html",
-    "upvotes": 102,
+    "upvotes": 112,
     "author": "Kerrick",
-    "comments": 117,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=32737534"
+  },
+  {
+    "title": "Extreme Integers – Doom from Below",
+    "url": "https://luckyresistor.me/2022/09/04/extreme-integers-doom-from-below/",
+    "upvotes": 19,
+    "author": "manchoz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32733652"
   },
   {
     "title": "AppleScript: Graphic User Interface",
     "url": "http://www.macosxautomation.com/applescript/uiscripting/index.html",
-    "upvotes": 42,
+    "upvotes": 46,
     "author": "behnamoh",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=32738332"
+  },
+  {
+    "title": "A sequel to SQL? An intro to Malloy",
+    "url": "https://carlineng.com/?postid=malloy-intro#blog",
+    "upvotes": 43,
+    "author": "carlineng",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=32738874"
   },
   {
     "title": "Rethinking Indoor Air Chemistry",
     "url": "https://www.mpg.de/19157061/0902-chem-oxidation-field-152990-x",
-    "upvotes": 74,
+    "upvotes": 77,
     "author": "giuliomagnifico",
-    "comments": 33,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=32722409"
   },
   {
-    "title": "Gated Deployments: addressing the complexity of schema deployments at scale",
-    "url": "https://planetscale.com/blog/gated-deployments-addressing-the-complexity-of-schema-deployments-at-scale",
-    "upvotes": 40,
-    "author": "no-itsbackpack",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32739672"
-  },
-  {
-    "title": "From Wound Healing to Regeneration",
-    "url": "https://www.uni-heidelberg.de/en/newsroom/from-wound-healing-to-regeneration",
-    "upvotes": 44,
-    "author": "gmays",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32738165"
+    "title": "San Francisco Braces for Commercial Real Estate Crash",
+    "url": "https://sfstandard.com/business/san-francisco-braces-for-epic-commercial-real-estate-crash/",
+    "upvotes": 214,
+    "author": "mortenjorck",
+    "comments": 422,
+    "link": "https://news.ycombinator.com/item?id=32740071"
   },
   {
     "title": "Richard Stallman Announces GNU C Language Reference Manual",
     "url": "https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html",
-    "upvotes": 153,
+    "upvotes": 183,
     "author": "cf100clunk",
-    "comments": 105,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=32738885"
+  },
+  {
+    "title": "From Wound Healing to Regeneration",
+    "url": "https://www.uni-heidelberg.de/en/newsroom/from-wound-healing-to-regeneration",
+    "upvotes": 47,
+    "author": "gmays",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32738165"
+  },
+  {
+    "title": "Gated Deployments: addressing the complexity of schema deployments at scale",
+    "url": "https://planetscale.com/blog/gated-deployments-addressing-the-complexity-of-schema-deployments-at-scale",
+    "upvotes": 41,
+    "author": "no-itsbackpack",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32739672"
   }
 ]
