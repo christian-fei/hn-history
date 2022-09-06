@@ -1,104 +1,128 @@
 [
   {
-    "title": "Chitchatter: A P2P chat app that is serverless, decentralized, and ephemeral",
-    "url": "https://chitchatter.im/",
-    "upvotes": 73,
-    "author": "jckahn",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=32732158"
+    "title": "Closing 10% of all Emacs bugs",
+    "url": "https://lars.ingebrigtsen.no/2020/10/26/5x10/",
+    "upvotes": 27,
+    "author": "pcr910303",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=32733413"
+  },
+  {
+    "title": "The history of sending signals to Unix process groups",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessGroupsAndSignals",
+    "upvotes": 8,
+    "author": "r4um",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32733844"
   },
   {
     "title": "OpenWrt 22.03",
     "url": "https://openwrt.org/releases/22.03/notes-22.03.0",
-    "upvotes": 34,
+    "upvotes": 59,
     "author": "arcxyz",
-    "comments": 14,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=32733425"
+  },
+  {
+    "title": "Chitchatter: A P2P chat app that is serverless, decentralized, and ephemeral",
+    "url": "https://chitchatter.im/",
+    "upvotes": 81,
+    "author": "jckahn",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=32732158"
   },
   {
     "title": "Cheating at chess with a computer for my shoes",
     "url": "https://incoherency.co.uk/blog/stories/sockfish.html",
-    "upvotes": 325,
+    "upvotes": 335,
     "author": "badindentation",
-    "comments": 136,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=32729105"
-  },
-  {
-    "title": "Don't ignore the janitor",
-    "url": "https://happychasing.substack.com/p/see-people",
-    "upvotes": 159,
-    "author": "hagap",
-    "comments": 103,
-    "link": "https://news.ycombinator.com/item?id=32721180"
-  },
-  {
-    "title": "Killing invasive species is now a competitive sport",
-    "url": "https://www.newyorker.com/magazine/2022/09/12/killing-invasive-species-is-now-a-competitive-sport",
-    "upvotes": 99,
-    "author": "mitchbob",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=32731474"
-  },
-  {
-    "title": "Closing 10% of all Emacs bugs",
-    "url": "https://lars.ingebrigtsen.no/2020/10/26/5x10/",
-    "upvotes": 6,
-    "author": "pcr910303",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32733413"
-  },
-  {
-    "title": "Amazon putting a three-day pause on reviews for Rings of Power",
-    "url": "https://variety.com/2022/tv/news/rings-of-power-reviews-delayed-amazon-prime-video-1235358724/",
-    "upvotes": 210,
-    "author": "dmix",
-    "comments": 399,
-    "link": "https://news.ycombinator.com/item?id=32728143"
-  },
-  {
-    "title": "Dreamy Blur",
-    "url": "https://yuanchuan.dev/dreamy-blur",
-    "upvotes": 83,
-    "author": "spirit23",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=32730865"
-  },
-  {
-    "title": "The Tyranny of the Rocket Equaton",
-    "url": "https://www.nasa.gov/mission_pages/station/expeditions/expedition30/tryanny.html",
-    "upvotes": 30,
-    "author": "brudgers",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=32712913"
   },
   {
     "title": "Synthetic embryos complete gastrulation to neurulation and organogenesis",
     "url": "https://www.nature.com/articles/s41586-022-05246-3",
-    "upvotes": 7,
+    "upvotes": 17,
     "author": "jdmark",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32733213"
   },
   {
+    "title": "Don't ignore the janitor",
+    "url": "https://happychasing.substack.com/p/see-people",
+    "upvotes": 171,
+    "author": "hagap",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=32721180"
+  },
+  {
+    "title": "Amazon putting a three-day pause on reviews for Rings of Power",
+    "url": "https://variety.com/2022/tv/news/rings-of-power-reviews-delayed-amazon-prime-video-1235358724/",
+    "upvotes": 228,
+    "author": "dmix",
+    "comments": 434,
+    "link": "https://news.ycombinator.com/item?id=32728143"
+  },
+  {
+    "title": "Dreamy Blur",
+    "url": "https://yuanchuan.dev/dreamy-blur",
+    "upvotes": 85,
+    "author": "spirit23",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=32730865"
+  },
+  {
+    "title": "The Tyranny of the Rocket Equaton",
+    "url": "https://www.nasa.gov/mission_pages/station/expeditions/expedition30/tryanny.html",
+    "upvotes": 31,
+    "author": "brudgers",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32712913"
+  },
+  {
+    "title": "Lunatic: Erlang-Inspired Runtime for WebAssembly",
+    "url": "https://github.com/lunatic-solutions/lunatic",
+    "upvotes": 15,
+    "author": "cab404",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32733069"
+  },
+  {
+    "title": "Show HN: Open-source APM with support for tracing, metrics, and logs",
+    "url": "https://app.uptrace.dev/play",
+    "upvotes": 9,
+    "author": "vmihailenco",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32733620"
+  },
+  {
     "title": "Userspace FUSE for macOS",
     "url": "https://www.fuse-t.org/",
-    "upvotes": 265,
+    "upvotes": 268,
     "author": "freebeer2",
-    "comments": 112,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=32726166"
   },
   {
     "title": "Keith Davis was protecting the oceans, then he disappeared",
     "url": "https://www.bbc.com/news/world-us-canada-62603911",
-    "upvotes": 106,
+    "upvotes": 118,
     "author": "pepys",
-    "comments": 58,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=32732133"
+  },
+  {
+    "title": "Static site hosting hurdles",
+    "url": "https://notes.volution.ro/v1/2022/09/notes/b08118d8/",
+    "upvotes": 86,
+    "author": "ciprian_craciun",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=32730020"
   },
   {
     "title": "Show HN: WakaQ - a Python distributed task queue",
     "url": "https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python",
-    "upvotes": 100,
+    "upvotes": 105,
     "author": "welder",
     "comments": 49,
     "link": "https://news.ycombinator.com/item?id=32730038"
@@ -106,41 +130,49 @@
   {
     "title": "Useful engineering metrics and why velocity is not one of them",
     "url": "https://lucasfcosta.com/2022/08/31/engineering-metrics.html",
-    "upvotes": 195,
+    "upvotes": 201,
     "author": "lucasfcosta",
     "comments": 127,
     "link": "https://news.ycombinator.com/item?id=32720794"
   },
   {
+    "title": "DIY mechanical keyboard switch lets you set its actuation point",
+    "url": "https://arstechnica.com/gadgets/2022/02/diy-mechanical-keyboard-switch-lets-you-set-its-actuation-point/",
+    "upvotes": 5,
+    "author": "Tomte",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32722411"
+  },
+  {
     "title": "A small Stripe fraud story",
     "url": "https://falkus.co/2022/09/a-stripe-fraud-story",
-    "upvotes": 101,
+    "upvotes": 107,
     "author": "jstanley",
-    "comments": 70,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=32703279"
   },
   {
     "title": "How to present backend demos",
     "url": "https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59",
-    "upvotes": 91,
+    "upvotes": 95,
     "author": "vadcv",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=32729784"
   },
   {
     "title": "I patched my Slack client to keep “oops” messages others delete",
     "url": "https://github.com/SharonBrizinov/slack-anti-delete",
-    "upvotes": 144,
+    "upvotes": 149,
     "author": "sh0000n",
-    "comments": 155,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=32730600"
   },
   {
     "title": "NIST Digital Library of Mathematical Functions",
     "url": "https://dlmf.nist.gov/",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "bnolan001",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32712324"
   },
   {
@@ -154,17 +186,25 @@
   {
     "title": "Apple II Desktop Updated",
     "url": "https://www.callapple.org/vintage-apple-computers/apple-ii/apple-ii-desktop-updated-3/",
-    "upvotes": 80,
+    "upvotes": 81,
     "author": "rbanffy",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32728515"
+  },
+  {
+    "title": "Blockchains by number of nodes/validators",
+    "url": "https://chainparrot.com/blockchains-by-number-of-nodes.html",
+    "upvotes": 140,
+    "author": "donmezgel",
+    "comments": 131,
+    "link": "https://news.ycombinator.com/item?id=32727703"
   },
   {
     "title": "Long-term cardiac pathology in individuals with mild initial Covid-19 illness",
     "url": "https://www.nature.com/articles/s41591-022-02000-0",
-    "upvotes": 66,
+    "upvotes": 70,
     "author": "belltaco",
-    "comments": 67,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=32732325"
   },
   {
@@ -172,16 +212,16 @@
     "url": "https://www.smithsonianmag.com/smart-news/was-vincent-van-gogh-color-blind-it-sure-looks-like-it-27576085/",
     "upvotes": 31,
     "author": "stoeckley",
-    "comments": 57,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=32710738"
   },
   {
-    "title": "Lunatic: Erlang-Inspired Runtime for WebAssembly",
-    "url": "https://github.com/lunatic-solutions/lunatic",
-    "upvotes": 8,
-    "author": "cab404",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32733069"
+    "title": "Ask HN: Do You Use Foreign Keys in Relational Databases",
+    "url": "item?id=32731916",
+    "upvotes": 56,
+    "author": "frogcoder",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=32731916"
   },
   {
     "title": "Create an Inexpensive Flying Wing / Drone",
@@ -192,51 +232,11 @@
     "link": "https://news.ycombinator.com/item?id=32710275"
   },
   {
-    "title": "Contrasting Intel AMX and Apple AMX",
-    "url": "https://www.corsix.org/content/contrasting-intel-amx-and-apple-amx",
-    "upvotes": 58,
-    "author": "ingve",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=32729035"
-  },
-  {
-    "title": "Ask HN: Do You Use Foreign Keys in Relational Databases",
-    "url": "item?id=32731916",
-    "upvotes": 46,
-    "author": "frogcoder",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=32731916"
-  },
-  {
-    "title": "Impact of programming on primary mathematics learning",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0959475222000883",
-    "upvotes": 50,
-    "author": "chaosprint",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=32728636"
-  },
-  {
-    "title": "With Old Traditions and New Tech, Young Inuit Chart Their Changing Landscape",
-    "url": "https://hakaimagazine.com/features/with-old-traditions-and-new-tech-young-inuit-chart-their-changing-landscape/",
-    "upvotes": 13,
-    "author": "Thevet",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32720305"
-  },
-  {
-    "title": "Blockchains by number of nodes/validators",
-    "url": "https://chainparrot.com/blockchains-by-number-of-nodes.html",
-    "upvotes": 140,
-    "author": "donmezgel",
-    "comments": 129,
-    "link": "https://news.ycombinator.com/item?id=32727703"
-  },
-  {
-    "title": "Mille Bornes",
-    "url": "http://www.codex99.com/design/28.html",
-    "upvotes": 98,
-    "author": "ptrkcsk",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=32726081"
+    "title": "Killing invasive species is now a competitive sport",
+    "url": "https://www.newyorker.com/magazine/2022/09/12/killing-invasive-species-is-now-a-competitive-sport",
+    "upvotes": 105,
+    "author": "mitchbob",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=32731474"
   }
 ]
