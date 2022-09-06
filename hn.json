@@ -1,238 +1,242 @@
 [
   {
+    "title": "I patched my Slack client to keep “Oops” messages others delete",
+    "url": "https://github.com/SharonBrizinov/slack-anti-delete",
+    "upvotes": 40,
+    "author": "sh0000n",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=32730600"
+  },
+  {
     "title": "Cheating at chess with a computer for my shoes",
     "url": "https://incoherency.co.uk/blog/stories/sockfish.html",
-    "upvotes": 155,
+    "upvotes": 177,
     "author": "badindentation",
-    "comments": 55,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=32729105"
+  },
+  {
+    "title": "CA grid: real-time status",
+    "url": "https://www.caiso.com/TodaysOutlook/Pages/index.html",
+    "upvotes": 17,
+    "author": "krasin",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32730856"
   },
   {
     "title": "Static site hosting hurdles",
     "url": "https://notes.volution.ro/v1/2022/09/notes/b08118d8/",
-    "upvotes": 35,
+    "upvotes": 42,
     "author": "ciprian_craciun",
-    "comments": 16,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=32730020"
-  },
-  {
-    "title": "A small Stripe fraud story",
-    "url": "https://falkus.co/2022/09/a-stripe-fraud-story",
-    "upvotes": 54,
-    "author": "jstanley",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=32703279"
   },
   {
     "title": "Show HN: WakaQ - a Python distributed task queue",
     "url": "https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python",
-    "upvotes": 33,
+    "upvotes": 45,
     "author": "welder",
-    "comments": 9,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=32730038"
+  },
+  {
+    "title": "A small Stripe fraud story",
+    "url": "https://falkus.co/2022/09/a-stripe-fraud-story",
+    "upvotes": 59,
+    "author": "jstanley",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32703279"
   },
   {
     "title": "Userspace FUSE for macOS",
     "url": "https://www.fuse-t.org/",
-    "upvotes": 201,
+    "upvotes": 207,
     "author": "freebeer2",
-    "comments": 81,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=32726166"
   },
   {
     "title": "NIST Digital Library of Mathematical Functions",
     "url": "https://dlmf.nist.gov/",
-    "upvotes": 20,
+    "upvotes": 26,
     "author": "bnolan001",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32712324"
+  },
+  {
+    "title": "How to present backend demos",
+    "url": "https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59",
+    "upvotes": 38,
+    "author": "vadcv",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=32729784"
   },
   {
     "title": "Apple II Desktop Updated",
     "url": "https://www.callapple.org/vintage-apple-computers/apple-ii/apple-ii-desktop-updated-3/",
-    "upvotes": 46,
+    "upvotes": 54,
     "author": "rbanffy",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32728515"
+  },
+  {
+    "title": "Useful engineering metrics and why velocity is not one of them",
+    "url": "https://lucasfcosta.com/2022/08/31/engineering-metrics.html",
+    "upvotes": 132,
+    "author": "lucasfcosta",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=32720794"
+  },
+  {
+    "title": "Launch HN: Mito (YC S20) – Edit a spreadsheet, generate Python",
+    "url": "item?id=32723766",
+    "upvotes": 113,
+    "author": "narush",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=32723766"
   },
   {
     "title": "Contrasting Intel AMX and Apple AMX",
     "url": "https://www.corsix.org/content/contrasting-intel-amx-and-apple-amx",
     "upvotes": 37,
     "author": "ingve",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=32729035"
-  },
-  {
-    "title": "How To Present Backend Demos",
-    "url": "https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59",
-    "upvotes": 30,
-    "author": "vadcv",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32729784"
-  },
-  {
-    "title": "Useful engineering metrics and why velocity is not one of them",
-    "url": "https://lucasfcosta.com/2022/08/31/engineering-metrics.html",
-    "upvotes": 126,
-    "author": "lucasfcosta",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=32720794"
   },
   {
     "title": "Common Lisp vs Racket",
     "url": "https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac",
-    "upvotes": 210,
+    "upvotes": 212,
     "author": "ducktective",
-    "comments": 143,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=32723784"
-  },
-  {
-    "title": "Launch HN: Mito (YC S20) – Edit a spreadsheet, generate Python",
-    "url": "item?id=32723766",
-    "upvotes": 111,
-    "author": "narush",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=32723766"
   },
   {
     "title": "Create an Inexpensive Flying Wing / Drone",
     "url": "https://www.robotshop.com/community/robots/show/how-to-make-the-least-expensive-drone-airplane",
-    "upvotes": 81,
+    "upvotes": 87,
     "author": "ghgr",
-    "comments": 24,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=32710275"
   },
   {
     "title": "FLAC – Format overview",
     "url": "https://xiph.org/flac/documentation_format_overview.html",
-    "upvotes": 210,
+    "upvotes": 213,
     "author": "jsbg",
-    "comments": 160,
+    "comments": 163,
     "link": "https://news.ycombinator.com/item?id=32727829"
   },
   {
     "title": "Black Hours, Morgan MS 493",
     "url": "https://en.wikipedia.org/wiki/Black_Hours,_Morgan_MS_493",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "benbreen",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=32706984"
   },
   {
-    "title": "I patched my Slack client to keep “Oops” messages others delete",
-    "url": "https://github.com/SharonBrizinov/slack-anti-delete",
-    "upvotes": 4,
-    "author": "sh0000n",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32730600"
-  },
-  {
     "title": "Designing a coherent set of keyboard shortcuts",
     "url": "https://www.commandbar.com/blog/selecting-keyboard-shortcuts-for-your-app",
-    "upvotes": 35,
+    "upvotes": 39,
     "author": "tkainrad",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=32710950"
+  },
+  {
+    "title": "Fit: Framework for Integrated Test",
+    "url": "http://fit.c2.com/",
+    "upvotes": 4,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32701421"
   },
   {
     "title": "Mille Bornes",
     "url": "http://www.codex99.com/design/28.html",
-    "upvotes": 79,
+    "upvotes": 82,
     "author": "ptrkcsk",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=32726081"
-  },
-  {
-    "title": "Accidental complexity, essential complexity, and Kubernetes",
-    "url": "https://driftingin.space/posts/complexity-kubernetes",
-    "upvotes": 91,
-    "author": "paulgb",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=32728543"
-  },
-  {
-    "title": "In wake of data breach – Samsung forcing users to accept T&CS or risk their data",
-    "url": "https://thecrow.uk/in-wake-of-epic-data-breach-samsung-forcing-users-to-accept-new-terms-or-risk-their-data/",
-    "upvotes": 113,
-    "author": "dddavid",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=32727357"
   },
   {
     "title": "The Sheer Terror of PAM",
     "url": "https://xeiaso.net/talks/rustconf-2022-sheer-terror-pam",
-    "upvotes": 69,
+    "upvotes": 75,
     "author": "Tomte",
-    "comments": 40,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=32727242"
+  },
+  {
+    "title": "Accidental complexity, essential complexity, and Kubernetes",
+    "url": "https://driftingin.space/posts/complexity-kubernetes",
+    "upvotes": 94,
+    "author": "paulgb",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=32728543"
   },
   {
     "title": "Solr’s Dense Vector Search for indexing and searching dense numerical vectors",
     "url": "https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html",
-    "upvotes": 87,
+    "upvotes": 89,
     "author": "kordlessagain",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=32725322"
   },
   {
+    "title": "In wake of data breach – Samsung forcing users to accept T&CS or risk their data",
+    "url": "https://thecrow.uk/in-wake-of-epic-data-breach-samsung-forcing-users-to-accept-new-terms-or-risk-their-data/",
+    "upvotes": 116,
+    "author": "dddavid",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=32727357"
+  },
+  {
     "title": "Premature Optimization is the Root of all Evil",
     "url": "https://martin.leyrer.priv.at/y2022/m09/premature_optimisation.html",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "alexzeitler",
-    "comments": 30,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=32727712"
   },
   {
     "title": "What if cryptocurrencies ranked by number of nodes instead of marketcap?",
     "url": "https://chainparrot.com/blockchains-by-number-of-nodes.html",
-    "upvotes": 100,
+    "upvotes": 102,
     "author": "donmezgel",
-    "comments": 95,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=32727703"
   },
   {
-    "title": "Paris’s Missing Palace and the Making of the Louvre",
-    "url": "https://www.messynessychic.com/2022/09/02/pariss-missing-palace-and-the-making-of-the-louvre/",
-    "upvotes": 5,
-    "author": "pepys",
+    "title": "Dreamy Blur",
+    "url": "https://yuanchuan.dev/dreamy-blur",
+    "upvotes": 4,
+    "author": "spirit23",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32715954"
+    "link": "https://news.ycombinator.com/item?id=32730865"
   },
   {
     "title": "Meta Fined $400M for Treatment of Children’s Data on Instagram",
     "url": "https://www.nytimes.com/2022/09/05/business/meta-children-data-protection-europe.html",
-    "upvotes": 39,
+    "upvotes": 49,
     "author": "latchkey",
-    "comments": 9,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=32730048"
-  },
-  {
-    "title": "Mangroves on a Landfill",
-    "url": "https://placesjournal.org/article/informal-settlers-environmental-rehabilitation-manila/",
-    "upvotes": 50,
-    "author": "prismatic",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=32726036"
   },
   {
     "title": "A Special Kind of Hell: intmax_t in C and C++",
     "url": "https://thephd.dev/intmax_t-hell-c++-c",
-    "upvotes": 6,
+    "upvotes": 8,
     "author": "toastedwedge",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32729792"
-  },
-  {
-    "title": "Meticulous (YC S21) is hiring #3 founding engineer in London",
-    "url": "item?id=32723316"
   },
   {
     "title": "Using Stable Diffusion's img2img on some old Sierra titles",
     "url": "https://sciprogramming.com/community/index.php?topic=2081.0",
-    "upvotes": 154,
+    "upvotes": 162,
     "author": "Karuma",
-    "comments": 37,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=32726774"
   }
 ]
