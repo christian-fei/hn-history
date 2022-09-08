@@ -1,51 +1,59 @@
 [
   {
+    "title": "Reddit's favorite products in one place",
+    "url": "https://looria.com/reddit/overview",
+    "upvotes": 39,
+    "author": "mooreds",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=32764495"
+  },
+  {
     "title": "Excuse me but why are you eating so many frogs?",
     "url": "https://experimentalhistory.substack.com/p/excuse-me-but-why-are-you-eating",
-    "upvotes": 276,
+    "upvotes": 313,
     "author": "irajdeep",
-    "comments": 129,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=32746922"
+  },
+  {
+    "title": "IKEA’s knowledge graph and why it has three layers",
+    "url": "https://medium.com/flat-pack-tech/ikeas-knowledge-graph-and-why-it-has-three-layers-a38fca436349",
+    "upvotes": 22,
+    "author": "mooreds",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32749633"
   },
   {
     "title": "Digitizing Smell: Using Molecular Maps to Understand Odor",
     "url": "https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html",
-    "upvotes": 34,
+    "upvotes": 40,
     "author": "taubek",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32747548"
-  },
-  {
-    "title": "Introducing Svelte, and Comparing Svelte with React and Vue",
-    "url": "https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue",
-    "upvotes": 99,
-    "author": "yamrzou",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=32763509"
   },
   {
     "title": "Who Controls the Internet? And should they?",
     "url": "https://berthub.eu/articles/posts/who-controls-the-internet/",
-    "upvotes": 21,
+    "upvotes": 33,
     "author": "pabs3",
-    "comments": null,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32763595"
+  },
+  {
+    "title": "Introducing Svelte, and Comparing Svelte with React and Vue",
+    "url": "https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue",
+    "upvotes": 109,
+    "author": "yamrzou",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=32763509"
   },
   {
     "title": "Pwned, the book",
     "url": "https://www.troyhunt.com/pwned-the-book-is-finally-here/",
-    "upvotes": 81,
+    "upvotes": 86,
     "author": "ingve",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=32762443"
-  },
-  {
-    "title": "What to read to understand central banking",
-    "url": "https://www.economist.com/the-economist-reads/2022/09/07/what-to-read-to-understand-central-banking",
-    "upvotes": 151,
-    "author": "helsinkiandrew",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=32761429"
   },
   {
     "title": "QuestDB",
@@ -54,31 +62,31 @@
   {
     "title": "A byte string library for Rust",
     "url": "https://blog.burntsushi.net/bstr/",
-    "upvotes": 66,
+    "upvotes": 79,
     "author": "ingve",
-    "comments": 8,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32762345"
+  },
+  {
+    "title": "What to read to understand central banking",
+    "url": "https://www.economist.com/the-economist-reads/2022/09/07/what-to-read-to-understand-central-banking",
+    "upvotes": 159,
+    "author": "helsinkiandrew",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=32761429"
   },
   {
     "title": "The self-fulfilling prophecy of React",
     "url": "https://joshcollinsworth.com/blog/self-fulfilling-prophecy-of-react",
-    "upvotes": 19,
+    "upvotes": 26,
     "author": "yamrzou",
-    "comments": 20,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=32763476"
-  },
-  {
-    "title": "IKEA’s knowledge graph and why it has three layers",
-    "url": "https://medium.com/flat-pack-tech/ikeas-knowledge-graph-and-why-it-has-three-layers-a38fca436349",
-    "upvotes": 9,
-    "author": "mooreds",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32749633"
   },
   {
     "title": "Kamby – A programming language based on Lisp that doesn't seems like Lisp",
     "url": "https://kamby.org/",
-    "upvotes": 108,
+    "upvotes": 115,
     "author": "henriquegogo",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=32761113"
@@ -86,18 +94,34 @@
   {
     "title": "I tracked everything I read on the internet for a year",
     "url": "https://www.tdpain.net/blog/a-year-of-reading",
-    "upvotes": 190,
+    "upvotes": 191,
     "author": "akpa1",
-    "comments": 76,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=32759786"
   },
   {
     "title": "Why It’s OK to Block Ads",
     "url": "http://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads/",
-    "upvotes": 28,
+    "upvotes": 39,
     "author": "timokoesters",
-    "comments": 9,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=32762895"
+  },
+  {
+    "title": "Show HN: Our project got 4 connectors and 4 l10ns from community in 2 months",
+    "url": "https://github.com/logto-io/logto/releases/tag/v1.0.0-beta.9",
+    "upvotes": 25,
+    "author": "pseudopuppet",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=32762954"
+  },
+  {
+    "title": "Blech: A language for developing reactive, real-time critical embedded software",
+    "url": "https://www.blech-lang.org/",
+    "upvotes": 68,
+    "author": "ducktective",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32749906"
   },
   {
     "title": "Data Invariants",
@@ -108,131 +132,107 @@
     "link": "https://news.ycombinator.com/item?id=32750037"
   },
   {
-    "title": "Show HN: Our project got 4 connectors and 4 l10ns from community in 2 months",
-    "url": "https://github.com/logto-io/logto/releases/tag/v1.0.0-beta.9",
-    "upvotes": 23,
-    "author": "pseudopuppet",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=32762954"
-  },
-  {
-    "title": "Blech: A language for developing reactive, real-time critical embedded software",
-    "url": "https://www.blech-lang.org/",
-    "upvotes": 65,
-    "author": "ducktective",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=32749906"
-  },
-  {
     "title": "Economists are flocking to Silicon Valley",
     "url": "https://www.economist.com/business/2022/09/07/why-economists-are-flocking-to-silicon-valley",
-    "upvotes": 53,
+    "upvotes": 54,
     "author": "helsinkiandrew",
-    "comments": 40,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=32761541"
+  },
+  {
+    "title": "Best Practices of Civil-Military Relations",
+    "url": "https://warontherocks.com/2022/09/to-support-and-defend-principles-of-civilian-control-and-best-practices-of-civil-military-relations/",
+    "upvotes": 12,
+    "author": "lando2319",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32763518"
+  },
+  {
+    "title": "ErgodoxE EZ – an ergonomic keyboard with open source firmware",
+    "url": "https://ergodox-ez.com/",
+    "upvotes": 4,
+    "author": "hosteur",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32764109"
+  },
+  {
+    "title": "Why Does This Horrifying Woman Keep Appearing in AI-Generated Images?",
+    "url": "https://www.vice.com/en/article/g5vjw3/why-does-this-horrifying-woman-keep-appearing-in-ai-generated-images",
+    "upvotes": 18,
+    "author": "pseudolus",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32764447"
   },
   {
     "title": "Steve Jobs emails himself",
     "url": "https://twitter.com/TechEmails/status/1567712985979707393",
-    "upvotes": 306,
+    "upvotes": 320,
     "author": "mfiguiere",
-    "comments": 181,
+    "comments": 186,
     "link": "https://news.ycombinator.com/item?id=32761060"
   },
   {
     "title": "1999 open Emacs bugs",
     "url": "https://lars.ingebrigtsen.no/2022/09/06/lets-party-like-its-1999/",
-    "upvotes": 34,
+    "upvotes": 39,
     "author": "pama",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32763379"
-  },
-  {
-    "title": "Best Practices of Civil-Military Relations",
-    "url": "https://warontherocks.com/2022/09/to-support-and-defend-principles-of-civilian-control-and-best-practices-of-civil-military-relations/",
-    "upvotes": 8,
-    "author": "lando2319",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32763518"
-  },
-  {
-    "title": "Queen under medical supervision at Balmoral",
-    "url": "https://www.bbc.co.uk/news/uk-62836057",
-    "upvotes": 17,
-    "author": "BerislavLopac",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32764127"
   },
   {
     "title": "Korean nuclear fusion reactor achieves 100M°C for 30 seconds",
     "url": "https://www.shiningscience.com/2022/09/korean-nuclear-fusion-reactor-achieves.html",
-    "upvotes": 605,
+    "upvotes": 611,
     "author": "yreg",
-    "comments": 594,
+    "comments": 600,
     "link": "https://news.ycombinator.com/item?id=32755893"
   },
   {
-    "title": "The Risks of WebAssembly",
-    "url": "https://www.fermyon.com",
-    "upvotes": 35,
-    "author": "0xmohit",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=32761816"
+    "title": "Nine million people in city 170km long; is world ready for a linear metropolis?",
+    "url": "https://www.theguardian.com/artanddesign/2022/sep/08/nine-million-people-in-a-city-170km-long-will-the-world-ever-be-ready-for-a-linear-metropolis",
+    "upvotes": 18,
+    "author": "nigerian1981",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=32764090"
   },
   {
     "title": "The Case for the /usr Merge",
     "url": "https://www.freedesktop.org/wiki/Software/systemd/TheCaseForTheUsrMerge/",
-    "upvotes": 125,
+    "upvotes": 127,
     "author": "pcr910303",
-    "comments": 131,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=32747908"
+  },
+  {
+    "title": "The Risks of WebAssembly",
+    "url": "https://www.fermyon.com",
+    "upvotes": 40,
+    "author": "0xmohit",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=32761816"
   },
   {
     "title": "For Julia Jacklin, a crappy old Casio keyboard changed everything",
     "url": "https://www.wired.co.uk/article/casio-keyboard-julia-jacklin",
-    "upvotes": 29,
+    "upvotes": 32,
     "author": "giuliomagnifico",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32748519"
   },
   {
-    "title": "Nine million people in city 170km long; is world ready for a linear metropolis?",
-    "url": "https://www.theguardian.com/artanddesign/2022/sep/08/nine-million-people-in-a-city-170km-long-will-the-world-ever-be-ready-for-a-linear-metropolis",
-    "upvotes": 12,
-    "author": "nigerian1981",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=32764090"
-  },
-  {
     "title": "What Canada’s largest art heist reveals about the art world’s shady side",
     "url": "https://thewalrus.ca/canadas-biggest-art-theft/",
-    "upvotes": 68,
+    "upvotes": 69,
     "author": "mmastrac",
-    "comments": 26,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=32743555"
   },
   {
     "title": "Globalstar SEC filing, Apple to use 85% of its satellite network capacity",
     "url": "https://sec.report/Document/0001366868-22-000059/",
-    "upvotes": 379,
+    "upvotes": 382,
     "author": "samwillis",
-    "comments": 286,
+    "comments": 289,
     "link": "https://news.ycombinator.com/item?id=32754963"
-  },
-  {
-    "title": "I Got Banned for Life from Airbnb",
-    "url": "https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba",
-    "upvotes": 341,
-    "author": "cargoray",
-    "comments": 296,
-    "link": "https://news.ycombinator.com/item?id=32761930"
-  },
-  {
-    "title": "Our attention span is being robbed",
-    "url": "https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/",
-    "upvotes": 172,
-    "author": "mjoksimovic",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=32757220"
   }
 ]
