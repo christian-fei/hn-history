@@ -1,100 +1,116 @@
 [
   {
+    "title": "Congress.gov API",
+    "url": "https://api.congress.gov/",
+    "upvotes": 84,
+    "author": "ElevenLathe",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=32770058"
+  },
+  {
     "title": "Caddyhttp: Enable HTTP/3 by Default",
     "url": "https://github.com/caddyserver/caddy/pull/4707",
-    "upvotes": 110,
+    "upvotes": 133,
     "author": "fariszr",
-    "comments": 23,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=32768454"
   },
   {
     "title": "Not Your Grandfather’s Perl",
     "url": "https://stackoverflow.blog/2022/09/08/this-is-not-your-grandfathers-perl/",
-    "upvotes": 125,
+    "upvotes": 138,
     "author": "djhaskin987",
-    "comments": 65,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=32767218"
   },
   {
     "title": "Accelerate Python code by importing Taichi",
     "url": "https://docs.taichi-lang.org/blog/accelerate-python-code-100x",
-    "upvotes": 167,
+    "upvotes": 185,
     "author": "synergy20",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=32767338"
   },
   {
     "title": "Attacking Firecracker: AWS' MicroVM Monitor Written in Rust",
     "url": "https://www.graplsecurity.com/post/attacking-firecracker",
-    "upvotes": 76,
+    "upvotes": 88,
     "author": "pentestercrab",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=32767784"
   },
   {
     "title": "The Ffast and the Furious",
     "url": "https://gist.github.com/moyix/46b7d7fdb9e100dad866821793b08058",
-    "upvotes": 38,
+    "upvotes": 46,
     "author": "mmastrac",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32758126"
   },
   {
-    "title": "Queen Elizabeth II has died",
-    "url": "https://www.bbc.com/news/uk-61585886",
-    "upvotes": 1427,
-    "author": "xd",
-    "comments": 581,
-    "link": "https://news.ycombinator.com/item?id=32768834"
-  },
-  {
-    "title": "Stop measuring community engagement",
-    "url": "https://rosie.land/posts/stop-measuring-community-engagement/",
-    "upvotes": 182,
-    "author": "rosiesherry",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=32765002"
+    "title": "YouTube More Likely to Direct Election-Fraud Videos to Users Already Skeptical",
+    "url": "https://www.nyu.edu/about/news-publications/news/2022/september/youtube-more-likely-to-direct-election-fraud-videos-to-users-alr.html",
+    "upvotes": 13,
+    "author": "rbanffy",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=32770659"
   },
   {
     "title": "My VM is Lighter",
     "url": "https://dl.acm.org/doi/10.1145/3132747.3132763",
-    "upvotes": 176,
+    "upvotes": 195,
     "author": "gaocegege",
-    "comments": 58,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=32764501"
+  },
+  {
+    "title": "Stop measuring community engagement",
+    "url": "https://rosie.land/posts/stop-measuring-community-engagement/",
+    "upvotes": 189,
+    "author": "rosiesherry",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=32765002"
+  },
+  {
+    "title": "Queen Elizabeth II has died",
+    "url": "https://www.bbc.com/news/uk-61585886",
+    "upvotes": 1581,
+    "author": "xd",
+    "comments": 683,
+    "link": "https://news.ycombinator.com/item?id=32768834"
   },
   {
     "title": "Excuse me but why are you eating so many frogs",
     "url": "https://experimentalhistory.substack.com/p/excuse-me-but-why-are-you-eating",
-    "upvotes": 536,
+    "upvotes": 547,
     "author": "irajdeep",
-    "comments": 252,
+    "comments": 255,
     "link": "https://news.ycombinator.com/item?id=32746922"
-  },
-  {
-    "title": "Show HN: Learn time series with a story illustrated by Stable Diffusion",
-    "url": "https://tigyog.app/d/L-8D8R2yeXLY/r/an-everyday-look-at-time-series",
-    "upvotes": 32,
-    "author": "jamesfisher",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=32768005"
   },
   {
     "title": "Motion",
     "url": "https://www.usemotion.com/jobs"
   },
   {
+    "title": "Show HN: Learn time series with a story illustrated by Stable Diffusion",
+    "url": "https://tigyog.app/d/L-8D8R2yeXLY/r/an-everyday-look-at-time-series",
+    "upvotes": 41,
+    "author": "jamesfisher",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=32768005"
+  },
+  {
     "title": "San Francisco Decriminalizes Psychedelics",
     "url": "https://doubleblindmag.com/san-francisco-decriminalizes-psychedelics/",
-    "upvotes": 198,
+    "upvotes": 224,
     "author": "O__________O",
-    "comments": 117,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=32767979"
   },
   {
     "title": "Fresh 1.1 – Automatic JSX, plugins, DevTools, and more",
     "url": "https://deno.com/blog/fresh-1.1",
-    "upvotes": 129,
+    "upvotes": 135,
     "author": "gripfx",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=32765200"
@@ -102,137 +118,121 @@
   {
     "title": "Show HN: I made a modern web UI for Hacker News",
     "url": "https://www.modernhn.com/",
-    "upvotes": 99,
+    "upvotes": 121,
     "author": "sjdz",
-    "comments": 81,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=32768590"
-  },
-  {
-    "title": "Rolls Royce Ends Boom Supersonic Partnership",
-    "url": "https://airwaysmag.com/rolls-royce-boom-supersonic/",
-    "upvotes": 127,
-    "author": "theparanoid",
-    "comments": 140,
-    "link": "https://news.ycombinator.com/item?id=32768166"
   },
   {
     "title": "Show HN: Make better decisions with fewer online meetings",
     "url": "https://topagree.com/",
-    "upvotes": 33,
+    "upvotes": 40,
     "author": "bjuly",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=32768064"
   },
   {
-    "title": "TAOBench: Running social media workloads on PlanetScale",
-    "url": "https://planetscale.com/blog/taobench-running-social-media-workloads-on-planetscale",
-    "upvotes": 20,
-    "author": "hollylawly",
+    "title": "Ramanujan Factorial Approximation",
+    "url": "https://www.johndcook.com/blog/2012/09/25/ramanujans-factorial-approximation/",
+    "upvotes": 7,
+    "author": "wglb",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32769834"
+    "link": "https://news.ycombinator.com/item?id=32760839"
+  },
+  {
+    "title": "Rolls Royce Ends Boom Supersonic Partnership",
+    "url": "https://airwaysmag.com/rolls-royce-boom-supersonic/",
+    "upvotes": 136,
+    "author": "theparanoid",
+    "comments": 151,
+    "link": "https://news.ycombinator.com/item?id=32768166"
   },
   {
     "title": "Mesh Shading for Vulkan",
     "url": "https://www.khronos.org/blog/mesh-shading-for-vulkan",
-    "upvotes": 40,
+    "upvotes": 44,
     "author": "ibobev",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32766728"
   },
   {
     "title": "IKEA’s knowledge graph and why it has three layers",
     "url": "https://medium.com/flat-pack-tech/ikeas-knowledge-graph-and-why-it-has-three-layers-a38fca436349",
-    "upvotes": 135,
+    "upvotes": 141,
     "author": "mooreds",
-    "comments": 43,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=32749633"
   },
   {
     "title": "It's time to upscale FSR 2 even further: Meet FSR 2.1",
     "url": "https://gpuopen.com/meet-fidelityfx-super-resolution-2-1/",
-    "upvotes": 42,
+    "upvotes": 46,
     "author": "WithinReason",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32766768"
   },
   {
-    "title": "Congress.gov API",
-    "url": "https://api.congress.gov/",
-    "upvotes": 8,
-    "author": "ElevenLathe",
+    "title": "TAOBench: Running social media workloads on PlanetScale",
+    "url": "https://planetscale.com/blog/taobench-running-social-media-workloads-on-planetscale",
+    "upvotes": 23,
+    "author": "hollylawly",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32770058"
+    "link": "https://news.ycombinator.com/item?id=32769834"
   },
   {
     "title": "Reddit's favorite products in one place",
     "url": "https://looria.com/reddit/overview",
-    "upvotes": 566,
+    "upvotes": 578,
     "author": "mooreds",
-    "comments": 219,
+    "comments": 223,
     "link": "https://news.ycombinator.com/item?id=32764495"
+  },
+  {
+    "title": "A byte string library for Rust",
+    "url": "https://blog.burntsushi.net/bstr/",
+    "upvotes": 217,
+    "author": "ingve",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=32762345"
   },
   {
     "title": "Go Developer Survey 2022 Q2 Results",
     "url": "https://go.dev/blog/survey2022-q2-results",
-    "upvotes": 124,
+    "upvotes": 129,
     "author": "tapanjk",
-    "comments": 117,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=32767287"
+  },
+  {
+    "title": "How A Bedouin Tracker Sees the Desert",
+    "url": "https://www.atlasobscura.com/articles/bedouin-desert-tracking-negev",
+    "upvotes": 74,
+    "author": "Thevet",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=32761529"
   },
   {
     "title": "Defeating eBPF Uprobe Monitoring",
     "url": "https://blog.quarkslab.com/defeating-ebpf-uprobe-monitoring.html",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "pcw888",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32768143"
   },
   {
-    "title": "A byte string library for Rust",
-    "url": "https://blog.burntsushi.net/bstr/",
-    "upvotes": 216,
-    "author": "ingve",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=32762345"
-  },
-  {
-    "title": "Here come the bendable TVs and monitors that no one asked for",
-    "url": "https://arstechnica.com/gadgets/2022/09/here-come-the-bendable-tvs-and-monitors-that-no-one-asked-for/",
-    "upvotes": 110,
-    "author": "rbanffy",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=32735363"
-  },
-  {
     "title": "Show HN: Ringer – Get and provide expert help on Open Source Software",
     "url": "https://www.ringerhq.com/",
-    "upvotes": 85,
+    "upvotes": 87,
     "author": "mintone",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=32764701"
   },
   {
-    "title": "Show HN: Shared – Triptych for data exchange and persistence",
-    "url": "https://github.com/pyrustic/shared",
-    "upvotes": 8,
-    "author": "alexrustic",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32765685"
-  },
-  {
-    "title": "How A Bedouin Tracker Sees the Desert",
-    "url": "https://www.atlasobscura.com/articles/bedouin-desert-tracking-negev",
-    "upvotes": 64,
-    "author": "Thevet",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=32761529"
-  },
-  {
-    "title": "Who controls the Internet? And should they?",
-    "url": "https://berthub.eu/articles/posts/who-controls-the-internet/",
-    "upvotes": 118,
-    "author": "pabs3",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=32763595"
+    "title": "Here come the bendable TVs and monitors that no one asked for",
+    "url": "https://arstechnica.com/gadgets/2022/09/here-come-the-bendable-tvs-and-monitors-that-no-one-asked-for/",
+    "upvotes": 114,
+    "author": "rbanffy",
+    "comments": 135,
+    "link": "https://news.ycombinator.com/item?id=32735363"
   }
 ]
