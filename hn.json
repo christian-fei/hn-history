@@ -1,58 +1,78 @@
 [
   {
-    "title": "Excuse me but why are you eating so many frogs?",
-    "url": "https://experimentalhistory.substack.com/p/excuse-me-but-why-are-you-eating",
-    "upvotes": 226,
-    "author": "irajdeep",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=32746922"
-  },
-  {
     "title": "Introducing Svelte, and Comparing Svelte with React and Vue",
     "url": "https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue",
-    "upvotes": 43,
+    "upvotes": 74,
     "author": "yamrzou",
-    "comments": 21,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=32763509"
+  },
+  {
+    "title": "Excuse me but why are you eating so many frogs?",
+    "url": "https://experimentalhistory.substack.com/p/excuse-me-but-why-are-you-eating",
+    "upvotes": 248,
+    "author": "irajdeep",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=32746922"
   },
   {
     "title": "Pwned, the book",
     "url": "https://www.troyhunt.com/pwned-the-book-is-finally-here/",
-    "upvotes": 60,
+    "upvotes": 71,
     "author": "ingve",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32762443"
   },
   {
     "title": "What to read to understand central banking",
     "url": "https://www.economist.com/the-economist-reads/2022/09/07/what-to-read-to-understand-central-banking",
-    "upvotes": 117,
+    "upvotes": 134,
     "author": "helsinkiandrew",
-    "comments": 62,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=32761429"
+  },
+  {
+    "title": "Digitizing Smell: Using Molecular Maps to Understand Odor",
+    "url": "https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html",
+    "upvotes": 16,
+    "author": "taubek",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32747548"
+  },
+  {
+    "title": "QuestDB",
+    "url": "https://questdb.io/careers/technical-content-writer/"
   },
   {
     "title": "A byte string library for Rust",
     "url": "https://blog.burntsushi.net/bstr/",
-    "upvotes": 37,
+    "upvotes": 51,
     "author": "ingve",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32762345"
+  },
+  {
+    "title": "Who Controls the Internet? And should they?",
+    "url": "https://berthub.eu/articles/posts/who-controls-the-internet/",
+    "upvotes": 11,
+    "author": "pabs3",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32763595"
   },
   {
     "title": "Kamby – A programming language based on Lisp that doesn't seems like Lisp",
     "url": "https://kamby.org/",
-    "upvotes": 98,
+    "upvotes": 103,
     "author": "henriquegogo",
-    "comments": 38,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=32761113"
   },
   {
     "title": "I tracked everything I read on the internet for a year",
     "url": "https://www.tdpain.net/blog/a-year-of-reading",
-    "upvotes": 173,
+    "upvotes": 181,
     "author": "akpa1",
-    "comments": 66,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=32759786"
   },
   {
@@ -60,179 +80,159 @@
     "url": "https://github.com/logto-io/logto/releases/tag/v1.0.0-beta.9",
     "upvotes": 21,
     "author": "pseudopuppet",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32762954"
-  },
-  {
-    "title": "Digitizing Smell: Using Molecular Maps to Understand Odor",
-    "url": "https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html",
-    "upvotes": 8,
-    "author": "taubek",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32747548"
-  },
-  {
-    "title": "Blech: A language for developing reactive, real-time critical embedded software",
-    "url": "https://www.blech-lang.org/",
-    "upvotes": 55,
-    "author": "ducktective",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=32749906"
   },
   {
     "title": "For Julia Jacklin, a crappy old Casio keyboard changed everything",
     "url": "https://www.wired.co.uk/article/casio-keyboard-julia-jacklin",
-    "upvotes": 20,
+    "upvotes": 23,
     "author": "giuliomagnifico",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=32748519"
   },
   {
-    "title": "Economists are flocking to Silicon Valley",
-    "url": "https://www.economist.com/business/2022/09/07/why-economists-are-flocking-to-silicon-valley",
-    "upvotes": 39,
-    "author": "helsinkiandrew",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=32761541"
+    "title": "Blech: A language for developing reactive, real-time critical embedded software",
+    "url": "https://www.blech-lang.org/",
+    "upvotes": 60,
+    "author": "ducktective",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=32749906"
   },
   {
     "title": "Data Invariants",
     "url": "https://buttondown.email/hillelwayne/archive/data-invariants/",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32750037"
   },
   {
+    "title": "Economists are flocking to Silicon Valley",
+    "url": "https://www.economist.com/business/2022/09/07/why-economists-are-flocking-to-silicon-valley",
+    "upvotes": 44,
+    "author": "helsinkiandrew",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=32761541"
+  },
+  {
+    "title": "1999 open Emacs bugs",
+    "url": "https://lars.ingebrigtsen.no/2022/09/06/lets-party-like-its-1999/",
+    "upvotes": 28,
+    "author": "pama",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32763379"
+  },
+  {
     "title": "Steve Jobs emails himself",
     "url": "https://twitter.com/TechEmails/status/1567712985979707393",
-    "upvotes": 281,
+    "upvotes": 292,
     "author": "mfiguiere",
-    "comments": 160,
+    "comments": 170,
     "link": "https://news.ycombinator.com/item?id=32761060"
   },
   {
-    "title": "SigNoz",
-    "url": "https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-frontend-engineer"
+    "title": "Why It’s OK to Block Ads",
+    "url": "http://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads/",
+    "upvotes": 16,
+    "author": "timokoesters",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32762895"
   },
   {
     "title": "The Risks of WebAssembly",
     "url": "https://www.fermyon.com",
-    "upvotes": 33,
+    "upvotes": 34,
     "author": "0xmohit",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=32761816"
+  },
+  {
+    "title": "The Case for the /usr Merge",
+    "url": "https://www.freedesktop.org/wiki/Software/systemd/TheCaseForTheUsrMerge/",
+    "upvotes": 123,
+    "author": "pcr910303",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=32747908"
   },
   {
     "title": "Riding in a peloton is the most energy efficient locomotion, finds new research",
     "url": "https://bikebiz.com/peloton-riding-is-planets-most-energy-efficient-locomotion-finds-new-research/",
     "upvotes": 175,
     "author": "kitkat_new",
-    "comments": 233,
+    "comments": 238,
     "link": "https://news.ycombinator.com/item?id=32757187"
   },
   {
-    "title": "The Case for the /usr Merge",
-    "url": "https://www.freedesktop.org/wiki/Software/systemd/TheCaseForTheUsrMerge/",
-    "upvotes": 122,
-    "author": "pcr910303",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=32747908"
-  },
-  {
-    "title": "1999 open Emacs bugs",
-    "url": "https://lars.ingebrigtsen.no/2022/09/06/lets-party-like-its-1999/",
-    "upvotes": 16,
-    "author": "pama",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32763379"
+    "title": "The self-fulfilling prophecy of React",
+    "url": "https://joshcollinsworth.com/blog/self-fulfilling-prophecy-of-react",
+    "upvotes": 4,
+    "author": "yamrzou",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32763476"
   },
   {
     "title": "What Canada’s largest art heist reveals about the art world’s shady side",
     "url": "https://thewalrus.ca/canadas-biggest-art-theft/",
     "upvotes": 66,
     "author": "mmastrac",
-    "comments": 23,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32743555"
   },
   {
     "title": "Korean nuclear fusion reactor achieves 100M°C for 30 seconds",
     "url": "https://www.shiningscience.com/2022/09/korean-nuclear-fusion-reactor-achieves.html",
-    "upvotes": 594,
+    "upvotes": 597,
     "author": "yreg",
-    "comments": 559,
+    "comments": 573,
     "link": "https://news.ycombinator.com/item?id=32755893"
   },
   {
     "title": "Globalstar SEC filing, Apple to use 85% of its satellite network capacity",
     "url": "https://sec.report/Document/0001366868-22-000059/",
-    "upvotes": 374,
+    "upvotes": 375,
     "author": "samwillis",
-    "comments": 277,
+    "comments": 278,
     "link": "https://news.ycombinator.com/item?id=32754963"
+  },
+  {
+    "title": "Best Practices of Civil-Military Relations",
+    "url": "https://warontherocks.com/2022/09/to-support-and-defend-principles-of-civilian-control-and-best-practices-of-civil-military-relations/",
+    "upvotes": 3,
+    "author": "lando2319",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32763518"
   },
   {
     "title": "I Got Banned for Life from Airbnb",
     "url": "https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba",
-    "upvotes": 305,
+    "upvotes": 321,
     "author": "cargoray",
-    "comments": 249,
+    "comments": 270,
     "link": "https://news.ycombinator.com/item?id=32761930"
-  },
-  {
-    "title": "The Rise and Fall of ‘New Work’ in Flint",
-    "url": "https://beltmag.com/rise-fall-center-new-work-flint-bergmann-gull/",
-    "upvotes": 14,
-    "author": "robtherobber",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32748042"
-  },
-  {
-    "title": "Are Hawaii’s beach showers in violation of the Clean Water Act?",
-    "url": "https://undark.org/2022/09/07/hawaii-beach-showers-violation-clean-water-act/",
-    "upvotes": 40,
-    "author": "Tomte",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=32761021"
   },
   {
     "title": "Compaq Brand Licensing",
     "url": "https://www.compaq.com/#licensing",
-    "upvotes": 25,
+    "upvotes": 27,
     "author": "fzliu",
-    "comments": 30,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=32760733"
   },
   {
     "title": "Our attention span is being robbed",
     "url": "https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/",
-    "upvotes": 161,
+    "upvotes": 167,
     "author": "mjoksimovic",
     "comments": 133,
     "link": "https://news.ycombinator.com/item?id=32757220"
   },
   {
-    "title": "“UBO Minus",
-    "url": "https://github.com/gorhill/uBlock/commit/a559f5f2715c58fea4de09330cf3d06194ccc897",
-    "upvotes": 313,
-    "author": "antonok",
-    "comments": 223,
-    "link": "https://news.ycombinator.com/item?id=32754274"
-  },
-  {
-    "title": "The quiet cost of family caregiving",
-    "url": "https://www.nytimes.com/2022/09/04/science/elderly-work-caregiving.html",
-    "upvotes": 153,
-    "author": "prostoalex",
-    "comments": 173,
-    "link": "https://news.ycombinator.com/item?id=32738538"
-  },
-  {
-    "title": "Show HN: TattoosAI – AI-powered tattoo artist, using Stable Diffusion",
-    "url": "https://www.tattoosai.com/",
-    "upvotes": 54,
-    "author": "dannypostma",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=32761238"
+    "title": "My life got quite a lot better when I went back to an old school Nokia",
+    "url": "https://www.standard.co.uk/esmagazine/how-life-got-better-nokia-b1023468.html",
+    "upvotes": 12,
+    "author": "varbhat",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32763531"
   }
 ]
