@@ -2,31 +2,39 @@
   {
     "title": "The Next Chapter for Learning on YouTube",
     "url": "https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/",
-    "upvotes": 70,
+    "upvotes": 106,
     "author": "nassimsoftware",
-    "comments": 67,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=32783730"
   },
   {
     "title": "Parallel Curves of Cubic Béziers",
     "url": "https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html",
-    "upvotes": 18,
+    "upvotes": 41,
     "author": "raphlinus",
-    "comments": null,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32784491"
   },
   {
     "title": "Byte Magazine: The C Programming Language",
     "url": "https://archive.org/details/byte-magazine-1983-08",
-    "upvotes": 176,
+    "upvotes": 187,
     "author": "PaulHoule",
-    "comments": 130,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=32780866"
+  },
+  {
+    "title": "A Web UI for Stable Diffusion",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "upvotes": 33,
+    "author": "feross",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=32784181"
   },
   {
     "title": "How Transistors Work [video]",
     "url": "https://www.youtube.com/watch?v=CQtSS6g00h0",
-    "upvotes": 84,
+    "upvotes": 94,
     "author": "simonebrunozzi",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=32781948"
@@ -34,9 +42,9 @@
   {
     "title": "What's SAP, and why's it worth $163B?",
     "url": "https://retool.com/blog/erp-for-engineers/",
-    "upvotes": 705,
+    "upvotes": 721,
     "author": "antonyl",
-    "comments": 597,
+    "comments": 607,
     "link": "https://news.ycombinator.com/item?id=32776276"
   },
   {
@@ -46,95 +54,79 @@
   {
     "title": "Python type hints are Turing complete",
     "url": "https://arxiv.org/abs/2208.14755",
-    "upvotes": 181,
+    "upvotes": 187,
     "author": "nemoniac",
-    "comments": 97,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=32779296"
-  },
-  {
-    "title": "A Web UI for Stable Diffusion",
-    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "upvotes": 11,
-    "author": "feross",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32784181"
-  },
-  {
-    "title": "Software Engineering Code",
-    "url": "https://ethics.acm.org/code-of-ethics/software-engineering-code/",
-    "upvotes": 38,
-    "author": "mooreds",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=32783007"
   },
   {
     "title": "Graydon Hoare: 21 compilers and 3 orders of magnitude in 60 minutes",
     "url": "http://lambda-the-ultimate.org/node/5648",
-    "upvotes": 72,
+    "upvotes": 79,
     "author": "eternalban",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32780472"
-  },
-  {
-    "title": "Lensless camera creates 3D images from single exposure",
-    "url": "https://www.optica.org/en-us/about/newsroom/news_releases/2022/september/lensless_camera_creates_3d_images_from_single_expo/",
-    "upvotes": 25,
-    "author": "sizzle",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=32782698"
-  },
-  {
-    "title": "Meta cuts Responsible Innovation Team",
-    "url": "https://www.wsj.com/articles/facebook-parent-meta-platforms-cuts-responsible-innovation-team-11662658423?mod=djemalertNEWS",
-    "upvotes": 320,
-    "author": "cpeterso",
-    "comments": 378,
-    "link": "https://news.ycombinator.com/item?id=32780388"
   },
   {
     "title": "Google pays ‘enormous’ sums to maintain search-engine dominance, DOJ says",
     "url": "https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says",
-    "upvotes": 191,
+    "upvotes": 211,
     "author": "helsinkiandrew",
-    "comments": 255,
+    "comments": 296,
     "link": "https://news.ycombinator.com/item?id=32777737"
+  },
+  {
+    "title": "Meta cuts Responsible Innovation Team",
+    "url": "https://www.wsj.com/articles/facebook-parent-meta-platforms-cuts-responsible-innovation-team-11662658423?mod=djemalertNEWS",
+    "upvotes": 334,
+    "author": "cpeterso",
+    "comments": 390,
+    "link": "https://news.ycombinator.com/item?id=32780388"
+  },
+  {
+    "title": "Lensless camera creates 3D images from single exposure",
+    "url": "https://www.optica.org/en-us/about/newsroom/news_releases/2022/september/lensless_camera_creates_3d_images_from_single_expo/",
+    "upvotes": 26,
+    "author": "sizzle",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=32782698"
   },
   {
     "title": "Letters about Soap",
     "url": "https://people.cs.ksu.edu/~schmidt/soap.txt",
-    "upvotes": 136,
+    "upvotes": 138,
     "author": "pxeger1",
-    "comments": 57,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=32778980"
-  },
-  {
-    "title": "How a new hard hat technology can protect workers better from concussion",
-    "url": "https://text.npr.org/1121903266",
-    "upvotes": 38,
-    "author": "mooreds",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=32779870"
   },
   {
     "title": "Scientists found genetic mutations in every astronaut blood sample they studied",
     "url": "https://futurism.com/neoscope/scientists-genetic-mutations-every-astronaut-blood-sample",
-    "upvotes": 116,
+    "upvotes": 120,
     "author": "kiyanwang",
-    "comments": 82,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=32763289"
   },
   {
     "title": "Roller Jet Printer",
     "url": "https://minimalissimo.com/articles/roller-jet-printer",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "null_object",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32775508"
+  },
+  {
+    "title": "How a new hard hat technology can protect workers better from concussion",
+    "url": "https://text.npr.org/1121903266",
+    "upvotes": 39,
+    "author": "mooreds",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=32779870"
   },
   {
     "title": "Use.GPU",
     "url": "https://usegpu.live",
-    "upvotes": 182,
+    "upvotes": 188,
     "author": "andsoitis",
     "comments": 67,
     "link": "https://news.ycombinator.com/item?id=32777909"
@@ -142,15 +134,15 @@
   {
     "title": "Remembering When America Banned Sliced Bread",
     "url": "https://www.atlasobscura.com/articles/america-banned-sliced-bread",
-    "upvotes": 27,
+    "upvotes": 30,
     "author": "bookofjoe",
-    "comments": 24,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=32782190"
   },
   {
     "title": "Evolving my note-taking processes",
     "url": "https://codethrasher.com/post/2022-09-09-evolving-my-note-taking-processes/",
-    "upvotes": 4,
+    "upvotes": 10,
     "author": "mttyng",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32784470"
@@ -158,81 +150,89 @@
   {
     "title": "Is early-onset cancer an emerging global epidemic?",
     "url": "https://www.nature.com/articles/s41571-022-00672-8",
-    "upvotes": 200,
+    "upvotes": 202,
     "author": "v4dok",
-    "comments": 189,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=32777301"
-  },
-  {
-    "title": "Companies are buying large numbers of carbon offsets that don’t cut emissions",
-    "url": "https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900",
-    "upvotes": 132,
-    "author": "prostoalex",
-    "comments": 149,
-    "link": "https://news.ycombinator.com/item?id=32780880"
   },
   {
     "title": "Why investors are reaching for the astrology of finance",
     "url": "https://www.economist.com/finance-and-economics/2022/09/01/why-investors-are-reaching-for-the-astrology-of-finance",
-    "upvotes": 7,
+    "upvotes": 11,
     "author": "plonk",
-    "comments": 11,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=32784047"
   },
   {
     "title": "Game Jam 2 Results",
     "url": "https://wasm4.org/blog/jam-2-results/",
-    "upvotes": 158,
+    "upvotes": 163,
     "author": "eggy",
-    "comments": 118,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=32777636"
+  },
+  {
+    "title": "Companies are buying large numbers of carbon offsets that don’t cut emissions",
+    "url": "https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900",
+    "upvotes": 144,
+    "author": "prostoalex",
+    "comments": 161,
+    "link": "https://news.ycombinator.com/item?id=32780880"
   },
   {
     "title": "Purring is a love language no human can speak",
     "url": "https://www.theatlantic.com/science/archive/2022/09/why-cats-purr-vocalization-science/671358/",
-    "upvotes": 141,
+    "upvotes": 146,
     "author": "pseudolus",
-    "comments": 114,
+    "comments": 115,
     "link": "https://news.ycombinator.com/item?id=32764382"
   },
   {
-    "title": "Some things I realized about AI while contemplating slide rule prices on eBay",
-    "url": "http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html",
-    "upvotes": 71,
-    "author": "ColinWright",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=32777630"
+    "title": "The Tapeworm Hunters",
+    "url": "https://www.theverge.com/2017/11/22/16691086/tapeworms-parasites-sea-food-raw-fish-meat-science-intestines-biodiversity",
+    "upvotes": 4,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32777711"
   },
   {
     "title": "Cravings for fatty foods traced to gut-brain connection",
     "url": "https://zuckermaninstitute.columbia.edu/cravings-fatty-foods-traced-gut-brain-connection",
-    "upvotes": 48,
+    "upvotes": 53,
     "author": "gmays",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=32782265"
-  },
-  {
-    "title": "FTC proposes rule to ban junk fees, bait-and-switch tactics plaguing car buyers",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-proposes-rule-ban-junk-fees-bait-switch-tactics-plaguing-car-buyers",
-    "upvotes": 145,
-    "author": "ParksNet",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=32780998"
   },
   {
     "title": "Making a Website Under 1kB",
     "url": "https://tdarb.org/blog/under-1kb.html",
-    "upvotes": 140,
+    "upvotes": 146,
     "author": "iloverss",
-    "comments": 68,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=32777109"
   },
   {
-    "title": "Logo, Bullshit and Co., Inc.",
-    "url": "https://ia.net/topics/logo-bullshit-co-inc",
-    "upvotes": 7,
-    "author": "sysadm1n",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32778046"
+    "title": "FTC proposes rule to ban junk fees, bait-and-switch tactics plaguing car buyers",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-proposes-rule-ban-junk-fees-bait-switch-tactics-plaguing-car-buyers",
+    "upvotes": 153,
+    "author": "ParksNet",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=32780998"
+  },
+  {
+    "title": "Some things I realized about AI while contemplating slide rule prices on eBay",
+    "url": "http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html",
+    "upvotes": 73,
+    "author": "ColinWright",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=32777630"
+  },
+  {
+    "title": "Ask HN: What happened to theregister.com?",
+    "url": "item?id=32778803",
+    "upvotes": 167,
+    "author": "donpott",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=32778803"
   }
 ]
