@@ -2,103 +2,103 @@
   {
     "title": "What's SAP, and why's it worth $163B?",
     "url": "https://retool.com/blog/erp-for-engineers/",
-    "upvotes": 232,
+    "upvotes": 267,
     "author": "antonyl",
-    "comments": 203,
+    "comments": 232,
     "link": "https://news.ycombinator.com/item?id=32776276"
   },
   {
     "title": "WASM-4 Game Jam 2 Results – Zig most used",
     "url": "https://wasm4.org/blog/jam-2-results/",
-    "upvotes": 12,
+    "upvotes": 19,
     "author": "eggy",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32777636"
   },
   {
     "title": "The Touhou PC-98 Restoration Project",
     "url": "https://github.com/nmlgc/ReC98",
-    "upvotes": 39,
+    "upvotes": 44,
     "author": "retro_guy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32777260"
   },
   {
-    "title": "Making a Website Under 1kB",
-    "url": "https://tdarb.org/blog/under-1kb.html",
-    "upvotes": 30,
-    "author": "iloverss",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=32777109"
-  },
-  {
     "title": "Why public chats are better than direct messages",
     "url": "https://teamplify.com/blog/why-public-chats-are-better-than-direct-messages/",
-    "upvotes": 32,
+    "upvotes": 43,
     "author": "stebunovd",
-    "comments": 12,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=32776750"
+  },
+  {
+    "title": "Making a Website Under 1kB",
+    "url": "https://tdarb.org/blog/under-1kb.html",
+    "upvotes": 34,
+    "author": "iloverss",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=32777109"
   },
   {
     "title": "CernVM File System",
     "url": "https://cernvm.cern.ch/fs/",
-    "upvotes": 88,
+    "upvotes": 95,
     "author": "carapace",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32775505"
   },
   {
     "title": "Widespread misperceptions of long-term attitude change",
     "url": "https://www.pnas.org/doi/10.1073/pnas.2107260119#abstract",
-    "upvotes": 151,
+    "upvotes": 156,
     "author": "larsiusprime",
-    "comments": 119,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=32774592"
   },
   {
     "title": "Edge Case Poisoning",
     "url": "https://buttondown.email/hillelwayne/archive/edge-case-poisoning/",
-    "upvotes": 93,
+    "upvotes": 96,
     "author": "jrmurray",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32774804"
   },
   {
     "title": "Movim – A decentralized social platform built on XMPP",
     "url": "https://github.com/movim/movim",
-    "upvotes": 14,
+    "upvotes": 20,
     "author": "yamrzou",
-    "comments": 8,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=32776735"
-  },
-  {
-    "title": "Penguin of the Year",
-    "url": "https://www.nationalaquarium.co.nz/visit/penguin-of-the-year/",
-    "upvotes": 45,
-    "author": "Tomte",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32764181"
   },
   {
     "title": "URL is also a shell script that executes some malicious",
     "url": "https://github.com/jwilk/url.sh",
-    "upvotes": 21,
+    "upvotes": 35,
     "author": "pabs3",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=32776013"
+  },
+  {
+    "title": "Penguin of the Year",
+    "url": "https://www.nationalaquarium.co.nz/visit/penguin-of-the-year/",
+    "upvotes": 49,
+    "author": "Tomte",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32764181"
   },
   {
     "title": "Nvidia Hopper Sweeps AI Inference Benchmarks in MLPerf Debut",
     "url": "https://blogs.nvidia.com/blog/2022/09/08/hopper-mlperf-inference/",
-    "upvotes": 110,
+    "upvotes": 111,
     "author": "bcaulfield",
-    "comments": 60,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=32773517"
   },
   {
     "title": "Protohackers: Server Programming Challenge",
     "url": "https://protohackers.com/",
-    "upvotes": 158,
+    "upvotes": 160,
     "author": "jstanley",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32767263"
@@ -110,15 +110,15 @@
   {
     "title": "Congress.gov API",
     "url": "https://api.congress.gov/",
-    "upvotes": 647,
+    "upvotes": 652,
     "author": "ElevenLathe",
-    "comments": 182,
+    "comments": 185,
     "link": "https://news.ycombinator.com/item?id=32770058"
   },
   {
     "title": "Galène Videoconference Server",
     "url": "https://galene.org",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "yamrzou",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32776669"
@@ -126,41 +126,49 @@
   {
     "title": "So you want to be a writer?",
     "url": "https://poets.org/poem/so-you-want-be-writer",
-    "upvotes": 90,
+    "upvotes": 93,
     "author": "imustachyou",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=32773944"
   },
   {
     "title": "The Projectionist: On the best job that no longer exists",
     "url": "https://pipewrenchmag.com/the-film-projectionist/",
-    "upvotes": 100,
+    "upvotes": 105,
     "author": "samclemens",
-    "comments": 71,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=32761514"
+  },
+  {
+    "title": "Dream Awhile, Scheme Awhile: The Love Theme in Bringing Up Baby",
+    "url": "https://www.criterion.com/current/posts/7692-dream-awhile-scheme-awhile-the-love-theme-in-bringing-up-baby",
+    "upvotes": 3,
+    "author": "tintinnabula",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32775814"
   },
   {
     "title": "Our five failed YC applications and one successful one",
     "url": "https://www.relate.so/blog/six-applications-y-combinator/",
     "upvotes": 143,
     "author": "_chrischae",
-    "comments": 72,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=32771235"
   },
   {
     "title": "The self-fulfilling prophecy of React",
     "url": "https://joshcollinsworth.com/blog/self-fulfilling-prophecy-of-react",
-    "upvotes": 138,
+    "upvotes": 143,
     "author": "yamrzou",
-    "comments": 210,
+    "comments": 216,
     "link": "https://news.ycombinator.com/item?id=32763476"
   },
   {
     "title": "Ramanujan Factorial Approximation",
     "url": "https://www.johndcook.com/blog/2012/09/25/ramanujans-factorial-approximation/",
-    "upvotes": 125,
+    "upvotes": 126,
     "author": "wglb",
-    "comments": 25,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=32760839"
   },
   {
@@ -174,23 +182,23 @@
   {
     "title": "ErgodoxE EZ – an ergonomic keyboard with open source firmware",
     "url": "https://ergodox-ez.com/",
-    "upvotes": 111,
+    "upvotes": 115,
     "author": "hosteur",
-    "comments": 150,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=32764109"
   },
   {
     "title": "San Francisco decriminalizes psychedelics",
     "url": "https://doubleblindmag.com/san-francisco-decriminalizes-psychedelics/",
-    "upvotes": 559,
+    "upvotes": 562,
     "author": "O__________O",
-    "comments": 376,
+    "comments": 379,
     "link": "https://news.ycombinator.com/item?id=32767979"
   },
   {
     "title": "Minutes That Will Make You Love Alice Coltrane",
     "url": "https://www.nytimes.com/2022/09/07/arts/music/alice-coltrane-jazz-music.html",
-    "upvotes": 61,
+    "upvotes": 63,
     "author": "tintinnabula",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32758185"
@@ -198,41 +206,33 @@
   {
     "title": "Crash recovery for user-space block drivers",
     "url": "https://lwn.net/Articles/906097/",
-    "upvotes": 37,
+    "upvotes": 39,
     "author": "signa11",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=32774029"
   },
   {
     "title": "Queen Elizabeth II has died",
     "url": "https://www.bbc.com/news/uk-61585886",
-    "upvotes": 2716,
+    "upvotes": 2725,
     "author": "xd",
-    "comments": 1459,
+    "comments": 1468,
     "link": "https://news.ycombinator.com/item?id=32768834"
-  },
-  {
-    "title": "When Every Ketchup but One Went Extinct",
-    "url": "https://www.atlasobscura.com/articles/history-of-heinz-ketchup",
-    "upvotes": 70,
-    "author": "dynm",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=32774584"
   },
   {
     "title": "The Ffast and the Furious",
     "url": "https://gist.github.com/moyix/46b7d7fdb9e100dad866821793b08058",
-    "upvotes": 91,
+    "upvotes": 94,
     "author": "mmastrac",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=32758126"
   },
   {
-    "title": "ADSL Router as Effects Pedal",
-    "url": "https://hackaday.com/2022/09/08/adsl-router-as-effects-pedal/",
-    "upvotes": 16,
-    "author": "rcarmo",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32776803"
+    "title": "When Every Ketchup but One Went Extinct",
+    "url": "https://www.atlasobscura.com/articles/history-of-heinz-ketchup",
+    "upvotes": 71,
+    "author": "dynm",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=32774584"
   }
 ]
