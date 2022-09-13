@@ -2,90 +2,98 @@
   {
     "title": "Increase: Banking API",
     "url": "https://increase.com/",
-    "upvotes": 49,
+    "upvotes": 110,
     "author": "pen2l",
-    "comments": 23,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=32828669"
   },
   {
     "title": "The last person standing in the floppy disk business",
     "url": "https://eyeondesign.aiga.org/we-spoke-with-the-last-person-standing-in-the-floppy-disk-business/",
-    "upvotes": 411,
+    "upvotes": 428,
     "author": "fortran77",
-    "comments": 214,
+    "comments": 224,
     "link": "https://news.ycombinator.com/item?id=32824038"
-  },
-  {
-    "title": "W4 Games raises $8.5M to support Godot Engine growth",
-    "url": "https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/",
-    "upvotes": 222,
-    "author": "mroche",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=32827762"
   },
   {
     "title": "Byte Magazine: Declarative Languages",
     "url": "https://archive.org/details/byte-magazine-1985-08",
-    "upvotes": 36,
+    "upvotes": 49,
     "author": "PaulHoule",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=32828569"
+  },
+  {
+    "title": "W4 Games raises $8.5M to support Godot Engine growth",
+    "url": "https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/",
+    "upvotes": 243,
+    "author": "mroche",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=32827762"
+  },
+  {
+    "title": "Gödel, Escher, Bach: an in-depth explainer",
+    "url": "https://www.alignmentforum.org/posts/wwNnzaPnB5a48K86N/book-review-goedel-escher-bach-an-in-depth-explainer",
+    "upvotes": 35,
+    "author": "behnamoh",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=32827209"
+  },
+  {
+    "title": "When to use Bazel?",
+    "url": "https://earthly.dev/blog/bazel-build/",
+    "upvotes": 46,
+    "author": "jvolkman",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=32828584"
   },
   {
     "title": "Factorio is coming to Nintendo Switch",
     "url": "https://www.factorio.com/blog/post/factorio-on-nintendo-switch",
-    "upvotes": 494,
+    "upvotes": 514,
     "author": "MForster",
-    "comments": 222,
+    "comments": 233,
     "link": "https://news.ycombinator.com/item?id=32825543"
   },
   {
     "title": "Show HN: Mini Metroidvania in 13KB of JavaScript",
     "url": "https://arineonshark.itch.io/infernal-throne",
-    "upvotes": 37,
+    "upvotes": 44,
     "author": "arikgalactic",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32828309"
   },
   {
-    "title": "Twitter trackers jeopardize military aircraft",
-    "url": "https://www.usni.org/magazines/proceedings/2022/september/twitter-trackers-jeopardize-military-aircraft-0",
-    "upvotes": 17,
-    "author": "mzs",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=32828902"
-  },
-  {
-    "title": "When to use Bazel?",
-    "url": "https://earthly.dev/blog/bazel-build/",
-    "upvotes": 27,
-    "author": "jvolkman",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32828584"
+    "title": "Scaling Git’s garbage collection",
+    "url": "https://github.blog/2022-09-13-scaling-gits-garbage-collection/",
+    "upvotes": 20,
+    "author": "todsacerdoti",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32826072"
   },
   {
     "title": "Show HN: Query SQLite files stored in S3",
     "url": "https://github.com/litements/s3sqlite",
-    "upvotes": 17,
+    "upvotes": 22,
     "author": "polyrand",
-    "comments": null,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=32828799"
   },
   {
     "title": "The search for dirt on Mudge",
     "url": "https://www.newyorker.com/news/news-desk/the-search-for-dirt-on-the-twitter-whistle-blower",
-    "upvotes": 59,
+    "upvotes": 75,
     "author": "jrochkind1",
-    "comments": 29,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=32823548"
   },
   {
-    "title": "Gödel, Escher, Bach: an in-depth explainer",
-    "url": "https://www.alignmentforum.org/posts/wwNnzaPnB5a48K86N/book-review-goedel-escher-bach-an-in-depth-explainer",
-    "upvotes": 11,
-    "author": "behnamoh",
+    "title": "Rust stabilizes generic associated types",
+    "url": "https://github.com/rust-lang/rust/pull/96709",
+    "upvotes": 7,
+    "author": "xavxav",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32827209"
+    "link": "https://news.ycombinator.com/item?id=32829806"
   },
   {
     "title": "EasyPost",
@@ -94,145 +102,137 @@
   {
     "title": "Patreon Lays off 17% of Staff",
     "url": "https://blog.patreon.com/a-note-from-jack",
-    "upvotes": 239,
+    "upvotes": 263,
     "author": "jcalabro",
-    "comments": 210,
+    "comments": 241,
     "link": "https://news.ycombinator.com/item?id=32826610"
-  },
-  {
-    "title": "Scaling Git’s garbage collection",
-    "url": "https://github.blog/2022-09-13-scaling-gits-garbage-collection/",
-    "upvotes": 11,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32826072"
   },
   {
     "title": "Jean-Luc Godard has died",
     "url": "https://www.lemonde.fr/en/obituaries/article/2022/09/13/jean-luc-godard-legendary-french-film-director-dies-aged-91_5996746_15.html",
-    "upvotes": 415,
+    "upvotes": 419,
     "author": "coolandsmartrr",
-    "comments": 119,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=32821761"
-  },
-  {
-    "title": "Cake – A C23 compiler frond end written from scratch in C",
-    "url": "https://github.com/thradams/cake",
-    "upvotes": 139,
-    "author": "thradams",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=32823118"
   },
   {
     "title": "Futurist Prediction Accuracy",
     "url": "https://danluu.com/futurist-predictions/",
-    "upvotes": 34,
+    "upvotes": 42,
     "author": "telotortium",
-    "comments": 11,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=32820992"
   },
   {
     "title": "MemLab: An open source framework for finding JavaScript memory leaks",
     "url": "https://engineering.fb.com/2022/09/12/open-source/memlab/",
-    "upvotes": 58,
+    "upvotes": 67,
     "author": "mikece",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32812811"
+  },
+  {
+    "title": "Show HN: IPDetective – An API for IP bot detection",
+    "url": "https://ipdetective.io",
+    "upvotes": 12,
+    "author": "AndrewCopeland",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=32815994"
+  },
+  {
+    "title": "Cake – A C23 compiler frond end written from scratch in C",
+    "url": "https://github.com/thradams/cake",
+    "upvotes": 145,
+    "author": "thradams",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=32823118"
   },
   {
     "title": "Show HN: pg_netstat, a Postgres extension to monitor database network traffic",
     "url": "https://github.com/supabase/pg_netstat",
-    "upvotes": 125,
+    "upvotes": 127,
     "author": "burmecia",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=32823589"
   },
   {
-    "title": "FB feed is 98% suggested pages and barely any friends' posts",
-    "url": "https://old.reddit.com/r/facebook/comments/tvqddc/fb_feed_is_98_suggested_pages_and_barely_any/",
-    "upvotes": 522,
-    "author": "Erikun",
-    "comments": 284,
-    "link": "https://news.ycombinator.com/item?id=32826437"
+    "title": "The Next Incarnation of EDA",
+    "url": "https://semiengineering.com/the-next-incarnation-of-eda/",
+    "upvotes": 6,
+    "author": "mindcrime",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32829553"
   },
   {
     "title": "The enduring allure of Choose Your Own Adventure books",
     "url": "https://www.newyorker.com/magazine/2022/09/19/the-enduring-allure-of-choose-your-own-adventure-books",
-    "upvotes": 81,
+    "upvotes": 88,
     "author": "mirthlessend",
-    "comments": 51,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=32808728"
-  },
-  {
-    "title": "The Carte du Ciel attempted to map the sky without computers",
-    "url": "https://arstechnica.com/science/2022/09/how-an-enormous-project-attempted-to-map-the-sky-without-computers/",
-    "upvotes": 23,
-    "author": "kergonath",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=32808637"
-  },
-  {
-    "title": "An app can be a home-cooked meal",
-    "url": "https://www.robinsloan.com/notes/home-cooked-app/",
-    "upvotes": 128,
-    "author": "jsomers",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=32800518"
-  },
-  {
-    "title": "Nintendo's U-Force",
-    "url": "https://hackaday.com/2022/09/05/why-youve-never-heard-about-nintendos-u-force/",
-    "upvotes": 51,
-    "author": "bookofjoe",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=32795435"
-  },
-  {
-    "title": "Show HN: IPDetective – An API for IP bot detection",
-    "url": "https://ipdetective.io",
-    "upvotes": 9,
-    "author": "AndrewCopeland",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32815994"
   },
   {
     "title": "Is there any meaningful way to compare two Time Travel Debugging positions?",
     "url": "https://devblogs.microsoft.com/oldnewthing/20220905-00/?p=107107",
-    "upvotes": 6,
+    "upvotes": 13,
     "author": "luu",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32813059"
   },
   {
-    "title": "Software component names should be whimsical and cryptic",
-    "url": "https://medium.com/@histocrat/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0",
-    "upvotes": 232,
-    "author": "honoredb",
-    "comments": 260,
-    "link": "https://news.ycombinator.com/item?id=32807969"
+    "title": "An app can be a home-cooked meal",
+    "url": "https://www.robinsloan.com/notes/home-cooked-app/",
+    "upvotes": 132,
+    "author": "jsomers",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=32800518"
   },
   {
     "title": "Senior engineers are living in the future",
     "url": "https://www.zerobanana.com/essays/living-in-the-future/",
-    "upvotes": 214,
+    "upvotes": 231,
     "author": "pierreprinetti",
-    "comments": 191,
+    "comments": 200,
     "link": "https://news.ycombinator.com/item?id=32824872"
   },
   {
-    "title": "One-on-ones with executives",
-    "url": "https://lethain.com/one-on-ones-with-executives/",
-    "upvotes": 115,
-    "author": "kiyanwang",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=32806761"
+    "title": "FB feed is 98% suggested pages and barely any friends' posts",
+    "url": "https://old.reddit.com/r/facebook/comments/tvqddc/fb_feed_is_98_suggested_pages_and_barely_any/",
+    "upvotes": 556,
+    "author": "Erikun",
+    "comments": 305,
+    "link": "https://news.ycombinator.com/item?id=32826437"
   },
   {
-    "title": "Integer Conversions and Safe Comparisons in C++20",
-    "url": "https://www.cppstories.com/2022/safe-int-cmp-cpp20/",
-    "upvotes": 43,
-    "author": "ibobev",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=32807881"
+    "title": "The Carte du Ciel attempted to map the sky without computers",
+    "url": "https://arstechnica.com/science/2022/09/how-an-enormous-project-attempted-to-map-the-sky-without-computers/",
+    "upvotes": 26,
+    "author": "kergonath",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32808637"
+  },
+  {
+    "title": "Nintendo's U-Force",
+    "url": "https://hackaday.com/2022/09/05/why-youve-never-heard-about-nintendos-u-force/",
+    "upvotes": 54,
+    "author": "bookofjoe",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=32795435"
+  },
+  {
+    "title": "Twitter trackers jeopardize military aircraft?",
+    "url": "https://www.usni.org/magazines/proceedings/2022/september/twitter-trackers-jeopardize-military-aircraft-0",
+    "upvotes": 24,
+    "author": "mzs",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=32828902"
+  },
+  {
+    "title": "Software component names should be whimsical and cryptic",
+    "url": "https://medium.com/@histocrat/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0",
+    "upvotes": 234,
+    "author": "honoredb",
+    "comments": 267,
+    "link": "https://news.ycombinator.com/item?id=32807969"
   }
 ]
