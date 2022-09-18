@@ -1,220 +1,228 @@
 [
   {
+    "title": "The Subprime Loans for College Hiding in Plain Sight",
+    "url": "https://www.nytimes.com/2022/09/17/your-money/parent-plus-loans.html",
+    "upvotes": 31,
+    "author": "prostoalex",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=32892234"
+  },
+  {
     "title": "The $300B Google-Meta advertising duopoly is under attack",
     "url": "https://www.economist.com/business/2022/09/18/the-300bn-google-meta-advertising-duopoly-is-under-attack",
-    "upvotes": 254,
+    "upvotes": 273,
     "author": "acconrad",
-    "comments": 231,
+    "comments": 242,
     "link": "https://news.ycombinator.com/item?id=32889929"
   },
   {
     "title": "Poor writing, not specialized concepts, drives difficulty with legal language",
     "url": "https://www.sciencedirect.com/science/article/pii/S0010027722000580",
-    "upvotes": 262,
+    "upvotes": 278,
     "author": "rntn",
-    "comments": 164,
+    "comments": 169,
     "link": "https://news.ycombinator.com/item?id=32889072"
-  },
-  {
-    "title": "The Subprime Loans for College Hiding in Plain Sight",
-    "url": "https://www.nytimes.com/2022/09/17/your-money/parent-plus-loans.html",
-    "upvotes": 9,
-    "author": "prostoalex",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32892234"
-  },
-  {
-    "title": "Figma: A Random Walk in Palo Alto",
-    "url": "https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/",
-    "upvotes": 19,
-    "author": "tosh",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32891838"
-  },
-  {
-    "title": "The Hyperinflation Gallery",
-    "url": "https://lcamtuf.coredump.cx/hyper/",
-    "upvotes": 114,
-    "author": "classichasclass",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=32890423"
-  },
-  {
-    "title": "Measuring CPU core-to-core latency",
-    "url": "https://github.com/nviennot/core-to-core-latency",
-    "upvotes": 130,
-    "author": "nviennot",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=32889337"
-  },
-  {
-    "title": "Show HN: I may have created a new type of puzzle",
-    "url": "http://www.dogbunnypuzzle.com/",
-    "upvotes": 1376,
-    "author": "drcode",
-    "comments": 362,
-    "link": "https://news.ycombinator.com/item?id=32884467"
   },
   {
     "title": "An X11 Apologist Tries Wayland",
     "url": "https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html",
-    "upvotes": 66,
+    "upvotes": 84,
     "author": "xena",
-    "comments": 60,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=32891313"
+  },
+  {
+    "title": "Figma: A Random Walk in Palo Alto",
+    "url": "https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/",
+    "upvotes": 41,
+    "author": "tosh",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32891838"
+  },
+  {
+    "title": "Show HN: I may have created a new type of puzzle",
+    "url": "http://www.dogbunnypuzzle.com/",
+    "upvotes": 1396,
+    "author": "drcode",
+    "comments": 363,
+    "link": "https://news.ycombinator.com/item?id=32884467"
+  },
+  {
+    "title": "Measuring CPU core-to-core latency",
+    "url": "https://github.com/nviennot/core-to-core-latency",
+    "upvotes": 138,
+    "author": "nviennot",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=32889337"
   },
   {
     "title": "Hot Chips 34: AMD’s Instinct MI200 Architecture",
     "url": "https://chipsandcheese.com/2022/09/18/hot-chips-34-amds-instinct-mi200-architecture/",
-    "upvotes": 47,
+    "upvotes": 58,
     "author": "ingve",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32890604"
+  },
+  {
+    "title": "YouTubePluginReplacement.cpp: YouTube-specific code in WebKit",
+    "url": "https://github.com/WebKit/WebKit/blob/main/Source/WebCore/Modules/plugins/YouTubePluginReplacement.cpp",
+    "upvotes": 178,
+    "author": "pcr910303",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=32888125"
+  },
+  {
+    "title": "The Hyperinflation Gallery",
+    "url": "https://lcamtuf.coredump.cx/hyper/",
+    "upvotes": 120,
+    "author": "classichasclass",
+    "comments": 127,
+    "link": "https://news.ycombinator.com/item?id=32890423"
   },
   {
     "title": "Flexport is hiring smart, gritty People who get stuff done",
     "url": "https://Flexport.com/careers"
   },
   {
-    "title": "YouTubePluginReplacement.cpp: YouTube-specific code in WebKit",
-    "url": "https://github.com/WebKit/WebKit/blob/main/Source/WebCore/Modules/plugins/YouTubePluginReplacement.cpp",
-    "upvotes": 169,
-    "author": "pcr910303",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=32888125"
-  },
-  {
     "title": "Finding the “second bug” in glibc’s condition variable",
     "url": "https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/",
-    "upvotes": 246,
+    "upvotes": 248,
     "author": "ingve",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=32887143"
   },
   {
     "title": "Trianglify.io – Low Poly Pattern Generator",
     "url": "https://trianglify.io/",
-    "upvotes": 210,
+    "upvotes": 218,
     "author": "sysadm1n",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=32887795"
   },
   {
+    "title": "How mechanics keep 50-year-old BART trains running: Windows 98, eBay, and scraps",
+    "url": "https://www.mercurynews.com/2022/09/17/how-clever-mechanics-keep-50-year-old-bart-trains-running-windows-98-ebay-and-scraps/",
+    "upvotes": 10,
+    "author": "Stratoscope",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32884814"
+  },
+  {
     "title": "America’s most remarkable kid died in Newcastle, Utah",
     "url": "https://www.deseret.com/2022/8/22/23309244/cole-summers-died-newcastle-utah-warren-buffett-charlie-munger-bari-weiss-unschooled",
-    "upvotes": 120,
+    "upvotes": 137,
     "author": "xenophon",
-    "comments": 35,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=32890906"
+  },
+  {
+    "title": "MiSTer FPGA: Recreate classic computers using modern hardware",
+    "url": "https://mister-devel.github.io/MkDocs_MiSTer/",
+    "upvotes": 124,
+    "author": "lnyan",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=32887388"
   },
   {
     "title": "Not Perfect, Just Better",
     "url": "https://satfax.substack.com/p/not-perfect-just-better",
-    "upvotes": 21,
+    "upvotes": 22,
     "author": "fredrivett",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32890840"
   },
   {
-    "title": "MiSTer FPGA: Recreate classic computers using modern hardware",
-    "url": "https://mister-devel.github.io/MkDocs_MiSTer/",
-    "upvotes": 119,
-    "author": "lnyan",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=32887388"
-  },
-  {
-    "title": "Hacker News stylized as a retro 90s macOS desktop",
-    "url": "https://hackertosh.org/",
-    "upvotes": 127,
-    "author": "anthonyhn",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=32889720"
-  },
-  {
     "title": "The beginning of the Monte Carlo method",
     "url": "https://lib-www.lanl.gov/cgi-bin/getfile?00326866.pdf",
-    "upvotes": 113,
+    "upvotes": 117,
     "author": "swibbler",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=32886533"
   },
   {
+    "title": "Hacker News stylized as a retro 90s macOS desktop",
+    "url": "https://hackertosh.org/",
+    "upvotes": 133,
+    "author": "anthonyhn",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=32889720"
+  },
+  {
     "title": "How to Bypass Cloudflare: A Comprehensive Guide",
     "url": "https://www.zenrows.com/blog/bypass-cloudflare",
-    "upvotes": 168,
+    "upvotes": 173,
     "author": "jakobdabo",
-    "comments": 42,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=32886795"
-  },
-  {
-    "title": "Sony Android TVs waste 25W in standby due to built-in Google Chromecast",
-    "url": "https://www.avsforum.com/threads/sony-2015-xbr-55x850c-xbr-65x850c-xbr-75x850c-owners-club.1985298/page-765#post-61979548",
-    "upvotes": 291,
-    "author": "eisa01",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=32888844"
-  },
-  {
-    "title": "Chem Lab Made Me a Better Dev",
-    "url": "https://edweissman.com/chemistry.html",
-    "upvotes": 34,
-    "author": "swah",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=32886042"
-  },
-  {
-    "title": "GCC's new fortification level: The gains and costs",
-    "url": "https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level",
-    "upvotes": 49,
-    "author": "pjmlp",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=32888516"
-  },
-  {
-    "title": "How mechanics keep 50-year-old BART trains running: Windows 98, eBay, and scraps",
-    "url": "https://www.mercurynews.com/2022/09/17/how-clever-mechanics-keep-50-year-old-bart-trains-running-windows-98-ebay-and-scraps/",
-    "upvotes": 4,
-    "author": "Stratoscope",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32884814"
-  },
-  {
-    "title": "EmuTOS – Free OS for Atari ST and more",
-    "url": "https://emutos.sourceforge.io/",
-    "upvotes": 99,
-    "author": "lproven",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=32887199"
-  },
-  {
-    "title": "My productivity system",
-    "url": "https://www.nunodonato.com/my-productivity-system-in-2022/",
-    "upvotes": 146,
-    "author": "nunodonato",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=32886288"
-  },
-  {
-    "title": "Meli – email client in the terminal, in the spirit of mutt",
-    "url": "https://git.meli.delivery/meli/meli",
-    "upvotes": 99,
-    "author": "Klasiaster",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=32887175"
   },
   {
     "title": "Steps to designing an embedded software architecture, Step 1",
     "url": "https://www.embedded.com/5-steps-to-designing-an-embedded-software-architecture-step-1/",
-    "upvotes": 8,
+    "upvotes": 12,
     "author": "gautambt",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32886122"
   },
   {
+    "title": "Sony Android TVs waste 25W in standby due to built-in Google Chromecast",
+    "url": "https://www.avsforum.com/threads/sony-2015-xbr-55x850c-xbr-65x850c-xbr-75x850c-owners-club.1985298/page-765#post-61979548",
+    "upvotes": 300,
+    "author": "eisa01",
+    "comments": 130,
+    "link": "https://news.ycombinator.com/item?id=32888844"
+  },
+  {
+    "title": "GCC's new fortification level: The gains and costs",
+    "url": "https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level",
+    "upvotes": 53,
+    "author": "pjmlp",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=32888516"
+  },
+  {
+    "title": "Chem Lab Made Me a Better Dev",
+    "url": "https://edweissman.com/chemistry.html",
+    "upvotes": 37,
+    "author": "swah",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32886042"
+  },
+  {
+    "title": "EmuTOS – Free OS for Atari ST and more",
+    "url": "https://emutos.sourceforge.io/",
+    "upvotes": 103,
+    "author": "lproven",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=32887199"
+  },
+  {
+    "title": "Meli – email client in the terminal, in the spirit of mutt",
+    "url": "https://git.meli.delivery/meli/meli",
+    "upvotes": 104,
+    "author": "Klasiaster",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=32887175"
+  },
+  {
+    "title": "My productivity system",
+    "url": "https://www.nunodonato.com/my-productivity-system-in-2022/",
+    "upvotes": 150,
+    "author": "nunodonato",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=32886288"
+  },
+  {
+    "title": "Fan-Baiting as a Movie Marketing Strategy?",
+    "url": "https://www.lastmovieoutpost.com/fan-baiting-as-a-movie-marketing-strategy/",
+    "upvotes": 14,
+    "author": "Octabrain",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=32891843"
+  },
+  {
     "title": "Linux command line for you and me",
     "url": "https://lym.readthedocs.io/en/latest/index.html",
-    "upvotes": 168,
+    "upvotes": 173,
     "author": "rex_lupi",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32886315"
@@ -222,17 +230,9 @@
   {
     "title": "Show HN: BookmarkFS – Store files as Chrome bookmarks that sync between devices",
     "url": "https://github.com/CoolElectronics/bookmarkfs",
-    "upvotes": 44,
+    "upvotes": 45,
     "author": "coolelectronics",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32887863"
-  },
-  {
-    "title": "Note-taking isn't rocket science",
-    "url": "https://tsk.bearblog.dev/note-taking-isnt-rocket-science/",
-    "upvotes": 124,
-    "author": "memorable",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=32885894"
   }
 ]
