@@ -1,64 +1,72 @@
 [
   {
+    "title": "Java's Cultural Problem",
+    "url": "https://alexn.org/blog/2022/09/19/java-cultural-problem/",
+    "upvotes": 28,
+    "author": "madmax108",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=32896228"
+  },
+  {
     "title": "You can watch how much I rewrite here",
     "url": "https://twitter.com/paulg/status/1571774245214244864",
-    "upvotes": 60,
+    "upvotes": 74,
     "author": "tchalla",
-    "comments": 29,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=32895672"
+  },
+  {
+    "title": "How to get started with Rust for Web Dev",
+    "url": "https://mortenvistisen.com/posts/how-to-build-a-simple-blog-using-rust",
+    "upvotes": 16,
+    "author": "mbvisti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32896113"
   },
   {
     "title": "The $300B Google-Meta advertising duopoly is under attack",
     "url": "https://www.economist.com/business/2022/09/18/the-300bn-google-meta-advertising-duopoly-is-under-attack",
-    "upvotes": 524,
+    "upvotes": 531,
     "author": "acconrad",
-    "comments": 440,
+    "comments": 442,
     "link": "https://news.ycombinator.com/item?id=32889929"
-  },
-  {
-    "title": "Google removed our website from search because it uses YouTube-dl",
-    "url": "https://www.kapwing.com/blog/google-erased-our-website/",
-    "upvotes": 265,
-    "author": "justswim",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=32895251"
   },
   {
     "title": "An X11 apologist tries Wayland",
     "url": "https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html",
-    "upvotes": 271,
+    "upvotes": 279,
     "author": "xena",
-    "comments": 307,
+    "comments": 318,
     "link": "https://news.ycombinator.com/item?id=32891313"
   },
   {
-    "title": "How Tokyo keeps house prices affordable",
-    "url": "https://www.konichivalue.com/p/contrarian-investing-how-tokyo-avoided",
-    "upvotes": 19,
-    "author": "Gatsky",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=32894963"
+    "title": "Google removed our website from search because it uses YouTube-dl",
+    "url": "https://www.kapwing.com/blog/google-erased-our-website/",
+    "upvotes": 299,
+    "author": "justswim",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=32895251"
   },
   {
     "title": "How mechanics keep 50-year-old BART trains running: Windows 98, eBay, and scraps",
     "url": "https://www.mercurynews.com/2022/09/17/how-clever-mechanics-keep-50-year-old-bart-trains-running-windows-98-ebay-and-scraps/",
-    "upvotes": 150,
+    "upvotes": 159,
     "author": "Stratoscope",
-    "comments": 133,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=32884814"
   },
   {
     "title": "Show HN: Distributed JMAP and IMAP Servers in Rust",
     "url": "https://github.com/stalwartlabs/jmap-server",
-    "upvotes": 39,
+    "upvotes": 45,
     "author": "StalwartLabs",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=32894429"
   },
   {
     "title": "Figma: A Random Walk in Palo Alto",
     "url": "https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/",
-    "upvotes": 227,
+    "upvotes": 233,
     "author": "tosh",
     "comments": 113,
     "link": "https://news.ycombinator.com/item?id=32891838"
@@ -68,64 +76,64 @@
     "url": "https://www.nytimes.com/2022/09/17/your-money/parent-plus-loans.html",
     "upvotes": 104,
     "author": "prostoalex",
-    "comments": 204,
+    "comments": 211,
     "link": "https://news.ycombinator.com/item?id=32892234"
   },
   {
     "title": "The hyperinflation gallery",
     "url": "https://lcamtuf.coredump.cx/hyper/",
-    "upvotes": 198,
+    "upvotes": 202,
     "author": "classichasclass",
-    "comments": 238,
+    "comments": 247,
     "link": "https://news.ycombinator.com/item?id=32890423"
   },
   {
     "title": "Tuned Mass Damper of Taipei 101",
     "url": "https://www.atlasobscura.com/places/tuned-mass-damper-of-taipei-101",
-    "upvotes": 134,
+    "upvotes": 137,
     "author": "warent",
-    "comments": 55,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=32892098"
   },
   {
     "title": "macOS Subsystem for Linux",
     "url": "https://github.com/macbian-linux/macos-subsystem-for-linux",
-    "upvotes": 66,
+    "upvotes": 73,
     "author": "dzdt",
-    "comments": 23,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32893237"
   },
   {
     "title": "Ask HN: What do you think when companies ask for gritty people?",
     "url": "item?id=32893292",
-    "upvotes": 182,
+    "upvotes": 186,
     "author": "xupybd",
-    "comments": 177,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=32893292"
-  },
-  {
-    "title": "MacOS 10.15: Slow by Design",
-    "url": "https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/",
-    "upvotes": 119,
-    "author": "behnamoh",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=32894344"
   },
   {
     "title": "Bitcoin is not a store of value",
     "url": "https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value",
-    "upvotes": 140,
+    "upvotes": 144,
     "author": "cowtools",
-    "comments": 166,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=32892327"
   },
   {
     "title": "Poor writing, not specialized concepts, drives difficulty with legal language",
     "url": "https://www.sciencedirect.com/science/article/pii/S0010027722000580",
-    "upvotes": 467,
+    "upvotes": 468,
     "author": "rntn",
-    "comments": 258,
+    "comments": 264,
     "link": "https://news.ycombinator.com/item?id=32889072"
+  },
+  {
+    "title": "MacOS 10.15: Slow by Design",
+    "url": "https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/",
+    "upvotes": 120,
+    "author": "behnamoh",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=32894344"
   },
   {
     "title": "Hg64: A 64-bit histogram data structure",
@@ -138,15 +146,15 @@
   {
     "title": "Arm execs: We respect RISC-V but it's not a rival in the datacenter",
     "url": "https://www.theregister.com/2022/09/17/arm_riscv_datacenter_competiton/",
-    "upvotes": 65,
+    "upvotes": 69,
     "author": "rntn",
-    "comments": 63,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=32886442"
   },
   {
     "title": "Global-Chem: A Free Dictionary from Common Chemical Names to Molecules",
     "url": "https://www.globalchemistry.org/",
-    "upvotes": 18,
+    "upvotes": 19,
     "author": "Sulstice",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32894054"
@@ -162,7 +170,7 @@
   {
     "title": "Sim NIMBY, the Game Where You Can’t Build Anything",
     "url": "https://www.vice.com/en/article/qjkzdv/good-luck-playing-sim-nimby-the-game-where-you-cant-build-anything",
-    "upvotes": 36,
+    "upvotes": 41,
     "author": "imartin2k",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32894870"
@@ -170,69 +178,61 @@
   {
     "title": "https://16777217/",
     "url": "https://16777217./",
-    "upvotes": 72,
+    "upvotes": 79,
     "author": "phineyes",
-    "comments": 49,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=32894168"
-  },
-  {
-    "title": "Tuned Mass Damper of Taipei 101 Skyscraper during 6.8 earthquake [video]",
-    "url": "https://www.youtube.com/watch?v=qnSh8C40i1s",
-    "upvotes": 92,
-    "author": "thunderbong",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=32893881"
   },
   {
     "title": "Matrix was worth the effort to self host",
     "url": "https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host/",
-    "upvotes": 19,
+    "upvotes": 23,
     "author": "anthropodie",
-    "comments": 7,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32895513"
+  },
+  {
+    "title": "Tuned Mass Damper of Taipei 101 Skyscraper during 6.8 earthquake [video]",
+    "url": "https://www.youtube.com/watch?v=qnSh8C40i1s",
+    "upvotes": 95,
+    "author": "thunderbong",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=32893881"
   },
   {
     "title": "Hacker News stylized as a retro 90s macOS desktop",
     "url": "https://hackertosh.org/",
-    "upvotes": 244,
+    "upvotes": 249,
     "author": "anthonyhn",
-    "comments": 44,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=32889720"
   },
   {
     "title": "Measuring CPU core-to-core latency",
     "url": "https://github.com/nviennot/core-to-core-latency",
-    "upvotes": 266,
+    "upvotes": 271,
     "author": "nviennot",
-    "comments": 75,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=32889337"
   },
   {
     "title": "America’s most remarkable kid died in Newcastle, Utah",
     "url": "https://www.deseret.com/2022/8/22/23309244/cole-summers-died-newcastle-utah-warren-buffett-charlie-munger-bari-weiss-unschooled",
-    "upvotes": 289,
+    "upvotes": 295,
     "author": "xenophon",
-    "comments": 146,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=32890906"
+  },
+  {
+    "title": "Flexport",
+    "url": "https://Flexport.com/careers"
   },
   {
     "title": "Steps to designing an embedded software architecture, Step 1",
     "url": "https://www.embedded.com/5-steps-to-designing-an-embedded-software-architecture-step-1/",
-    "upvotes": 47,
+    "upvotes": 48,
     "author": "gautambt",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=32886122"
-  },
-  {
-    "title": "Flexport is hiring smart, gritty People who get stuff done",
-    "url": "https://Flexport.com/careers"
-  },
-  {
-    "title": "Haskell's Operator Glossary",
-    "url": "https://www.fpcomplete.com/haskell/tutorial/operators/",
-    "upvotes": 10,
-    "author": "behnamoh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32893762"
   }
 ]
