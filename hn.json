@@ -1,16 +1,8 @@
 [
   {
-    "title": "Stable Diffusion Based Image Compression",
-    "url": "https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202",
-    "upvotes": 82,
-    "author": "nanidin",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=32907494"
-  },
-  {
-    "title": "Cache Your CORS",
+    "title": "Cache your CORS",
     "url": "https://httptoolkit.tech/blog/cache-your-cors/",
-    "upvotes": 121,
+    "upvotes": 144,
     "author": "aloukissas",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32907234"
@@ -18,79 +10,87 @@
   {
     "title": "2-in-1 calculator app adds up to surprise hit for retired engineer",
     "url": "https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c",
-    "upvotes": 710,
+    "upvotes": 719,
     "author": "CrankyBear",
-    "comments": 233,
+    "comments": 236,
     "link": "https://news.ycombinator.com/item?id=32902520"
   },
   {
     "title": "Why deadlines are pointless and what to do instead",
     "url": "https://lucasfcosta.com/2022/09/15/deadlines.html",
-    "upvotes": 37,
+    "upvotes": 51,
     "author": "lucasfcosta",
-    "comments": 29,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=32907726"
   },
   {
     "title": "Faster CPython 3.12 Plan",
     "url": "https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle",
-    "upvotes": 159,
+    "upvotes": 166,
     "author": "bratao",
-    "comments": 67,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=32906085"
   },
   {
     "title": "1Hz CPU made in Minecraft running Minecraft at 0.1fps [video]",
     "url": "https://www.youtube.com/watch?v=-BP7DhHTU-I",
-    "upvotes": 623,
+    "upvotes": 635,
     "author": "reimertz",
-    "comments": 105,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=32901461"
+  },
+  {
+    "title": "Stable Diffusion Based Image Compression",
+    "url": "https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202",
+    "upvotes": 97,
+    "author": "nanidin",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=32907494"
   },
   {
     "title": "Show HN: Figr.app – a multi-user, notepad style calculator",
     "url": "https://www.figr.app/",
-    "upvotes": 131,
+    "upvotes": 139,
     "author": "jklp",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=32905802"
-  },
-  {
-    "title": "I’m a productive programmer with a memory of a fruit fly",
-    "url": "https://hynek.me/articles/productive-fruit-fly-programmer/",
-    "upvotes": 472,
-    "author": "nalgeon",
-    "comments": 250,
-    "link": "https://news.ycombinator.com/item?id=32900164"
   },
   {
     "title": "Upcoming price and tax changes for apps and in-app purchases",
     "url": "https://developer.apple.com/news/?id=e1b1hcmv",
-    "upvotes": 14,
+    "upvotes": 18,
     "author": "thrdbndndn",
-    "comments": 5,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=32907963"
   },
   {
-    "title": "Jqp: A TUI playground for exploring jq",
+    "title": "I’m a productive programmer with a memory of a fruit fly",
+    "url": "https://hynek.me/articles/productive-fruit-fly-programmer/",
+    "upvotes": 477,
+    "author": "nalgeon",
+    "comments": 252,
+    "link": "https://news.ycombinator.com/item?id=32900164"
+  },
+  {
+    "title": "Jqp – A TUI playground for exploring jq",
     "url": "https://github.com/noahgorstein/jqp",
-    "upvotes": 117,
+    "upvotes": 124,
     "author": "Shank",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32905506"
   },
   {
-    "title": "Azure CTO: “It's time to halt starting any new projects in C/C++”",
+    "title": "It's time to halt starting any new projects in C/C++",
     "url": "https://twitter.com/markrussinovich/status/1571995117233504257",
-    "upvotes": 442,
+    "upvotes": 453,
     "author": "mustache_kimono",
-    "comments": 367,
+    "comments": 378,
     "link": "https://news.ycombinator.com/item?id=32905885"
   },
   {
     "title": "Nagorno-Karabakh’s Myth of Ancient Hatreds",
     "url": "https://www.historytoday.com/miscellanies/nagorno-karabakhs-myth-ancient-hatreds",
-    "upvotes": 29,
+    "upvotes": 31,
     "author": "diodorus",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32884130"
@@ -98,15 +98,15 @@
   {
     "title": "Caring for the only known full kākāpō feather cloak in the world",
     "url": "https://blog.britishmuseum.org/caring-for-the-only-known-full-kakapo-feather-cloak-in-the-world/",
-    "upvotes": 53,
+    "upvotes": 55,
     "author": "Thevet",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=32884191"
   },
   {
-    "title": "A game-theory take on ponzi schemes",
+    "title": "Game Theory and Winning at ponziFarm",
     "url": "https://blog.ponzifarm.com/blog/game-theory/",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "karmaniverous",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=32894322"
@@ -114,7 +114,7 @@
   {
     "title": "Automatic Differentiation in OCaml",
     "url": "https://codeberg.org/bit-fu/OCaml-AutomaticDifferentiation",
-    "upvotes": 35,
+    "upvotes": 36,
     "author": "tempodox",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32896519"
@@ -122,7 +122,7 @@
   {
     "title": "Sony's Nextorage Demos PCIe 5.0 SSD as It Enters SSD Market",
     "url": "https://www.tomshardware.com/news/sony-nextorage-pcie5-ssd-demoed",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "rbanffy",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32897524"
@@ -130,113 +130,113 @@
   {
     "title": "R. Crumb Means Some Offense",
     "url": "https://www.nytimes.com/2022/09/15/t-magazine/r-crumb.html",
-    "upvotes": 109,
+    "upvotes": 111,
     "author": "prismatic",
-    "comments": 69,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=32902491"
-  },
-  {
-    "title": "More US Employers Are Trapping Workers in a New Form of Indentured Servitude",
-    "url": "https://truthout.org/articles/more-us-employers-are-trapping-workers-in-a-new-form-of-indentured-servitude/",
-    "upvotes": 157,
-    "author": "metadat",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=32905728"
   },
   {
     "title": "What we learned after I deleted the main production database by mistake",
     "url": "https://medium.com/@hugo.oliveira.rocha/what-we-learned-after-i-deleted-the-main-production-database-by-mistake-13c0a5815de5",
-    "upvotes": 115,
+    "upvotes": 119,
     "author": "fernandopess1",
-    "comments": 90,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=32903367"
   },
   {
-    "title": "Public buses across country quietly adding microphones to record conversations",
-    "url": "https://www.wired.com/2012/12/public-bus-audio-surveillance/",
-    "upvotes": 124,
-    "author": "tarakat",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=32906538"
+    "title": "Ask HN: How do you switch between programming languages?",
+    "url": "item?id=32908160",
+    "upvotes": 8,
+    "author": "BrandoElFollito",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=32908160"
   },
   {
-    "title": "Boeing's 737 Max Software Outsourced to $9-an-Hour Engineers",
-    "url": "https://www.industryweek.com/supply-chain/article/22027840/boeings-737-max-software-outsourced-to-9anhour-engineers",
-    "upvotes": 83,
-    "author": "unknownaccount",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=32906789"
-  },
-  {
-    "title": "Apple is top funder of lobby group that says it represents small developers",
-    "url": "https://arstechnica.com/tech-policy/2022/09/apple-is-top-funder-of-lobby-group-that-says-it-represents-small-developers/",
-    "upvotes": 349,
-    "author": "commoner",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=32903064"
+    "title": "More US Employers Are Trapping Workers in a New Form of Indentured Servitude",
+    "url": "https://truthout.org/articles/more-us-employers-are-trapping-workers-in-a-new-form-of-indentured-servitude/",
+    "upvotes": 164,
+    "author": "metadat",
+    "comments": 115,
+    "link": "https://news.ycombinator.com/item?id=32905728"
   },
   {
     "title": "The Talent Vortex: Mafias and Magnets",
     "url": "https://investing1012dot0.substack.com/p/talent-vortex",
-    "upvotes": 8,
+    "upvotes": 10,
     "author": "herbertl",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32895246"
   },
   {
-    "title": "An opinionated guide to making friends",
-    "url": "https://blog.aadilali.com/posts/friends.html",
-    "upvotes": 56,
-    "author": "aadillpickle",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=32903606"
+    "title": "Public buses across country adding microphones to record conversations",
+    "url": "https://www.wired.com/2012/12/public-bus-audio-surveillance/",
+    "upvotes": 133,
+    "author": "tarakat",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=32906538"
   },
   {
-    "title": "Have scholars finally deciphered Linear Elamite?",
-    "url": "https://www.smithsonianmag.com/history/have-scholars-finally-deciphered-a-mysterious-ancient-script-180980497/",
-    "upvotes": 49,
-    "author": "Hooke",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=32888990"
+    "title": "Apple is top funder of lobby group that says it represents small developers",
+    "url": "https://arstechnica.com/tech-policy/2022/09/apple-is-top-funder-of-lobby-group-that-says-it-represents-small-developers/",
+    "upvotes": 361,
+    "author": "commoner",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=32903064"
   },
   {
     "title": "Why kids are afraid to ask for help",
     "url": "https://www.scientificamerican.com/article/why-kids-are-afraid-to-ask-for-help/",
-    "upvotes": 149,
+    "upvotes": 153,
     "author": "LinuxBender",
     "comments": 95,
     "link": "https://news.ycombinator.com/item?id=32899644"
   },
   {
+    "title": "An opinionated guide to making friends",
+    "url": "https://blog.aadilali.com/posts/friends.html",
+    "upvotes": 61,
+    "author": "aadillpickle",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=32903606"
+  },
+  {
+    "title": "Have scholars finally deciphered Linear Elamite?",
+    "url": "https://www.smithsonianmag.com/history/have-scholars-finally-deciphered-a-mysterious-ancient-script-180980497/",
+    "upvotes": 50,
+    "author": "Hooke",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=32888990"
+  },
+  {
     "title": "Postgres Data Flow",
     "url": "https://www.crunchydata.com/blog/postgres-data-flow",
-    "upvotes": 157,
+    "upvotes": 160,
     "author": "craigkerstiens",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32900123"
   },
   {
     "title": "Apple’s iPhone 14 Redesign for Repair",
     "url": "https://www.ifixit.com/News/64865/iphone-14-teardown",
-    "upvotes": 733,
+    "upvotes": 738,
     "author": "walterbell",
-    "comments": 462,
+    "comments": 467,
     "link": "https://news.ycombinator.com/item?id=32899494"
   },
   {
     "title": "AI Seamless Texture Generator Built-In to Blender",
     "url": "https://github.com/carson-katri/dream-textures",
-    "upvotes": 290,
+    "upvotes": 294,
     "author": "myth_drannon",
-    "comments": 78,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=32900797"
   },
   {
-    "title": "Ask HN: How do you switch between programming languages?",
-    "url": "item?id=32908160",
-    "upvotes": 4,
-    "author": "BrandoElFollito",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32908160"
+    "title": "I accidentally started a movement – Policing the Police by scraping court data",
+    "url": "item?id=32902945",
+    "upvotes": 538,
+    "author": "kristintynski",
+    "comments": 132,
+    "link": "https://news.ycombinator.com/item?id=32902945"
   }
 ]
