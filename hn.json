@@ -2,39 +2,39 @@
   {
     "title": "React I love you, but you're bringing me down",
     "url": "https://marmelab.com/blog/2022/09/20/react-i-love-you.html",
-    "upvotes": 226,
+    "upvotes": 289,
     "author": "fzaninotto",
-    "comments": 107,
+    "comments": 166,
     "link": "https://news.ycombinator.com/item?id=32911492"
+  },
+  {
+    "title": "Wasmtime 1.0",
+    "url": "https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready",
+    "upvotes": 56,
+    "author": "ridruejo",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=32913533"
   },
   {
     "title": "Just a reminder: In 2019 RX470 were $70, RX580 $100",
     "url": "https://postadio.com/PC_Master_Race/116620996134",
-    "upvotes": 189,
+    "upvotes": 211,
     "author": "albxxdx",
-    "comments": 158,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=32910993"
   },
   {
     "title": "What I’ve learned from users",
     "url": "http://paulgraham.com/users.html",
-    "upvotes": 175,
+    "upvotes": 190,
     "author": "sginn",
-    "comments": 74,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=32911195"
-  },
-  {
-    "title": "GeForce RTX 40 Series",
-    "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/",
-    "upvotes": 166,
-    "author": "capableweb",
-    "comments": 223,
-    "link": "https://news.ycombinator.com/item?id=32912953"
   },
   {
     "title": "DRUIDS by Datadog",
     "url": "https://druids.datadoghq.com/?ref=hackernews",
-    "upvotes": 146,
+    "upvotes": 150,
     "author": "fabianh001",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=32911549"
@@ -42,119 +42,135 @@
   {
     "title": "Cloudflare Beta",
     "url": "https://www.projecthoneypot.org/cloudflare_beta.html",
-    "upvotes": 45,
+    "upvotes": 53,
     "author": "O__________O",
-    "comments": 13,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32912584"
+  },
+  {
+    "title": "GeForce RTX 40 Series",
+    "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/",
+    "upvotes": 188,
+    "author": "capableweb",
+    "comments": 281,
+    "link": "https://news.ycombinator.com/item?id=32912953"
   },
   {
     "title": "European Court of Justice overturns German law on indiscriminate data retention",
     "url": "https://mailbox.org/en/post/european-court-of-justice-overturns-german-law-on-indiscriminate-data-retention",
-    "upvotes": 89,
+    "upvotes": 95,
     "author": "tyrion",
-    "comments": 64,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=32911247"
   },
   {
     "title": "Launch HN: Spinach.io (YC W22) – Better daily standups",
     "url": "item?id=32911232",
-    "upvotes": 87,
+    "upvotes": 97,
     "author": "talmi",
-    "comments": 58,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=32911232"
-  },
-  {
-    "title": "Wasmtime 1.0",
-    "url": "https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready",
-    "upvotes": 22,
-    "author": "ridruejo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32913533"
   },
   {
     "title": "Tell HN: Somebody implemented something I wrote a blog about",
     "url": "item?id=32911299",
-    "upvotes": 273,
+    "upvotes": 291,
     "author": "rexfuzzle",
-    "comments": 46,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=32911299"
   },
   {
-    "title": "Structured concurrency and Lua",
-    "url": "https://gist.github.com/belm0/4c6d11f47ccd31a231cde04616d6bb22",
-    "upvotes": 80,
-    "author": "marcobambini",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=32910719"
+    "title": "Learn how to unleash the full potential of the type system of TypeScript",
+    "url": "https://type-level-typescript.com/",
+    "upvotes": 34,
+    "author": "NeekGerd",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=32913125"
   },
   {
     "title": "GTK4 Bindings for Common Lisp",
     "url": "https://github.com/bohonghuang/cl-gtk4",
-    "upvotes": 11,
+    "upvotes": 20,
     "author": "oumua_don17",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32913301"
+  },
+  {
+    "title": "Structured concurrency and Lua",
+    "url": "https://gist.github.com/belm0/4c6d11f47ccd31a231cde04616d6bb22",
+    "upvotes": 82,
+    "author": "marcobambini",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32910719"
   },
   {
     "title": "Concise uBlock Origin Lite Description",
     "url": "https://github.com/gorhill/uBlock/blob/master/platform/mv3/description/en.md",
-    "upvotes": 30,
+    "upvotes": 38,
     "author": "bertman",
-    "comments": 5,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=32911640"
   },
   {
     "title": "You don’t want to be on Cloudflare’s naughty list",
     "url": "https://www.ctrl.blog/entry/cloudflare-ip-blockade.html",
-    "upvotes": 162,
+    "upvotes": 179,
     "author": "merlinscholz",
-    "comments": 87,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=32912075"
-  },
-  {
-    "title": "Gray386Linux – Linux for 386 Machines",
-    "url": "https://github.com/marmolak/gray386linux",
-    "upvotes": 21,
-    "author": "marmolak",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=32911953"
   },
   {
     "title": "Aerodynamics of Gravel Bikes",
     "url": "https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/",
-    "upvotes": 105,
+    "upvotes": 108,
     "author": "vinceroni",
-    "comments": 126,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=32909604"
+  },
+  {
+    "title": "Gray386Linux – Linux for 386 Machines",
+    "url": "https://github.com/marmolak/gray386linux",
+    "upvotes": 22,
+    "author": "marmolak",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=32911953"
+  },
+  {
+    "title": "JITX",
+    "url": "https://www.jitx.com/blog/series-a-announcement",
+    "upvotes": 14,
+    "author": "DHaldane",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32913443"
   },
   {
     "title": "Introductory-level educational COBOL materials with modern tooling",
     "url": "https://www.openmainframeproject.org/all-projects/cobolprogrammingcourse",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "mooreds",
-    "comments": 16,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=32910954"
   },
   {
     "title": "Cache your CORS",
     "url": "https://httptoolkit.tech/blog/cache-your-cors/",
-    "upvotes": 368,
+    "upvotes": 369,
     "author": "aloukissas",
-    "comments": 81,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=32907234"
   },
   {
-    "title": "Learn how to unleash the full potential of the type system of TypeScript",
-    "url": "https://type-level-typescript.com/",
-    "upvotes": 18,
-    "author": "NeekGerd",
+    "title": "The Vector Database Index: Who, what, why now, & how",
+    "url": "https://gradientflow.com/the-vector-database-index/",
+    "upvotes": 4,
+    "author": "lmeyerov",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32913125"
+    "link": "https://news.ycombinator.com/item?id=32914387"
   },
   {
     "title": "How to write sports commentary",
     "url": "https://www.gamedeveloper.com/audio/the-designer-s-notebook-how-to-write-sports-commentary",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "pncnmnp",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32896656"
@@ -162,10 +178,18 @@
   {
     "title": "FCC asked to probe US carriers locking handsets to networks",
     "url": "https://www.theregister.com/2022/09/20/fcc_phone_locking_public_knowledge/",
-    "upvotes": 58,
+    "upvotes": 68,
     "author": "ChrisArchitect",
-    "comments": 31,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=32912125"
+  },
+  {
+    "title": "Ask HN: How does your company handle late running projects?",
+    "url": "item?id=32911083",
+    "upvotes": 73,
+    "author": "jjdeveloper",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=32911083"
   },
   {
     "title": "UX Testing for Public Infrastructure",
@@ -176,6 +200,22 @@
     "link": "https://news.ycombinator.com/item?id=32911306"
   },
   {
+    "title": "'Extremely rare' Rameses II-era burial cave found in Israel",
+    "url": "https://phys.org/news/2022-09-extremely-rare-rameses-ii-era-burial.html",
+    "upvotes": 100,
+    "author": "rntn",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=32895810"
+  },
+  {
+    "title": "Hash collisions and exploitations – Instant MD5 collision",
+    "url": "https://github.com/corkami/collisions",
+    "upvotes": 72,
+    "author": "losfair",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=32910168"
+  },
+  {
     "title": "Filling the Gaps: Notes in the margins of early modern books",
     "url": "https://www.historytoday.com/archive/history-matters/filling-gaps",
     "upvotes": 5,
@@ -184,59 +224,19 @@
     "link": "https://news.ycombinator.com/item?id=32890188"
   },
   {
-    "title": "Ask HN: How does your company handle late running projects?",
-    "url": "item?id=32911083",
-    "upvotes": 60,
-    "author": "jjdeveloper",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=32911083"
-  },
-  {
     "title": "Diving deeper into custom PDF and ePub generation",
     "url": "https://nibblestew.blogspot.com/2022/09/diving-deeper-into-custom-pdf-and-epub.html",
-    "upvotes": 24,
+    "upvotes": 25,
     "author": "ingve",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32899463"
   },
   {
-    "title": "'Extremely rare' Rameses II-era burial cave found in Israel",
-    "url": "https://phys.org/news/2022-09-extremely-rare-rameses-ii-era-burial.html",
-    "upvotes": 94,
-    "author": "rntn",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=32895810"
-  },
-  {
-    "title": "Hash collisions and exploitations – Instant MD5 collision",
-    "url": "https://github.com/corkami/collisions",
-    "upvotes": 70,
-    "author": "losfair",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=32910168"
-  },
-  {
-    "title": "Changing Public Perception",
-    "url": "https://avc.com/2022/09/changing-public-perception/",
-    "upvotes": 12,
-    "author": "jger15",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=32896825"
-  },
-  {
     "title": "2000-Watt Society",
     "url": "https://en.wikipedia.org/wiki/2000-watt_society",
-    "upvotes": 145,
+    "upvotes": 154,
     "author": "privong",
-    "comments": 202,
+    "comments": 211,
     "link": "https://news.ycombinator.com/item?id=32899656"
-  },
-  {
-    "title": "JITX",
-    "url": "https://www.jitx.com/blog/series-a-announcement",
-    "upvotes": 3,
-    "author": "DHaldane",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32913443"
   }
 ]
