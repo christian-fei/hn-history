@@ -2,241 +2,237 @@
   {
     "title": "ZincSearch – lightweight alternative to Elasticsearch written in Go",
     "url": "https://zincsearch.com/",
-    "upvotes": 24,
+    "upvotes": 51,
     "author": "drakerossman",
-    "comments": 4,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32938304"
+  },
+  {
+    "title": "Facebook sued for skirting Apple privacy rules to snoop on users",
+    "url": "https://www.bloomberg.com/news/articles/2022-09-22/meta-sued-for-skirting-apple-privacy-rules-to-snoop-on-users",
+    "upvotes": 64,
+    "author": "JumpCrisscross",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=32937710"
+  },
+  {
+    "title": "C++ by Example",
+    "url": "https://cppbyexample.com",
+    "upvotes": 32,
+    "author": "synergy20",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32938135"
   },
   {
     "title": "Bitmap Indexes in Go: Search Speed",
     "url": "https://habr.com/en/company/badoo/blog/455608/",
-    "upvotes": 35,
+    "upvotes": 47,
     "author": "kordlessagain",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=32937930"
   },
   {
     "title": "The origin of the strong form of superconductivity",
     "url": "https://www.quantamagazine.org/high-temperature-superconductivity-understood-at-last-20220921/",
-    "upvotes": 26,
+    "upvotes": 34,
     "author": "nsoonhui",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32937828"
   },
   {
-    "title": "C++ by Example",
-    "url": "https://cppbyexample.com",
+    "title": "Wasp",
+    "url": "item?id=32938880"
+  },
+  {
+    "title": "First new Jakarta EE",
+    "url": "https://jakarta.ee/news/jakarta-ee-10-released/",
     "upvotes": 13,
-    "author": "synergy20",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32938135"
-  },
-  {
-    "title": "HP Saturn",
-    "url": "https://en.wikipedia.org/wiki/HP_Saturn",
-    "upvotes": 74,
-    "author": "PaulHoule",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=32919896"
-  },
-  {
-    "title": "Facebook sued for skirting Apple privacy rules to snoop on users",
-    "url": "https://www.bloomberg.com/news/articles/2022-09-22/meta-sued-for-skirting-apple-privacy-rules-to-snoop-on-users",
-    "upvotes": 17,
-    "author": "JumpCrisscross",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32937710"
+    "author": "henk53",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32938457"
   },
   {
     "title": "Censorship by big tech at the behest of the U.S. government",
     "url": "https://www.tabletmag.com/sections/arts-letters/articles/government-privatized-censorship-regime",
-    "upvotes": 42,
+    "upvotes": 83,
     "author": "dilap",
-    "comments": 3,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=32938305"
+  },
+  {
+    "title": "Google loses EU appeal and is fined a record $4B",
+    "url": "https://www.axios.com/2022/09/14/google-loses-appeal-eu-antitrust-ruling",
+    "upvotes": 51,
+    "author": "april_22",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=32938589"
+  },
+  {
+    "title": "HP Saturn",
+    "url": "https://en.wikipedia.org/wiki/HP_Saturn",
+    "upvotes": 79,
+    "author": "PaulHoule",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=32919896"
   },
   {
     "title": "Chainalysis: A startup that helps governments trace crypto",
     "url": "https://www.bloomberg.com/news/articles/2022-09-21/crypto-tracer-chainalysis-busts-bitcoin-btc-anonymity",
-    "upvotes": 14,
+    "upvotes": 23,
     "author": "helsinkiandrew",
-    "comments": 6,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=32937876"
   },
   {
     "title": "The Strid: The ‘deadliest stretch of water’",
     "url": "https://the-yorkshireman.com/the-strid/",
-    "upvotes": 312,
+    "upvotes": 319,
     "author": "Exuma",
-    "comments": 139,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=32933603"
-  },
-  {
-    "title": "Olive.c: a simple graphics library that does not have any dependencies",
-    "url": "https://tsoding.org/olive.c/",
-    "upvotes": 410,
-    "author": "masterofsome",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=32932631"
-  },
-  {
-    "title": "Show HN: Rocketry – Statement-based scheduling framework for Python",
-    "url": "https://github.com/Miksus/rocketry",
-    "upvotes": 114,
-    "author": "Miksus",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=32935506"
-  },
-  {
-    "title": "I came up with a better way to communicate with users",
-    "url": "item?id=32937523",
-    "upvotes": 19,
-    "author": "atomiomi",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=32937523"
   },
   {
     "title": "System memory allocator free operation zeroes out deallocated blocks in iOS 16",
     "url": "https://mjtsai.com/blog/2022/09/20/zeroing-freed-memory/",
-    "upvotes": 23,
+    "upvotes": 34,
     "author": "ingve",
-    "comments": 14,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=32921910"
   },
   {
-    "title": "First new Jakarta EE",
-    "url": "https://jakarta.ee/news/jakarta-ee-10-released/",
-    "upvotes": 4,
-    "author": "henk53",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32938457"
+    "title": "Show HN: Rocketry – Statement-based scheduling framework for Python",
+    "url": "https://github.com/Miksus/rocketry",
+    "upvotes": 116,
+    "author": "Miksus",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=32935506"
   },
   {
-    "title": "If the Moon Were Only 1 Pixel",
-    "url": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
-    "upvotes": 182,
-    "author": "matesz",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=32936581"
+    "title": "A Long-Haul Flight with No Breaks or Meals: The Godwit’s Epic Journey",
+    "url": "https://www.nytimes.com/2022/09/20/science/migratory-birds-godwits.html",
+    "upvotes": 13,
+    "author": "pseudolus",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32917730"
   },
   {
     "title": "Lockfree Algorithms",
     "url": "https://www.1024cores.net/home/lock-free-algorithms",
-    "upvotes": 68,
+    "upvotes": 72,
     "author": "luu",
-    "comments": 19,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=32918043"
   },
   {
     "title": "As unrest grows, Iran restricts access to Instagram, WhatsApp",
     "url": "https://www.reuters.com/world/middle-east/iran-restricts-access-instagram-netblocks-2022-09-21/",
-    "upvotes": 158,
+    "upvotes": 176,
     "author": "perihelions",
-    "comments": 86,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=32934936"
   },
   {
-    "title": "A Long-Haul Flight with No Breaks or Meals: The Godwit’s Epic Journey",
-    "url": "https://www.nytimes.com/2022/09/20/science/migratory-birds-godwits.html",
-    "upvotes": 6,
-    "author": "pseudolus",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32917730"
-  },
-  {
-    "title": "Google loses EU appeal and is fined a record $4B",
-    "url": "https://www.axios.com/2022/09/14/google-loses-appeal-eu-antitrust-ruling",
-    "upvotes": 10,
-    "author": "april_22",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32938589"
+    "title": "If the Moon Were Only 1 Pixel",
+    "url": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
+    "upvotes": 186,
+    "author": "matesz",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=32936581"
   },
   {
     "title": "Whisper – open source speech recognition by OpenAI",
     "url": "https://openai.com/blog/whisper/",
-    "upvotes": 1447,
+    "upvotes": 1459,
     "author": "_just7_",
-    "comments": 422,
+    "comments": 423,
     "link": "https://news.ycombinator.com/item?id=32927360"
-  },
-  {
-    "title": "The IT Crowd US Pilot",
-    "url": "https://archive.org/details/the-it-crowd-us-pilot",
-    "upvotes": 264,
-    "author": "capableweb",
-    "comments": 233,
-    "link": "https://news.ycombinator.com/item?id=32932438"
   },
   {
     "title": "Ditto: Real-time sync for apps even without the internet",
     "url": "https://www.ditto.live/",
-    "upvotes": 66,
+    "upvotes": 70,
     "author": "haraldooo",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32934849"
   },
   {
-    "title": "Using a Canon EOS camera as a webcam in Debian",
-    "url": "https://www.schlachter.xyz/projects/debian-dslr-webcam-with-secure-boot",
-    "upvotes": 155,
-    "author": "dddddaviddddd",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=32932643"
+    "title": "I came up with a better way to communicate with users",
+    "url": "item?id=32937523",
+    "upvotes": 28,
+    "author": "atomiomi",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=32937523"
   },
   {
-    "title": "Engine makers sound downbeat on supersonic, leaving Boom in a bind",
-    "url": "https://www.flightglobal.com/airframers/engine-makers-sound-downbeat-on-supersonic-leaving-boom-in-a-bind/150215.article",
-    "upvotes": 19,
-    "author": "kejaed",
+    "title": "The Next Silicon Valley Will Be in the US Heartland",
+    "url": "https://www.wired.com/story/the-next-silicon-valley-will-be-in-the-us-heartlands/",
+    "upvotes": 15,
+    "author": "mikece",
     "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=32937736"
+    "link": "https://news.ycombinator.com/item?id=32938467"
   },
   {
-    "title": "Museums on prescription: Brussels tests cultural visits to treat anxiety",
-    "url": "https://www.theguardian.com/world/2022/sep/17/museums-on-prescription-brussels-tests-cultural-visits-to-treat-anxiety",
-    "upvotes": 102,
-    "author": "laurex",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=32923567"
+    "title": "Olive.c: a simple graphics library that does not have any dependencies",
+    "url": "https://tsoding.org/olive.c/",
+    "upvotes": 413,
+    "author": "masterofsome",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=32932631"
   },
   {
     "title": "How memory design optimizes system performance",
     "url": "https://semiengineering.com/how-memory-design-optimizes-system-performance/",
-    "upvotes": 30,
+    "upvotes": 31,
     "author": "PaulHoule",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=32925582"
   },
   {
-    "title": "The Next Silicon Valley Will Be in the US Heartland",
-    "url": "https://www.wired.com/story/the-next-silicon-valley-will-be-in-the-us-heartlands/",
-    "upvotes": 6,
-    "author": "mikece",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32938467"
+    "title": "Museums on prescription: Brussels tests cultural visits to treat anxiety",
+    "url": "https://www.theguardian.com/world/2022/sep/17/museums-on-prescription-brussels-tests-cultural-visits-to-treat-anxiety",
+    "upvotes": 105,
+    "author": "laurex",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=32923567"
   },
   {
     "title": "So You Want to Compete with Steam",
     "url": "https://www.fortressofdoors.com/so-you-want-to-compete-with-steam/",
-    "upvotes": 141,
+    "upvotes": 150,
     "author": "wetpaws",
-    "comments": 217,
+    "comments": 225,
     "link": "https://news.ycombinator.com/item?id=32935290"
   },
   {
-    "title": "The Big Bang should have made cracks in spacetime–why haven’t we found them?",
-    "url": "https://arstechnica.com/science/2022/09/the-big-bang-should-have-made-cracks-in-spacetime-why-havent-we-found-them/",
-    "upvotes": 56,
-    "author": "LinuxBender",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=32926273"
+    "title": "Engine makers sound downbeat on supersonic, leaving Boom in a bind",
+    "url": "https://www.flightglobal.com/airframers/engine-makers-sound-downbeat-on-supersonic-leaving-boom-in-a-bind/150215.article",
+    "upvotes": 20,
+    "author": "kejaed",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=32937736"
   },
   {
     "title": "Mapping the unknown – Steps to map any industry",
     "url": "https://steveblank.com/2022/09/20/mapping-the-unknown-the-ten-steps-to-map-any-industry/",
-    "upvotes": 108,
+    "upvotes": 110,
     "author": "sblank",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32915207"
+  },
+  {
+    "title": "AWS vs. GCP reliability is wildly different",
+    "url": "https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different",
+    "upvotes": 495,
+    "author": "icyfox",
+    "comments": 212,
+    "link": "https://news.ycombinator.com/item?id=32931096"
+  },
+  {
+    "title": "Watching 'Spirited Away' again, and again",
+    "url": "https://www.theatlantic.com/culture/archive/2022/09/rewatching-spirited-away-hayao-miyazaki/671486/",
+    "upvotes": 238,
+    "author": "ecliptik",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=32918849"
   }
 ]
