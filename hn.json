@@ -1,50 +1,58 @@
 [
   {
+    "title": "The image in this post displays its own MD5 hash",
+    "url": "https://retr0.id/notice/ANqlvFZD1eIqjmRiFc",
+    "upvotes": 99,
+    "author": "kstrauser",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32956964"
+  },
+  {
     "title": "Software I’m thankful for",
     "url": "https://crawshaw.io/blog/thankful-for-technology",
-    "upvotes": 454,
+    "upvotes": 469,
     "author": "yarapavan",
-    "comments": 295,
+    "comments": 309,
     "link": "https://news.ycombinator.com/item?id=32953732"
   },
   {
-    "title": "The image in this post displays its own MD5 hash",
-    "url": "https://retr0.id/notice/ANqlvFZD1eIqjmRiFc",
-    "upvotes": 26,
-    "author": "kstrauser",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32956964"
+    "title": "'Securing Open Source Software Act' introduced to US Senate",
+    "url": "https://www.hsgac.senate.gov/media/majority-media/peters-and-portman-introduce-bipartisan-legislation-to-help-secure-open-source-software_",
+    "upvotes": 44,
+    "author": "di",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=32956218"
   },
   {
     "title": "Shasta: AI-powered audio recording and editing",
     "url": "https://pages.adobe.com/shasta/",
-    "upvotes": 45,
+    "upvotes": 51,
     "author": "nonoesp",
-    "comments": 17,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=32956013"
-  },
-  {
-    "title": "Be critical or be corrupted",
-    "url": "https://www.cenizal.com/be-critical-or-be-corrupted/",
-    "upvotes": 186,
-    "author": "kiyanwang",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=32953111"
   },
   {
     "title": "Algorithms and data structures implemented in many programming languages",
     "url": "https://the-algorithms.com/",
-    "upvotes": 26,
+    "upvotes": 34,
     "author": "feross",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=32956401"
+  },
+  {
+    "title": "Be critical or be corrupted",
+    "url": "https://www.cenizal.com/be-critical-or-be-corrupted/",
+    "upvotes": 190,
+    "author": "kiyanwang",
+    "comments": 141,
+    "link": "https://news.ycombinator.com/item?id=32953111"
   },
   {
     "title": "The road to Zettalinux",
     "url": "https://lwn.net/SubscriberLink/908026/6284e31d9060a6ec/",
-    "upvotes": 260,
+    "upvotes": 262,
     "author": "rwmj",
-    "comments": 156,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=32950988"
   },
   {
@@ -52,73 +60,65 @@
     "url": "https://replit.com/careers"
   },
   {
-    "title": "'Securing Open Source Software Act' Introduced to US Senate",
-    "url": "https://www.hsgac.senate.gov/media/majority-media/peters-and-portman-introduce-bipartisan-legislation-to-help-secure-open-source-software_",
-    "upvotes": 29,
-    "author": "di",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=32956218"
-  },
-  {
-    "title": "LXC and LXD: a different container story",
-    "url": "https://lwn.net/Articles/907613/",
-    "upvotes": 117,
-    "author": "zekrioca",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=32953225"
+    "title": "Show HN: Ezno, a type checker for JavaScript and optimiser for React",
+    "url": "https://kaleidawave.github.io/posts/introducing-ezno/",
+    "upvotes": 15,
+    "author": "kaleidawave",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=32941613"
   },
   {
     "title": "Mozilla claims Apple, Google and Microsoft force users to use default browsers",
     "url": "https://www.techradar.com/news/mozilla-claims-apple-google-and-microsoft-force-users-to-use-default-web-browsers",
-    "upvotes": 144,
+    "upvotes": 165,
     "author": "mikece",
-    "comments": 101,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=32955971"
   },
   {
-    "title": "OCaml Exercises",
-    "url": "https://ocaml.org/problems",
-    "upvotes": 78,
-    "author": "wazbug",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=32954517"
+    "title": "LXC and LXD: a different container story",
+    "url": "https://lwn.net/Articles/907613/",
+    "upvotes": 120,
+    "author": "zekrioca",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=32953225"
   },
   {
-    "title": "A collection of several hundred online tools for OSINT",
-    "url": "https://github.com/cipher387/osint_stuff_tool_collection",
-    "upvotes": 172,
-    "author": "bj-rn",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=32951406"
+    "title": "Financing offshore wind",
+    "url": "https://jeromeaparis.substack.com/p/financing-offshore-wind-part-1",
+    "upvotes": 16,
+    "author": "guerby",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32926463"
+  },
+  {
+    "title": "Langcc: A Next-Generation Compiler Compiler",
+    "url": "https://github.com/jzimmerman/langcc",
+    "upvotes": 39,
+    "author": "mpweiher",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32949019"
   },
   {
     "title": "The journey to Nintendo Switch",
     "url": "https://factorio.com/blog/post/fff-370",
-    "upvotes": 274,
+    "upvotes": 279,
     "author": "snthueoa",
-    "comments": 118,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=32950442"
   },
   {
-    "title": "60 Knights Paused a War to Fight a Battle Royale Death Match",
+    "title": "60 knights paused a war to fight a battle royale",
     "url": "https://www.historynet.com/60-knights-death-match/",
-    "upvotes": 61,
+    "upvotes": 65,
     "author": "drdee",
-    "comments": 40,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=32932429"
-  },
-  {
-    "title": "Ezno: a new TypeScript compiler",
-    "url": "https://kaleidawave.github.io/posts/introducing-ezno/",
-    "upvotes": 197,
-    "author": "bpierre",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=32950500"
   },
   {
     "title": "Xlskubectl – a spreadsheet to control your Kubernetes cluster",
     "url": "https://github.com/learnk8s/xlskubectl",
-    "upvotes": 73,
+    "upvotes": 76,
     "author": "jhoelzel",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=32953332"
@@ -126,113 +126,113 @@
   {
     "title": "Wails v2 Released",
     "url": "https://wails.io/blog/wails-v2-released/",
-    "upvotes": 191,
+    "upvotes": 196,
     "author": "synergy20",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=32953811"
   },
   {
     "title": "Are You Ready for the Internet?",
     "url": "https://www.youtube.com/watch?v=XpZ5STahhPE",
-    "upvotes": 177,
+    "upvotes": 182,
     "author": "sintax",
-    "comments": 150,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=32950178"
   },
   {
-    "title": "MD5 Collision with CRC32 Preimage",
-    "url": "https://gist.github.com/DavidBuchanan314/a15e93eeaaad977a0fec3a6232c0b8ae",
-    "upvotes": 21,
-    "author": "Retr0id",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32956235"
+    "title": "Emmanuel Mignot wins Breakthrough Prize for discovering cause of narcolepsy",
+    "url": "https://med.stanford.edu/news/all-news/2022/09/emmanuel-mignot-wins-breakthrough-prize-for-discovering-cause-of.html",
+    "upvotes": 18,
+    "author": "crescit_eundo",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32954156"
   },
   {
-    "title": "Financing offshore wind",
-    "url": "https://jeromeaparis.substack.com/p/financing-offshore-wind",
-    "upvotes": 8,
-    "author": "guerby",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32926463"
+    "title": "The Blood Collages of John Bingley Garland",
+    "url": "https://publicdomainreview.org/collection/garland-blood-collages/",
+    "upvotes": 5,
+    "author": "lermontov",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32939657"
+  },
+  {
+    "title": "All about that grain",
+    "url": "https://www.fxhash.xyz/article/all-about-that-grain",
+    "upvotes": 5,
+    "author": "bpierre",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32952538"
+  },
+  {
+    "title": "Charging cars at home at night is not the way to go: study",
+    "url": "https://news.stanford.edu/press/view/45245",
+    "upvotes": 56,
+    "author": "hhs",
+    "comments": 207,
+    "link": "https://news.ycombinator.com/item?id=32952814"
+  },
+  {
+    "title": "Fly.io makes infrastructure easy for developers",
+    "url": "https://blog.chiselstrike.com/fly-io-makes-infrastructure-easy-for-us-developers-63081d4d0476",
+    "upvotes": 122,
+    "author": "penberg",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=32951363"
+  },
+  {
+    "title": "High System Load with Low CPU Utilization on Linux?",
+    "url": "https://tanelpoder.com/posts/high-system-load-low-cpu-utilization-on-linux/",
+    "upvotes": 56,
+    "author": "tanelpoder",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=32936588"
+  },
+  {
+    "title": "Balancing “If it ain’t broke, don’t fix it” vs. “Release early and often”",
+    "url": "https://www.redhat.com/en/blog/balancing-if-it-aint-broke-dont-fix-it-vs-release-early-and-often",
+    "upvotes": 96,
+    "author": "yarapavan",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=32950811"
+  },
+  {
+    "title": "Show HN: MathB.in – Mathematics pastebin written in Common Lisp",
+    "url": "https://github.com/susam/mathb",
+    "upvotes": 105,
+    "author": "susam",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32950465"
   },
   {
     "title": "“Durable Computronics”",
     "url": "https://github.com/otherjoel/durable-computronics",
     "upvotes": 40,
     "author": "velcrovan",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=32953648"
-  },
-  {
-    "title": "Fly.io makes infrastructure easy for developers",
-    "url": "https://blog.chiselstrike.com/fly-io-makes-infrastructure-easy-for-us-developers-63081d4d0476",
-    "upvotes": 118,
-    "author": "penberg",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=32951363"
-  },
-  {
-    "title": "Balancing “If it ain’t broke, don’t fix it” vs. “Release early and often”",
-    "url": "https://www.redhat.com/en/blog/balancing-if-it-aint-broke-dont-fix-it-vs-release-early-and-often",
-    "upvotes": 95,
-    "author": "yarapavan",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=32950811"
-  },
-  {
-    "title": "The modern way for troubleshooting high Linux system load",
-    "url": "https://tanelpoder.com/posts/high-system-load-low-cpu-utilization-on-linux/",
-    "upvotes": 53,
-    "author": "tanelpoder",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=32936588"
-  },
-  {
-    "title": "Show HN: MathB.in – Mathematics pastebin written in Common Lisp",
-    "url": "https://github.com/susam/mathb",
-    "upvotes": 104,
-    "author": "susam",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=32950465"
   },
   {
     "title": "Nightdrive",
     "url": "https://incoherency.co.uk/blog/stories/nightdrive.html",
-    "upvotes": 1237,
+    "upvotes": 1250,
     "author": "GeorgeHahn",
-    "comments": 228,
+    "comments": 229,
     "link": "https://news.ycombinator.com/item?id=32947303"
   },
   {
     "title": "Show HN: TwitterToNitter. A bookmarklet that makes reading on Twitter easier",
     "url": "https://github.com/no-gravity/TwitterToNitter",
-    "upvotes": 58,
+    "upvotes": 60,
     "author": "mg",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=32951457"
   },
   {
-    "title": "The Dial Toner – color dial hex code keypad",
-    "url": "https://twitter.com/gvy_dvpont/status/1569807637637922819",
-    "upvotes": 42,
-    "author": "zdw",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32924950"
-  },
-  {
-    "title": "Ask HN: Ads triggered by WhatsApp “end to end encrypted” messages",
-    "url": "item?id=32950204",
-    "upvotes": 356,
-    "author": "rreyes1979",
-    "comments": 408,
-    "link": "https://news.ycombinator.com/item?id=32950204"
-  },
-  {
-    "title": "Should you trust your gut?",
-    "url": "https://www.vox.com/even-better/23338680/instincts-happiness-data-seth-stephens-davidowitz",
-    "upvotes": 42,
-    "author": "abhaynayar",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=32926581"
+    "title": "OCaml Exercises",
+    "url": "https://ocaml.org/problems",
+    "upvotes": 79,
+    "author": "wazbug",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=32954517"
   }
 ]
