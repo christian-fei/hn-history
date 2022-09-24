@@ -2,15 +2,15 @@
   {
     "title": "Linux on the laptop works so damn well that it’s boring",
     "url": "https://clivethompson.medium.com/linux-on-the-laptop-works-so-damn-well-that-its-boring-29014b347941",
-    "upvotes": 123,
+    "upvotes": 180,
     "author": "tonystubblebine",
-    "comments": 129,
+    "comments": 196,
     "link": "https://news.ycombinator.com/item?id=32964519"
   },
   {
     "title": "Free Book: Linux IP Stacks Commentary Annotates TCP/IP Code",
     "url": "https://www.satchell.net/ipstacks/",
-    "upvotes": 39,
+    "upvotes": 57,
     "author": "ohjeez",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32964278"
@@ -18,67 +18,59 @@
   {
     "title": "Artist matches influencer photos with surveillance footage",
     "url": "https://www.smithsonianmag.com/smart-news/the-followers-influencer-photos-surveillance-footage-180980825/",
-    "upvotes": 149,
+    "upvotes": 160,
     "author": "pseudolus",
-    "comments": 61,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=32962494"
-  },
-  {
-    "title": "GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images",
-    "url": "https://nv-tlabs.github.io/GET3D/",
-    "upvotes": 82,
-    "author": "lnyan",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=32962581"
   },
   {
     "title": "Run SQL on CSV, Parquet, JSON, Arrow, Unix Pipes and Google Sheet",
     "url": "https://github.com/roapi/roapi/blob/main/columnq-cli/README.md",
-    "upvotes": 35,
+    "upvotes": 53,
     "author": "houqp",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=32963900"
   },
   {
-    "title": "Want cleaner code? Use the rule of six",
-    "url": "https://davidamos.dev/the-rule-of-six/",
-    "upvotes": 102,
-    "author": "da12",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=32963021"
+    "title": "GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images",
+    "url": "https://nv-tlabs.github.io/GET3D/",
+    "upvotes": 91,
+    "author": "lnyan",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=32962581"
   },
   {
     "title": "Vulhub: Pre-Built Vulnerable Environments Based on Docker-Compose",
     "url": "https://github.com/vulhub/vulhub",
-    "upvotes": 35,
+    "upvotes": 39,
     "author": "nateb2022",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32963636"
+  },
+  {
+    "title": "Software engineering changed my life",
+    "url": "https://technicallychallenged.substack.com/p/software-engineering-changed-my-life",
+    "upvotes": 22,
+    "author": "koinedad",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32964192"
+  },
+  {
+    "title": "Homemade Heat Pump Manifesto",
+    "url": "https://ecorenovator.org/forum/showthread.php?p=2631#post2631",
+    "upvotes": 384,
+    "author": "walterbell",
+    "comments": 175,
+    "link": "https://news.ycombinator.com/item?id=32959850"
   },
   {
     "title": "SafeBeat Rx",
     "url": "https://www.ycombinator.com/companies/safebeat-rx/jobs/1w9mM9v-research-scientist-post-doctoral-position"
   },
   {
-    "title": "Software engineering changed my life",
-    "url": "https://technicallychallenged.substack.com/p/software-engineering-changed-my-life",
-    "upvotes": 12,
-    "author": "koinedad",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32964192"
-  },
-  {
-    "title": "Homemade Heat Pump Manifesto",
-    "url": "https://ecorenovator.org/forum/showthread.php?p=2631#post2631",
-    "upvotes": 378,
-    "author": "walterbell",
-    "comments": 173,
-    "link": "https://news.ycombinator.com/item?id=32959850"
-  },
-  {
     "title": "Show HN: Jot: Rapid note management for the terminal, inspired by Obsidian",
     "url": "https://github.com/araekiel/jot",
-    "upvotes": 36,
+    "upvotes": 44,
     "author": "araekiel",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=32962524"
@@ -86,34 +78,82 @@
   {
     "title": "Whois: Fragile, Unparseable, Obsolete",
     "url": "https://www.netmeister.org/blog/whois.html",
-    "upvotes": 32,
+    "upvotes": 37,
     "author": "ementally",
-    "comments": 10,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32963417"
   },
   {
-    "title": "MicroVAX 78032",
-    "url": "https://en.wikipedia.org/wiki/MicroVAX_78032",
-    "upvotes": 21,
-    "author": "amacbride",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=32962517"
+    "title": "Want cleaner code? Use the rule of six",
+    "url": "https://davidamos.dev/the-rule-of-six/",
+    "upvotes": 115,
+    "author": "da12",
+    "comments": 135,
+    "link": "https://news.ycombinator.com/item?id=32963021"
+  },
+  {
+    "title": "Plug a guitar in your C64 and use it as a wah pedal",
+    "url": "https://www.orastron.com/asid",
+    "upvotes": 12,
+    "author": "stefanorastron",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32949568"
   },
   {
     "title": "VToonify: Controllable High-Resolution Portrait Video Style Transfer",
     "url": "https://www.mmlab-ntu.com/project/vtoonify/",
-    "upvotes": 35,
+    "upvotes": 38,
     "author": "lnyan",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=32962616"
+  },
+  {
+    "title": "MicroVAX 78032",
+    "url": "https://en.wikipedia.org/wiki/MicroVAX_78032",
+    "upvotes": 23,
+    "author": "amacbride",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=32962517"
   },
   {
     "title": "Aging programmer",
     "url": "https://world.hey.com/jorge/aging-programmer-d448bdec",
-    "upvotes": 291,
+    "upvotes": 312,
     "author": "nomdep",
-    "comments": 187,
+    "comments": 205,
     "link": "https://news.ycombinator.com/item?id=32961933"
+  },
+  {
+    "title": "Volvo is using Rust for its in-vehicle software",
+    "url": "https://medium.com/volvo-cars-engineering/why-volvo-thinks-you-should-have-rust-in-your-car-4320bd639e09",
+    "upvotes": 391,
+    "author": "georgehill",
+    "comments": 228,
+    "link": "https://news.ycombinator.com/item?id=32960768"
+  },
+  {
+    "title": "3dfx Voodoo 5 6000 recreated via reverse engineering",
+    "url": "https://hexus.net/tech/news/graphics/147447-3dfx-voodoo-5-6000-recreated-via-reverse-engineering/",
+    "upvotes": 150,
+    "author": "userbinator",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=32960140"
+  },
+  {
+    "title": "The Case of the Disputed Lucian Freud",
+    "url": "https://www.newyorker.com/magazine/2022/09/26/the-case-of-the-disputed-lucian-freud",
+    "upvotes": 4,
+    "author": "prismatic",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32942127"
+  },
+  {
+    "title": "Pompeian Group Therapy",
+    "url": "https://www.lrb.co.uk/the-paper/v44/n18/nora-goldschmidt/pompeian-group-therapy",
+    "upvotes": 15,
+    "author": "Caiero",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=32934239"
   },
   {
     "title": "Breaking into English",
@@ -132,107 +172,67 @@
     "link": "https://news.ycombinator.com/item?id=32939657"
   },
   {
-    "title": "Volvo is using Rust for its in-vehicle software",
-    "url": "https://medium.com/volvo-cars-engineering/why-volvo-thinks-you-should-have-rust-in-your-car-4320bd639e09",
-    "upvotes": 381,
-    "author": "georgehill",
-    "comments": 225,
-    "link": "https://news.ycombinator.com/item?id=32960768"
+    "title": "Silphion: a miracle plant thought to be eaten into extinction 2k years ago",
+    "url": "https://www.nationalgeographic.com/history/article/miracle-plant-eaten-extinction-2000-years-ago-silphion",
+    "upvotes": 119,
+    "author": "p4bl0",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=32958252"
   },
   {
-    "title": "Pompeian Group Therapy",
-    "url": "https://www.lrb.co.uk/the-paper/v44/n18/nora-goldschmidt/pompeian-group-therapy",
-    "upvotes": 14,
-    "author": "Caiero",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32934239"
-  },
-  {
-    "title": "3dfx Voodoo 5 6000 recreated via reverse engineering",
-    "url": "https://hexus.net/tech/news/graphics/147447-3dfx-voodoo-5-6000-recreated-via-reverse-engineering/",
-    "upvotes": 148,
-    "author": "userbinator",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=32960140"
-  },
-  {
-    "title": "Plug a guitar in your C64 and use it as a wah pedal",
-    "url": "https://www.orastron.com/asid",
-    "upvotes": 6,
-    "author": "stefanorastron",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32949568"
+    "title": "Airships Rise Again",
+    "url": "https://www.smithsonianmag.com/air-space-magazine/airships-rise-again-180979343/",
+    "upvotes": 44,
+    "author": "DoreenMichele",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=32934121"
   },
   {
     "title": "Fitbit users will have to sign into Google from 2023",
     "url": "https://www.theregister.com/2022/09/23/fitbit_accounts_to_be_replaced/",
-    "upvotes": 70,
+    "upvotes": 80,
     "author": "LinuxBender",
-    "comments": 39,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=32963273"
   },
   {
     "title": "IBM AIX for IA64",
     "url": "https://virtuallyfun.com/wordpress/2022/09/24/ibm-aix-for-ia64-itanium-aka-project-monterey-runs-again/",
-    "upvotes": 56,
+    "upvotes": 57,
     "author": "merlinscholz",
-    "comments": 45,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=32961218"
-  },
-  {
-    "title": "Airships Rise Again",
-    "url": "https://www.smithsonianmag.com/air-space-magazine/airships-rise-again-180979343/",
-    "upvotes": 40,
-    "author": "DoreenMichele",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=32934121"
-  },
-  {
-    "title": "Silphion: a miracle plant thought to be eaten into extinction 2k years ago",
-    "url": "https://www.nationalgeographic.com/history/article/miracle-plant-eaten-extinction-2000-years-ago-silphion",
-    "upvotes": 112,
-    "author": "p4bl0",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=32958252"
   },
   {
     "title": "Mozilla reaffirms that Firefox will continue to support current content blockers",
     "url": "https://www.ghacks.net/2022/09/24/mozilla-reaffirms-that-firefox-will-continue-to-support-current-content-blockers/",
-    "upvotes": 404,
+    "upvotes": 419,
     "author": "bj-rn",
     "comments": 131,
     "link": "https://news.ycombinator.com/item?id=32960833"
   },
   {
-    "title": "TikTok’s Ugly ‘NPC in Real Life’ Trend",
-    "url": "https://kotaku.com/tiktok-npc-in-real-life-trend-twitter-gen-z-video-games-1849575169",
-    "upvotes": 26,
-    "author": "rocketbop",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=32964433"
-  },
-  {
     "title": "Plastic Eating Mushrooms",
     "url": "https://www.colorado.edu/ecenter/2021/11/04/plastic-eating-mushrooms",
-    "upvotes": 73,
+    "upvotes": 76,
     "author": "DoreenMichele",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=32934045"
-  },
-  {
-    "title": "Cats and the Laws of Physics",
-    "url": "https://www.theatlantic.com/science/archive/2022/09/falling-dropped-cat-reflex-physics/671424/",
-    "upvotes": 20,
-    "author": "silt",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=32960879"
   },
   {
     "title": "Burrows–Wheeler Transform",
     "url": "https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform",
-    "upvotes": 123,
+    "upvotes": 127,
     "author": "bshanks",
-    "comments": 38,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=32927886"
+  },
+  {
+    "title": "Cats and the Laws of Physics",
+    "url": "https://www.theatlantic.com/science/archive/2022/09/falling-dropped-cat-reflex-physics/671424/",
+    "upvotes": 23,
+    "author": "silt",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32960879"
   }
 ]
