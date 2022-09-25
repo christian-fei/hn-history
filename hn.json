@@ -1,64 +1,80 @@
 [
   {
+    "title": "Google: C++20, How Hard Could It Be",
+    "url": "https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n0ug/edit?usp=sharing&resourcekey=0-GH5F3wdP7D4dmxvLdBaMvw",
+    "upvotes": 33,
+    "author": "pyler",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=32969957"
+  },
+  {
     "title": "The MIPS ThinkPad, Kind Of",
     "url": "http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html",
-    "upvotes": 62,
+    "upvotes": 70,
     "author": "todsacerdoti",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=32969413"
+  },
+  {
+    "title": "DOS on DOPE",
+    "url": "https://github.com/secretGeek/dod",
+    "upvotes": 8,
+    "author": "6581",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32970096"
   },
   {
     "title": "Packing a backpack",
     "url": "https://info.deuter.com/blog/packing-a-backpack",
-    "upvotes": 87,
+    "upvotes": 97,
     "author": "tosh",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32950268"
-  },
-  {
-    "title": "WordPress WASM",
-    "url": "https://github.com/adamziel/wordpress-wasm",
-    "upvotes": 38,
-    "author": "skilled",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=32960560"
   },
   {
     "title": "On the strange joys of mainframe OSes that have survived into modern times",
     "url": "https://liam-on-linux.dreamwidth.org/86995.html",
-    "upvotes": 16,
+    "upvotes": 25,
     "author": "todsacerdoti",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32969692"
+  },
+  {
+    "title": "WordPress WASM",
+    "url": "https://github.com/adamziel/wordpress-wasm",
+    "upvotes": 51,
+    "author": "skilled",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=32960560"
   },
   {
     "title": "webЯcade – WASM based retro emulation on any device",
     "url": "https://github.com/webrcade/webrcade",
-    "upvotes": 254,
+    "upvotes": 262,
     "author": "rcarmo",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=32966874"
   },
   {
     "title": "iPhones and action discoverability",
     "url": "https://alexanderell.is/posts/iphone-discoverability/",
-    "upvotes": 318,
+    "upvotes": 321,
     "author": "otras",
-    "comments": 242,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=32965288"
   },
   {
     "title": "GCP, AWS, and Azure ARM-based server performance comparison",
     "url": "https://apisix.apache.org/blog/2022/08/12/arm-performance-google-aws-azure-with-apisix/",
-    "upvotes": 119,
+    "upvotes": 122,
     "author": "jjzhiyuan",
-    "comments": 54,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=32967620"
   },
   {
     "title": "Board Games and Markov Chains",
     "url": "https://kevingal.com/blog/boardgame.html",
-    "upvotes": 44,
+    "upvotes": 49,
     "author": "signa11",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=32960758"
@@ -66,35 +82,43 @@
   {
     "title": "Okta Exposes Passwords in Clear Text for Possible Theft",
     "url": "https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft",
-    "upvotes": 93,
+    "upvotes": 98,
     "author": "LopRabbit",
-    "comments": 58,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=32967628"
   },
   {
     "title": "This page is a truly naked, brutalist HTML quine",
     "url": "https://secretgeek.github.io/html_wysiwyg/html.html",
-    "upvotes": 189,
+    "upvotes": 201,
     "author": "thunderbong",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=32968597"
-  },
-  {
-    "title": "Run SQL on CSV, Parquet, JSON, Arrow, Unix Pipes and Google Sheet",
-    "url": "https://github.com/roapi/roapi/blob/main/columnq-cli/README.md",
-    "upvotes": 265,
-    "author": "houqp",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=32963900"
   },
   {
     "title": "Stacker",
     "url": "https://apply.workable.com/stackerhq/j/32E1D43CF5/"
   },
   {
+    "title": "JPEG XL: libjxl 0.7.0 released",
+    "url": "https://github.com/libjxl/libjxl/releases/tag/v0.7.0",
+    "upvotes": 9,
+    "author": "ksec",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32970037"
+  },
+  {
+    "title": "Run SQL on CSV, Parquet, JSON, Arrow, Unix Pipes and Google Sheet",
+    "url": "https://github.com/roapi/roapi/blob/main/columnq-cli/README.md",
+    "upvotes": 266,
+    "author": "houqp",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=32963900"
+  },
+  {
     "title": "Rate the Room: The early history of rating credit in America",
     "url": "https://www.laphamsquarterly.org/roundtable/rate-room",
-    "upvotes": 24,
+    "upvotes": 26,
     "author": "pepys",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32930270"
@@ -102,10 +126,26 @@
   {
     "title": "Gadgetbridge is an Android application for your smart watch and other devices",
     "url": "https://gadgetbridge.org/",
-    "upvotes": 179,
+    "upvotes": 180,
     "author": "vanous",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=32965166"
+  },
+  {
+    "title": "A history of ARM, part 1: Building the first chip",
+    "url": "https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/",
+    "upvotes": 8,
+    "author": "samizdis",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32953980"
+  },
+  {
+    "title": "Apple Big Pink #3",
+    "url": "http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/mac/pink/Apple_Big_Pink_3_Mar1990.pdf",
+    "upvotes": 60,
+    "author": "fizfaz",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=32950099"
   },
   {
     "title": "Netflix Keeps Its Data Infrastructure Cost-Effective",
@@ -116,52 +156,60 @@
     "link": "https://news.ycombinator.com/item?id=32969400"
   },
   {
-    "title": "Apple Big Pink #3",
-    "url": "http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/mac/pink/Apple_Big_Pink_3_Mar1990.pdf",
-    "upvotes": 58,
-    "author": "fizfaz",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=32950099"
-  },
-  {
-    "title": "Catalytic Process with Lignin Could Enable Sustainable Aviation Fuel",
-    "url": "https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html",
-    "upvotes": 49,
-    "author": "ph0rque",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=32968827"
-  },
-  {
-    "title": "The Double Entry Counting Method",
-    "url": "https://beancount.github.io/docs/the_double_entry_counting_method.html",
-    "upvotes": 93,
-    "author": "gurjeet",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=32948495"
-  },
-  {
-    "title": "Bloom’s Taxonomy",
-    "url": "https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/",
-    "upvotes": 36,
-    "author": "wiradikusuma",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=32949311"
-  },
-  {
     "title": "Free Book: Linux IP Stacks Commentary",
     "url": "https://www.satchell.net/ipstacks/",
-    "upvotes": 179,
+    "upvotes": 182,
     "author": "ohjeez",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32964278"
   },
   {
-    "title": "Swatch Internet Time",
-    "url": "https://www.timeanddate.com/time/internettime.html",
-    "upvotes": 3,
-    "author": "ghgr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32948420"
+    "title": "The Double Entry Counting Method",
+    "url": "https://beancount.github.io/docs/the_double_entry_counting_method.html",
+    "upvotes": 98,
+    "author": "gurjeet",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=32948495"
+  },
+  {
+    "title": "Bloom’s Taxonomy",
+    "url": "https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/",
+    "upvotes": 37,
+    "author": "wiradikusuma",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=32949311"
+  },
+  {
+    "title": "Guix for Development",
+    "url": "https://dthompson.us/guix-for-development.html",
+    "upvotes": 104,
+    "author": "phlummox",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=32960308"
+  },
+  {
+    "title": "Catalytic Process with Lignin Could Enable Sustainable Aviation Fuel",
+    "url": "https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html",
+    "upvotes": 50,
+    "author": "ph0rque",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=32968827"
+  },
+  {
+    "title": "This X Does Not Exist",
+    "url": "https://thisxdoesnotexist.com/",
+    "upvotes": 38,
+    "author": "spking",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=32969263"
+  },
+  {
+    "title": "GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images",
+    "url": "https://nv-tlabs.github.io/GET3D/",
+    "upvotes": 167,
+    "author": "lnyan",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=32962581"
   },
   {
     "title": "The Sayings of Old Man Tcheng",
@@ -172,67 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=32961698"
   },
   {
-    "title": "Guix for Development",
-    "url": "https://dthompson.us/guix-for-development.html",
-    "upvotes": 102,
-    "author": "phlummox",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=32960308"
-  },
-  {
-    "title": "GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images",
-    "url": "https://nv-tlabs.github.io/GET3D/",
-    "upvotes": 165,
-    "author": "lnyan",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=32962581"
-  },
-  {
     "title": "New insignia for Air Domain Intelligence has a UFO",
     "url": "https://www.airdomainintelligence.mil/",
-    "upvotes": 128,
+    "upvotes": 129,
     "author": "jdiennbn",
-    "comments": 99,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=32968480"
   },
   {
-    "title": "JPEG XL: libjxl 0.7.0 released",
-    "url": "https://github.com/libjxl/libjxl/releases/tag/v0.7.0",
-    "upvotes": 3,
-    "author": "ksec",
+    "title": "Swatch Internet Time",
+    "url": "https://www.timeanddate.com/time/internettime.html",
+    "upvotes": 4,
+    "author": "ghgr",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32970037"
-  },
-  {
-    "title": "This X Does Not Exist",
-    "url": "https://thisxdoesnotexist.com/",
-    "upvotes": 32,
-    "author": "spking",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32969263"
-  },
-  {
-    "title": "Schedule cronjob for the first Monday of every month, the funky way",
-    "url": "https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/",
-    "upvotes": 109,
-    "author": "todsacerdoti",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=32949338"
-  },
-  {
-    "title": "I Fooled Millions into Thinking Chocolate Helps Weight Loss",
-    "url": "https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800",
-    "upvotes": 148,
-    "author": "worez",
-    "comments": 125,
-    "link": "https://news.ycombinator.com/item?id=32968529"
-  },
-  {
-    "title": "Want cleaner code? Use the rule of six",
-    "url": "https://davidamos.dev/the-rule-of-six/",
-    "upvotes": 281,
-    "author": "da12",
-    "comments": 285,
-    "link": "https://news.ycombinator.com/item?id=32963021"
+    "link": "https://news.ycombinator.com/item?id=32948420"
   }
 ]
