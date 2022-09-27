@@ -2,127 +2,135 @@
   {
     "title": "Outdated vs. Complete: In defense of apps that don’t need updates",
     "url": "https://vivqu.com/blog/2022/09/25/outdated-apps/",
-    "upvotes": 495,
+    "upvotes": 529,
     "author": "ingve",
-    "comments": 283,
+    "comments": 303,
     "link": "https://news.ycombinator.com/item?id=32987028"
-  },
-  {
-    "title": "Ignite – Use Firecracker VMs with Docker images",
-    "url": "https://github.com/weaveworks/ignite",
-    "upvotes": 88,
-    "author": "cercatrova",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=32990127"
   },
   {
     "title": "Experimenting a New Syntax to Write SVG",
     "url": "https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg",
-    "upvotes": 71,
+    "upvotes": 95,
     "author": "bpierre",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=32990177"
+  },
+  {
+    "title": "Ignite – Use Firecracker VMs with Docker images",
+    "url": "https://github.com/weaveworks/ignite",
+    "upvotes": 103,
+    "author": "cercatrova",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=32990127"
   },
   {
     "title": "Why Feelings of Guilt May Signal Leadership Potential",
     "url": "https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential",
-    "upvotes": 34,
+    "upvotes": 60,
     "author": "gmays",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=32990635"
   },
   {
     "title": "CTO Should Be Technical",
     "url": "https://blog.southparkcommons.com/your-cto-should-actually-be-technical/",
-    "upvotes": 313,
+    "upvotes": 332,
     "author": "catapultis",
-    "comments": 193,
+    "comments": 206,
     "link": "https://news.ycombinator.com/item?id=32987094"
-  },
-  {
-    "title": "Go runtime: 4 years later",
-    "url": "https://go.dev/blog/go119runtime",
-    "upvotes": 203,
-    "author": "spacey",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=32987160"
-  },
-  {
-    "title": "The Next Century of Computing",
-    "url": "https://bzogrammer.substack.com/p/the-next-century-of-computing",
-    "upvotes": 19,
-    "author": "bzogrammer",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32990724"
-  },
-  {
-    "title": "Only Persistent Login",
-    "url": "http://avodonosov.blogspot.com/2022/09/google-login-dialog-does-not-have.html",
-    "upvotes": 52,
-    "author": "avodonosov",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=32989480"
-  },
-  {
-    "title": "Zen4's AVX512 Teardown",
-    "url": "https://www.mersenneforum.org/showthread.php?p=614191",
-    "upvotes": 357,
-    "author": "dragontamer",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=32983406"
-  },
-  {
-    "title": "Physicists Rewrite a Quantum Rule That Clashes with Our Universe",
-    "url": "https://www.quantamagazine.org/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe-20220926/",
-    "upvotes": 21,
-    "author": "akeck",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32990461"
   },
   {
     "title": "Hardvard Resumes and cover letters guide [pdf]",
     "url": "https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf",
-    "upvotes": 12,
+    "upvotes": 36,
     "author": "wabbu",
-    "comments": null,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=32980893"
+  },
+  {
+    "title": "Go runtime: 4 years later",
+    "url": "https://go.dev/blog/go119runtime",
+    "upvotes": 215,
+    "author": "spacey",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=32987160"
+  },
+  {
+    "title": "Physicists Rewrite a Quantum Rule That Clashes with Our Universe",
+    "url": "https://www.quantamagazine.org/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe-20220926/",
+    "upvotes": 35,
+    "author": "akeck",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32990461"
+  },
+  {
+    "title": "The Next Century of Computing",
+    "url": "https://bzogrammer.substack.com/p/the-next-century-of-computing",
+    "upvotes": 34,
+    "author": "bzogrammer",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32990724"
+  },
+  {
+    "title": "Zen4's AVX512 Teardown",
+    "url": "https://www.mersenneforum.org/showthread.php?p=614191",
+    "upvotes": 366,
+    "author": "dragontamer",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=32983406"
+  },
+  {
+    "title": "Only Persistent Login",
+    "url": "http://avodonosov.blogspot.com/2022/09/google-login-dialog-does-not-have.html",
+    "upvotes": 56,
+    "author": "avodonosov",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=32989480"
+  },
+  {
+    "title": "Stop Overcomplicating It: The Simple Guidebook to Upping Your Management Game",
+    "url": "https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game",
+    "upvotes": 26,
+    "author": "gmays",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32990472"
   },
   {
     "title": "Two women recall coming of age in Victorian London",
     "url": "https://aeon.co/videos/from-manners-to-mud-two-women-recall-coming-of-age-in-victorian-london",
-    "upvotes": 95,
+    "upvotes": 103,
     "author": "samclemens",
-    "comments": 15,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=32967503"
-  },
-  {
-    "title": "Dear Chess World",
-    "url": "https://twitter.com/MagnusCarlsen/status/1574482694406565888",
-    "upvotes": 429,
-    "author": "shreyas-satish",
-    "comments": 723,
-    "link": "https://news.ycombinator.com/item?id=32987413"
-  },
-  {
-    "title": "Why we moved from AWS RDS to Postgres in Kubernetes",
-    "url": "https://nhost.io/blog/individual-postgres-instances",
-    "upvotes": 142,
-    "author": "elitan",
-    "comments": 103,
-    "link": "https://news.ycombinator.com/item?id=32986325"
   },
   {
     "title": "Explained from scratch: private information retrieval and homomorphic encryption",
     "url": "https://blintzbase.com/posts/pir-and-fhe-from-scratch/",
-    "upvotes": 95,
+    "upvotes": 104,
     "author": "blintz",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32987155"
   },
   {
+    "title": "Why we moved from AWS RDS to Postgres in Kubernetes",
+    "url": "https://nhost.io/blog/individual-postgres-instances",
+    "upvotes": 146,
+    "author": "elitan",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=32986325"
+  },
+  {
+    "title": "Dear Chess World",
+    "url": "https://twitter.com/MagnusCarlsen/status/1574482694406565888",
+    "upvotes": 452,
+    "author": "shreyas-satish",
+    "comments": 759,
+    "link": "https://news.ycombinator.com/item?id=32987413"
+  },
+  {
     "title": "Launch HN: Prequel (YC W21) – Sync data to your customer’s data warehouse",
     "url": "item?id=32984103",
-    "upvotes": 99,
+    "upvotes": 102,
     "author": "ctc24",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=32984103"
@@ -130,23 +138,23 @@
   {
     "title": "Does Someone Know My Name?",
     "url": "https://blogs.loc.gov/now-see-hear/2022/09/does-someone-know-my-name-mystery-photos/",
-    "upvotes": 235,
+    "upvotes": 241,
     "author": "Tomte",
-    "comments": 76,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=32984287"
   },
   {
-    "title": "Stop Overcomplicating It: The Simple Guidebook to Upping Your Management Game",
-    "url": "https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game",
-    "upvotes": 15,
-    "author": "gmays",
+    "title": "Philadelphia’s diatom archive is a way, way, wayback machine",
+    "url": "https://hakaimagazine.com/features/philadephias-diatom-archive-is-a-way-way-way-back-machine/",
+    "upvotes": 6,
+    "author": "prismatic",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32990472"
+    "link": "https://news.ycombinator.com/item?id=32979190"
   },
   {
     "title": "Enhance: a web standards-based HTML framework",
     "url": "https://enhance.dev/docs/",
-    "upvotes": 72,
+    "upvotes": 77,
     "author": "bpierre",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=32987840"
@@ -154,89 +162,81 @@
   {
     "title": "Learning Is Remembering",
     "url": "https://saveall.ai/blog/learning-is-remembering",
-    "upvotes": 365,
+    "upvotes": 371,
     "author": "p-christ",
     "comments": 216,
     "link": "https://news.ycombinator.com/item?id=32982513"
   },
   {
-    "title": "Typographic Web Design: How to Think Like a Typographer in HTML and CSS",
-    "url": "https://www.wiley.com/en-us/Typographic+Web+Design:+How+to+Think+Like+a+Typographer+in+HTML+and+CSS-p-9781119976875",
-    "upvotes": 10,
-    "author": "teleforce",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=32980496"
-  },
-  {
     "title": "Nvidia in the Valley",
     "url": "https://stratechery.com/2022/nvidia-in-the-valley/",
-    "upvotes": 204,
+    "upvotes": 208,
     "author": "mfiguiere",
-    "comments": 150,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=32983297"
   },
   {
     "title": "Playstation 2 Architecture",
     "url": "https://www.copetti.org/writings/consoles/playstation-2/",
-    "upvotes": 210,
+    "upvotes": 213,
     "author": "Claude_Shannon",
-    "comments": 55,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=32984074"
   },
   {
     "title": "Isolates, microVMs, and WebAssembly",
     "url": "https://notes.crmarsh.com/isolates-microvms-and-webassembly",
-    "upvotes": 63,
+    "upvotes": 70,
     "author": "charliermarsh",
-    "comments": 13,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=32987813"
+  },
+  {
+    "title": "Typographic Web Design: How to Think Like a Typographer in HTML and CSS",
+    "url": "https://www.wiley.com/en-us/Typographic+Web+Design:+How+to+Think+Like+a+Typographer+in+HTML+and+CSS-p-9781119976875",
+    "upvotes": 13,
+    "author": "teleforce",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32980496"
   },
   {
     "title": "Zero Trust SIM",
     "url": "https://blog.cloudflare.com/the-first-zero-trust-sim/",
-    "upvotes": 327,
+    "upvotes": 333,
     "author": "aofeisheng",
-    "comments": 233,
+    "comments": 239,
     "link": "https://news.ycombinator.com/item?id=32982697"
   },
   {
     "title": "An early disruption event is starting for the Polar Vortex",
     "url": "https://www.severe-weather.eu/global-weather/polar-vortex-early-disruptive-event-winter-influence-united-states-europe-fa/",
-    "upvotes": 111,
+    "upvotes": 115,
     "author": "chomp",
-    "comments": 83,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=32985927"
-  },
-  {
-    "title": "Gems from the man page trenches",
-    "url": "https://www.saminiir.com/gems-from-man-page-trenches/",
-    "upvotes": 34,
-    "author": "LEARAX",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=32979723"
-  },
-  {
-    "title": "Httpt: A Probe-Resistant Proxy – Usenix",
-    "url": "https://www.usenix.org/conference/foci20/presentation/frolov",
-    "upvotes": 25,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32989416"
   },
   {
     "title": "Pathologies of the attention economy",
     "url": "https://theconvivialsociety.substack.com/p/the-pathologies-of-the-attention",
-    "upvotes": 45,
+    "upvotes": 53,
     "author": "longdefeat",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32987642"
+  },
+  {
+    "title": "Gems from the man page trenches",
+    "url": "https://www.saminiir.com/gems-from-man-page-trenches/",
+    "upvotes": 38,
+    "author": "LEARAX",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=32979723"
   },
   {
     "title": "How to 3D-Print One of the Strongest Stainless Steels",
     "url": "https://www.nist.gov/news-events/news/2022/09/researchers-uncover-how-3d-print-one-strongest-stainless-steels",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "sizzle",
-    "comments": 35,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=32986041"
   }
 ]
