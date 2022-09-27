@@ -1,74 +1,82 @@
 [
   {
-    "title": "Harrison Bergeron",
-    "url": "https://archive.org/details/HarrisonBergeron",
-    "upvotes": 140,
-    "author": "dusted",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=32994848"
-  },
-  {
     "title": "Workerd: Open-source Cloudflare workers runtime",
     "url": "https://blog.cloudflare.com/workerd-open-source-workers-runtime/",
-    "upvotes": 174,
+    "upvotes": 211,
     "author": "kentonv",
-    "comments": 32,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=32994723"
   },
   {
     "title": "Show HN: Get conversational practice in over 20 languages by talking to an AI",
     "url": "https://talk.quazel.com/chat/try",
-    "upvotes": 431,
+    "upvotes": 460,
     "author": "Hadjimina",
     "comments": 220,
     "link": "https://news.ycombinator.com/item?id=32993130"
   },
   {
-    "title": "SEC Charges Oracle a Second Time for Violations of Foreign Corrupt Practices Act",
-    "url": "https://www.sec.gov/news/press-release/2022-173",
-    "upvotes": 89,
-    "author": "danso",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=32994941"
-  },
-  {
     "title": "Named element IDs can be referenced as JavaScript globals",
     "url": "https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/",
-    "upvotes": 37,
+    "upvotes": 46,
     "author": "mmazzarolo",
-    "comments": 19,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=32995694"
   },
   {
-    "title": "Apple Car: Bad Idea After All",
-    "url": "https://mondaynote.com/apple-car-bad-idea-after-all-9468947640ee?gi=16f058e831c9",
-    "upvotes": 30,
-    "author": "spking",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=32995844"
+    "title": "WhatsApp Remote Code Execution in Video Call",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-36934",
+    "upvotes": 36,
+    "author": "louislang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32995883"
   },
   {
     "title": "Making Python fast – Adventures with mypyc",
     "url": "https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/",
-    "upvotes": 80,
+    "upvotes": 90,
     "author": "meadsteve",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=32994584"
+  },
+  {
+    "title": "Room-temperature superconductivity study retracted",
+    "url": "https://www.science.org/content/article/something-seriously-wrong-room-temperature-superconductivity-study-retracted",
+    "upvotes": 25,
+    "author": "pseudolus",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=32996033"
+  },
+  {
+    "title": "Apple Car: Bad Idea After All",
+    "url": "https://mondaynote.com/apple-car-bad-idea-after-all-9468947640ee?gi=16f058e831c9",
+    "upvotes": 49,
+    "author": "spking",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=32995844"
+  },
+  {
+    "title": "Ask HN: Have you experienced “hiring fraud?”",
+    "url": "item?id=32996457",
+    "upvotes": 31,
+    "author": "dopamean",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=32996457"
   },
   {
     "title": "Not as famous as they should be",
     "url": "https://datagubbe.se/famous/",
-    "upvotes": 87,
+    "upvotes": 93,
     "author": "arexxbifs",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=32993985"
   },
   {
     "title": "How history/tech YouTube channel Asianometry reached 270K subscribers, $5K/month",
     "url": "https://www.screenlace.com/how-asianometry-grew-to-270k-subscribers-on-youtube/",
-    "upvotes": 226,
+    "upvotes": 229,
     "author": "aseemscreenlace",
-    "comments": 101,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=32992710"
   },
   {
@@ -76,81 +84,97 @@
     "url": "https://www.aisupervision.com/careers/intern"
   },
   {
-    "title": "WhatsApp Remote Code Execution in Video Call",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-36934",
-    "upvotes": 13,
-    "author": "louislang",
+    "title": "What Happened to Tandy Computers",
+    "url": "https://dfarq.homeip.net/what-happened-to-tandy-computers/",
+    "upvotes": 7,
+    "author": "erickhill",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32995883"
-  },
-  {
-    "title": "Room-temperature superconductivity study retracted",
-    "url": "https://www.science.org/content/article/something-seriously-wrong-room-temperature-superconductivity-study-retracted",
-    "upvotes": 17,
-    "author": "pseudolus",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32996033"
+    "link": "https://news.ycombinator.com/item?id=32996656"
   },
   {
     "title": "It Hurts to Ask [pdf]",
     "url": "https://scholar.princeton.edu/sites/default/files/rbenabou/files/ihta_august_7.pdf",
-    "upvotes": 123,
+    "upvotes": 132,
     "author": "Dowwie",
-    "comments": 49,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=32993306"
   },
   {
-    "title": "Cloudflare Calls",
-    "url": "https://blog.cloudflare.com/announcing-cloudflare-calls/",
-    "upvotes": 153,
-    "author": "aofeisheng",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=32994757"
+    "title": "Harrison Bergeron",
+    "url": "https://archive.org/details/HarrisonBergeron",
+    "upvotes": 158,
+    "author": "dusted",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=32994848"
+  },
+  {
+    "title": "Someone was paid to pretend to be me for an interview",
+    "url": "https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/",
+    "upvotes": 4,
+    "author": "iBotPeaches",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32996953"
+  },
+  {
+    "title": "How Big Is Infinity?",
+    "url": "https://www.quantamagazine.org/how-big-is-infinity-20220927/",
+    "upvotes": 5,
+    "author": "theafh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32996952"
   },
   {
     "title": "Benzene’s bond lengths corrected: Previously out by several milliangstroms",
     "url": "https://www.chemistryworld.com/news/benzenes-bond-lengths-corrected/4016266.article",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "respinal",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=32979631"
   },
   {
     "title": "Color-Perception-Guided Display Power Reduction for Virtual Reality",
     "url": "https://www.immersivecomputinglab.org/publication/color-perception-guided-display-power-reduction-for-virtual-reality/",
-    "upvotes": 14,
+    "upvotes": 16,
     "author": "ibobev",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=32981172"
   },
   {
-    "title": "Ask HN: Have you experienced “hiring fraud?”",
-    "url": "item?id=32996457",
-    "upvotes": 9,
-    "author": "dopamean",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32996457"
+    "title": "Two Hundred Years Ago, the Rosetta Stone Unlocked the Secrets of Ancient Egypt",
+    "url": "https://www.smithsonianmag.com/history/rosetta-stone-hieroglyphs-champollion-decipherment-egypt-180980834/",
+    "upvotes": 22,
+    "author": "rntn",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=32994480"
+  },
+  {
+    "title": "SEC Charges Oracle a Second Time for Violations of Foreign Corrupt Practices Act",
+    "url": "https://www.sec.gov/news/press-release/2022-173",
+    "upvotes": 116,
+    "author": "danso",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=32994941"
+  },
+  {
+    "title": "The Geeks way of checking what the outside wheather is like",
+    "url": "http://blog.netbsd.org/tnf/entry/the_geeks_way_of_checking",
+    "upvotes": 10,
+    "author": "zdw",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32967062"
   },
   {
     "title": "India's lattice buildings cool without air con",
     "url": "https://www.bbc.com/future/article/20220920-how-indias-lattice-buildings-cool-without-air-con",
-    "upvotes": 126,
+    "upvotes": 128,
     "author": "lermontov",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=32974720"
-  },
-  {
-    "title": "Two Hundred Years Ago, the Rosetta Stone Unlocked the Secrets of Ancient Egypt",
-    "url": "https://www.smithsonianmag.com/history/rosetta-stone-hieroglyphs-champollion-decipherment-egypt-180980834/",
-    "upvotes": 16,
-    "author": "rntn",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32994480"
   },
   {
     "title": "An Introduction to Binary Decision Diagrams [pdf]",
     "url": "https://www.cs.utexas.edu/~isil/cs389L/bdd.pdf",
-    "upvotes": 70,
+    "upvotes": 74,
     "author": "mindcrime",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32993015"
@@ -158,81 +182,57 @@
   {
     "title": "Show HN: Paste React components into any website",
     "url": "https://smarketman.com/instant/react/",
-    "upvotes": 42,
+    "upvotes": 47,
     "author": "jimhi",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=32981947"
+  },
+  {
+    "title": "Retraction of Roomtemperature superconductivity in a carbonaceous sulfur hydride",
+    "url": "https://www.nature.com/articles/s41586-022-05294-9",
+    "upvotes": 37,
+    "author": "YakBizzarro",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=32993556"
   },
   {
     "title": "The minimum viable fan control script",
     "url": "https://ounapuu.ee/posts/2022/09/26/minimum-viable-fan-control-script/",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "hddherman",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=32980171"
   },
   {
-    "title": "Retraction of Roomtemperature superconductivity in a carbonaceous sulfur hydride",
-    "url": "https://www.nature.com/articles/s41586-022-05294-9",
-    "upvotes": 34,
-    "author": "YakBizzarro",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=32993556"
-  },
-  {
-    "title": "Gas Leak in the Baltic Sea",
-    "url": "https://www.forsvaret.dk/en/news/2022/gas-leak-in-the-baltic-sea/",
-    "upvotes": 139,
-    "author": "chha",
-    "comments": 211,
-    "link": "https://news.ycombinator.com/item?id=32994922"
-  },
-  {
-    "title": "Apple removed all VK and Mail.ru applications from the App Store",
-    "url": "https://mezha.media/en/2022/09/27/apple-removed-all-vk-and-mail-ru-applications-from-the-app-store/",
-    "upvotes": 90,
-    "author": "acqbu",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=32995975"
-  },
-  {
     "title": "Feelings of guilt may signal leadership potential",
     "url": "https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential",
-    "upvotes": 231,
+    "upvotes": 233,
     "author": "gmays",
-    "comments": 53,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=32990635"
   },
   {
     "title": "The Ringelmann Effect",
     "url": "https://rnjn.in/articles/the-ringelmann-effect/",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "saikatsg",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=32993648"
   },
   {
     "title": "How one of America’s last piano manufacturers stays alive",
     "url": "https://thehustle.co/how-one-of-americas-last-piano-manufacturers-stays-alive/",
-    "upvotes": 119,
+    "upvotes": 128,
     "author": "paulpauper",
-    "comments": 85,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=32991154"
   },
   {
-    "title": "Resumes and cover letters: An extension school resource",
-    "url": "https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf",
-    "upvotes": 177,
-    "author": "wabbu",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=32980893"
-  },
-  {
-    "title": "Stop overcomplicating it: A simple guidebook to upping your management game",
-    "url": "https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game",
-    "upvotes": 145,
-    "author": "gmays",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=32990472"
+    "title": "Apple removed all VK and Mail.ru applications from the App Store",
+    "url": "https://mezha.media/en/2022/09/27/apple-removed-all-vk-and-mail-ru-applications-from-the-app-store/",
+    "upvotes": 98,
+    "author": "acqbu",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=32995975"
   }
 ]
