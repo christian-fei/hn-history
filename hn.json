@@ -1,88 +1,96 @@
 [
   {
-    "title": "High-performance image generation using Stable Diffusion in KerasCV",
-    "url": "https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/",
-    "upvotes": 146,
-    "author": "tosh",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=33005585"
-  },
-  {
     "title": "D3wasm 0.4 – Doom 3 in WASM",
     "url": "https://wasm.continuation-labs.com/d3demo/",
-    "upvotes": 29,
+    "upvotes": 56,
     "author": "nkjoep",
-    "comments": 3,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=33006523"
+  },
+  {
+    "title": "High-performance image generation using Stable Diffusion in KerasCV",
+    "url": "https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/",
+    "upvotes": 172,
+    "author": "tosh",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=33005585"
   },
   {
     "title": "Minimize Heap Allocations in Node.js",
     "url": "https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html",
-    "upvotes": 11,
+    "upvotes": 18,
     "author": "unripe_syntax",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33006653"
+  },
+  {
+    "title": "Security in Plan 9",
+    "url": "https://9p.io/sys/doc/auth.html",
+    "upvotes": 5,
+    "author": "jsfcoding",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33007117"
   },
   {
     "title": "The Open Source PC That Fits in Your Pocket",
     "url": "https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket",
-    "upvotes": 185,
+    "upvotes": 196,
     "author": "walterbell",
-    "comments": 148,
+    "comments": 162,
     "link": "https://news.ycombinator.com/item?id=33003777"
-  },
-  {
-    "title": "Integrating with Fastmail",
-    "url": "https://www.fastmail.com/developer/integrating-with-fastmail/",
-    "upvotes": 453,
-    "author": "ljoshua",
-    "comments": 236,
-    "link": "https://news.ycombinator.com/item?id=33001391"
-  },
-  {
-    "title": "Someone is pretending to be me",
-    "url": "https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/",
-    "upvotes": 1847,
-    "author": "iBotPeaches",
-    "comments": 318,
-    "link": "https://news.ycombinator.com/item?id=32996953"
-  },
-  {
-    "title": "Real World Micro Services",
-    "url": "https://micro.dev/blog/2022/09/27/real-world-micro-services.html",
-    "upvotes": 64,
-    "author": "asim",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=32994937"
   },
   {
     "title": "How Underground Groups Use Stolen Identities and Deepfakes",
     "url": "https://www.trendmicro.com/en_us/research/22/i/how-underground-groups-use-stolen-identities-and-deepfakes.html",
-    "upvotes": 14,
+    "upvotes": 21,
     "author": "rntn",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=33006122"
   },
   {
     "title": "The GJK Algorithm for intersecting shapes",
     "url": "https://www.youtube.com/watch?v=ajv46BSqcK4",
-    "upvotes": 12,
+    "upvotes": 19,
     "author": "otikik",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33006285"
   },
   {
+    "title": "Someone is pretending to be me",
+    "url": "https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/",
+    "upvotes": 1879,
+    "author": "iBotPeaches",
+    "comments": 324,
+    "link": "https://news.ycombinator.com/item?id=32996953"
+  },
+  {
+    "title": "Real World Micro Services",
+    "url": "https://micro.dev/blog/2022/09/27/real-world-micro-services.html",
+    "upvotes": 77,
+    "author": "asim",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=32994937"
+  },
+  {
     "title": "Snakeware – Linux distro with Python userspace inspired by Commodore 64",
     "url": "https://github.com/joshiemoore/snakeware",
-    "upvotes": 113,
+    "upvotes": 122,
     "author": "marcodiego",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=33003245"
+  },
+  {
+    "title": "Cloudflare GA Week Recap",
+    "url": "https://softwarestackinvesting.com/cloudflare-ga-week-recap/",
+    "upvotes": 33,
+    "author": "imartin2k",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=33005260"
   },
   {
     "title": "The Uncage",
     "url": "https://surjan.substack.com/p/introducing-the-uncage",
-    "upvotes": 37,
+    "upvotes": 41,
     "author": "jstanley",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32988686"
@@ -90,10 +98,26 @@
   {
     "title": "Posits, a New Kind of Number, Improves the Math of AI",
     "url": "https://spectrum.ieee.org/floating-point-numbers-posits-processor",
-    "upvotes": 79,
+    "upvotes": 89,
     "author": "cpeterso",
-    "comments": 33,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=33003459"
+  },
+  {
+    "title": "Show HN: Refurb – A tool for refurbishing and modernizing Python codebases",
+    "url": "https://github.com/dosisod/refurb",
+    "upvotes": 72,
+    "author": "dosisod",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=33003929"
+  },
+  {
+    "title": "Norman Rockwell and the golden age of classic food illustration",
+    "url": "https://phoode.com/blog/norman-rockwell-golden-age-food-illustration/",
+    "upvotes": 16,
+    "author": "SongofEarth",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=32982510"
   },
   {
     "title": "Neuromorphic object localization using resistive memory, ultrasonic transducers",
@@ -104,12 +128,12 @@
     "link": "https://news.ycombinator.com/item?id=33006112"
   },
   {
-    "title": "Show HN: Refurb – A tool for refurbishing and modernizing Python codebases",
-    "url": "https://github.com/dosisod/refurb",
-    "upvotes": 68,
-    "author": "dosisod",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=33003929"
+    "title": "Discover Kentucky Archaeology",
+    "url": "https://archaeology.ky.gov:443/Find-a-Site/Pages/default.aspx",
+    "upvotes": 3,
+    "author": "auditor_3d",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=32982507"
   },
   {
     "title": "The Rocketeer Who Never Was",
@@ -120,52 +144,52 @@
     "link": "https://news.ycombinator.com/item?id=33000545"
   },
   {
-    "title": "Cloudflare GA Week Recap",
-    "url": "https://softwarestackinvesting.com/cloudflare-ga-week-recap/",
-    "upvotes": 25,
-    "author": "imartin2k",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33005260"
-  },
-  {
-    "title": "Norman Rockwell and the Golden Age of Classic Food Illustration",
-    "url": "https://phoode.com/blog/norman-rockwell-golden-age-food-illustration/",
-    "upvotes": 11,
-    "author": "SongofEarth",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=32982510"
-  },
-  {
-    "title": "Ask HN: How to be less opinionated?",
-    "url": "item?id=33006368",
-    "upvotes": 14,
-    "author": "pedrodelfino",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=33006368"
+    "title": "Integrating with Fastmail",
+    "url": "https://www.fastmail.com/developer/integrating-with-fastmail/",
+    "upvotes": 472,
+    "author": "ljoshua",
+    "comments": 246,
+    "link": "https://news.ycombinator.com/item?id=33001391"
   },
   {
     "title": "Written in Heraldry",
     "url": "https://www.historytoday.com/archive/making-history/written-heraldry",
-    "upvotes": 22,
+    "upvotes": 23,
     "author": "drdee",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=32979542"
+  },
+  {
+    "title": "Six months as a full time pancreas",
+    "url": "https://maori.geek.nz/6-months-as-a-full-time-pancreas-34ae09106293?gi=17385e4948fd",
+    "upvotes": 80,
+    "author": "grahar64",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=32999084"
   },
   {
     "title": "Zen Evolution: A Small Overview",
     "url": "https://locuza.substack.com/p/zen-evolution-a-small-overview",
-    "upvotes": 45,
+    "upvotes": 46,
     "author": "blopeur",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=32982290"
   },
   {
-    "title": "Six months as a full time pancreas",
-    "url": "https://maori.geek.nz/6-months-as-a-full-time-pancreas-34ae09106293?gi=17385e4948fd",
-    "upvotes": 77,
-    "author": "grahar64",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=32999084"
+    "title": "Apple Has Reportedly Rejected TSMC's Chip Price Hike of 6%",
+    "url": "https://wccftech.com/apple-rejects-tsmc-chip-price-hike/",
+    "upvotes": 5,
+    "author": "nixcraft",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33007035"
+  },
+  {
+    "title": "Gaming CS Interviews",
+    "url": "https://transitivebullsh.it/gaming-cs-interviews",
+    "upvotes": 62,
+    "author": "EntICOnc",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=33004825"
   },
   {
     "title": "The Harry Partch Instrumentarium",
@@ -176,67 +200,43 @@
     "link": "https://news.ycombinator.com/item?id=32968664"
   },
   {
-    "title": "I've said it all before but here we go again",
-    "url": "http://backreaction.blogspot.com/2022/09/ive-said-it-all-before-but-here-we-go.html",
-    "upvotes": 132,
-    "author": "paulmooreparks",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=33004799"
-  },
-  {
     "title": "Taken under fascism, Spain’s ‘stolen babies’ are learning the truth",
     "url": "https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html",
-    "upvotes": 151,
+    "upvotes": 161,
     "author": "wglb",
-    "comments": 142,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=33003434"
   },
   {
     "title": "The Rings of Share – the unsolved problem of sharing",
     "url": "https://ruky.me/2022/09/26/the-rings-of-share/",
-    "upvotes": 19,
+    "upvotes": 20,
     "author": "rukshn",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=32992057"
+  },
+  {
+    "title": "I've said it all before but here we go again",
+    "url": "http://backreaction.blogspot.com/2022/09/ive-said-it-all-before-but-here-we-go.html",
+    "upvotes": 141,
+    "author": "paulmooreparks",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=33004799"
   },
   {
     "title": "Closing a 30 pixel gap between native and web",
     "url": "https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/",
-    "upvotes": 333,
+    "upvotes": 336,
     "author": "vyrotek",
-    "comments": 236,
+    "comments": 239,
     "link": "https://news.ycombinator.com/item?id=32999133"
   },
   {
     "title": "Workerd: Open-source Cloudflare workers runtime",
     "url": "https://blog.cloudflare.com/workerd-open-source-workers-runtime/",
-    "upvotes": 640,
+    "upvotes": 644,
     "author": "kentonv",
     "comments": 127,
     "link": "https://news.ycombinator.com/item?id=32994723"
-  },
-  {
-    "title": "Kill-sticky, a bookmarklet to remove sticky elements and restore scrolling",
-    "url": "https://github.com/t-mart/kill-sticky",
-    "upvotes": 361,
-    "author": "ivank",
-    "comments": 157,
-    "link": "https://news.ycombinator.com/item?id=32998091"
-  },
-  {
-    "title": "Building Blocks for Theoretical Computer Science",
-    "url": "https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf",
-    "upvotes": 75,
-    "author": "ibraheemdev",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33001191"
-  },
-  {
-    "title": "CCPS, a Capcom CPS-1 SDK",
-    "url": "https://fabiensanglard.net/ccps/index.html",
-    "upvotes": 77,
-    "author": "ingve",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=32980061"
   }
 ]
