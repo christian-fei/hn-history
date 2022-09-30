@@ -2,65 +2,73 @@
   {
     "title": "Microsoft bakes a VPN into Edge and turns it on",
     "url": "https://adguard-vpn.com/en/blog/vpn-built-browser-microsoft.html",
-    "upvotes": 183,
+    "upvotes": 209,
     "author": "elashri",
-    "comments": 168,
+    "comments": 184,
     "link": "https://news.ycombinator.com/item?id=33037171"
-  },
-  {
-    "title": "Select * from cloud",
-    "url": "https://steampipe.io/",
-    "upvotes": 378,
-    "author": "kiyanwang",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=33034351"
   },
   {
     "title": "Google Adsense/Admob blocks you for life if you use it before you're 18",
     "url": "https://support.google.com/adsense/thread/178197751/adsense-account?hl=en",
-    "upvotes": 30,
+    "upvotes": 77,
     "author": "code51",
-    "comments": 8,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=33038311"
+  },
+  {
+    "title": "Select * from cloud",
+    "url": "https://steampipe.io/",
+    "upvotes": 393,
+    "author": "kiyanwang",
+    "comments": 145,
+    "link": "https://news.ycombinator.com/item?id=33034351"
   },
   {
     "title": "FCC Approves 5 Year Satellite Deorbiting Rule",
     "url": "https://payloadspace.com/fcc-approves-5-year-satellite-deorbiting-rule/",
-    "upvotes": 84,
+    "upvotes": 93,
     "author": "sebg",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=33036383"
+  },
+  {
+    "title": "Rust and Elixir libraries for end-to-end encrypted secure communication",
+    "url": "https://github.com/build-trust/ockam",
+    "upvotes": 18,
+    "author": "mooreds",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33038384"
   },
   {
     "title": "Neovim 0.8 Released",
     "url": "https://github.com/neovim/neovim/releases/tag/v0.8.0",
-    "upvotes": 128,
+    "upvotes": 155,
     "author": "akrifari",
-    "comments": 36,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=33037151"
   },
   {
     "title": "Ask HN: Microsoft SmartScreen is destroying our business",
     "url": "item?id=33036748",
-    "upvotes": 147,
+    "upvotes": 164,
     "author": "captain_dfx",
-    "comments": 83,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=33036748"
   },
   {
     "title": "OpenStreepMap 2012 vs. 2022",
     "url": "https://2012.osmz.ru/#15/40.7822/-73.9685",
-    "upvotes": 182,
+    "upvotes": 188,
     "author": "curiousfab",
-    "comments": 111,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=33034631"
   },
   {
     "title": "Medtronic's MiniMed 600 insulin pumps potentially at risk of compromise",
     "url": "https://www.medtronicdiabetes.com/customer-support/product-and-service-updates/notice19-letter",
-    "upvotes": 29,
+    "upvotes": 34,
     "author": "woliveirajr",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=33036977"
   },
   {
@@ -68,92 +76,84 @@
     "url": "https://www.patterns.app/"
   },
   {
-    "title": "A call to reconsider memory address-space isolation in Linux",
-    "url": "https://lwn.net/SubscriberLink/909469/95386a9171af0b46/",
-    "upvotes": 150,
-    "author": "chmaynard",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=33033366"
-  },
-  {
-    "title": "Querying Postgres Tables Directly from DuckDB",
-    "url": "https://duckdb.org/2022/09/30/postgres-scanner.html",
-    "upvotes": 62,
-    "author": "hfmuehleisen",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=33035803"
+    "title": "Robo-Ostrich Sprints to 100-Meter World Record",
+    "url": "https://spectrum.ieee.org/bipedal-robot-world-record-speed",
+    "upvotes": 13,
+    "author": "nickdevx",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=33038335"
   },
   {
     "title": "House Democrats debut new bill to limit US police use of facial recognition",
     "url": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/",
-    "upvotes": 89,
+    "upvotes": 111,
     "author": "arkadiyt",
-    "comments": 21,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=33037319"
   },
   {
-    "title": "Rust and Elixir libraries for end-to-end encrypted secure communication",
-    "url": "https://github.com/build-trust/ockam",
-    "upvotes": 6,
-    "author": "mooreds",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33038384"
+    "title": "Querying Postgres Tables Directly from DuckDB",
+    "url": "https://duckdb.org/2022/09/30/postgres-scanner.html",
+    "upvotes": 68,
+    "author": "hfmuehleisen",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=33035803"
+  },
+  {
+    "title": "A call to reconsider memory address-space isolation in Linux",
+    "url": "https://lwn.net/SubscriberLink/909469/95386a9171af0b46/",
+    "upvotes": 154,
+    "author": "chmaynard",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=33033366"
   },
   {
     "title": "Go Micro: a standard library for distributed systems development",
     "url": "https://github.com/go-micro/go-micro",
-    "upvotes": 92,
+    "upvotes": 97,
     "author": "Kinrany",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=33030611"
-  },
-  {
-    "title": "Robo-Ostrich Sprints to 100-Meter World Record",
-    "url": "https://spectrum.ieee.org/bipedal-robot-world-record-speed",
-    "upvotes": 7,
-    "author": "nickdevx",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=33038335"
   },
   {
     "title": "Reducing logging cost by two orders of magnitude using CLP",
     "url": "https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/",
-    "upvotes": 128,
+    "upvotes": 132,
     "author": "ath0",
-    "comments": 69,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=33032996"
   },
   {
     "title": "Ask HN: Just received spam to an address only used at Amazon?",
     "url": "item?id=33036782",
-    "upvotes": 56,
+    "upvotes": 62,
     "author": "OJFord",
-    "comments": 42,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=33036782"
   },
   {
     "title": "GitHub Action Transcription",
     "url": "https://github.com/simonw/action-transcription-demo",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "mzs",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=33035369"
   },
   {
     "title": "A step-by-step guide to our solar system’s demise",
     "url": "https://nautil.us/a-step-by-step-guide-to-our-solar-systems-demise-239245/",
-    "upvotes": 116,
+    "upvotes": 117,
     "author": "nsoonhui",
-    "comments": 85,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=33032873"
   },
   {
-    "title": "Number of States with High Rates of Adult Obesity More Than Doubles",
-    "url": "https://www.cdc.gov/media/releases/2022/p0927-states-obesity.html",
-    "upvotes": 31,
-    "author": "Dowwie",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=33037727"
+    "title": "Overwatch 2 will require a phone number to play",
+    "url": "https://www.polygon.com/guides/23380339/overwatch-2-sms-protect-phone-number-required",
+    "upvotes": 26,
+    "author": "haunter",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=33038531"
   },
   {
     "title": "Introduction to the Theory of Programming Languages",
@@ -164,75 +164,75 @@
     "link": "https://news.ycombinator.com/item?id=33031724"
   },
   {
+    "title": "Hacker group Guacamaya leaks military and police emails from various countries",
+    "url": "http://web.archive.org/web/20220930043109/https://enlacehacktivista.org/index.php?title=Fuerzas_Represivas",
+    "upvotes": 3,
+    "author": "atlacatl_sv",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33038651"
+  },
+  {
     "title": "Looped Square Or ⌘",
     "url": "https://en.wikipedia.org/wiki/Command_key",
-    "upvotes": 185,
+    "upvotes": 187,
     "author": "Ali_Zaferani",
-    "comments": 177,
+    "comments": 181,
     "link": "https://news.ycombinator.com/item?id=33019565"
-  },
-  {
-    "title": "Overwatch 2 will require a phone number to play",
-    "url": "https://www.polygon.com/guides/23380339/overwatch-2-sms-protect-phone-number-required",
-    "upvotes": 13,
-    "author": "haunter",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33038531"
-  },
-  {
-    "title": "New integer types I’d like to see",
-    "url": "https://www.foonathan.net/2022/09/new-integer-types/",
-    "upvotes": 73,
-    "author": "ibobev",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=33032802"
   },
   {
     "title": "Chernobyl black frogs reveal evolution in action",
     "url": "https://phys.org/news/2022-09-chernobyl-black-frogs-reveal-evolution.html",
-    "upvotes": 71,
+    "upvotes": 78,
     "author": "gwbas1c",
-    "comments": 29,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=33035998"
-  },
-  {
-    "title": "US expected to publish Privacy Shield executive order next week",
-    "url": "https://www.politico.eu/article/us-expected-to-publish-privacy-shield-executive-order-next-week/",
-    "upvotes": 39,
-    "author": "elashri",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=33036744"
   },
   {
     "title": "Intel announces new FPGA families",
     "url": "https://fpgaer.tech/?p=561",
-    "upvotes": 125,
+    "upvotes": 126,
     "author": "chclau",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=33017160"
   },
   {
-    "title": "Elixir Sulfanilamide",
-    "url": "https://en.wikipedia.org/wiki/Elixir_sulfanilamide",
-    "upvotes": 51,
-    "author": "benbreen",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=33014834"
+    "title": "US expected to publish Privacy Shield executive order next week",
+    "url": "https://www.politico.eu/article/us-expected-to-publish-privacy-shield-executive-order-next-week/",
+    "upvotes": 43,
+    "author": "elashri",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33036744"
+  },
+  {
+    "title": "New integer types I’d like to see",
+    "url": "https://www.foonathan.net/2022/09/new-integer-types/",
+    "upvotes": 74,
+    "author": "ibobev",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=33032802"
   },
   {
     "title": "Show HN: Red Goose – Convert your website to mobile app",
     "url": "item?id=33033129",
-    "upvotes": 69,
+    "upvotes": 72,
     "author": "satie",
-    "comments": 60,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=33033129"
   },
   {
-    "title": "Peep: The Network Auralizer",
-    "url": "https://peep.sourceforge.net/intro.html",
-    "upvotes": 67,
-    "author": "vincent_s",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=33017337"
+    "title": "Ask HN: Am I the only one who does *NOT* want IoT in their solar panel setup?",
+    "url": "item?id=33038829",
+    "upvotes": 5,
+    "author": "harryvederci",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33038829"
+  },
+  {
+    "title": "Elixir Sulfanilamide",
+    "url": "https://en.wikipedia.org/wiki/Elixir_sulfanilamide",
+    "upvotes": 52,
+    "author": "benbreen",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=33014834"
   }
 ]
