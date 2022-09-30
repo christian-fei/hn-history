@@ -1,144 +1,176 @@
 [
   {
-    "title": "Steampipe – Select * from Cloud;",
+    "title": "Select * from cloud",
     "url": "https://steampipe.io/",
-    "upvotes": 188,
+    "upvotes": 263,
     "author": "kiyanwang",
-    "comments": 44,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=33034351"
   },
   {
     "title": "OpenStreepMap 2012 vs. 2022",
     "url": "https://2012.osmz.ru/#15/40.7822/-73.9685",
-    "upvotes": 105,
+    "upvotes": 129,
     "author": "curiousfab",
-    "comments": 57,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=33034631"
-  },
-  {
-    "title": "A call to reconsider memory address-space isolation in Linux",
-    "url": "https://lwn.net/SubscriberLink/909469/95386a9171af0b46/",
-    "upvotes": 108,
-    "author": "chmaynard",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=33033366"
-  },
-  {
-    "title": "Red Dead Redemption 2 fan with 6k hours on Stadia begs for character transfer",
-    "url": "https://www.gamesradar.com/red-dead-redemption-2-fan-with-nearly-6000-hours-on-stadia-begs-rockstar-for-character-transfer/",
-    "upvotes": 231,
-    "author": "CharlesW",
-    "comments": 226,
-    "link": "https://news.ycombinator.com/item?id=33034534"
-  },
-  {
-    "title": "Go Micro: a standard library for distributed systems development",
-    "url": "https://github.com/go-micro/go-micro",
-    "upvotes": 55,
-    "author": "Kinrany",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=33030611"
-  },
-  {
-    "title": "NYC Proposal Offers Cash for Spotting Parking Violations in Bike Lanes",
-    "url": "https://www.bloomberg.com/news/articles/2022-09-29/nyc-may-pay-people-for-reporting-bike-lane-blockers",
-    "upvotes": 36,
-    "author": "awb",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=33036077"
-  },
-  {
-    "title": "Reducing logging cost by two orders of magnitude using CLP",
-    "url": "https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/",
-    "upvotes": 96,
-    "author": "ath0",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=33032996"
   },
   {
     "title": "Querying Postgres Tables Directly from DuckDB",
     "url": "https://duckdb.org/2022/09/30/postgres-scanner.html",
-    "upvotes": 21,
+    "upvotes": 37,
     "author": "hfmuehleisen",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=33035803"
+  },
+  {
+    "title": "A call to reconsider memory address-space isolation in Linux",
+    "url": "https://lwn.net/SubscriberLink/909469/95386a9171af0b46/",
+    "upvotes": 122,
+    "author": "chmaynard",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=33033366"
+  },
+  {
+    "title": "Go Micro: a standard library for distributed systems development",
+    "url": "https://github.com/go-micro/go-micro",
+    "upvotes": 66,
+    "author": "Kinrany",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=33030611"
+  },
+  {
+    "title": "FCC Approves 5 Year Satellite Deorbiting Rule",
+    "url": "https://payloadspace.com/fcc-approves-5-year-satellite-deorbiting-rule/",
+    "upvotes": 10,
+    "author": "sebg",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33036383"
+  },
+  {
+    "title": "Reducing logging cost by two orders of magnitude using CLP",
+    "url": "https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/",
+    "upvotes": 103,
+    "author": "ath0",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=33032996"
   },
   {
     "title": "A step-by-step guide to our solar system’s demise",
     "url": "https://nautil.us/a-step-by-step-guide-to-our-solar-systems-demise-239245/",
-    "upvotes": 91,
+    "upvotes": 99,
     "author": "nsoonhui",
-    "comments": 67,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=33032873"
   },
   {
     "title": "Introduction to the Theory of Programming Languages",
     "url": "https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/",
-    "upvotes": 156,
+    "upvotes": 158,
     "author": "ingve",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=33031724"
   },
   {
-    "title": "We worked for 4 months to build a port for Stadia and today we finished it",
-    "url": "https://old.reddit.com/r/gamedev/comments/xrkpmf/horrible_night_with_stadia_we_worked_for_45/",
-    "upvotes": 242,
-    "author": "babuskov",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=33033416"
-  },
-  {
-    "title": "Google has added ads on both its search page and Chrome://newtab",
-    "url": "item?id=33032470",
-    "upvotes": 294,
-    "author": "Nephx",
-    "comments": 239,
-    "link": "https://news.ycombinator.com/item?id=33032470"
-  },
-  {
-    "title": "Show HN: Red Goose – Convert your website to mobile app",
-    "url": "item?id=33033129",
-    "upvotes": 58,
-    "author": "satie",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=33033129"
+    "title": "Ask HN: Just received spam to an address only used at Amazon?",
+    "url": "item?id=33036782",
+    "upvotes": 13,
+    "author": "OJFord",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33036782"
   },
   {
     "title": "Looped Square Or ⌘",
     "url": "https://en.wikipedia.org/wiki/Command_key",
-    "upvotes": 160,
+    "upvotes": 167,
     "author": "Ali_Zaferani",
-    "comments": 153,
+    "comments": 159,
     "link": "https://news.ycombinator.com/item?id=33019565"
   },
   {
     "title": "New integer types I’d like to see",
     "url": "https://www.foonathan.net/2022/09/new-integer-types/",
-    "upvotes": 50,
+    "upvotes": 62,
     "author": "ibobev",
-    "comments": 54,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=33032802"
   },
   {
-    "title": "Intel announces new FPGA families",
-    "url": "https://fpgaer.tech/?p=561",
-    "upvotes": 103,
-    "author": "chclau",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=33017160"
+    "title": "Ask HN: Microsoft SmartScreen is destroying our business",
+    "url": "item?id=33036748",
+    "upvotes": 18,
+    "author": "captain_dfx",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=33036748"
+  },
+  {
+    "title": "Layoffs at Meta starts next week, leaked on Blind",
+    "url": "https://www.teamblind.com/post/Massive-layoffs-at-META-starts-next-week-6bDXueAR",
+    "upvotes": 14,
+    "author": "donsupreme",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33036764"
+  },
+  {
+    "title": "Show HN: Red Goose – Convert your website to mobile app",
+    "url": "item?id=33033129",
+    "upvotes": 60,
+    "author": "satie",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=33033129"
   },
   {
     "title": "Ask HN: HN people who write meaningful software, how did you learn to program?",
     "url": "item?id=33035576",
-    "upvotes": 12,
+    "upvotes": 22,
     "author": "curious16",
-    "comments": 11,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=33035576"
+  },
+  {
+    "title": "Data salaries at FAANG companies in 2022",
+    "url": "https://medium.com/@mikldd/data-salaries-at-faang-companies-in-2022-29d5b56b2428",
+    "upvotes": 11,
+    "author": "whispersnow",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=33036807"
+  },
+  {
+    "title": "Intel announces new FPGA families",
+    "url": "https://fpgaer.tech/?p=561",
+    "upvotes": 106,
+    "author": "chclau",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=33017160"
+  },
+  {
+    "title": "Facebook Freeloads Off Newspapers. This Plan Might Stop It",
+    "url": "https://www.wired.com/story/facebook-freeloads-off-newspapers-this-plan-might-stop-it/",
+    "upvotes": 10,
+    "author": "samizdis",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=33036714"
+  },
+  {
+    "title": "Wikipedia’s Fox News Problem",
+    "url": "https://slate.com/technology/2022/09/wikipedia-fox-news-reliability.html",
+    "upvotes": 22,
+    "author": "okasaki",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=33036067"
+  },
+  {
+    "title": "GitHub Action Transcription",
+    "url": "https://github.com/simonw/action-transcription-demo",
+    "upvotes": 6,
+    "author": "mzs",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33035369"
   },
   {
     "title": "Peep: The Network Auralizer",
     "url": "https://peep.sourceforge.net/intro.html",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "vincent_s",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=33017337"
@@ -146,93 +178,61 @@
   {
     "title": "DreamFusion: Text-to-3D using 2D Diffusion",
     "url": "https://dreamfusion3d.github.io",
-    "upvotes": 750,
+    "upvotes": 757,
     "author": "going_ham",
-    "comments": 184,
+    "comments": 189,
     "link": "https://news.ycombinator.com/item?id=33025446"
-  },
-  {
-    "title": "Cloudflare Radar 2.0",
-    "url": "https://blog.cloudflare.com/radar2/",
-    "upvotes": 38,
-    "author": "exists",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33034365"
-  },
-  {
-    "title": "Why “go nuts, show nuts” doesn’t work in 2022",
-    "url": "https://photomatt.tumblr.com/post/696629352701493248/why-go-nuts-show-nuts-doesnt-work-in-2022",
-    "upvotes": 707,
-    "author": "firloop",
-    "comments": 587,
-    "link": "https://news.ycombinator.com/item?id=33025477"
   },
   {
     "title": "Iollo",
     "url": "https://www.ycombinator.com/companies/iollo/jobs/ql9YHtG-full-stack-engineer"
   },
   {
-    "title": "Bitcoin worse for the climate than beef, say economists",
-    "url": "https://www.theregister.com/2022/09/30/bitcoin_climate_impact/",
-    "upvotes": 15,
-    "author": "samizdis",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33036436"
+    "title": "Chernobyl black frogs reveal evolution in action",
+    "url": "https://phys.org/news/2022-09-chernobyl-black-frogs-reveal-evolution.html",
+    "upvotes": 23,
+    "author": "gwbas1c",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=33035998"
   },
   {
-    "title": "Rust Nation – A UK Conference for Rustaceans",
-    "url": "https://www.rustnationuk.com",
-    "upvotes": 54,
-    "author": "samdb",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=33033323"
+    "title": "We worked for 4 months to build a port for Stadia and today we finished it",
+    "url": "https://old.reddit.com/r/gamedev/comments/xrkpmf/horrible_night_with_stadia_we_worked_for_45/",
+    "upvotes": 268,
+    "author": "babuskov",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=33033416"
   },
   {
     "title": "Obscure election will decide the fate of the open internet",
     "url": "https://www.washingtonpost.com/opinions/2022/09/28/un-international-telecommunication-union-election/",
-    "upvotes": 73,
+    "upvotes": 79,
     "author": "pseudolus",
-    "comments": 18,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=33019711"
   },
   {
     "title": "USB Charger",
     "url": "https://www.usb.org/usb-charger-pd",
-    "upvotes": 45,
+    "upvotes": 51,
     "author": "godelmachine",
-    "comments": 68,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=33034679"
   },
   {
-    "title": "Make-A-Video: AI system that generates videos from text",
-    "url": "https://makeavideo.studio/",
-    "upvotes": 930,
-    "author": "hardmaru",
-    "comments": 376,
-    "link": "https://news.ycombinator.com/item?id=33020181"
+    "title": "NYC Proposal Offers Cash for Spotting Parking Violations in Bike Lanes",
+    "url": "https://www.bloomberg.com/news/articles/2022-09-29/nyc-may-pay-people-for-reporting-bike-lane-blockers",
+    "upvotes": 64,
+    "author": "awb",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=33036077"
   },
   {
-    "title": "Elixir Sulfanilamide",
-    "url": "https://en.wikipedia.org/wiki/Elixir_sulfanilamide",
-    "upvotes": 37,
-    "author": "benbreen",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=33014834"
-  },
-  {
-    "title": "MDM: Human Motion Diffusion Model",
-    "url": "https://guytevet.github.io/mdm-page/",
-    "upvotes": 206,
-    "author": "Vt71fcAqt7",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=33029522"
-  },
-  {
-    "title": "Native Linux GPU Driver for Apple M1",
-    "url": "https://twitter.com/LinaAsahi/status/1575343067892051968",
-    "upvotes": 827,
-    "author": "yewenjie",
-    "comments": 256,
-    "link": "https://news.ycombinator.com/item?id=33019316"
+    "title": "Jack Dorsey texts Elon Musk, March 26, 2022",
+    "url": "https://twitter.com/techemails/status/1575588277700026368",
+    "upvotes": 418,
+    "author": "boulos",
+    "comments": 358,
+    "link": "https://news.ycombinator.com/item?id=33032847"
   }
 ]
