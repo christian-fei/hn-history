@@ -2,55 +2,63 @@
   {
     "title": "Baker's Math",
     "url": "https://www.thefreshloaf.com/handbook/baker039s-math",
-    "upvotes": 34,
+    "upvotes": 64,
     "author": "cwmartin",
-    "comments": 10,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=33055911"
   },
   {
     "title": "Hyperlinks in Handwriting",
     "url": "https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html",
-    "upvotes": 28,
+    "upvotes": 56,
     "author": "nathell",
-    "comments": 9,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=33055426"
+  },
+  {
+    "title": "“Rust is safe” is not some kind of absolute guarantee of code safety",
+    "url": "https://lkml.org/lkml/2022/9/19/1105#1105.php",
+    "upvotes": 106,
+    "author": "rvz",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=33056077"
   },
   {
     "title": "Data Version Control",
     "url": "https://dvc.org/",
-    "upvotes": 33,
+    "upvotes": 46,
     "author": "HerrMonnezza",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=33047634"
   },
   {
     "title": "Recon and Attack Vectors from My Logs",
     "url": "https://gist.github.com/susam/75c37fd0aff9c5e25112eac75b9ed055",
-    "upvotes": 108,
+    "upvotes": 118,
     "author": "susam",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=33054379"
   },
   {
-    "title": "“Rust is safe” is not some kind of absolute guarantee of code safety",
-    "url": "https://lkml.org/lkml/2022/9/19/1105#1105.php",
-    "upvotes": 41,
-    "author": "rvz",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=33056077"
+    "title": "Norvig's Law",
+    "url": "https://norvig.com/norvigs-law.html",
+    "upvotes": 15,
+    "author": "saikatsg",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33055767"
   },
   {
-    "title": "Ask HN: In what ways is programming more difficult today than it was years ago?",
-    "url": "item?id=33056052",
-    "upvotes": 18,
-    "author": "luuuzeta",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=33056052"
+    "title": "UnixBench is the original BYTE Unix benchmark suite",
+    "url": "https://github.com/kdlucas/byte-unixbench",
+    "upvotes": 16,
+    "author": "smartmic",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33050517"
   },
   {
     "title": "Big Problems",
     "url": "https://thoughtfulatlas.bearblog.dev/big-problems/",
-    "upvotes": 37,
+    "upvotes": 39,
     "author": "memorable",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33042910"
@@ -58,91 +66,99 @@
   {
     "title": "LSD-like molecules counter depession without the trip",
     "url": "https://www.ucsf.edu/news/2022/09/423891/lsd-molecules-counter-depression-without-trip",
-    "upvotes": 231,
+    "upvotes": 244,
     "author": "hericium",
-    "comments": 148,
+    "comments": 157,
     "link": "https://news.ycombinator.com/item?id=33052550"
-  },
-  {
-    "title": "Race Conditions Can Be Useful for Parallelism",
-    "url": "https://shwestrick.github.io/2022/09/27/useful-races.html",
-    "upvotes": 59,
-    "author": "gbrown_",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=33054378"
-  },
-  {
-    "title": "Capsule: the nano",
-    "url": "https://github.com/bots-garden/capsule",
-    "upvotes": 53,
-    "author": "rcarmo",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=33054212"
   },
   {
     "title": "Eye-tracking is a missing input device for VR experiences",
     "url": "https://mlajtos.mu/posts/gaze-contingency",
-    "upvotes": 55,
+    "upvotes": 63,
     "author": "mlajtos",
-    "comments": 56,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=33041714"
+  },
+  {
+    "title": "Show HN: FocusedEdit – a classic Macintosh to web browser shared text editor",
+    "url": "https://github.com/CamHenlin/FocusedEdit",
+    "upvotes": 9,
+    "author": "camhenlin",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33056153"
+  },
+  {
+    "title": "Race Conditions Can Be Useful for Parallelism",
+    "url": "https://shwestrick.github.io/2022/09/27/useful-races.html",
+    "upvotes": 63,
+    "author": "gbrown_",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=33054378"
   },
   {
     "title": "Tesorio",
     "url": "https://www.tesorio.com/careers#job-openings"
   },
   {
-    "title": "Emacs-like editors written in Common Lisp",
-    "url": "https://www.cliki.net/cl-emacs",
-    "upvotes": 57,
-    "author": "ducktective",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=33054430"
+    "title": "Capsule: the nano",
+    "url": "https://github.com/bots-garden/capsule",
+    "upvotes": 58,
+    "author": "rcarmo",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=33054212"
   },
   {
     "title": "The First RISC: John Cocke and the IBM 801",
     "url": "https://thechipletter.substack.com/p/the-first-risc-john-cocke-and-the",
-    "upvotes": 10,
+    "upvotes": 15,
     "author": "klelatti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33055361"
   },
   {
-    "title": "Comfy Software: A software aesthetic for hackers with depression",
-    "url": "https://catgirl.ai/log/comfy-software/",
-    "upvotes": 113,
-    "author": "vmoore",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=33053144"
+    "title": "Emacs-like editors written in Common Lisp",
+    "url": "https://www.cliki.net/cl-emacs",
+    "upvotes": 63,
+    "author": "ducktective",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=33054430"
   },
   {
-    "title": "UnixBench is the original BYTE Unix benchmark suite",
-    "url": "https://github.com/kdlucas/byte-unixbench",
-    "upvotes": 7,
-    "author": "smartmic",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33050517"
+    "title": "Comfy Software: A software aesthetic for hackers with depression",
+    "url": "https://catgirl.ai/log/comfy-software/",
+    "upvotes": 128,
+    "author": "vmoore",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=33053144"
   },
   {
     "title": "A legal dispute that will test the limits of fair use",
     "url": "https://www.theatlantic.com/ideas/archive/2022/10/warhol-copyright-fair-use-supreme-court-prince/671599/",
-    "upvotes": 67,
+    "upvotes": 77,
     "author": "fortran77",
-    "comments": 123,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=33053286"
   },
   {
-    "title": "Norvig's Law",
-    "url": "https://norvig.com/norvigs-law.html",
-    "upvotes": 5,
-    "author": "saikatsg",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33055767"
+    "title": "Meet Silicon Valley’s rattled layoff ‘survivors’",
+    "url": "https://fortune.com/2022/09/30/what-its-like-for-tech-employees-who-survive-layoffs-at-company/",
+    "upvotes": 18,
+    "author": "pseudolus",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=33056084"
+  },
+  {
+    "title": "An Algorithm for Polygon Intersections",
+    "url": "https://gorillasun.de/blog/an-algorithm-for-polygon-intersections",
+    "upvotes": 73,
+    "author": "lnyan",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=33053320"
   },
   {
     "title": "The Contrarian: How Sridhar Vembu built Zoho questioning conventional wisdom",
     "url": "https://foundingfuel.com/article/the-contrarian/",
-    "upvotes": 55,
+    "upvotes": 58,
     "author": "sokradhar",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=33054047"
@@ -150,47 +166,47 @@
   {
     "title": "Great Works in Programming Languages",
     "url": "https://www.cis.upenn.edu/%7Ebcpierce/courses/670Fall04/GreatWorksInPL.shtml",
-    "upvotes": 82,
+    "upvotes": 88,
     "author": "mooreds",
-    "comments": 28,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=33037463"
   },
   {
-    "title": "An Algorithm for Polygon Intersections",
-    "url": "https://gorillasun.de/blog/an-algorithm-for-polygon-intersections",
-    "upvotes": 60,
-    "author": "lnyan",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=33053320"
-  },
-  {
-    "title": "Mandated diversity statement drives Jonathan Haidt to quit academic society",
-    "url": "https://reason.com/2022/09/30/mandated-diversity-statement-drives-jonathan-haidt-to-quit-academic-society/",
-    "upvotes": 231,
-    "author": "mpweiher",
-    "comments": 241,
-    "link": "https://news.ycombinator.com/item?id=33053149"
+    "title": "Jagua fruit makes tattoos, antibiotics, and dessert",
+    "url": "https://www.atlasobscura.com/foods/jagua-tattoo",
+    "upvotes": 3,
+    "author": "respinal",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33042253"
   },
   {
     "title": "Domain Pascal Language Reference",
     "url": "http://bitsavers.informatik.uni-stuttgart.de/pdf/apollo/000792-04_DOMAIN_Pascal_Language_Reference_Jan87.pdf",
-    "upvotes": 23,
+    "upvotes": 27,
     "author": "Tomte",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33038143"
   },
   {
-    "title": "Meet Silicon Valley’s rattled layoff ‘survivors’",
-    "url": "https://fortune.com/2022/09/30/what-its-like-for-tech-employees-who-survive-layoffs-at-company/",
-    "upvotes": 8,
-    "author": "pseudolus",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=33056084"
+    "title": "Mandated diversity statement drives Jonathan Haidt to quit academic society",
+    "url": "https://reason.com/2022/09/30/mandated-diversity-statement-drives-jonathan-haidt-to-quit-academic-society/",
+    "upvotes": 253,
+    "author": "mpweiher",
+    "comments": 284,
+    "link": "https://news.ycombinator.com/item?id=33053149"
+  },
+  {
+    "title": "Milky Way's graveyard of dead stars found",
+    "url": "https://phys.org/news/2022-09-milky-graveyard-dead-stars.html",
+    "upvotes": 78,
+    "author": "8bitsrule",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33052588"
   },
   {
     "title": "What Openness to Experience Means",
     "url": "https://thingofthings.substack.com/p/what-openness-to-experience-means",
-    "upvotes": 17,
+    "upvotes": 19,
     "author": "jger15",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=33046889"
@@ -198,39 +214,23 @@
   {
     "title": "Co-writing longform narratives with Dramatron",
     "url": "https://arxiv.org/abs/2209.14958",
-    "upvotes": 57,
+    "upvotes": 58,
     "author": "dr_dshiv",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=33047020"
   },
   {
-    "title": "Stadia died because no one trusts Google",
-    "url": "https://techcrunch.com/2022/10/01/stadia-died-because-no-one-trusts-google/",
-    "upvotes": 612,
-    "author": "lots2learn",
-    "comments": 483,
-    "link": "https://news.ycombinator.com/item?id=33051393"
-  },
-  {
     "title": "NetNewsWire: Free and Open Source RSS Reader for Mac and iOS",
     "url": "https://netnewswire.com/",
-    "upvotes": 266,
+    "upvotes": 272,
     "author": "sogen",
-    "comments": 79,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=33052441"
-  },
-  {
-    "title": "Milky Way's graveyard of dead stars found",
-    "url": "https://phys.org/news/2022-09-milky-graveyard-dead-stars.html",
-    "upvotes": 67,
-    "author": "8bitsrule",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=33052588"
   },
   {
     "title": "Adventures in dynamic software, visualisations, creating a JVM language",
     "url": "https://luisthiamnye.substack.com/p/adventures-in-dynamic-software-visualisations",
-    "upvotes": 41,
+    "upvotes": 44,
     "author": "tosh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33053007"
