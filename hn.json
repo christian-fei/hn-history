@@ -2,47 +2,47 @@
   {
     "title": "Tell HN: A disabled 40-year-old person founded a startup and makes a living",
     "url": "item?id=33062606",
-    "upvotes": 334,
+    "upvotes": 377,
     "author": "michaelcao",
-    "comments": 81,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=33062606"
   },
   {
     "title": "Maigret: Collect a dossier on a person by username from thousands of sites",
     "url": "https://github.com/soxoj/maigret",
-    "upvotes": 298,
+    "upvotes": 318,
     "author": "denysvitali",
-    "comments": 108,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=33061058"
   },
   {
     "title": "A study of lights at night suggests dictators lie about economic growth",
     "url": "https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth",
-    "upvotes": 30,
+    "upvotes": 41,
     "author": "gok",
-    "comments": 14,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=33044427"
-  },
-  {
-    "title": "How a razor blade can be damaged as it cuts human hair",
-    "url": "https://news.mit.edu/2020/why-shaving-dulls-razors-0806",
-    "upvotes": 69,
-    "author": "raphar",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=33063196"
   },
   {
     "title": "There Is Simply Too Much Internet",
     "url": "https://edzitron.medium.com/there-is-simply-too-much-internet-7ed232938709",
-    "upvotes": 35,
+    "upvotes": 46,
     "author": "herbertl",
-    "comments": 20,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=33042732"
+  },
+  {
+    "title": "How a razor blade can be damaged as it cuts human hair",
+    "url": "https://news.mit.edu/2020/why-shaving-dulls-razors-0806",
+    "upvotes": 74,
+    "author": "raphar",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=33063196"
   },
   {
     "title": "New Pegasus spyware abuses identified in Mexico",
     "url": "https://citizenlab.ca/2022/10/new-pegasus-spyware-abuses-identified-in-mexico/",
-    "upvotes": 128,
+    "upvotes": 133,
     "author": "stefan_",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=33061826"
@@ -50,155 +50,163 @@
   {
     "title": "First make the change easy, then make the easy change",
     "url": "https://www.adamtal.me/2019/05/first-make-the-change-easy-then-make-the-easy-change",
-    "upvotes": 236,
+    "upvotes": 245,
     "author": "kiyanwang",
-    "comments": 71,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=33059910"
-  },
-  {
-    "title": "Feel the power of the Manifest v3",
-    "url": "https://github.com/gildas-lormeau/SingleFile-Lite",
-    "upvotes": 173,
-    "author": "keks24",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=33063619"
-  },
-  {
-    "title": "Linux Kernel 6.0",
-    "url": "https://lwn.net/Articles/910087/",
-    "upvotes": 244,
-    "author": "ecliptik",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=33062252"
   },
   {
     "title": "Matrix-webcam displays your webcam video feed in the console",
     "url": "https://github.com/joschuck/matrix-webcam",
-    "upvotes": 335,
+    "upvotes": 343,
     "author": "joschuck",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=33058242"
   },
   {
-    "title": "Paseto is everything you love about JWT without any of the design deficits",
-    "url": "https://paseto.io/",
-    "upvotes": 29,
-    "author": "thunderbong",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=33063305"
+    "title": "How Bots Corrupted Advertising",
+    "url": "https://www.wired.com/story/bots-online-advertising/",
+    "upvotes": 9,
+    "author": "marban",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33045372"
   },
   {
-    "title": "Why JWTs Suck as Session Tokens",
-    "url": "https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens",
-    "upvotes": 70,
-    "author": "powvans",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=33061873"
+    "title": "Feel the power of the Manifest v3",
+    "url": "https://github.com/gildas-lormeau/SingleFile-Lite",
+    "upvotes": 187,
+    "author": "keks24",
+    "comments": 131,
+    "link": "https://news.ycombinator.com/item?id=33063619"
+  },
+  {
+    "title": "Linux Kernel 6.0",
+    "url": "https://lwn.net/Articles/910087/",
+    "upvotes": 256,
+    "author": "ecliptik",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=33062252"
+  },
+  {
+    "title": "Paseto is everything you love about JWT without any of the design deficits",
+    "url": "https://paseto.io/",
+    "upvotes": 39,
+    "author": "thunderbong",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=33063305"
   },
   {
     "title": "Muon: GPU Based Electron on a Diet",
     "url": "https://github.com/ImVexed/muon",
-    "upvotes": 113,
+    "upvotes": 118,
     "author": "nateb2022",
-    "comments": 55,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=33061167"
+  },
+  {
+    "title": "Why JWTs Suck as Session Tokens",
+    "url": "https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens",
+    "upvotes": 76,
+    "author": "powvans",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=33061873"
   },
   {
     "title": "Build your fanbase using the K-pop method",
     "url": "https://lulu.substack.com/p/fandom",
-    "upvotes": 161,
+    "upvotes": 164,
     "author": "cjbest",
-    "comments": 87,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=33049922"
-  },
-  {
-    "title": "PayPal’s updated acceptable use policy [pdf]",
-    "url": "https://www.paypalobjects.com/marketing/ua/pdf/AU/en/acceptableuse-full-110322.pdf",
-    "upvotes": 248,
-    "author": "lettergram",
-    "comments": 230,
-    "link": "https://news.ycombinator.com/item?id=33062320"
   },
   {
     "title": "New asteroid strike images show impact 'a lot bigger than expected'",
     "url": "https://www.spacedaily.com/reports/New_asteroid_strike_images_show_impact_a_lot_bigger_than_expected_999.html",
     "upvotes": 85,
     "author": "docmechanic",
-    "comments": 56,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=33061000"
+  },
+  {
+    "title": "PayPal’s updated acceptable use policy [pdf]",
+    "url": "https://www.paypalobjects.com/marketing/ua/pdf/AU/en/acceptableuse-full-110322.pdf",
+    "upvotes": 253,
+    "author": "lettergram",
+    "comments": 236,
+    "link": "https://news.ycombinator.com/item?id=33062320"
+  },
+  {
+    "title": "Mark Zuckerberg says Meta will freeze hiring and cut costs",
+    "url": "https://techcrunch.com/2022/09/29/meta-hiring-freeze-zuckerberg/",
+    "upvotes": 14,
+    "author": "kiyanwang",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33064749"
   },
   {
     "title": "Go Auth Lib",
     "url": "https://github.com/go-pkgz/auth",
     "upvotes": 75,
     "author": "debdut",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=33061299"
   },
   {
     "title": "A near-disaster at a nuclear weapons lab takes toll on America’s arsenal",
     "url": "https://www.science.org/content/article/near-disaster-federal-nuclear-weapons-laboratory-takes-hidden-toll-america-s-arsenal",
-    "upvotes": 273,
+    "upvotes": 279,
     "author": "midwestfounder",
-    "comments": 176,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=33061137"
-  },
-  {
-    "title": "How Bots Corrupted Advertising",
-    "url": "https://www.wired.com/story/bots-online-advertising/",
-    "upvotes": 3,
-    "author": "marban",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33045372"
   },
   {
     "title": "Flexport is hiring engineers to build technology to power supply chains",
     "url": "https://flexport.com/careers"
   },
   {
-    "title": "BBSing at 300 Bits per Second",
-    "url": "https://jcs.org/2022/10/02/whisper_writer",
-    "upvotes": 55,
-    "author": "zdw",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=33060288"
-  },
-  {
-    "title": "Breakthrough in understanding how cancer spreads could lead to better treatments",
-    "url": "https://www.cam.ac.uk/research/news/breakthrough-in-understanding-of-how-cancer-spreads-could-lead-to-better-treatments",
-    "upvotes": 49,
-    "author": "elorant",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=33048627"
+    "title": "Joining the Church of Emacs",
+    "url": "https://fuzzypixelz.com/blog/joining-the-church-of-emacs/",
+    "upvotes": 43,
+    "author": "zetaposter",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=33060527"
   },
   {
     "title": "Software, not hardware, will drive quantum and neuromorphic computing",
     "url": "https://www.nextplatform.com/2022/09/30/software-not-hardware-will-drive-quantum-and-neuromorphic-computing/",
-    "upvotes": 23,
+    "upvotes": 25,
     "author": "rntn",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=33044492"
   },
   {
     "title": "Keeping cool: A common refrigerant shows promise for metal recycling",
     "url": "https://phys.org/news/2022-09-cool-common-refrigerant-metal-recycling.html",
-    "upvotes": 13,
+    "upvotes": 15,
     "author": "PaulHoule",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33039245"
   },
   {
-    "title": "Joining the Church of Emacs",
-    "url": "https://fuzzypixelz.com/blog/joining-the-church-of-emacs/",
-    "upvotes": 33,
-    "author": "zetaposter",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=33060527"
+    "title": "Breakthrough in understanding how cancer spreads could lead to better treatments",
+    "url": "https://www.cam.ac.uk/research/news/breakthrough-in-understanding-of-how-cancer-spreads-could-lead-to-better-treatments",
+    "upvotes": 53,
+    "author": "elorant",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=33048627"
+  },
+  {
+    "title": "BBSing at 300 Bits per Second",
+    "url": "https://jcs.org/2022/10/02/whisper_writer",
+    "upvotes": 56,
+    "author": "zdw",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=33060288"
   },
   {
     "title": "The lost art of handheld demakes",
     "url": "https://wireframe.raspberrypi.com/articles/the-lost-art-of-handheld-demakes",
-    "upvotes": 25,
+    "upvotes": 27,
     "author": "Kaibeezy",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=33045371"
@@ -206,33 +214,25 @@
   {
     "title": "Toyota CEO talks about why he isn’t all-in on EVs",
     "url": "https://www.cnbc.com/2022/10/02/toyota-ceo-akio-toyoda-electric-vehicles-happy-dance.html",
-    "upvotes": 191,
+    "upvotes": 193,
     "author": "mfiguiere",
-    "comments": 737,
+    "comments": 764,
     "link": "https://news.ycombinator.com/item?id=33057003"
-  },
-  {
-    "title": "Cobra Maneuver",
-    "url": "https://en.wikipedia.org/wiki/Cobra_maneuver",
-    "upvotes": 202,
-    "author": "Hooke",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=33056993"
-  },
-  {
-    "title": "Identity and Access Management Workforce Planning",
-    "url": "https://bok.idpro.org/article/id/85/",
-    "upvotes": 33,
-    "author": "mooreds",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33043513"
   },
   {
     "title": "How a Stable Diffusion prompt changes its output for the style of 1500 artists",
     "url": "https://gorgeous.adityashankar.xyz",
-    "upvotes": 332,
+    "upvotes": 338,
     "author": "politelemon",
     "comments": 163,
     "link": "https://news.ycombinator.com/item?id=33055340"
+  },
+  {
+    "title": "Cobra Maneuver",
+    "url": "https://en.wikipedia.org/wiki/Cobra_maneuver",
+    "upvotes": 203,
+    "author": "Hooke",
+    "comments": 134,
+    "link": "https://news.ycombinator.com/item?id=33056993"
   }
 ]
