@@ -2,55 +2,63 @@
   {
     "title": "Knuth's Art of Computer Programming, V 4B, has gone into print",
     "url": "https://www-cs-faculty.stanford.edu/~knuth/news.html#v4b",
-    "upvotes": 99,
+    "upvotes": 166,
     "author": "inetsee",
-    "comments": 27,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=33082128"
   },
   {
     "title": "ClickHouse Cloud is now in Public Beta",
     "url": "https://clickhouse.com/blog/clickhouse-cloud-public-beta",
-    "upvotes": 170,
+    "upvotes": 186,
     "author": "taubek",
-    "comments": 53,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=33080631"
   },
   {
     "title": "Building a Startup on Clojure",
     "url": "https://wobaka.com/blog/building-a-startup-on-clojure/",
-    "upvotes": 64,
+    "upvotes": 77,
     "author": "drikerf",
-    "comments": 36,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=33081443"
   },
   {
     "title": "How fateful?",
     "url": "https://chan.co.za/how-fateful",
-    "upvotes": 778,
+    "upvotes": 805,
     "author": "parabyl",
-    "comments": 240,
+    "comments": 244,
     "link": "https://news.ycombinator.com/item?id=33077473"
   },
   {
     "title": "SQLite: QEMU All over Again?",
     "url": "https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c",
-    "upvotes": 49,
+    "upvotes": 64,
     "author": "eatonphil",
-    "comments": 34,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=33081159"
   },
   {
     "title": "The deception of “buying” digital movies",
     "url": "https://worldofmatthew.com/technology/amazon-itunes-deception/",
-    "upvotes": 314,
+    "upvotes": 339,
     "author": "worldofmatthew",
-    "comments": 285,
+    "comments": 313,
     "link": "https://news.ycombinator.com/item?id=33078719"
+  },
+  {
+    "title": "Ignore 98% of dependency alerts: introducing Semgrep Supply Chain",
+    "url": "https://r2c.dev/blog/2022/introducing-semgrep-supply-chain/",
+    "upvotes": 31,
+    "author": "ievans",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=33082064"
   },
   {
     "title": "Pg_squeeze: An extension to fix table bloat",
     "url": "https://www.cybertec-postgresql.com/en/products/pg_squeeze/",
-    "upvotes": 21,
+    "upvotes": 25,
     "author": "soheilpro",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=33081709"
@@ -58,33 +66,49 @@
   {
     "title": "The Other Internet",
     "url": "https://www.robinrendle.com/notes/the-other-internet/",
-    "upvotes": 73,
+    "upvotes": 79,
     "author": "ZacnyLos",
-    "comments": 33,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=33041355"
+  },
+  {
+    "title": "Lowest “Who is hiring?” Post Count in 30 Months",
+    "url": "item?id=33083279",
+    "upvotes": 17,
+    "author": "trenning",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=33083279"
   },
   {
     "title": "“The Onion” Files a Supreme Court Brief",
     "url": "https://www.nytimes.com/2022/10/04/us/the-onion-supreme-court.html",
-    "upvotes": 194,
+    "upvotes": 226,
     "author": "fortran77",
-    "comments": 66,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=33080052"
   },
   {
     "title": "UML: My Part in Its Downfall",
     "url": "https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html",
-    "upvotes": 159,
+    "upvotes": 165,
     "author": "ltratt",
-    "comments": 177,
+    "comments": 184,
     "link": "https://news.ycombinator.com/item?id=33077533"
+  },
+  {
+    "title": "Introducing NVK",
+    "url": "https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html",
+    "upvotes": 10,
+    "author": "phire",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33082688"
   },
   {
     "title": "EU Passes Law to Switch iPhone to USB-C by End of 2024",
     "url": "https://www.macrumors.com/2022/10/04/eu-passes-law-to-switch-iphone-to-usb-c-in-2024/",
-    "upvotes": 419,
+    "upvotes": 441,
     "author": "popol12",
-    "comments": 776,
+    "comments": 834,
     "link": "https://news.ycombinator.com/item?id=33078596"
   },
   {
@@ -92,85 +116,101 @@
     "url": "https://goughlui.com/2021/09/03/note-potential-issues-of-using-a-usb-powerbank-as-a-ups/",
     "upvotes": 159,
     "author": "walterbell",
-    "comments": 80,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=33077407"
-  },
-  {
-    "title": "Ignore 98% of dependency alerts: introducing Semgrep Supply Chain",
-    "url": "https://r2c.dev/blog/2022/introducing-semgrep-supply-chain/",
-    "upvotes": 10,
-    "author": "ievans",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33082064"
   },
   {
     "title": "The Gibson Rev 001 Dual LCD/E-Ink Cyberdeck",
     "url": "https://hackaday.io/project/187572-gibson-rev-001",
-    "upvotes": 23,
+    "upvotes": 25,
     "author": "rcarmo",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=33047791"
+  },
+  {
+    "title": "Steve Yegge Joins as Head of Engineering of Sourcegraph",
+    "url": "https://about.sourcegraph.com/blog/introducing-steve-yegge",
+    "upvotes": 32,
+    "author": "misternugget",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33082636"
+  },
+  {
+    "title": "Bai Juyi: The Tang dynasty’s baldest poet",
+    "url": "https://www.medievalists.net/2022/09/bai-juyi-baldest-poet/",
+    "upvotes": 20,
+    "author": "apollinaire",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33053020"
   },
   {
     "title": "Nobel Prize in Physics Awarded to Alain Aspect, John Clauser and Anton Zeilinger",
     "url": "https://www.nobelprize.org/prizes/physics/2022/summary/",
-    "upvotes": 219,
+    "upvotes": 224,
     "author": "solarist",
-    "comments": 94,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=33078212"
-  },
-  {
-    "title": "Why is it so hard to write a scaffolding tool?",
-    "url": "https://jfreeman.dev/blog/2019/05/02/why-is-it-so-hard-to-write-a-scaffolding-tool/",
-    "upvotes": 22,
-    "author": "noworriesnate",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=33079544"
   },
   {
     "title": "Codebase as Database: Turning the IDE Inside Out with Datalog",
     "url": "https://petevilter.me/post/datalog-typechecking/",
-    "upvotes": 227,
+    "upvotes": 230,
     "author": "rohitpaulk",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=33076092"
   },
   {
-    "title": "US Job Outlook for Software Developers, Quality Assurance Analysts, and Testers",
-    "url": "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm#tab-6",
-    "upvotes": 37,
-    "author": "mooreds",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=33080251"
+    "title": "Why is it so hard to write a scaffolding tool?",
+    "url": "https://jfreeman.dev/blog/2019/05/02/why-is-it-so-hard-to-write-a-scaffolding-tool/",
+    "upvotes": 24,
+    "author": "noworriesnate",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=33079544"
   },
   {
     "title": "Testing a Cheap ExpressCard to NVMe SSD Adapter on My ThinkPad T430",
     "url": "https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/",
-    "upvotes": 177,
+    "upvotes": 178,
     "author": "hddherman",
-    "comments": 61,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=33076160"
+  },
+  {
+    "title": "Spark email client goes subscription path",
+    "url": "https://sparkmailapp.com/plans-comparison",
+    "upvotes": 11,
+    "author": "boogdan",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=33081621"
   },
   {
     "title": "‘Inventor of the Future’ Review: Buckminster Fuller’s Big Designs",
     "url": "https://www.wsj.com/articles/inventor-of-the-future-book-review-buckminster-fullers-big-designs-11664551418",
-    "upvotes": 8,
+    "upvotes": 10,
     "author": "Caiero",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=33052612"
   },
   {
     "title": "Ask HN: So you moved off Heroku, where did you go?",
     "url": "item?id=33077118",
-    "upvotes": 291,
+    "upvotes": 303,
     "author": "nomilk",
-    "comments": 222,
+    "comments": 227,
     "link": "https://news.ycombinator.com/item?id=33077118"
+  },
+  {
+    "title": "US Job Outlook for Software Developers, Quality Assurance Analysts, and Testers",
+    "url": "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm#tab-6",
+    "upvotes": 45,
+    "author": "mooreds",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=33080251"
   },
   {
     "title": "Working on the “Web” Browser for the MEGA65",
     "url": "https://c65gs.blogspot.com/2022/10/working-on-web-browser-for-mega65.html",
-    "upvotes": 27,
+    "upvotes": 28,
     "author": "ingve",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33078631"
@@ -178,65 +218,25 @@
   {
     "title": "Hollywood: Unmasking informant T-10",
     "url": "https://content.time.com/time/magazine/article/0,9171,959749,00.html",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "hhs",
-    "comments": 21,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=33049844"
   },
   {
     "title": "Ask HN: How to find what I am really good at?",
     "url": "item?id=33077489",
-    "upvotes": 150,
+    "upvotes": 161,
     "author": "pr07ecH70r",
-    "comments": 176,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=33077489"
-  },
-  {
-    "title": "Spark email client goes subscription path",
-    "url": "https://sparkmailapp.com/plans-comparison",
-    "upvotes": 6,
-    "author": "boogdan",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33081621"
   },
   {
     "title": "The HTML5 Shiv",
     "url": "https://www.paulirish.com/2011/the-history-of-the-html5-shiv/",
-    "upvotes": 68,
+    "upvotes": 71,
     "author": "robin_reala",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=33077038"
-  },
-  {
-    "title": "Walmart, CVS face trial for sham homeopathic products next to real meds",
-    "url": "https://arstechnica.com/science/2022/10/walmart-cvs-face-trial-for-putting-sham-homeopathic-products-next-to-real-meds/",
-    "upvotes": 103,
-    "author": "dxs",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=33081206"
-  },
-  {
-    "title": "Bai Juyi: The Tang dynasty’s baldest poet",
-    "url": "https://www.medievalists.net/2022/09/bai-juyi-baldest-poet/",
-    "upvotes": 14,
-    "author": "apollinaire",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33053020"
-  },
-  {
-    "title": "Show HN: Generate code and diagrams from live infrastructure, AWS/Azure/GCP",
-    "url": "https://www.grucloud.com/",
-    "upvotes": 13,
-    "author": "frederich",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=33079714"
-  },
-  {
-    "title": "We Burned Down Players’ Houses in Ultima Online",
-    "url": "https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0?gi=d16a5fbc3623",
-    "upvotes": 489,
-    "author": "yreg",
-    "comments": 226,
-    "link": "https://news.ycombinator.com/item?id=33074289"
   }
 ]
