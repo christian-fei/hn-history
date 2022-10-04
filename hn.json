@@ -1,66 +1,74 @@
 [
   {
+    "title": "ClickHouse Cloud is now in Public Beta",
+    "url": "https://clickhouse.com/blog/clickhouse-cloud-public-beta",
+    "upvotes": 77,
+    "author": "taubek",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=33080631"
+  },
+  {
     "title": "How fateful?",
     "url": "https://chan.co.za/how-fateful",
-    "upvotes": 646,
+    "upvotes": 692,
     "author": "parabyl",
-    "comments": 192,
+    "comments": 209,
     "link": "https://news.ycombinator.com/item?id=33077473"
   },
   {
     "title": "The deception of “buying” digital movies",
     "url": "https://worldofmatthew.com/technology/amazon-itunes-deception/",
-    "upvotes": 167,
+    "upvotes": 203,
     "author": "worldofmatthew",
-    "comments": 149,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=33078719"
-  },
-  {
-    "title": "ClickHouse Cloud is now in Public Beta",
-    "url": "https://clickhouse.com/blog/clickhouse-cloud-public-beta",
-    "upvotes": 49,
-    "author": "taubek",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33080631"
-  },
-  {
-    "title": "UML: My Part in Its Downfall",
-    "url": "https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html",
-    "upvotes": 134,
-    "author": "ltratt",
-    "comments": 142,
-    "link": "https://news.ycombinator.com/item?id=33077533"
   },
   {
     "title": "The Other Internet",
     "url": "https://www.robinrendle.com/notes/the-other-internet/",
-    "upvotes": 31,
+    "upvotes": 37,
     "author": "ZacnyLos",
-    "comments": 8,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=33041355"
+  },
+  {
+    "title": "UML: My Part in Its Downfall",
+    "url": "https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html",
+    "upvotes": 143,
+    "author": "ltratt",
+    "comments": 154,
+    "link": "https://news.ycombinator.com/item?id=33077533"
   },
   {
     "title": "Potential Issues of Using a USB Powerbank as a UPS",
     "url": "https://goughlui.com/2021/09/03/note-potential-issues-of-using-a-usb-powerbank-as-a-ups/",
-    "upvotes": 131,
+    "upvotes": 140,
     "author": "walterbell",
-    "comments": 63,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=33077407"
+  },
+  {
+    "title": "“The Onion” Files a Supreme Court Brief",
+    "url": "https://www.nytimes.com/2022/10/04/us/the-onion-supreme-court.html",
+    "upvotes": 65,
+    "author": "fortran77",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33080052"
   },
   {
     "title": "EU Passes Law to Switch iPhone to USB-C by End of 2024",
     "url": "https://www.macrumors.com/2022/10/04/eu-passes-law-to-switch-iphone-to-usb-c-in-2024/",
-    "upvotes": 270,
+    "upvotes": 301,
     "author": "popol12",
-    "comments": 548,
+    "comments": 586,
     "link": "https://news.ycombinator.com/item?id=33078596"
   },
   {
     "title": "Nobel Prize in Physics Awarded to Alain Aspect, John Clauser and Anton Zeilinger",
     "url": "https://www.nobelprize.org/prizes/physics/2022/summary/",
-    "upvotes": 172,
+    "upvotes": 184,
     "author": "solarist",
-    "comments": 78,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=33078212"
   },
   {
@@ -68,21 +76,21 @@
     "url": "https://jfreeman.dev/blog/2019/05/02/why-is-it-so-hard-to-write-a-scaffolding-tool/",
     "upvotes": 14,
     "author": "noworriesnate",
-    "comments": 9,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=33079544"
   },
   {
-    "title": "“The Onion” Files a Supreme Court Brief",
-    "url": "https://www.nytimes.com/2022/10/04/us/the-onion-supreme-court.html",
-    "upvotes": 33,
-    "author": "fortran77",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=33080052"
+    "title": "The Gibson Rev 001 Dual LCD/E-Ink Cyberdeck",
+    "url": "https://hackaday.io/project/187572-gibson-rev-001",
+    "upvotes": 10,
+    "author": "rcarmo",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=33047791"
   },
   {
     "title": "Codebase as Database: Turning the IDE Inside Out with Datalog",
     "url": "https://petevilter.me/post/datalog-typechecking/",
-    "upvotes": 211,
+    "upvotes": 214,
     "author": "rohitpaulk",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=33076092"
@@ -90,47 +98,39 @@
   {
     "title": "Testing a Cheap ExpressCard to NVMe SSD Adapter on My ThinkPad T430",
     "url": "https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/",
-    "upvotes": 169,
+    "upvotes": 170,
     "author": "hddherman",
     "comments": 61,
     "link": "https://news.ycombinator.com/item?id=33076160"
   },
   {
+    "title": "Ask HN: So you moved off Heroku, where did you go?",
+    "url": "item?id=33077118",
+    "upvotes": 257,
+    "author": "nomilk",
+    "comments": 187,
+    "link": "https://news.ycombinator.com/item?id=33077118"
+  },
+  {
     "title": "Working on the “Web” Browser for the MEGA65",
     "url": "https://c65gs.blogspot.com/2022/10/working-on-web-browser-for-mega65.html",
-    "upvotes": 20,
+    "upvotes": 21,
     "author": "ingve",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33078631"
   },
   {
-    "title": "Ask HN: So you moved off Heroku, where did you go?",
-    "url": "item?id=33077118",
-    "upvotes": 243,
-    "author": "nomilk",
-    "comments": 178,
-    "link": "https://news.ycombinator.com/item?id=33077118"
-  },
-  {
     "title": "Hollywood: Unmasking informant T-10",
     "url": "https://content.time.com/time/magazine/article/0,9171,959749,00.html",
-    "upvotes": 14,
+    "upvotes": 15,
     "author": "hhs",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=33049844"
-  },
-  {
-    "title": "The Gibson Rev 001 Dual LCD/E-Ink Cyberdeck",
-    "url": "https://hackaday.io/project/187572-gibson-rev-001",
-    "upvotes": 6,
-    "author": "rcarmo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33047791"
   },
   {
     "title": "The Effect of Space Weather on Human Body at the Spitsbergen Archipelago",
     "url": "https://www.intechopen.com/chapters/69119",
-    "upvotes": 31,
+    "upvotes": 32,
     "author": "graderjs",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=33078147"
@@ -138,41 +138,41 @@
   {
     "title": "Ask HN: How to find what I am really good at?",
     "url": "item?id=33077489",
-    "upvotes": 118,
+    "upvotes": 127,
     "author": "pr07ecH70r",
-    "comments": 131,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=33077489"
   },
   {
     "title": "The HTML5 Shiv",
     "url": "https://www.paulirish.com/2011/the-history-of-the-html5-shiv/",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "robin_reala",
-    "comments": 9,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=33077038"
   },
   {
     "title": "DNS Providers as Piracy Fighters?",
     "url": "https://torrentfreak.com/dns-providers-as-piracy-fighters-enforcement-groups-weigh-options-221001/",
-    "upvotes": 81,
+    "upvotes": 82,
     "author": "HieronymusBosch",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=33047706"
   },
   {
     "title": "We Burned Down Players’ Houses in Ultima Online",
     "url": "https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0?gi=d16a5fbc3623",
-    "upvotes": 469,
+    "upvotes": 471,
     "author": "yreg",
-    "comments": 208,
+    "comments": 210,
     "link": "https://news.ycombinator.com/item?id=33074289"
   },
   {
     "title": "DVD drives turned into microscopes",
     "url": "https://hackaday.com/2022/10/01/dvd-drives-turned-into-microscopes/",
-    "upvotes": 94,
+    "upvotes": 97,
     "author": "Tomte",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=33044913"
   },
   {
@@ -180,24 +180,24 @@
     "url": "https://www.wsj.com/articles/internet-mangles-names-accents-web-forms-11664462695",
     "upvotes": 69,
     "author": "prostoalex",
-    "comments": 77,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=33075401"
-  },
-  {
-    "title": "Ask HN: Examples of Microkernels?",
-    "url": "item?id=33078441",
-    "upvotes": 38,
-    "author": "agomez314",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=33078441"
   },
   {
     "title": "VLC-developer VideoLAN sends legal notice to Indian ministries over ban",
     "url": "https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/",
-    "upvotes": 146,
+    "upvotes": 154,
     "author": "jmsflknr",
-    "comments": 50,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=33077441"
+  },
+  {
+    "title": "Ask HN: Examples of Microkernels?",
+    "url": "item?id=33078441",
+    "upvotes": 41,
+    "author": "agomez314",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=33078441"
   },
   {
     "title": "The TC39 Process",
@@ -210,33 +210,33 @@
   {
     "title": "Junior Designers vs. Senior Designers",
     "url": "https://vanschneider.com/blog/young-designers/junior-designers-vs-senior-designers/",
-    "upvotes": 87,
+    "upvotes": 90,
     "author": "homarp",
-    "comments": 42,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=33037975"
   },
   {
     "title": "Xerox PARC – Office Alto Commercial",
     "url": "https://www.youtube.com/watch?v=M0zgj2p7Ww4",
-    "upvotes": 70,
+    "upvotes": 74,
     "author": "akamaka",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=33047574"
   },
   {
-    "title": "Postgres WASM",
-    "url": "https://supabase.com/blog/postgres-wasm",
-    "upvotes": 830,
-    "author": "kiwicopple",
-    "comments": 168,
-    "link": "https://news.ycombinator.com/item?id=33067962"
+    "title": "Show HN: Generate code and diagrams from live infrastructure, AWS/Azure/GCP",
+    "url": "https://www.grucloud.com/",
+    "upvotes": 4,
+    "author": "frederich",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33079714"
   },
   {
-    "title": "ZFS 2.1.6",
-    "url": "https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6",
-    "upvotes": 148,
-    "author": "lysp",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=33076012"
+    "title": "Walmart, CVS face trial for sham homeopathic products next to real meds",
+    "url": "https://arstechnica.com/science/2022/10/walmart-cvs-face-trial-for-putting-sham-homeopathic-products-next-to-real-meds/",
+    "upvotes": 4,
+    "author": "dxs",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33081206"
   }
 ]
