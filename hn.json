@@ -1,56 +1,80 @@
 [
   {
+    "title": "Discovering faster matrix multiplication algorithms with reinforcement learning",
+    "url": "https://www.nature.com/articles/s41586-022-05172-4",
+    "upvotes": 25,
+    "author": "shantanu_sharma",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33096580"
+  },
+  {
     "title": "Watchman: Execute a command when something changes",
     "url": "https://github.com/crodjer/watchman",
-    "upvotes": 72,
+    "upvotes": 107,
     "author": "ColinWright",
-    "comments": 25,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=33094829"
   },
   {
     "title": "Cpm65: CP/M for the 6502",
     "url": "https://github.com/davidgiven/cpm65",
-    "upvotes": 53,
+    "upvotes": 57,
     "author": "ingve",
-    "comments": 9,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=33094710"
   },
   {
     "title": "Show HN: Sharing, command-line tool to share files with your phone",
     "url": "https://github.com/parvardegr/sharing",
-    "upvotes": 52,
+    "upvotes": 69,
     "author": "parvardegr",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=33094627"
-  },
-  {
-    "title": "Show HN: Kafka 0.8.0 on Cloudflare Workers",
-    "url": "https://github.com/maxwellpeterson/kafka-worker",
-    "upvotes": 44,
-    "author": "maxwellpeterson",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=33094720"
   },
   {
     "title": "CMSC 430: Design and Implementation of Programming Languages",
     "url": "https://www.cs.umd.edu/class/fall2022/cmsc430/index.html",
-    "upvotes": 89,
+    "upvotes": 105,
     "author": "ingve",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=33093666"
+  },
+  {
+    "title": "Show HN: Kafka 0.8.0 on Cloudflare Workers",
+    "url": "https://github.com/maxwellpeterson/kafka-worker",
+    "upvotes": 55,
+    "author": "maxwellpeterson",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=33094720"
+  },
+  {
+    "title": "QR code images in macOS are silently executed in the background hours/days later",
+    "url": "https://twitter.com/simonw/status/1577674380133269504",
+    "upvotes": 37,
+    "author": "robbiet480",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=33096540"
+  },
+  {
+    "title": "Memories: Edinburgh ML to Standard ML",
+    "url": "https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html",
+    "upvotes": 12,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33096395"
   },
   {
     "title": "Castopod – Open-source podcast hosting platform",
     "url": "https://castopod.org/",
-    "upvotes": 244,
+    "upvotes": 252,
     "author": "ZacnyLos",
-    "comments": 59,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=33091903"
   },
   {
     "title": "MineDojo – Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
     "url": "https://minedojo.org/",
-    "upvotes": 49,
+    "upvotes": 54,
     "author": "theblazehen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33094064"
@@ -58,55 +82,63 @@
   {
     "title": "DocArray: a data structure for unstructured data",
     "url": "https://docarray.jina.ai/get-started/what-is/",
-    "upvotes": 32,
+    "upvotes": 39,
     "author": "jonbaer",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=33058004"
-  },
-  {
-    "title": "Ask HN: How can a total beginner start with self-hosting?",
-    "url": "item?id=33095823",
-    "upvotes": 27,
-    "author": "kickaha",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=33095823"
   },
   {
     "title": "Espresso.js – minimal React alternative – is now a decade old",
     "url": "http://krymski.com/espresso.js/",
-    "upvotes": 20,
+    "upvotes": 28,
     "author": "akrymski",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=33094636"
+  },
+  {
+    "title": "Nerfstudio: A collaboration friendly studio for NeRFs",
+    "url": "https://docs.nerf.studio/en/latest/index.html",
+    "upvotes": 7,
+    "author": "kennethfriedman",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33096449"
   },
   {
     "title": "Instagram to increase ad load as Meta fights revenue decline",
     "url": "https://techcrunch.com/2022/10/04/instagram-to-increase-ad-load-as-meta-fights-revenue-decline/",
-    "upvotes": 34,
+    "upvotes": 62,
     "author": "gmays",
-    "comments": 17,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=33095890"
   },
   {
-    "title": "Internet Archive Seeks Material for Library of Amateur Radio and Communications",
-    "url": "https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/",
-    "upvotes": 234,
-    "author": "savetz",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=33089535"
+    "title": "X64 Cheat Sheet",
+    "url": "https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf",
+    "upvotes": 22,
+    "author": "ingve",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=33094744"
   },
   {
     "title": "How I learned about corporate firewalls",
     "url": "https://www.valcanbuild.tech/handling-corporate-firewalls/",
-    "upvotes": 79,
+    "upvotes": 89,
     "author": "ValCanBuild",
-    "comments": 77,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=33078280"
+  },
+  {
+    "title": "Internet Archive Seeks Material for Library of Amateur Radio and Communications",
+    "url": "https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/",
+    "upvotes": 239,
+    "author": "savetz",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=33089535"
   },
   {
     "title": "Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless",
     "url": "https://www.nobelprize.org/prizes/chemistry/2022/summary/",
-    "upvotes": 123,
+    "upvotes": 129,
     "author": "solarist",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=33093278"
@@ -114,129 +146,97 @@
   {
     "title": "The Balto/Togo theory of scientific development",
     "url": "https://acesounderglass.com/2022/10/04/the-balto-togo-theory-of-scientific-development/",
-    "upvotes": 49,
+    "upvotes": 51,
     "author": "rossvor",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=33092809"
+  },
+  {
+    "title": "macOS is background scanning and following downloaded QR codes?",
+    "url": "https://twitter.com/hodgesmr/status/1577650545107533826",
+    "upvotes": 40,
+    "author": "mik3y",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=33095608"
   },
   {
     "title": "Intel Laptop Users Should Avoid Linux 5.19.12 to Avoid Damaging the Display",
     "url": "https://lore.kernel.org/all/YzwooNdMECzuI5+h@intel.com/",
-    "upvotes": 247,
+    "upvotes": 259,
     "author": "electricant",
-    "comments": 149,
+    "comments": 169,
     "link": "https://news.ycombinator.com/item?id=33092974"
   },
   {
-    "title": "X64 Cheat Sheet",
-    "url": "https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf",
-    "upvotes": 16,
-    "author": "ingve",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33094744"
+    "title": "Incident with Actions and Codespaces",
+    "url": "https://www.githubstatus.com/incidents/smn1qtqvbsb6",
+    "upvotes": 9,
+    "author": "saltymimir",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33095541"
+  },
+  {
+    "title": "Ask HN: How can a total beginner start with self-hosting?",
+    "url": "item?id=33095823",
+    "upvotes": 53,
+    "author": "kickaha",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=33095823"
   },
   {
     "title": "Advanced Scientific Data Format",
     "url": "https://github.com/asdf-format/asdf",
-    "upvotes": 83,
+    "upvotes": 87,
     "author": "anigbrowl",
-    "comments": 88,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=33039904"
   },
   {
-    "title": "Free Markets Don’t Buy Peace",
-    "url": "https://www.politico.com/news/magazine/2022/10/05/free-markets-dont-buy-peace-00060236",
-    "upvotes": 54,
-    "author": "Tomte",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=33094569"
-  },
-  {
-    "title": "Steady State Means Continuous Rewriting",
-    "url": "https://brunoscheufler.com/blog/2022-09-04-steady-state-means-continuous-rewriting",
-    "upvotes": 7,
-    "author": "brunoscheufler",
+    "title": "Open Letter to the WHOSTP and Subcommittee on Open Science",
+    "url": "https://ostp-letter.github.io/",
+    "upvotes": 5,
+    "author": "nsoonhui",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33054264"
-  },
-  {
-    "title": "Show HN: How Sketch can win looking at there Qualitative Feedback?",
-    "url": "https://olvy.co/open-analysis/sketch",
-    "upvotes": 9,
-    "author": "mddanishyusuf",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=33094536"
+    "link": "https://news.ycombinator.com/item?id=33052593"
   },
   {
     "title": "Early Cormac McCarthy Interviews Rediscovered",
     "url": "https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html",
-    "upvotes": 52,
+    "upvotes": 58,
     "author": "samclemens",
-    "comments": 35,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=33043883"
+  },
+  {
+    "title": "Show HN: How Sketch can win looking at there Qualitative Feedback?",
+    "url": "https://olvy.co/open-analysis/sketch",
+    "upvotes": 10,
+    "author": "mddanishyusuf",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=33094536"
   },
   {
     "title": "AI-powered communication coach",
     "url": "https://www.poised.com/",
-    "upvotes": 118,
+    "upvotes": 123,
     "author": "lhuser123",
-    "comments": 65,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=33090580"
   },
   {
-    "title": "Webalizer Demo",
-    "url": "https://webalizer.net/sample/usage_199905.html",
-    "upvotes": 23,
-    "author": "esher",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=33078629"
+    "title": "Steady State Means Continuous Rewriting",
+    "url": "https://brunoscheufler.com/blog/2022-09-04-steady-state-means-continuous-rewriting",
+    "upvotes": 8,
+    "author": "brunoscheufler",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33054264"
   },
   {
-    "title": "Show HN: Async UI: A Rust UI Library Where Everything is a Future",
-    "url": "https://wishawa.github.io/posts/async-ui-intro/",
-    "upvotes": 148,
-    "author": "wishawa",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=33089131"
-  },
-  {
-    "title": "Google picks South Africa for its first cloud region in Africa",
-    "url": "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/",
-    "upvotes": 56,
-    "author": "unripe_syntax",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=33093832"
-  },
-  {
-    "title": "Pessimism is a barrier to progress",
-    "url": "https://bigthink.com/progress/pessimism-is-a-barrier-to-progress/",
-    "upvotes": 143,
-    "author": "kiyanwang",
-    "comments": 149,
-    "link": "https://news.ycombinator.com/item?id=33039106"
-  },
-  {
-    "title": "Knuth's Art of Computer Programming, V 4B, has gone into print",
-    "url": "https://www-cs-faculty.stanford.edu/~knuth/news.html#v4b",
-    "upvotes": 851,
-    "author": "inetsee",
-    "comments": 290,
-    "link": "https://news.ycombinator.com/item?id=33082128"
-  },
-  {
-    "title": "Scrolling the Vic-IV Screen",
-    "url": "https://retrocogs.mega65.com/2022/10/04/scrolling-the-vic-iv-screen/",
-    "upvotes": 22,
-    "author": "ibobev",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33092918"
-  },
-  {
-    "title": "I don’t believe in sprints",
-    "url": "https://www.robinrendle.com/notes/i-don’t-believe-in-sprints/",
-    "upvotes": 284,
-    "author": "threeme3",
-    "comments": 314,
-    "link": "https://news.ycombinator.com/item?id=33093941"
+    "title": "Free Markets Don’t Buy Peace",
+    "url": "https://www.politico.com/news/magazine/2022/10/05/free-markets-dont-buy-peace-00060236",
+    "upvotes": 60,
+    "author": "Tomte",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=33094569"
   }
 ]
