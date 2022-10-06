@@ -1,56 +1,64 @@
 [
   {
-    "title": "A Ruby program that generates itself through a 128-language quine loop",
-    "url": "https://github.com/mame/quine-relay/blob/master/QR.rb",
-    "upvotes": 88,
-    "author": "sirnicolaz",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=33105706"
-  },
-  {
     "title": "Cloud desktops aren't as good as you'd think",
     "url": "https://mjg59.dreamwidth.org/61535.html",
-    "upvotes": 37,
+    "upvotes": 64,
     "author": "TangerineDream",
-    "comments": 18,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=33106234"
+  },
+  {
+    "title": "A Ruby program that generates itself through a 128-language quine loop",
+    "url": "https://github.com/mame/quine-relay/blob/master/QR.rb",
+    "upvotes": 106,
+    "author": "sirnicolaz",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=33105706"
   },
   {
     "title": "TV backlight compensation",
     "url": "http://www.lofibucket.com/articles/tv_backlight_compensation.html",
-    "upvotes": 159,
+    "upvotes": 164,
     "author": "pcr910303",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=33053537"
   },
   {
+    "title": "What does the ??!??! operator do in C?",
+    "url": "https://stackoverflow.com/questions/7825055/what-does-the-operator-do-in-c",
+    "upvotes": 487,
+    "author": "isomorph",
+    "comments": 114,
+    "link": "https://news.ycombinator.com/item?id=33101401"
+  },
+  {
     "title": "Tell HN: Twitter suspends arrested Iranian tech blogger’s account",
     "url": "https://twitter.com/jadi/",
-    "upvotes": 94,
+    "upvotes": 109,
     "author": "mehdix",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=33106196"
   },
   {
-    "title": "What does the ??!??! operator do in C?",
-    "url": "https://stackoverflow.com/questions/7825055/what-does-the-operator-do-in-c",
-    "upvotes": 478,
-    "author": "isomorph",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=33101401"
+    "title": "Recursive Functions of Symbolic Expressions Computation by Machine",
+    "url": "http://www-formal.stanford.edu/jmc/recursive/recursive.html",
+    "upvotes": 11,
+    "author": "abrax3141",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33082759"
   },
   {
     "title": "Google officially launches Equiano subsea cable",
     "url": "https://www.datacenterdynamics.com/en/news/google-officially-launches-equiano-subsea-cable/",
-    "upvotes": 234,
+    "upvotes": 238,
     "author": "kaycebasques",
-    "comments": 138,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=33101487"
   },
   {
     "title": "How to kickstart and scale a consumer business by doing things that don’t scale",
     "url": "https://www.lennysnewsletter.com/p/consumer-business-find-first-users",
-    "upvotes": 37,
+    "upvotes": 42,
     "author": "cpeterso",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=33077022"
@@ -58,63 +66,63 @@
   {
     "title": "NVIDIA and nouveau",
     "url": "https://lwn.net/SubscriberLink/910343/e360e44a7a63b1b7/",
-    "upvotes": 98,
+    "upvotes": 104,
     "author": "pabs3",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=33103303"
+  },
+  {
+    "title": "Kim Jung Gi has died",
+    "url": "item?id=33105773",
+    "upvotes": 76,
+    "author": "stoeckley",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=33105773"
+  },
+  {
+    "title": "War and Peace and War – 35 to 32B.C.E. [video]",
+    "url": "https://www.youtube.com/watch?v=HURI6EHXybc",
+    "upvotes": 13,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33039314"
   },
   {
     "title": "RFC: C++ Buffer Hardening",
     "url": "https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734",
     "upvotes": 72,
     "author": "gok",
-    "comments": 51,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=33103464"
-  },
-  {
-    "title": "War and Peace and War – 35 to 32B.C.E. [video]",
-    "url": "https://www.youtube.com/watch?v=HURI6EHXybc",
-    "upvotes": 10,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33039314"
-  },
-  {
-    "title": "Kim Jung Gi has died",
-    "url": "item?id=33105773",
-    "upvotes": 64,
-    "author": "stoeckley",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=33105773"
-  },
-  {
-    "title": "What Are the Odds?",
-    "url": "https://terrytao.wordpress.com/2022/10/03/what-are-the-odds/",
-    "upvotes": 72,
-    "author": "jjgreen",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=33078012"
   },
   {
     "title": "Splunk IP suit against Cribl",
     "url": "https://www.splunk.com/en_us/blog/bulletins/splunk-files-intellectual-property-complaint-against-cribl.html",
-    "upvotes": 78,
+    "upvotes": 80,
     "author": "2close4comfort",
     "comments": 61,
     "link": "https://news.ycombinator.com/item?id=33103157"
   },
   {
+    "title": "What Are the Odds?",
+    "url": "https://terrytao.wordpress.com/2022/10/03/what-are-the-odds/",
+    "upvotes": 73,
+    "author": "jjgreen",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=33078012"
+  },
+  {
     "title": "Charles Mitchell and the 1929 stock crash",
     "url": "https://thehustle.co/the-banker-who-caused-the-1929-stock-crash/",
-    "upvotes": 106,
+    "upvotes": 107,
     "author": "paulpauper",
-    "comments": 63,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=33044167"
   },
   {
     "title": "Imagen Video: high definition video generation with diffusion models",
     "url": "https://imagen.research.google/video/",
-    "upvotes": 704,
+    "upvotes": 706,
     "author": "jasondavies",
     "comments": 425,
     "link": "https://news.ycombinator.com/item?id=33098704"
@@ -122,18 +130,18 @@
   {
     "title": "Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027",
     "url": "https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/",
-    "upvotes": 77,
+    "upvotes": 78,
     "author": "dangle1",
-    "comments": 89,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=33102639"
   },
   {
-    "title": "Openings",
-    "url": "https://academic.oup.com/book/37013/chapter/322382762",
-    "upvotes": 14,
-    "author": "apollinaire",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33069052"
+    "title": "Glut of Fake LinkedIn Profiles Pits HR Against the Bots",
+    "url": "https://krebsonsecurity.com/2022/10/glut-of-fake-linkedin-profiles-pits-hr-against-the-bots/",
+    "upvotes": 90,
+    "author": "todsacerdoti",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=33101407"
   },
   {
     "title": "Jq Internals: Backtracking",
@@ -144,33 +152,25 @@
     "link": "https://news.ycombinator.com/item?id=33101867"
   },
   {
-    "title": "Glut of Fake LinkedIn Profiles Pits HR Against the Bots",
-    "url": "https://krebsonsecurity.com/2022/10/glut-of-fake-linkedin-profiles-pits-hr-against-the-bots/",
-    "upvotes": 86,
-    "author": "todsacerdoti",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=33101407"
+    "title": "Openings",
+    "url": "https://academic.oup.com/book/37013/chapter/322382762",
+    "upvotes": 14,
+    "author": "apollinaire",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33069052"
   },
   {
     "title": "Debian Votes to Include Proprietary Firmware, Amends Social Contract",
     "url": "https://www.tomshardware.com/news/debian-includes-proprietary-code",
-    "upvotes": 30,
+    "upvotes": 32,
     "author": "pabs3",
-    "comments": 9,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=33105880"
-  },
-  {
-    "title": "Recursive Functions of Symbolic Expressions Computation by Machine",
-    "url": "http://www-formal.stanford.edu/jmc/recursive/recursive.html",
-    "upvotes": 3,
-    "author": "abrax3141",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33082759"
   },
   {
     "title": "Open Source Firmware Conference 2022 [videos]",
     "url": "https://www.osfc.io/2022/schedule/",
-    "upvotes": 77,
+    "upvotes": 78,
     "author": "transpute",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=33102059"
@@ -178,34 +178,34 @@
   {
     "title": "So you're using a weird language",
     "url": "https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html",
-    "upvotes": 186,
+    "upvotes": 190,
     "author": "todsacerdoti",
-    "comments": 196,
+    "comments": 199,
     "link": "https://news.ycombinator.com/item?id=33102582"
   },
   {
     "title": "Recording the Grateful Dead: The Culture of Tapers",
     "url": "https://www.goodtimes.sc/recording-the-grateful-dead-the-culture-of-tapers/",
-    "upvotes": 57,
+    "upvotes": 58,
     "author": "drdee",
-    "comments": 30,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=33075910"
-  },
-  {
-    "title": "Discovering faster matrix multiplication algorithms with reinforcement learning",
-    "url": "https://www.nature.com/articles/s41586-022-05172-4",
-    "upvotes": 457,
-    "author": "shantanu_sharma",
-    "comments": 103,
-    "link": "https://news.ycombinator.com/item?id=33096580"
   },
   {
     "title": "JSX Mail: Ending All Your Problems When Creating Email Templates",
     "url": "https://jsx-mail.org",
-    "upvotes": 86,
+    "upvotes": 90,
     "author": "Theryston",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=33100779"
+  },
+  {
+    "title": "Discovering faster matrix multiplication algorithms with reinforcement learning",
+    "url": "https://www.nature.com/articles/s41586-022-05172-4",
+    "upvotes": 460,
+    "author": "shantanu_sharma",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=33096580"
   },
   {
     "title": "Using machine learning to predict the leads that close",
@@ -218,10 +218,18 @@
   {
     "title": "Facebook reportedly laying off thousands of employees",
     "url": "https://futurism.com/the-byte/facebook-reportedly-laying-off-thousands-employees",
-    "upvotes": 153,
+    "upvotes": 163,
     "author": "cromat3",
-    "comments": 179,
+    "comments": 188,
     "link": "https://news.ycombinator.com/item?id=33104679"
+  },
+  {
+    "title": "What Makes the Zig Programming Language Unique?",
+    "url": "https://erikexplores.substack.com/p/what-makes-the-zig-programming-language",
+    "upvotes": 90,
+    "author": "socialdemocrat",
+    "comments": 140,
+    "link": "https://news.ycombinator.com/item?id=33103267"
   },
   {
     "title": "Dadda Multiplier",
@@ -230,13 +238,5 @@
     "author": "gbrown_",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=33054006"
-  },
-  {
-    "title": "What Makes the Zig Programming Language Unique?",
-    "url": "https://erikexplores.substack.com/p/what-makes-the-zig-programming-language",
-    "upvotes": 87,
-    "author": "socialdemocrat",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=33103267"
   }
 ]
