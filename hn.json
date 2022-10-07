@@ -2,57 +2,65 @@
   {
     "title": "Longevity of Recordable CDs, DVDs and Blu-Rays",
     "url": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html",
-    "upvotes": 61,
+    "upvotes": 85,
     "author": "parasti",
-    "comments": 37,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=33117813"
   },
   {
     "title": "On AlphaTensor’s new matrix multiplication algorithms",
     "url": "https://fgiesen.wordpress.com/2022/10/06/on-alphatensors-new-matrix-multiplication-algorithms/",
-    "upvotes": 110,
+    "upvotes": 119,
     "author": "matt_d",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=33117192"
+  },
+  {
+    "title": "Transmission 4.0.0 beta 1 is out",
+    "url": "https://github.com/transmission/transmission/releases/tag/4.0.0-beta.1",
+    "upvotes": 37,
+    "author": "Torlan",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=33118471"
   },
   {
     "title": "How to Download All of Wikipedia onto a USB Flash Drive",
     "url": "https://planetofthepaul.com/wikipedia-download-usb-flash/",
-    "upvotes": 315,
+    "upvotes": 329,
     "author": "bubblehack3r",
-    "comments": 155,
+    "comments": 160,
     "link": "https://news.ycombinator.com/item?id=33114107"
   },
   {
     "title": "Apache Pegasus – A a distributed key-value storage system",
     "url": "https://github.com/apache/incubator-pegasus",
-    "upvotes": 31,
+    "upvotes": 38,
     "author": "indogooner",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=33117650"
   },
   {
     "title": "Moore law is dead – Long live the chiplet",
     "url": "https://semiwiki.com/chiplet/318859-moores-law-is-dead-long-live-the-chiplet/",
-    "upvotes": 53,
+    "upvotes": 63,
     "author": "chclau",
-    "comments": 20,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=33104550"
   },
   {
     "title": "Show HN: Lambda-8cc – An x86 C compiler written in untyped lambda calculus",
     "url": "https://github.com/woodrush/lambda-8cc",
-    "upvotes": 159,
+    "upvotes": 168,
     "author": "woodrush",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=33115719"
   },
   {
     "title": "WebVM: WASM virtual machine in browser with networking via Tailscale",
     "url": "https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/",
-    "upvotes": 111,
+    "upvotes": 119,
     "author": "xrd",
-    "comments": 29,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=33116245"
   },
   {
@@ -60,179 +68,171 @@
     "url": "https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33"
   },
   {
-    "title": "Apple iPhone 14 Pro Camera test",
-    "url": "https://www.dxomark.com/apple-iphone-14-pro-camera-test-results/",
-    "upvotes": 43,
-    "author": "luu",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=33104618"
-  },
-  {
     "title": "Staff Engineer Archetypes",
     "url": "https://lethain.com/staff-engineer-archetypes/",
-    "upvotes": 306,
+    "upvotes": 313,
     "author": "arkj",
-    "comments": 219,
+    "comments": 221,
     "link": "https://news.ycombinator.com/item?id=33112915"
-  },
-  {
-    "title": "Arca Noae brings OS/2 into the 21st Century",
-    "url": "https://www.arcanoae.com/",
-    "upvotes": 17,
-    "author": "detaro",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=33107065"
-  },
-  {
-    "title": "Why doesn't Bash's `set -e` do what I expected?",
-    "url": "http://mywiki.wooledge.org/BashFAQ/105",
-    "upvotes": 74,
-    "author": "gurjeet",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=33116310"
   },
   {
     "title": "Stateless – Your new state of find with Elasticsearch",
     "url": "https://www.elastic.co/blog/stateless-your-new-state-of-find-with-elasticsearch",
-    "upvotes": 27,
+    "upvotes": 37,
     "author": "soheilpro",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=33117681"
+  },
+  {
+    "title": "Why doesn't Bash's `set -e` do what I expected?",
+    "url": "http://mywiki.wooledge.org/BashFAQ/105",
+    "upvotes": 83,
+    "author": "gurjeet",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=33116310"
+  },
+  {
+    "title": "Arca Noae brings OS/2 into the 21st Century",
+    "url": "https://www.arcanoae.com/",
+    "upvotes": 18,
+    "author": "detaro",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=33107065"
   },
   {
     "title": "Recreating macOS’s Drift Screensaver with Rust and WASM",
     "url": "https://github.com/sandydoo/flux",
-    "upvotes": 93,
+    "upvotes": 104,
     "author": "Whitespace",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=33115647"
   },
   {
+    "title": "Will We Ever Run Out of Sudoku Puzzles?",
+    "url": "https://www.britannica.com/story/will-we-ever-run-out-of-sudoku-puzzles",
+    "upvotes": 11,
+    "author": "jazali",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=33091715"
+  },
+  {
     "title": "Electrochemical potential enables dormant spores to integrate enviro signals",
     "url": "https://www.science.org/doi/10.1126/science.abl7484",
-    "upvotes": 87,
+    "upvotes": 90,
     "author": "respinal",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=33114869"
   },
   {
-    "title": "Startup Builds Houses by Pumping Concrete into Inflatable Forms",
-    "url": "https://singularityhub.com/2022/10/06/this-startup-builds-houses-by-pumping-concrete-into-inflatable-forms/",
-    "upvotes": 53,
-    "author": "cheinyeanlim",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=33117180"
-  },
-  {
     "title": "Granting Pardon for the Offense of Simple Possession of Marijuana",
     "url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/06/granting-pardon-for-the-offense-of-simple-possession-of-marijuana/",
-    "upvotes": 656,
+    "upvotes": 670,
     "author": "9wzYQbTYsAIc",
-    "comments": 558,
+    "comments": 561,
     "link": "https://news.ycombinator.com/item?id=33113569"
+  },
+  {
+    "title": "Classic SE Mistakes",
+    "url": "https://www.cs.nmsu.edu/~jcook/posts/classic-se-mistakes-mcconnell/",
+    "upvotes": 45,
+    "author": "arpa",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=33104541"
   },
   {
     "title": "Study links omega-3s to improved brain structure, cognition at midlife",
     "url": "https://news.uthscsa.edu/study-links-omega-3s-to-improved-brain-structure-cognition-at-midlife/",
-    "upvotes": 158,
+    "upvotes": 162,
     "author": "kungfudoi",
-    "comments": 96,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=33116762"
+  },
+  {
+    "title": "Startup Builds Houses by Pumping Concrete into Inflatable Forms",
+    "url": "https://singularityhub.com/2022/10/06/this-startup-builds-houses-by-pumping-concrete-into-inflatable-forms/",
+    "upvotes": 54,
+    "author": "cheinyeanlim",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=33117180"
   },
   {
     "title": "Samsung Kicks Advanced-Chipmaking Race into High Gear with Road Map",
     "url": "https://www.wsj.com/articles/samsung-kicks-advanced-chipmaking-race-into-high-gear-with-road-map-11664838001",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "wallflower",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=33080759"
   },
   {
-    "title": "Will We Ever Run Out of Sudoku Puzzles?",
-    "url": "https://www.britannica.com/story/will-we-ever-run-out-of-sudoku-puzzles",
-    "upvotes": 7,
-    "author": "jazali",
+    "title": "Hacking Reolink cameras for fun and profit",
+    "url": "https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/",
+    "upvotes": 3,
+    "author": "walterbell",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33091715"
-  },
-  {
-    "title": "Evrard D'Espinque’s Illuminations of De Proprietatibus Rerum",
-    "url": "https://publicdomainreview.org/collection/despinque-anglicus-illuminations/",
-    "upvotes": 9,
-    "author": "drdee",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33117656"
-  },
-  {
-    "title": "Classic SE Mistakes",
-    "url": "https://www.cs.nmsu.edu/~jcook/posts/classic-se-mistakes-mcconnell/",
-    "upvotes": 39,
-    "author": "arpa",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=33104541"
+    "link": "https://news.ycombinator.com/item?id=33091698"
   },
   {
     "title": "SimulaVR Has Been Subpoenaed by Meta Platforms, Inc",
     "url": "https://simulavr.com/blog/subpoenaed-by-meta/",
-    "upvotes": 695,
+    "upvotes": 703,
     "author": "phiresky",
     "comments": 403,
     "link": "https://news.ycombinator.com/item?id=33108050"
   },
   {
+    "title": "Evrard D'Espinque’s Illuminations of De Proprietatibus Rerum",
+    "url": "https://publicdomainreview.org/collection/despinque-anglicus-illuminations/",
+    "upvotes": 10,
+    "author": "drdee",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33117656"
+  },
+  {
     "title": "Evolution of the Casio G-Shock Origin",
     "url": "https://www.fratellowatches.com/evolution-of-the-casio-g-shock-watches/",
-    "upvotes": 40,
+    "upvotes": 41,
     "author": "tosh",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=33094342"
-  },
-  {
-    "title": "The Future of the Web Is on the Edge",
-    "url": "https://deno.com/blog/the-future-of-web-is-on-the-edge",
-    "upvotes": 205,
-    "author": "0xedb",
-    "comments": 164,
-    "link": "https://news.ycombinator.com/item?id=33110973"
-  },
-  {
-    "title": "BYU profs create new nuclear reactor to produce nuclear energy more safely",
-    "url": "https://news.byu.edu/byu-profs-create-safer-system-to-produce-nuclear-energy",
-    "upvotes": 144,
-    "author": "sergiotapia",
-    "comments": 147,
-    "link": "https://news.ycombinator.com/item?id=33114284"
   },
   {
     "title": "Decision Trees in Python: Predicting Diabetes – Statistically Relevant",
     "url": "https://statisticallyrelevant.com/decision-trees-in-python-predicting-diabetes/",
-    "upvotes": 67,
+    "upvotes": 70,
     "author": "rbanffy",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=33114074"
+  },
+  {
+    "title": "BYU profs create new nuclear reactor to produce nuclear energy more safely",
+    "url": "https://news.byu.edu/byu-profs-create-safer-system-to-produce-nuclear-energy",
+    "upvotes": 147,
+    "author": "sergiotapia",
+    "comments": 152,
+    "link": "https://news.ycombinator.com/item?id=33114284"
   },
   {
     "title": "Celsius exposes the names of all customers",
     "url": "https://web3isgoinggreat.com/single/celsius-exposes-the-names-of-all-customers-and-their-recent-transactions-in-court-filing--including-their-execs",
-    "upvotes": 89,
+    "upvotes": 94,
     "author": "wslh",
-    "comments": 39,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=33116940"
   },
   {
     "title": "A Universal Cancer Treatment?",
     "url": "https://nautil.us/a-universal-cancer-treatment-241231/",
-    "upvotes": 336,
+    "upvotes": 342,
     "author": "WithinReason",
-    "comments": 84,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=33109633"
   },
   {
-    "title": "Amazon autocomplete recommends suicide kits to teens",
-    "url": "https://twitter.com/cagoldberglaw/status/1578121305664143360",
-    "upvotes": 4,
-    "author": "__reset__",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33118475"
+    "title": "Apple iPhone 14 Pro Camera test",
+    "url": "https://www.dxomark.com/apple-iphone-14-pro-camera-test-results/",
+    "upvotes": 47,
+    "author": "luu",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=33104618"
   }
 ]
