@@ -1,48 +1,64 @@
 [
   {
+    "title": "I have come to bury the BIOS, not to open it: The need for holistic systems",
+    "url": "https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/",
+    "upvotes": 20,
+    "author": "pclmulqdq",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33145411"
+  },
+  {
     "title": "Running GUI Linux in a virtual machine on a Mac",
     "url": "https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac",
-    "upvotes": 156,
+    "upvotes": 170,
     "author": "pram",
-    "comments": 101,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=33143016"
   },
   {
     "title": "The Hummingbird Clock: date videos by background mains hum",
     "url": "http://hummingbirdclock.info/about",
-    "upvotes": 341,
+    "upvotes": 360,
     "author": "wodow",
-    "comments": 80,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=33140973"
   },
   {
     "title": "Data Structures Sketches",
     "url": "https://okso.app/showcase/data-structures",
-    "upvotes": 89,
+    "upvotes": 101,
     "author": "kevinslin",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=33143489"
   },
   {
     "title": "Ugliest Airplane Ever Built Predicted the Future",
     "url": "https://hackaday.com/2022/10/05/ugliest-airplane-ever-built-predicted-the-future/",
-    "upvotes": 27,
+    "upvotes": 38,
     "author": "prostoalex",
-    "comments": 8,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=33116558"
   },
   {
     "title": "Show HN: Fractal Garden – An Exhibition of Mathematical Beauty",
     "url": "https://www.fractal.garden/",
-    "upvotes": 16,
+    "upvotes": 26,
     "author": "trebeljahr",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=33144556"
+  },
+  {
+    "title": "Zig-style generics are not well-suited for most languages",
+    "url": "https://typesanitizer.com/blog/zig-generics.html",
+    "upvotes": 62,
+    "author": "Ar-Curunir",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=33142751"
   },
   {
     "title": "DIY out-of-band management: remote power button",
     "url": "https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/",
-    "upvotes": 107,
+    "upvotes": 111,
     "author": "secure",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=33141517"
@@ -50,91 +66,91 @@
   {
     "title": "Top science fiction short stories published in August",
     "url": "https://compellingsciencefiction.com/posts/top-science-fiction-short-stories-published-in-august.html",
-    "upvotes": 117,
+    "upvotes": 122,
     "author": "mojoe",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=33141335"
-  },
-  {
-    "title": "Zig-style generics are not well-suited for most languages",
-    "url": "https://typesanitizer.com/blog/zig-generics.html",
-    "upvotes": 50,
-    "author": "Ar-Curunir",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=33142751"
-  },
-  {
-    "title": "CS631 – Advanced Programming in the Unix Environment",
-    "url": "https://stevens.netmeister.org/631/",
-    "upvotes": 166,
-    "author": "AlexeyBrin",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=33140795"
   },
   {
     "title": "Learn Exponentially",
     "url": "https://saveall.ai/blog/learn-exponentially",
-    "upvotes": 143,
+    "upvotes": 155,
     "author": "p-christ",
-    "comments": 88,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=33140527"
+  },
+  {
+    "title": "CS631 – Advanced Programming in the Unix Environment",
+    "url": "https://stevens.netmeister.org/631/",
+    "upvotes": 175,
+    "author": "AlexeyBrin",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=33140795"
+  },
+  {
+    "title": "Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit",
+    "url": "http://microjs.com/",
+    "upvotes": 22,
+    "author": "jer0me",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33144206"
+  },
+  {
+    "title": "Microblog.pub – A self-hosted, single-user, ActivityPub powered microblog",
+    "url": "https://docs.microblog.pub/",
+    "upvotes": 8,
+    "author": "nafnlj",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33145095"
   },
   {
     "title": "‘Monumental’ Math Proof Solves Triple Bubble Problem and More",
     "url": "https://www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-problem-and-more-20221006/",
-    "upvotes": 33,
+    "upvotes": 37,
     "author": "nsoonhui",
-    "comments": 8,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=33130611"
-  },
-  {
-    "title": "The Forgotten Operating System That Keeps the NYC Subway System Alive",
-    "url": "https://www.vice.com/en/article/zmp8gy/the-forgotten-operating-system-that-keeps-the-nyc-subway-system-alive",
-    "upvotes": 95,
-    "author": "lproven",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=33127423"
-  },
-  {
-    "title": "For Best Results, Forget the Bonus",
-    "url": "https://www.alfiekohn.org/article/best-results-forget-bonus/",
-    "upvotes": 53,
-    "author": "damir",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=33130536"
   },
   {
     "title": "Motion",
     "url": "https://jobs.ashbyhq.com/motion?utm_source=hn"
   },
   {
-    "title": "Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit",
-    "url": "http://microjs.com/",
-    "upvotes": 13,
-    "author": "jer0me",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33144206"
+    "title": "Decompiling x86 Deep Neural Network Executables",
+    "url": "https://github.com/monkbai/DNN-decompiler",
+    "upvotes": 21,
+    "author": "matt_d",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33143828"
+  },
+  {
+    "title": "The Forgotten Operating System That Keeps the NYC Subway System Alive",
+    "url": "https://www.vice.com/en/article/zmp8gy/the-forgotten-operating-system-that-keeps-the-nyc-subway-system-alive",
+    "upvotes": 98,
+    "author": "lproven",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=33127423"
+  },
+  {
+    "title": "For Best Results, Forget the Bonus",
+    "url": "https://www.alfiekohn.org/article/best-results-forget-bonus/",
+    "upvotes": 60,
+    "author": "damir",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=33130536"
   },
   {
     "title": "MythBusters Helped a Wrongly Convicted Man Prove His Innocence",
     "url": "https://innocenceproject.org/discovery-channel-mythbuster-john-galvan-wrongful-conviction-innocence/",
-    "upvotes": 61,
+    "upvotes": 78,
     "author": "gbourne",
-    "comments": 21,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=33143995"
-  },
-  {
-    "title": "Decompiling x86 Deep Neural Network Executables",
-    "url": "https://github.com/monkbai/DNN-decompiler",
-    "upvotes": 13,
-    "author": "matt_d",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33143828"
   },
   {
     "title": "Building an FM radio from $3 radio chip and an 84MHz ARM Arduino",
     "url": "https://hackaday.io/project/187683-diy-arduino-due-tea5767-fm-radio",
-    "upvotes": 27,
+    "upvotes": 34,
     "author": "9wzYQbTYsAIc",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33138894"
@@ -142,7 +158,7 @@
   {
     "title": "Know Your Carrying Capacity",
     "url": "https://www.macchaffee.com/blog/2022/carrying-capacity/",
-    "upvotes": 76,
+    "upvotes": 81,
     "author": "todsacerdoti",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=33140298"
@@ -150,23 +166,23 @@
   {
     "title": "Starting a Business Around GPT-3 Is a Bad Idea",
     "url": "https://www.allencheng.com/starting-a-business-around-gpt-3-is-a-bad-idea/",
-    "upvotes": 72,
+    "upvotes": 75,
     "author": "swyx",
-    "comments": 32,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=33140235"
   },
   {
     "title": "Call for Participation to Chaos Computer Club’s 37C3",
     "url": "https://content.events.ccc.de/cfp/37c3/index.en.html",
-    "upvotes": 168,
+    "upvotes": 169,
     "author": "hacka22",
-    "comments": 90,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=33138933"
   },
   {
     "title": "TreeMaker – program for the design of origami bases",
     "url": "https://langorigami.com/article/treemaker/",
-    "upvotes": 17,
+    "upvotes": 21,
     "author": "pabs3",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33130221"
@@ -174,15 +190,15 @@
   {
     "title": "Dutch employee fired by U.S. firm for shutting off webcam awarded €75K in court",
     "url": "https://nltimes.nl/2022/10/09/dutch-employee-fired-us-firm-shutting-webcam-awarded-eu75000-court",
-    "upvotes": 460,
+    "upvotes": 470,
     "author": "stoeckley",
-    "comments": 356,
+    "comments": 360,
     "link": "https://news.ycombinator.com/item?id=33139827"
   },
   {
     "title": "Transwarp v0.84 – 50x fastload system on plain vanilla stock 1541",
     "url": "https://csdb.dk/release/?id=210864",
-    "upvotes": 36,
+    "upvotes": 37,
     "author": "sandebert",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=33140853"
@@ -190,49 +206,33 @@
   {
     "title": "Reverse Engineering a Cat Feeder to Boost Productivity",
     "url": "https://www.sensibledefaults.io/blog/reverse-engineering-cat-feeder/index",
-    "upvotes": 123,
+    "upvotes": 127,
     "author": "bubblehack3r",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=33139062"
-  },
-  {
-    "title": "I wrote a short story about von Neumann probes",
-    "url": "https://f52.charlieharrington.com/stories/nibbles/",
-    "upvotes": 98,
-    "author": "whatrocks",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=33129432"
-  },
-  {
-    "title": "Take a break",
-    "url": "https://www.robinrendle.com/notes/take-a-break-you-idiot/",
-    "upvotes": 358,
-    "author": "imartin2k",
-    "comments": 142,
-    "link": "https://news.ycombinator.com/item?id=33139297"
   },
   {
     "title": "Stripe is PayPal circa 2010",
     "url": "https://learnjsthehardway.com/blog/18-stripe-is-paypal-circa-2010/",
-    "upvotes": 395,
+    "upvotes": 405,
     "author": "qualudeheart",
-    "comments": 189,
+    "comments": 195,
     "link": "https://news.ycombinator.com/item?id=33138278"
   },
   {
-    "title": "Eierlegende Wollmilchsau",
-    "url": "https://germanyinusa.com/2011/10/28/word-of-the-week-eierlegende-wollmilchsau/",
-    "upvotes": 66,
-    "author": "Tomte",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=33125322"
+    "title": "Take a break",
+    "url": "https://www.robinrendle.com/notes/take-a-break-you-idiot/",
+    "upvotes": 365,
+    "author": "imartin2k",
+    "comments": 146,
+    "link": "https://news.ycombinator.com/item?id=33139297"
   },
   {
     "title": "Protests in Iran: State-run live TV hacked by protesters",
     "url": "https://www.bbc.co.uk/news/world-middle-east-63188795",
-    "upvotes": 195,
+    "upvotes": 209,
     "author": "lifeisstillgood",
-    "comments": 60,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=33140237"
   }
 ]
