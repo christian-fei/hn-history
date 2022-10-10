@@ -1,48 +1,64 @@
 [
   {
-    "title": "Swiss Post Design System",
-    "url": "https://swisspost-web-frontend.netlify.app/",
-    "upvotes": 46,
-    "author": "denysvitali",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33149504"
-  },
-  {
     "title": "Show HN: I built a site that lets users find playlists by songs they contain",
     "url": "https://playlists.dags.dev/",
-    "upvotes": 10,
+    "upvotes": 50,
     "author": "NomadicDaggy",
-    "comments": null,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=33150086"
+  },
+  {
+    "title": "Archaeologists Dig Up 1,400-Year-Old Native American Canal in Alabama",
+    "url": "https://www.smithsonianmag.com/science-nature/archaeologists-dig-up-1400-year-old-native-american-canal-in-alabama-180980742/",
+    "upvotes": 9,
+    "author": "samizdis",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33150272"
+  },
+  {
+    "title": "Swiss Post Design System",
+    "url": "https://swisspost-web-frontend.netlify.app/",
+    "upvotes": 57,
+    "author": "denysvitali",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=33149504"
   },
   {
     "title": "Helix: A Neovim inspired editor, written in Rust",
     "url": "https://github.com/helix-editor/helix",
-    "upvotes": 245,
+    "upvotes": 266,
     "author": "behnamoh",
-    "comments": 150,
+    "comments": 164,
     "link": "https://news.ycombinator.com/item?id=33147270"
   },
   {
     "title": "Show HN: I built a site that finds the cheapest place to buy a book",
     "url": "https://www.pagesonpages.com/",
-    "upvotes": 242,
+    "upvotes": 257,
     "author": "shnksi",
-    "comments": 191,
+    "comments": 195,
     "link": "https://news.ycombinator.com/item?id=33147079"
+  },
+  {
+    "title": "iOS Ships Dvorak, Finally",
+    "url": "https://weblog.antranigv.am/posts/2022/10/ios-dvorak/",
+    "upvotes": 15,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33149938"
   },
   {
     "title": "Effect of Colonoscopy Screening on Risks of Colorectal Cancer and Related Death",
     "url": "https://www.statnews.com/2022/10/09/in-gold-standard-trial-colonoscopy-fails-to-reduce-rate-of-cancer-deaths/",
-    "upvotes": 141,
+    "upvotes": 158,
     "author": "benchtobedside",
-    "comments": 79,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=33147680"
   },
   {
     "title": "Osm-finder: “line-network” geolocation tool",
     "url": "https://github.com/Xetnus/osm-finder",
-    "upvotes": 12,
+    "upvotes": 21,
     "author": "mzs",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33122934"
@@ -50,189 +66,173 @@
   {
     "title": "Probability",
     "url": "https://www.feynmanlectures.caltech.edu/I_06.html#Ch6-F2",
-    "upvotes": 84,
+    "upvotes": 95,
     "author": "rcshubhadeep",
-    "comments": 41,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=33149213"
   },
   {
-    "title": "I have come to bury the BIOS, not to open it [video]",
-    "url": "https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/",
-    "upvotes": 266,
-    "author": "pclmulqdq",
-    "comments": 132,
-    "link": "https://news.ycombinator.com/item?id=33145411"
-  },
-  {
-    "title": "Why 23.976 and not 24 FPS?",
-    "url": "https://cinematography.com/index.php?/forums/topic/71346-why-23976-and-not-24-fps/&tab=comments#comment-455454",
-    "upvotes": 234,
-    "author": "mfiguiere",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=33145470"
+    "title": "Should Linux set the new constant-time mode CPU flags?",
+    "url": "https://lore.kernel.org/lkml/YwgCrqutxmX0W72r@gmail.com/",
+    "upvotes": 28,
+    "author": "AshamedCaptain",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33150179"
   },
   {
     "title": "Finding the Joy in Feeling Tired",
     "url": "https://jeanhsu.substack.com/p/finding-the-joy-in-feeling-tired",
-    "upvotes": 24,
+    "upvotes": 33,
     "author": "kiyanwang",
-    "comments": 10,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=33122242"
   },
   {
-    "title": "Malicious update/malware by a semi-advanced adversary",
-    "url": "https://axelp.io/UltimateUpdate",
-    "upvotes": 75,
-    "author": "CuckooExe",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=33147193"
-  },
-  {
-    "title": "Show HN: I built a WASI playground for running CLI binaries in the browser",
-    "url": "https://runno.dev/wasi",
-    "upvotes": 91,
-    "author": "benno128",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=33146686"
-  },
-  {
-    "title": "12,000 Facebook employees, 15% of its workforce, may lose jobs amid quiet layoff",
-    "url": "https://www.businessinsider.in/tech/news/12000-facebook-employees-15-of-its-workforce-may-lose-jobs-amid-quiet-layoffs-report/articleshow/94676235.cms",
-    "upvotes": 83,
+    "title": "Your browsing behavior is being modeled as a language",
+    "url": "https://www.shaped.ai/blog/your-browsing-behavior-is-being-modeled-as-a-language",
+    "upvotes": 12,
     "author": "jiwidi",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=33148697"
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33150024"
+  },
+  {
+    "title": "In a Way, 3D Scanning Is over a Century Old",
+    "url": "https://hackaday.com/2022/10/02/in-a-way-3d-scanning-is-over-a-century-old/",
+    "upvotes": 7,
+    "author": "helsinkiandrew",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33123884"
+  },
+  {
+    "title": "I made a guitar tuner app using Flutter and Rust",
+    "url": "https://justune.eu",
+    "upvotes": 3,
+    "author": "zduny",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33150260"
   },
   {
     "title": "Stacker",
     "url": "https://www.stackerhq.com/careers#job-listing"
   },
   {
+    "title": "TuM'Fatig – Ads blocking with OpenBSD unbound",
+    "url": "https://www.tumfatig.net/2022/ads-blocking-with-openbsd-unbound8/",
+    "upvotes": 14,
+    "author": "protomyth",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=33122419"
+  },
+  {
+    "title": "Malicious update/malware by a semi-advanced adversary",
+    "url": "https://axelp.io/UltimateUpdate",
+    "upvotes": 80,
+    "author": "CuckooExe",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=33147193"
+  },
+  {
+    "title": "Show HN: I built a WASI playground for running CLI binaries in the browser",
+    "url": "https://runno.dev/wasi",
+    "upvotes": 97,
+    "author": "benno128",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=33146686"
+  },
+  {
+    "title": "12,000 Facebook employees, 15% of its workforce, may lose jobs amid quiet layoff",
+    "url": "https://www.businessinsider.in/tech/news/12000-facebook-employees-15-of-its-workforce-may-lose-jobs-amid-quiet-layoffs-report/articleshow/94676235.cms",
+    "upvotes": 106,
+    "author": "jiwidi",
+    "comments": 123,
+    "link": "https://news.ycombinator.com/item?id=33148697"
+  },
+  {
+    "title": "LaTeX Makes Me Angry",
+    "url": "https://jmtd.net/log/latex_writing/",
+    "upvotes": 8,
+    "author": "pch00",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=33149857"
+  },
+  {
     "title": "Liberating the Smalltalk lurking in C and Unix",
     "url": "https://www.youtube.com/watch?v=LwicN2u6Dro",
-    "upvotes": 63,
+    "upvotes": 67,
     "author": "Kinrany",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=33130701"
   },
   {
-    "title": "TuM'Fatig – Ads blocking with OpenBSD unbound",
-    "url": "https://www.tumfatig.net/2022/ads-blocking-with-openbsd-unbound8/",
-    "upvotes": 11,
-    "author": "protomyth",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=33122419"
-  },
-  {
     "title": "Halfix – A portable x86 emulator written in C99",
     "url": "https://github.com/nepx/halfix",
-    "upvotes": 80,
+    "upvotes": 86,
     "author": "peter_d_sherman",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=33146693"
-  },
-  {
-    "title": "Tremor – React library to build dashboards fast",
-    "url": "https://github.com/tremorlabs/tremor",
-    "upvotes": 100,
-    "author": "bubblehack3r",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=33148215"
   },
   {
     "title": "Enzian – An open research computer built by the Systems Group at ETH Zurich",
     "url": "https://enzian.systems/",
-    "upvotes": 57,
+    "upvotes": 60,
     "author": "peter_d_sherman",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=33147009"
   },
   {
-    "title": "Should Linux set the new constant-time mode CPU flags?",
-    "url": "https://lore.kernel.org/lkml/YwgCrqutxmX0W72r@gmail.com/",
-    "upvotes": 6,
-    "author": "AshamedCaptain",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33150179"
-  },
-  {
     "title": "Why you can’t tickle yourself",
     "url": "https://www.wired.com/story/neuroscientists-unravel-the-mystery-of-why-you-cant-tickle-yourself/",
-    "upvotes": 95,
-    "author": "Archelaos",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=33131630"
-  },
-  {
-    "title": "Energy vs. Sovereign Bond Markets",
-    "url": "https://www.lynalden.com/october-2022-newsletter/",
     "upvotes": 97,
-    "author": "jger15",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=33145791"
+    "author": "Archelaos",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=33131630"
   },
   {
     "title": "How does a nail puncture a tire?",
     "url": "https://www.madsci.org/posts/archives/2003-01/1042408841.Eg.r.html",
-    "upvotes": 56,
+    "upvotes": 60,
     "author": "luu",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=33138836"
   },
   {
-    "title": "PDF processing and analysis with open-source tools",
-    "url": "https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools",
-    "upvotes": 156,
-    "author": "miles",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=33145498"
+    "title": "Tremor – React library to build dashboards fast",
+    "url": "https://github.com/tremorlabs/tremor",
+    "upvotes": 106,
+    "author": "bubblehack3r",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=33148215"
+  },
+  {
+    "title": "Energy vs. Sovereign Bond Markets",
+    "url": "https://www.lynalden.com/october-2022-newsletter/",
+    "upvotes": 98,
+    "author": "jger15",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=33145791"
+  },
+  {
+    "title": "Tell HN: Missing service – StackOverflow, but with monetary rewards",
+    "url": "item?id=33150093",
+    "upvotes": 12,
+    "author": "benevol",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=33150093"
+  },
+  {
+    "title": "”Someone got Doom running in Notepad at 60 FPS, somehow”",
+    "url": "https://www.escapistmagazine.com/doom-notepad-running-60-fps-video-clip-shooter-text/",
+    "upvotes": 19,
+    "author": "sandebert",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=33149796"
   },
   {
     "title": "Assyrian Soft Power",
     "url": "https://www.archaeology.org/issues/489-2211/digs/10899-digs-turkey-assyrian-relief",
     "upvotes": 63,
     "author": "Thevet",
-    "comments": 24,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=33117726"
-  },
-  {
-    "title": "”Someone got Doom running in Notepad at 60 FPS, somehow”",
-    "url": "https://www.escapistmagazine.com/doom-notepad-running-60-fps-video-clip-shooter-text/",
-    "upvotes": 10,
-    "author": "sandebert",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33149796"
-  },
-  {
-    "title": "Functional Education",
-    "url": "https://bitemyapp.com/blog/functional-education/",
-    "upvotes": 12,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33123142"
-  },
-  {
-    "title": "How Wes Anderson Turned The New Yorker Into “The French Dispatch”",
-    "url": "https://www.newyorker.com/culture/the-new-yorker-interview/how-wes-anderson-turned-the-new-yorker-into-the-french-dispatch",
-    "upvotes": 40,
-    "author": "zeristor",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=33130578"
-  },
-  {
-    "title": "The Hummingbird Clock: date videos by background mains hum",
-    "url": "http://hummingbirdclock.info/about",
-    "upvotes": 497,
-    "author": "wodow",
-    "comments": 129,
-    "link": "https://news.ycombinator.com/item?id=33140973"
-  },
-  {
-    "title": "Russians hit the office and R&D center of Samsung in Kyiv",
-    "url": "https://mezha.media/en/2022/10/10/russians-hit-the-office-and-r-d-center-of-samsung-in-kyiv/",
-    "upvotes": 77,
-    "author": "yoft",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=33149684"
   }
 ]
