@@ -2,87 +2,71 @@
   {
     "title": "Show HN: I built a site that finds the cheapest place to buy a book",
     "url": "https://www.pagesonpages.com/",
-    "upvotes": 122,
+    "upvotes": 142,
     "author": "shnksi",
-    "comments": 91,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=33147079"
   },
   {
     "title": "Helix: A Neovim inspired editor, written in Rust",
     "url": "https://github.com/helix-editor/helix",
-    "upvotes": 62,
+    "upvotes": 80,
     "author": "behnamoh",
-    "comments": 13,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=33147270"
   },
   {
     "title": "I have come to bury the BIOS, not to open it [video]",
     "url": "https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/",
-    "upvotes": 230,
+    "upvotes": 234,
     "author": "pclmulqdq",
-    "comments": 106,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=33145411"
-  },
-  {
-    "title": "Why 23.976 and not 24 FPS?",
-    "url": "https://cinematography.com/index.php?/forums/topic/71346-why-23976-and-not-24-fps/&tab=comments#comment-455454",
-    "upvotes": 181,
-    "author": "mfiguiere",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=33145470"
   },
   {
     "title": "In gold-standard trial, colonoscopy fails to reduce rate of cancer deaths",
     "url": "https://www.statnews.com/2022/10/09/in-gold-standard-trial-colonoscopy-fails-to-reduce-rate-of-cancer-deaths/",
-    "upvotes": 21,
+    "upvotes": 31,
     "author": "benchtobedside",
-    "comments": 7,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=33147680"
+  },
+  {
+    "title": "Why 23.976 and not 24 FPS?",
+    "url": "https://cinematography.com/index.php?/forums/topic/71346-why-23976-and-not-24-fps/&tab=comments#comment-455454",
+    "upvotes": 189,
+    "author": "mfiguiere",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=33145470"
   },
   {
     "title": "Running GUI Linux in a virtual machine on a Mac",
     "url": "https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac",
-    "upvotes": 282,
+    "upvotes": 286,
     "author": "pram",
-    "comments": 169,
+    "comments": 170,
     "link": "https://news.ycombinator.com/item?id=33143016"
-  },
-  {
-    "title": "How does a nail puncture a tire?",
-    "url": "https://www.madsci.org/posts/archives/2003-01/1042408841.Eg.r.html",
-    "upvotes": 37,
-    "author": "luu",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=33138836"
   },
   {
     "title": "Show HN: I built a WASI playground for running CLI binaries in the browser",
     "url": "https://runno.dev/wasi",
-    "upvotes": 64,
+    "upvotes": 67,
     "author": "benno128",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=33146686"
   },
   {
-    "title": "How Wes Anderson Turned The New Yorker Into “The French Dispatch”",
-    "url": "https://www.newyorker.com/culture/the-new-yorker-interview/how-wes-anderson-turned-the-new-yorker-into-the-french-dispatch",
-    "upvotes": 19,
-    "author": "zeristor",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=33130578"
-  },
-  {
-    "title": "Malicious update/malware by a semi-advanced adversary",
-    "url": "https://axelp.io/UltimateUpdate",
-    "upvotes": 45,
-    "author": "CuckooExe",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=33147193"
+    "title": "How does a nail puncture a tire?",
+    "url": "https://www.madsci.org/posts/archives/2003-01/1042408841.Eg.r.html",
+    "upvotes": 39,
+    "author": "luu",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=33138836"
   },
   {
     "title": "Liberating the Smalltalk lurking in C and Unix",
     "url": "https://www.youtube.com/watch?v=LwicN2u6Dro",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "Kinrany",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=33130701"
@@ -90,130 +74,162 @@
   {
     "title": "Halfix – A portable x86 emulator written in C99",
     "url": "https://github.com/nepx/halfix",
-    "upvotes": 51,
+    "upvotes": 55,
     "author": "peter_d_sherman",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=33146693"
+  },
+  {
+    "title": "Malicious update/malware by a semi-advanced adversary",
+    "url": "https://axelp.io/UltimateUpdate",
+    "upvotes": 45,
+    "author": "CuckooExe",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=33147193"
+  },
+  {
+    "title": "How Wes Anderson Turned The New Yorker Into “The French Dispatch”",
+    "url": "https://www.newyorker.com/culture/the-new-yorker-interview/how-wes-anderson-turned-the-new-yorker-into-the-french-dispatch",
+    "upvotes": 25,
+    "author": "zeristor",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=33130578"
   },
   {
     "title": "Data Structures Sketches",
     "url": "https://okso.app/showcase/data-structures",
-    "upvotes": 211,
+    "upvotes": 217,
     "author": "kevinslin",
-    "comments": 30,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=33143489"
   },
   {
     "title": "Microblog.pub – A self-hosted, single-user, ActivityPub powered microblog",
     "url": "https://docs.microblog.pub/",
-    "upvotes": 131,
+    "upvotes": 137,
     "author": "nafnlj",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=33145095"
   },
   {
     "title": "Assyrian Soft Power",
     "url": "https://www.archaeology.org/issues/489-2211/digs/10899-digs-turkey-assyrian-relief",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "Thevet",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=33117726"
-  },
-  {
-    "title": "Ugliest Airplane Ever Built Predicted the Future",
-    "url": "https://hackaday.com/2022/10/05/ugliest-airplane-ever-built-predicted-the-future/",
-    "upvotes": 123,
-    "author": "prostoalex",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=33116558"
   },
   {
     "title": "Why you can’t tickle yourself",
     "url": "https://www.wired.com/story/neuroscientists-unravel-the-mystery-of-why-you-cant-tickle-yourself/",
-    "upvotes": 63,
+    "upvotes": 68,
     "author": "Archelaos",
-    "comments": 44,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=33131630"
+  },
+  {
+    "title": "Ugliest Airplane Ever Built Predicted the Future",
+    "url": "https://hackaday.com/2022/10/05/ugliest-airplane-ever-built-predicted-the-future/",
+    "upvotes": 128,
+    "author": "prostoalex",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=33116558"
   },
   {
     "title": "Show HN: Fractal Garden – An Exhibition of Mathematical Beauty",
     "url": "https://www.fractal.garden/",
-    "upvotes": 112,
+    "upvotes": 116,
     "author": "trebeljahr",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=33144556"
+  },
+  {
+    "title": "Catalyst-free synthesis of sub-5 nm silicon nanowire arrays",
+    "url": "https://www.nature.com/articles/s41467-022-31174-x",
+    "upvotes": 4,
+    "author": "rntn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33131166"
   },
   {
     "title": "Energy vs. Sovereign Bond Markets",
     "url": "https://www.lynalden.com/october-2022-newsletter/",
-    "upvotes": 64,
+    "upvotes": 67,
     "author": "jger15",
-    "comments": 23,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=33145791"
-  },
-  {
-    "title": "The Internet needs the InterPlanetary File System",
-    "url": "https://spectrum.ieee.org/peer-to-peer-network",
-    "upvotes": 100,
-    "author": "sohkamyung",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=33147071"
   },
   {
     "title": "Zig-style generics are not well-suited for most languages",
     "url": "https://typesanitizer.com/blog/zig-generics.html",
-    "upvotes": 139,
+    "upvotes": 141,
     "author": "Ar-Curunir",
-    "comments": 93,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=33142751"
   },
   {
-    "title": "PDF processing and analysis with open-source tools",
-    "url": "https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools",
-    "upvotes": 105,
-    "author": "miles",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=33145498"
+    "title": "The Internet needs the InterPlanetary File System",
+    "url": "https://spectrum.ieee.org/peer-to-peer-network",
+    "upvotes": 104,
+    "author": "sohkamyung",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=33147071"
   },
   {
     "title": "Enzian – An open research computer built by the Systems Group at ETH Zurich",
     "url": "https://enzian.systems/",
-    "upvotes": 18,
+    "upvotes": 26,
     "author": "peter_d_sherman",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33147009"
   },
   {
-    "title": "Retro personal computer ads from the 1980s",
-    "url": "https://rarehistoricalphotos.com/retro-computer-ads-from-1980s/",
-    "upvotes": 79,
-    "author": "Brajeshwar",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=33129908"
+    "title": "PDF processing and analysis with open-source tools",
+    "url": "https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools",
+    "upvotes": 110,
+    "author": "miles",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=33145498"
   },
   {
-    "title": "Made in America is back, leaving US factories scrambling to find workers",
-    "url": "https://www.cnn.com/2022/10/09/economy/manufacturing-jobs/index.html",
-    "upvotes": 121,
-    "author": "redbell",
-    "comments": 188,
-    "link": "https://news.ycombinator.com/item?id=33145246"
+    "title": "Retro personal computer ads from the 1980s",
+    "url": "https://rarehistoricalphotos.com/retro-computer-ads-from-1980s/",
+    "upvotes": 85,
+    "author": "Brajeshwar",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=33129908"
   },
   {
     "title": "The Hummingbird Clock: date videos by background mains hum",
     "url": "http://hummingbirdclock.info/about",
-    "upvotes": 466,
+    "upvotes": 473,
     "author": "wodow",
-    "comments": 121,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=33140973"
+  },
+  {
+    "title": "Made in America is back, leaving US factories scrambling to find workers",
+    "url": "https://www.cnn.com/2022/10/09/economy/manufacturing-jobs/index.html",
+    "upvotes": 128,
+    "author": "redbell",
+    "comments": 198,
+    "link": "https://news.ycombinator.com/item?id=33145246"
   },
   {
     "title": "Recent discoveries that have changed how we think about human origins",
     "url": "https://singularityhub.com/2022/10/09/six-recent-discoveries-that-have-changed-how-we-think-about-human-origins/",
-    "upvotes": 65,
+    "upvotes": 69,
     "author": "cheinyeanlim",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=33145898"
+  },
+  {
+    "title": "Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit",
+    "url": "http://microjs.com/",
+    "upvotes": 65,
+    "author": "jer0me",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=33144206"
   },
   {
     "title": "Learning Regular Sets from Queries and Counterexamples",
@@ -222,21 +238,5 @@
     "author": "lnyan",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33129575"
-  },
-  {
-    "title": "Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit",
-    "url": "http://microjs.com/",
-    "upvotes": 63,
-    "author": "jer0me",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=33144206"
-  },
-  {
-    "title": "Knock: Convert ACSM files to PDF/EPUBs with one command on Linux",
-    "url": "https://github.com/BentonEdmondson/knock",
-    "upvotes": 23,
-    "author": "d4a",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33146454"
   }
 ]
