@@ -1,88 +1,92 @@
 [
   {
-    "title": "First-Person Mario",
-    "url": "https://mar1d.com/",
-    "upvotes": 101,
-    "author": "rendaw",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=33178301"
-  },
-  {
     "title": "Removing SMS support from Signal Android",
     "url": "https://signal.org/blog/sms-removal-android/",
-    "upvotes": 57,
+    "upvotes": 149,
     "author": "Aissen",
-    "comments": 40,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=33179047"
+  },
+  {
+    "title": "First-Person Mario",
+    "url": "https://mar1d.com/",
+    "upvotes": 144,
+    "author": "rendaw",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=33178301"
   },
   {
     "title": "Google Rolling Out Passkey Passwordless Login Support to Android and Chrome",
     "url": "https://android-developers.googleblog.com/2022/10/bringing-passkeys-to-android-and-chrome.html",
-    "upvotes": 66,
+    "upvotes": 89,
     "author": "Heavywater",
-    "comments": 51,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=33178285"
-  },
-  {
-    "title": "Apple is quietly pushing a TV ad product with media agencies",
-    "url": "https://digiday.com/media/apple-is-quietly-pushing-a-tv-ad-product-with-media-agencies/",
-    "upvotes": 167,
-    "author": "ksec",
-    "comments": 200,
-    "link": "https://news.ycombinator.com/item?id=33177034"
   },
   {
     "title": "Withdrawal of OpenSSL 3.0.6 and 1.1.1r",
     "url": "https://mta.openssl.org/pipermail/openssl-announce/2022-October/000237.html",
-    "upvotes": 62,
+    "upvotes": 70,
     "author": "TimWolla",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=33177631"
   },
   {
+    "title": "Apple is quietly pushing a TV ad product with media agencies",
+    "url": "https://digiday.com/media/apple-is-quietly-pushing-a-tv-ad-product-with-media-agencies/",
+    "upvotes": 183,
+    "author": "ksec",
+    "comments": 236,
+    "link": "https://news.ycombinator.com/item?id=33177034"
+  },
+  {
     "title": "A New Doorway to the Brain",
     "url": "https://nautil.us/a-new-doorway-to-the-brain-242099/",
-    "upvotes": 39,
+    "upvotes": 49,
     "author": "Brajeshwar",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=33177681"
+  },
+  {
+    "title": "DevCycle",
+    "url": "https://devcycle.com/company/careers"
   },
   {
     "title": "Verifying Distributed Systems with Isabelle/HOL, by Martin Kleppmann",
     "url": "https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html",
-    "upvotes": 34,
+    "upvotes": 45,
     "author": "eatonphil",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=33177980"
   },
   {
     "title": "New research shows hydrogen-reduced iron has superior properties",
     "url": "https://group.vattenfall.com/press-and-media/pressreleases/2022/hybrit-new-research-shows-hydrogen-reduced-iron-has-superior-properties",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "tda",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=33176766"
   },
   {
     "title": "How Brian Eno Created Ambient 1: Music for Airports",
     "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
-    "upvotes": 333,
+    "upvotes": 354,
     "author": "jim-jim-jim",
-    "comments": 84,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=33172448"
   },
   {
     "title": "GHC 9.4.2 regresses being able to do math on aarch64",
     "url": "https://gitlab.haskell.org/ghc/ghc/-/issues/22282",
-    "upvotes": 37,
+    "upvotes": 47,
     "author": "nequo",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=33176928"
   },
   {
     "title": "The computer errors from outer space",
     "url": "https://www.bbc.com/future/article/20221011-how-space-weather-causes-computer-errors",
-    "upvotes": 48,
+    "upvotes": 52,
     "author": "throw0101c",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=33175890"
@@ -90,149 +94,145 @@
   {
     "title": "Seven sins of numerical linear algebra",
     "url": "https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/",
-    "upvotes": 220,
+    "upvotes": 226,
     "author": "jeffreyrogers",
-    "comments": 38,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=33173443"
-  },
-  {
-    "title": "FBI Monitored Aretha Franklin for Years, File Shows",
-    "url": "https://www.nytimes.com/2022/10/12/us/fbi-aretha-franklin-surveillance.html",
-    "upvotes": 119,
-    "author": "mikhael",
-    "comments": 131,
-    "link": "https://news.ycombinator.com/item?id=33177490"
-  },
-  {
-    "title": "JetBrains invites developers to join the Fleet Public Preview Program",
-    "url": "https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview/",
-    "upvotes": 246,
-    "author": "topka",
-    "comments": 203,
-    "link": "https://news.ycombinator.com/item?id=33175373"
-  },
-  {
-    "title": "Ribbon Health",
-    "url": "https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/"
-  },
-  {
-    "title": "An Australian startup is “growing” water for drought-parched California",
-    "url": "https://www.cbsnews.com/news/an-australian-startup-is-growing-water-for-drought-parched-california/",
-    "upvotes": 27,
-    "author": "prostoalex",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=33146017"
-  },
-  {
-    "title": "Starlight interstellar probe",
-    "url": "https://en.wikipedia.org/wiki/Starlight_(interstellar_probe)",
-    "upvotes": 56,
-    "author": "Hooke",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=33144910"
   },
   {
     "title": "Franz Kafka’s Dissenting Bodies",
     "url": "https://www.prospectmagazine.co.uk/arts-and-books/franz-kafkas-dissenting-bodies",
-    "upvotes": 6,
+    "upvotes": 10,
     "author": "prismatic",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33136184"
   },
   {
-    "title": "iOS allows DNS request to escape the VPN tunnel",
-    "url": "https://twitter.com/mysk_co/status/1579997801047822336",
-    "upvotes": 80,
-    "author": "nb_key",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=33177629"
+    "title": "Starlight interstellar probe",
+    "url": "https://en.wikipedia.org/wiki/Starlight_(interstellar_probe)",
+    "upvotes": 59,
+    "author": "Hooke",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=33144910"
+  },
+  {
+    "title": "FBI Monitored Aretha Franklin for Years, File Shows",
+    "url": "https://www.nytimes.com/2022/10/12/us/fbi-aretha-franklin-surveillance.html",
+    "upvotes": 134,
+    "author": "mikhael",
+    "comments": 161,
+    "link": "https://news.ycombinator.com/item?id=33177490"
+  },
+  {
+    "title": "JetBrains invites developers to join the Fleet Public Preview Program",
+    "url": "https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview/",
+    "upvotes": 260,
+    "author": "topka",
+    "comments": 221,
+    "link": "https://news.ycombinator.com/item?id=33175373"
+  },
+  {
+    "title": "Show HN: Hellō, a cooperative approach for online identity",
+    "url": "https://www.hello.coop/pages/approach.html",
+    "upvotes": 17,
+    "author": "dickhardt",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33177705"
   },
   {
     "title": "A supernova star that erupted continuously for about 1,000 days",
     "url": "https://en.wikipedia.org/wiki/IPTF14hls",
-    "upvotes": 41,
+    "upvotes": 46,
     "author": "belter",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=33134463"
   },
   {
-    "title": "Ask HN: Do I publish code that affects millions of wireless security cameras?",
-    "url": "item?id=33178885",
-    "upvotes": 13,
-    "author": "00702",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=33178885"
-  },
-  {
     "title": "What it feels like to be bullied out of a job you love",
     "url": "https://www.justworktogether.com/blog/this-is-what-it-feels-like",
-    "upvotes": 138,
+    "upvotes": 149,
     "author": "mooreds",
-    "comments": 128,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=33177101"
   },
   {
     "title": "Meta Meets Microsoft",
     "url": "https://stratechery.com/2022/meta-meets-microsoft/",
-    "upvotes": 128,
+    "upvotes": 144,
     "author": "ingve",
-    "comments": 224,
+    "comments": 244,
     "link": "https://news.ycombinator.com/item?id=33175439"
+  },
+  {
+    "title": "iOS allows DNS request to escape the VPN tunnel",
+    "url": "https://twitter.com/mysk_co/status/1579997801047822336",
+    "upvotes": 98,
+    "author": "nb_key",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=33177629"
+  },
+  {
+    "title": "Design’s Unsexy Middle Bits",
+    "url": "https://eleganthack.com/designs-unsexy-middle-bits/",
+    "upvotes": 21,
+    "author": "mooreds",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=33137722"
   },
   {
     "title": "Forth: A New Way to Program a Mini Computer",
     "url": "https://articles.adsabs.harvard.edu/pdf/1974A%26AS...15..497M",
-    "upvotes": 77,
+    "upvotes": 81,
     "author": "Someone",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=33134663"
   },
   {
-    "title": "Show HN: Hellō, a cooperative approach for online identity",
-    "url": "https://www.hello.coop/pages/approach.html",
-    "upvotes": 10,
-    "author": "dickhardt",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=33177705"
-  },
-  {
-    "title": "Design’s Unsexy Middle Bits",
-    "url": "https://eleganthack.com/designs-unsexy-middle-bits/",
-    "upvotes": 17,
-    "author": "mooreds",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33137722"
-  },
-  {
     "title": "Ocean plastics: How much do rich countries contribute by shipping their waste?",
     "url": "https://ourworldindata.org/plastic-waste-trade",
-    "upvotes": 118,
+    "upvotes": 126,
     "author": "animal_spirits",
-    "comments": 117,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=33171651"
+  },
+  {
+    "title": "An Australian startup is “growing” water for drought-parched California",
+    "url": "https://www.cbsnews.com/news/an-australian-startup-is-growing-water-for-drought-parched-california/",
+    "upvotes": 30,
+    "author": "prostoalex",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=33146017"
+  },
+  {
+    "title": "The State of AWS Security",
+    "url": "https://www.datadoghq.com/state-of-aws-security/",
+    "upvotes": 103,
+    "author": "belter",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=33174046"
   },
   {
     "title": "Software and Anarchy",
     "url": "https://applied-langua.ge/software-and-anarchy.pdf",
-    "upvotes": 74,
+    "upvotes": 76,
     "author": "pabs3",
-    "comments": 26,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=33173364"
   },
   {
     "title": "Archaeologists hail ‘dream discovery’ as sarcophagus is unearthed near Cairo",
     "url": "https://www.theguardian.com/science/2022/oct/02/egypt-saqqara-ptah-em-wia-archaeologists-discover-sarcophagus-cairo",
-    "upvotes": 89,
+    "upvotes": 92,
     "author": "diodorus",
-    "comments": 61,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=33145297"
   },
   {
-    "title": "The State of AWS Security",
-    "url": "https://www.datadoghq.com/state-of-aws-security/",
-    "upvotes": 96,
-    "author": "belter",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=33174046"
+    "title": "Authors’ names have ‘astonishing’ influence on peer reviewers: study",
+    "url": "https://www.nature.com/articles/d41586-022-03256-9",
+    "upvotes": 404,
+    "author": "respinal",
+    "comments": 293,
+    "link": "https://news.ycombinator.com/item?id=33170550"
   }
 ]
