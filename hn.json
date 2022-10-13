@@ -2,15 +2,15 @@
   {
     "title": "A database without dynamic memory allocation",
     "url": "https://tigerbeetle.com/blog/a-database-without-dynamic-memory/",
-    "upvotes": 100,
+    "upvotes": 127,
     "author": "todsacerdoti",
-    "comments": 33,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=33192288"
   },
   {
     "title": "Prusti: Static Analyzer for Rust",
     "url": "https://github.com/viperproject/prusti-dev",
-    "upvotes": 138,
+    "upvotes": 150,
     "author": "aviramha",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=33190973"
@@ -18,33 +18,41 @@
   {
     "title": "Show HN: Obsidian 1.0 – Personal knowledge base app",
     "url": "https://obsidian.md/1.0",
-    "upvotes": 569,
+    "upvotes": 603,
     "author": "ericax",
-    "comments": 294,
+    "comments": 304,
     "link": "https://news.ycombinator.com/item?id=33190433"
   },
   {
     "title": "Why doesn't Stripe use Stripe Billing?",
     "url": "https://www.getlago.com/blog/is-stripe-using-stripe",
-    "upvotes": 121,
+    "upvotes": 132,
     "author": "swyx",
-    "comments": 77,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=33191307"
   },
   {
     "title": "We are stuck with egrep and fgrep",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith",
-    "upvotes": 219,
+    "upvotes": 222,
     "author": "yakubin",
-    "comments": 262,
+    "comments": 265,
     "link": "https://news.ycombinator.com/item?id=33189503"
+  },
+  {
+    "title": "Teenager Solves Stubborn Riddle About Prime Number Look-Alikes",
+    "url": "https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/",
+    "upvotes": 61,
+    "author": "theafh",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=33192074"
   },
   {
     "title": "Terminal.Gui: A Cross Platform Terminal UI Toolkit for .NET",
     "url": "https://github.com/gui-cs/Terminal.Gui",
-    "upvotes": 142,
+    "upvotes": 146,
     "author": "manjana",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=33190257"
   },
   {
@@ -54,31 +62,15 @@
   {
     "title": "They Called It LISP for a Reason: List Processing",
     "url": "https://gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html",
-    "upvotes": 28,
+    "upvotes": 33,
     "author": "susam",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=33162318"
-  },
-  {
-    "title": "Teenager Solves Stubborn Riddle About Prime Number Look-Alikes",
-    "url": "https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/",
-    "upvotes": 51,
-    "author": "theafh",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=33192074"
-  },
-  {
-    "title": "Virtual communication curbs creative idea generation",
-    "url": "https://www.nature.com/articles/s41586-022-04643-y",
-    "upvotes": 58,
-    "author": "hammock",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=33191420"
   },
   {
     "title": "P5.js – A library to make coding accessible for artists, designers, educators",
     "url": "https://p5js.org/",
-    "upvotes": 118,
+    "upvotes": 123,
     "author": "tony-allan",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=33176026"
@@ -86,65 +78,89 @@
   {
     "title": "TikTok profits from livestreams of families begging",
     "url": "https://www.bbc.com/news/world-63213567",
-    "upvotes": 336,
+    "upvotes": 350,
     "author": "DocFeind",
-    "comments": 199,
+    "comments": 200,
     "link": "https://news.ycombinator.com/item?id=33190627"
-  },
-  {
-    "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-    "url": "item?id=33191603",
-    "upvotes": 76,
-    "author": "proberts",
-    "comments": 143,
-    "link": "https://news.ycombinator.com/item?id=33191603"
-  },
-  {
-    "title": "Regulators of Facebook, Google and Amazon Also Invest in the Companies’ Stocks",
-    "url": "https://www.wsj.com/articles/the-regulators-of-facebook-google-and-amazon-also-invest-in-the-companies-stocks-11665670207",
-    "upvotes": 88,
-    "author": "marban",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=33192956"
   },
   {
     "title": "OnlyFans lawyers accidentally reveal which Meta execs allegedly took bribes",
     "url": "https://arstechnica.com/tech-policy/2022/10/onlyfans-lawyers-accidentally-reveal-which-meta-execs-allegedly-took-bribes/",
-    "upvotes": 49,
+    "upvotes": 67,
     "author": "latexr",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=33193471"
+  },
+  {
+    "title": "Virtual communication curbs creative idea generation",
+    "url": "https://www.nature.com/articles/s41586-022-04643-y",
+    "upvotes": 60,
+    "author": "hammock",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=33191420"
+  },
+  {
+    "title": "Regulators of Facebook, Google and Amazon Also Invest in the Companies’ Stocks",
+    "url": "https://www.wsj.com/articles/the-regulators-of-facebook-google-and-amazon-also-invest-in-the-companies-stocks-11665670207",
+    "upvotes": 99,
+    "author": "marban",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=33192956"
+  },
+  {
+    "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+    "url": "item?id=33191603",
+    "upvotes": 80,
+    "author": "proberts",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=33191603"
   },
   {
     "title": "Old Elbe Tunnel",
     "url": "https://en.wikipedia.org/wiki/Elbe_Tunnel_(1911)",
-    "upvotes": 63,
+    "upvotes": 67,
     "author": "Tomte",
-    "comments": 14,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=33175124"
   },
   {
     "title": "PostgreSQL 15",
     "url": "https://www.postgresql.org/about/news/postgresql-15-released-2526/",
-    "upvotes": 369,
+    "upvotes": 388,
     "author": "jkatz05",
-    "comments": 84,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=33190456"
+  },
+  {
+    "title": "Why does a football arc through the air and not tumble?",
+    "url": "https://www.vox.com/videos/2022/10/12/23401291/football-physics-spiral-pass-paradox",
+    "upvotes": 9,
+    "author": "gumby",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=33191494"
   },
   {
     "title": "Everything I wish I had known about raising a seed round",
     "url": "https://mdwdotla.medium.com/everything-i-wish-i-had-known-about-raising-a-seed-round-a615f8f7740b",
-    "upvotes": 147,
+    "upvotes": 152,
     "author": "mad",
-    "comments": 62,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=33159680"
+  },
+  {
+    "title": "Plane: Per-user backends for web apps",
+    "url": "https://driftingin.space/posts/plane",
+    "upvotes": 165,
+    "author": "paulgb",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=33178797"
   },
   {
     "title": "Bonfire – working to build safer, more open federated tools and communities",
     "url": "https://bonfirenetworks.org/",
-    "upvotes": 62,
+    "upvotes": 63,
     "author": "ZacnyLos",
-    "comments": 37,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=33190295"
   },
   {
@@ -156,83 +172,67 @@
     "link": "https://news.ycombinator.com/item?id=33191266"
   },
   {
-    "title": "Plane: Per-user backends for web apps",
-    "url": "https://driftingin.space/posts/plane",
-    "upvotes": 164,
-    "author": "paulgb",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=33178797"
+    "title": "AWS Permission Boundaries for Dummies",
+    "url": "https://www.firemon.com/aws-permission-boundaries-for-dummies/",
+    "upvotes": 19,
+    "author": "mooreds",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=33192295"
+  },
+  {
+    "title": "Kodak Is Hiring Film Technicians: ‘We Cannot Keep Up with Demand’",
+    "url": "https://petapixel.com/2022/10/12/we-cannot-keep-up-with-demand-kodak-are-hiring-film-technicians/",
+    "upvotes": 32,
+    "author": "Stratoscope",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=33193669"
   },
   {
     "title": "New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart",
     "url": "https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/",
-    "upvotes": 164,
+    "upvotes": 165,
     "author": "truth_seeker",
     "comments": 67,
     "link": "https://news.ycombinator.com/item?id=33187677"
   },
   {
-    "title": "What influences keyboard input speed",
-    "url": "https://next.wooting.io/post/what-influences-keyboard-speed",
-    "upvotes": 42,
-    "author": "celesian",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=33190476"
-  },
-  {
-    "title": "Kodak Is Hiring Film Technicians: ‘We Cannot Keep Up with Demand’",
-    "url": "https://petapixel.com/2022/10/12/we-cannot-keep-up-with-demand-kodak-are-hiring-film-technicians/",
-    "upvotes": 19,
-    "author": "Stratoscope",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=33193669"
+    "title": "How to succeed at Meta",
+    "url": "https://www.teamblind.com/post/How-to-succeed-at-Meta-diLQqcTy",
+    "upvotes": 132,
+    "author": "donsupreme",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=33191254"
   },
   {
     "title": "Anatomy of Linux Dynamic Libraries",
     "url": "https://developer.ibm.com/tutorials/l-dynamic-libraries/",
-    "upvotes": 80,
+    "upvotes": 81,
     "author": "begoon",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=33174996"
   },
   {
-    "title": "How to succeed at Meta",
-    "url": "https://www.teamblind.com/post/How-to-succeed-at-Meta-diLQqcTy",
-    "upvotes": 123,
-    "author": "donsupreme",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=33191254"
-  },
-  {
-    "title": "DJI drone tracking data exposed in US",
-    "url": "https://cybernews.com/privacy/dji-drone-tracking-data-exposed-in-us/",
-    "upvotes": 36,
-    "author": "bmcn2020",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33192846"
-  },
-  {
-    "title": "AWS Permission Boundaries for Dummies",
-    "url": "https://www.firemon.com/aws-permission-boundaries-for-dummies/",
-    "upvotes": 14,
-    "author": "mooreds",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=33192295"
+    "title": "What influences keyboard input speed",
+    "url": "https://next.wooting.io/post/what-influences-keyboard-speed",
+    "upvotes": 43,
+    "author": "celesian",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=33190476"
   },
   {
     "title": "Most PPP loans have been forgiven, despite signs of possible fraud",
     "url": "https://www.npr.org/2022/10/12/1128207464/ppp-loans-loan-forgiveness-small-business",
-    "upvotes": 129,
+    "upvotes": 136,
     "author": "gmays",
-    "comments": 120,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=33190851"
   },
   {
-    "title": "Show HN: Metlo",
-    "url": "https://github.com/metlo-labs/metlo",
-    "upvotes": 12,
-    "author": "ashekhawat",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33193666"
+    "title": "DJI drone tracking data exposed in US",
+    "url": "https://cybernews.com/privacy/dji-drone-tracking-data-exposed-in-us/",
+    "upvotes": 38,
+    "author": "bmcn2020",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=33192846"
   }
 ]
