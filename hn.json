@@ -1,216 +1,192 @@
 [
   {
-    "title": "Linear.app",
-    "url": "https://linear.app/homepage",
-    "upvotes": 69,
-    "author": "JaakkoP",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=33199304"
-  },
-  {
-    "title": "Beware of Bun.js",
-    "url": "https://gist.github.com/littledivy/b9351c3ccf8ab99f7e14461db37044dc",
-    "upvotes": 73,
-    "author": "undefined_void",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=33199351"
-  },
-  {
     "title": "Toyota suffered a data breach by accidentally exposing a secret key on GitHub",
     "url": "https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/",
-    "upvotes": 369,
+    "upvotes": 381,
     "author": "whack",
-    "comments": 155,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=33196146"
   },
   {
     "title": "Equifax used records it collects from companies to fire employees with 2nd jobs",
     "url": "https://www.businessinsider.com/equifax-fires-employees-for-working-two-jobs-2022-10",
-    "upvotes": 205,
+    "upvotes": 247,
     "author": "master_crab",
-    "comments": 83,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=33198708"
   },
   {
     "title": "Tcl Ported to Go",
     "url": "https://gitlab.com/cznic/tcl",
-    "upvotes": 96,
+    "upvotes": 105,
     "author": "blacksqr",
-    "comments": 40,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=33197603"
-  },
-  {
-    "title": "Oracle lays off more than 200 California-based workers",
-    "url": "https://www.datacenterdynamics.com/en/news/oracle-lays-off-more-than-200-california-based-workers/",
-    "upvotes": 34,
-    "author": "kungfudoi",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=33198580"
   },
   {
     "title": "A database without dynamic memory allocation",
     "url": "https://tigerbeetle.com/blog/a-database-without-dynamic-memory/",
-    "upvotes": 308,
+    "upvotes": 315,
     "author": "todsacerdoti",
-    "comments": 158,
+    "comments": 160,
     "link": "https://news.ycombinator.com/item?id=33192288"
   },
   {
     "title": "Teenager solves stubborn riddle about prime number look-alikes",
     "url": "https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/",
-    "upvotes": 314,
+    "upvotes": 323,
     "author": "theafh",
-    "comments": 173,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=33192074"
-  },
-  {
-    "title": "If AI can read, then plain text can be weaponized",
-    "url": "https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/",
-    "upvotes": 36,
-    "author": "behnamoh",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=33198319"
   },
   {
     "title": "Digging into a QEMU problem of slow data copying",
     "url": "https://linus.schreibt.jetzt/posts/qemu-9p-performance.html",
-    "upvotes": 108,
+    "upvotes": 115,
     "author": "todsacerdoti",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=33192152"
   },
   {
-    "title": "Discovering Azure's unannounced breaking change with Cosmos DB",
-    "url": "https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/",
-    "upvotes": 149,
-    "author": "jmartens",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=33194974"
+    "title": "Using an Amiga in 2021: Making an intro",
+    "url": "https://datagubbe.se/mkdem/",
+    "upvotes": 10,
+    "author": "bane",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33199349"
+  },
+  {
+    "title": "If AI can read, then plain text can be weaponized",
+    "url": "https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/",
+    "upvotes": 40,
+    "author": "behnamoh",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=33198319"
   },
   {
     "title": "Deep language algorithms predict semantic comprehension from brain activity",
     "url": "https://www.nature.com/articles/s41598-022-20460-9",
-    "upvotes": 43,
+    "upvotes": 46,
     "author": "piecerough",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=33197285"
   },
   {
-    "title": "Why doesn't Stripe use Stripe Billing?",
-    "url": "https://www.getlago.com/blog/is-stripe-using-stripe",
-    "upvotes": 298,
-    "author": "swyx",
-    "comments": 178,
-    "link": "https://news.ycombinator.com/item?id=33191307"
-  },
-  {
-    "title": "Prusti: Static Analyzer for Rust",
-    "url": "https://github.com/viperproject/prusti-dev",
-    "upvotes": 257,
-    "author": "aviramha",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=33190973"
+    "title": "Discovering Azure's unannounced breaking change with Cosmos DB",
+    "url": "https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/",
+    "upvotes": 154,
+    "author": "jmartens",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=33194974"
   },
   {
     "title": "Heaviest element yet detected in an exoplanet atmosphere",
     "url": "https://www.eso.org/public/news/eso2213/",
-    "upvotes": 39,
+    "upvotes": 44,
     "author": "hhs",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=33197232"
   },
   {
-    "title": "IKEA’s Crimes Against Cartography",
-    "url": "https://www.londonreconnections.com/2022/ikeas-crimes-against-cartography/",
-    "upvotes": 58,
-    "author": "edward",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=33188123"
+    "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+    "url": "item?id=33191603",
+    "upvotes": 159,
+    "author": "proberts",
+    "comments": 228,
+    "link": "https://news.ycombinator.com/item?id=33191603"
   },
   {
     "title": "A modern Fortran scientific programming ecosystem",
     "url": "https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html",
-    "upvotes": 58,
+    "upvotes": 63,
     "author": "Bostonian",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=33194773"
   },
   {
-    "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-    "url": "item?id=33191603",
-    "upvotes": 156,
-    "author": "proberts",
-    "comments": 227,
-    "link": "https://news.ycombinator.com/item?id=33191603"
-  },
-  {
     "title": "Code Review Handbook",
     "url": "https://www.sledgeworx.io/code-review-handbook/",
-    "upvotes": 11,
+    "upvotes": 17,
     "author": "Sevii",
-    "comments": 2,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=33198880"
   },
   {
     "title": "Chimps and gorillas form rainforest friendships",
     "url": "https://www.nytimes.com/2022/10/11/science/gorillas-chimps-friends.html",
-    "upvotes": 44,
+    "upvotes": 47,
     "author": "Vigier",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=33171880"
+  },
+  {
+    "title": "IKEA’s Crimes Against Cartography",
+    "url": "https://www.londonreconnections.com/2022/ikeas-crimes-against-cartography/",
+    "upvotes": 69,
+    "author": "edward",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=33188123"
+  },
+  {
+    "title": "Linear.app",
+    "url": "https://linear.app/homepage",
+    "upvotes": 125,
+    "author": "JaakkoP",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=33199304"
+  },
+  {
+    "title": "Plane: Per-user backends for web apps",
+    "url": "https://driftingin.space/posts/plane",
+    "upvotes": 243,
+    "author": "paulgb",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=33178797"
+  },
+  {
+    "title": "Nietzsche in Turin",
+    "url": "https://www.newstatesman.com/culture/books/2022/07/nietzsche-in-turin-review-lesley-chamberlain-guy-de-pourtales",
+    "upvotes": 19,
+    "author": "welpandthen",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=33186936"
   },
   {
     "title": "Bun v0.2.0",
     "url": "https://github.com/oven-sh/bun/releases/tag/bun-v0.2.0",
-    "upvotes": 65,
+    "upvotes": 69,
     "author": "christophilus",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=33198198"
   },
   {
-    "title": "Nietzsche in Turin",
-    "url": "https://www.newstatesman.com/culture/books/2022/07/nietzsche-in-turin-review-lesley-chamberlain-guy-de-pourtales",
-    "upvotes": 17,
-    "author": "welpandthen",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33186936"
-  },
-  {
-    "title": "Plane: Per-user backends for web apps",
-    "url": "https://driftingin.space/posts/plane",
-    "upvotes": 240,
-    "author": "paulgb",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=33178797"
-  },
-  {
-    "title": "Tell HN: Getting Ready for Unemployment",
-    "url": "item?id=33199602",
-    "upvotes": 4,
-    "author": "dozgon",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33199602"
-  },
-  {
-    "title": "Old Elbe Tunnel",
-    "url": "https://en.wikipedia.org/wiki/Elbe_Tunnel_(1911)",
-    "upvotes": 135,
-    "author": "Tomte",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=33175124"
+    "title": "Oracle lays off more than 200 California-based workers",
+    "url": "https://www.datacenterdynamics.com/en/news/oracle-lays-off-more-than-200-california-based-workers/",
+    "upvotes": 41,
+    "author": "kungfudoi",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=33198580"
   },
   {
     "title": "AltaRock Energy Melts Rock with Millimeter Waves for Geothermal Wells",
     "url": "https://spectrum.ieee.org/altarock-energy-melts-rock-with-millimeter-waves-for-geothermal-wells",
-    "upvotes": 38,
+    "upvotes": 44,
     "author": "rfreytag",
-    "comments": 27,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=33166260"
+  },
+  {
+    "title": "Tell HN: Getting Ready for Unemployment",
+    "url": "item?id=33199602",
+    "upvotes": 46,
+    "author": "dozgon",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=33199602"
   },
   {
     "title": "Virtual communication curbs creative idea generation",
     "url": "https://www.nature.com/articles/s41586-022-04643-y",
-    "upvotes": 123,
+    "upvotes": 126,
     "author": "hammock",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=33191420"
@@ -218,21 +194,49 @@
   {
     "title": "How much have tech layoffs affected engineers vs. other departments?",
     "url": "https://blog.interviewing.io/how-much-have-2022-layoffs-affected-engineers-vs-other-departments-we-dug-into-the-data-to-find-out/",
-    "upvotes": 210,
+    "upvotes": 215,
     "author": "leeny",
-    "comments": 273,
+    "comments": 281,
     "link": "https://news.ycombinator.com/item?id=33192649"
   },
   {
-    "title": "Jitx",
-    "url": "https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e"
+    "title": "Obsidian 1.0 – Personal knowledge base app",
+    "url": "https://obsidian.md/1.0",
+    "upvotes": 1124,
+    "author": "ericax",
+    "comments": 502,
+    "link": "https://news.ycombinator.com/item?id=33190433"
   },
   {
-    "title": "TikTok profits from livestreams of families begging",
-    "url": "https://www.bbc.com/news/world-63213567",
-    "upvotes": 497,
-    "author": "DocFeind",
-    "comments": 284,
-    "link": "https://news.ycombinator.com/item?id=33190627"
+    "title": "Why doesn't Stripe use Stripe Billing?",
+    "url": "https://www.getlago.com/blog/is-stripe-using-stripe",
+    "upvotes": 303,
+    "author": "swyx",
+    "comments": 181,
+    "link": "https://news.ycombinator.com/item?id=33191307"
+  },
+  {
+    "title": "Coaching for “Normals”?",
+    "url": "item?id=33173205",
+    "upvotes": 18,
+    "author": "wanderingCoder",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=33173205"
+  },
+  {
+    "title": "Learning dynamic 3D geometry and texture for video face swapping",
+    "url": "https://studios.disneyresearch.com/2022/10/05/learning-dynamic-3d-geometry-and-texture-for-video-face-swapping/",
+    "upvotes": 4,
+    "author": "guiambros",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33198900"
+  },
+  {
+    "title": "AWS Permission Boundaries for Dummies",
+    "url": "https://www.firemon.com/aws-permission-boundaries-for-dummies/",
+    "upvotes": 60,
+    "author": "mooreds",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=33192295"
   }
 ]
