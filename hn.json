@@ -2,87 +2,87 @@
   {
     "title": "Toyota suffered a data breach by accidentally exposing a secret key on GitHub",
     "url": "https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/",
-    "upvotes": 241,
+    "upvotes": 262,
     "author": "whack",
-    "comments": 122,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=33196146"
   },
   {
-    "title": "White House is pushing ahead research to cool Earth by reflecting back sunlight",
-    "url": "https://www.cnbc.com/2022/10/13/what-is-solar-geoengineering-sunlight-reflection-risks-and-benefits.html",
-    "upvotes": 64,
-    "author": "paulkrush",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=33197332"
-  },
-  {
-    "title": "How much have tech layoffs affected engineers vs. other departments?",
-    "url": "https://blog.interviewing.io/how-much-have-2022-layoffs-affected-engineers-vs-other-departments-we-dug-into-the-data-to-find-out/",
-    "upvotes": 151,
-    "author": "leeny",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=33192649"
+    "title": "Tcl Ported to Go",
+    "url": "https://gitlab.com/cznic/tcl",
+    "upvotes": 24,
+    "author": "blacksqr",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=33197603"
   },
   {
     "title": "A database without dynamic memory allocation",
     "url": "https://tigerbeetle.com/blog/a-database-without-dynamic-memory/",
-    "upvotes": 266,
+    "upvotes": 277,
     "author": "todsacerdoti",
-    "comments": 142,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=33192288"
   },
   {
     "title": "Discovering Azure's unannounced breaking change with Cosmos DB",
     "url": "https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/",
-    "upvotes": 110,
+    "upvotes": 117,
     "author": "jmartens",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=33194974"
-  },
-  {
-    "title": "Deep language algorithms predict semantic comprehension from brain activity",
-    "url": "https://www.nature.com/articles/s41598-022-20460-9",
-    "upvotes": 20,
-    "author": "piecerough",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=33197285"
   },
   {
     "title": "Teenager solves stubborn riddle about prime number look-alikes",
     "url": "https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/",
-    "upvotes": 242,
+    "upvotes": 249,
     "author": "theafh",
-    "comments": 132,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=33192074"
   },
   {
-    "title": "Why doesn't Stripe use Stripe Billing?",
-    "url": "https://www.getlago.com/blog/is-stripe-using-stripe",
-    "upvotes": 264,
-    "author": "swyx",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=33191307"
+    "title": "Deep language algorithms predict semantic comprehension from brain activity",
+    "url": "https://www.nature.com/articles/s41598-022-20460-9",
+    "upvotes": 25,
+    "author": "piecerough",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=33197285"
   },
   {
     "title": "Digging into a QEMU problem of slow data copying",
     "url": "https://linus.schreibt.jetzt/posts/qemu-9p-performance.html",
-    "upvotes": 45,
+    "upvotes": 57,
     "author": "todsacerdoti",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=33192152"
   },
   {
+    "title": "Why doesn't Stripe use Stripe Billing?",
+    "url": "https://www.getlago.com/blog/is-stripe-using-stripe",
+    "upvotes": 271,
+    "author": "swyx",
+    "comments": 146,
+    "link": "https://news.ycombinator.com/item?id=33191307"
+  },
+  {
+    "title": "How much have tech layoffs affected engineers vs. other departments?",
+    "url": "https://blog.interviewing.io/how-much-have-2022-layoffs-affected-engineers-vs-other-departments-we-dug-into-the-data-to-find-out/",
+    "upvotes": 162,
+    "author": "leeny",
+    "comments": 173,
+    "link": "https://news.ycombinator.com/item?id=33192649"
+  },
+  {
     "title": "Obsidian 1.0 – Personal knowledge base app",
     "url": "https://obsidian.md/1.0",
-    "upvotes": 978,
+    "upvotes": 1001,
     "author": "ericax",
-    "comments": 450,
+    "comments": 458,
     "link": "https://news.ycombinator.com/item?id=33190433"
   },
   {
     "title": "Prusti: Static Analyzer for Rust",
     "url": "https://github.com/viperproject/prusti-dev",
-    "upvotes": 233,
+    "upvotes": 238,
     "author": "aviramha",
     "comments": 76,
     "link": "https://news.ycombinator.com/item?id=33190973"
@@ -90,7 +90,7 @@
   {
     "title": "Chimps and gorillas form rainforest friendships",
     "url": "https://www.nytimes.com/2022/10/11/science/gorillas-chimps-friends.html",
-    "upvotes": 15,
+    "upvotes": 23,
     "author": "Vigier",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33171880"
@@ -98,58 +98,74 @@
   {
     "title": "We are stuck with egrep and fgrep",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith",
-    "upvotes": 270,
+    "upvotes": 274,
     "author": "yakubin",
-    "comments": 311,
+    "comments": 312,
     "link": "https://news.ycombinator.com/item?id=33189503"
   },
   {
-    "title": "A modern Fortran scientific programming ecosystem",
-    "url": "https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html",
-    "upvotes": 26,
-    "author": "Bostonian",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=33194773"
+    "title": "White House is pushing ahead research to cool Earth by reflecting back sunlight",
+    "url": "https://www.cnbc.com/2022/10/13/what-is-solar-geoengineering-sunlight-reflection-risks-and-benefits.html",
+    "upvotes": 80,
+    "author": "paulkrush",
+    "comments": 131,
+    "link": "https://news.ycombinator.com/item?id=33197332"
   },
   {
     "title": "Terminal.Gui: A Cross Platform Terminal UI Toolkit for .NET",
     "url": "https://github.com/gui-cs/Terminal.Gui",
-    "upvotes": 205,
+    "upvotes": 207,
     "author": "manjana",
-    "comments": 71,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=33190257"
+  },
+  {
+    "title": "A modern Fortran scientific programming ecosystem",
+    "url": "https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html",
+    "upvotes": 29,
+    "author": "Bostonian",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=33194773"
   },
   {
     "title": "They Called It LISP for a Reason: List Processing",
     "url": "https://gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html",
-    "upvotes": 101,
+    "upvotes": 104,
     "author": "susam",
-    "comments": 74,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=33162318"
-  },
-  {
-    "title": "Tcl Ported to Go",
-    "url": "https://gitlab.com/cznic/tcl",
-    "upvotes": 7,
-    "author": "blacksqr",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33197603"
   },
   {
     "title": "AltaRock Energy Melts Rock with Millimeter Waves for Geothermal Wells",
     "url": "https://spectrum.ieee.org/altarock-energy-melts-rock-with-millimeter-waves-for-geothermal-wells",
-    "upvotes": 25,
+    "upvotes": 28,
     "author": "rfreytag",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=33166260"
   },
   {
     "title": "P5.js – A library to make coding accessible for artists, designers, educators",
     "url": "https://p5js.org/",
-    "upvotes": 183,
+    "upvotes": 188,
     "author": "tony-allan",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=33176026"
+  },
+  {
+    "title": "Heaviest element yet detected in an exoplanet atmosphere",
+    "url": "https://www.eso.org/public/news/eso2213/",
+    "upvotes": 10,
+    "author": "hhs",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33197232"
+  },
+  {
+    "title": "Users without a cell connection find they can’t get back into their Zipcar",
+    "url": "https://www.wsj.com/articles/how-not-to-go-off-the-grid-11665067328",
+    "upvotes": 44,
+    "author": "prostoalex",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=33157527"
   },
   {
     "title": "Jitx",
@@ -158,39 +174,31 @@
   {
     "title": "Old Elbe Tunnel",
     "url": "https://en.wikipedia.org/wiki/Elbe_Tunnel_(1911)",
-    "upvotes": 125,
+    "upvotes": 126,
     "author": "Tomte",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=33175124"
-  },
-  {
-    "title": "Users without a cell connection find they can’t get back into their Zipcar",
-    "url": "https://www.wsj.com/articles/how-not-to-go-off-the-grid-11665067328",
-    "upvotes": 37,
-    "author": "prostoalex",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=33157527"
   },
   {
     "title": "Plane: Per-user backends for web apps",
     "url": "https://driftingin.space/posts/plane",
-    "upvotes": 213,
+    "upvotes": 216,
     "author": "paulgb",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=33178797"
   },
   {
     "title": "Using flux to automate simple tasks",
     "url": "https://siebjee.nl/posts/using-flux-to-automate-simple-tasks/",
-    "upvotes": 4,
+    "upvotes": 5,
     "author": "Siebjee",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33174548"
   },
   {
     "title": "Virtual communication curbs creative idea generation",
     "url": "https://www.nature.com/articles/s41586-022-04643-y",
-    "upvotes": 105,
+    "upvotes": 108,
     "author": "hammock",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=33191420"
@@ -198,41 +206,33 @@
   {
     "title": "PHYS771 Lecture 9: Quantum",
     "url": "https://www.scottaaronson.com/democritus/lec9.html",
-    "upvotes": 93,
+    "upvotes": 94,
     "author": "thunderbong",
     "comments": 48,
     "link": "https://news.ycombinator.com/item?id=33188276"
   },
   {
-    "title": "Heaviest element yet detected in an exoplanet atmosphere",
-    "url": "https://www.eso.org/public/news/eso2213/",
-    "upvotes": 7,
-    "author": "hhs",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33197232"
-  },
-  {
     "title": "TikTok profits from livestreams of families begging",
     "url": "https://www.bbc.com/news/world-63213567",
-    "upvotes": 459,
+    "upvotes": 468,
     "author": "DocFeind",
     "comments": 271,
     "link": "https://news.ycombinator.com/item?id=33190627"
   },
   {
-    "title": "Everything I wish I had known about raising a seed round",
-    "url": "https://mdwdotla.medium.com/everything-i-wish-i-had-known-about-raising-a-seed-round-a615f8f7740b",
-    "upvotes": 195,
-    "author": "mad",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=33159680"
-  },
-  {
     "title": "A summary of my learnings on how to find startup ideas",
     "url": "https://liorn.substack.com/p/a-summary-of-my-learnings-on-how",
-    "upvotes": 97,
+    "upvotes": 100,
     "author": "Lior539",
-    "comments": 25,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=33191266"
+  },
+  {
+    "title": "PostgreSQL 15",
+    "url": "https://www.postgresql.org/about/news/postgresql-15-released-2526/",
+    "upvotes": 557,
+    "author": "jkatz05",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=33190456"
   }
 ]
