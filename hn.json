@@ -2,127 +2,135 @@
   {
     "title": "Why I Don't Use Netscape",
     "url": "https://www.complang.tuwien.ac.at/anton/why-ancient-browsers.html",
-    "upvotes": 42,
+    "upvotes": 67,
     "author": "artogahr",
-    "comments": 28,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=33201544"
   },
   {
     "title": "Zero Feet: a proposal for a systems-free Lisp",
     "url": "https://applied-langua.ge/posts/zero-feet.html",
-    "upvotes": 42,
+    "upvotes": 50,
     "author": "contrapunctus",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=33201363"
   },
   {
     "title": "Some remotely exploitable Linux kernel WiFi vulnerabilities",
     "url": "https://lwn.net/Articles/911062/",
-    "upvotes": 125,
+    "upvotes": 136,
     "author": "gundamdoubleO",
-    "comments": 28,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=33200171"
+  },
+  {
+    "title": "5G’s Rollout Rattled Hundreds of Pilots",
+    "url": "https://spectrum.ieee.org/faa-5g",
+    "upvotes": 20,
+    "author": "samizdis",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33201601"
   },
   {
     "title": "Toyota suffered a data breach by accidentally exposing a secret key on GitHub",
     "url": "https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/",
-    "upvotes": 503,
+    "upvotes": 510,
     "author": "whack",
-    "comments": 200,
+    "comments": 203,
     "link": "https://news.ycombinator.com/item?id=33196146"
   },
   {
     "title": "Retrowin32, a Win32 emulator",
     "url": "https://neugierig.org/software/blog/2022/10/retrowin32.html",
-    "upvotes": 65,
+    "upvotes": 69,
     "author": "ingve",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=33200180"
   },
   {
     "title": "Using an Amiga in 2021: Making an intro",
     "url": "https://datagubbe.se/mkdem/",
-    "upvotes": 115,
+    "upvotes": 121,
     "author": "bane",
-    "comments": 21,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=33199349"
   },
   {
     "title": "A DRAM Failure",
     "url": "https://www.complang.tuwien.ac.at/anton/failing-memory.html",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "pabs3",
-    "comments": 21,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=33200294"
   },
   {
     "title": "JEP 431: Sequenced Collections",
     "url": "https://openjdk.org/jeps/431",
-    "upvotes": 78,
+    "upvotes": 82,
     "author": "ludovicianul",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=33174245"
   },
   {
-    "title": "5G’s Rollout Rattled Hundreds of Pilots",
-    "url": "https://spectrum.ieee.org/faa-5g",
-    "upvotes": 4,
-    "author": "samizdis",
+    "title": "Largest open dataset of apartment models ever got published",
+    "url": "https://zenodo.org/record/7070952",
+    "upvotes": 10,
+    "author": "standfest",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33201601"
+    "link": "https://news.ycombinator.com/item?id=33201608"
+  },
+  {
+    "title": "Why Wasn’t the Steam Engine Invented Earlier?",
+    "url": "https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-76c",
+    "upvotes": 22,
+    "author": "barry-cotter",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=33200864"
   },
   {
     "title": "White House is pushing ahead research to cool Earth by reflecting back sunlight",
     "url": "https://www.cnbc.com/2022/10/13/what-is-solar-geoengineering-sunlight-reflection-risks-and-benefits.html",
-    "upvotes": 154,
+    "upvotes": 164,
     "author": "paulkrush",
-    "comments": 302,
+    "comments": 328,
     "link": "https://news.ycombinator.com/item?id=33197332"
   },
   {
     "title": "Equifax used records it collects from companies to fire employees with 2nd jobs",
     "url": "https://www.businessinsider.com/equifax-fires-employees-for-working-two-jobs-2022-10",
-    "upvotes": 394,
+    "upvotes": 408,
     "author": "master_crab",
-    "comments": 189,
+    "comments": 217,
     "link": "https://news.ycombinator.com/item?id=33198708"
   },
   {
     "title": "Tcl Ported to Go",
     "url": "https://gitlab.com/cznic/tcl",
-    "upvotes": 141,
+    "upvotes": 147,
     "author": "blacksqr",
-    "comments": 64,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=33197603"
-  },
-  {
-    "title": "Why Wasn’t the Steam Engine Invented Earlier?",
-    "url": "https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-76c",
-    "upvotes": 13,
-    "author": "barry-cotter",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=33200864"
-  },
-  {
-    "title": "Digging into a QEMU problem of slow data copying",
-    "url": "https://linus.schreibt.jetzt/posts/qemu-9p-performance.html",
-    "upvotes": 162,
-    "author": "todsacerdoti",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=33192152"
   },
   {
     "title": "Replace the “very” in your sentence",
     "url": "https://www.losethevery.com/",
-    "upvotes": 118,
+    "upvotes": 126,
     "author": "no-reply",
-    "comments": 168,
+    "comments": 185,
     "link": "https://news.ycombinator.com/item?id=33196773"
+  },
+  {
+    "title": "An Open-Source HDMI Capture Card",
+    "url": "https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/",
+    "upvotes": 12,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33201931"
   },
   {
     "title": "Code Review Handbook",
     "url": "https://www.sledgeworx.io/code-review-handbook/",
-    "upvotes": 71,
+    "upvotes": 74,
     "author": "Sevii",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=33198880"
@@ -130,113 +138,105 @@
   {
     "title": "Deep language algorithms predict semantic comprehension from brain activity",
     "url": "https://www.nature.com/articles/s41598-022-20460-9",
-    "upvotes": 75,
+    "upvotes": 78,
     "author": "piecerough",
-    "comments": 37,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=33197285"
-  },
-  {
-    "title": "Two recent books by historians explore the crisis in biological psychiatry",
-    "url": "https://bostonreview.net/articles/mental-illness-is-not-in-your-head/",
-    "upvotes": 56,
-    "author": "Caiero",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=33170262"
   },
   {
     "title": "If AI can read, then plain text can be weaponized",
     "url": "https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/",
-    "upvotes": 70,
+    "upvotes": 71,
     "author": "behnamoh",
-    "comments": 41,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=33198319"
   },
   {
-    "title": "Show HN: Circumflex, browse HN in your terminal",
-    "url": "https://github.com/bensadeh/circumflex",
-    "upvotes": 141,
-    "author": "bensadeh",
+    "title": "Two recent books by historians explore the crisis in biological psychiatry",
+    "url": "https://bostonreview.net/articles/mental-illness-is-not-in-your-head/",
+    "upvotes": 58,
+    "author": "Caiero",
     "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=33192518"
-  },
-  {
-    "title": "Heaviest element yet detected in an exoplanet atmosphere",
-    "url": "https://www.eso.org/public/news/eso2213/",
-    "upvotes": 68,
-    "author": "hhs",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=33197232"
-  },
-  {
-    "title": "Learning dynamic 3D geometry and texture for video face swapping",
-    "url": "https://studios.disneyresearch.com/2022/10/05/learning-dynamic-3d-geometry-and-texture-for-video-face-swapping/",
-    "upvotes": 20,
-    "author": "guiambros",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=33198900"
+    "link": "https://news.ycombinator.com/item?id=33170262"
   },
   {
     "title": "Plane: Per-user backends for web apps",
     "url": "https://driftingin.space/posts/plane",
     "upvotes": 272,
     "author": "paulgb",
-    "comments": 54,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=33178797"
+  },
+  {
+    "title": "Heaviest element yet detected in an exoplanet atmosphere",
+    "url": "https://www.eso.org/public/news/eso2213/",
+    "upvotes": 70,
+    "author": "hhs",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=33197232"
+  },
+  {
+    "title": "Show HN: Circumflex, browse HN in your terminal",
+    "url": "https://github.com/bensadeh/circumflex",
+    "upvotes": 145,
+    "author": "bensadeh",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=33192518"
   },
   {
     "title": "Coaching for “Normals”?",
     "url": "item?id=33173205",
-    "upvotes": 50,
+    "upvotes": 52,
     "author": "wanderingCoder",
-    "comments": 36,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=33173205"
   },
   {
     "title": "A modern Fortran scientific programming ecosystem",
     "url": "https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html",
-    "upvotes": 93,
+    "upvotes": 97,
     "author": "Bostonian",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=33194773"
   },
   {
+    "title": "Learning dynamic 3D geometry and texture for video face swapping",
+    "url": "https://studios.disneyresearch.com/2022/10/05/learning-dynamic-3d-geometry-and-texture-for-video-face-swapping/",
+    "upvotes": 22,
+    "author": "guiambros",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=33198900"
+  },
+  {
     "title": "On the Proper Use of Post-Its",
     "url": "https://tylercipriani.com/blog/2022/05/28/on-the-proper-use-of-post-its/",
-    "upvotes": 49,
+    "upvotes": 53,
     "author": "zccm",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=33198332"
-  },
-  {
-    "title": "How to Plan?",
-    "url": "https://kellanem.com/notes/how-to-plan",
-    "upvotes": 31,
-    "author": "kiyanwang",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33200259"
-  },
-  {
-    "title": "AltaRock Energy Melts Rock with Millimeter Waves for Geothermal Wells",
-    "url": "https://spectrum.ieee.org/altarock-energy-melts-rock-with-millimeter-waves-for-geothermal-wells",
-    "upvotes": 64,
-    "author": "rfreytag",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=33166260"
   },
   {
     "title": "Oracle lays off more than 200 California-based workers",
     "url": "https://www.datacenterdynamics.com/en/news/oracle-lays-off-more-than-200-california-based-workers/",
-    "upvotes": 81,
+    "upvotes": 88,
     "author": "kungfudoi",
-    "comments": 37,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=33198580"
   },
   {
     "title": "Nietzsche in Turin",
     "url": "https://www.newstatesman.com/culture/books/2022/07/nietzsche-in-turin-review-lesley-chamberlain-guy-de-pourtales",
-    "upvotes": 33,
+    "upvotes": 35,
     "author": "welpandthen",
-    "comments": 22,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=33186936"
+  },
+  {
+    "title": "How to Plan?",
+    "url": "https://kellanem.com/notes/how-to-plan",
+    "upvotes": 33,
+    "author": "kiyanwang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33200259"
   }
 ]
