@@ -2,55 +2,83 @@
   {
     "title": "Compiler Explorer",
     "url": "https://godbolt.org/",
-    "upvotes": 223,
+    "upvotes": 240,
     "author": "disadvantage",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=33224542"
   },
   {
     "title": "XCheck at Meta: Why it exists and how it works",
     "url": "https://blog.nindalf.com/posts/xcheck/",
-    "upvotes": 122,
+    "upvotes": 138,
     "author": "nindalf",
-    "comments": 65,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=33224347"
   },
   {
     "title": "Feather – open source icons",
     "url": "https://feathericons.com/",
-    "upvotes": 157,
+    "upvotes": 177,
     "author": "vmoore",
-    "comments": 35,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=33223964"
   },
   {
     "title": "Fast file synchronization and network forwarding for remote development",
     "url": "https://github.com/mutagen-io/mutagen",
-    "upvotes": 46,
+    "upvotes": 52,
     "author": "saikatsg",
-    "comments": 19,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=33225703"
+  },
+  {
+    "title": "AI better at creating fragrances than professional perfumers",
+    "url": "https://www.visium.ch/blog/reinventing-fragrance-and-flavor-design-with-machine-learning",
+    "upvotes": 19,
+    "author": "MichIQ",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=33226302"
+  },
+  {
+    "title": "Charge Robotics",
+    "url": "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer"
+  },
+  {
+    "title": "GitHub Copilot, with “public code” blocked, emits my copyrighted code",
+    "url": "https://twitter.com/docsparse/status/1581461734665367554",
+    "upvotes": 84,
+    "author": "davidgerard",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=33226515"
+  },
+  {
+    "title": "1956 Philips 353A Bakelite Vacuum Tube Radio Repair and Restoration",
+    "url": "https://retrorepairsandrefurbs.com/2022/09/06/1956-philips-353a-bakelite-vacuum-tube-radio-repair-restoration/",
+    "upvotes": 6,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33226852"
+  },
+  {
+    "title": "Wikiversity",
+    "url": "https://en.wikiversity.org/wiki/Wikiversity:Main_Page",
+    "upvotes": 17,
+    "author": "RafelMri",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33226352"
   },
   {
     "title": "Digital Gardening",
     "url": "https://nicolasbouliane.com/blog/digital-gardening",
-    "upvotes": 83,
+    "upvotes": 89,
     "author": "nicbou",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=33213753"
-  },
-  {
-    "title": "Hilary Mantel, Historian",
-    "url": "https://www.bostonreview.net/articles/hilary-mantel-historian/",
-    "upvotes": 10,
-    "author": "diodorus",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33220795"
   },
   {
     "title": "Cash, Canadians and CPUs: Intel's 'Lost' Early Microprocessor",
     "url": "https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost",
-    "upvotes": 48,
+    "upvotes": 50,
     "author": "klelatti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33224379"
@@ -58,181 +86,153 @@
   {
     "title": "Allow disabling of motion or animation",
     "url": "https://accessibilityfordevelopers.com/allow-disable-of-motion-animation/",
-    "upvotes": 165,
+    "upvotes": 166,
     "author": "weba11y",
-    "comments": 91,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=33222434"
   },
   {
-    "title": "AI better at creating fragrances than professional perfumers",
-    "url": "https://www.visium.ch/blog/reinventing-fragrance-and-flavor-design-with-machine-learning",
-    "upvotes": 10,
-    "author": "MichIQ",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=33226302"
-  },
-  {
-    "title": "Ask HN: How to learn to sell?",
-    "url": "item?id=33224240",
-    "upvotes": 147,
-    "author": "rasulkireev",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=33224240"
+    "title": "Hilary Mantel, Historian",
+    "url": "https://www.bostonreview.net/articles/hilary-mantel-historian/",
+    "upvotes": 11,
+    "author": "diodorus",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33220795"
   },
   {
     "title": "Show HN: The Unix Pipe Card Game – teach kids basic Unix commands",
     "url": "https://punkx.org/unix-pipe-game/",
-    "upvotes": 150,
+    "upvotes": 155,
     "author": "throwaway47292",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=33222687"
+  },
+  {
+    "title": "Ask HN: How to learn to sell?",
+    "url": "item?id=33224240",
+    "upvotes": 157,
+    "author": "rasulkireev",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=33224240"
   },
   {
     "title": "Simon Peyton Jones interview",
     "url": "https://haskell.foundation/podcast/11/",
-    "upvotes": 114,
+    "upvotes": 116,
     "author": "gbrown_",
-    "comments": 13,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=33222995"
-  },
-  {
-    "title": "OneSignal",
-    "url": "https://onesignal.com/careers#section-job"
-  },
-  {
-    "title": "GitHub Copilot, with “public code” blocked, emits my copyrighted code",
-    "url": "https://twitter.com/docsparse/status/1581461734665367554",
-    "upvotes": 38,
-    "author": "davidgerard",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=33226515"
   },
   {
     "title": "Warpd: A modal keyboard-driven virtual pointer",
     "url": "https://github.com/rvaiya/warpd",
-    "upvotes": 208,
+    "upvotes": 209,
     "author": "philonoist",
-    "comments": 82,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=33221901"
+  },
+  {
+    "title": "IR-Controlling New Air Conditioner in Server Room",
+    "url": "http://oldvcr.blogspot.com/2022/10/ir-controlling-new-air-conditioner-in.html",
+    "upvotes": 15,
+    "author": "Stamp01",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=33224088"
+  },
+  {
+    "title": "Scientists discover mechanism of hearing",
+    "url": "https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing",
+    "upvotes": 73,
+    "author": "thunderbong",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=33223460"
   },
   {
     "title": "Protein interface – how to change aproach to building software?",
     "url": "https://trojanczyk.eu/are-software-engineers-protein-interface/",
-    "upvotes": 33,
+    "upvotes": 34,
     "author": "catinblack",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=33224699"
   },
   {
-    "title": "Scientists discover mechanism of hearing",
-    "url": "https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing",
-    "upvotes": 68,
-    "author": "thunderbong",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=33223460"
-  },
-  {
-    "title": "IR-Controlling New Air Conditioner in Server Room",
-    "url": "http://oldvcr.blogspot.com/2022/10/ir-controlling-new-air-conditioner-in.html",
-    "upvotes": 11,
-    "author": "Stamp01",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=33224088"
-  },
-  {
     "title": "Microwave radar brought direct phone calls to millions",
     "url": "https://spectrum.ieee.org/trans-canada-microwave-system-milestone",
-    "upvotes": 60,
+    "upvotes": 61,
     "author": "Stratoscope",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=33222869"
   },
   {
-    "title": "Wikiversity",
-    "url": "https://en.wikiversity.org/wiki/Wikiversity:Main_Page",
-    "upvotes": 6,
-    "author": "RafelMri",
+    "title": "Annie Ernaux’s Justly Deserved Nobel",
+    "url": "https://www.newyorker.com/culture/cultural-comment/annie-ernauxs-justly-deserved-nobel",
+    "upvotes": 3,
+    "author": "apollinaire",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33226352"
+    "link": "https://news.ycombinator.com/item?id=33219889"
   },
   {
     "title": "Microsoft’s out-of-date driver list left Windows PCs open to malware attacks",
     "url": "https://www.theverge.com/2022/10/16/23405739/microsoft-out-of-date-driver-list-windows-pcs-malware-attacks-years-byovd",
-    "upvotes": 33,
+    "upvotes": 40,
     "author": "bubblehack3r",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=33226123"
+  },
+  {
+    "title": "ACT Test Scores Drop to Lowest Levels in More Than 30 Years",
+    "url": "https://www.wsj.com/articles/act-test-scores-drop-to-lowest-levels-in-more-than-30-years-11665593614",
+    "upvotes": 42,
+    "author": "bookofjoe",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=33225917"
   },
   {
     "title": "Trying new programming languages helped me grow as a software engineer",
     "url": "https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer",
-    "upvotes": 269,
+    "upvotes": 270,
     "author": "baransu",
-    "comments": 157,
+    "comments": 159,
     "link": "https://news.ycombinator.com/item?id=33222357"
   },
   {
     "title": "OneRNG – Open Hardware Random Number Generator",
     "url": "https://onerng.info",
-    "upvotes": 39,
+    "upvotes": 44,
     "author": "Zababa",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=33223232"
-  },
-  {
-    "title": "ACT Test Scores Drop to Lowest Levels in More Than 30 Years",
-    "url": "https://www.wsj.com/articles/act-test-scores-drop-to-lowest-levels-in-more-than-30-years-11665593614",
-    "upvotes": 31,
-    "author": "bookofjoe",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=33225917"
-  },
-  {
-    "title": "A Danish Political Party Led by an AI",
-    "url": "https://www.vice.com/en/article/jgpb3p/this-danish-political-party-is-led-by-an-ai",
-    "upvotes": 33,
-    "author": "bubblehack3r",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=33225916"
   },
   {
     "title": "A darker shade of blue: The unknown Air Force manned space program",
     "url": "https://www.thespacereview.com/article/4448/1",
-    "upvotes": 51,
+    "upvotes": 54,
     "author": "belter",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=33214190"
   },
   {
-    "title": "The Moorish invention that tamed Spain's mountains",
-    "url": "https://www.bbc.com/future/article/20221011-the-moorish-invention-that-tamed-spains-mountains",
-    "upvotes": 112,
-    "author": "mjul",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=33221638"
+    "title": "A Danish Political Party Led by an AI",
+    "url": "https://www.vice.com/en/article/jgpb3p/this-danish-political-party-is-led-by-an-ai",
+    "upvotes": 37,
+    "author": "bubblehack3r",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=33225916"
   },
   {
-    "title": "Announcing KataOS and Sparrow",
-    "url": "https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html",
-    "upvotes": 201,
-    "author": "nix23",
-    "comments": 143,
-    "link": "https://news.ycombinator.com/item?id=33222400"
+    "title": "The Moorish invention that tamed Spain's mountains",
+    "url": "https://www.bbc.com/future/article/20221011-the-moorish-invention-that-tamed-spains-mountains",
+    "upvotes": 116,
+    "author": "mjul",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=33221638"
   },
   {
     "title": "Show HN: Speki – Flashcards in Terminal",
     "url": "https://github.com/TBS1996/speki",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "tbs1996",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=33222779"
-  },
-  {
-    "title": "Cloak: Censorship Circumvention Tool",
-    "url": "https://github.com/cbeuw/Cloak",
-    "upvotes": 131,
-    "author": "xanthine",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=33221299"
   }
 ]
