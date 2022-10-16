@@ -1,75 +1,83 @@
 [
   {
+    "title": "Trying new programming languages helped me grow as a software engineer",
+    "url": "https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer",
+    "upvotes": 120,
+    "author": "baransu",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=33222357"
+  },
+  {
     "title": "Deno vs. Bun performance is rigged",
     "url": "https://unetworkingab.medium.com/deno-v-bun-performance-is-rigged-a0500e13464c",
-    "upvotes": 69,
+    "upvotes": 92,
     "author": "alexhultman",
-    "comments": 46,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=33223120"
   },
   {
-    "title": "Trying new programming languages helped me grow as a software engineer",
-    "url": "https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer",
-    "upvotes": 100,
-    "author": "baransu",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=33222357"
+    "title": "Chaos theory eliminates quantum uncertainty",
+    "url": "https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263",
+    "upvotes": 14,
+    "author": "bookofjoe",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33223391"
   },
   {
     "title": "Show HN: The Unix Pipe Card Game – teach kids basic Unix commands",
     "url": "https://punkx.org/unix-pipe-game/",
-    "upvotes": 60,
+    "upvotes": 68,
     "author": "throwaway47292",
-    "comments": 12,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=33222687"
   },
   {
     "title": "Allow disabling of motion or animation",
     "url": "https://accessibilityfordevelopers.com/allow-disable-of-motion-animation/",
-    "upvotes": 67,
+    "upvotes": 73,
     "author": "weba11y",
-    "comments": 42,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=33222434"
   },
   {
     "title": "Warpd: A modal keyboard-driven virtual pointer",
     "url": "https://github.com/rvaiya/warpd",
-    "upvotes": 132,
+    "upvotes": 141,
     "author": "philonoist",
-    "comments": 52,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=33221901"
   },
   {
     "title": "Poll: Is there a negative stigma toward articles written in Medium?",
     "url": "item?id=33223222",
-    "upvotes": 79,
+    "upvotes": 102,
     "author": "LinuxBender",
-    "comments": 75,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=33223222"
   },
   {
     "title": "Microwave Radar Brought Direct Phone Calls to Millions",
     "url": "https://spectrum.ieee.org/trans-canada-microwave-system-milestone",
-    "upvotes": 17,
+    "upvotes": 24,
     "author": "Stratoscope",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33222869"
-  },
-  {
-    "title": "Apple bought out all of Newsweek's 1984 Election issue ad space for Mac",
-    "url": "https://aresluna.org/attached/computerhistory/ads/international/apple/mac-newsweek",
-    "upvotes": 244,
-    "author": "gdubs",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=33220801"
   },
   {
     "title": "Google Announces KataOS and Sparrow",
     "url": "https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html",
-    "upvotes": 45,
+    "upvotes": 59,
     "author": "nix23",
-    "comments": 33,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=33222400"
+  },
+  {
+    "title": "Apple bought out all of Newsweek's 1984 Election issue ad space for Mac",
+    "url": "https://aresluna.org/attached/computerhistory/ads/international/apple/mac-newsweek",
+    "upvotes": 251,
+    "author": "gdubs",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=33220801"
   },
   {
     "title": "Tesorio",
@@ -78,111 +86,103 @@
   {
     "title": "Show HN: Speki – Flashcards in Terminal",
     "url": "https://github.com/TBS1996/speki",
-    "upvotes": 22,
+    "upvotes": 26,
     "author": "tbs1996",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=33222779"
   },
   {
     "title": "The Moorish invention that tamed Spain's mountains",
     "url": "https://www.bbc.com/future/article/20221011-the-moorish-invention-that-tamed-spains-mountains",
-    "upvotes": 57,
+    "upvotes": 65,
     "author": "mjul",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=33221638"
-  },
-  {
-    "title": "Efficient IO in Linux with io_uring [pdf]",
-    "url": "https://kernel.dk/io_uring.pdf",
-    "upvotes": 104,
-    "author": "gurjeet",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=33221063"
   },
   {
     "title": "The Controversy over English King Richard III's Remains",
     "url": "https://www.bbc.com/culture/article/20221006-the-controversy-over-an-incredible-archaeological-discovery",
-    "upvotes": 7,
+    "upvotes": 10,
     "author": "diodorus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33211779"
   },
   {
-    "title": "OneRNG – Open Hardware Random Number Generator",
-    "url": "https://onerng.info",
-    "upvotes": 4,
-    "author": "Zababa",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33223232"
+    "title": "Efficient IO in Linux with io_uring [pdf]",
+    "url": "https://kernel.dk/io_uring.pdf",
+    "upvotes": 108,
+    "author": "gurjeet",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=33221063"
   },
   {
     "title": "Application-as-a-Function Thinking",
     "url": "https://doridori.github.io/Architecture-Application-as-a-Function/",
-    "upvotes": 46,
+    "upvotes": 53,
     "author": "kodroid",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=33221780"
-  },
-  {
-    "title": "Chaos theory eliminates quantum uncertainty",
-    "url": "https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263",
-    "upvotes": 5,
-    "author": "bookofjoe",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33223391"
-  },
-  {
-    "title": "A Darker Shade of Blue: The Unknown Air Force Manned Space Program",
-    "url": "https://www.thespacereview.com/article/4448/1",
-    "upvotes": 20,
-    "author": "belter",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33214190"
   },
   {
     "title": "Simon Peyton Jones interview",
     "url": "https://haskell.foundation/podcast/11/",
-    "upvotes": 8,
+    "upvotes": 14,
     "author": "gbrown_",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33222995"
   },
   {
-    "title": "Cloak: Censorship Circumvention Tool",
-    "url": "https://github.com/cbeuw/Cloak",
-    "upvotes": 78,
-    "author": "xanthine",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=33221299"
+    "title": "OneRNG – Open Hardware Random Number Generator",
+    "url": "https://onerng.info",
+    "upvotes": 6,
+    "author": "Zababa",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33223232"
   },
   {
     "title": "Ask HN: Is there a negative stigma toward articles written in Medium?",
     "url": "item?id=33223124",
-    "upvotes": 15,
+    "upvotes": 20,
     "author": "theanonymousone",
-    "comments": 19,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=33223124"
+  },
+  {
+    "title": "A Darker Shade of Blue: The Unknown Air Force Manned Space Program",
+    "url": "https://www.thespacereview.com/article/4448/1",
+    "upvotes": 24,
+    "author": "belter",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33214190"
+  },
+  {
+    "title": "Cloak: Censorship Circumvention Tool",
+    "url": "https://github.com/cbeuw/Cloak",
+    "upvotes": 83,
+    "author": "xanthine",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=33221299"
   },
   {
     "title": "The Vacuum Tube's Power Law [pdf]",
     "url": "https://vaclavsmil.com/wp-content/uploads/2019/03/February2019.pdf",
-    "upvotes": 22,
+    "upvotes": 26,
     "author": "SongofEarth",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=33213157"
   },
   {
-    "title": "My initial attempt at trying to order pizza from within Vim",
-    "url": "https://github.com/arithran/vim-pizza",
-    "upvotes": 22,
-    "author": "philonoist",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=33222147"
+    "title": "OHSU scientists discover mechanism of hearing",
+    "url": "https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing",
+    "upvotes": 3,
+    "author": "thunderbong",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33223460"
   },
   {
     "title": "OpenAPI Generator allows generation of API client libraries from OpenAPI Specs",
     "url": "https://github.com/OpenAPITools/openapi-generator",
-    "upvotes": 87,
+    "upvotes": 94,
     "author": "mooreds",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=33220552"
@@ -190,31 +190,39 @@
   {
     "title": "Linux Kernel MultiPath TCP Project",
     "url": "https://www.multipath-tcp.org/",
-    "upvotes": 69,
+    "upvotes": 72,
     "author": "kristianpaul",
-    "comments": 39,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=33220975"
   },
   {
-    "title": "A rash of nearly lethal mushroom poisonings in Ohio",
-    "url": "https://www.cleveland.com/news/2022/10/beware-of-deadly-wild-mushrooms-portage-county-man-survives-poisoning-thanks-to-experimental-drug-at-uh.html",
-    "upvotes": 129,
-    "author": "CHB0403085482",
-    "comments": 237,
-    "link": "https://news.ycombinator.com/item?id=33211723"
+    "title": "Beyond the Raw/Pasteurised Divide",
+    "url": "https://milktrekker.substack.com/p/beyond-the-rawpasteurized-divide",
+    "upvotes": 5,
+    "author": "merrier",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33208138"
+  },
+  {
+    "title": "My initial attempt at trying to order pizza from within Vim",
+    "url": "https://github.com/arithran/vim-pizza",
+    "upvotes": 23,
+    "author": "philonoist",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33222147"
   },
   {
     "title": "US Export Restrictions, Intel Layoffs, Applied Materials, and TSMC",
     "url": "https://www.fabricatedknowledge.com/p/us-export-restrictions-intel-layoffs",
-    "upvotes": 84,
+    "upvotes": 89,
     "author": "BOOSTERHIDROGEN",
-    "comments": 40,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=33220126"
   },
   {
     "title": "Show HN: An Express-inspired web framework for Rust",
     "url": "https://crates.io/crates/graphul",
-    "upvotes": 65,
+    "upvotes": 67,
     "author": "samuelbonill",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=33220606"
@@ -222,17 +230,9 @@
   {
     "title": "Moving from React to htmx",
     "url": "https://htmx.org/essays/a-real-world-react-to-htmx-port/",
-    "upvotes": 465,
+    "upvotes": 472,
     "author": "mpweiher",
-    "comments": 212,
+    "comments": 218,
     "link": "https://news.ycombinator.com/item?id=33218439"
-  },
-  {
-    "title": "Reconciling with Mr Autumn Man",
-    "url": "https://www.avclub.com/mr-autumn-man-onion-1848664821",
-    "upvotes": 7,
-    "author": "daddy_drank",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33208211"
   }
 ]
