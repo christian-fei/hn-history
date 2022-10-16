@@ -2,15 +2,15 @@
   {
     "title": "Compiler Explorer",
     "url": "https://godbolt.org/",
-    "upvotes": 307,
+    "upvotes": 326,
     "author": "disadvantage",
-    "comments": 69,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=33224542"
   },
   {
     "title": "1956 Philips 353A Bakelite Vacuum Tube Radio Repair and Restoration",
     "url": "https://retrorepairsandrefurbs.com/2022/09/06/1956-philips-353a-bakelite-vacuum-tube-radio-repair-restoration/",
-    "upvotes": 49,
+    "upvotes": 55,
     "author": "Tomte",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=33226852"
@@ -18,91 +18,115 @@
   {
     "title": "XCheck at Meta: Why it exists and how it works",
     "url": "https://blog.nindalf.com/posts/xcheck/",
-    "upvotes": 196,
+    "upvotes": 206,
     "author": "nindalf",
-    "comments": 93,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=33224347"
   },
   {
     "title": "Feather – open source icons",
     "url": "https://feathericons.com/",
-    "upvotes": 236,
+    "upvotes": 254,
     "author": "vmoore",
-    "comments": 56,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=33223964"
-  },
-  {
-    "title": "GitHub Copilot, with “public code” blocked, emits my copyrighted code",
-    "url": "https://twitter.com/docsparse/status/1581461734665367554",
-    "upvotes": 263,
-    "author": "davidgerard",
-    "comments": 187,
-    "link": "https://news.ycombinator.com/item?id=33226515"
-  },
-  {
-    "title": "Wikiversity",
-    "url": "https://en.wikiversity.org/wiki/Wikiversity:Main_Page",
-    "upvotes": 47,
-    "author": "RafelMri",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=33226352"
   },
   {
     "title": "The ESP32 Bootrom",
     "url": "http://cholla.mmto.org/esp32/bootrom/",
-    "upvotes": 15,
+    "upvotes": 24,
     "author": "dcminter",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33217840"
   },
   {
+    "title": "GitHub Copilot, with “public code” blocked, emits my copyrighted code",
+    "url": "https://twitter.com/docsparse/status/1581461734665367554",
+    "upvotes": 294,
+    "author": "davidgerard",
+    "comments": 236,
+    "link": "https://news.ycombinator.com/item?id=33226515"
+  },
+  {
+    "title": "Streaming data in Postgres to 1M clients with GraphQL",
+    "url": "https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md",
+    "upvotes": 9,
+    "author": "tango12",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33227840"
+  },
+  {
+    "title": "Web 3.0 – The Great Con",
+    "url": "https://davegebler.com/post/musings/web-3-0-the-great-con",
+    "upvotes": 5,
+    "author": "dwgebler",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33228085"
+  },
+  {
     "title": "Fast file synchronization and network forwarding for remote development",
     "url": "https://github.com/mutagen-io/mutagen",
-    "upvotes": 73,
+    "upvotes": 78,
     "author": "saikatsg",
-    "comments": 32,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=33225703"
   },
   {
-    "title": "A Danish political party led by an AI",
-    "url": "https://www.vice.com/en/article/jgpb3p/this-danish-political-party-is-led-by-an-ai",
-    "upvotes": 42,
-    "author": "bubblehack3r",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=33225916"
+    "title": "Wikiversity",
+    "url": "https://en.wikiversity.org/wiki/Wikiversity:Main_Page",
+    "upvotes": 52,
+    "author": "RafelMri",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=33226352"
   },
   {
     "title": "Charge Robotics",
     "url": "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer"
   },
   {
+    "title": "Show HN: Carefulwords.com, a More Inspiring Thesaurus",
+    "url": "https://carefulwords.com/solitude",
+    "upvotes": 35,
+    "author": "simonsarris",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=33226817"
+  },
+  {
     "title": "Digital Gardening",
     "url": "https://nicolasbouliane.com/blog/digital-gardening",
-    "upvotes": 107,
+    "upvotes": 118,
     "author": "nicbou",
-    "comments": 49,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=33213753"
   },
   {
-    "title": "Show HN: Carefulwords.com, a More Inspiring Thesaurus",
-    "url": "https://carefulwords.com/solitude",
-    "upvotes": 21,
-    "author": "simonsarris",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=33226817"
+    "title": "A Danish political party led by an AI",
+    "url": "https://www.vice.com/en/article/jgpb3p/this-danish-political-party-is-led-by-an-ai",
+    "upvotes": 46,
+    "author": "bubblehack3r",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=33225916"
+  },
+  {
+    "title": "On the supposed “nihilism” of the Mango Markets arbitrageur",
+    "url": "https://milkyeggs.com/?p=61",
+    "upvotes": 10,
+    "author": "firloop",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33225998"
   },
   {
     "title": "Cash, Canadians and CPUs: Intel's 'Lost' Early Microprocessor",
     "url": "https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost",
-    "upvotes": 64,
+    "upvotes": 68,
     "author": "klelatti",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=33224379"
   },
   {
     "title": "Allow disabling of motion or animation",
     "url": "https://accessibilityfordevelopers.com/allow-disable-of-motion-animation/",
-    "upvotes": 181,
+    "upvotes": 183,
     "author": "weba11y",
     "comments": 105,
     "link": "https://news.ycombinator.com/item?id=33222434"
@@ -110,7 +134,7 @@
   {
     "title": "A simple web hook that forwards prometheus alerts over XMPP",
     "url": "https://github.com/jelmer/prometheus-xmpp-alerts",
-    "upvotes": 5,
+    "upvotes": 9,
     "author": "zaik",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33227527"
@@ -118,121 +142,97 @@
   {
     "title": "Show HN: The Unix Pipe Card Game – teach kids basic Unix commands",
     "url": "https://punkx.org/unix-pipe-game/",
-    "upvotes": 177,
+    "upvotes": 179,
     "author": "throwaway47292",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=33222687"
   },
   {
+    "title": "Chaos theory eliminates quantum uncertainty",
+    "url": "https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263",
+    "upvotes": 60,
+    "author": "bookofjoe",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=33223391"
+  },
+  {
     "title": "Ask HN: How to learn to sell?",
     "url": "item?id=33224240",
-    "upvotes": 200,
+    "upvotes": 207,
     "author": "rasulkireev",
-    "comments": 83,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=33224240"
   },
   {
     "title": "IR-Controlling New Air Conditioner in Server Room",
     "url": "http://oldvcr.blogspot.com/2022/10/ir-controlling-new-air-conditioner-in.html",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "Stamp01",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=33224088"
   },
   {
+    "title": "Scientists discover mechanism of hearing",
+    "url": "https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing",
+    "upvotes": 93,
+    "author": "thunderbong",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=33223460"
+  },
+  {
     "title": "Hilary Mantel, Historian",
     "url": "https://www.bostonreview.net/articles/hilary-mantel-historian/",
-    "upvotes": 17,
+    "upvotes": 19,
     "author": "diodorus",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=33220795"
-  },
-  {
-    "title": "Chaos theory eliminates quantum uncertainty",
-    "url": "https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263",
-    "upvotes": 55,
-    "author": "bookofjoe",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=33223391"
   },
   {
     "title": "Simon Peyton Jones interview",
     "url": "https://haskell.foundation/podcast/11/",
     "upvotes": 132,
     "author": "gbrown_",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=33222995"
   },
   {
-    "title": "Scientists discover mechanism of hearing",
-    "url": "https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing",
-    "upvotes": 87,
-    "author": "thunderbong",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=33223460"
+    "title": "Annie Ernaux’s Justly Deserved Nobel",
+    "url": "https://www.newyorker.com/culture/cultural-comment/annie-ernauxs-justly-deserved-nobel",
+    "upvotes": 11,
+    "author": "apollinaire",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33219889"
   },
   {
     "title": "DarkForestSim: A Netlogo Simulation of the Dark Forest Hypothesis",
     "url": "https://www.evangelosscifi.com/home/darkforestsim",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "throw0101c",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33226785"
   },
   {
-    "title": "Annie Ernaux’s Justly Deserved Nobel",
-    "url": "https://www.newyorker.com/culture/cultural-comment/annie-ernauxs-justly-deserved-nobel",
-    "upvotes": 10,
-    "author": "apollinaire",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33219889"
-  },
-  {
-    "title": "Protein interface – how to change aproach to building software?",
-    "url": "https://trojanczyk.eu/are-software-engineers-protein-interface/",
-    "upvotes": 41,
-    "author": "catinblack",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=33224699"
-  },
-  {
     "title": "Microwave radar brought direct phone calls to millions",
     "url": "https://spectrum.ieee.org/trans-canada-microwave-system-milestone",
-    "upvotes": 67,
+    "upvotes": 68,
     "author": "Stratoscope",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=33222869"
   },
   {
-    "title": "ACT Test Scores Drop to Lowest Levels in More Than 30 Years",
-    "url": "https://www.wsj.com/articles/act-test-scores-drop-to-lowest-levels-in-more-than-30-years-11665593614",
-    "upvotes": 70,
-    "author": "bookofjoe",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=33225917"
+    "title": "Protein interface – how to change aproach to building software?",
+    "url": "https://trojanczyk.eu/are-software-engineers-protein-interface/",
+    "upvotes": 42,
+    "author": "catinblack",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=33224699"
   },
   {
-    "title": "Trying new programming languages helped me grow as a software engineer",
-    "url": "https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer",
-    "upvotes": 284,
-    "author": "baransu",
-    "comments": 167,
-    "link": "https://news.ycombinator.com/item?id=33222357"
-  },
-  {
-    "title": "A darker shade of blue: The unknown Air Force manned space program",
-    "url": "https://www.thespacereview.com/article/4448/1",
-    "upvotes": 65,
-    "author": "belter",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=33214190"
-  },
-  {
-    "title": "OneRNG – Open Hardware Random Number Generator",
-    "url": "https://onerng.info",
-    "upvotes": 57,
-    "author": "Zababa",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=33223232"
+    "title": "The US National Archives’ preservation plans for 600 file formats",
+    "url": "https://www.archives.gov/preservation/digital-preservation/risk",
+    "upvotes": 4,
+    "author": "ohjeez",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33227287"
   }
 ]
