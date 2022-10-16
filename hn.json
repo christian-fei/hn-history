@@ -2,111 +2,103 @@
   {
     "title": "Google search crashes when searching “how many emojis on iOS”",
     "url": "https://www.google.co.nz/search?q=how+many+emojis+on+ios",
-    "upvotes": 115,
+    "upvotes": 182,
     "author": "wfme",
-    "comments": 32,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=33221370"
   },
   {
     "title": "Apple bought out all of Newsweek's 1984 Election issue ad space for Mac",
     "url": "https://aresluna.org/attached/computerhistory/ads/international/apple/mac-newsweek",
-    "upvotes": 106,
+    "upvotes": 116,
     "author": "gdubs",
-    "comments": 38,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=33220801"
   },
   {
     "title": "Efficient IO in Linux with io_uring [pdf]",
     "url": "https://kernel.dk/io_uring.pdf",
-    "upvotes": 37,
+    "upvotes": 39,
     "author": "gurjeet",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=33221063"
-  },
-  {
-    "title": "Show HN: America – Road Trip Simulator",
-    "url": "https://4m3ric4.com",
-    "upvotes": 483,
-    "author": "0x389",
-    "comments": 131,
-    "link": "https://news.ycombinator.com/item?id=33217395"
   },
   {
     "title": "Why high speed rail hasn’t caught on",
     "url": "https://caseyhandmer.wordpress.com/2022/10/11/why-high-speed-rail-hasnt-caught-on/",
-    "upvotes": 21,
+    "upvotes": 36,
     "author": "gammarator",
-    "comments": 2,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=33205176"
+  },
+  {
+    "title": "Show HN: America – Road Trip Simulator",
+    "url": "https://4m3ric4.com",
+    "upvotes": 489,
+    "author": "0x389",
+    "comments": 132,
+    "link": "https://news.ycombinator.com/item?id=33217395"
   },
   {
     "title": "Moving from React to Htmx",
     "url": "https://htmx.org/essays/a-real-world-react-to-htmx-port/",
-    "upvotes": 299,
+    "upvotes": 313,
     "author": "mpweiher",
-    "comments": 149,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=33218439"
   },
   {
     "title": "Bocker: Docker implemented in around 100 lines of Bash",
     "url": "https://github.com/p8952/bocker",
-    "upvotes": 229,
+    "upvotes": 234,
     "author": "begoon",
-    "comments": 82,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=33218094"
   },
   {
     "title": "Logseq: Privacy-First, Joyful Platform for Knowledge Management",
     "url": "https://logseq.com/?",
-    "upvotes": 177,
+    "upvotes": 182,
     "author": "cube2222",
-    "comments": 61,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=33218561"
-  },
-  {
-    "title": "Linux Kernel MultiPath TCP Project",
-    "url": "https://www.multipath-tcp.org/",
-    "upvotes": 16,
-    "author": "kristianpaul",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=33220975"
   },
   {
     "title": "Former WSJ reporter says law firm used Indian hackers to sabotage his career",
     "url": "https://www.reuters.com/legal/former-wsj-reporter-says-law-firm-used-indian-hackers-sabotage-his-career-2022-10-15/",
-    "upvotes": 223,
+    "upvotes": 226,
     "author": "re_re",
-    "comments": 87,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=33217265"
+  },
+  {
+    "title": "Linux Kernel MultiPath TCP Project",
+    "url": "https://www.multipath-tcp.org/",
+    "upvotes": 18,
+    "author": "kristianpaul",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=33220975"
   },
   {
     "title": "OpenAPI Generator allows generation of API client libraries from OpenAPI Specs",
     "url": "https://github.com/OpenAPITools/openapi-generator",
-    "upvotes": 36,
+    "upvotes": 37,
     "author": "mooreds",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=33220552"
-  },
-  {
-    "title": "We're moving on from Firebase",
-    "url": "https://koptional.com/article/why-we%E2%80%99re-moving-away-from-firebase",
-    "upvotes": 300,
-    "author": "jackconsidine",
-    "comments": 192,
-    "link": "https://news.ycombinator.com/item?id=33215770"
   },
   {
     "title": "A rash of nearly lethal mushroom poisonings in Ohio",
     "url": "https://www.cleveland.com/news/2022/10/beware-of-deadly-wild-mushrooms-portage-county-man-survives-poisoning-thanks-to-experimental-drug-at-uh.html",
-    "upvotes": 79,
+    "upvotes": 87,
     "author": "CHB0403085482",
-    "comments": 137,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=33211723"
   },
   {
     "title": "Show HN: An Express-inspired web framework for Rust",
     "url": "https://crates.io/crates/graphul",
-    "upvotes": 22,
+    "upvotes": 24,
     "author": "samuelbonill",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=33220606"
@@ -114,7 +106,7 @@
   {
     "title": "Building a database buffer pool in Zig using io_uring's new fixed-buffer mode",
     "url": "https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig",
-    "upvotes": 115,
+    "upvotes": 118,
     "author": "gavinray",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=33218185"
@@ -122,31 +114,47 @@
   {
     "title": "Possibly a new way of drawing boxes in the terminal",
     "url": "https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/",
-    "upvotes": 198,
+    "upvotes": 208,
     "author": "willm",
-    "comments": 86,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=33216626"
   },
   {
     "title": "VS Code Org Mode",
     "url": "https://github.com/vscode-org-mode/vscode-org-mode",
-    "upvotes": 149,
+    "upvotes": 151,
     "author": "spac",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=33217256"
   },
   {
+    "title": "Open-source node-graph based video compositing software",
+    "url": "https://github.com/NatronGitHub/Natron",
+    "upvotes": 14,
+    "author": "stoicjumbotron",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33212920"
+  },
+  {
     "title": "Cork is making a comeback",
     "url": "https://www.bbc.com/future/article/20221013-why-the-humble-wine-cork-is-being-reinvented",
-    "upvotes": 84,
+    "upvotes": 87,
     "author": "Petiver",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=33206081"
+  },
+  {
+    "title": "US Export Restrictions, Intel Layoffs, Applied Materials, and TSMC",
+    "url": "https://www.fabricatedknowledge.com/p/us-export-restrictions-intel-layoffs",
+    "upvotes": 29,
+    "author": "BOOSTERHIDROGEN",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=33220126"
   },
   {
     "title": "Goldfish Social – Free open source alternative for Vine / TikTok",
     "url": "https://github.com/Goldfish-Social/Goldfish",
-    "upvotes": 54,
+    "upvotes": 55,
     "author": "name84757376",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=33219429"
@@ -154,31 +162,23 @@
   {
     "title": "In Jordan, an ancient bread tradition rises again",
     "url": "https://www.atlasobscura.com/articles/what-happened-to-jordans-bread",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "Thevet",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=33205980"
-  },
-  {
-    "title": "US Export Restrictions, Intel Layoffs, Applied Materials, and TSMC",
-    "url": "https://www.fabricatedknowledge.com/p/us-export-restrictions-intel-layoffs",
-    "upvotes": 26,
-    "author": "BOOSTERHIDROGEN",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33220126"
   },
   {
     "title": "A gentler, better way to change minds",
     "url": "https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/",
-    "upvotes": 177,
+    "upvotes": 180,
     "author": "yamrzou",
-    "comments": 142,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=33189577"
   },
   {
     "title": "Skylake: Intel’s Longest Serving Architecture",
     "url": "https://chipsandcheese.com/2022/10/14/skylake-intels-longest-serving-architecture/",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "ingve",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33212404"
@@ -186,7 +186,7 @@
   {
     "title": "The Transformations of Science",
     "url": "https://www.palladiummag.com/2022/10/10/the-transformations-of-science/",
-    "upvotes": 9,
+    "upvotes": 11,
     "author": "merename",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33208150"
@@ -204,25 +204,25 @@
     "link": "https://news.ycombinator.com/item?id=33218823"
   },
   {
+    "title": "Show HN: ESInfer – Make JavaScript Type-Safe",
+    "url": "https://esinfer.com/",
+    "upvotes": 62,
+    "author": "jiangmy",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=33214075"
+  },
+  {
     "title": "UML: The Positive Spin",
     "url": "https://archive.eiffel.com/doc/manuals/technology/bmarticles/uml/page.html",
     "upvotes": 18,
     "author": "Tomte",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=33189197"
-  },
-  {
-    "title": "Show HN: ESInfer – Make JavaScript Type-Safe",
-    "url": "https://esinfer.com/",
-    "upvotes": 61,
-    "author": "jiangmy",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=33214075"
   },
   {
     "title": "Show HN: A social network like Myspace, built on top of Notion",
     "url": "https://mynotion.space",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "Jonovono",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=33218888"
@@ -230,7 +230,7 @@
   {
     "title": "Uncovering a 24-year-old bug in the Linux Kernel",
     "url": "https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/",
-    "upvotes": 460,
+    "upvotes": 461,
     "author": "endorphine",
     "comments": 61,
     "link": "https://news.ycombinator.com/item?id=33214439"
