@@ -1,56 +1,72 @@
 [
   {
+    "title": "Show HN: I have built a huge library of screenplays for movies and TV shows",
+    "url": "https://screenplays.io",
+    "upvotes": 47,
+    "author": "lumenwrites",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=33228533"
+  },
+  {
     "title": "Compiler Explorer",
     "url": "https://godbolt.org/",
-    "upvotes": 352,
+    "upvotes": 366,
     "author": "disadvantage",
-    "comments": 77,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=33224542"
   },
   {
     "title": "1956 Philips 353A Bakelite Vacuum Tube Radio Repair and Restoration",
     "url": "https://retrorepairsandrefurbs.com/2022/09/06/1956-philips-353a-bakelite-vacuum-tube-radio-repair-restoration/",
-    "upvotes": 73,
+    "upvotes": 82,
     "author": "Tomte",
-    "comments": 12,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=33226852"
   },
   {
     "title": "XCheck at Meta: Why it exists and how it works",
     "url": "https://blog.nindalf.com/posts/xcheck/",
-    "upvotes": 226,
+    "upvotes": 235,
     "author": "nindalf",
-    "comments": 119,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=33224347"
-  },
-  {
-    "title": "Streaming data in Postgres to 1M clients with GraphQL",
-    "url": "https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md",
-    "upvotes": 23,
-    "author": "tango12",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33227840"
   },
   {
     "title": "Feather – open source icons",
     "url": "https://feathericons.com/",
-    "upvotes": 286,
+    "upvotes": 312,
     "author": "vmoore",
-    "comments": 61,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=33223964"
+  },
+  {
+    "title": "Streaming data in Postgres to 1M clients with GraphQL",
+    "url": "https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md",
+    "upvotes": 34,
+    "author": "tango12",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33227840"
   },
   {
     "title": "The ESP32 Bootrom",
     "url": "http://cholla.mmto.org/esp32/bootrom/",
-    "upvotes": 41,
+    "upvotes": 50,
     "author": "dcminter",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33217840"
   },
   {
+    "title": "Hex Triplet Words",
+    "url": "https://hex-triplet-words.glitch.me/",
+    "upvotes": 10,
+    "author": "gregsadetsky",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33228560"
+  },
+  {
     "title": "Show HN: Carefulwords.com, a More Inspiring Thesaurus",
     "url": "https://carefulwords.com/solitude",
-    "upvotes": 64,
+    "upvotes": 75,
     "author": "simonsarris",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=33226817"
@@ -58,31 +74,23 @@
   {
     "title": "GitHub Copilot, with “public code” blocked, emits my copyrighted code",
     "url": "https://twitter.com/docsparse/status/1581461734665367554",
-    "upvotes": 368,
+    "upvotes": 399,
     "author": "davidgerard",
-    "comments": 290,
+    "comments": 324,
     "link": "https://news.ycombinator.com/item?id=33226515"
-  },
-  {
-    "title": "Hex Triplet Words",
-    "url": "https://hex-triplet-words.glitch.me/",
-    "upvotes": 4,
-    "author": "gregsadetsky",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33228560"
   },
   {
     "title": "Fast file synchronization and network forwarding for remote development",
     "url": "https://github.com/mutagen-io/mutagen",
-    "upvotes": 94,
+    "upvotes": 101,
     "author": "saikatsg",
-    "comments": 39,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=33225703"
   },
   {
     "title": "Wikiversity",
     "url": "https://en.wikiversity.org/wiki/Wikiversity:Main_Page",
-    "upvotes": 61,
+    "upvotes": 71,
     "author": "RafelMri",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=33226352"
@@ -90,18 +98,18 @@
   {
     "title": "On the supposed “nihilism” of the Mango Markets arbitrageur",
     "url": "https://milkyeggs.com/?p=61",
-    "upvotes": 17,
+    "upvotes": 22,
     "author": "firloop",
-    "comments": 10,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=33225998"
   },
   {
-    "title": "A Tech Pioneer’s Final, Unexpected Act",
-    "url": "https://www.newyorker.com/magazine/2018/01/01/a-tech-pioneers-final-unexpected-act",
-    "upvotes": 11,
-    "author": "wallflower",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33212839"
+    "title": "The US National Archives’ preservation plans for 600 file formats",
+    "url": "https://www.archives.gov/preservation/digital-preservation/risk",
+    "upvotes": 31,
+    "author": "ohjeez",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=33227287"
   },
   {
     "title": "Charge Robotics",
@@ -110,129 +118,121 @@
   {
     "title": "Digital Gardening",
     "url": "https://nicolasbouliane.com/blog/digital-gardening",
-    "upvotes": 124,
+    "upvotes": 128,
     "author": "nicbou",
-    "comments": 54,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=33213753"
   },
   {
     "title": "A Danish political party led by an AI",
     "url": "https://www.vice.com/en/article/jgpb3p/this-danish-political-party-is-led-by-an-ai",
-    "upvotes": 53,
+    "upvotes": 55,
     "author": "bubblehack3r",
-    "comments": 41,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=33225916"
   },
   {
-    "title": "The US National Archives’ preservation plans for 600 file formats",
-    "url": "https://www.archives.gov/preservation/digital-preservation/risk",
+    "title": "Ask HN: Anyone else unable to access photos and street view on Google Maps?",
+    "url": "item?id=33228336",
     "upvotes": 21,
-    "author": "ohjeez",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=33227287"
+    "author": "EvanDotPro",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=33228336"
+  },
+  {
+    "title": "A Tech Pioneer’s Final, Unexpected Act",
+    "url": "https://www.newyorker.com/magazine/2018/01/01/a-tech-pioneers-final-unexpected-act",
+    "upvotes": 15,
+    "author": "wallflower",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33212839"
+  },
+  {
+    "title": "DarkForestSim: A Netlogo Simulation of the Dark Forest Hypothesis",
+    "url": "https://www.evangelosscifi.com/home/darkforestsim",
+    "upvotes": 29,
+    "author": "throw0101c",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33226785"
   },
   {
     "title": "Cash, Canadians and CPUs: Intel's 'Lost' Early Microprocessor",
     "url": "https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost",
-    "upvotes": 74,
+    "upvotes": 77,
     "author": "klelatti",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=33224379"
-  },
-  {
-    "title": "Allow disabling of motion or animation",
-    "url": "https://accessibilityfordevelopers.com/allow-disable-of-motion-animation/",
-    "upvotes": 192,
-    "author": "weba11y",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=33222434"
   },
   {
     "title": "Show HN: The Unix Pipe Card Game – teach kids basic Unix commands",
     "url": "https://punkx.org/unix-pipe-game/",
-    "upvotes": 184,
+    "upvotes": 187,
     "author": "throwaway47292",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=33222687"
   },
   {
-    "title": "DarkForestSim: A Netlogo Simulation of the Dark Forest Hypothesis",
-    "url": "https://www.evangelosscifi.com/home/darkforestsim",
-    "upvotes": 24,
-    "author": "throw0101c",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=33226785"
-  },
-  {
-    "title": "Ask HN: Anyone else unable to access photos and street view on Google Maps?",
-    "url": "item?id=33228336",
-    "upvotes": 14,
-    "author": "EvanDotPro",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=33228336"
+    "title": "A Pardoner’s Tale",
+    "url": "https://blogs.bl.uk/digitisedmanuscripts/2022/10/a-pardoners-tale.html",
+    "upvotes": 4,
+    "author": "diodorus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33211719"
   },
   {
     "title": "Ask HN: How to learn to sell?",
     "url": "item?id=33224240",
-    "upvotes": 227,
+    "upvotes": 240,
     "author": "rasulkireev",
-    "comments": 101,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=33224240"
-  },
-  {
-    "title": "Chaos theory eliminates quantum uncertainty",
-    "url": "https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263",
-    "upvotes": 65,
-    "author": "bookofjoe",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=33223391"
   },
   {
     "title": "Scientists discover mechanism of hearing",
     "url": "https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing",
-    "upvotes": 99,
+    "upvotes": 108,
     "author": "thunderbong",
-    "comments": 29,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=33223460"
+  },
+  {
+    "title": "Ask HN: What's wrong with working on two remote jobs if you can perform?",
+    "url": "item?id=33228529",
+    "upvotes": 8,
+    "author": "dev_0",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=33228529"
+  },
+  {
+    "title": "Chaos theory eliminates quantum uncertainty",
+    "url": "https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263",
+    "upvotes": 68,
+    "author": "bookofjoe",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=33223391"
   },
   {
     "title": "Simon Peyton Jones interview",
     "url": "https://haskell.foundation/podcast/11/",
-    "upvotes": 137,
+    "upvotes": 142,
     "author": "gbrown_",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=33222995"
   },
   {
     "title": "IR-Controlling New Air Conditioner in Server Room",
     "url": "http://oldvcr.blogspot.com/2022/10/ir-controlling-new-air-conditioner-in.html",
-    "upvotes": 33,
+    "upvotes": 34,
     "author": "Stamp01",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=33224088"
   },
   {
-    "title": "Hilary Mantel, Historian",
-    "url": "https://www.bostonreview.net/articles/hilary-mantel-historian/",
-    "upvotes": 19,
-    "author": "diodorus",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33220795"
-  },
-  {
     "title": "A simple web hook that forwards prometheus alerts over XMPP",
     "url": "https://github.com/jelmer/prometheus-xmpp-alerts",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "zaik",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33227527"
-  },
-  {
-    "title": "Microwave radar brought direct phone calls to millions",
-    "url": "https://spectrum.ieee.org/trans-canada-microwave-system-milestone",
-    "upvotes": 73,
-    "author": "Stratoscope",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=33222869"
   }
 ]
