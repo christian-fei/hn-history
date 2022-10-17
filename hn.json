@@ -1,112 +1,144 @@
 [
   {
-    "title": "Show HN: I have built a huge library of screenplays for movies and TV shows",
-    "url": "https://screenplays.io",
-    "upvotes": 139,
-    "author": "lumenwrites",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=33228533"
-  },
-  {
     "title": "Htmx, WebAssembly, Rust, ServiceWorker Proof of Concept",
     "url": "https://github.com/richardanaya/wasm-service",
-    "upvotes": 30,
+    "upvotes": 55,
     "author": "richardanaya",
-    "comments": 7,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=33228891"
   },
   {
     "title": "Compiler Explorer",
     "url": "https://godbolt.org/",
-    "upvotes": 404,
+    "upvotes": 416,
     "author": "disadvantage",
-    "comments": 84,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=33224542"
+  },
+  {
+    "title": "Learn Enough C to Survive",
+    "url": "https://codeofhonor.substack.com/p/learn-enough-c-to-survive",
+    "upvotes": 26,
+    "author": "the_jesus_villa",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33229162"
   },
   {
     "title": "Hex Triplet Words",
     "url": "https://hex-triplet-words.glitch.me/",
-    "upvotes": 31,
+    "upvotes": 39,
     "author": "gregsadetsky",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=33228560"
   },
   {
     "title": "Feather – open source icons",
     "url": "https://feathericons.com/",
-    "upvotes": 347,
+    "upvotes": 371,
     "author": "vmoore",
-    "comments": 66,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=33223964"
-  },
-  {
-    "title": "XCheck at Meta: Why it exists and how it works",
-    "url": "https://blog.nindalf.com/posts/xcheck/",
-    "upvotes": 251,
-    "author": "nindalf",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=33224347"
-  },
-  {
-    "title": "Streaming data in Postgres to 1M clients with GraphQL",
-    "url": "https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md",
-    "upvotes": 70,
-    "author": "tango12",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=33227840"
   },
   {
     "title": "Show HN: Carefulwords.com, a More Inspiring Thesaurus",
     "url": "https://carefulwords.com/solitude",
-    "upvotes": 108,
+    "upvotes": 125,
     "author": "simonsarris",
-    "comments": 24,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=33226817"
+  },
+  {
+    "title": "XCheck at Meta: Why it exists and how it works",
+    "url": "https://blog.nindalf.com/posts/xcheck/",
+    "upvotes": 260,
+    "author": "nindalf",
+    "comments": 151,
+    "link": "https://news.ycombinator.com/item?id=33224347"
   },
   {
     "title": "1956 Philips 353A Bakelite Vacuum Tube Radio Repair and Restoration",
     "url": "https://retrorepairsandrefurbs.com/2022/09/06/1956-philips-353a-bakelite-vacuum-tube-radio-repair-restoration/",
-    "upvotes": 93,
+    "upvotes": 106,
     "author": "Tomte",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=33226852"
+  },
+  {
+    "title": "Streaming data in Postgres to 1M clients with GraphQL",
+    "url": "https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md",
+    "upvotes": 80,
+    "author": "tango12",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33227840"
+  },
+  {
+    "title": "Show HN: I have built a library of screenplays for movies and TV shows",
+    "url": "https://screenplays.io",
+    "upvotes": 179,
+    "author": "lumenwrites",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=33228533"
+  },
+  {
+    "title": "The Case of the Dead Mini5SX",
+    "url": "https://www.leadedsolder.com/2022/10/15/pwp50sx-nec-mini5-psu-repair-pickup.html",
+    "upvotes": 11,
+    "author": "zdw",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33224583"
+  },
+  {
+    "title": "If ghosts could speak, their speech would approximate this key",
+    "url": "https://www.listsofnote.com/p/if-ghosts-could-speak-their-speech",
+    "upvotes": 3,
+    "author": "breathenew",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33229648"
+  },
+  {
+    "title": "The Z80's protected mode discovered after 40 years [video]",
+    "url": "https://www.youtube.com/watch?v=DLSUAVPKeYk",
+    "upvotes": 6,
+    "author": "tux1968",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33229526"
   },
   {
     "title": "The ESP32 Bootrom",
     "url": "http://cholla.mmto.org/esp32/bootrom/",
-    "upvotes": 59,
+    "upvotes": 66,
     "author": "dcminter",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33217840"
   },
   {
     "title": "GitHub Copilot, with “public code” blocked, emits my copyrighted code",
     "url": "https://twitter.com/docsparse/status/1581461734665367554",
-    "upvotes": 446,
+    "upvotes": 481,
     "author": "davidgerard",
-    "comments": 385,
+    "comments": 406,
     "link": "https://news.ycombinator.com/item?id=33226515"
   },
   {
     "title": "Wikiversity",
     "url": "https://en.wikiversity.org/wiki/Wikiversity:Main_Page",
-    "upvotes": 84,
+    "upvotes": 93,
     "author": "RafelMri",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=33226352"
   },
   {
     "title": "Fast file synchronization and network forwarding for remote development",
     "url": "https://github.com/mutagen-io/mutagen",
-    "upvotes": 112,
+    "upvotes": 118,
     "author": "saikatsg",
-    "comments": 48,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=33225703"
   },
   {
     "title": "The US National Archives’ preservation plans for 600 file formats",
     "url": "https://www.archives.gov/preservation/digital-preservation/risk",
-    "upvotes": 44,
+    "upvotes": 50,
     "author": "ohjeez",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=33227287"
@@ -114,15 +146,19 @@
   {
     "title": "Digital Gardening",
     "url": "https://nicolasbouliane.com/blog/digital-gardening",
-    "upvotes": 140,
+    "upvotes": 143,
     "author": "nicbou",
-    "comments": 60,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=33213753"
+  },
+  {
+    "title": "Charge Robotics",
+    "url": "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer"
   },
   {
     "title": "Tom Stoppard Resurrects the Past in “Leopoldstadt”",
     "url": "https://www.newyorker.com/magazine/2022/10/17/tom-stoppard-resurrects-the-past-in-leopoldstadt",
-    "upvotes": 8,
+    "upvotes": 13,
     "author": "drdee",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33221140"
@@ -130,109 +166,73 @@
   {
     "title": "On the supposed “nihilism” of the Mango Markets arbitrageur",
     "url": "https://milkyeggs.com/?p=61",
-    "upvotes": 30,
+    "upvotes": 33,
     "author": "firloop",
-    "comments": 28,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=33225998"
-  },
-  {
-    "title": "Charge Robotics",
-    "url": "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer"
   },
   {
     "title": "DarkForestSim: A Netlogo Simulation of the Dark Forest Hypothesis",
     "url": "https://www.evangelosscifi.com/home/darkforestsim",
-    "upvotes": 39,
+    "upvotes": 46,
     "author": "throw0101c",
-    "comments": 21,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=33226785"
-  },
-  {
-    "title": "A Pardoner’s Tale",
-    "url": "https://blogs.bl.uk/digitisedmanuscripts/2022/10/a-pardoners-tale.html",
-    "upvotes": 8,
-    "author": "diodorus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33211719"
   },
   {
     "title": "Cash, Canadians and CPUs: Intel's 'Lost' Early Microprocessor",
     "url": "https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost",
-    "upvotes": 81,
+    "upvotes": 85,
     "author": "klelatti",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=33224379"
   },
   {
-    "title": "A Tech Pioneer’s Final, Unexpected Act",
-    "url": "https://www.newyorker.com/magazine/2018/01/01/a-tech-pioneers-final-unexpected-act",
-    "upvotes": 19,
-    "author": "wallflower",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33212839"
-  },
-  {
-    "title": "Ask HN: How to learn to sell?",
-    "url": "item?id=33224240",
-    "upvotes": 264,
-    "author": "rasulkireev",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=33224240"
+    "title": "A Danish political party led by an AI",
+    "url": "https://www.vice.com/en/article/jgpb3p/this-danish-political-party-is-led-by-an-ai",
+    "upvotes": 67,
+    "author": "bubblehack3r",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=33225916"
   },
   {
     "title": "Scanning phones to detect child abuse evidence is harmful, 'magical' thinking",
     "url": "https://www.theregister.com/2022/10/13/clientside_scanning_csam_anderson/",
-    "upvotes": 47,
+    "upvotes": 69,
     "author": "arkadiyt",
-    "comments": 13,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=33228040"
+  },
+  {
+    "title": "Ask HN: How to learn to sell?",
+    "url": "item?id=33224240",
+    "upvotes": 274,
+    "author": "rasulkireev",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=33224240"
   },
   {
     "title": "Scientists discover mechanism of hearing",
     "url": "https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing",
-    "upvotes": 116,
+    "upvotes": 121,
     "author": "thunderbong",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=33223460"
   },
   {
-    "title": "Simon Peyton Jones interview",
-    "url": "https://haskell.foundation/podcast/11/",
-    "upvotes": 149,
-    "author": "gbrown_",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=33222995"
-  },
-  {
     "title": "Chaos theory eliminates quantum uncertainty",
     "url": "https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263",
-    "upvotes": 75,
+    "upvotes": 80,
     "author": "bookofjoe",
-    "comments": 102,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=33223391"
   },
   {
-    "title": "A Danish political party led by an AI",
-    "url": "https://www.vice.com/en/article/jgpb3p/this-danish-political-party-is-led-by-an-ai",
-    "upvotes": 63,
-    "author": "bubblehack3r",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=33225916"
-  },
-  {
-    "title": "IR-Controlling New Air Conditioner in Server Room",
-    "url": "http://oldvcr.blogspot.com/2022/10/ir-controlling-new-air-conditioner-in.html",
-    "upvotes": 38,
-    "author": "Stamp01",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=33224088"
-  },
-  {
-    "title": "OneRNG – Open Hardware Random Number Generator",
-    "url": "https://onerng.info",
-    "upvotes": 72,
-    "author": "Zababa",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=33223232"
+    "title": "A Tech Pioneer’s Final, Unexpected Act",
+    "url": "https://www.newyorker.com/magazine/2018/01/01/a-tech-pioneers-final-unexpected-act",
+    "upvotes": 23,
+    "author": "wallflower",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33212839"
   }
 ]
