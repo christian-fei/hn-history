@@ -1,128 +1,144 @@
 [
   {
-    "title": "Htmx, WebAssembly, Rust, ServiceWorker Proof of Concept",
+    "title": "Wasm-service: Htmx, WebAssembly, Rust, ServiceWorker proof of concept",
     "url": "https://github.com/richardanaya/wasm-service",
-    "upvotes": 55,
+    "upvotes": 74,
     "author": "richardanaya",
-    "comments": 13,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=33228891"
-  },
-  {
-    "title": "Compiler Explorer",
-    "url": "https://godbolt.org/",
-    "upvotes": 416,
-    "author": "disadvantage",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=33224542"
-  },
-  {
-    "title": "Learn Enough C to Survive",
-    "url": "https://codeofhonor.substack.com/p/learn-enough-c-to-survive",
-    "upvotes": 26,
-    "author": "the_jesus_villa",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=33229162"
-  },
-  {
-    "title": "Hex Triplet Words",
-    "url": "https://hex-triplet-words.glitch.me/",
-    "upvotes": 39,
-    "author": "gregsadetsky",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33228560"
-  },
-  {
-    "title": "Feather – open source icons",
-    "url": "https://feathericons.com/",
-    "upvotes": 371,
-    "author": "vmoore",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=33223964"
-  },
-  {
-    "title": "Show HN: Carefulwords.com, a More Inspiring Thesaurus",
-    "url": "https://carefulwords.com/solitude",
-    "upvotes": 125,
-    "author": "simonsarris",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=33226817"
-  },
-  {
-    "title": "XCheck at Meta: Why it exists and how it works",
-    "url": "https://blog.nindalf.com/posts/xcheck/",
-    "upvotes": 260,
-    "author": "nindalf",
-    "comments": 151,
-    "link": "https://news.ycombinator.com/item?id=33224347"
-  },
-  {
-    "title": "1956 Philips 353A Bakelite Vacuum Tube Radio Repair and Restoration",
-    "url": "https://retrorepairsandrefurbs.com/2022/09/06/1956-philips-353a-bakelite-vacuum-tube-radio-repair-restoration/",
-    "upvotes": 106,
-    "author": "Tomte",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=33226852"
-  },
-  {
-    "title": "Streaming data in Postgres to 1M clients with GraphQL",
-    "url": "https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md",
-    "upvotes": 80,
-    "author": "tango12",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=33227840"
-  },
-  {
-    "title": "Show HN: I have built a library of screenplays for movies and TV shows",
-    "url": "https://screenplays.io",
-    "upvotes": 179,
-    "author": "lumenwrites",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=33228533"
-  },
-  {
-    "title": "The Case of the Dead Mini5SX",
-    "url": "https://www.leadedsolder.com/2022/10/15/pwp50sx-nec-mini5-psu-repair-pickup.html",
-    "upvotes": 11,
-    "author": "zdw",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33224583"
   },
   {
     "title": "If ghosts could speak, their speech would approximate this key",
     "url": "https://www.listsofnote.com/p/if-ghosts-could-speak-their-speech",
-    "upvotes": 3,
+    "upvotes": 21,
     "author": "breathenew",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33229648"
   },
   {
-    "title": "The Z80's protected mode discovered after 40 years [video]",
-    "url": "https://www.youtube.com/watch?v=DLSUAVPKeYk",
-    "upvotes": 6,
-    "author": "tux1968",
+    "title": "Compiler Explorer",
+    "url": "https://godbolt.org/",
+    "upvotes": 423,
+    "author": "disadvantage",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=33224542"
+  },
+  {
+    "title": "Ryzen 7000 amdgpu boot hang",
+    "url": "http://aigarius.com/blog/2022/10/16/ryzen-7000-amdgpu/",
+    "upvotes": 13,
+    "author": "pabs3",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33229570"
+  },
+  {
+    "title": "Feather – open source icons",
+    "url": "https://feathericons.com/",
+    "upvotes": 388,
+    "author": "vmoore",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=33223964"
+  },
+  {
+    "title": "Hex Triplet Words",
+    "url": "https://hex-triplet-words.glitch.me/",
+    "upvotes": 49,
+    "author": "gregsadetsky",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=33228560"
+  },
+  {
+    "title": "The Dead End",
+    "url": "https://redmonk.com/sogrady/2022/09/23/dead-end/",
+    "upvotes": 10,
+    "author": "swyx",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33229688"
+  },
+  {
+    "title": "Show HN: Carefulwords.com, a More Inspiring Thesaurus",
+    "url": "https://carefulwords.com/solitude",
+    "upvotes": 141,
+    "author": "simonsarris",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=33226817"
+  },
+  {
+    "title": "The Case of the Dead Mini5SX",
+    "url": "https://www.leadedsolder.com/2022/10/15/pwp50sx-nec-mini5-psu-repair-pickup.html",
+    "upvotes": 20,
+    "author": "zdw",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33229526"
+    "link": "https://news.ycombinator.com/item?id=33224583"
+  },
+  {
+    "title": "XCheck at Meta: Why it exists and how it works",
+    "url": "https://blog.nindalf.com/posts/xcheck/",
+    "upvotes": 274,
+    "author": "nindalf",
+    "comments": 162,
+    "link": "https://news.ycombinator.com/item?id=33224347"
+  },
+  {
+    "title": "Streaming data in Postgres to 1M clients with GraphQL",
+    "url": "https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md",
+    "upvotes": 93,
+    "author": "tango12",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=33227840"
+  },
+  {
+    "title": "1956 Philips 353A Bakelite Vacuum Tube Radio Repair and Restoration",
+    "url": "https://retrorepairsandrefurbs.com/2022/09/06/1956-philips-353a-bakelite-vacuum-tube-radio-repair-restoration/",
+    "upvotes": 112,
+    "author": "Tomte",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=33226852"
+  },
+  {
+    "title": "How truffles took root around the world",
+    "url": "https://knowablemagazine.org/article/food-environment/2022/how-truffles-took-root-around-world",
+    "upvotes": 9,
+    "author": "ohjeez",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33225771"
+  },
+  {
+    "title": "Show HN: I have built a library of screenplays for movies and TV shows",
+    "url": "https://screenplays.io",
+    "upvotes": 188,
+    "author": "lumenwrites",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=33228533"
   },
   {
     "title": "The ESP32 Bootrom",
     "url": "http://cholla.mmto.org/esp32/bootrom/",
-    "upvotes": 66,
+    "upvotes": 72,
     "author": "dcminter",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=33217840"
   },
   {
     "title": "GitHub Copilot, with “public code” blocked, emits my copyrighted code",
     "url": "https://twitter.com/docsparse/status/1581461734665367554",
-    "upvotes": 481,
+    "upvotes": 518,
     "author": "davidgerard",
-    "comments": 406,
+    "comments": 422,
     "link": "https://news.ycombinator.com/item?id=33226515"
+  },
+  {
+    "title": "The US National Archives’ preservation plans for 600 file formats",
+    "url": "https://www.archives.gov/preservation/digital-preservation/risk",
+    "upvotes": 60,
+    "author": "ohjeez",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=33227287"
   },
   {
     "title": "Wikiversity",
     "url": "https://en.wikiversity.org/wiki/Wikiversity:Main_Page",
-    "upvotes": 93,
+    "upvotes": 96,
     "author": "RafelMri",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=33226352"
@@ -130,25 +146,25 @@
   {
     "title": "Fast file synchronization and network forwarding for remote development",
     "url": "https://github.com/mutagen-io/mutagen",
-    "upvotes": 118,
+    "upvotes": 125,
     "author": "saikatsg",
-    "comments": 50,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=33225703"
   },
   {
-    "title": "The US National Archives’ preservation plans for 600 file formats",
-    "url": "https://www.archives.gov/preservation/digital-preservation/risk",
-    "upvotes": 50,
-    "author": "ohjeez",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=33227287"
+    "title": "Life’s Work: An Interview with Jerry Seinfeld",
+    "url": "https://hbr.org/2017/01/lifes-work-jerry-seinfeld",
+    "upvotes": 6,
+    "author": "uptown",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33229650"
   },
   {
     "title": "Digital Gardening",
     "url": "https://nicolasbouliane.com/blog/digital-gardening",
-    "upvotes": 143,
+    "upvotes": 150,
     "author": "nicbou",
-    "comments": 63,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=33213753"
   },
   {
@@ -158,31 +174,31 @@
   {
     "title": "Tom Stoppard Resurrects the Past in “Leopoldstadt”",
     "url": "https://www.newyorker.com/magazine/2022/10/17/tom-stoppard-resurrects-the-past-in-leopoldstadt",
-    "upvotes": 13,
+    "upvotes": 16,
     "author": "drdee",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33221140"
   },
   {
-    "title": "On the supposed “nihilism” of the Mango Markets arbitrageur",
-    "url": "https://milkyeggs.com/?p=61",
-    "upvotes": 33,
-    "author": "firloop",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=33225998"
+    "title": "Learn enough C to survive",
+    "url": "https://codeofhonor.substack.com/p/learn-enough-c-to-survive",
+    "upvotes": 56,
+    "author": "the_jesus_villa",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=33229162"
   },
   {
     "title": "DarkForestSim: A Netlogo Simulation of the Dark Forest Hypothesis",
     "url": "https://www.evangelosscifi.com/home/darkforestsim",
-    "upvotes": 46,
+    "upvotes": 54,
     "author": "throw0101c",
-    "comments": 26,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=33226785"
   },
   {
     "title": "Cash, Canadians and CPUs: Intel's 'Lost' Early Microprocessor",
     "url": "https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost",
-    "upvotes": 85,
+    "upvotes": 89,
     "author": "klelatti",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=33224379"
@@ -190,49 +206,33 @@
   {
     "title": "A Danish political party led by an AI",
     "url": "https://www.vice.com/en/article/jgpb3p/this-danish-political-party-is-led-by-an-ai",
-    "upvotes": 67,
-    "author": "bubblehack3r",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=33225916"
-  },
-  {
-    "title": "Scanning phones to detect child abuse evidence is harmful, 'magical' thinking",
-    "url": "https://www.theregister.com/2022/10/13/clientside_scanning_csam_anderson/",
     "upvotes": 69,
-    "author": "arkadiyt",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=33228040"
+    "author": "bubblehack3r",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=33225916"
   },
   {
     "title": "Ask HN: How to learn to sell?",
     "url": "item?id=33224240",
-    "upvotes": 274,
+    "upvotes": 284,
     "author": "rasulkireev",
-    "comments": 120,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=33224240"
   },
   {
-    "title": "Scientists discover mechanism of hearing",
-    "url": "https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing",
-    "upvotes": 121,
-    "author": "thunderbong",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=33223460"
-  },
-  {
-    "title": "Chaos theory eliminates quantum uncertainty",
-    "url": "https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263",
-    "upvotes": 80,
-    "author": "bookofjoe",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=33223391"
+    "title": "“I’m not that smart”",
+    "url": "https://seths.blog/2022/10/im-not-that-smart/",
+    "upvotes": 25,
+    "author": "mooreds",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33226766"
   },
   {
     "title": "A Tech Pioneer’s Final, Unexpected Act",
     "url": "https://www.newyorker.com/magazine/2018/01/01/a-tech-pioneers-final-unexpected-act",
-    "upvotes": 23,
+    "upvotes": 28,
     "author": "wallflower",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=33212839"
   }
 ]
