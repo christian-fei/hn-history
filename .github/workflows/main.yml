@@ -2,7 +2,7 @@ name: scrape hn data
 
 on:
   schedule:
-    - cron:  '0,30 * * * *'
+    - cron:  '0 * * * *'
 
 jobs:
   scheduled:
