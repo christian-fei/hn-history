@@ -2,241 +2,237 @@
   {
     "title": "What “work” looks like",
     "url": "https://blog.jim-nielsen.com/2022/what-work-looks-like/",
-    "upvotes": 81,
+    "upvotes": 139,
     "author": "LordNibbler",
-    "comments": 12,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=33326080"
+  },
+  {
+    "title": "How the clipboard works",
+    "url": "https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/",
+    "upvotes": 27,
+    "author": "dailymorn",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=33326523"
   },
   {
     "title": "The cult of dd",
     "url": "https://eklitzke.org/the-cult-of-dd",
-    "upvotes": 158,
+    "upvotes": 176,
     "author": "_dain_",
-    "comments": 118,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=33324704"
-  },
-  {
-    "title": "What’s wrong with medieval pigs in videogames",
-    "url": "https://www.leidenmedievalistsblog.nl/articles/whats-wrong-with-medieval-pigs-in-videogames",
-    "upvotes": 664,
-    "author": "_emacsomancer_",
-    "comments": 297,
-    "link": "https://news.ycombinator.com/item?id=33318215"
   },
   {
     "title": "Meta Learning Backpropagation and Improving It",
     "url": "https://arxiv.org/abs/2012.14905",
-    "upvotes": 57,
+    "upvotes": 71,
     "author": "lnyan",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=33325703"
-  },
-  {
-    "title": "Available Today: Windows Dev Kit 2023 a.k.a. Project Volterra",
-    "url": "https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/",
-    "upvotes": 315,
-    "author": "mpalme",
-    "comments": 463,
-    "link": "https://news.ycombinator.com/item?id=33319535"
   },
   {
     "title": "Asdf – language tool version manager",
     "url": "https://asdf-vm.com/guide/introduction.html",
-    "upvotes": 155,
+    "upvotes": 171,
     "author": "timhigins",
-    "comments": 103,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=33323261"
+  },
+  {
+    "title": "Available Today: Windows Dev Kit 2023 a.k.a. Project Volterra",
+    "url": "https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/",
+    "upvotes": 317,
+    "author": "mpalme",
+    "comments": 471,
+    "link": "https://news.ycombinator.com/item?id=33319535"
+  },
+  {
+    "title": "Stacker",
+    "url": "https://apply.workable.com/stackerhq/j/B4A997C78C/"
   },
   {
     "title": "Forgetting the Asbestos – how we lose knowledge and technologies",
     "url": "https://1517.substack.com/p/forgetting-the-asbestos",
-    "upvotes": 213,
+    "upvotes": 224,
     "author": "areoform",
-    "comments": 157,
+    "comments": 161,
     "link": "https://news.ycombinator.com/item?id=33320294"
+  },
+  {
+    "title": "Graphviz v7",
+    "url": "https://gitlab.com/graphviz/graphviz/-/tree/main",
+    "upvotes": 6,
+    "author": "nikolay",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33327014"
   },
   {
     "title": "My next Mac might be the last",
     "url": "https://morrick.me/archives/9667",
-    "upvotes": 188,
+    "upvotes": 215,
     "author": "pier25",
-    "comments": 300,
+    "comments": 336,
     "link": "https://news.ycombinator.com/item?id=33321475"
-  },
-  {
-    "title": "Bumble releases open-source A.I. feature to help combat unsolicited nudes",
-    "url": "https://bumble.com/the-buzz/bumble-open-source-private-detector-ai-cyberflashing-dick-pics",
-    "upvotes": 170,
-    "author": "cloudking",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=33324651"
   },
   {
     "title": "How to make a roguelike",
     "url": "https://www.gamedeveloper.com/design/how-to-make-a-roguelike",
-    "upvotes": 156,
+    "upvotes": 166,
     "author": "metadat",
-    "comments": 72,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=33321695"
   },
   {
-    "title": "How the Clipboard Works",
-    "url": "https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/",
+    "title": "Bumble releases open-source A.I. feature to help combat unsolicited nudes",
+    "url": "https://bumble.com/the-buzz/bumble-open-source-private-detector-ai-cyberflashing-dick-pics",
+    "upvotes": 175,
+    "author": "cloudking",
+    "comments": 127,
+    "link": "https://news.ycombinator.com/item?id=33324651"
+  },
+  {
+    "title": "What’s wrong with medieval pigs in videogames",
+    "url": "https://www.leidenmedievalistsblog.nl/articles/whats-wrong-with-medieval-pigs-in-videogames",
+    "upvotes": 680,
+    "author": "_emacsomancer_",
+    "comments": 303,
+    "link": "https://news.ycombinator.com/item?id=33318215"
+  },
+  {
+    "title": "How to autoscale Grafana Loki queries using KEDA",
+    "url": "https://grafana.com/blog/2022/10/20/how-to-autoscale-grafana-loki-queries-using-keda/",
     "upvotes": 5,
-    "author": "dailymorn",
+    "author": "infomaniac",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33326523"
+    "link": "https://news.ycombinator.com/item?id=33326979"
   },
   {
     "title": "The Surreal Horror of PAM",
     "url": "https://xeiaso.net/talks/surreal-horror-pam-2021-11-09",
-    "upvotes": 59,
+    "upvotes": 63,
     "author": "popcalc",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=33323683"
   },
   {
     "title": "Every Door – OpenStreetMap editor for POIs and entrances",
     "url": "https://every-door.app/",
-    "upvotes": 170,
+    "upvotes": 176,
     "author": "PetitPrince",
-    "comments": 42,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=33318659"
-  },
-  {
-    "title": "Salary Transparency",
-    "url": "https://xeiaso.net/salary-transparency",
-    "upvotes": 185,
-    "author": "popcalc",
-    "comments": 202,
-    "link": "https://news.ycombinator.com/item?id=33323826"
   },
   {
     "title": "Deepfake",
     "url": "https://www.jefftk.com/p/deepfake-phishing",
-    "upvotes": 16,
+    "upvotes": 19,
     "author": "luu",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=33325292"
   },
   {
-    "title": "Launch HN: Noloco",
-    "url": "https://noloco.io",
-    "upvotes": 79,
+    "title": "Salary Transparency",
+    "url": "https://xeiaso.net/salary-transparency",
+    "upvotes": 192,
+    "author": "popcalc",
+    "comments": 206,
+    "link": "https://news.ycombinator.com/item?id=33323826"
+  },
+  {
+    "title": "The Docker+WASM Technical Preview",
+    "url": "https://www.docker.com/blog/docker-wasm-technical-preview/",
+    "upvotes": 154,
+    "author": "soheilpro",
+    "comments": 122,
+    "link": "https://news.ycombinator.com/item?id=33320530"
+  },
+  {
+    "title": "Launch HN: Noloco (YC S21) – Build internal tools from data without code",
+    "url": "item?id=33316694",
+    "upvotes": 80,
     "author": "darraghmckay",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=33316694"
   },
   {
-    "title": "The Docker+WASM Technical Preview",
-    "url": "https://www.docker.com/blog/docker-wasm-technical-preview/",
-    "upvotes": 146,
-    "author": "soheilpro",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=33320530"
-  },
-  {
     "title": "Immortal by Default: A brief history of humans and the ginkgo tree",
     "url": "https://www.laphamsquarterly.org/roundtable/immortal-default",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "Vigier",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=33302896"
   },
   {
     "title": "My thoughts on the Framework laptop",
     "url": "https://ruscur.au/framework/",
-    "upvotes": 173,
+    "upvotes": 177,
     "author": "kelvie",
-    "comments": 133,
+    "comments": 134,
     "link": "https://news.ycombinator.com/item?id=33322143"
   },
   {
     "title": "macOS Ventura is now available",
     "url": "https://www.apple.com/newsroom/2022/10/macos-ventura-is-now-available/",
-    "upvotes": 321,
+    "upvotes": 328,
     "author": "anuragsoni",
-    "comments": 353,
+    "comments": 363,
     "link": "https://news.ycombinator.com/item?id=33319367"
-  },
-  {
-    "title": "New Psychedelic Entactogens",
-    "url": "https://psychedelicreview.com/new-psychedelic-entactogens-designer-drugs-produce-designer-effects/",
-    "upvotes": 41,
-    "author": "beefman",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=33323599"
-  },
-  {
-    "title": "Show HN: Bolt.css – Another classless CSS library",
-    "url": "https://boltcss.com",
-    "upvotes": 112,
-    "author": "tbolt",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=33318108"
-  },
-  {
-    "title": "My mesh shaders talk at XDC 2022",
-    "url": "https://rg3.name/202210222107.html",
-    "upvotes": 50,
-    "author": "JNRowe",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=33320811"
   },
   {
     "title": "Sonic: Fast, lightweight and schema-less search backend",
     "url": "https://github.com/valeriansaliou/sonic",
-    "upvotes": 529,
+    "upvotes": 533,
     "author": "rcarmo",
     "comments": 149,
     "link": "https://news.ycombinator.com/item?id=33315237"
   },
   {
+    "title": "My mesh shaders talk at XDC 2022",
+    "url": "https://rg3.name/202210222107.html",
+    "upvotes": 53,
+    "author": "JNRowe",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=33320811"
+  },
+  {
+    "title": "Ask HN: What's the next evolution of the GUI OS?",
+    "url": "item?id=33326533",
+    "upvotes": 8,
+    "author": "berkimbayev",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=33326533"
+  },
+  {
     "title": "Only virgin type of olive oil consumption reduces the risk of mortality: study",
     "url": "https://www.nature.com/articles/s41430-022-01221-3",
-    "upvotes": 185,
+    "upvotes": 192,
     "author": "nokcha",
-    "comments": 188,
+    "comments": 197,
     "link": "https://news.ycombinator.com/item?id=33321283"
   },
   {
     "title": "Chimpanzees synchronise their steps just like humans",
     "url": "https://news.st-andrews.ac.uk/archive/chimpanzees-synchronise-their-steps-just-like-humans/",
-    "upvotes": 30,
+    "upvotes": 31,
     "author": "hhs",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=33281823"
-  },
-  {
-    "title": "RISC-V Celebrates Upstreaming of Android Open Source Project RISC-V Port",
-    "url": "https://riscv.org/blog/2022/10/risc-v-celebrates-upstreaming-of-android-open-source-project-risc-v-port-risc-v-international/",
-    "upvotes": 111,
-    "author": "ndesaulniers",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=33320597"
   },
   {
     "title": "Show HN: Open-source non-blocking NIO Java HTTP Server",
     "url": "https://github.com/FusionAuth/java-http",
-    "upvotes": 50,
+    "upvotes": 53,
     "author": "mooreds",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=33318725"
   },
   {
-    "title": "Accelerated forgetting of a trauma event after a single dose of hydrocortisone",
-    "url": "https://www.nature.com/articles/s41398-022-02126-2",
-    "upvotes": 93,
-    "author": "rntn",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=33320156"
-  },
-  {
-    "title": "Attacking Weak RC4-Like Ciphers the Hard Way",
-    "url": "https://research.checkpoint.com/2022/attacking-very-weak-rc4-like-ciphers-the-hard-way/",
-    "upvotes": 31,
-    "author": "todsacerdoti",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=33320659"
+    "title": "RISC-V Celebrates Upstreaming of Android Open Source Project RISC-V Port",
+    "url": "https://riscv.org/blog/2022/10/risc-v-celebrates-upstreaming-of-android-open-source-project-risc-v-port-risc-v-international/",
+    "upvotes": 113,
+    "author": "ndesaulniers",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=33320597"
   }
 ]
