@@ -1,58 +1,74 @@
 [
   {
+    "title": "Shell Script Best Practices, from a decade of scripting things",
+    "url": "https://sharats.me/posts/shell-script-best-practices/",
+    "upvotes": 98,
+    "author": "sharat87",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=33354286"
+  },
+  {
     "title": "Multiranges in Postgres",
     "url": "https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/",
-    "upvotes": 23,
+    "upvotes": 39,
     "author": "gurjeet",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=33353719"
   },
   {
     "title": "SiriSpy – iOS bug allowed apps to eavesdrop on your conversations with Siri",
     "url": "https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop",
-    "upvotes": 463,
+    "upvotes": 473,
     "author": "mnem",
-    "comments": 207,
+    "comments": 211,
     "link": "https://news.ycombinator.com/item?id=33348013"
   },
   {
     "title": "Video gaming may be associated with better cognitive performance in children",
     "url": "https://nida.nih.gov/news-events/news-releases/2022/10/video-gaming-may-be-associated-with-better-cognitive-performance-in-children",
-    "upvotes": 307,
+    "upvotes": 322,
     "author": "gmays",
-    "comments": 213,
+    "comments": 229,
     "link": "https://news.ycombinator.com/item?id=33349296"
+  },
+  {
+    "title": "reMarkable 2",
+    "url": "https://remarkable.com/",
+    "upvotes": 86,
+    "author": "spking",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=33352967"
   },
   {
     "title": "Signal says it won’t compromise on encryption",
     "url": "https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china",
-    "upvotes": 159,
+    "upvotes": 191,
     "author": "TobTobXX",
-    "comments": 96,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=33353345"
   },
   {
     "title": "Australia's weird little time zone",
     "url": "https://www.howderfamily.com/blog/australias-weird-little-time-zone/",
-    "upvotes": 126,
+    "upvotes": 134,
     "author": "BerislavLopac",
-    "comments": 55,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=33316941"
   },
   {
-    "title": "reMarkable 2",
-    "url": "https://remarkable.com/",
-    "upvotes": 48,
-    "author": "spking",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=33352967"
+    "title": "Column Vectors vs. Row Vectors",
+    "url": "http://steve.hollasch.net/cgindex/math/matrix/column-vec.html",
+    "upvotes": 32,
+    "author": "oumua_don17",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=33329207"
   },
   {
     "title": "No safe efficient ways to do three-way string comparisons in Go",
     "url": "https://go101.org/blog/2022-10-01-three-way-string-comparison.html",
-    "upvotes": 115,
+    "upvotes": 119,
     "author": "tapirl",
-    "comments": 89,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=33316402"
   },
   {
@@ -62,177 +78,161 @@
   {
     "title": "Where did all the “reject” buttons come from?",
     "url": "https://noyb.eu/en/where-did-all-reject-buttons-come",
-    "upvotes": 41,
+    "upvotes": 62,
     "author": "dotcoma",
-    "comments": 12,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=33354085"
   },
   {
-    "title": "Column Vectors vs. Row Vectors",
-    "url": "http://steve.hollasch.net/cgindex/math/matrix/column-vec.html",
-    "upvotes": 23,
-    "author": "oumua_don17",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=33329207"
-  },
-  {
-    "title": "Which programming paradigm had the most impact on you as an engineer and why?",
-    "url": "item?id=33354036",
-    "upvotes": 23,
-    "author": "debanjan16",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=33354036"
-  },
-  {
-    "title": "Shell Script Best Practices, from a decade of scripting things",
-    "url": "https://sharats.me/posts/shell-script-best-practices/",
-    "upvotes": 4,
-    "author": "sharat87",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33354286"
+    "title": "Caravaggio Was the Other Michelangelo of the Renaissance",
+    "url": "https://www.neh.gov/article/caravaggio-was-other-michelangelo-renaissance",
+    "upvotes": 22,
+    "author": "prismatic",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=33304681"
   },
   {
     "title": "Show HN: I solved my New Tab page",
     "url": "https://startertab.com/",
-    "upvotes": 140,
+    "upvotes": 159,
     "author": "allig256",
-    "comments": 56,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=33351585"
   },
   {
     "title": "Unreal Tournament 99 running on WASM",
     "url": "https://icculus.org/ut99-emscripten/",
-    "upvotes": 173,
+    "upvotes": 176,
     "author": "klaussilveira",
     "comments": 86,
     "link": "https://news.ycombinator.com/item?id=33349291"
   },
   {
-    "title": "An ode to that “coffee friend”",
-    "url": "https://tiramisu.bearblog.dev/coffee-gift/",
-    "upvotes": 191,
-    "author": "memorable",
-    "comments": 156,
-    "link": "https://news.ycombinator.com/item?id=33351647"
-  },
-  {
     "title": "Napa.js: A multi-threaded JavaScript runtime",
     "url": "https://github.com/microsoft/napajs",
-    "upvotes": 47,
+    "upvotes": 57,
     "author": "metadat",
-    "comments": 14,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=33351805"
+  },
+  {
+    "title": "World Energy Outlook 2022",
+    "url": "https://www.iea.org/reports/world-energy-outlook-2022",
+    "upvotes": 3,
+    "author": "nabla9",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33354726"
   },
   {
     "title": "All About E: A Language That Infiltrated JavaScript",
     "url": "https://thenewstack.io/all-about-e-the-language-that-infiltrated-javascript/",
-    "upvotes": 36,
+    "upvotes": 42,
     "author": "cpeterso",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=33312879"
   },
   {
-    "title": "Caravaggio Was the Other Michelangelo of the Renaissance",
-    "url": "https://www.neh.gov/article/caravaggio-was-other-michelangelo-renaissance",
-    "upvotes": 13,
-    "author": "prismatic",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=33304681"
+    "title": "An ode to that “coffee friend”",
+    "url": "https://tiramisu.bearblog.dev/coffee-gift/",
+    "upvotes": 198,
+    "author": "memorable",
+    "comments": 169,
+    "link": "https://news.ycombinator.com/item?id=33351647"
   },
   {
-    "title": "Lego Is Discontinuing Mindstorms",
-    "url": "https://www.brickfanatics.com/lego-discontinuing-mindstorms-end-of-2022/",
-    "upvotes": 488,
-    "author": "dmarinoc",
-    "comments": 172,
-    "link": "https://news.ycombinator.com/item?id=33348716"
+    "title": "Designing a Programming Language: I",
+    "url": "https://ducklang.org/designing-a-programming-language-i",
+    "upvotes": 7,
+    "author": "memorable",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33287625"
   },
   {
     "title": "Galactic settlement of low-mass stars as a resolution to the Fermi paradox",
     "url": "https://arxiv.org/abs/2210.10656",
-    "upvotes": 54,
+    "upvotes": 59,
     "author": "Jimmc414",
-    "comments": 80,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=33350437"
-  },
-  {
-    "title": "Elites tried to monopolize hunting",
-    "url": "https://thereader.mitpress.mit.edu/when-elites-tried-to-monopolize-hunting/",
-    "upvotes": 78,
-    "author": "diodorus",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=33339704"
-  },
-  {
-    "title": "Launch HN: Idemeum (YC S21) – Passwordless access to apps and infrastructure",
-    "url": "item?id=33346183",
-    "upvotes": 96,
-    "author": "npoturnak",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=33346183"
-  },
-  {
-    "title": "The United States’ Unamendable Constitution",
-    "url": "https://www.newyorker.com/culture/annals-of-inquiry/the-united-states-unamendable-constitution",
-    "upvotes": 87,
-    "author": "psteitz",
-    "comments": 445,
-    "link": "https://news.ycombinator.com/item?id=33348964"
-  },
-  {
-    "title": "Most buildings at MIT campus are remaining closed to the public",
-    "url": "https://twitter.com/jack_b_reid/status/1556735206547066880",
-    "upvotes": 197,
-    "author": "luu",
-    "comments": 159,
-    "link": "https://news.ycombinator.com/item?id=33351290"
-  },
-  {
-    "title": "My Cloud Storage Crisis",
-    "url": "https://tiramisu.bearblog.dev/google-photos/",
-    "upvotes": 34,
-    "author": "memorable",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=33351636"
-  },
-  {
-    "title": "Vim After 15 Years",
-    "url": "https://blog.langworth.com/vim3",
-    "upvotes": 97,
-    "author": "metadat",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=33349871"
   },
   {
     "title": "Engineers should do customer support and success",
     "url": "https://notoriousplg.substack.com/p/nplg-102022-engineering-customer",
-    "upvotes": 44,
+    "upvotes": 48,
     "author": "0xferruccio",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=33286697"
   },
   {
-    "title": "On Management and the Maginot Line",
-    "url": "http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s12.html",
-    "upvotes": 14,
-    "author": "Jach",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=33314682"
+    "title": "Lego Is Discontinuing Mindstorms",
+    "url": "https://www.brickfanatics.com/lego-discontinuing-mindstorms-end-of-2022/",
+    "upvotes": 499,
+    "author": "dmarinoc",
+    "comments": 174,
+    "link": "https://news.ycombinator.com/item?id=33348716"
+  },
+  {
+    "title": "The United States’ Unamendable Constitution",
+    "url": "https://www.newyorker.com/culture/annals-of-inquiry/the-united-states-unamendable-constitution",
+    "upvotes": 91,
+    "author": "psteitz",
+    "comments": 456,
+    "link": "https://news.ycombinator.com/item?id=33348964"
+  },
+  {
+    "title": "Vim After 15 Years",
+    "url": "https://blog.langworth.com/vim3",
+    "upvotes": 104,
+    "author": "metadat",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=33349871"
+  },
+  {
+    "title": "Launch HN: Idemeum (YC S21) – Passwordless access to apps and infrastructure",
+    "url": "item?id=33346183",
+    "upvotes": 97,
+    "author": "npoturnak",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=33346183"
+  },
+  {
+    "title": "Elites tried to monopolize hunting",
+    "url": "https://thereader.mitpress.mit.edu/when-elites-tried-to-monopolize-hunting/",
+    "upvotes": 81,
+    "author": "diodorus",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=33339704"
   },
   {
     "title": "TCP Connection Repair",
     "url": "https://lwn.net/Articles/495304/",
-    "upvotes": 111,
+    "upvotes": 116,
     "author": "mfiguiere",
-    "comments": 42,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=33348319"
+  },
+  {
+    "title": "On Management and the Maginot Line",
+    "url": "http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s12.html",
+    "upvotes": 17,
+    "author": "Jach",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=33314682"
+  },
+  {
+    "title": "Most buildings at MIT campus are remaining closed to the public",
+    "url": "https://twitter.com/jack_b_reid/status/1556735206547066880",
+    "upvotes": 204,
+    "author": "luu",
+    "comments": 163,
+    "link": "https://news.ycombinator.com/item?id=33351290"
   },
   {
     "title": "I Fell 15,000 Feet and Lived",
     "url": "https://uss-la-ca135.org/60/1960Judkins-Knott.html",
-    "upvotes": 639,
+    "upvotes": 645,
     "author": "metadat",
-    "comments": 245,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=33344426"
   }
 ]
