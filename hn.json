@@ -2,58 +2,74 @@
   {
     "title": "I tried starting a manufacturing unit in India",
     "url": "https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/",
-    "upvotes": 69,
+    "upvotes": 115,
     "author": "godelmachine",
-    "comments": 42,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=33368104"
+  },
+  {
+    "title": "Bringing a dynamic environment to C: My linker project",
+    "url": "https://macoy.me/blog/programming/LinkerLoaderIntro",
+    "upvotes": 9,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33368991"
   },
   {
     "title": "Pokemon Card Animation",
     "url": "https://deck-24abcd.netlify.app/",
-    "upvotes": 682,
+    "upvotes": 723,
     "author": "parrot987",
-    "comments": 90,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=33363331"
+  },
+  {
+    "title": "My Fanless OpenBSD Desktop",
+    "url": "https://jcs.org/2021/07/19/desktop",
+    "upvotes": 24,
+    "author": "aliqot",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33368444"
   },
   {
     "title": "Which emoji scissors close",
     "url": "https://wh0.github.io/2020/01/02/scissors.html",
-    "upvotes": 616,
+    "upvotes": 642,
     "author": "philshem",
-    "comments": 110,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=33360171"
-  },
-  {
-    "title": "Canon EOS R7 Disassembly and Teardown",
-    "url": "https://kolarivision.com/canon-eos-r7-disassembly-and-teardown/",
-    "upvotes": 30,
-    "author": "giuliomagnifico",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33326885"
   },
   {
     "title": "Stupid Security Things",
     "url": "https://www.troyhunt.com/reckon-youve-seen-some-stupid-security-things-here-hold-my-beer/",
-    "upvotes": 116,
+    "upvotes": 141,
     "author": "jp8",
-    "comments": 41,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=33366170"
+  },
+  {
+    "title": "Canon EOS R7 Disassembly and Teardown",
+    "url": "https://kolarivision.com/canon-eos-r7-disassembly-and-teardown/",
+    "upvotes": 41,
+    "author": "giuliomagnifico",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=33326885"
   },
   {
     "title": "Apple security bounty upgraded",
     "url": "https://security.apple.com/blog/apple-security-bounty-upgraded/",
-    "upvotes": 218,
+    "upvotes": 220,
     "author": "crecker",
-    "comments": 63,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=33363333"
   },
   {
-    "title": "Show HN: I 3D scanned the interior of the Great Pyramid at Giza",
-    "url": "https://giza.mused.org/en/guided/266/inside-the-great-pyramid",
-    "upvotes": 1448,
-    "author": "lukehollis",
-    "comments": 252,
-    "link": "https://news.ycombinator.com/item?id=33357197"
+    "title": "Redditor acquires decommissioned Netflix cache server with 262TB of storage",
+    "url": "https://arstechnica.com/information-technology/2022/10/redditor-acquires-decommissioned-netflix-cache-server-with-262tb-of-storage/",
+    "upvotes": 36,
+    "author": "rcarmo",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=33368740"
   },
   {
     "title": "Deepnote",
@@ -62,98 +78,138 @@
   {
     "title": "The RISC Deprogrammer",
     "url": "https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html",
-    "upvotes": 28,
+    "upvotes": 39,
     "author": "gbrown_",
-    "comments": 8,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=33326858"
+  },
+  {
+    "title": "Duck DNS – About",
+    "url": "https://www.duckdns.org/about.jsp",
+    "upvotes": 27,
+    "author": "axiomdata316",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=33367767"
+  },
+  {
+    "title": "Show HN: I 3D scanned the interior of the Great Pyramid at Giza",
+    "url": "https://giza.mused.org/en/guided/266/inside-the-great-pyramid",
+    "upvotes": 1473,
+    "author": "lukehollis",
+    "comments": 255,
+    "link": "https://news.ycombinator.com/item?id=33357197"
+  },
+  {
+    "title": "Container queries are finally real",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries",
+    "upvotes": 25,
+    "author": "vincent_s",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33368093"
+  },
+  {
+    "title": "Making an SSH client the hard way",
+    "url": "https://tailscale.com/blog/ssh-console/",
+    "upvotes": 256,
+    "author": "darthShadow",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=33360776"
   },
   {
     "title": "Towards the next generation of XNU memory safety: kalloc_type",
     "url": "https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/",
-    "upvotes": 162,
+    "upvotes": 166,
     "author": "olliej",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=33362311"
   },
   {
-    "title": "Making an SSH client the hard way",
-    "url": "https://tailscale.com/blog/ssh-console/",
-    "upvotes": 250,
-    "author": "darthShadow",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=33360776"
+    "title": "Artificial Intelligence: The Revolution Hasn’t Happened Yet",
+    "url": "https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7",
+    "upvotes": 38,
+    "author": "okfine",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=33345940"
   },
   {
     "title": "DJ Turntables: Buying Guide by Vekked",
     "url": "https://djtechtools.com/amp/2016/02/15/2016-dj-turntables-buying-guide-dmc-world-champion/",
-    "upvotes": 21,
+    "upvotes": 25,
     "author": "tosh",
-    "comments": 19,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=33316865"
-  },
-  {
-    "title": "Duck DNS – About",
-    "url": "https://www.duckdns.org/about.jsp",
-    "upvotes": 11,
-    "author": "axiomdata316",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33367767"
   },
   {
     "title": "What Is Code?",
     "url": "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/",
-    "upvotes": 78,
+    "upvotes": 84,
     "author": "jbredeche",
-    "comments": 23,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=33331697"
-  },
-  {
-    "title": "Extracting Zooming Shots from 600 Hrs of Police Helicopter Surveillance Footage",
-    "url": "https://lav.io/notes/the-zooms/",
-    "upvotes": 173,
-    "author": "jbegley",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=33362520"
   },
   {
     "title": "Launch HN: MovingLake",
     "url": "https://app.movinglake.com",
-    "upvotes": 113,
+    "upvotes": 115,
     "author": "paezand",
-    "comments": 57,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=33359870"
+  },
+  {
+    "title": "How to write a bootloader from scratch",
+    "url": "https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch",
+    "upvotes": 167,
+    "author": "arkj",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=33360830"
+  },
+  {
+    "title": "Extracting Zooming Shots from 600 Hrs of Police Helicopter Surveillance Footage",
+    "url": "https://lav.io/notes/the-zooms/",
+    "upvotes": 176,
+    "author": "jbegley",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=33362520"
   },
   {
     "title": "Why Is Markdown Popular?",
     "url": "https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html",
-    "upvotes": 12,
+    "upvotes": 25,
     "author": "rcarmo",
-    "comments": 8,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=33368579"
   },
   {
-    "title": "Artificial Intelligence: The Revolution Hasn’t Happened Yet",
-    "url": "https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7",
-    "upvotes": 32,
-    "author": "okfine",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=33345940"
+    "title": "We Designed and Implemented Graph Projection Feature",
+    "url": "https://memgraph.com/blog/how-we-designed-and-implemented-graph-projection-feature",
+    "upvotes": 17,
+    "author": "taubek",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33329041"
   },
   {
     "title": "Bit Twiddling Hacks",
     "url": "https://graphics.stanford.edu/~seander/bithacks.html",
-    "upvotes": 107,
+    "upvotes": 111,
     "author": "memorable",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=33326360"
   },
   {
-    "title": "How to write a bootloader from scratch",
-    "url": "https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch",
-    "upvotes": 160,
-    "author": "arkj",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=33360830"
+    "title": "Reinvent the Wheel",
+    "url": "https://etiennefd.substack.com/p/reinvent-the-wheel",
+    "upvotes": 3,
+    "author": "nz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33352241"
+  },
+  {
+    "title": "Apple Reports Fourth Quarter Results",
+    "url": "https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/",
+    "upvotes": 236,
+    "author": "ckastner",
+    "comments": 437,
+    "link": "https://news.ycombinator.com/item?id=33363621"
   },
   {
     "title": "Group decision making in honey bee swarms",
@@ -164,75 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=33341187"
   },
   {
-    "title": "Apple Reports Fourth Quarter Results",
-    "url": "https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/",
-    "upvotes": 234,
-    "author": "ckastner",
-    "comments": 426,
-    "link": "https://news.ycombinator.com/item?id=33363621"
-  },
-  {
-    "title": "We Designed and Implemented Graph Projection Feature",
-    "url": "https://memgraph.com/blog/how-we-designed-and-implemented-graph-projection-feature",
-    "upvotes": 12,
-    "author": "taubek",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33329041"
-  },
-  {
-    "title": "The changing fortunes of Japanese camera manufacturers",
-    "url": "https://petapixel.com/2022/10/24/the-changing-fortunes-of-japanese-camera-manufacturers/",
-    "upvotes": 72,
-    "author": "bookofjoe",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=33328693"
-  },
-  {
     "title": "Why is hydroelectricity unfashionable?",
     "url": "https://spectrum.ieee.org/hydroelectric-power",
-    "upvotes": 118,
+    "upvotes": 122,
     "author": "TeacherTortoise",
-    "comments": 312,
+    "comments": 322,
     "link": "https://news.ycombinator.com/item?id=33359790"
-  },
-  {
-    "title": "Container queries are finally real",
-    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries",
-    "upvotes": 6,
-    "author": "vincent_s",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33368093"
   },
   {
     "title": "We became experts on Google Play Store policy violations",
     "url": "https://blog.pushbullet.com/2022/10/27/how-we-became-the-worlds-foremost-expert-on-google-play-store-policy-violations/",
-    "upvotes": 399,
+    "upvotes": 408,
     "author": "Guzba",
-    "comments": 196,
+    "comments": 201,
     "link": "https://news.ycombinator.com/item?id=33361311"
-  },
-  {
-    "title": "Specialist – visual representations of CPython 3.11's new adaptive interpreter",
-    "url": "https://pypi.org/project/specialist/",
-    "upvotes": 91,
-    "author": "gjvc",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=33361312"
-  },
-  {
-    "title": "Wild mammal biomass has declined by 85% since the rise of humans",
-    "url": "https://ourworldindata.org/mammals",
-    "upvotes": 263,
-    "author": "astroalex",
-    "comments": 373,
-    "link": "https://news.ycombinator.com/item?id=33362957"
-  },
-  {
-    "title": "Real-time dialogue between experimenters and dreamers during REM sleep",
-    "url": "https://doi.org/10.1016/j.cub.2021.01.026",
-    "upvotes": 103,
-    "author": "lukas099",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=33359802"
   }
 ]
