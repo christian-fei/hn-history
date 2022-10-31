@@ -2,235 +2,235 @@
   {
     "title": "Ousterhout: It's time to replace TCP in the Datacenter [pdf]",
     "url": "https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf",
-    "upvotes": 66,
+    "upvotes": 97,
     "author": "kristianp",
-    "comments": 26,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=33401480"
   },
   {
     "title": "Find your Twitter friends on Mastodon",
     "url": "https://twitodon.com/",
-    "upvotes": 421,
+    "upvotes": 436,
     "author": "srvmshr",
-    "comments": 237,
+    "comments": 252,
     "link": "https://news.ycombinator.com/item?id=33397677"
   },
   {
     "title": "Star Trek",
     "url": "http://leethomson.myzen.co.uk/Star_Trek/1_Original_Series/Star_Trek_Pitch.pdf",
-    "upvotes": 117,
+    "upvotes": 130,
     "author": "spking",
-    "comments": 42,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=33399896"
   },
   {
     "title": "Solarized",
     "url": "https://ethanschoonover.com/solarized/",
-    "upvotes": 39,
+    "upvotes": 53,
     "author": "behnamoh",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=33400822"
+  },
+  {
+    "title": "SQLite – Partial Indexes",
+    "url": "https://www.sqlite.org/partialindex.html",
+    "upvotes": 27,
+    "author": "thunderbong",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33401404"
   },
   {
     "title": "Why Is Symmetry So Important in Particle Physics?",
     "url": "https://mfaizan.github.io/2022/10/02/symmetry.html",
-    "upvotes": 26,
+    "upvotes": 37,
     "author": "mfn",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=33400726"
   },
   {
     "title": "Wiring my home with fiber",
     "url": "https://sschueller.github.io/posts/wiring-a-home-with-fiber/",
-    "upvotes": 492,
+    "upvotes": 498,
     "author": "sschueller",
-    "comments": 238,
+    "comments": 241,
     "link": "https://news.ycombinator.com/item?id=33393540"
-  },
-  {
-    "title": "The Windows servers that have been fueling DDoSes for months",
-    "url": "https://arstechnica.com/information-technology/2022/10/researchers-id-12k-microsoft-servers-that-are-a-ddosers-best-friend/",
-    "upvotes": 27,
-    "author": "kungfudoi",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=33379021"
   },
   {
     "title": "How Iran can track and control protesters’ phones: hacked documents",
     "url": "https://theintercept.com/2022/10/28/iran-protests-phone-surveillance/",
-    "upvotes": 136,
+    "upvotes": 146,
     "author": "wstrange",
-    "comments": 22,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=33398134"
   },
   {
     "title": "Marten: a Crystal web framework",
     "url": "https://martenframework.com",
-    "upvotes": 140,
+    "upvotes": 146,
     "author": "ellmetha",
-    "comments": 53,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=33398253"
   },
   {
-    "title": "A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS",
-    "url": "https://github.com/susam/hello",
-    "upvotes": 111,
-    "author": "susam",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=33398130"
-  },
-  {
-    "title": "Ent: An Entity Framework for Go",
-    "url": "https://github.com/ent/ent",
-    "upvotes": 92,
-    "author": "thunderbong",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=33398806"
+    "title": "The Windows servers that have been fueling DDoSes for months",
+    "url": "https://arstechnica.com/information-technology/2022/10/researchers-id-12k-microsoft-servers-that-are-a-ddosers-best-friend/",
+    "upvotes": 32,
+    "author": "kungfudoi",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=33379021"
   },
   {
     "title": "Traces of ancient ocean discovered on Mars",
     "url": "https://phys.org/news/2022-10-ancient-ocean-mars.html",
-    "upvotes": 17,
+    "upvotes": 24,
     "author": "rbanffy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33370397"
   },
   {
+    "title": "A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS",
+    "url": "https://github.com/susam/hello",
+    "upvotes": 116,
+    "author": "susam",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=33398130"
+  },
+  {
     "title": "If one GUI's not enough for your SPARC workstation, try four",
     "url": "http://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html",
-    "upvotes": 84,
+    "upvotes": 92,
     "author": "zdw",
-    "comments": 40,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=33398600"
+  },
+  {
+    "title": "Ent: An Entity Framework for Go",
+    "url": "https://github.com/ent/ent",
+    "upvotes": 95,
+    "author": "thunderbong",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=33398806"
+  },
+  {
+    "title": "Why Tesla removed radar and ultrasonic sensors [video]",
+    "url": "https://www.youtube.com/watch?v=_W1JBAfV4Io",
+    "upvotes": 141,
+    "author": "shekhar101",
+    "comments": 246,
+    "link": "https://news.ycombinator.com/item?id=33397093"
+  },
+  {
+    "title": "Show HN: Generate quiz questions using AI",
+    "url": "https://quizgecko.com/",
+    "upvotes": 79,
+    "author": "jwblackwell",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=33396942"
+  },
+  {
+    "title": "Show HN: Open-source user onboarding and KYC flow made with Svelte",
+    "url": "https://github.com/ballerine-io/ballerine",
+    "upvotes": 196,
+    "author": "alonp99",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=33396982"
+  },
+  {
+    "title": "“There Seem to be 10 managers for every one dev at Twitter” – Elon",
+    "url": "https://twitter.com/elonmusk/status/1586686935518498816",
+    "upvotes": 41,
+    "author": "robertwt7",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=33401782"
+  },
+  {
+    "title": "Reminiscing: The Retreat to Comforting Work",
+    "url": "https://lethain.com/reminiscing/",
+    "upvotes": 9,
+    "author": "kiyanwang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33378547"
   },
   {
     "title": "Poison Book Project",
     "url": "http://wiki.winterthur.org/wiki/Poison_Book_Project",
     "upvotes": 21,
     "author": "TeacherTortoise",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=33369432"
-  },
-  {
-    "title": "Show HN: Open-source user onboarding and KYC flow made with Svelte",
-    "url": "https://github.com/ballerine-io/ballerine",
-    "upvotes": 195,
-    "author": "alonp99",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=33396982"
-  },
-  {
-    "title": "Why Tesla removed radar and ultrasonic sensors [video]",
-    "url": "https://www.youtube.com/watch?v=_W1JBAfV4Io",
-    "upvotes": 131,
-    "author": "shekhar101",
-    "comments": 226,
-    "link": "https://news.ycombinator.com/item?id=33397093"
-  },
-  {
-    "title": "SQLite – Partial Indexes",
-    "url": "https://www.sqlite.org/partialindex.html",
-    "upvotes": 8,
-    "author": "thunderbong",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33401404"
-  },
-  {
-    "title": "Show HN: Generate quiz questions using AI",
-    "url": "https://quizgecko.com/",
-    "upvotes": 72,
-    "author": "jwblackwell",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=33396942"
   },
   {
     "title": "Charge Robotics",
     "url": "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer"
   },
   {
+    "title": "Diode: Build, program, and simulate hardware projects in the browser",
+    "url": "https://www.withdiode.com/",
+    "upvotes": 90,
+    "author": "bookofjoe",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=33396792"
+  },
+  {
     "title": "Re-using the heat in bathwater in Britain",
     "url": "https://dynomight.net/hot-water/",
-    "upvotes": 129,
+    "upvotes": 132,
     "author": "colinprince",
-    "comments": 163,
+    "comments": 171,
     "link": "https://news.ycombinator.com/item?id=33396764"
   },
   {
     "title": "FAA Traffic Flow Management Design Challenge",
     "url": "https://faa-tfm-aid.nianet.org/challenge-details/",
-    "upvotes": 32,
+    "upvotes": 33,
     "author": "abrax3141",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=33361630"
-  },
-  {
-    "title": "Diode: Build, program, and simulate hardware projects in the browser",
-    "url": "https://www.withdiode.com/",
-    "upvotes": 82,
-    "author": "bookofjoe",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=33396792"
-  },
-  {
-    "title": "PwshPaint: A pixel art editor for the terminal in PowerShell",
-    "url": "https://github.com/ShaunLawrie/PwshPaint",
-    "upvotes": 37,
-    "author": "thunderbong",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=33399632"
   },
   {
     "title": "An Apple II Tale",
     "url": "https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/",
-    "upvotes": 145,
+    "upvotes": 151,
     "author": "blakespot",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=33394636"
   },
   {
+    "title": "PwshPaint: A pixel art editor for the terminal in PowerShell",
+    "url": "https://github.com/ShaunLawrie/PwshPaint",
+    "upvotes": 42,
+    "author": "thunderbong",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33399632"
+  },
+  {
+    "title": "Techniques which allow the sharing of data whilst keeping it secure",
+    "url": "https://www.theguardian.com/technology/2022/oct/29/privacy-problem-tech-enhancing-data-political-legal",
+    "upvotes": 55,
+    "author": "jinnko",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=33397634"
+  },
+  {
     "title": "Reversible and irreversible decisions",
     "url": "https://fs.blog/reversible-irreversible-decisions/",
-    "upvotes": 85,
+    "upvotes": 89,
     "author": "durmonski",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=33397060"
   },
   {
     "title": "The Essential Philip K. Dick",
     "url": "https://www.nytimes.com/2022/10/26/books/best-philip-k-dick-novels.html",
-    "upvotes": 149,
+    "upvotes": 153,
     "author": "benbreen",
-    "comments": 112,
+    "comments": 116,
     "link": "https://news.ycombinator.com/item?id=33352668"
-  },
-  {
-    "title": "Techniques which allow the sharing of data whilst keeping it secure",
-    "url": "https://www.theguardian.com/technology/2022/oct/29/privacy-problem-tech-enhancing-data-political-legal",
-    "upvotes": 49,
-    "author": "jinnko",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=33397634"
-  },
-  {
-    "title": "AT Protocol Overview",
-    "url": "https://atproto.com/guides/overview",
-    "upvotes": 22,
-    "author": "pr337h4m",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=33399402"
-  },
-  {
-    "title": "Things your manager might not know",
-    "url": "https://jvns.ca/blog/things-your-manager-might-not-know/",
-    "upvotes": 202,
-    "author": "piinbinary",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=33394033"
   },
   {
     "title": "Walking streetlamps for hire in seventeenth-century London",
     "url": "https://daily.jstor.org/walking-streetlamps-for-hire-in-seventeenth-century-london/",
-    "upvotes": 67,
+    "upvotes": 72,
     "author": "pepys",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=33380877"
