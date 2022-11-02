@@ -1,238 +1,238 @@
 [
   {
+    "title": "LemmyBB, a federated bulletin board",
+    "url": "https://join-lemmy.org/news/2022-11-02-_First_release_of_LemmyBB",
+    "upvotes": 51,
+    "author": "ZacnyLos",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=33438493"
+  },
+  {
     "title": "TomTom’s new mapping platform and ecosystem",
     "url": "https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/",
-    "upvotes": 424,
+    "upvotes": 453,
     "author": "gru",
-    "comments": 313,
+    "comments": 334,
     "link": "https://news.ycombinator.com/item?id=33432720"
+  },
+  {
+    "title": "Grafana Phlare, open source database for continuous profiling at scale",
+    "url": "https://grafana.com/blog/2022/11/02/announcing-grafana-phlare-oss-continuous-profiling-database/",
+    "upvotes": 62,
+    "author": "PaulWaldman",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33437419"
   },
   {
     "title": "An AI generated, never-ending discussion between Werner Herzog and Slavoj ŽIžek",
     "url": "https://infiniteconversation.com/",
-    "upvotes": 45,
+    "upvotes": 127,
     "author": "hrbf",
-    "comments": 14,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=33437296"
+  },
+  {
+    "title": "Aegis Authenticator – Secure 2FA App for Android",
+    "url": "https://getaegis.app/",
+    "upvotes": 16,
+    "author": "DerekBickerton",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33438540"
+  },
+  {
+    "title": "Dozens of malicious PyPI packages discovered targeting developers",
+    "url": "https://blog.phylum.io/phylum-discovers-dozens-more-pypi-packages-attempting-to-deliver-w4sp-stealer-in-ongoing-supply-chain-attack",
+    "upvotes": 11,
+    "author": "louislang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33438678"
+  },
+  {
+    "title": "The Problem with Go",
+    "url": "https://vanitynotes.com/posts/20221101-the-real-problem-with-go",
+    "upvotes": 7,
+    "author": "nnnand",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33439021"
+  },
+  {
+    "title": "NEONnoir is a hybrid point-and-click adventure/visual novel game for the Amiga",
+    "url": "https://steamknight.itch.io/neonnoir",
+    "upvotes": 21,
+    "author": "doener",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33438092"
+  },
+  {
+    "title": "Demo of =GPT3",
+    "url": "https://twitter.com/shubroski/status/1587136794797244417",
+    "upvotes": 30,
+    "author": "drewp",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=33411748"
   },
   {
     "title": "The pool of talented C++ developers is running dry",
     "url": "https://www.efinancialcareers.com/news/2022/11/why-is-there-a-drought-in-the-talent-pool-for-c-developers",
-    "upvotes": 97,
+    "upvotes": 167,
     "author": "pjmlp",
-    "comments": 192,
+    "comments": 329,
     "link": "https://news.ycombinator.com/item?id=33436268"
   },
   {
     "title": "AlphaFold’s new rival? Meta AI predicts shape of 600M proteins",
     "url": "https://www.nature.com/articles/d41586-022-03539-1",
-    "upvotes": 93,
+    "upvotes": 116,
     "author": "pseudolus",
-    "comments": 16,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=33433583"
   },
   {
-    "title": "OpenSSL added new C parser code [...] without doing any basic security testing",
-    "url": "https://twitter.com/hanno/status/1587775675397726209",
-    "upvotes": 33,
-    "author": "pentestercrab",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=33437158"
-  },
-  {
-    "title": "Commission proposes to accelerate the rollout of instant payments in euro",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_22_6272",
-    "upvotes": 76,
-    "author": "rocketbop",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=33435720"
-  },
-  {
-    "title": "Functional programming should be the future of software",
-    "url": "https://spectrum.ieee.org/functional-programming",
-    "upvotes": 212,
-    "author": "g4k",
-    "comments": 251,
-    "link": "https://news.ycombinator.com/item?id=33433783"
-  },
-  {
-    "title": "The first minute of every phone call is torture now",
-    "url": "https://www.theatlantic.com/technology/archive/2022/10/phone-call-greeting-smartphone-technological-error/671910/",
-    "upvotes": 130,
-    "author": "firstbase",
-    "comments": 235,
-    "link": "https://news.ycombinator.com/item?id=33409109"
-  },
-  {
-    "title": "C++ is the next C++",
-    "url": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html",
-    "upvotes": 59,
-    "author": "GarethX",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=33434092"
-  },
-  {
-    "title": "AskEdith – Never write SQL from scratch again",
+    "title": "AskEdith – Natural language interface for databases",
     "url": "https://www.askedith.ai/",
-    "upvotes": 9,
+    "upvotes": 41,
     "author": "WallyFunk",
-    "comments": null,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=33435361"
+  },
+  {
+    "title": "GitHub availability report: October 2022",
+    "url": "https://github.blog/2022-11-02-github-availability-report-october-2022/",
+    "upvotes": 11,
+    "author": "edmorley",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33438729"
+  },
+  {
+    "title": "T-Mobile will start charging a $35 fee on all new activations and upgrades",
+    "url": "https://www.engadget.com/t-mobile-will-start-charging-a-35-fee-on-all-new-activations-and-upgrades-065518011.html",
+    "upvotes": 120,
+    "author": "mfiguiere",
+    "comments": 169,
+    "link": "https://news.ycombinator.com/item?id=33437791"
+  },
+  {
+    "title": "Seeking the Productive Life: Some Details of My Personal Infrastructure",
+    "url": "https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/",
+    "upvotes": 11,
+    "author": "pcr910303",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33437911"
   },
   {
     "title": "SpaceX is now building a Raptor engine a day, NASA says",
     "url": "https://arstechnica.com/science/2022/11/spacex-is-now-building-a-raptor-engine-a-day-nasa-says/",
-    "upvotes": 20,
+    "upvotes": 89,
     "author": "PaulHoule",
-    "comments": 2,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=33436918"
   },
   {
-    "title": "Scientists Increasingly Can’t Explain How AI Works",
-    "url": "https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works",
-    "upvotes": 95,
-    "author": "isaacfrond",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=33434512"
+    "title": "Niches Are Overrated",
+    "url": "https://scottjack.me/niches-are-overrated/",
+    "upvotes": 15,
+    "author": "memorable",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33431541"
   },
   {
-    "title": "How rate hikes are affecting the economy",
-    "url": "https://www.apricitas.io/p/how-rate-hikes-are-affecting-the",
-    "upvotes": 90,
-    "author": "paulpauper",
-    "comments": 159,
-    "link": "https://news.ycombinator.com/item?id=33430660"
-  },
-  {
-    "title": "NASA finds super-emitters of methane",
-    "url": "https://www.smithsonianmag.com/smart-news/nasa-finds-more-than-50-super-emitters-of-methane-180981045/",
-    "upvotes": 695,
-    "author": "walterbell",
-    "comments": 324,
-    "link": "https://news.ycombinator.com/item?id=33427157"
-  },
-  {
-    "title": "Why Are so Many Babies Born around 8:00 A.M.?",
-    "url": "https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/",
-    "upvotes": 23,
-    "author": "batirch",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=33435695"
+    "title": "OpenSSL added new C parser code [...] without doing any basic security testing",
+    "url": "https://twitter.com/hanno/status/1587775675397726209",
+    "upvotes": 74,
+    "author": "pentestercrab",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=33437158"
   },
   {
     "title": "Doing what you love when the money won’t follow",
     "url": "https://loveofallwisdom.com/blog/2022/06/doing-what-you-love-when-the-money-wont-follow/",
-    "upvotes": 7,
+    "upvotes": 31,
     "author": "yamrzou",
-    "comments": 5,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=33434326"
   },
   {
-    "title": "Ask HN: How to deal with burnout and its consequences?",
-    "url": "item?id=33434742",
-    "upvotes": 125,
-    "author": "ThrowAway1922A",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=33434742"
+    "title": "Psychedelics: A Personal Take",
+    "url": "https://ava.substack.com/p/psychedelics-a-personal-take",
+    "upvotes": 31,
+    "author": "yamrzou",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=33435140"
   },
   {
-    "title": "Protonmail can delete the wrong email and nobody cares",
-    "url": "https://github.com/ProtonMail/proton-bridge/issues/220",
-    "upvotes": 372,
-    "author": "julienpalard",
-    "comments": 181,
-    "link": "https://news.ycombinator.com/item?id=33432296"
+    "title": "U.S. pushes Japan and other allies to join China chip curbs",
+    "url": "https://asia.nikkei.com/Politics/International-relations/U.S.-pushes-Japan-and-other-allies-to-join-China-chip-curbs",
+    "upvotes": 42,
+    "author": "rntn",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=33437358"
+  },
+  {
+    "title": "Typing the Technical Interview",
+    "url": "https://aphyr.com/posts/342-typing-the-technical-interview",
+    "upvotes": 4,
+    "author": "weatherlight",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33438726"
+  },
+  {
+    "title": "Playstation VR2",
+    "url": "https://www.theverge.com/2022/11/2/23436550/sony-playstation-vr2-release-date-price-features-games",
+    "upvotes": 71,
+    "author": "mfiguiere",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=33436157"
+  },
+  {
+    "title": "The first minute of every phone call is torture now",
+    "url": "https://www.theatlantic.com/technology/archive/2022/10/phone-call-greeting-smartphone-technological-error/671910/",
+    "upvotes": 154,
+    "author": "firstbase",
+    "comments": 296,
+    "link": "https://news.ycombinator.com/item?id=33409109"
+  },
+  {
+    "title": "Windows 11 runs on fewer than 1 in 6 PCs",
+    "url": "https://www.theregister.com/2022/11/02/windows_11_statcounter/",
+    "upvotes": 13,
+    "author": "LinuxBender",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=33438877"
   },
   {
     "title": "PhotoRoom Is Hiring a Senior Backend Engineer",
     "url": "https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
   },
   {
-    "title": "Rakuten Mobile is replacing Red Hat as its Linux OS supplier",
-    "url": "https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/",
-    "upvotes": 162,
-    "author": "kuschkufan",
-    "comments": 130,
-    "link": "https://news.ycombinator.com/item?id=33432746"
+    "title": "Functional programming should be the future of software",
+    "url": "https://spectrum.ieee.org/functional-programming",
+    "upvotes": 239,
+    "author": "g4k",
+    "comments": 311,
+    "link": "https://news.ycombinator.com/item?id=33433783"
   },
   {
-    "title": "Urlscan.io’s SOAR spot: Chatty security tools leaking private data",
-    "url": "https://positive.security/blog/urlscan-data-leaks",
-    "upvotes": 53,
-    "author": "kerm1t",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33435002"
-  },
-  {
-    "title": "Playstation VR2",
-    "url": "https://www.theverge.com/2022/11/2/23436550/sony-playstation-vr2-release-date-price-features-games",
-    "upvotes": 46,
-    "author": "mfiguiere",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=33436157"
-  },
-  {
-    "title": "Psychedelics: A Personal Take",
-    "url": "https://ava.substack.com/p/psychedelics-a-personal-take",
-    "upvotes": 7,
-    "author": "yamrzou",
+    "title": "One in Eight U.S. Adult Deaths Involved Too Much Alcohol",
+    "url": "https://www.medpagetoday.com/gastroenterology/generalhepatology/101519",
+    "upvotes": 5,
+    "author": "gmays",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33435140"
+    "link": "https://news.ycombinator.com/item?id=33439221"
   },
   {
-    "title": "Ask HN: Carrier “lost” my number in a port request",
-    "url": "item?id=33434153",
-    "upvotes": 220,
-    "author": "bojangleslover",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=33434153"
+    "title": "How rate hikes are affecting the economy",
+    "url": "https://www.apricitas.io/p/how-rate-hikes-are-affecting-the",
+    "upvotes": 102,
+    "author": "paulpauper",
+    "comments": 177,
+    "link": "https://news.ycombinator.com/item?id=33430660"
   },
   {
-    "title": "See a Satellite Tonight",
-    "url": "https://james.darpinian.com/satellites/",
-    "upvotes": 60,
-    "author": "jonbaer",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=33425697"
-  },
-  {
-    "title": "U.S. pushes Japan and other allies to join China chip curbs",
-    "url": "https://asia.nikkei.com/Politics/International-relations/U.S.-pushes-Japan-and-other-allies-to-join-China-chip-curbs",
-    "upvotes": 6,
-    "author": "rntn",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33437358"
-  },
-  {
-    "title": "An unwilling illustrator found herself turned into an AI model",
-    "url": "https://waxy.org/2022/11/invasive-diffusion-how-one-unwilling-illustrator-found-herself-turned-into-an-ai-model/",
-    "upvotes": 642,
-    "author": "ghuntley",
-    "comments": 702,
-    "link": "https://news.ycombinator.com/item?id=33422990"
-  },
-  {
-    "title": "OpenSSL 3.0.7 fixes X.509 email address buffer overflows",
-    "url": "https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/",
-    "upvotes": 571,
-    "author": "petecooper",
-    "comments": 225,
-    "link": "https://news.ycombinator.com/item?id=33422837"
-  },
-  {
-    "title": "Overwatch: Learning patterns in code edit sequences",
-    "url": "https://arxiv.org/abs/2207.12456",
-    "upvotes": 46,
-    "author": "azhenley",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=33410220"
-  },
-  {
-    "title": "Selling Blue Checks hits the reset button on Twitter's anointed elite",
-    "url": "https://boingboing.net/2022/11/02/musk-haggles-over-price-of-a-checkmark.html",
-    "upvotes": 4,
-    "author": "Balgair",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33437455"
+    "title": "NASA finds super-emitters of methane",
+    "url": "https://www.smithsonianmag.com/smart-news/nasa-finds-more-than-50-super-emitters-of-methane-180981045/",
+    "upvotes": 706,
+    "author": "walterbell",
+    "comments": 326,
+    "link": "https://news.ycombinator.com/item?id=33427157"
   }
 ]
