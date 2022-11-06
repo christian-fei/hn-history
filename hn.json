@@ -1,148 +1,196 @@
 [
   {
+    "title": "BBC: Twitter users jump to Mastodon – but what is it?",
+    "url": "https://www.bbc.com/news/technology-63534240",
+    "upvotes": 138,
+    "author": "app4soft",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=33495817"
+  },
+  {
     "title": "Helix: Post-Modern Text Editor",
     "url": "https://helix-editor.com/",
-    "upvotes": 138,
+    "upvotes": 198,
     "author": "ingve",
-    "comments": 33,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=33494840"
+  },
+  {
+    "title": "Building a BitTorrent client from the ground up in Go",
+    "url": "https://blog.jse.li/posts/torrent/",
+    "upvotes": 76,
+    "author": "stargrave",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33495328"
+  },
+  {
+    "title": "proofInAToot",
+    "url": "https://mathstodon.xyz/tags/proofInAToot",
+    "upvotes": 33,
+    "author": "perihelions",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=33495876"
+  },
+  {
+    "title": "What to Blog About",
+    "url": "https://simonwillison.net/2022/Nov/6/what-to-blog-about/",
+    "upvotes": 41,
+    "author": "Tomte",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33495295"
   },
   {
     "title": "The Lonely Runner Conjecture",
     "url": "https://en.wikipedia.org/wiki/Lonely_runner_conjecture",
-    "upvotes": 17,
+    "upvotes": 41,
     "author": "xk3",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=33495496"
   },
   {
     "title": "3D map of the Czech Republic, made from 12.5cm/px imagery",
     "url": "https://mapy.cz/zakladni?m3d=1&height=1100&yaw=234&pitch=-18&l=0&x=13.7549779&y=50.5258665&z=17&base=ophoto",
-    "upvotes": 227,
+    "upvotes": 245,
     "author": "Toutouxc",
-    "comments": 68,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=33491697"
   },
   {
     "title": "Body Doubling",
     "url": "https://bodydoubling.com/",
-    "upvotes": 131,
+    "upvotes": 153,
     "author": "snee",
-    "comments": 76,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=33478562"
+  },
+  {
+    "title": "Explore some of the finest open-source software out there",
+    "url": "https://tchncs.de/",
+    "upvotes": 20,
+    "author": "doener",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33495746"
   },
   {
     "title": "Show HN: Feep! search, an independent search engine for programmers",
     "url": "https://search.feep.dev",
-    "upvotes": 46,
+    "upvotes": 59,
     "author": "wolfgang42",
-    "comments": 22,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=33494221"
   },
   {
     "title": "EU Voice",
     "url": "https://social.network.europa.eu/about/more",
-    "upvotes": 241,
+    "upvotes": 265,
     "author": "doener",
-    "comments": 142,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=33491433"
-  },
-  {
-    "title": "Galois field instructions on 2021 CPUs",
-    "url": "http://www.corsix.org/content/galois-field-instructions-2021-cpus",
-    "upvotes": 97,
-    "author": "082349872349872",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=33492770"
-  },
-  {
-    "title": "What to Blog About",
-    "url": "https://simonwillison.net/2022/Nov/6/what-to-blog-about/",
-    "upvotes": 14,
-    "author": "Tomte",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=33495295"
-  },
-  {
-    "title": "Making a DNS query in Ruby from scratch",
-    "url": "https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/",
-    "upvotes": 32,
-    "author": "guiambros",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=33494386"
   },
   {
     "title": "Motion",
     "url": "https://jobs.ashbyhq.com/motion?utm_source=hn"
   },
   {
+    "title": "Making a DNS query in Ruby from scratch",
+    "url": "https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/",
+    "upvotes": 49,
+    "author": "guiambros",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=33494386"
+  },
+  {
+    "title": "Galois field instructions on 2021 CPUs",
+    "url": "http://www.corsix.org/content/galois-field-instructions-2021-cpus",
+    "upvotes": 112,
+    "author": "082349872349872",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=33492770"
+  },
+  {
     "title": "Microneedle patch digs deep to regenerate hair in bald mice",
     "url": "https://newatlas.com/science/microneedle-patch-deep-regenerate-hair-bald-mice/",
-    "upvotes": 24,
+    "upvotes": 33,
     "author": "clouddrover",
-    "comments": 13,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=33485824"
   },
   {
-    "title": "Ancient water system uncovered at Roman Stabiae",
-    "url": "https://www.heritagedaily.com/2022/11/ancient-water-system-uncovered-at-roman-stabiae/145135",
-    "upvotes": 61,
-    "author": "redbell",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=33492794"
-  },
-  {
-    "title": "Building a BitTorrent client from the ground up in Go",
-    "url": "https://blog.jse.li/posts/torrent/",
-    "upvotes": 10,
-    "author": "stargrave",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33495328"
+    "title": "Why Prehistoric Herders Didn’t Spit Out Their Watermelon Seeds",
+    "url": "https://www.smithsonianmag.com/science-nature/watermelon-seeds-were-snacked-before-its-flesh-became-sweet-180981008/",
+    "upvotes": 18,
+    "author": "sohkamyung",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33463077"
   },
   {
     "title": "Moon Disaster",
     "url": "https://moondisaster.org/",
-    "upvotes": 161,
+    "upvotes": 183,
     "author": "plurby",
-    "comments": 66,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=33491421"
+  },
+  {
+    "title": "Ancient water system uncovered at Roman Stabiae",
+    "url": "https://www.heritagedaily.com/2022/11/ancient-water-system-uncovered-at-roman-stabiae/145135",
+    "upvotes": 72,
+    "author": "redbell",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=33492794"
+  },
+  {
+    "title": "Cartography shows that the Isthmus of Tehuantepec used as inter-oceanic passage",
+    "url": "https://phys.org/news/2022-10-cartography-isthmus-tehuantepec-inter-oceanic-passage.html",
+    "upvotes": 7,
+    "author": "bryanrasmussen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33486478"
   },
   {
     "title": "The essence of Reed-Solomon coding",
     "url": "https://mazzo.li/posts/reed-solomon.html",
-    "upvotes": 74,
+    "upvotes": 83,
     "author": "rostayob",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=33492716"
   },
   {
     "title": "Bike: Innovative Rich Text Editing",
     "url": "https://www.hogbaysoftware.com/posts/bike-rich-text/",
-    "upvotes": 426,
+    "upvotes": 441,
     "author": "goranmoomin",
-    "comments": 112,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=33489123"
-  },
-  {
-    "title": "Show HN: Lotus – Open Source Pricing and Packaging Infrastructure",
-    "url": "https://github.com/uselotus/lotus",
-    "upvotes": 35,
-    "author": "mikaeln",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=33494284"
   },
   {
     "title": "The elite, underpaid, and weird world of crossword writers",
     "url": "https://newrepublic.com/article/167270/crossword-labor-market-times",
-    "upvotes": 40,
+    "upvotes": 49,
     "author": "anarbadalov",
-    "comments": 13,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=33481450"
+  },
+  {
+    "title": "Nearly all binary searches and mergesorts are broken",
+    "url": "https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html",
+    "upvotes": 119,
+    "author": "finnlab",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=33492122"
+  },
+  {
+    "title": "Show HN: Lotus – Open Source Pricing and Packaging Infrastructure",
+    "url": "https://github.com/uselotus/lotus",
+    "upvotes": 42,
+    "author": "mikaeln",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=33494284"
   },
   {
     "title": "Zero point leet seconds",
     "url": "https://susam.net/blog/zero-point-leet-seconds.html",
-    "upvotes": 97,
+    "upvotes": 102,
     "author": "susam",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=33491350"
@@ -150,89 +198,41 @@
   {
     "title": "Home truths about macOS",
     "url": "https://eclecticlight.co/2022/11/06/last-week-on-my-mac-home-truths-about-macos/",
-    "upvotes": 129,
+    "upvotes": 140,
     "author": "ingve",
-    "comments": 122,
+    "comments": 134,
     "link": "https://news.ycombinator.com/item?id=33491781"
-  },
-  {
-    "title": "Why Prehistoric Herders Didn’t Spit Out Their Watermelon Seeds",
-    "url": "https://www.smithsonianmag.com/science-nature/watermelon-seeds-were-snacked-before-its-flesh-became-sweet-180981008/",
-    "upvotes": 5,
-    "author": "sohkamyung",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33463077"
   },
   {
     "title": "Make your DOM look like an eye that can focus on anything",
     "url": "https://github.com/jj811208/watching-you",
-    "upvotes": 151,
+    "upvotes": 158,
     "author": "jj811208",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=33490456"
   },
   {
-    "title": "Mastodon's founder has a vision to democratize social media",
-    "url": "https://time.com/6229230/mastodon-eugen-rochko-interview/",
-    "upvotes": 142,
-    "author": "buovjaga",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=33493433"
-  },
-  {
-    "title": "Explore some of the finest open-source software out there",
-    "url": "https://tchncs.de/",
-    "upvotes": 3,
-    "author": "doener",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33495746"
-  },
-  {
-    "title": "Nearly all binary searches and mergesorts are broken",
-    "url": "https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html",
-    "upvotes": 106,
-    "author": "finnlab",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=33492122"
-  },
-  {
     "title": "Lessons from the invention of the thermometer",
     "url": "https://antonhowes.substack.com/p/age-of-invention-getting-into-hot",
-    "upvotes": 20,
+    "upvotes": 27,
     "author": "firstSpeaker",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33484237"
-  },
-  {
-    "title": "Twilight: A Differentially Private Payment Channel Network",
-    "url": "https://www.usenix.org/conference/usenixsecurity22/presentation/dotan",
-    "upvotes": 50,
-    "author": "nobody9999",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=33491662"
-  },
-  {
-    "title": "eBPF – Adding functionality to OS at runtime",
-    "url": "https://ebpf.io/what-is-ebpf/",
-    "upvotes": 56,
-    "author": "truth_seeker",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=33489935"
   },
   {
     "title": "Full Text and Vector Search for Firestore with Weaviate",
     "url": "https://samos-it.com/posts/full-text-search-for-firestore-with-weaviate.html",
-    "upvotes": 9,
+    "upvotes": 14,
     "author": "thirdtrigger",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=33494885"
   },
   {
-    "title": "Git as a janky Twitter replacement",
-    "url": "https://github.com/diracdeltas/tweets",
-    "upvotes": 282,
-    "author": "est",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=33488996"
+    "title": "eBPF – Adding functionality to OS at runtime",
+    "url": "https://ebpf.io/what-is-ebpf/",
+    "upvotes": 67,
+    "author": "truth_seeker",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=33489935"
   }
 ]
