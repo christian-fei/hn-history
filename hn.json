@@ -1,24 +1,40 @@
 [
   {
+    "title": "Apple Execs on iMessage for Android",
+    "url": "https://twitter.com/techemails/status/1589450766506692609",
+    "upvotes": 52,
+    "author": "mfiguiere",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=33500579"
+  },
+  {
+    "title": "If you die in the game, you die in real life",
+    "url": "https://palmerluckey.com/if-you-die-in-the-game-you-die-in-real-life/",
+    "upvotes": 17,
+    "author": "buu700",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=33500710"
+  },
+  {
     "title": "Almost monospaced: the perfect fonts for writing",
     "url": "https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/",
-    "upvotes": 123,
+    "upvotes": 156,
     "author": "blakewatson",
-    "comments": 54,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=33498799"
   },
   {
     "title": "How to rip audio CDs 2022 – with drive accuracy listing",
     "url": "https://pilabor.com/blog/2022/10/audio-cd-ripping-hardware/",
-    "upvotes": 49,
+    "upvotes": 68,
     "author": "sandreas",
-    "comments": 35,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=33499646"
   },
   {
     "title": "Building a BitTorrent client from the ground up in Go",
     "url": "https://blog.jse.li/posts/torrent/",
-    "upvotes": 383,
+    "upvotes": 400,
     "author": "stargrave",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=33495328"
@@ -26,7 +42,7 @@
   {
     "title": "drgn: A programmable C debugger, scriptable from Python",
     "url": "https://github.com/osandov/drgn",
-    "upvotes": 55,
+    "upvotes": 68,
     "author": "pizza",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33486962"
@@ -34,135 +50,143 @@
   {
     "title": "Sega is keeping mini consoles alive",
     "url": "https://www.theverge.com/23439097/sega-genesis-mini-2-astro-city-mini-v-retro-consoles",
-    "upvotes": 28,
+    "upvotes": 36,
     "author": "redbell",
-    "comments": 5,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=33485790"
   },
   {
     "title": "Barilla passive cooker",
     "url": "https://www.barilla.com/en-gb/passive-cooking",
-    "upvotes": 300,
+    "upvotes": 321,
     "author": "cunidev",
-    "comments": 320,
+    "comments": 326,
     "link": "https://news.ycombinator.com/item?id=33497020"
+  },
+  {
+    "title": "Honda electric moped coming, intended to fit “50cc” category",
+    "url": "https://www.cycleworld.com/story/motorcycle-news/honda-electric-moped-coming-soon/",
+    "upvotes": 61,
+    "author": "ilamont",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=33497795"
   },
   {
     "title": "What to blog about",
     "url": "https://simonwillison.net/2022/Nov/6/what-to-blog-about/",
-    "upvotes": 213,
+    "upvotes": 225,
     "author": "Tomte",
-    "comments": 70,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=33495295"
   },
   {
     "title": "Update on Supply of iPhone 14 Pro and iPhone 14 Pro Max",
     "url": "https://www.apple.com/newsroom/2022/11/update-on-supply-of-iphone-14-pro-and-iphone-14-pro-max/",
-    "upvotes": 235,
+    "upvotes": 244,
     "author": "feross",
-    "comments": 258,
+    "comments": 272,
     "link": "https://news.ycombinator.com/item?id=33498342"
-  },
-  {
-    "title": "Honda electric moped coming, intended to fit “50cc” category",
-    "url": "https://www.cycleworld.com/story/motorcycle-news/honda-electric-moped-coming-soon/",
-    "upvotes": 41,
-    "author": "ilamont",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=33497795"
   },
   {
     "title": "Body Doubling",
     "url": "https://bodydoubling.com/",
-    "upvotes": 269,
+    "upvotes": 277,
     "author": "snee",
-    "comments": 167,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=33478562"
-  },
-  {
-    "title": "Wells Fargo mortgage staff brace for layoffs as U.S. loan volumes collapse",
-    "url": "https://www.cnbc.com/2022/11/02/wells-fargo-mortgage-staff-brace-for-layoffs-as-us-loan-volumes-collapse.html",
-    "upvotes": 32,
-    "author": "paulpauper",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=33500168"
-  },
-  {
-    "title": "3D map of the Czech Republic, made from 12.5cm/px imagery",
-    "url": "https://mapy.cz/zakladni?m3d=1&height=1100&yaw=234&pitch=-18&l=0&x=13.7549779&y=50.5258665&z=17&base=ophoto",
-    "upvotes": 300,
-    "author": "Toutouxc",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=33491697"
-  },
-  {
-    "title": "Making a DNS query in Ruby from scratch",
-    "url": "https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/",
-    "upvotes": 134,
-    "author": "guiambros",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=33494386"
-  },
-  {
-    "title": "Janus-UAE",
-    "url": "https://github.com/BlitterStudio/janus-uae",
-    "upvotes": 5,
-    "author": "doener",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33485974"
-  },
-  {
-    "title": "The lonely runner conjecture",
-    "url": "https://en.wikipedia.org/wiki/Lonely_runner_conjecture",
-    "upvotes": 109,
-    "author": "xk3",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=33495496"
-  },
-  {
-    "title": "Show HN: Feep! search, an independent search engine for programmers",
-    "url": "https://search.feep.dev",
-    "upvotes": 131,
-    "author": "wolfgang42",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=33494221"
-  },
-  {
-    "title": "Anscombe's Quartet",
-    "url": "https://en.wikipedia.org/wiki/Anscombe%27s_quartet",
-    "upvotes": 36,
-    "author": "tosh",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33486949"
-  },
-  {
-    "title": "Writing as Microcosm, Part One: Publish and Perish",
-    "url": "https://www.ecosophia.net/writing-as-microcosm-part-one-publish-and-perish/",
-    "upvotes": 25,
-    "author": "Ambolia",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=33485952"
-  },
-  {
-    "title": "Bloated college administration is making education unaffordable",
-    "url": "https://quillette.com/2022/11/02/bloated-college-administration-is-making-education-unaffordable/",
-    "upvotes": 212,
-    "author": "tomohawk",
-    "comments": 191,
-    "link": "https://news.ycombinator.com/item?id=33496246"
   },
   {
     "title": "The Interactive Fiction Competition",
     "url": "https://ifcomp.org/",
-    "upvotes": 6,
+    "upvotes": 17,
     "author": "clouddrover",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=33499734"
   },
   {
+    "title": "Wells Fargo mortgage staff brace for layoffs as U.S. loan volumes collapse",
+    "url": "https://www.cnbc.com/2022/11/02/wells-fargo-mortgage-staff-brace-for-layoffs-as-us-loan-volumes-collapse.html",
+    "upvotes": 47,
+    "author": "paulpauper",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=33500168"
+  },
+  {
+    "title": "Janus-UAE",
+    "url": "https://github.com/BlitterStudio/janus-uae",
+    "upvotes": 9,
+    "author": "doener",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33485974"
+  },
+  {
+    "title": "Making a DNS query in Ruby from scratch",
+    "url": "https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/",
+    "upvotes": 141,
+    "author": "guiambros",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=33494386"
+  },
+  {
+    "title": "Show HN: Feep! search, an independent search engine for programmers",
+    "url": "https://search.feep.dev",
+    "upvotes": 137,
+    "author": "wolfgang42",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=33494221"
+  },
+  {
+    "title": "The lonely runner conjecture",
+    "url": "https://en.wikipedia.org/wiki/Lonely_runner_conjecture",
+    "upvotes": 111,
+    "author": "xk3",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=33495496"
+  },
+  {
+    "title": "Using Sound to Model the World",
+    "url": "https://news.mit.edu/2022/sound-model-ai-1101",
+    "upvotes": 4,
+    "author": "redbell",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33486474"
+  },
+  {
+    "title": "Anscombe's Quartet",
+    "url": "https://en.wikipedia.org/wiki/Anscombe%27s_quartet",
+    "upvotes": 37,
+    "author": "tosh",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33486949"
+  },
+  {
+    "title": "Bloated college administration is making education unaffordable",
+    "url": "https://quillette.com/2022/11/02/bloated-college-administration-is-making-education-unaffordable/",
+    "upvotes": 232,
+    "author": "tomohawk",
+    "comments": 212,
+    "link": "https://news.ycombinator.com/item?id=33496246"
+  },
+  {
+    "title": "Migrate from Linux to FreeBSD",
+    "url": "https://klarasystems.com/articles/easily-migrate-from-linux-to-freebsd/",
+    "upvotes": 4,
+    "author": "gravitate",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33500664"
+  },
+  {
+    "title": "Writing as Microcosm, Part One: Publish and Perish",
+    "url": "https://www.ecosophia.net/writing-as-microcosm-part-one-publish-and-perish/",
+    "upvotes": 28,
+    "author": "Ambolia",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=33485952"
+  },
+  {
     "title": "Galois field instructions on 2021 CPUs",
     "url": "http://www.corsix.org/content/galois-field-instructions-2021-cpus",
-    "upvotes": 149,
+    "upvotes": 150,
     "author": "082349872349872",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=33492770"
@@ -170,43 +194,35 @@
   {
     "title": "Ancient water system uncovered at Roman Stabiae",
     "url": "https://www.heritagedaily.com/2022/11/ancient-water-system-uncovered-at-roman-stabiae/145135",
-    "upvotes": 114,
+    "upvotes": 116,
     "author": "redbell",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=33492794"
   },
   {
     "title": "The essence of Reed-Solomon coding",
     "url": "https://mazzo.li/posts/reed-solomon.html",
-    "upvotes": 139,
+    "upvotes": 145,
     "author": "rostayob",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=33492716"
+  },
+  {
+    "title": "An antiwar masterpiece misunderstood… or was it? [video]",
+    "url": "https://www.youtube.com/watch?v=Lxl27kONQDM",
+    "upvotes": 55,
+    "author": "doener",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=33486412"
   },
   {
     "title": "Motion",
     "url": "https://jobs.ashbyhq.com/motion?utm_source=hn"
   },
   {
-    "title": "An antiwar masterpiece misunderstood… or was it? [video]",
-    "url": "https://www.youtube.com/watch?v=Lxl27kONQDM",
-    "upvotes": 51,
-    "author": "doener",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=33486412"
-  },
-  {
-    "title": "Why prehistoric herders didn’t spit out their watermelon seeds",
-    "url": "https://www.smithsonianmag.com/science-nature/watermelon-seeds-were-snacked-before-its-flesh-became-sweet-180981008/",
-    "upvotes": 51,
-    "author": "sohkamyung",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=33463077"
-  },
-  {
     "title": "Show HN: Lotus – Open source pricing and packaging infrastructure",
     "url": "https://github.com/uselotus/lotus",
-    "upvotes": 83,
+    "upvotes": 89,
     "author": "mikaeln",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=33494284"
@@ -214,25 +230,9 @@
   {
     "title": "The elite, underpaid, and weird world of crossword writers",
     "url": "https://newrepublic.com/article/167270/crossword-labor-market-times",
-    "upvotes": 94,
+    "upvotes": 99,
     "author": "anarbadalov",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=33481450"
-  },
-  {
-    "title": "Twitter lays off 1000 California, primarily San Francisco, employees",
-    "url": "https://www.mercurynews.com/2022/11/05/twitter-layoff-job-cut-elon-musk-tech-economy-bay-area-900-state-1000/",
-    "upvotes": 26,
-    "author": "crhulls",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=33500412"
-  },
-  {
-    "title": "Microneedle patch digs deep to regenerate hair in bald mice",
-    "url": "https://newatlas.com/science/microneedle-patch-deep-regenerate-hair-bald-mice/",
-    "upvotes": 72,
-    "author": "clouddrover",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=33485824"
   }
 ]
