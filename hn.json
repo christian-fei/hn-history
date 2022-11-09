@@ -1,238 +1,242 @@
 [
   {
-    "title": "Binance to acquire FTX",
-    "url": "https://www.bloomberg.com/opinion/articles/2022-11-08/binance-s-zhao-sbf-ed-ftx-s-bankman-fried",
-    "upvotes": 438,
-    "author": "jmsflknr",
-    "comments": 513,
-    "link": "https://news.ycombinator.com/item?id=33520585"
+    "title": "A guide to error handling in Rust",
+    "url": "https://nrc.github.io/error-docs/",
+    "upvotes": 56,
+    "author": "nrc",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=33529147"
   },
   {
-    "title": "NightWare helps disrupt nightmares for those with PTSD",
-    "url": "https://www.apple.com/newsroom/2022/11/veterans-find-relief-from-nightmares-with-nightware-and-apple-watch/",
-    "upvotes": 257,
-    "author": "grogu88",
-    "comments": 171,
-    "link": "https://news.ycombinator.com/item?id=33522647"
+    "title": "Three new utility functions in C++23",
+    "url": "https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/",
+    "upvotes": 30,
+    "author": "todsacerdoti",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=33529048"
+  },
+  {
+    "title": "Let’s build a container runtime using only the chroot system call",
+    "url": "https://earthly.dev/blog/chroot/",
+    "upvotes": 363,
+    "author": "mmphosis",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=33526668"
+  },
+  {
+    "title": "Meta lays off 11,000 people",
+    "url": "https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/",
+    "upvotes": 294,
+    "author": "technics256",
+    "comments": 219,
+    "link": "https://news.ycombinator.com/item?id=33529838"
+  },
+  {
+    "title": "Writing down what I do – in Obsidian",
+    "url": "https://v5.chriskrycho.com/journal/writing-down-what-i-do-in-obsidian/",
+    "upvotes": 194,
+    "author": "larve",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=33527296"
+  },
+  {
+    "title": "My DIY ergonomic travel workstation with aluminum and magnets",
+    "url": "https://thume.ca/2022/11/06/diy-travel-work-setup/",
+    "upvotes": 121,
+    "author": "trishume",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=33527356"
+  },
+  {
+    "title": "An Animated Introduction to Elixir",
+    "url": "https://markm208.github.io/exbook/",
+    "upvotes": 193,
+    "author": "ingve",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=33503306"
+  },
+  {
+    "title": "AI and the Future of Pixel Art",
+    "url": "https://pixelparmesan.com/ai-and-the-future-of-pixel-art/",
+    "upvotes": 102,
+    "author": "aleyan",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=33527207"
+  },
+  {
+    "title": "A requiem for amateur chemistry",
+    "url": "https://lcamtuf.substack.com/p/a-requiem-for-amateur-chemistry",
+    "upvotes": 250,
+    "author": "walterbell",
+    "comments": 127,
+    "link": "https://news.ycombinator.com/item?id=33517520"
+  },
+  {
+    "title": "IodéOS Is Open Source",
+    "url": "https://iode.tech/en/news/iodeos-is-open-source/",
+    "upvotes": 29,
+    "author": "amaurino",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=33504306"
+  },
+  {
+    "title": "Stop using low DNS TTLs",
+    "url": "https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/",
+    "upvotes": 78,
+    "author": "doublepg23",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=33527642"
+  },
+  {
+    "title": "Tell HN: Emmet, the HTML editing plugin, gets $100k/yr in donations from casinos",
+    "url": "item?id=33529742",
+    "upvotes": 20,
+    "author": "sph",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=33529742"
+  },
+  {
+    "title": "App Store on iOS 14.6 sends every tap you make in the app to Apple",
+    "url": "https://twitter.com/mysk_co/status/1588308341780262912",
+    "upvotes": 216,
+    "author": "helical",
+    "comments": 145,
+    "link": "https://news.ycombinator.com/item?id=33520775"
+  },
+  {
+    "title": "Libsecded",
+    "url": "https://pqsrc.cr.yp.to/libsecded-20220828/README.html",
+    "upvotes": 80,
+    "author": "andutu",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=33517148"
+  },
+  {
+    "title": "In the 1990s a piece of Germany’s air traffic control software ran on Emacs",
+    "url": "https://old.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/",
+    "upvotes": 173,
+    "author": "NotYourLawyer",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=33524683"
+  },
+  {
+    "title": "Programming with DOS Debugger",
+    "url": "https://susam.net/blog/programming-with-dos-debugger.html",
+    "upvotes": 12,
+    "author": "susam",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=33517092"
   },
   {
     "title": "Recreating sci-fi terminals using VHS",
     "url": "https://blog.ldodds.com/2022/11/08/recreating-sci-fi-terminals-using-vhs/",
-    "upvotes": 88,
+    "upvotes": 200,
     "author": "zoenolan",
-    "comments": 18,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=33524389"
   },
   {
-    "title": "A Requiem for Amateur Chemistry",
-    "url": "https://lcamtuf.substack.com/p/a-requiem-for-amateur-chemistry",
-    "upvotes": 70,
-    "author": "walterbell",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=33517520"
-  },
-  {
-    "title": "Ntfy.sh – Send push notifications to your phone via PUT/POST",
-    "url": "https://ntfy.sh/",
-    "upvotes": 1002,
-    "author": "tambourine_man",
-    "comments": 253,
-    "link": "https://news.ycombinator.com/item?id=33517944"
-  },
-  {
-    "title": "Just don’t",
-    "url": "https://www.tbray.org/ongoing/When/202x/2022/11/07/Just-Dont",
-    "upvotes": 606,
-    "author": "moks",
-    "comments": 347,
-    "link": "https://news.ycombinator.com/item?id=33518496"
-  },
-  {
-    "title": "Undetectable very-low frequency sound increases dancing at a live concert",
-    "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(22)01535-4",
-    "upvotes": 267,
-    "author": "lamename",
-    "comments": 171,
-    "link": "https://news.ycombinator.com/item?id=33519700"
-  },
-  {
-    "title": "Launch HN: Medplum (YC S22) – Open-Source Firebase for Healthcare",
-    "url": "item?id=33521560",
-    "upvotes": 167,
-    "author": "brown",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=33521560"
-  },
-  {
-    "title": "Leaderless Teams",
-    "url": "https://www.brettmacfarlane.com/blog/2022/leadersless-teams",
-    "upvotes": 57,
-    "author": "mooreds",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=33523837"
-  },
-  {
-    "title": "M.2 for Hackers – Connectors",
-    "url": "https://hackaday.com/2022/11/03/m-2-for-hackers-connectors/",
-    "upvotes": 178,
-    "author": "rcarmo",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=33502675"
-  },
-  {
-    "title": "Unix as a tool forge and how Emacs fits in Unix philosophy",
-    "url": "https://lambdaland.org/posts/2022-11-07_unix_philosophy/",
-    "upvotes": 86,
-    "author": "ashton314",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=33522735"
+    "title": "Reverse Engineering Discord's Party Mode",
+    "url": "https://not-matthias.github.io/posts/discord-party-mode/",
+    "upvotes": 13,
+    "author": "not-matthias",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33521819"
   },
   {
     "title": "Show HN: Cozo – new Graph DB with Datalog, embedded like SQLite",
     "url": "https://github.com/cozodb/cozo",
-    "upvotes": 293,
+    "upvotes": 369,
     "author": "zh217",
-    "comments": 55,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=33518320"
   },
   {
-    "title": "Compound",
-    "url": "https://withcompound.com/company/about"
-  },
-  {
-    "title": "Medieval Bestiary",
-    "url": "https://bestiary.ca/",
-    "upvotes": 34,
-    "author": "rougka",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=33501620"
-  },
-  {
-    "title": "Differential Datalog: a programming language for incremental computation",
-    "url": "https://github.com/vmware/differential-datalog",
-    "upvotes": 106,
-    "author": "jitl",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=33521561"
-  },
-  {
-    "title": "Show HN: Helping laid-off people find their next job",
-    "url": "https://www.layoff-sucks.com/",
-    "upvotes": 66,
-    "author": "tracyhenry",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=33521407"
-  },
-  {
-    "title": "The influence of Self",
-    "url": "https://dubroy.com/blog/self/",
-    "upvotes": 43,
-    "author": "mpweiher",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=33502897"
-  },
-  {
-    "title": "What is an eigenvalue?",
-    "url": "https://nhigham.com/2022/11/08/what-is-an-eigenvalue/",
-    "upvotes": 178,
-    "author": "RafelMri",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=33517795"
-  },
-  {
-    "title": "Kindness, tech staffing and resource allocation",
-    "url": "https://redmonk.com/rstephens/2022/11/01/kindness-and-staffing/",
-    "upvotes": 107,
-    "author": "mooreds",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=33519837"
-  },
-  {
-    "title": "Dragon’s teeth – Stopping tanks in their tracks",
-    "url": "https://tankhistoria.com/cold-war/dragons-teeth/",
-    "upvotes": 138,
-    "author": "Kaibeezy",
-    "comments": 179,
-    "link": "https://news.ycombinator.com/item?id=33519048"
-  },
-  {
-    "title": "Inline caches in the Skybison Python runtime",
-    "url": "https://bernsteinbear.com/blog/inline-caches-in-skybison/",
-    "upvotes": 9,
-    "author": "todsacerdoti",
+    "title": "Z-Library Aftermath Reveals the Feds Seized Dozens of Domain Names",
+    "url": "https://torrentfreak.com/z-library-aftermath-reveals-that-the-feds-seized-dozens-of-domain-names-221107/",
+    "upvotes": 7,
+    "author": "mrzool",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33517871"
+    "link": "https://news.ycombinator.com/item?id=33530240"
   },
   {
-    "title": "Cryptographer's Way",
-    "url": "https://archive.org/details/cryptographers-way-bradford-hardie",
-    "upvotes": 4,
-    "author": "elahieh",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33517174"
+    "title": "Binance to acquire FTX",
+    "url": "https://www.bloomberg.com/opinion/articles/2022-11-08/binance-s-zhao-sbf-ed-ftx-s-bankman-fried",
+    "upvotes": 680,
+    "author": "jmsflknr",
+    "comments": 677,
+    "link": "https://news.ycombinator.com/item?id=33520585"
   },
   {
-    "title": "Show HN: All-SVG websites with complex animation",
-    "url": "https://svija.love/vibe",
-    "upvotes": 126,
-    "author": "AndrewSwift",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=33518845"
+    "title": "Launch HN: Medplum (YC S22) – Open-Source Firebase for Healthcare",
+    "url": "item?id=33521560",
+    "upvotes": 214,
+    "author": "brown",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=33521560"
   },
   {
-    "title": "AMD’s Zen 4, Part 2: Memory Subsystem and Conclusion",
-    "url": "https://chipsandcheese.com/2022/11/08/amds-zen-4-part-2-memory-subsystem-and-conclusion/",
-    "upvotes": 107,
-    "author": "zdw",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=33518751"
+    "title": "FlashDB: An ultra-lightweight embedded database",
+    "url": "https://armink.github.io/FlashDB/",
+    "upvotes": 50,
+    "author": "pantalaimon",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=33514402"
   },
   {
-    "title": "It's not Ruby that's slow, it's your database",
-    "url": "https://berk.es/2022/08/09/ruby-slow-database-slow/",
-    "upvotes": 17,
-    "author": "ksec",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=33524039"
-  },
-  {
-    "title": "Show HN: Metadocs, kinda like Reddit, but built into every documentation",
-    "url": "https://metadocs8.com/",
-    "upvotes": 60,
-    "author": "ritinkar",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=33518828"
-  },
-  {
-    "title": "Sam Bankman-Fried's $16B Fortune Is Eviscerated in Days",
-    "url": "https://www.bloomberg.com/news/articles/2022-11-08/sbf-net-worth-is-eviscerated-in-days-with-binance-set-to-buy-ftx",
-    "upvotes": 22,
-    "author": "VagueMag",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=33525732"
-  },
-  {
-    "title": "A Sun-like star orbiting a black hole",
-    "url": "https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac3140/6794289",
-    "upvotes": 125,
-    "author": "taubek",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=33518359"
-  },
-  {
-    "title": "50 years ago, an artist exhibited an invented Iron Age civilization",
-    "url": "https://theconversation.com/50-years-ago-an-artist-convincingly-exhibited-a-fake-iron-age-civilization-with-invented-maps-music-and-artifacts-189026",
-    "upvotes": 92,
-    "author": "benbreen",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=33498888"
-  },
-  {
-    "title": "Big data is at least four different problems",
-    "url": "https://www.youtube.com/watch?v=KRcecxdGxvQ",
+    "title": "How Aphex Twin Made Selected Ambient Works 85-92",
+    "url": "https://www.musicradar.com/news/how-aphex-twin-made-saw-85-92",
     "upvotes": 33,
-    "author": "brudgers",
+    "author": "initself",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33529405"
+  },
+  {
+    "title": "Is Web3 Bullshit?",
+    "url": "https://blog.mollywhite.net/is-web3-bullshit/",
+    "upvotes": 73,
+    "author": "pferde",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=33529097"
+  },
+  {
+    "title": "Why are glasses so expensive? The industry prefers to keep that blurry",
+    "url": "https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html",
+    "upvotes": 224,
+    "author": "joelkesler",
+    "comments": 187,
+    "link": "https://news.ycombinator.com/item?id=33525673"
+  },
+  {
+    "title": "Ntfy.sh – Send push notifications to your phone via PUT/POST",
+    "url": "https://ntfy.sh/",
+    "upvotes": 1204,
+    "author": "tambourine_man",
+    "comments": 276,
+    "link": "https://news.ycombinator.com/item?id=33517944"
+  },
+  {
+    "title": "‘The Philosophy of Modern Song’ Review: Bob Dylan Plays DJ",
+    "url": "https://www.wsj.com/articles/the-philosophy-of-modern-song-book-review-dylan-plays-dj-11667573278",
+    "upvotes": 4,
+    "author": "tintinnabula",
     "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33505624"
+    "link": "https://news.ycombinator.com/item?id=33508473"
+  },
+  {
+    "title": "TikTok’s greatest asset isn’t its algorithm, it’s your phone",
+    "url": "https://www.wired.com/story/tiktok-phones-extended-mind-philosophy/",
+    "upvotes": 141,
+    "author": "bookofjoe",
+    "comments": 169,
+    "link": "https://news.ycombinator.com/item?id=33526951"
+  },
+  {
+    "title": "Mark Zuckerberg confirms broad layoffs to begin at Meta",
+    "url": "https://www.theguardian.com/technology/2022/nov/08/meta-layoffs-facebook-mark-zuckerberg",
+    "upvotes": 148,
+    "author": "cadence-",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=33527344"
   }
 ]
