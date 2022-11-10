@@ -1,242 +1,238 @@
 [
   {
-    "title": "A guide to error handling in Rust",
-    "url": "https://nrc.github.io/error-docs/",
-    "upvotes": 56,
-    "author": "nrc",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=33529147"
+    "title": "Podman Desktop: A Free OSS Alternative to Docker Desktop",
+    "url": "https://podman-desktop.io",
+    "upvotes": 324,
+    "author": "twelvenmonkeys",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=33536978"
   },
   {
-    "title": "Three new utility functions in C++23",
-    "url": "https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/",
-    "upvotes": 30,
-    "author": "todsacerdoti",
+    "title": "Stretch iPhone to its limit: 2GiB Stable Diffusion model runs locally on device",
+    "url": "https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/",
+    "upvotes": 76,
+    "author": "GrantS",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=33539192"
+  },
+  {
+    "title": "The Age of PageRank Is Over",
+    "url": "https://blog.kagi.com/age-pagerank-over",
+    "upvotes": 254,
+    "author": "darthShadow",
+    "comments": 160,
+    "link": "https://news.ycombinator.com/item?id=33537513"
+  },
+  {
+    "title": "Web Automation: Don't Use Selenium, Use Playwright",
+    "url": "https://new.pythonforengineers.com/blog/web-automation-dont-use-selenium-use-playwright/",
+    "upvotes": 147,
+    "author": "rekahrv",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=33537772"
+  },
+  {
+    "title": "Why is Rosetta 2 fast?",
+    "url": "https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/",
+    "upvotes": 467,
+    "author": "pantalaimon",
+    "comments": 256,
+    "link": "https://news.ycombinator.com/item?id=33533132"
+  },
+  {
+    "title": "Thunderbird Supernova Preview: The New Calendar Design",
+    "url": "https://blog.thunderbird.net/2022/11/thunderbird-supernova-preview-the-new-calendar-design/",
+    "upvotes": 268,
+    "author": "HieronymusBosch",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=33534801"
+  },
+  {
+    "title": "Former CIA master of disguise helps disfigured people come out of hiding",
+    "url": "https://globalnews.ca/news/9224267/cia-master-of-disguise-helps-disfigured-people/",
+    "upvotes": 105,
+    "author": "gmays",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=33524556"
+  },
+  {
+    "title": "iOS 16.1.1 includes fixes for two libxml vulnerabilities",
+    "url": "https://support.apple.com/en-us/HT213505",
+    "upvotes": 40,
+    "author": "nateb2022",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=33539148"
+  },
+  {
+    "title": "We will not pursue the potential acquisition of FTX",
+    "url": "https://twitter.com/binance/status/1590449161069268992",
+    "upvotes": 284,
+    "author": "sbuccini",
+    "comments": 219,
+    "link": "https://news.ycombinator.com/item?id=33537821"
+  },
+  {
+    "title": "Binary Lambda Calculus",
+    "url": "https://tromp.github.io/cl/Binary_lambda_calculus.html",
+    "upvotes": 58,
+    "author": "tosh",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=33537663"
+  },
+  {
+    "title": "Solar Car Just Toured the US, and Will Start Production Next Year",
+    "url": "https://singularityhub.com/2022/11/09/this-solar-car-just-toured-the-us-and-will-start-production-next-year/",
+    "upvotes": 24,
+    "author": "cheinyeanlim",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=33539001"
+  },
+  {
+    "title": "Thoughts on Arc Browser",
+    "url": "https://chrishannah.me/arc-browser/",
+    "upvotes": 15,
+    "author": "chrishannah",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=33539549"
+  },
+  {
+    "title": "Launch HN: Metlo (YC S21) – Open-source software for securing your APIs",
+    "url": "item?id=33534856",
+    "upvotes": 80,
+    "author": "shrisukhani",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=33534856"
+  },
+  {
+    "title": "I strive to be a 0.1x Engineer",
+    "url": "https://benjiweber.co.uk/blog/2016/01/25/why-i-strive-to-be-a-0-1x-engineer/",
+    "upvotes": 6,
+    "author": "dgs_sgd",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33540164"
+  },
+  {
+    "title": "The Ascent of \"guy\"",
+    "url": "https://muse.jhu.edu/article/2705",
+    "upvotes": 14,
+    "author": "Kaibeezy",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=33523445"
+  },
+  {
+    "title": "Projects made with No- Code that got acquired",
+    "url": "https://www.nocode-exits.com/",
+    "upvotes": 12,
+    "author": "kattrisen",
     "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=33529048"
+    "link": "https://news.ycombinator.com/item?id=33539521"
   },
   {
-    "title": "Let’s build a container runtime using only the chroot system call",
-    "url": "https://earthly.dev/blog/chroot/",
-    "upvotes": 363,
-    "author": "mmphosis",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=33526668"
+    "title": "Zuckerberg's leaked email on VR strategy",
+    "url": "https://www.scribd.com/document/399594551/2015-06-22-MARK-S-VISION",
+    "upvotes": 20,
+    "author": "ppsreejith",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=33538742"
+  },
+  {
+    "title": "Crypto.com Halts Solana USDC and USDT Withdrawals",
+    "url": "https://www.coindesk.com/business/2022/11/09/cryptocom-halts-solana-usdc-and-usdt-deposits-withdrawals/",
+    "upvotes": 182,
+    "author": "Lionga",
+    "comments": 181,
+    "link": "https://news.ycombinator.com/item?id=33537595"
+  },
+  {
+    "title": "Remembering an “effervescently affable man”: Kurt Vonnegut at 100",
+    "url": "https://thecritic.co.uk/issues/november-2022/remembering-an-effervescently-affable-man/",
+    "upvotes": 8,
+    "author": "Caiero",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33539777"
+  },
+  {
+    "title": "Dabblers and Blowhards",
+    "url": "https://idlewords.com/2005/04/dabblers_and_blowhards.htm",
+    "upvotes": 33,
+    "author": "nivethan",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=33537629"
+  },
+  {
+    "title": "Ciro",
+    "url": "https://www.ycombinator.com/companies/ciro/jobs"
+  },
+  {
+    "title": "Fossil species found living off southern California; notes on the genus Cymatioa",
+    "url": "https://zookeys.pensoft.net/article/95139/",
+    "upvotes": 25,
+    "author": "bookofjoe",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=33538095"
+  },
+  {
+    "title": "Neurosymbolic Programming for Science",
+    "url": "https://arxiv.org/abs/2210.05050",
+    "upvotes": 47,
+    "author": "insider_7",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=33536657"
+  },
+  {
+    "title": "So long and thanks for all the bits",
+    "url": "https://www.ncsc.gov.uk/blog-post/so-long-thanks-for-all-the-bits",
+    "upvotes": 197,
+    "author": "fangorn",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=33531560"
   },
   {
     "title": "Meta lays off 11,000 people",
     "url": "https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/",
-    "upvotes": 294,
+    "upvotes": 1897,
     "author": "technics256",
-    "comments": 219,
+    "comments": 1800,
     "link": "https://news.ycombinator.com/item?id=33529838"
   },
   {
-    "title": "Writing down what I do – in Obsidian",
-    "url": "https://v5.chriskrycho.com/journal/writing-down-what-i-do-in-obsidian/",
-    "upvotes": 194,
-    "author": "larve",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=33527296"
+    "title": "Imperative configs are out; Declarative configs are in",
+    "url": "https://www.prodvana.io/blog/declarative-configs",
+    "upvotes": 103,
+    "author": "ayf",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=33535807"
   },
   {
-    "title": "My DIY ergonomic travel workstation with aluminum and magnets",
-    "url": "https://thume.ca/2022/11/06/diy-travel-work-setup/",
-    "upvotes": 121,
-    "author": "trishume",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=33527356"
+    "title": "Warren Calls Out Wells Fargo and Zelle for “Evasive” Responses about Fraud",
+    "url": "https://www.warren.senate.gov/oversight/letters/warren-calls-out-wells-fargo-and-zelle-for-evasive-inaccurate-and-misleading-responses-about-fraud-and-scams-on-zelle-calls-for-companies-to-publicly-release-all-data-on-zelle-fraud-and-scams",
+    "upvotes": 40,
+    "author": "rntn",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=33539701"
   },
   {
-    "title": "An Animated Introduction to Elixir",
-    "url": "https://markm208.github.io/exbook/",
-    "upvotes": 193,
-    "author": "ingve",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=33503306"
+    "title": "The Quest for a Fusion Drive",
+    "url": "https://orbitalindex.com/archive/2022-11-09-Issue-193/",
+    "upvotes": 65,
+    "author": "tectonic",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=33534549"
   },
   {
-    "title": "AI and the Future of Pixel Art",
-    "url": "https://pixelparmesan.com/ai-and-the-future-of-pixel-art/",
-    "upvotes": 102,
-    "author": "aleyan",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=33527207"
+    "title": "Ask HN: Could someone with a Gmail account file a Chromium bug report for me?",
+    "url": "item?id=33540012",
+    "upvotes": 8,
+    "author": "yakubin",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=33540012"
   },
   {
-    "title": "A requiem for amateur chemistry",
-    "url": "https://lcamtuf.substack.com/p/a-requiem-for-amateur-chemistry",
-    "upvotes": 250,
-    "author": "walterbell",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=33517520"
-  },
-  {
-    "title": "IodéOS Is Open Source",
-    "url": "https://iode.tech/en/news/iodeos-is-open-source/",
+    "title": "Find your way through the x86 firmware maze",
+    "url": "https://www.linux-kvm.org/images/f/fa/Kvm-forum-2013-firmware.pdf",
     "upvotes": 29,
-    "author": "amaurino",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=33504306"
-  },
-  {
-    "title": "Stop using low DNS TTLs",
-    "url": "https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/",
-    "upvotes": 78,
-    "author": "doublepg23",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=33527642"
-  },
-  {
-    "title": "Tell HN: Emmet, the HTML editing plugin, gets $100k/yr in donations from casinos",
-    "url": "item?id=33529742",
-    "upvotes": 20,
-    "author": "sph",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=33529742"
-  },
-  {
-    "title": "App Store on iOS 14.6 sends every tap you make in the app to Apple",
-    "url": "https://twitter.com/mysk_co/status/1588308341780262912",
-    "upvotes": 216,
-    "author": "helical",
-    "comments": 145,
-    "link": "https://news.ycombinator.com/item?id=33520775"
-  },
-  {
-    "title": "Libsecded",
-    "url": "https://pqsrc.cr.yp.to/libsecded-20220828/README.html",
-    "upvotes": 80,
-    "author": "andutu",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=33517148"
-  },
-  {
-    "title": "In the 1990s a piece of Germany’s air traffic control software ran on Emacs",
-    "url": "https://old.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/",
-    "upvotes": 173,
-    "author": "NotYourLawyer",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=33524683"
-  },
-  {
-    "title": "Programming with DOS Debugger",
-    "url": "https://susam.net/blog/programming-with-dos-debugger.html",
-    "upvotes": 12,
     "author": "susam",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=33517092"
-  },
-  {
-    "title": "Recreating sci-fi terminals using VHS",
-    "url": "https://blog.ldodds.com/2022/11/08/recreating-sci-fi-terminals-using-vhs/",
-    "upvotes": 200,
-    "author": "zoenolan",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=33524389"
-  },
-  {
-    "title": "Reverse Engineering Discord's Party Mode",
-    "url": "https://not-matthias.github.io/posts/discord-party-mode/",
-    "upvotes": 13,
-    "author": "not-matthias",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33521819"
-  },
-  {
-    "title": "Show HN: Cozo – new Graph DB with Datalog, embedded like SQLite",
-    "url": "https://github.com/cozodb/cozo",
-    "upvotes": 369,
-    "author": "zh217",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=33518320"
-  },
-  {
-    "title": "Z-Library Aftermath Reveals the Feds Seized Dozens of Domain Names",
-    "url": "https://torrentfreak.com/z-library-aftermath-reveals-that-the-feds-seized-dozens-of-domain-names-221107/",
-    "upvotes": 7,
-    "author": "mrzool",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=33530240"
-  },
-  {
-    "title": "Binance to acquire FTX",
-    "url": "https://www.bloomberg.com/opinion/articles/2022-11-08/binance-s-zhao-sbf-ed-ftx-s-bankman-fried",
-    "upvotes": 680,
-    "author": "jmsflknr",
-    "comments": 677,
-    "link": "https://news.ycombinator.com/item?id=33520585"
-  },
-  {
-    "title": "Launch HN: Medplum (YC S22) – Open-Source Firebase for Healthcare",
-    "url": "item?id=33521560",
-    "upvotes": 214,
-    "author": "brown",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=33521560"
-  },
-  {
-    "title": "FlashDB: An ultra-lightweight embedded database",
-    "url": "https://armink.github.io/FlashDB/",
-    "upvotes": 50,
-    "author": "pantalaimon",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=33514402"
-  },
-  {
-    "title": "How Aphex Twin Made Selected Ambient Works 85-92",
-    "url": "https://www.musicradar.com/news/how-aphex-twin-made-saw-85-92",
-    "upvotes": 33,
-    "author": "initself",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=33529405"
-  },
-  {
-    "title": "Is Web3 Bullshit?",
-    "url": "https://blog.mollywhite.net/is-web3-bullshit/",
-    "upvotes": 73,
-    "author": "pferde",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=33529097"
-  },
-  {
-    "title": "Why are glasses so expensive? The industry prefers to keep that blurry",
-    "url": "https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html",
-    "upvotes": 224,
-    "author": "joelkesler",
-    "comments": 187,
-    "link": "https://news.ycombinator.com/item?id=33525673"
-  },
-  {
-    "title": "Ntfy.sh – Send push notifications to your phone via PUT/POST",
-    "url": "https://ntfy.sh/",
-    "upvotes": 1204,
-    "author": "tambourine_man",
-    "comments": 276,
-    "link": "https://news.ycombinator.com/item?id=33517944"
-  },
-  {
-    "title": "‘The Philosophy of Modern Song’ Review: Bob Dylan Plays DJ",
-    "url": "https://www.wsj.com/articles/the-philosophy-of-modern-song-book-review-dylan-plays-dj-11667573278",
-    "upvotes": 4,
-    "author": "tintinnabula",
     "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=33508473"
-  },
-  {
-    "title": "TikTok’s greatest asset isn’t its algorithm, it’s your phone",
-    "url": "https://www.wired.com/story/tiktok-phones-extended-mind-philosophy/",
-    "upvotes": 141,
-    "author": "bookofjoe",
-    "comments": 169,
-    "link": "https://news.ycombinator.com/item?id=33526951"
-  },
-  {
-    "title": "Mark Zuckerberg confirms broad layoffs to begin at Meta",
-    "url": "https://www.theguardian.com/technology/2022/nov/08/meta-layoffs-facebook-mark-zuckerberg",
-    "upvotes": 148,
-    "author": "cadence-",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=33527344"
+    "link": "https://news.ycombinator.com/item?id=33537180"
   }
 ]
